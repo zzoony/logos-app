@@ -1,0 +1,10 @@
+# Bible Vocabulary Pipeline Dependencies
+
+# NLP
+nltk>=3.8
+
+# Optional: Advanced NER (uncomment if needed)
+# spacy>=3.7
+
+# Utilities
+tqdm>=4.66

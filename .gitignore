@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Pipeline output (generated files)
+pipeline/output/
+
+# IDE
+.idea/
+.vscode/
+*.swp
