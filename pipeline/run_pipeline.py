@@ -7,14 +7,15 @@ from pathlib import Path
 
 def run_step(script_name: str) -> bool:
     """Run a pipeline step and return success status."""
-    script_path = Path(__file__).parent / script_name
+    scripts_dir = Path(__file__).parent / "scripts"
+    script_path = scripts_dir / script_name
     print(f"\n{'='*60}")
     print(f"Running {script_name}...")
     print("=" * 60)
 
     result = subprocess.run(
         [sys.executable, str(script_path)],
-        cwd=script_path.parent,
+        cwd=scripts_dir,
     )
 
     return result.returncode == 0

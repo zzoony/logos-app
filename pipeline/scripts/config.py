@@ -3,7 +3,8 @@
 from pathlib import Path
 
 # Paths
-PIPELINE_DIR = Path(__file__).parent
+SCRIPTS_DIR = Path(__file__).parent
+PIPELINE_DIR = SCRIPTS_DIR.parent
 SOURCE_DATA_DIR = PIPELINE_DIR / "source-data"
 DATA_DIR = PIPELINE_DIR / "data"
 OUTPUT_DIR = PIPELINE_DIR / "output"
