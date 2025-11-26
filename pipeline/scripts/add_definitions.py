@@ -1,4 +1,9 @@
-"""Step 6: Add pronunciation and Korean definitions to vocabulary."""
+"""Step 6: Add pronunciation and Korean definitions to vocabulary.
+
+Requirements:
+    - Claude CLI must be installed and available in PATH
+      (https://docs.anthropic.com/en/docs/claude-cli)
+"""
 
 import argparse
 import json
@@ -32,6 +37,8 @@ def log(message: str, level: str = "INFO") -> None:
 def load_vocabulary() -> dict:
     """Load vocabulary with sentences."""
     log(f"Loading vocabulary from {INPUT_PATH}")
+    if not INPUT_PATH.exists():
+        raise FileNotFoundError(f"Input file not found: {INPUT_PATH}")
     with open(INPUT_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -107,12 +114,14 @@ def process_batch(batch_info: tuple) -> tuple[int, list, list]:
         return (batch_index, results, failed)
 
     except subprocess.TimeoutExpired:
+        log(f"Batch {batch_index} timed out after {CLAUDE_TIMEOUT}s", "WARN")
         return (batch_index, [], words)
-    except Exception as e:
+    except Exception:
+        log(f"Batch {batch_index} failed with unexpected error", "WARN")
         return (batch_index, [], words)
 
 
-def add_definitions(vocabulary: dict, limit: int = None) -> dict:
+def add_definitions(vocabulary: dict, limit: int | None = None) -> dict:
     """Add definitions to all vocabulary words."""
     words_data = vocabulary["words"]
 
@@ -188,11 +197,16 @@ def add_definitions(vocabulary: dict, limit: int = None) -> dict:
             batch_words = all_failed[i:i + BATCH_SIZE]
             retry_batches.append((len(retry_batches), batch_words))
 
+        retry_failed = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             futures = list(executor.map(process_batch, retry_batches))
-            for idx, results, failed in futures:
+            for _, results, failed in futures:
                 for r in results:
                     all_definitions[r["word"]] = r
+                retry_failed.extend(failed)
+
+        if retry_failed:
+            log(f"Still failed after retry: {len(retry_failed)} words", "WARN")
 
     # Merge definitions into vocabulary
     log("Merging definitions into vocabulary...")
@@ -233,7 +247,7 @@ def add_definitions(vocabulary: dict, limit: int = None) -> dict:
     }
 
 
-def save_output(vocabulary: dict, output_path: Path = None) -> None:
+def save_output(vocabulary: dict, output_path: Path | None = None) -> None:
     """Save final vocabulary to JSON."""
     path = output_path or OUTPUT_PATH
     with open(path, "w", encoding="utf-8") as f:
