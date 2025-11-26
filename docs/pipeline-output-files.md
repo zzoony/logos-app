@@ -22,7 +22,8 @@ pipeline/
 │       ├── filtered_proper_nouns.json
 │       ├── bible_vocabulary.json
 │       ├── sentences.json
-│       └── bible_vocabulary_with_sentences.json
+│       ├── bible_vocabulary_with_sentences.json
+│       └── bible_vocabulary_final.json  # 발음/뜻 포함 최종본
 └── source-data/
     └── {VERSION}_Bible.json       # 원본 성경 데이터
 ```
@@ -68,7 +69,7 @@ pipeline/
 │ - 빈도순 정렬 및 순위(rank) 부여                              │
 └─────────────────────────────────────────────────────────────┘
       ↓
-   output/{version}/bible_vocabulary.json (4,930 words) ← 최종 결과
+   output/{version}/bible_vocabulary.json (4,930 words)
       ↓
 ┌─────────────────────────────────────────────────────────────┐
 │ Step 5: extract_sentences.py (선택사항)                      │
@@ -78,6 +79,23 @@ pipeline/
       ↓
    output/{version}/sentences.json
    output/{version}/bible_vocabulary_with_sentences.json
+      ↓
+┌─────────────────────────────────────────────────────────────┐
+│ Step 6: add_definitions.py                                  │
+│ - Claude Haiku를 이용한 발음/뜻 자동 생성                     │
+│ - IPA 발음기호, 한글 발음, 한국어 뜻 추가                      │
+│ - 배치 처리 (50개/요청) + 병렬 처리 (10개 동시)               │
+└─────────────────────────────────────────────────────────────┘
+      ↓
+   output/{version}/bible_vocabulary_final.json ← 최종 결과
+      ↓
+┌─────────────────────────────────────────────────────────────┐
+│ Step 7: validate_definitions.py (검증)                      │
+│ - IPA 발음기호 형식 검증                                      │
+│ - 한글 발음 검증 (원어 혼입 감지)                             │
+│ - 한국어 뜻 검증                                             │
+│ - Free Dictionary API로 IPA 정확도 샘플 검증 (선택)          │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ## 사용법
@@ -92,6 +110,16 @@ python3 run_pipeline.py --version esv
 
 # 문장 추출 포함
 python3 run_pipeline.py --version niv --with-sentences
+
+# 발음/뜻 생성 (Step 6)
+cd pipeline/scripts
+python3 add_definitions.py                    # 전체 실행
+python3 add_definitions.py --test 100         # 테스트 (100개만)
+
+# 검증 (Step 7)
+python3 validate_definitions.py               # 기본 검증 (API 샘플 50개)
+python3 validate_definitions.py --api-sample 0   # API 검증 없이 빠른 검증
+python3 validate_definitions.py --api-sample 100 # API 샘플 100개로 검증
 ```
 
 ## 파일 설명
@@ -112,28 +140,10 @@ python3 run_pipeline.py --version niv --with-sentences
 - **제거 대상**: Israel, Jesus, David, Moses, Jerusalem, Egypt 등
 - **보호 대상**: lord, god, king, son, father, temple, covenant 등
 
-### 4. `bible_vocabulary.json` (최종)
+### 4. `bible_vocabulary.json`
 - **생성**: `finalize.py`
-- **내용**: 단어장 앱에서 사용할 최종 데이터
+- **내용**: 기본 단어장 데이터
 - **특징**: 빈도순 정렬, 순위(rank) 포함
-
-```json
-{
-  "metadata": {
-    "source": "New International Version",
-    "extraction_date": "2025-11-26",
-    "total_unique_words": 4930,
-    "total_occurrences": 244907,
-    "filters_applied": ["stopwords", "proper_nouns", "min_length_2", "min_frequency_2"]
-  },
-  "words": [
-    {"word": "lord", "count": 7864, "rank": 1},
-    {"word": "god", "count": 4527, "rank": 2},
-    {"word": "son", "count": 3131, "rank": 3},
-    ...
-  ]
-}
-```
 
 ### 5. `sentences.json` (선택)
 - **생성**: `extract_sentences.py`
@@ -142,7 +152,70 @@ python3 run_pipeline.py --version niv --with-sentences
 
 ### 6. `bible_vocabulary_with_sentences.json` (선택)
 - **생성**: `extract_sentences.py`
-- **내용**: 최종 단어장 + 예문 ID 매핑
+- **내용**: 단어장 + 예문 ID 매핑
+
+### 7. `bible_vocabulary_final.json` (최종)
+- **생성**: `add_definitions.py`
+- **내용**: 발음기호, 한글 발음, 한국어 뜻이 포함된 최종 단어장
+
+```json
+{
+  "metadata": {
+    "source": "New International Version",
+    "extraction_date": "2025-11-26",
+    "total_unique_words": 4930,
+    "definitions_added": true,
+    "definitions_count": 4930,
+    "processing_date": "2025-11-26 11:28:57"
+  },
+  "words": [
+    {
+      "word": "lord",
+      "count": 7864,
+      "rank": 1,
+      "sentence_ids": ["psalms-18-1", "isaiah-37-15", ...],
+      "ipa_pronunciation": "[lɔːrd]",
+      "korean_pronunciation": "로드",
+      "definition_korean": "주인, 영주, 주님"
+    },
+    ...
+  ]
+}
+```
+
+## 검증 (validate_definitions.py)
+
+발음과 뜻 생성 후 품질을 검증합니다.
+
+### 검증 항목
+
+| 항목 | 설명 |
+|------|------|
+| **IPA 형식** | `[` 또는 `/`로 시작하는지, 원어(히브리어/그리스어) 혼입 여부 |
+| **한글 발음** | 영어/특수문자 혼입 여부, 원어 패턴 감지 |
+| **한국어 뜻** | 비어있거나 너무 짧은지 |
+| **API 검증** | Free Dictionary API로 IPA 정확도 샘플 검증 |
+
+### 검증 출력 예시
+
+```
+============================================================
+VALIDATION REPORT
+============================================================
+
+Total words: 4930
+
+--- Summary ---
+IPA issues: 0
+Korean pronunciation issues: 0
+Definition issues: 0
+Empty fields: 0
+API mismatches: 2
+
+============================================================
+✅ All validations passed!
+============================================================
+```
 
 ## 단어 수 변화 (NIV 기준)
 
@@ -152,6 +225,7 @@ python3 run_pipeline.py --version niv --with-sentences
 | Step 2 | filtered_stopwords.json | 9,471 | -170 |
 | Step 3 | filtered_proper_nouns.json | 6,625 | -2,846 |
 | Step 4 | bible_vocabulary.json | 4,930 | -1,695 |
+| Step 6 | bible_vocabulary_final.json | 4,930 | +발음/뜻 |
 
 ## 설정 파일
 
@@ -178,3 +252,4 @@ python3 run_pipeline.py --version niv --with-sentences
 - 파이프라인을 다시 실행하면 파일들이 덮어씌워집니다.
 - 중간 파일들은 디버깅 및 검증 목적으로 유지됩니다.
 - 새 버전 추가 시: `configs/{version}.json`과 `data/{version}/` 폴더 생성 필요
+- 발음/뜻 생성 후에는 반드시 `validate_definitions.py`로 검증하세요.
