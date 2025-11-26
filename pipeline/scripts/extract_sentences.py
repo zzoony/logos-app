@@ -23,14 +23,24 @@ MIN_SENTENCE_LENGTH = 30   # Skip very short verses
 
 def load_bible() -> dict:
     """Load NIV Bible JSON file."""
-    with open(BIBLE_JSON_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(BIBLE_JSON_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        raise FileNotFoundError(f"Bible file not found: {BIBLE_JSON_PATH}")
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Invalid JSON in Bible file: {e}")
 
 
 def load_vocabulary() -> dict:
     """Load processed vocabulary."""
-    with open(FINAL_OUTPUT_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(FINAL_OUTPUT_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        raise FileNotFoundError(f"Vocabulary file not found: {FINAL_OUTPUT_PATH}")
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Invalid JSON in vocabulary file: {e}")
 
 
 def generate_sentence_id(book: str, chapter: str, verse: str) -> str:
@@ -40,32 +50,42 @@ def generate_sentence_id(book: str, chapter: str, verse: str) -> str:
 
 
 def get_word_variants(word: str) -> set:
-    """Generate common word variants (plurals, verb forms, etc.)."""
+    """Generate common word variants (plurals, verb forms, etc.).
+
+    Uses improved English morphology rules to avoid invalid forms.
+    """
     variants = {word}
 
-    # Common suffixes for nouns (plural)
-    if not word.endswith("s"):
-        variants.add(word + "s")
-        variants.add(word + "es")
+    # Skip very short words
+    if len(word) < 2:
+        return variants
 
-    # Common suffixes for verbs
+    # Plural forms (improved rules)
+    if not word.endswith("s"):
+        if word.endswith(("s", "x", "z", "ch", "sh")):
+            variants.add(word + "es")
+        elif word.endswith("y") and len(word) > 1 and word[-2] not in "aeiou":
+            variants.add(word[:-1] + "ies")
+        else:
+            variants.add(word + "s")
+
+    # Past tense (-ed) forms
     if not word.endswith("ed"):
-        variants.add(word + "ed")
         if word.endswith("e"):
             variants.add(word + "d")
+        elif word.endswith("y") and len(word) > 1 and word[-2] not in "aeiou":
+            variants.add(word[:-1] + "ied")
+        else:
+            variants.add(word + "ed")
 
+    # Progressive (-ing) forms
     if not word.endswith("ing"):
-        if word.endswith("e"):
+        if word.endswith("e") and not word.endswith("ee"):
             variants.add(word[:-1] + "ing")
+        elif word.endswith("ie"):
+            variants.add(word[:-2] + "ying")
         else:
             variants.add(word + "ing")
-
-    # -er, -est for adjectives
-    variants.add(word + "er")
-    variants.add(word + "est")
-
-    # -ly for adverbs
-    variants.add(word + "ly")
 
     return variants
 
