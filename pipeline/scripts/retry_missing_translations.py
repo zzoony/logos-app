@@ -4,13 +4,14 @@ from __future__ import annotations
 
 import json
 import subprocess
-import re
 import time
 import concurrent.futures
 from datetime import datetime
 from pathlib import Path
 
 from config import VERSION_OUTPUT_DIR
+from utils import log
+from translation_utils import create_translation_prompt, extract_json_from_response
 
 # Input/Output files
 INPUT_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
@@ -22,47 +23,11 @@ CLAUDE_MODEL = "haiku"
 CLAUDE_TIMEOUT = 180  # Longer timeout
 
 
-def log(message: str, level: str = "INFO") -> None:
-    """Print timestamped log message."""
-    timestamp = datetime.now().strftime("%H:%M:%S")
-    print(f"[{timestamp}] [{level}] {message}")
-
-
-def create_prompt(sentences: list[tuple[str, str, str]]) -> str:
-    """Create prompt for Claude to translate sentences."""
-    verses_text = "\n".join([
-        f'{i+1}. "{text}" ({ref})'
-        for i, (_, text, ref) in enumerate(sentences)
-    ])
-
-    return f"""Translate these Bible verses to Korean. Return JSON array ONLY (no markdown, no explanation):
-
-Verses:
-{verses_text}
-
-Response format:
-[
-  {{"id": 1, "korean": "한글 번역"}},
-  ...
-]"""
-
-
-def extract_json_from_response(response: str) -> list:
-    """Extract JSON array from Claude response."""
-    match = re.search(r'\[[\s\S]*\]', response)
-    if match:
-        try:
-            return json.loads(match.group())
-        except json.JSONDecodeError:
-            pass
-    return []
-
-
 def process_batch(batch_info: tuple) -> tuple[int, dict, list]:
     """Process a batch of sentences with Claude CLI."""
     batch_index, sentences = batch_info
 
-    prompt = create_prompt(sentences)
+    prompt = create_translation_prompt(sentences)
 
     try:
         result = subprocess.run(

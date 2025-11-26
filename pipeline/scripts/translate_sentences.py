@@ -10,13 +10,14 @@ from __future__ import annotations
 import argparse
 import json
 import subprocess
-import re
 import time
 import concurrent.futures
 from datetime import datetime
 from pathlib import Path
 
 from config import VERSION_OUTPUT_DIR, VERSION_NAME
+from utils import log
+from translation_utils import create_translation_prompt, extract_json_from_response
 
 # Input/Output files
 INPUT_PATH = VERSION_OUTPUT_DIR / "step5_sentences.json"
@@ -29,12 +30,6 @@ CLAUDE_MODEL = "haiku"
 CLAUDE_TIMEOUT = 120  # seconds
 
 
-def log(message: str, level: str = "INFO") -> None:
-    """Print timestamped log message."""
-    timestamp = datetime.now().strftime("%H:%M:%S")
-    print(f"[{timestamp}] [{level}] {message}")
-
-
 def load_sentences() -> dict:
     """Load sentences file."""
     log(f"Loading sentences from {INPUT_PATH}")
@@ -44,41 +39,6 @@ def load_sentences() -> dict:
         return json.load(f)
 
 
-def create_prompt(sentences: list[tuple[str, str, str]]) -> str:
-    """Create prompt for Claude to translate sentences.
-
-    Args:
-        sentences: List of (id, text, ref) tuples
-    """
-    verses_text = "\n".join([
-        f'{i+1}. "{text}" ({ref})'
-        for i, (_, text, ref) in enumerate(sentences)
-    ])
-
-    return f"""Translate these Bible verses to Korean. Return JSON array ONLY (no markdown, no explanation):
-
-Verses:
-{verses_text}
-
-Response format:
-[
-  {{"id": 1, "korean": "한글 번역"}},
-  ...
-]"""
-
-
-def extract_json_from_response(response: str) -> list:
-    """Extract JSON array from Claude response."""
-    # Try to find JSON array in response
-    match = re.search(r'\[[\s\S]*\]', response)
-    if match:
-        try:
-            return json.loads(match.group())
-        except json.JSONDecodeError:
-            pass
-    return []
-
-
 def process_batch(batch_info: tuple) -> tuple[int, dict, list]:
     """Process a batch of sentences with Claude CLI.
 
@@ -86,7 +46,7 @@ def process_batch(batch_info: tuple) -> tuple[int, dict, list]:
     """
     batch_index, sentences = batch_info
 
-    prompt = create_prompt(sentences)
+    prompt = create_translation_prompt(sentences)
 
     try:
         result = subprocess.run(
@@ -224,13 +184,16 @@ def translate_sentences(data: dict, limit: int | None = None) -> dict:
         if retry_failed:
             log(f"Still failed after retry: {len(retry_failed)} sentences", "WARN")
 
+    # Build set of processed sentence IDs for limit mode
+    processed_ids = {s[0] for s in sentences_list} if limit else None
+
     # Merge translations into sentences
     log("Merging translations into sentences...")
     updated_sentences = {}
     success_count = 0
 
     for sent_id, sent_data in sentences_dict.items():
-        if limit and sent_id not in dict([(s[0], s) for s in sentences_list]):
+        if limit and sent_id not in processed_ids:
             continue
 
         if sent_id in all_translations:

@@ -12,10 +12,10 @@ from __future__ import annotations
 import argparse
 import json
 import re
-from datetime import datetime
 from pathlib import Path
 
 from config import VERSION_OUTPUT_DIR
+from utils import log
 
 # Input file
 INPUT_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
@@ -24,12 +24,6 @@ INPUT_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
 ENGLISH_WORD_PATTERN = re.compile(r'[a-zA-Z]{3,}')
 KOREAN_REF_PATTERN = re.compile(r'\([가-힣]+\s*\d+:\d+\)')
 ENGLISH_REF_PATTERN = re.compile(r'\([A-Za-z]+\s*\d+:\d+\)')
-
-
-def log(message: str, level: str = "INFO") -> None:
-    """Print timestamped log message."""
-    timestamp = datetime.now().strftime("%H:%M:%S")
-    print(f"[{timestamp}] [{level}] {message}")
 
 
 def load_sentences() -> dict:
