@@ -22,17 +22,17 @@ class WordCardBack extends StatelessWidget {
       width: double.infinity,
       padding: const EdgeInsets.all(24),
       decoration: BoxDecoration(
-        color: isDark ? AppColors.darkCardBackground : AppColors.lightCardBackground,
+        color: isDark
+            ? const Color(0xFF2C2C2E)
+            : const Color(0xFFF5F0E8), // 따뜻한 베이지
         borderRadius: BorderRadius.circular(20),
-        boxShadow: isDark
-            ? null
-            : [
-                BoxShadow(
-                  color: Colors.black.withOpacity(0.08),
-                  blurRadius: 20,
-                  offset: const Offset(0, 8),
-                ),
-              ],
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(isDark ? 0.3 : 0.1),
+            blurRadius: 20,
+            offset: const Offset(0, 8),
+          ),
+        ],
       ),
       child: SingleChildScrollView(
         child: Column(
@@ -50,19 +50,33 @@ class WordCardBack extends StatelessWidget {
             ],
             // Korean pronunciation
             if (word.koreanPronunciation != null) ...[
-              Text(
-                word.koreanPronunciation!,
-                style: AppTypography.koreanPronunciation.copyWith(
+              Container(
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 12,
+                  vertical: 6,
+                ),
+                decoration: BoxDecoration(
                   color: isDark
-                      ? AppColors.darkTextSecondary
-                      : AppColors.lightTextSecondary,
+                      ? Colors.white.withOpacity(0.1)
+                      : const Color(0xFFE8DFD0),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: Text(
+                  word.koreanPronunciation!,
+                  style: AppTypography.koreanPronunciation.copyWith(
+                    color: isDark
+                        ? AppColors.darkTextSecondary
+                        : const Color(0xFF8B7355),
+                  ),
                 ),
               ),
               const SizedBox(height: 16),
             ],
             // Divider
             Divider(
-              color: isDark ? AppColors.darkDivider : AppColors.lightDivider,
+              color: isDark
+                  ? AppColors.darkDivider
+                  : const Color(0xFFD4C9B8),
             ),
             const SizedBox(height: 16),
             // Example sentence
@@ -82,15 +96,27 @@ class WordCardBack extends StatelessWidget {
                 style: AppTypography.bodyLarge.copyWith(
                   color: isDark
                       ? AppColors.darkTextSecondary
-                      : AppColors.lightTextSecondary,
+                      : const Color(0xFF6B5B4F),
                 ),
               ),
               const SizedBox(height: 12),
               // Bible reference
-              Text(
-                '- ${sentence!.ref}',
-                style: AppTypography.bibleReference.copyWith(
-                  color: AppColors.mint,
+              Container(
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 10,
+                  vertical: 4,
+                ),
+                decoration: BoxDecoration(
+                  color: isDark
+                      ? AppColors.mint.withOpacity(0.15)
+                      : AppColors.cardBeigeDark,
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: Text(
+                  sentence!.ref,
+                  style: AppTypography.bibleReference.copyWith(
+                    color: isDark ? AppColors.mint : AppColors.cardBrown,
+                  ),
                 ),
               ),
             ] else ...[
@@ -99,7 +125,7 @@ class WordCardBack extends StatelessWidget {
                 style: AppTypography.bodyLarge.copyWith(
                   color: isDark
                       ? AppColors.darkTextSecondary
-                      : AppColors.lightTextSecondary,
+                      : const Color(0xFF8B7355),
                 ),
               ),
             ],

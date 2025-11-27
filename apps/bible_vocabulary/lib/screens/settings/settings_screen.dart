@@ -20,55 +20,158 @@ class SettingsScreen extends ConsumerWidget {
       body: ListView(
         padding: const EdgeInsets.all(16),
         children: [
-          Card(
-            child: Column(
-              children: [
-                ListTile(
-                  leading: Icon(
-                    isDark ? Icons.dark_mode : Icons.light_mode,
-                    color: AppColors.mint,
-                  ),
-                  title: const Text('테마'),
-                  subtitle: Text(_getThemeModeText(themeMode)),
-                  trailing: const Icon(Icons.chevron_right),
-                  onTap: () => _showThemeDialog(context, ref, themeMode),
-                ),
-              ],
-            ),
+          _buildSettingsCard(
+            context: context,
+            isDark: isDark,
+            accentColor: AppColors.mint,
+            icon: isDark ? Icons.dark_mode : Icons.light_mode,
+            title: '테마',
+            subtitle: _getThemeModeText(themeMode),
+            onTap: () => _showThemeDialog(context, ref, themeMode),
           ),
           const SizedBox(height: 16),
-          Card(
-            child: Column(
-              children: [
-                ListTile(
-                  leading: Icon(
-                    Icons.refresh_rounded,
-                    color: AppColors.orange,
-                  ),
-                  title: const Text('데이터 새로고침'),
-                  subtitle: const Text('단어 및 예문 데이터 다시 불러오기'),
-                  trailing: const Icon(Icons.chevron_right),
-                  onTap: () => _showRefreshDialog(context, ref),
-                ),
-              ],
-            ),
+          _buildSettingsCard(
+            context: context,
+            isDark: isDark,
+            accentColor: AppColors.orange,
+            icon: Icons.refresh_rounded,
+            title: '데이터 새로고침',
+            subtitle: '단어 및 예문 데이터 다시 불러오기',
+            onTap: () => _showRefreshDialog(context, ref),
           ),
           const SizedBox(height: 16),
-          Card(
-            child: Column(
-              children: [
-                ListTile(
-                  leading: Icon(
-                    Icons.info_outline,
-                    color: AppColors.purple,
-                  ),
-                  title: const Text('앱 버전'),
-                  subtitle: const Text('0.1.0'),
-                ),
-              ],
-            ),
+          _buildSettingsCard(
+            context: context,
+            isDark: isDark,
+            accentColor: AppColors.purple,
+            icon: Icons.info_outline,
+            title: '앱 버전',
+            subtitle: '0.1.0',
+            showChevron: false,
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildSettingsCard({
+    required BuildContext context,
+    required bool isDark,
+    required Color accentColor,
+    required IconData icon,
+    required String title,
+    required String subtitle,
+    VoidCallback? onTap,
+    bool showChevron = true,
+  }) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        decoration: BoxDecoration(
+          color: isDark
+              ? AppColors.darkCardBackground
+              : AppColors.lightCardBackground,
+          borderRadius: BorderRadius.circular(20),
+          boxShadow: isDark
+              ? null
+              : [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.08),
+                    blurRadius: 20,
+                    offset: const Offset(0, 8),
+                  ),
+                ],
+        ),
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(20),
+          child: Stack(
+            children: [
+              // Decorative circles - only in light mode
+              if (!isDark) ...[
+                Positioned(
+                  top: -20,
+                  left: -20,
+                  child: Container(
+                    width: 80,
+                    height: 80,
+                    decoration: BoxDecoration(
+                      shape: BoxShape.circle,
+                      color: accentColor.withOpacity(0.15),
+                    ),
+                  ),
+                ),
+                Positioned(
+                  bottom: -30,
+                  right: -30,
+                  child: Container(
+                    width: 100,
+                    height: 100,
+                    decoration: BoxDecoration(
+                      shape: BoxShape.circle,
+                      color: accentColor.withOpacity(0.1),
+                    ),
+                  ),
+                ),
+              ],
+              // Content
+              Padding(
+                padding: const EdgeInsets.all(20),
+                child: Row(
+                  children: [
+                    Container(
+                      width: 48,
+                      height: 48,
+                      decoration: BoxDecoration(
+                        color: accentColor.withOpacity(0.2),
+                        borderRadius: BorderRadius.circular(14),
+                      ),
+                      child: Icon(
+                        icon,
+                        color: accentColor,
+                        size: 24,
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            title,
+                            style: TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.w600,
+                              color: isDark
+                                  ? AppColors.darkText
+                                  : AppColors.lightText,
+                            ),
+                          ),
+                          const SizedBox(height: 4),
+                          Text(
+                            subtitle,
+                            style: TextStyle(
+                              fontSize: 14,
+                              color: isDark
+                                  ? AppColors.darkTextSecondary
+                                  : AppColors.lightTextSecondary,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    if (showChevron)
+                      Icon(
+                        Icons.chevron_right,
+                        color: isDark
+                            ? AppColors.darkTextSecondary
+                            : AppColors.lightTextSecondary,
+                      ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }

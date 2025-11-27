@@ -16,17 +16,17 @@ class WordCardFront extends StatelessWidget {
       width: double.infinity,
       padding: const EdgeInsets.all(24),
       decoration: BoxDecoration(
-        color: isDark ? AppColors.darkCardBackground : AppColors.lightCardBackground,
+        color: isDark
+            ? const Color(0xFF2C2C2E)
+            : const Color(0xFFF5F0E8), // 따뜻한 베이지
         borderRadius: BorderRadius.circular(20),
-        boxShadow: isDark
-            ? null
-            : [
-                BoxShadow(
-                  color: Colors.black.withOpacity(0.08),
-                  blurRadius: 20,
-                  offset: const Offset(0, 8),
-                ),
-              ],
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(isDark ? 0.3 : 0.1),
+            blurRadius: 20,
+            offset: const Offset(0, 8),
+          ),
+        ],
       ),
       child: Column(
         children: [
@@ -38,16 +38,28 @@ class WordCardFront extends StatelessWidget {
             ),
             textAlign: TextAlign.center,
           ),
-          const SizedBox(height: 12),
+          const SizedBox(height: 16),
           if (word.ipaPronunciation != null)
-            Text(
-              word.ipaPronunciation!,
-              style: AppTypography.ipaStyle.copyWith(
-                color: isDark
-                    ? AppColors.darkTextSecondary
-                    : AppColors.lightTextSecondary,
+            Container(
+              padding: const EdgeInsets.symmetric(
+                horizontal: 16,
+                vertical: 8,
               ),
-              textAlign: TextAlign.center,
+              decoration: BoxDecoration(
+                color: isDark
+                    ? Colors.white.withOpacity(0.1)
+                    : const Color(0xFFE8DFD0), // 베이지보다 약간 진한 색
+                borderRadius: BorderRadius.circular(20),
+              ),
+              child: Text(
+                word.ipaPronunciation!,
+                style: AppTypography.ipaStyle.copyWith(
+                  color: isDark
+                      ? AppColors.darkTextSecondary
+                      : const Color(0xFF8B7355), // 따뜻한 브라운
+                ),
+                textAlign: TextAlign.center,
+              ),
             ),
           const Spacer(),
           Text(
@@ -56,7 +68,7 @@ class WordCardFront extends StatelessWidget {
               fontSize: 14,
               color: isDark
                   ? AppColors.darkTextSecondary.withOpacity(0.5)
-                  : AppColors.lightTextSecondary.withOpacity(0.5),
+                  : const Color(0xFFB8A890),
             ),
           ),
         ],

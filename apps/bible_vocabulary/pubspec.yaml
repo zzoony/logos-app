@@ -44,3 +44,13 @@ flutter:
 
   assets:
     - assets/data/
+
+  fonts:
+    - family: GmarketSans
+      fonts:
+        - asset: assets/fonts/GmarketSansTTFLight.ttf
+          weight: 300
+        - asset: assets/fonts/GmarketSansTTFMedium.ttf
+          weight: 500
+        - asset: assets/fonts/GmarketSansTTFBold.ttf
+          weight: 700

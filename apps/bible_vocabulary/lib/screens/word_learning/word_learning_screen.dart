@@ -131,8 +131,10 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
             LinearProgressIndicator(
               value: session.progress,
               backgroundColor:
-                  isDark ? AppColors.darkSurface : AppColors.lightSurface,
-              valueColor: const AlwaysStoppedAnimation(AppColors.mint),
+                  isDark ? AppColors.darkSurface : AppColors.cardBeigeDark,
+              valueColor: AlwaysStoppedAnimation(
+                isDark ? AppColors.mint : AppColors.cardTerracotta,
+              ),
             ),
             // Swipe hints
             Padding(
@@ -143,7 +145,9 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
                   Icon(
                     Icons.arrow_upward,
                     size: 16,
-                    color: AppColors.swipeUpGreen.withOpacity(0.5),
+                    color: isDark
+                        ? AppColors.darkTextSecondary.withOpacity(0.5)
+                        : AppColors.cardBrown.withOpacity(0.4),
                   ),
                   const SizedBox(width: 4),
                   Text(
@@ -152,7 +156,7 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
                       fontSize: 12,
                       color: isDark
                           ? AppColors.darkTextSecondary
-                          : AppColors.lightTextSecondary,
+                          : AppColors.cardBrownLight,
                     ),
                   ),
                 ],
@@ -176,11 +180,19 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
                       },
                       onSwipeUp: () {
                         ref.read(learningSessionProvider.notifier).markAsKnown();
-                        _showSnackBar(context, '아는 단어로 표시됨', AppColors.swipeUpGreen);
+                        _showSnackBar(
+                          context,
+                          '아는 단어로 표시됨',
+                          isDark ? AppColors.mint : AppColors.cardBrown,
+                        );
                       },
                       onSwipeDown: () {
                         ref.read(learningSessionProvider.notifier).saveToVocabulary();
-                        _showSnackBar(context, '단어장에 저장됨', AppColors.swipeDownBlue);
+                        _showSnackBar(
+                          context,
+                          '단어장에 저장됨',
+                          isDark ? AppColors.mint : AppColors.cardTerracotta,
+                        );
                       },
                       child: sentenceAsync.when(
                         data: (sentence) => FlipCard(
@@ -223,7 +235,9 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
                   Icon(
                     Icons.arrow_downward,
                     size: 16,
-                    color: AppColors.swipeDownBlue.withOpacity(0.5),
+                    color: isDark
+                        ? AppColors.darkTextSecondary.withOpacity(0.5)
+                        : AppColors.cardBrown.withOpacity(0.4),
                   ),
                   const SizedBox(width: 4),
                   Text(
@@ -232,7 +246,7 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
                       fontSize: 12,
                       color: isDark
                           ? AppColors.darkTextSecondary
-                          : AppColors.lightTextSecondary,
+                          : AppColors.cardBrownLight,
                     ),
                   ),
                 ],
@@ -253,20 +267,24 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
                     icon: const Icon(Icons.chevron_left),
                     iconSize: 32,
                   ),
-                  ElevatedButton(
-                    onPressed: () {
-                      ref.read(learningSessionProvider.notifier).flipCard();
-                      ref.read(learningSessionProvider.notifier).recordView();
-                    },
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: AppColors.mint,
-                      foregroundColor: Colors.white,
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 32,
-                        vertical: 12,
+                  SizedBox(
+                    width: 120,
+                    child: ElevatedButton(
+                      onPressed: () {
+                        ref.read(learningSessionProvider.notifier).flipCard();
+                        ref.read(learningSessionProvider.notifier).recordView();
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor:
+                            isDark ? AppColors.mint : AppColors.cardTerracotta,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 16,
+                          vertical: 12,
+                        ),
                       ),
+                      child: Text(session.isCardFlipped ? '앞면 보기' : '뒤집기'),
                     ),
-                    child: Text(session.isCardFlipped ? '앞면 보기' : '뒤집기'),
                   ),
                   IconButton(
                     onPressed: session.hasNext

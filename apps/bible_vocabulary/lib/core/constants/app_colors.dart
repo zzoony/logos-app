@@ -28,4 +28,11 @@ abstract class AppColors {
   // Swipe Feedback
   static const swipeUpGreen = Color(0xFF4CAF50);
   static const swipeDownBlue = Color(0xFF2196F3);
+
+  // Word Card Colors (Warm palette)
+  static const cardBeige = Color(0xFFF5F0E8);
+  static const cardBeigeDark = Color(0xFFE8DFD0);
+  static const cardBrown = Color(0xFF8B7355);
+  static const cardBrownLight = Color(0xFFB8A890);
+  static const cardTerracotta = Color(0xFFCD8B62);
 }
