@@ -64,25 +64,13 @@ class LearningSessionNotifier extends StateNotifier<LearningSessionState> {
 
   Future<void> initSession() async {
     final words = await _ref.read(filteredWordsProvider.future);
-    final startOption = _ref.read(startOptionProvider);
 
-    int startIndex = 0;
-
-    switch (startOption) {
-      case StartOption.beginning:
-        startIndex = 0;
-        break;
-      case StartOption.resume:
-        startIndex = await _getLastPosition();
-        break;
-      case StartOption.random:
-        startIndex = words.isEmpty ? 0 : Random().nextInt(words.length);
-        break;
-    }
+    // 마지막 위치에서 이어서 시작
+    int startIndex = await _getLastPosition();
 
     state = LearningSessionState(
       words: words,
-      currentIndex: startIndex.clamp(0, words.length - 1),
+      currentIndex: startIndex.clamp(0, words.isEmpty ? 0 : words.length - 1),
       isCardFlipped: false,
     );
   }

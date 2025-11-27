@@ -18,5 +18,6 @@ class SettingsKeys {
   static const themeMode = 'theme_mode';
   static const lastWordRank = 'last_word_rank';
   static const defaultSortOption = 'default_sort';
+  static const defaultStartOption = 'default_start';
   static const hasCompletedOnboarding = 'onboarding_complete';
 }

@@ -23,6 +23,17 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
     });
   }
 
+  String _getSortLabel(SortOption option) {
+    switch (option) {
+      case SortOption.frequency:
+        return '빈도순';
+      case SortOption.alphabetical:
+        return '알파벳순';
+      case SortOption.random:
+        return '랜덤';
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final session = ref.watch(learningSessionProvider);
@@ -72,46 +83,44 @@ class _WordLearningScreenState extends ConsumerState<WordLearningScreen> {
         title: Text('${session.currentIndex + 1} / ${session.words.length}'),
         actions: [
           PopupMenuButton<SortOption>(
-            icon: const Icon(Icons.sort),
             onSelected: (option) {
-              ref.read(sortOptionProvider.notifier).state = option;
+              ref.read(sortOptionProvider.notifier).setOption(option);
               ref.read(learningSessionProvider.notifier).initSession();
             },
-            itemBuilder: (context) => [
-              const PopupMenuItem(
-                value: SortOption.frequency,
-                child: Text('빈도순'),
-              ),
-              const PopupMenuItem(
-                value: SortOption.alphabetical,
-                child: Text('알파벳순'),
-              ),
-              const PopupMenuItem(
-                value: SortOption.random,
-                child: Text('랜덤'),
-              ),
-            ],
-          ),
-          PopupMenuButton<StartOption>(
-            icon: const Icon(Icons.play_arrow),
-            onSelected: (option) {
-              ref.read(startOptionProvider.notifier).state = option;
-              ref.read(learningSessionProvider.notifier).initSession();
+            itemBuilder: (context) {
+              final current = ref.read(sortOptionProvider);
+              return [
+                CheckedPopupMenuItem(
+                  value: SortOption.frequency,
+                  checked: current == SortOption.frequency,
+                  child: const Text('빈도순'),
+                ),
+                CheckedPopupMenuItem(
+                  value: SortOption.alphabetical,
+                  checked: current == SortOption.alphabetical,
+                  child: const Text('알파벳순'),
+                ),
+                CheckedPopupMenuItem(
+                  value: SortOption.random,
+                  checked: current == SortOption.random,
+                  child: const Text('랜덤'),
+                ),
+              ];
             },
-            itemBuilder: (context) => [
-              const PopupMenuItem(
-                value: StartOption.beginning,
-                child: Text('처음부터'),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 12),
+              child: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(
+                    _getSortLabel(ref.watch(sortOptionProvider)),
+                    style: const TextStyle(fontSize: 14),
+                  ),
+                  const SizedBox(width: 4),
+                  const Icon(Icons.arrow_drop_down, size: 20),
+                ],
               ),
-              const PopupMenuItem(
-                value: StartOption.resume,
-                child: Text('이어하기'),
-              ),
-              const PopupMenuItem(
-                value: StartOption.random,
-                child: Text('랜덤 시작'),
-              ),
-            ],
+            ),
           ),
         ],
       ),

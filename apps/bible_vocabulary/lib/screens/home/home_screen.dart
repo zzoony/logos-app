@@ -5,15 +5,28 @@ import '../../core/constants/app_colors.dart';
 import '../../core/utils/responsive.dart';
 import '../../providers/database_provider.dart';
 import '../../providers/settings_provider.dart';
+import '../../providers/word_providers.dart';
 import 'widgets/menu_card.dart';
 
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});
 
+  String _getSortOptionLabel(SortOption option) {
+    switch (option) {
+      case SortOption.frequency:
+        return '빈도순';
+      case SortOption.alphabetical:
+        return '알파벳순';
+      case SortOption.random:
+        return '랜덤';
+    }
+  }
+
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final wordCount = ref.watch(wordCountProvider);
     final savedCount = ref.watch(savedWordCountProvider);
+    final sortOption = ref.watch(sortOptionProvider);
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final padding = Responsive.screenPadding(context);
 
@@ -52,7 +65,7 @@ class HomeScreen extends ConsumerWidget {
               MenuCard(
                 title: '단어 학습',
                 subtitle: wordCount.when(
-                  data: (count) => '$count words',
+                  data: (count) => '$count words · ${_getSortOptionLabel(sortOption)}',
                   loading: () => 'Loading...',
                   error: (_, __) => 'Error',
                 ),

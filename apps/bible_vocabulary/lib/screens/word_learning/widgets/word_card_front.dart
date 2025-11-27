@@ -29,8 +29,8 @@ class WordCardFront extends StatelessWidget {
               ],
       ),
       child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
         children: [
+          const Spacer(),
           Text(
             word.word,
             style: AppTypography.wordDisplay.copyWith(
