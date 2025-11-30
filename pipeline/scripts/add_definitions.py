@@ -1,9 +1,12 @@
 """Step 6: Add pronunciation and Korean definitions to vocabulary.
 
 Requirements:
-    - Claude CLI must be installed and available in PATH
-      (https://docs.anthropic.com/en/docs/claude-cli)
+    - Claude CLI or droid CLI must be installed and available in PATH
+      - Claude: https://docs.anthropic.com/en/docs/claude-cli
+      - droid: use --cli droid option
 """
+
+from __future__ import annotations
 
 import argparse
 import json
@@ -24,8 +27,23 @@ OUTPUT_PATH = VERSION_OUTPUT_DIR / "final_vocabulary.json"
 # Processing configuration
 BATCH_SIZE = 50  # Words per Claude request
 MAX_WORKERS = 10  # Parallel requests
-CLAUDE_MODEL = "haiku"
-CLAUDE_TIMEOUT = 120  # seconds
+DEFAULT_CLI = "claude"
+DEFAULT_MODEL = "haiku"
+DROID_DEFAULT_MODEL = "glm-4.6"
+CLI_TIMEOUT = 120  # seconds
+
+# Global variables for CLI configuration (set by main)
+CLI_TOOL = DEFAULT_CLI
+CLI_MODEL = DEFAULT_MODEL
+
+
+def get_cli_command() -> list[str]:
+    """Get CLI command based on the tool type."""
+    if CLI_TOOL == "droid":
+        return ["droid", "exec", "-o", "text", "-m", CLI_MODEL]
+    else:
+        # Default: claude CLI
+        return [CLI_TOOL, "--model", CLI_MODEL, "--print"]
 
 
 def log(message: str, level: str = "INFO") -> None:
@@ -84,11 +102,11 @@ def process_batch(batch_info: tuple) -> tuple[int, list, list]:
 
     try:
         result = subprocess.run(
-            ["claude", "--model", CLAUDE_MODEL, "--print"],
+            get_cli_command(),
             input=prompt,
             capture_output=True,
             text=True,
-            timeout=CLAUDE_TIMEOUT
+            timeout=CLI_TIMEOUT
         )
 
         if result.returncode != 0:
@@ -114,7 +132,7 @@ def process_batch(batch_info: tuple) -> tuple[int, list, list]:
         return (batch_index, results, failed)
 
     except subprocess.TimeoutExpired:
-        log(f"Batch {batch_index} timed out after {CLAUDE_TIMEOUT}s", "WARN")
+        log(f"Batch {batch_index} timed out after {CLI_TIMEOUT}s", "WARN")
         return (batch_index, [], words)
     except Exception:
         log(f"Batch {batch_index} failed with unexpected error", "WARN")
@@ -256,6 +274,8 @@ def save_output(vocabulary: dict, output_path: Path | None = None) -> None:
 
 
 def main():
+    global CLI_TOOL, CLI_MODEL
+
     parser = argparse.ArgumentParser(description="Add definitions to vocabulary")
     parser.add_argument(
         "--test", "-t",
@@ -263,10 +283,32 @@ def main():
         metavar="N",
         help="Test mode: process only first N words"
     )
+    parser.add_argument(
+        "--cli",
+        type=str,
+        default=DEFAULT_CLI,
+        choices=["claude", "droid"],
+        help=f"CLI tool to use (default: {DEFAULT_CLI})"
+    )
+    parser.add_argument(
+        "--model",
+        type=str,
+        default=DEFAULT_MODEL,
+        help=f"Model to use (default: {DEFAULT_MODEL})"
+    )
     args = parser.parse_args()
+
+    # Set global CLI configuration
+    CLI_TOOL = args.cli
+    # Use droid default model if cli is droid and model not explicitly set
+    if args.cli == "droid" and args.model == DEFAULT_MODEL:
+        CLI_MODEL = DROID_DEFAULT_MODEL
+    else:
+        CLI_MODEL = args.model
 
     print("=" * 60)
     print(f"Step 6: Add Definitions ({VERSION_NAME})")
+    print(f"CLI: {CLI_TOOL}, Model: {CLI_MODEL}")
     if args.test:
         print(f"TEST MODE: {args.test} words only")
     print("=" * 60)

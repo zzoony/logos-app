@@ -1,8 +1,9 @@
 """Step 8: Add Korean translations to sentences.
 
 Requirements:
-    - Claude CLI must be installed and available in PATH
-      (https://docs.anthropic.com/en/docs/claude-cli)
+    - Claude CLI or droid CLI must be installed and available in PATH
+      - Claude: https://docs.anthropic.com/en/docs/claude-cli
+      - droid: use --cli droid option
 """
 
 from __future__ import annotations
@@ -26,8 +27,23 @@ OUTPUT_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
 # Processing configuration
 BATCH_SIZE = 30  # Sentences per Claude request (smaller than words due to longer text)
 MAX_WORKERS = 10  # Parallel requests
-CLAUDE_MODEL = "haiku"
-CLAUDE_TIMEOUT = 120  # seconds
+DEFAULT_CLI = "claude"
+DEFAULT_MODEL = "haiku"
+DROID_DEFAULT_MODEL = "glm-4.6"
+CLI_TIMEOUT = 120  # seconds
+
+# Global variables for CLI configuration (set by main)
+CLI_TOOL = DEFAULT_CLI
+CLI_MODEL = DEFAULT_MODEL
+
+
+def get_cli_command() -> list[str]:
+    """Get CLI command based on the tool type."""
+    if CLI_TOOL == "droid":
+        return ["droid", "exec", "-o", "text", "-m", CLI_MODEL]
+    else:
+        # Default: claude CLI
+        return [CLI_TOOL, "--model", CLI_MODEL, "--print"]
 
 
 def load_sentences() -> dict:
@@ -50,11 +66,11 @@ def process_batch(batch_info: tuple) -> tuple[int, dict, list]:
 
     try:
         result = subprocess.run(
-            ["claude", "--model", CLAUDE_MODEL, "--print"],
+            get_cli_command(),
             input=prompt,
             capture_output=True,
             text=True,
-            timeout=CLAUDE_TIMEOUT
+            timeout=CLI_TIMEOUT
         )
 
         if result.returncode != 0:
@@ -81,7 +97,7 @@ def process_batch(batch_info: tuple) -> tuple[int, dict, list]:
         return (batch_index, results, failed)
 
     except subprocess.TimeoutExpired:
-        log(f"Batch {batch_index} timed out after {CLAUDE_TIMEOUT}s", "WARN")
+        log(f"Batch {batch_index} timed out after {CLI_TIMEOUT}s", "WARN")
         return (batch_index, {}, [s[0] for s in sentences])
     except Exception:
         log(f"Batch {batch_index} failed with unexpected error", "WARN")
@@ -232,6 +248,8 @@ def save_output(data: dict, output_path: Path | None = None) -> None:
 
 
 def main():
+    global CLI_TOOL, CLI_MODEL
+
     parser = argparse.ArgumentParser(description="Add Korean translations to sentences")
     parser.add_argument(
         "--test", "-t",
@@ -239,10 +257,32 @@ def main():
         metavar="N",
         help="Test mode: process only first N sentences"
     )
+    parser.add_argument(
+        "--cli",
+        type=str,
+        default=DEFAULT_CLI,
+        choices=["claude", "droid"],
+        help=f"CLI tool to use (default: {DEFAULT_CLI})"
+    )
+    parser.add_argument(
+        "--model",
+        type=str,
+        default=DEFAULT_MODEL,
+        help=f"Model to use (default: {DEFAULT_MODEL})"
+    )
     args = parser.parse_args()
+
+    # Set global CLI configuration
+    CLI_TOOL = args.cli
+    # Use droid default model if cli is droid and model not explicitly set
+    if args.cli == "droid" and args.model == DEFAULT_MODEL:
+        CLI_MODEL = DROID_DEFAULT_MODEL
+    else:
+        CLI_MODEL = args.model
 
     print("=" * 60)
     print(f"Step 8: Translate Sentences ({VERSION_NAME})")
+    print(f"CLI: {CLI_TOOL}, Model: {CLI_MODEL}")
     if args.test:
         print(f"TEST MODE: {args.test} sentences only")
     print("=" * 60)
