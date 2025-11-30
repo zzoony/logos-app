@@ -298,7 +298,10 @@ def process_batch_sdk(batch_info: tuple) -> tuple[int, list, list]:
             extra_body={"thinking": {"type": "disabled"}}  # Disable reasoning for faster response
         )
 
-        content = response.choices[0].message.content
+        # Validate API response structure
+        if not response.choices:
+            return (batch_index, [], words)
+        content = response.choices[0].message.content or ""
         definitions = extract_json_from_response(content)
 
         if not definitions:

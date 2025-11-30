@@ -88,8 +88,13 @@ def map_sentences_to_korean(data: dict, korean_bible: dict, limit: int | None = 
         parsed = parse_reference(ref)
 
         korean_text = ""
+        chapter_num = None
+        verse_num = None
+
         if parsed:
             book, chapter, verse = parsed
+            chapter_num = int(chapter)
+            verse_num = int(verse)
             # Look up in Korean Bible
             if book in korean_bible:
                 if chapter in korean_bible[book]:
@@ -102,6 +107,8 @@ def map_sentences_to_korean(data: dict, korean_bible: dict, limit: int | None = 
 
         updated_sentences[sent_id] = {
             **sent_data,
+            "chapter": chapter_num or sent_data.get("chapter"),
+            "verse": verse_num or sent_data.get("verse"),
             "korean": korean_text
         }
 
