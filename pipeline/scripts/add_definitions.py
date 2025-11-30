@@ -25,7 +25,7 @@ try:
 except ImportError:
     ZAI_SDK_AVAILABLE = False
 
-from config import VERSION_OUTPUT_DIR, VERSION_NAME
+from config import VERSION_OUTPUT_DIR, VERSION_NAME, FINAL_VOCABULARY_PATH
 
 # Load environment variables from .env file
 def load_env():
@@ -43,7 +43,7 @@ load_env()
 
 # Input/Output files
 INPUT_PATH = VERSION_OUTPUT_DIR / "step5_vocabulary_with_sentences.json"
-OUTPUT_PATH = VERSION_OUTPUT_DIR / "final_vocabulary.json"
+OUTPUT_PATH = FINAL_VOCABULARY_PATH  # Uses version-tagged filename from config
 FAILED_WORDS_PATH = VERSION_OUTPUT_DIR / "failed_words.json"
 
 # Processing configuration
@@ -512,11 +512,19 @@ def add_definitions(vocabulary: dict, limit: int | None = None, retry_missing: b
 
 
 def save_output(vocabulary: dict, output_path: Path | None = None) -> None:
-    """Save final vocabulary to JSON."""
+    """Save final vocabulary to JSON with unique IDs."""
     path = output_path or OUTPUT_PATH
+
+    # Add unique ID to each word (0-indexed)
+    for idx, word_data in enumerate(vocabulary.get("words", [])):
+        word_data["id"] = idx
+
+    # Update metadata
+    vocabulary["metadata"]["has_id"] = True
+
     with open(path, "w", encoding="utf-8") as f:
         json.dump(vocabulary, f, indent=2, ensure_ascii=False)
-    log(f"Saved to {path}")
+    log(f"Saved to {path} (with {len(vocabulary.get('words', []))} word IDs)")
 
 
 def main():

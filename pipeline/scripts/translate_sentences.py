@@ -11,12 +11,12 @@ import time
 from datetime import datetime
 from pathlib import Path
 
-from config import VERSION_OUTPUT_DIR, VERSION_NAME, SOURCE_DATA_DIR
+from config import VERSION_OUTPUT_DIR, VERSION_NAME, SOURCE_DATA_DIR, FINAL_SENTENCES_PATH
 from utils import log
 
 # Input/Output files
 INPUT_PATH = VERSION_OUTPUT_DIR / "step5_sentences.json"
-OUTPUT_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
+OUTPUT_PATH = FINAL_SENTENCES_PATH  # Uses version-tagged filename from config
 KOREAN_BIBLE_PATH = SOURCE_DATA_DIR / "Korean_Bible.json"
 
 

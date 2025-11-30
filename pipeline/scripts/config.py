@@ -59,9 +59,9 @@ STEP4_VOCABULARY_PATH = VERSION_OUTPUT_DIR / "step4_vocabulary.json"
 STEP5_VOCABULARY_PATH = VERSION_OUTPUT_DIR / "step5_vocabulary_with_sentences.json"
 STEP5_SENTENCES_PATH = VERSION_OUTPUT_DIR / "step5_sentences.json"
 
-# Final outputs
-FINAL_VOCABULARY_PATH = VERSION_OUTPUT_DIR / "final_vocabulary.json"
-FINAL_SENTENCES_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
+# Final outputs (with version tag for external use)
+FINAL_VOCABULARY_PATH = VERSION_OUTPUT_DIR / f"final_vocabulary_{VERSION}.json"
+FINAL_SENTENCES_PATH = VERSION_OUTPUT_DIR / f"final_sentences_{VERSION}.json"
 
 # Legacy alias (for backward compatibility)
 FINAL_OUTPUT_PATH = STEP4_VOCABULARY_PATH
