@@ -9,8 +9,10 @@ __pycache__/
 venv/
 env/
 
-# Pipeline output (generated files)
-pipeline/output/
+# Environment files (API keys)
+.env
+*.env
+!.env.example
 
 # IDE
 .idea/

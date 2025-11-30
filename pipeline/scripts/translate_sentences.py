@@ -1,49 +1,23 @@
 """Step 8: Add Korean translations to sentences.
 
-Requirements:
-    - Claude CLI or droid CLI must be installed and available in PATH
-      - Claude: https://docs.anthropic.com/en/docs/claude-cli
-      - droid: use --cli droid option
+Maps English sentences to Korean Bible verses from Korean_Bible.json.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-import subprocess
 import time
-import concurrent.futures
 from datetime import datetime
 from pathlib import Path
 
-from config import VERSION_OUTPUT_DIR, VERSION_NAME
+from config import VERSION_OUTPUT_DIR, VERSION_NAME, SOURCE_DATA_DIR
 from utils import log
-from translation_utils import create_translation_prompt, extract_json_from_response
 
 # Input/Output files
 INPUT_PATH = VERSION_OUTPUT_DIR / "step5_sentences.json"
 OUTPUT_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
-
-# Processing configuration
-BATCH_SIZE = 30  # Sentences per Claude request (smaller than words due to longer text)
-MAX_WORKERS = 10  # Parallel requests
-DEFAULT_CLI = "claude"
-DEFAULT_MODEL = "haiku"
-DROID_DEFAULT_MODEL = "glm-4.6"
-CLI_TIMEOUT = 120  # seconds
-
-# Global variables for CLI configuration (set by main)
-CLI_TOOL = DEFAULT_CLI
-CLI_MODEL = DEFAULT_MODEL
-
-
-def get_cli_command() -> list[str]:
-    """Get CLI command based on the tool type."""
-    if CLI_TOOL == "droid":
-        return ["droid", "exec", "-o", "text", "-m", CLI_MODEL]
-    else:
-        # Default: claude CLI
-        return [CLI_TOOL, "--model", CLI_MODEL, "--print"]
+KOREAN_BIBLE_PATH = SOURCE_DATA_DIR / "Korean_Bible.json"
 
 
 def load_sentences() -> dict:
@@ -55,184 +29,97 @@ def load_sentences() -> dict:
         return json.load(f)
 
 
-def process_batch(batch_info: tuple) -> tuple[int, dict, list]:
-    """Process a batch of sentences with Claude CLI.
+def load_korean_bible() -> dict:
+    """Load Korean Bible file."""
+    log(f"Loading Korean Bible from {KOREAN_BIBLE_PATH}")
+    if not KOREAN_BIBLE_PATH.exists():
+        raise FileNotFoundError(f"Korean Bible not found: {KOREAN_BIBLE_PATH}")
+    with open(KOREAN_BIBLE_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-    Returns: (batch_index, results_dict, failed_ids)
+
+def parse_reference(ref: str) -> tuple[str, str, str] | None:
+    """Parse reference string to (book, chapter, verse).
+
+    Examples:
+        'Psalms 18:1' -> ('Psalms', '18', '1')
+        '1 Samuel 1:1' -> ('1 Samuel', '1', '1')
     """
-    batch_index, sentences = batch_info
-
-    prompt = create_translation_prompt(sentences)
-
     try:
-        result = subprocess.run(
-            get_cli_command(),
-            input=prompt,
-            capture_output=True,
-            text=True,
-            timeout=CLI_TIMEOUT
-        )
+        # Find the last space before chapter:verse
+        # e.g., "1 Samuel 1:1" -> book="1 Samuel", rest="1:1"
+        last_space = ref.rfind(' ')
+        if last_space == -1:
+            return None
 
-        if result.returncode != 0:
-            log(f"Batch {batch_index} failed with return code {result.returncode}", "WARN")
-            return (batch_index, {}, [s[0] for s in sentences])
+        book = ref[:last_space]
+        chapter_verse = ref[last_space + 1:]
 
-        translations = extract_json_from_response(result.stdout)
+        if ':' not in chapter_verse:
+            return None
 
-        if not translations:
-            log(f"Batch {batch_index} returned no valid JSON", "WARN")
-            return (batch_index, {}, [s[0] for s in sentences])
-
-        # Map translations back to sentence IDs
-        results = {}
-        failed = []
-        for i, (sent_id, _, _) in enumerate(sentences):
-            # Find matching translation by index
-            trans = next((t for t in translations if t.get("id") == i + 1), None)
-            if trans and trans.get("korean"):
-                results[sent_id] = trans["korean"]
-            else:
-                failed.append(sent_id)
-
-        return (batch_index, results, failed)
-
-    except subprocess.TimeoutExpired:
-        log(f"Batch {batch_index} timed out after {CLI_TIMEOUT}s", "WARN")
-        return (batch_index, {}, [s[0] for s in sentences])
+        chapter, verse = chapter_verse.split(':')
+        return (book, chapter, verse)
     except Exception:
-        log(f"Batch {batch_index} failed with unexpected error", "WARN")
-        return (batch_index, {}, [s[0] for s in sentences])
+        return None
 
 
-def translate_sentences(data: dict, limit: int | None = None) -> dict:
-    """Add Korean translations to all sentences."""
+def map_sentences_to_korean(data: dict, korean_bible: dict, limit: int | None = None) -> dict:
+    """Map English sentences to Korean Bible verses."""
     sentences_dict = data["sentences"]
-
-    # Convert to list of (id, text, ref) tuples
-    sentences_list = [
-        (sent_id, sent_data["text"], sent_data["ref"])
-        for sent_id, sent_data in sentences_dict.items()
-    ]
 
     # Apply limit if specified
     if limit:
-        sentences_list = sentences_list[:limit]
+        sentences_list = list(sentences_dict.items())[:limit]
+        sentences_dict = dict(sentences_list)
         log(f"Test mode: processing first {limit} sentences only")
 
-    total_sentences = len(sentences_list)
-
+    total_sentences = len(sentences_dict)
     log(f"Total sentences to process: {total_sentences}")
-    log(f"Batch size: {BATCH_SIZE}, Max workers: {MAX_WORKERS}")
 
-    # Create batches
-    batches = []
-    for i in range(0, len(sentences_list), BATCH_SIZE):
-        batch_sentences = sentences_list[i:i + BATCH_SIZE]
-        batches.append((len(batches), batch_sentences))
-
-    total_batches = len(batches)
-    log(f"Created {total_batches} batches")
-
-    # Process batches in parallel
-    all_translations = {}
-    all_failed = []
-    completed = 0
     start_time = time.time()
 
-    log("Starting parallel processing...")
-    print("-" * 60)
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(process_batch, batch): batch[0] for batch in batches}
-
-        for future in concurrent.futures.as_completed(futures):
-            batch_idx = futures[future]
-            try:
-                idx, results, failed = future.result()
-
-                # Store results
-                all_translations.update(results)
-                all_failed.extend(failed)
-
-                completed += 1
-                elapsed = time.time() - start_time
-                avg_time = elapsed / completed
-                remaining = (total_batches - completed) * avg_time
-
-                success_count = len(results)
-                fail_count = len(failed)
-
-                log(
-                    f"Batch {idx + 1}/{total_batches} done: "
-                    f"{success_count} ok, {fail_count} fail | "
-                    f"Progress: {completed}/{total_batches} ({completed*100//total_batches}%) | "
-                    f"ETA: {remaining:.0f}s"
-                )
-
-            except Exception as e:
-                log(f"Batch {batch_idx + 1} error: {e}", "ERROR")
-
-    print("-" * 60)
-
-    # Retry failed sentences if any
-    if all_failed:
-        log(f"Retrying {len(all_failed)} failed sentences...")
-
-        # Rebuild failed sentences list
-        failed_sentences = [
-            (sent_id, sentences_dict[sent_id]["text"], sentences_dict[sent_id]["ref"])
-            for sent_id in all_failed
-            if sent_id in sentences_dict
-        ]
-
-        retry_batches = []
-        for i in range(0, len(failed_sentences), BATCH_SIZE):
-            batch_sentences = failed_sentences[i:i + BATCH_SIZE]
-            retry_batches.append((len(retry_batches), batch_sentences))
-
-        retry_failed = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            futures = list(executor.map(process_batch, retry_batches))
-            for _, results, failed in futures:
-                all_translations.update(results)
-                retry_failed.extend(failed)
-
-        if retry_failed:
-            log(f"Still failed after retry: {len(retry_failed)} sentences", "WARN")
-
-    # Build set of processed sentence IDs for limit mode
-    processed_ids = {s[0] for s in sentences_list} if limit else None
-
-    # Merge translations into sentences
-    log("Merging translations into sentences...")
     updated_sentences = {}
     success_count = 0
+    not_found = []
 
     for sent_id, sent_data in sentences_dict.items():
-        if limit and sent_id not in processed_ids:
-            continue
+        ref = sent_data.get("ref", "")
+        parsed = parse_reference(ref)
 
-        if sent_id in all_translations:
-            updated_sentences[sent_id] = {
-                **sent_data,
-                "korean": all_translations[sent_id]
-            }
-            success_count += 1
-        else:
-            updated_sentences[sent_id] = {
-                **sent_data,
-                "korean": ""
-            }
+        korean_text = ""
+        if parsed:
+            book, chapter, verse = parsed
+            # Look up in Korean Bible
+            if book in korean_bible:
+                if chapter in korean_bible[book]:
+                    if verse in korean_bible[book][chapter]:
+                        korean_text = korean_bible[book][chapter][verse]
+                        success_count += 1
 
-    elapsed_total = time.time() - start_time
-    log(f"Processing complete: {success_count}/{len(updated_sentences)} sentences ({success_count*100//max(len(updated_sentences), 1)}%)")
-    log(f"Total time: {elapsed_total:.1f}s")
+        if not korean_text:
+            not_found.append(ref)
+
+        updated_sentences[sent_id] = {
+            **sent_data,
+            "korean": korean_text
+        }
+
+    elapsed = time.time() - start_time
+    log(f"Processing complete: {success_count}/{total_sentences} sentences ({success_count*100//max(total_sentences, 1)}%)")
+    log(f"Total time: {elapsed:.1f}s")
+
+    if not_found and len(not_found) <= 10:
+        log(f"Not found: {not_found}", "WARN")
+    elif not_found:
+        log(f"Not found: {len(not_found)} sentences", "WARN")
 
     return {
         "metadata": {
             **data["metadata"],
             "korean_translations_added": True,
             "translations_count": success_count,
+            "translation_source": "Korean_Bible.json",
             "processing_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         },
         "sentences": updated_sentences
@@ -248,8 +135,6 @@ def save_output(data: dict, output_path: Path | None = None) -> None:
 
 
 def main():
-    global CLI_TOOL, CLI_MODEL
-
     parser = argparse.ArgumentParser(description="Add Korean translations to sentences")
     parser.add_argument(
         "--test", "-t",
@@ -257,38 +142,18 @@ def main():
         metavar="N",
         help="Test mode: process only first N sentences"
     )
-    parser.add_argument(
-        "--cli",
-        type=str,
-        default=DEFAULT_CLI,
-        choices=["claude", "droid"],
-        help=f"CLI tool to use (default: {DEFAULT_CLI})"
-    )
-    parser.add_argument(
-        "--model",
-        type=str,
-        default=DEFAULT_MODEL,
-        help=f"Model to use (default: {DEFAULT_MODEL})"
-    )
     args = parser.parse_args()
 
-    # Set global CLI configuration
-    CLI_TOOL = args.cli
-    # Use droid default model if cli is droid and model not explicitly set
-    if args.cli == "droid" and args.model == DEFAULT_MODEL:
-        CLI_MODEL = DROID_DEFAULT_MODEL
-    else:
-        CLI_MODEL = args.model
-
     print("=" * 60)
-    print(f"Step 8: Translate Sentences ({VERSION_NAME})")
-    print(f"CLI: {CLI_TOOL}, Model: {CLI_MODEL}")
+    print(f"Step 8: Map Korean Sentences ({VERSION_NAME})")
+    print(f"Source: {KOREAN_BIBLE_PATH.name}")
     if args.test:
         print(f"TEST MODE: {args.test} sentences only")
     print("=" * 60)
 
     data = load_sentences()
-    updated = translate_sentences(data, limit=args.test)
+    korean_bible = load_korean_bible()
+    updated = map_sentences_to_korean(data, korean_bible, limit=args.test)
 
     # Use different output file for test mode
     if args.test:
