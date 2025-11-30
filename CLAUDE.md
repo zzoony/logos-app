@@ -22,6 +22,8 @@ bible-vocabulary/
 └── pipeline/                 # 데이터 파이프라인
     ├── run_pipeline.py       # 파이프라인 실행 진입점
     ├── requirements.txt      # Python 의존성
+    ├── .env.example          # 환경 변수 예제 (API 키 등)
+    ├── .env                  # 환경 변수 (gitignore)
     ├── configs/              # 버전별 설정 파일
     │   └── {version}.json
     ├── data/                 # 필터링용 참조 데이터
@@ -61,6 +63,22 @@ python run_pipeline.py --version niv      # 버전 지정
 python run_pipeline.py --with-sentences   # 예문 추출 포함 (Step 5)
 ```
 
+### Z.AI SDK 설정 (Step 6용)
+```bash
+# 1. SDK 설치
+pip install zai-sdk==0.0.4.3
+
+# 2. 환경 변수 설정 (.env 파일 생성)
+cd pipeline
+cp .env.example .env
+# .env 파일 편집하여 API 키 설정:
+# ZAI_API_KEY=your_api_key_here
+# ZAI_API_BASE=https://api.z.ai/api/coding/paas/v4
+# ZAI_MODEL=glm-4.6
+```
+**API 키 발급**: https://z.ai/manage-apikey 에서 발급
+**Rate Limits**: GLM-4.6은 동시 5개 요청 제한 (https://z.ai/manage-apikey/rate-limits)
+
 ### Run Individual Steps
 ```bash
 cd pipeline/scripts
@@ -74,10 +92,22 @@ python extract_sentences.py    # Step 5: 예문 추출 (선택)
 ### Add Definitions (Step 6)
 ```bash
 cd pipeline/scripts
-python add_definitions.py              # 전체 실행
-python add_definitions.py --test 100   # 테스트 (100개만)
+
+# Z.AI API 사용 (권장)
+python add_definitions.py --api              # 전체 실행 (Z.AI SDK)
+python add_definitions.py --api --test 100   # 테스트 (100개만)
+python add_definitions.py --api --retry      # 실패한 단어만 재시도
+
+# CLI 사용 (대안)
+python add_definitions.py --cli droid --model glm-4.6   # droid CLI
+python add_definitions.py --cli claude                   # claude CLI
 ```
-**요구사항**: Claude CLI가 설치되어 PATH에 있어야 함
+**요구사항 (API 모드)**: Z.AI SDK 설치 및 .env 파일 설정 필요
+**요구사항 (CLI 모드)**: droid 또는 claude CLI가 설치되어 PATH에 있어야 함
+
+**성능 참고**:
+- API 모드: 5개 동시 처리, thinking 비활성화로 93% 토큰 절감
+- 6,361개 단어 처리 시 약 10분 소요
 
 ### Validate Definitions (Step 7)
 ```bash
@@ -92,7 +122,8 @@ cd pipeline/scripts
 python translate_sentences.py              # 전체 실행 (step5_sentences.json → final_sentences_korean.json)
 python translate_sentences.py --test 100   # 테스트 (100개만)
 ```
-**요구사항**: Claude CLI가 설치되어 PATH에 있어야 함
+**데이터 소스**: `source-data/Korean_Bible.json`에서 한글 번역 매핑
+**처리 방식**: 영어 성경 구절 참조(예: "Psalms 18:1")를 파싱하여 한글 성경에서 해당 구절 조회
 
 ### Validate Translations (Step 9)
 ```bash
@@ -108,8 +139,8 @@ python validate_translations.py --fix      # 참조 패턴 자동 수정
 cd pipeline/scripts
 python retry_missing_translations.py       # 실패한 번역 재시도 (최대 3회)
 ```
-**요구사항**: Claude CLI가 설치되어 PATH에 있어야 함
 **용도**: `translate_sentences.py` 실행 후 일부 번역이 실패한 경우 재시도
+**참고**: 현재 Korean_Bible.json 매핑 방식으로 변경되어 대부분 성공함
 
 ## Data Pipeline (9단계)
 
@@ -120,9 +151,9 @@ python retry_missing_translations.py       # 실패한 번역 재시도 (최대 
 | 3 | filter_proper_nouns.py | step3_filtered_proper_nouns.json | 고유명사 제거 |
 | 4 | finalize.py | step4_vocabulary.json | 최소 길이/빈도 필터, 순위 부여 |
 | 5 | extract_sentences.py | step5_vocabulary_with_sentences.json, step5_sentences.json | 예문 추출 |
-| 6 | add_definitions.py | final_vocabulary.json | 발음/뜻 생성 (Claude) |
+| 6 | add_definitions.py | final_vocabulary.json | 발음/뜻 생성 (Z.AI SDK) |
 | 7 | validate_definitions.py | - | 단어 정의 검증 |
-| 8 | translate_sentences.py | final_sentences_korean.json | 예문 한글 번역 (Claude) |
+| 8 | translate_sentences.py | final_sentences_korean.json | 예문 한글 번역 (Korean_Bible.json) |
 | 9 | validate_translations.py | - | 번역 품질 검증 |
 
 ## Configuration
@@ -130,7 +161,7 @@ python retry_missing_translations.py       # 실패한 번역 재시도 (최대 
 ### scripts/config.py
 - `VERSION`: 처리할 성경 버전 (기본: "niv")
 - `MIN_WORD_LENGTH`: 최소 단어 길이 (기본: 2)
-- `MIN_FREQUENCY`: 최소 출현 빈도 (기본: 2)
+- `MIN_FREQUENCY`: 최소 출현 빈도 (기본: 1, 1회 등장 단어도 포함)
 
 ### scripts/extract_sentences.py
 - `MIN_SENTENCES_PER_WORD`: 최소 예문 수 (기본: 1)
@@ -152,7 +183,7 @@ python retry_missing_translations.py       # 실패한 번역 재시도 (최대 
   "name": "New International Version",
   "source_file": "NIV_Bible.json",
   "min_word_length": 2,
-  "min_frequency": 2
+  "min_frequency": 1
 }
 ```
 
