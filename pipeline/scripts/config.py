@@ -68,7 +68,7 @@ FINAL_OUTPUT_PATH = STEP4_VOCABULARY_PATH
 
 # Processing options
 MIN_WORD_LENGTH = _config.get("min_word_length", 2)
-MIN_FREQUENCY = _config.get("min_frequency", 2)
+MIN_FREQUENCY = _config.get("min_frequency", 1)
 
 
 def print_config():

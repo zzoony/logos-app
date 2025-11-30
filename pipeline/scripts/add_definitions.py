@@ -1,9 +1,8 @@
 """Step 6: Add pronunciation and Korean definitions to vocabulary.
 
 Requirements:
-    - Claude CLI or droid CLI must be installed and available in PATH
-      - Claude: https://docs.anthropic.com/en/docs/claude-cli
-      - droid: use --cli droid option
+    - droid CLI or claude CLI must be installed and available in PATH
+    - Or Z.AI API credentials in .env file (for --api mode)
 """
 
 from __future__ import annotations
@@ -11,30 +10,82 @@ from __future__ import annotations
 import argparse
 import json
 import subprocess
-import sys
 import re
 import time
+import os
+import urllib.request
+import urllib.error
 import concurrent.futures
 from datetime import datetime
 from pathlib import Path
 
+try:
+    from zai import ZaiClient
+    ZAI_SDK_AVAILABLE = True
+except ImportError:
+    ZAI_SDK_AVAILABLE = False
+
 from config import VERSION_OUTPUT_DIR, VERSION_NAME
+
+# Load environment variables from .env file
+def load_env():
+    """Load environment variables from .env file."""
+    env_path = Path(__file__).parent.parent / ".env"
+    if env_path.exists():
+        with open(env_path, "r") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    key, value = line.split("=", 1)
+                    os.environ.setdefault(key.strip(), value.strip())
+
+load_env()
 
 # Input/Output files
 INPUT_PATH = VERSION_OUTPUT_DIR / "step5_vocabulary_with_sentences.json"
 OUTPUT_PATH = VERSION_OUTPUT_DIR / "final_vocabulary.json"
+FAILED_WORDS_PATH = VERSION_OUTPUT_DIR / "failed_words.json"
 
 # Processing configuration
-BATCH_SIZE = 50  # Words per Claude request
-MAX_WORKERS = 10  # Parallel requests
-DEFAULT_CLI = "claude"
-DEFAULT_MODEL = "haiku"
-DROID_DEFAULT_MODEL = "glm-4.6"
+BATCH_SIZE = 50  # Words per request
+MAX_WORKERS_CLI = 10  # Parallel requests for CLI
+MAX_WORKERS_API = 5   # Optimal for API (server-side bottleneck with more)
+DEFAULT_CLI = "droid"
+DEFAULT_MODEL = "glm-4.6"
 CLI_TIMEOUT = 120  # seconds
 
 # Global variables for CLI configuration (set by main)
 CLI_TOOL = DEFAULT_CLI
 CLI_MODEL = DEFAULT_MODEL
+USE_API = False  # Use API instead of CLI
+
+# API Configuration (from environment)
+API_BASE = os.environ.get("ZAI_API_BASE", "https://api.z.ai/api/coding/paas/v4")
+API_KEY = os.environ.get("ZAI_API_KEY", "")
+API_MODEL = os.environ.get("ZAI_MODEL", "glm-4.6")
+API_TIMEOUT = 120  # seconds
+API_BATCH_SIZE = 50  # Words per API request (same as CLI)
+
+# Global SDK client (initialized lazily)
+_zai_client = None
+
+def get_zai_client():
+    """Get or create ZAI SDK client."""
+    global _zai_client
+    if _zai_client is None and ZAI_SDK_AVAILABLE:
+        _zai_client = ZaiClient(
+            api_key=API_KEY,
+            base_url=f"{API_BASE}/",
+            timeout=float(API_TIMEOUT),
+            max_retries=2
+        )
+    return _zai_client
+
+
+def log(message: str, level: str = "INFO") -> None:
+    """Print timestamped log message."""
+    timestamp = datetime.now().strftime("%H:%M:%S")
+    print(f"[{timestamp}] [{level}] {message}")
 
 
 def get_cli_command() -> list[str]:
@@ -46,12 +97,6 @@ def get_cli_command() -> list[str]:
         return [CLI_TOOL, "--model", CLI_MODEL, "--print"]
 
 
-def log(message: str, level: str = "INFO") -> None:
-    """Print timestamped log message."""
-    timestamp = datetime.now().strftime("%H:%M:%S")
-    print(f"[{timestamp}] [{level}] {message}")
-
-
 def load_vocabulary() -> dict:
     """Load vocabulary with sentences."""
     log(f"Loading vocabulary from {INPUT_PATH}")
@@ -61,8 +106,32 @@ def load_vocabulary() -> dict:
         return json.load(f)
 
 
+def load_existing_vocabulary() -> dict | None:
+    """Load existing final vocabulary if exists."""
+    if OUTPUT_PATH.exists():
+        with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+
+def get_missing_definitions(vocabulary: dict) -> list[str]:
+    """Get words that are missing definitions from existing vocabulary."""
+    missing = []
+    for word_data in vocabulary.get("words", []):
+        if not word_data.get("definition_korean"):
+            missing.append(word_data["word"])
+    return missing
+
+
+def save_failed_words(words: list[str]) -> None:
+    """Save failed words to file for later retry."""
+    with open(FAILED_WORDS_PATH, "w", encoding="utf-8") as f:
+        json.dump({"failed_words": words, "count": len(words)}, f, indent=2)
+    log(f"Saved {len(words)} failed words to {FAILED_WORDS_PATH}")
+
+
 def create_prompt(words: list[str]) -> str:
-    """Create prompt for Claude to generate definitions."""
+    """Create prompt for generating definitions."""
     words_str = ", ".join(words)
     return f"""You are a Bible vocabulary assistant. Generate pronunciation and Korean definition for each English word.
 
@@ -80,8 +149,7 @@ Respond in JSON array format ONLY (no explanation, no markdown):
 
 
 def extract_json_from_response(response: str) -> list:
-    """Extract JSON array from Claude response."""
-    # Try to find JSON array in response
+    """Extract JSON array from response."""
     match = re.search(r'\[[\s\S]*\]', response)
     if match:
         try:
@@ -92,7 +160,7 @@ def extract_json_from_response(response: str) -> list:
 
 
 def process_batch(batch_info: tuple) -> tuple[int, list, list]:
-    """Process a batch of words with Claude CLI.
+    """Process a batch of words with CLI.
 
     Returns: (batch_index, results, failed_words)
     """
@@ -139,9 +207,138 @@ def process_batch(batch_info: tuple) -> tuple[int, list, list]:
         return (batch_index, [], words)
 
 
-def add_definitions(vocabulary: dict, limit: int | None = None) -> dict:
+def process_batch_api(batch_info: tuple) -> tuple[int, list, list]:
+    """Process a batch of words with Z.AI API.
+
+    Returns: (batch_index, results, failed_words)
+    """
+    batch_index, words = batch_info
+
+    prompt = create_prompt(words)
+
+    # Build API request
+    url = f"{API_BASE}/chat/completions"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {API_KEY}"
+    }
+    data = {
+        "model": API_MODEL,
+        "messages": [
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.3
+    }
+
+    try:
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(data).encode("utf-8"),
+            headers=headers,
+            method="POST"
+        )
+
+        with urllib.request.urlopen(req, timeout=API_TIMEOUT) as response:
+            result = json.loads(response.read().decode("utf-8"))
+
+        # Extract content from API response
+        content = result.get("choices", [{}])[0].get("message", {}).get("content", "")
+        definitions = extract_json_from_response(content)
+
+        if not definitions:
+            return (batch_index, [], words)
+
+        # Create lookup dict
+        def_dict = {d["word"]: d for d in definitions}
+
+        # Match results to original words
+        results = []
+        failed = []
+        for word in words:
+            if word in def_dict:
+                results.append(def_dict[word])
+            else:
+                failed.append(word)
+
+        return (batch_index, results, failed)
+
+    except urllib.error.HTTPError as e:
+        error_body = e.read().decode("utf-8") if e.fp else ""
+        log(f"Batch {batch_index} HTTP error {e.code}: {error_body[:200]}", "WARN")
+        return (batch_index, [], words)
+    except urllib.error.URLError as e:
+        log(f"Batch {batch_index} URL error: {e.reason}", "WARN")
+        return (batch_index, [], words)
+    except TimeoutError:
+        log(f"Batch {batch_index} timed out after {API_TIMEOUT}s", "WARN")
+        return (batch_index, [], words)
+    except Exception as e:
+        log(f"Batch {batch_index} failed: {e}", "WARN")
+        return (batch_index, [], words)
+
+
+def process_batch_sdk(batch_info: tuple) -> tuple[int, list, list]:
+    """Process a batch of words with Z.AI SDK.
+
+    Returns: (batch_index, results, failed_words)
+    """
+    batch_index, words = batch_info
+    prompt = create_prompt(words)
+    client = get_zai_client()
+
+    if client is None:
+        log(f"Batch {batch_index}: SDK not available, falling back to urllib", "WARN")
+        return process_batch_api(batch_info)
+
+    try:
+        response = client.chat.completions.create(
+            model=API_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+            extra_body={"thinking": {"type": "disabled"}}  # Disable reasoning for faster response
+        )
+
+        # Validate API response structure
+        if not response.choices:
+            return (batch_index, [], words)
+        content = response.choices[0].message.content or ""
+        definitions = extract_json_from_response(content)
+
+        if not definitions:
+            return (batch_index, [], words)
+
+        # Create lookup dict
+        def_dict = {d["word"]: d for d in definitions}
+
+        # Match results to original words
+        results = []
+        failed = []
+        for word in words:
+            if word in def_dict:
+                results.append(def_dict[word])
+            else:
+                failed.append(word)
+
+        return (batch_index, results, failed)
+
+    except Exception as e:
+        log(f"Batch {batch_index} SDK error: {e}", "WARN")
+        return (batch_index, [], words)
+
+
+def add_definitions(vocabulary: dict, limit: int | None = None, retry_missing: bool = False) -> dict:
     """Add definitions to all vocabulary words."""
     words_data = vocabulary["words"]
+
+    # If retry mode, only process words missing definitions
+    if retry_missing:
+        existing = load_existing_vocabulary()
+        if existing:
+            missing_words = set(get_missing_definitions(existing))
+            log(f"Retry mode: {len(missing_words)} words missing definitions")
+            words_data = [w for w in words_data if w["word"] in missing_words]
+        else:
+            log("No existing vocabulary found, processing all words")
 
     # Apply limit if specified
     if limit:
@@ -150,16 +347,24 @@ def add_definitions(vocabulary: dict, limit: int | None = None) -> dict:
 
     total_words = len(words_data)
 
+    if total_words == 0:
+        log("No words to process!")
+        return vocabulary
+
+    # Select worker count and batch size based on mode
+    max_workers = MAX_WORKERS_API if USE_API else MAX_WORKERS_CLI
+    batch_size = API_BATCH_SIZE if USE_API else BATCH_SIZE
+
     log(f"Total words to process: {total_words}")
-    log(f"Batch size: {BATCH_SIZE}, Max workers: {MAX_WORKERS}")
+    log(f"Batch size: {batch_size}, Max workers: {max_workers}")
 
     # Extract just the words for processing
     word_list = [w["word"] for w in words_data]
 
     # Create batches
     batches = []
-    for i in range(0, len(word_list), BATCH_SIZE):
-        batch_words = word_list[i:i + BATCH_SIZE]
+    for i in range(0, len(word_list), batch_size):
+        batch_words = word_list[i:i + batch_size]
         batches.append((len(batches), batch_words))
 
     total_batches = len(batches)
@@ -171,11 +376,22 @@ def add_definitions(vocabulary: dict, limit: int | None = None) -> dict:
     completed = 0
     start_time = time.time()
 
+    # Select batch processor (SDK > urllib API > CLI)
+    if USE_API:
+        if ZAI_SDK_AVAILABLE:
+            batch_processor = process_batch_sdk
+            log("Using Z.AI SDK for API calls")
+        else:
+            batch_processor = process_batch_api
+            log("SDK not available, using urllib")
+    else:
+        batch_processor = process_batch
+
     log("Starting parallel processing...")
     print("-" * 60)
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(process_batch, batch): batch[0] for batch in batches}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(batch_processor, batch): batch[0] for batch in batches}
 
         for future in concurrent.futures.as_completed(futures):
             batch_idx = futures[future]
@@ -211,13 +427,13 @@ def add_definitions(vocabulary: dict, limit: int | None = None) -> dict:
     if all_failed:
         log(f"Retrying {len(all_failed)} failed words...")
         retry_batches = []
-        for i in range(0, len(all_failed), BATCH_SIZE):
-            batch_words = all_failed[i:i + BATCH_SIZE]
+        for i in range(0, len(all_failed), batch_size):
+            batch_words = all_failed[i:i + batch_size]
             retry_batches.append((len(retry_batches), batch_words))
 
         retry_failed = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            futures = list(executor.map(process_batch, retry_batches))
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = list(executor.map(batch_processor, retry_batches))
             for _, results, failed in futures:
                 for r in results:
                     all_definitions[r["word"]] = r
@@ -225,13 +441,43 @@ def add_definitions(vocabulary: dict, limit: int | None = None) -> dict:
 
         if retry_failed:
             log(f"Still failed after retry: {len(retry_failed)} words", "WARN")
+            save_failed_words(retry_failed)
 
-    # Merge definitions into vocabulary
+    # Merge definitions into vocabulary (with existing if retry mode)
     log("Merging definitions into vocabulary...")
+
+    # If retry mode, load existing vocabulary and merge
+    if retry_missing:
+        existing = load_existing_vocabulary()
+        if existing:
+            # Build dict of existing definitions
+            existing_defs = {w["word"]: w for w in existing["words"]}
+            # Update with new definitions
+            for word, defn in all_definitions.items():
+                if word in existing_defs:
+                    existing_defs[word].update({
+                        "ipa_pronunciation": defn.get("ipa_pronunciation", ""),
+                        "korean_pronunciation": defn.get("korean_pronunciation", ""),
+                        "definition_korean": defn.get("definition_korean", "")
+                    })
+            # Count successes
+            success_count = sum(1 for w in existing_defs.values() if w.get("definition_korean"))
+            updated_words = list(existing_defs.values())
+
+            return {
+                "metadata": {
+                    **existing["metadata"],
+                    "definitions_count": success_count,
+                    "processing_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                },
+                "words": updated_words
+            }
+
+    # Normal mode: process all words
     updated_words = []
     success_count = 0
 
-    for word_data in words_data:
+    for word_data in vocabulary["words"]:
         word = word_data["word"]
         if word in all_definitions:
             updated_word = {
@@ -274,7 +520,7 @@ def save_output(vocabulary: dict, output_path: Path | None = None) -> None:
 
 
 def main():
-    global CLI_TOOL, CLI_MODEL
+    global CLI_TOOL, CLI_MODEL, USE_API
 
     parser = argparse.ArgumentParser(description="Add definitions to vocabulary")
     parser.add_argument(
@@ -282,6 +528,16 @@ def main():
         type=int,
         metavar="N",
         help="Test mode: process only first N words"
+    )
+    parser.add_argument(
+        "--retry",
+        action="store_true",
+        help="Retry only words missing definitions from existing output"
+    )
+    parser.add_argument(
+        "--api",
+        action="store_true",
+        help="Use Z.AI API instead of CLI (requires .env with API credentials)"
     )
     parser.add_argument(
         "--cli",
@@ -298,23 +554,32 @@ def main():
     )
     args = parser.parse_args()
 
-    # Set global CLI configuration
+    # Set global configuration
     CLI_TOOL = args.cli
-    # Use droid default model if cli is droid and model not explicitly set
-    if args.cli == "droid" and args.model == DEFAULT_MODEL:
-        CLI_MODEL = DROID_DEFAULT_MODEL
-    else:
-        CLI_MODEL = args.model
+    CLI_MODEL = args.model
+    USE_API = args.api
+
+    # Validate API credentials if using API mode
+    if USE_API and not API_KEY:
+        print("ERROR: --api requires ZAI_API_KEY in .env file")
+        return
 
     print("=" * 60)
     print(f"Step 6: Add Definitions ({VERSION_NAME})")
-    print(f"CLI: {CLI_TOOL}, Model: {CLI_MODEL}")
+    if USE_API:
+        print(f"Mode: API ({API_BASE})")
+        print(f"Model: {API_MODEL}")
+    else:
+        print(f"Mode: CLI ({CLI_TOOL})")
+        print(f"Model: {CLI_MODEL}")
+    if args.retry:
+        print("RETRY MODE: Processing only missing definitions")
     if args.test:
         print(f"TEST MODE: {args.test} words only")
     print("=" * 60)
 
     vocabulary = load_vocabulary()
-    updated = add_definitions(vocabulary, limit=args.test)
+    updated = add_definitions(vocabulary, limit=args.test, retry_missing=args.retry)
 
     # Use different output file for test mode
     if args.test:
