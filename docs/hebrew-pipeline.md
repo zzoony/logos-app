@@ -19,7 +19,7 @@
 
 ### 1. Hebrew Bible JSON
 
-```
+```text
 pipeline/source-data/Hebrew_Bible.json
 ```
 
@@ -45,7 +45,7 @@ pipeline/source-data/Hebrew_Bible.json
 
 ### 2. Strong's Hebrew Dictionary
 
-```
+```text
 pipeline/source-data/strongs/hebrew/strongs-hebrew-dictionary.js
 ```
 
@@ -87,6 +87,7 @@ python3 hebrew_pipeline.py
 - `output/hebrew/sentences_hebrew.json` - 예문
 
 **필터링되는 문법 태그:**
+
 | 태그 | 의미 |
 |------|------|
 | HNp | 고유명사 (Proper noun) |

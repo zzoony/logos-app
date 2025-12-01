@@ -6,7 +6,6 @@ Converts academic transliteration to IPA notation.
 """
 
 import json
-import re
 from pathlib import Path
 from datetime import datetime
 
@@ -83,9 +82,6 @@ TRANSLIT_TO_IPA = {
     'o': 'o',      # Qamets hatuf
     'u': 'u',      # Qibbuts
 }
-
-# Compile regex for digraphs (must match longer patterns first)
-DIGRAPH_PATTERN = re.compile(r'(sh|th|ts|ch|kh|ph|gh|dh|bh)')
 
 
 def transliteration_to_ipa(translit: str) -> str:

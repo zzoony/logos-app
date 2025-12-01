@@ -15,7 +15,6 @@ Steps:
 
 import json
 import re
-import os
 from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
@@ -83,9 +82,7 @@ def extract_words(bible_data):
             for verse_idx, verse in enumerate(chapter, 1):
                 for word_data in verse:
                     # word_data = [hebrew_text, strongs_codes, grammar_tags]
-                    hebrew_text = word_data[0]
-                    strongs_codes = word_data[1]
-                    grammar_tags = word_data[2]
+                    _hebrew_text, strongs_codes, grammar_tags = word_data
 
                     # Parse Strong's numbers (may have prefixes like Hb/H7225)
                     for code in strongs_codes.split('/'):
@@ -241,7 +238,7 @@ def save_output(vocabulary, sentences, config):
         'words': vocabulary
     }
 
-    vocab_file = OUTPUT_DIR / f"vocabulary_hebrew.json"
+    vocab_file = OUTPUT_DIR / "vocabulary_hebrew.json"
     with open(vocab_file, 'w', encoding='utf-8') as f:
         json.dump(vocab_output, f, ensure_ascii=False, indent=2)
     print(f"Saved vocabulary to {vocab_file}")
@@ -255,7 +252,7 @@ def save_output(vocabulary, sentences, config):
         'sentences': sentences
     }
 
-    sentences_file = OUTPUT_DIR / f"sentences_hebrew.json"
+    sentences_file = OUTPUT_DIR / "sentences_hebrew.json"
     with open(sentences_file, 'w', encoding='utf-8') as f:
         json.dump(sentences_output, f, ensure_ascii=False, indent=2)
     print(f"Saved sentences to {sentences_file}")
