@@ -1,0 +1,10 @@
+{
+  "version": "hebrew",
+  "name": "Hebrew Bible (WLC)",
+  "language": "he",
+  "source_file": "Hebrew_Bible.json",
+  "strongs_dictionary": "strongs/hebrew/strongs-hebrew-dictionary.js",
+  "data_dir": "hebrew",
+  "min_word_length": 0,
+  "min_frequency": 1
+}
