@@ -14,11 +14,11 @@ import json
 import re
 from pathlib import Path
 
-from config import VERSION_OUTPUT_DIR
+from config import VERSION_OUTPUT_DIR, FINAL_SENTENCES_PATH
 from utils import log
 
 # Input file
-INPUT_PATH = VERSION_OUTPUT_DIR / "final_sentences_korean.json"
+INPUT_PATH = FINAL_SENTENCES_PATH
 
 # Patterns for validation
 ENGLISH_WORD_PATTERN = re.compile(r'[a-zA-Z]{3,}')

@@ -64,6 +64,16 @@ def parse_reference(ref: str) -> tuple[str, str, str] | None:
         return None
 
 
+def normalize_book_name(book: str) -> str:
+    """Normalize book name to match Korean Bible keys."""
+    # ESV uses singular, Korean Bible uses plural for some books
+    book_mapping = {
+        "Psalm": "Psalms",
+        "Song of Solomon": "Song of Songs",
+    }
+    return book_mapping.get(book, book)
+
+
 def map_sentences_to_korean(data: dict, korean_bible: dict, limit: int | None = None) -> dict:
     """Map English sentences to Korean Bible verses."""
     sentences_dict = data["sentences"]
@@ -93,6 +103,7 @@ def map_sentences_to_korean(data: dict, korean_bible: dict, limit: int | None = 
 
         if parsed:
             book, chapter, verse = parsed
+            book = normalize_book_name(book)  # Normalize book name
             chapter_num = int(chapter)
             verse_num = int(verse)
             # Look up in Korean Bible

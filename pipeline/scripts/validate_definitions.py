@@ -7,10 +7,10 @@ import time
 from datetime import datetime
 from pathlib import Path
 
-from config import VERSION_OUTPUT_DIR
+from config import VERSION_OUTPUT_DIR, FINAL_VOCABULARY_PATH
 
 # Input file
-INPUT_PATH = VERSION_OUTPUT_DIR / "final_vocabulary.json"
+INPUT_PATH = FINAL_VOCABULARY_PATH
 
 # Validation patterns
 HEBREW_PATTERN = re.compile(r'[א-ת]')
