@@ -88,12 +88,22 @@ def log(message: str, level: str = "INFO") -> None:
     print(f"[{timestamp}] [{level}] {message}")
 
 
-def get_cli_command() -> list[str]:
-    """Get CLI command based on the tool type."""
+def get_cli_command(prompt: str = None) -> list[str]:
+    """Get CLI command based on the tool type.
+
+    Args:
+        prompt: The prompt text (required for droid exec which takes prompt as argument)
+    """
     if CLI_TOOL == "droid":
-        return ["droid", "exec", "-o", "text", "-m", CLI_MODEL]
+        # droid exec: takes prompt as argument, needs --skip-permissions-unsafe for non-interactive use
+        cmd = ["droid", "exec", "--skip-permissions-unsafe"]
+        if CLI_MODEL:
+            cmd.extend(["-m", CLI_MODEL])
+        if prompt:
+            cmd.append(prompt)
+        return cmd
     else:
-        # Default: claude CLI
+        # Default: claude CLI (reads prompt from stdin)
         return [CLI_TOOL, "--model", CLI_MODEL, "--print"]
 
 
@@ -169,13 +179,23 @@ def process_batch(batch_info: tuple) -> tuple[int, list, list]:
     prompt = create_prompt(words)
 
     try:
-        result = subprocess.run(
-            get_cli_command(),
-            input=prompt,
-            capture_output=True,
-            text=True,
-            timeout=CLI_TIMEOUT
-        )
+        if CLI_TOOL == "droid":
+            # droid exec: prompt is passed as argument
+            result = subprocess.run(
+                get_cli_command(prompt),
+                capture_output=True,
+                text=True,
+                timeout=CLI_TIMEOUT
+            )
+        else:
+            # claude CLI: prompt is passed via stdin
+            result = subprocess.run(
+                get_cli_command(),
+                input=prompt,
+                capture_output=True,
+                text=True,
+                timeout=CLI_TIMEOUT
+            )
 
         if result.returncode != 0:
             return (batch_index, [], words)
@@ -545,14 +565,14 @@ def main():
     parser.add_argument(
         "--api",
         action="store_true",
-        help="Use Z.AI API instead of CLI (requires .env with API credentials)"
+        default=True,
+        help="Use Z.AI API (default, requires .env with API credentials)"
     )
     parser.add_argument(
         "--cli",
         type=str,
-        default=DEFAULT_CLI,
         choices=["claude", "droid"],
-        help=f"CLI tool to use (default: {DEFAULT_CLI})"
+        help="Use CLI instead of API: 'claude' for Claude CLI, 'droid' for droid exec"
     )
     parser.add_argument(
         "--model",
@@ -563,9 +583,14 @@ def main():
     args = parser.parse_args()
 
     # Set global configuration
-    CLI_TOOL = args.cli
+    # If --cli is specified, use CLI mode; otherwise use API (default)
+    if args.cli:
+        CLI_TOOL = args.cli
+        USE_API = False
+    else:
+        CLI_TOOL = DEFAULT_CLI
+        USE_API = True
     CLI_MODEL = args.model
-    USE_API = args.api
 
     # Validate API credentials if using API mode
     if USE_API and not API_KEY:
