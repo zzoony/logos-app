@@ -1,16 +1,61 @@
-# bible_vocabulary
+# Bible Vocabulary App
 
-A new Flutter project.
+성경 단어장 Flutter 앱.
 
-## Getting Started
+## Development
 
-This project is a starting point for a Flutter application.
+### 의존성 설치
+```bash
+cd apps/bible_vocabulary
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+### iOS 시뮬레이터에서 실행
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hot reload를 사용하려면 별도 터미널 창에서 실행해야 함:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# 1. 스크립트 파일 생성
+cat > /tmp/run_flutter.sh << 'SCRIPT'
+#!/bin/bash
+cd /Users/peter/Dev/logos-app/apps/bible_vocabulary
+flutter run -d "iPhone 16 Pro"
+SCRIPT
+chmod +x /tmp/run_flutter.sh
+
+# 2. 새 터미널 창에서 실행
+osascript -e 'tell application "Terminal" to do script "/tmp/run_flutter.sh"'
+```
+
+**주의**: 백그라운드 실행(`run_in_background`)으로는 Hot reload (`r`) 사용 불가
+
+### 다른 디바이스에서 실행
+```bash
+flutter devices                    # 사용 가능한 디바이스 목록
+flutter run -d <device_id>         # 특정 디바이스에서 실행
+flutter run -d chrome              # 웹 브라우저에서 실행
+```
+
+### 빌드
+```bash
+flutter build ios                  # iOS 빌드
+flutter build apk                  # Android APK 빌드
+flutter build web                  # 웹 빌드
+```
+
+## Project Structure
+
+```
+lib/
+├── main.dart              # 앱 진입점
+├── models/                # 데이터 모델
+├── screens/               # 화면 위젯
+├── widgets/               # 재사용 가능한 위젯
+└── services/              # 비즈니스 로직, API 호출
+```
+
+## Data Source
+
+파이프라인에서 생성된 데이터 사용:
+- `pipeline/vocabulary/output/{version}/final_vocabulary_{version}.json`
+- `pipeline/vocabulary/output/{version}/final_sentences_{version}.json`
