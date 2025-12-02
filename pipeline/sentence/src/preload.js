@@ -14,16 +14,15 @@ contextBridge.exposeInMainWorld('electronAPI', {
   startAnalysis: (books) => ipcRenderer.invoke('start-analysis', books),
   stopAnalysis: () => ipcRenderer.invoke('stop-analysis'),
 
-  // 이벤트 리스너
+  // 이벤트 리스너 (cleanup 함수 반환)
   onAnalysisProgress: (callback) => {
-    ipcRenderer.on('analysis-progress', (event, data) => callback(data));
+    const listener = (event, data) => callback(data);
+    ipcRenderer.on('analysis-progress', listener);
+    return () => ipcRenderer.removeListener('analysis-progress', listener);
   },
   onAnalysisComplete: (callback) => {
-    ipcRenderer.on('analysis-complete', (event, data) => callback(data));
-  },
-
-  // 리스너 제거
-  removeAllListeners: (channel) => {
-    ipcRenderer.removeAllListeners(channel);
+    const listener = (event, data) => callback(data);
+    ipcRenderer.on('analysis-complete', listener);
+    return () => ipcRenderer.removeListener('analysis-complete', listener);
   }
 });

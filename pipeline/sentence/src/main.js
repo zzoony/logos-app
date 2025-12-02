@@ -1,7 +1,24 @@
-const { app, BrowserWindow } = require('electron');
+const { app, BrowserWindow, ipcMain } = require('electron');
 const path = require('path');
 
 let mainWindow;
+
+// IPC 핸들러 등록
+ipcMain.handle('get-app-version', () => {
+  return app.getVersion();
+});
+
+ipcMain.handle('start-analysis', async (event, books) => {
+  // TODO: 분석 로직 구현
+  console.log('Analysis started for books:', books);
+  return { success: true };
+});
+
+ipcMain.handle('stop-analysis', async () => {
+  // TODO: 분석 중단 로직 구현
+  console.log('Analysis stopped');
+  return { success: true };
+});
 
 function createWindow() {
   mainWindow = new BrowserWindow({
