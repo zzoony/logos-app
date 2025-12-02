@@ -21,8 +21,9 @@ from collections import defaultdict
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
-PROJECT_DIR = SCRIPT_DIR.parent
-SOURCE_DATA_DIR = PROJECT_DIR / "source-data"
+PROJECT_DIR = SCRIPT_DIR.parent  # pipeline/vocabulary
+PIPELINE_ROOT = PROJECT_DIR.parent  # pipeline (shared resources)
+SOURCE_DATA_DIR = PIPELINE_ROOT / "source-data"  # Shared across vocabulary/sentence
 OUTPUT_DIR = PROJECT_DIR / "output" / "hebrew"
 CONFIG_FILE = PROJECT_DIR / "configs" / "hebrew.json"
 

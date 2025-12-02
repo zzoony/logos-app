@@ -6,9 +6,10 @@ from pathlib import Path
 
 # Base paths
 SCRIPTS_DIR = Path(__file__).parent
-PIPELINE_DIR = SCRIPTS_DIR.parent
+PIPELINE_DIR = SCRIPTS_DIR.parent  # pipeline/vocabulary
+PIPELINE_ROOT = PIPELINE_DIR.parent  # pipeline (shared resources)
 CONFIGS_DIR = PIPELINE_DIR / "configs"
-SOURCE_DATA_DIR = PIPELINE_DIR / "source-data"
+SOURCE_DATA_DIR = PIPELINE_ROOT / "source-data"  # Shared across vocabulary/sentence
 DATA_DIR = PIPELINE_DIR / "data"
 OUTPUT_DIR = PIPELINE_DIR / "output"
 

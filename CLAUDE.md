@@ -25,6 +25,9 @@ logos-app/
     ├── docs/                 # 파이프라인 문서
     │   ├── pipeline-output-files.md  # 출력 파일 설명
     │   └── hebrew-pipeline.md        # 히브리어 파이프라인
+    ├── source-data/          # 원본 성경 데이터 (공유)
+    │   ├── {VERSION}_Bible.json
+    │   └── strongs/          # Strong's Concordance 데이터
     ├── vocabulary/           # 단어 추출 파이프라인
     │   ├── run_pipeline.py   # 파이프라인 실행 진입점
     │   ├── requirements.txt  # Python 의존성
@@ -39,22 +42,8 @@ logos-app/
     │   │       ├── protected_words.txt
     │   │       └── proper_nouns.txt
     │   ├── scripts/          # 처리 스크립트
-    │   │   ├── config.py     # 경로 및 설정
-    │   │   ├── utils.py      # 공통 유틸리티 (로깅 등)
-    │   │   ├── translation_utils.py  # 번역 공통 함수
-    │   │   ├── extract_words.py  # Step 1: 단어 추출
-    │   │   ├── filter_stopwords.py   # Step 2: 불용어 제거
-    │   │   ├── filter_proper_nouns.py # Step 3: 고유명사 제거
-    │   │   ├── finalize.py       # Step 4: 최종 처리
-    │   │   ├── extract_sentences.py  # Step 5: 예문 추출
-    │   │   ├── add_definitions.py    # Step 6: 발음/뜻 생성
-    │   │   ├── validate_definitions.py # Step 7: 정의 검증
-    │   │   ├── translate_sentences.py  # Step 8: 예문 번역
-    │   │   ├── validate_translations.py # Step 9: 번역 검증
-    │   │   └── retry_missing_translations.py # 실패한 번역 재시도
-    │   ├── source-data/      # 원본 성경 데이터
-    │   │   └── {VERSION}_Bible.json
-    │   └── output/           # 처리 결과물 (gitignore)
+    │   │   └── ...
+    │   └── output/           # 처리 결과물
     │       └── {version}/
     └── sentence/             # 문장 처리 파이프라인 (예정)
 ```
@@ -255,7 +244,7 @@ python retry_missing_translations.py       # 실패한 번역 재시도 (최대 
 
 ## Adding New Bible Version
 
-1. `pipeline/vocabulary/source-data/{VERSION}_Bible.json` 추가
+1. `pipeline/source-data/{VERSION}_Bible.json` 추가
 2. `pipeline/vocabulary/configs/{version}.json` 설정 파일 생성
 3. `pipeline/vocabulary/data/{version}/` 폴더 생성 (stopwords.txt, protected_words.txt, proper_nouns.txt)
 4. `python run_pipeline.py --version {version}` 실행
