@@ -5,58 +5,65 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Overview
 
 성경 텍스트에서 단어를 추출하여 영어 단어장 앱을 만드는 프로젝트.
-- **Phase 1**: pipeline/ - 데이터 추출 및 정제 ✅
-- **Phase 2**: app/ - 단어장 앱 (추후 개발)
+- **Phase 1**: pipeline/vocabulary - 단어 데이터 추출 및 정제 ✅
+- **Phase 2**: pipeline/sentence - 문장 데이터 처리 (예정)
+- **Phase 3**: app/ - 단어장 앱 (추후 개발)
 
 ## Project Structure
 
 ```
-bible-vocabulary/
+logos-app/
 ├── CLAUDE.md                 # 이 파일 (Claude Code 가이드)
 ├── .coderabbit.yaml          # CodeRabbit 설정
 ├── .gitignore
-├── app/                      # 단어장 앱 (Phase 2, 추후 개발)
-├── docs/                     # 문서
+├── apps/                     # 앱 (Phase 3, 추후 개발)
+│   └── bible_vocabulary/     # Flutter 앱
+├── docs/                     # 프로젝트 문서
 │   ├── project-plan.md       # 프로젝트 계획
-│   └── pipeline-output-files.md  # 파이프라인 출력 파일 설명
+│   └── bible-vocabulary-app-plan.md  # 앱 계획
 └── pipeline/                 # 데이터 파이프라인
-    ├── run_pipeline.py       # 파이프라인 실행 진입점
-    ├── requirements.txt      # Python 의존성
-    ├── .env.example          # 환경 변수 예제 (API 키 등)
-    ├── .env                  # 환경 변수 (gitignore)
-    ├── configs/              # 버전별 설정 파일
-    │   └── {version}.json
-    ├── data/                 # 필터링용 참조 데이터
-    │   ├── common/           # 공통 데이터
-    │   └── {version}/        # 버전별 데이터
-    │       ├── stopwords.txt
-    │       ├── protected_words.txt
-    │       └── proper_nouns.txt
-    ├── scripts/              # 처리 스크립트
-    │   ├── config.py         # 경로 및 설정
-    │   ├── utils.py          # 공통 유틸리티 (로깅 등)
-    │   ├── translation_utils.py  # 번역 공통 함수
-    │   ├── extract_words.py  # Step 1: 단어 추출
-    │   ├── filter_stopwords.py   # Step 2: 불용어 제거
-    │   ├── filter_proper_nouns.py # Step 3: 고유명사 제거
-    │   ├── finalize.py       # Step 4: 최종 처리
-    │   ├── extract_sentences.py  # Step 5: 예문 추출
-    │   ├── add_definitions.py    # Step 6: 발음/뜻 생성
-    │   ├── validate_definitions.py # Step 7: 정의 검증
-    │   ├── translate_sentences.py  # Step 8: 예문 번역
-    │   ├── validate_translations.py # Step 9: 번역 검증
-    │   └── retry_missing_translations.py # 실패한 번역 재시도
-    ├── source-data/          # 원본 성경 데이터
-    │   └── {VERSION}_Bible.json
-    └── output/               # 처리 결과물 (gitignore)
-        └── {version}/
+    ├── docs/                 # 파이프라인 문서
+    │   ├── pipeline-output-files.md  # 출력 파일 설명
+    │   └── hebrew-pipeline.md        # 히브리어 파이프라인
+    ├── vocabulary/           # 단어 추출 파이프라인
+    │   ├── run_pipeline.py   # 파이프라인 실행 진입점
+    │   ├── requirements.txt  # Python 의존성
+    │   ├── .env.example      # 환경 변수 예제 (API 키 등)
+    │   ├── .env              # 환경 변수 (gitignore)
+    │   ├── configs/          # 버전별 설정 파일
+    │   │   └── {version}.json
+    │   ├── data/             # 필터링용 참조 데이터
+    │   │   ├── common/       # 공통 데이터
+    │   │   └── {version}/    # 버전별 데이터
+    │   │       ├── stopwords.txt
+    │   │       ├── protected_words.txt
+    │   │       └── proper_nouns.txt
+    │   ├── scripts/          # 처리 스크립트
+    │   │   ├── config.py     # 경로 및 설정
+    │   │   ├── utils.py      # 공통 유틸리티 (로깅 등)
+    │   │   ├── translation_utils.py  # 번역 공통 함수
+    │   │   ├── extract_words.py  # Step 1: 단어 추출
+    │   │   ├── filter_stopwords.py   # Step 2: 불용어 제거
+    │   │   ├── filter_proper_nouns.py # Step 3: 고유명사 제거
+    │   │   ├── finalize.py       # Step 4: 최종 처리
+    │   │   ├── extract_sentences.py  # Step 5: 예문 추출
+    │   │   ├── add_definitions.py    # Step 6: 발음/뜻 생성
+    │   │   ├── validate_definitions.py # Step 7: 정의 검증
+    │   │   ├── translate_sentences.py  # Step 8: 예문 번역
+    │   │   ├── validate_translations.py # Step 9: 번역 검증
+    │   │   └── retry_missing_translations.py # 실패한 번역 재시도
+    │   ├── source-data/      # 원본 성경 데이터
+    │   │   └── {VERSION}_Bible.json
+    │   └── output/           # 처리 결과물 (gitignore)
+    │       └── {version}/
+    └── sentence/             # 문장 처리 파이프라인 (예정)
 ```
 
 ## Commands
 
 ### Run Pipeline (Step 1-4)
 ```bash
-cd pipeline
+cd pipeline/vocabulary
 pip install -r requirements.txt
 python run_pipeline.py                    # 기본 실행 (NIV)
 python run_pipeline.py --version niv      # 버전 지정
@@ -69,7 +76,7 @@ python run_pipeline.py --with-sentences   # 예문 추출 포함 (Step 5)
 pip install zai-sdk==0.0.4.3
 
 # 2. 환경 변수 설정 (.env 파일 생성)
-cd pipeline
+cd pipeline/vocabulary
 cp .env.example .env
 # .env 파일 편집하여 API 키 설정:
 # ZAI_API_KEY=your_api_key_here
@@ -81,7 +88,7 @@ cp .env.example .env
 
 ### Run Individual Steps
 ```bash
-cd pipeline/scripts
+cd pipeline/vocabulary/scripts
 python extract_words.py        # Step 1: 단어 추출 + Lemmatization
 python filter_stopwords.py     # Step 2: 불용어 제거
 python filter_proper_nouns.py  # Step 3: 고유명사 제거
@@ -91,7 +98,7 @@ python extract_sentences.py    # Step 5: 예문 추출 (선택)
 
 ### Add Definitions (Step 6)
 ```bash
-cd pipeline/scripts
+cd pipeline/vocabulary/scripts
 
 # Z.AI API 사용 (권장)
 python add_definitions.py --api              # 전체 실행 (Z.AI SDK)
@@ -111,14 +118,14 @@ python add_definitions.py --cli claude                   # claude CLI
 
 ### Validate Definitions (Step 7)
 ```bash
-cd pipeline/scripts
+cd pipeline/vocabulary/scripts
 python validate_definitions.py                # 기본 검증 (API 샘플 50개)
 python validate_definitions.py --api-sample 0 # API 검증 없이 빠른 검증
 ```
 
 ### Translate Sentences (Step 8)
 ```bash
-cd pipeline/scripts
+cd pipeline/vocabulary/scripts
 python translate_sentences.py              # 전체 실행 (step5_sentences.json → final_sentences_korean.json)
 python translate_sentences.py --test 100   # 테스트 (100개만)
 ```
@@ -127,7 +134,7 @@ python translate_sentences.py --test 100   # 테스트 (100개만)
 
 ### Validate Translations (Step 9)
 ```bash
-cd pipeline/scripts
+cd pipeline/vocabulary/scripts
 python validate_translations.py            # 번역 품질 검증
 python validate_translations.py --fix      # 참조 패턴 자동 수정
 ```
@@ -136,7 +143,7 @@ python validate_translations.py --fix      # 참조 패턴 자동 수정
 
 ### Retry Missing Translations (번역 실패 재시도)
 ```bash
-cd pipeline/scripts
+cd pipeline/vocabulary/scripts
 python retry_missing_translations.py       # 실패한 번역 재시도 (최대 3회)
 ```
 **용도**: `translate_sentences.py` 실행 후 일부 번역이 실패한 경우 재시도
@@ -248,9 +255,9 @@ python retry_missing_translations.py       # 실패한 번역 재시도 (최대 
 
 ## Adding New Bible Version
 
-1. `source-data/{VERSION}_Bible.json` 추가
-2. `configs/{version}.json` 설정 파일 생성
-3. `data/{version}/` 폴더 생성 (stopwords.txt, protected_words.txt, proper_nouns.txt)
+1. `pipeline/vocabulary/source-data/{VERSION}_Bible.json` 추가
+2. `pipeline/vocabulary/configs/{version}.json` 설정 파일 생성
+3. `pipeline/vocabulary/data/{version}/` 폴더 생성 (stopwords.txt, protected_words.txt, proper_nouns.txt)
 4. `python run_pipeline.py --version {version}` 실행
 
 ## Flutter App (apps/bible_vocabulary)
@@ -262,7 +269,7 @@ Hot reload를 사용하려면 별도 터미널 창에서 실행해야 함. 스�
 # 1. 스크립트 파일 생성
 cat > /tmp/run_flutter.sh << 'SCRIPT'
 #!/bin/bash
-cd /Users/peter/Dev/bible-vocabulary/apps/bible_vocabulary
+cd /Users/peter/Dev/logos-app/apps/bible_vocabulary
 flutter run -d "iPhone 16 Pro"
 SCRIPT
 chmod +x /tmp/run_flutter.sh
