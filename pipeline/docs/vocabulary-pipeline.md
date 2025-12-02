@@ -40,41 +40,54 @@ python extract_sentences.py    # Step 5: 예문 추출 (선택)
 
 ### Add Definitions (Step 6)
 
-#### Z.AI SDK 설정
+3가지 모드 지원: **API (기본)**, **Claude CLI**, **droid exec**
+
+#### 모드 1: Z.AI API (기본, 권장)
 ```bash
-# 1. SDK 설치
+# SDK 설치
 pip install zai-sdk==0.0.4.3
 
-# 2. 환경 변수 설정 (.env 파일 생성)
+# 환경 변수 설정
 cd pipeline/vocabulary
 cp .env.example .env
-# .env 파일 편집하여 API 키 설정:
+# .env 파일 편집:
 # ZAI_API_KEY=your_api_key_here
 # ZAI_API_BASE=https://api.z.ai/api/coding/paas/v4
 # ZAI_MODEL=glm-4.6
+
+# 실행 (기본 모드)
+cd scripts
+python add_definitions.py                    # 전체 실행
+python add_definitions.py --test 100         # 테스트 (100개만)
+python add_definitions.py --retry            # 실패한 단어만 재시도
 ```
 - **API 키 발급**: https://z.ai/manage-apikey
-- **Rate Limits**: GLM-4.6은 동시 5개 요청 제한 (https://z.ai/manage-apikey/rate-limits)
+- **Rate Limits**: 동시 5개 요청 제한
 
-#### 실행
+#### 모드 2: Claude CLI
 ```bash
-cd pipeline/vocabulary/scripts
-
-# Z.AI API 사용 (권장)
-python add_definitions.py --api              # 전체 실행 (Z.AI SDK)
-python add_definitions.py --api --test 100   # 테스트 (100개만)
-python add_definitions.py --api --retry      # 실패한 단어만 재시도
-
-# CLI 사용 (대안)
-python add_definitions.py --cli droid --model glm-4.6   # droid CLI
-python add_definitions.py --cli claude                   # claude CLI
+python add_definitions.py --cli claude                        # 기본 모델
+python add_definitions.py --cli claude --model claude-3-opus  # 모델 지정
 ```
-- **요구사항 (API 모드)**: Z.AI SDK 설치 및 .env 파일 설정 필요
-- **요구사항 (CLI 모드)**: droid 또는 claude CLI가 설치되어 PATH에 있어야 함
+- **요구사항**: claude CLI 설치 필요
 
-**성능 참고**:
-- API 모드: 5개 동시 처리, thinking 비활성화로 93% 토큰 절감
-- 6,361개 단어 처리 시 약 10분 소요
+#### 모드 3: droid exec
+```bash
+python add_definitions.py --cli droid                         # 기본 모델 (Claude Opus)
+python add_definitions.py --cli droid --model glm-4.6         # GLM-4.6 사용
+```
+- **요구사항**: droid CLI 설치 필요 (https://docs.factory.ai/cli)
+- **참고**: `--skip-permissions-unsafe` 옵션 자동 적용
+
+#### 성능 비교
+
+| 모드 | 60단어 처리 시간 | 비고 |
+|------|-----------------|------|
+| Z.AI API | ~8초 | 5개 병렬, thinking 비활성화 |
+| droid exec | ~97초 | 20개 병렬 테스트 기준 |
+| Claude CLI | ~60초 | 10개 병렬 |
+
+**권장**: API 모드가 가장 빠르고 효율적 (약 10배 빠름)
 
 ### Validate Definitions (Step 7)
 ```bash
