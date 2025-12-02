@@ -15,16 +15,9 @@ flutter pub get
 Hot reload를 사용하려면 별도 터미널 창에서 실행해야 함:
 
 ```bash
-# 1. 스크립트 파일 생성
-cat > /tmp/run_flutter.sh << 'SCRIPT'
-#!/bin/bash
-cd /Users/peter/Dev/logos-app/apps/bible_vocabulary
+# 프로젝트 루트에서 실행
+cd apps/bible_vocabulary
 flutter run -d "iPhone 16 Pro"
-SCRIPT
-chmod +x /tmp/run_flutter.sh
-
-# 2. 새 터미널 창에서 실행
-osascript -e 'tell application "Terminal" to do script "/tmp/run_flutter.sh"'
 ```
 
 **주의**: 백그라운드 실행(`run_in_background`)으로는 Hot reload (`r`) 사용 불가
