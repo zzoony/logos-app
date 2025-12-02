@@ -1,0 +1,12 @@
+{
+  "version": "esv",
+  "name": "English Standard Version",
+  "language": "en",
+  "source_file": "ESV_Bible.json",
+  "data_dir": "esv",
+  "stopwords_file": "stopwords.txt",
+  "protected_words_file": "protected_words.txt",
+  "proper_nouns_file": "proper_nouns.txt",
+  "min_word_length": 2,
+  "min_frequency": 1
+}
