@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentence Analysis Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- 헤더 -->
+    <header class="header">
+      <h1>Sentence Analysis Dashboard <span class="version-badge">v0.1.0</span></h1>
+    </header>
+
+    <!-- 탭 네비게이션 -->
+    <nav class="tab-nav">
+      <button class="tab-btn active" data-tab="analyze">분석</button>
+      <button class="tab-btn" data-tab="validate">검증</button>
+      <button class="tab-btn" data-tab="settings">설정</button>
+    </nav>
+
+    <!-- 분석 탭 컨텐츠 -->
+    <div class="tab-content" id="analyzeTab" style="display: block;">
+
+      <!-- 통계 개요 카드 -->
+      <div class="stats-overview">
+        <div class="stat-card">
+          <div class="stat-icon primary">
+            <span>📊</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="totalSentences">0</div>
+            <div class="label">전체 문장</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon success">
+            <span>✓</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="completedSentences">0</div>
+            <div class="label">분석 완료</div>
+            <div class="change positive" id="progressPercent">0%</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon warning">
+            <span>⏳</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="pendingSentences">0</div>
+            <div class="label">대기 중</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon danger">
+            <span>!</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="failedSentences">0</div>
+            <div class="label">실패</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 전체 진행도 -->
+      <div class="card">
+        <div class="progress-section">
+          <h2>📈 전체 진행도</h2>
+          <div class="progress-bar">
+            <div class="progress-fill" id="overallProgress" style="width: 35%;"></div>
+          </div>
+          <div class="progress-stats">
+            <span class="progress-text">완료: <strong id="completedVerses">10,885</strong> / 전체: <strong id="totalVerses">31,102</strong> 구절</span>
+            <span class="progress-percentage" id="overallProgressText">35%</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 필터 및 컨트롤 -->
+      <div class="card">
+        <div class="controls">
+          <div class="filter-buttons">
+            <button class="filter-btn active" data-filter="all">전체</button>
+            <button class="filter-btn" data-filter="old">구약 (39권)</button>
+            <button class="filter-btn" data-filter="new">신약 (27권)</button>
+          </div>
+          <div class="control-buttons">
+            <button class="btn btn-secondary" id="selectAllBtn">전체 선택</button>
+            <button class="btn btn-secondary" id="deselectAllBtn">선택 해제</button>
+            <button class="btn btn-secondary" id="refreshBtn">새로고침</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 성경 카드 그리드 -->
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">📚 성경 책 목록</h3>
+          <span class="text-muted" id="selectedCount">0권 선택됨</span>
+        </div>
+        <div class="books-grid" id="booksGrid">
+          <!-- 샘플 카드들 -->
+          <div class="book-card selected">
+            <div class="book-name">창세기</div>
+            <div class="book-name-en">Genesis</div>
+            <div class="book-stats">50장 / 1,533구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 100%;"></div>
+            </div>
+            <div class="book-progress-text">100%</div>
+          </div>
+
+          <div class="book-card selected">
+            <div class="book-name">출애굽기</div>
+            <div class="book-name-en">Exodus</div>
+            <div class="book-stats">40장 / 1,213구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 85%;"></div>
+            </div>
+            <div class="book-progress-text">85%</div>
+          </div>
+
+          <div class="book-card analyzing">
+            <div class="book-name">레위기</div>
+            <div class="book-name-en">Leviticus</div>
+            <div class="book-stats">27장 / 859구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 42%;"></div>
+            </div>
+            <div class="book-progress-text">42%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">민수기</div>
+            <div class="book-name-en">Numbers</div>
+            <div class="book-stats">36장 / 1,288구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">신명기</div>
+            <div class="book-name-en">Deuteronomy</div>
+            <div class="book-stats">34장 / 959구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">여호수아</div>
+            <div class="book-name-en">Joshua</div>
+            <div class="book-stats">24장 / 658구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">사사기</div>
+            <div class="book-name-en">Judges</div>
+            <div class="book-stats">21장 / 618구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">룻기</div>
+            <div class="book-name-en">Ruth</div>
+            <div class="book-stats">4장 / 85구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">마태복음</div>
+            <div class="book-name-en">Matthew</div>
+            <div class="book-stats">28장 / 1,071구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">마가복음</div>
+            <div class="book-name-en">Mark</div>
+            <div class="book-stats">16장 / 678구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">누가복음</div>
+            <div class="book-name-en">Luke</div>
+            <div class="book-stats">24장 / 1,151구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+
+          <div class="book-card">
+            <div class="book-name">요한복음</div>
+            <div class="book-name-en">John</div>
+            <div class="book-stats">21장 / 879구절</div>
+            <div class="book-progress-bar">
+              <div class="book-progress-fill" style="width: 0%;"></div>
+            </div>
+            <div class="book-progress-text">0%</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 선택 정보 및 실행 버튼 -->
+      <div class="card">
+        <div class="action-panel">
+          <div class="selection-info">
+            <div class="selection-text" id="selectionText">2권 선택됨 (2,746 구절)</div>
+            <div class="estimate-text" id="estimateText">예상 소요 시간: 약 15분</div>
+          </div>
+
+          <div class="batch-size-control">
+            <label for="batchSizeInput">동시 배치 개수:</label>
+            <input type="number" id="batchSizeInput" min="1" max="50" value="10" />
+            <span class="batch-size-hint">(기본값: 10, 범위: 1-50)</span>
+          </div>
+
+          <div class="action-buttons">
+            <button class="btn btn-secondary btn-large" id="analyzeFileSelectBtn">파일 선택</button>
+            <button class="btn btn-primary btn-large" id="startBtn">분석 시작</button>
+            <button class="btn btn-warning btn-large hidden" id="retryFailedBtn">실패 재시도</button>
+            <button class="btn btn-danger btn-large hidden" id="cancelBtn">중단</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 분석 진행 패널 (숨김 상태 샘플) -->
+      <div class="card hidden" id="analysisPanel">
+        <div class="analysis-panel">
+          <h3>🔄 자동 분석 진행 중...</h3>
+
+          <div class="current-batch">
+            <p><strong>현재:</strong> <span id="currentBook">레위기</span> - <span id="currentBatch">1-50절</span></p>
+            <div class="progress-bar">
+              <div class="progress-fill" id="batchProgress" style="width: 42%;"></div>
+            </div>
+          </div>
+
+          <div class="analysis-stats">
+            <div class="stat">
+              <span class="stat-label">진행 시간</span>
+              <span class="stat-value" id="elapsedTime">00:05:32</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">남은 시간</span>
+              <span class="stat-value" id="remainingTime">00:12:28</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">완료</span>
+              <span class="stat-value success" id="completedCount">156</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">처리 중</span>
+              <span class="stat-value warning" id="processingCount">10</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">대기</span>
+              <span class="stat-value" id="waitingCount">693</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">실패</span>
+              <span class="stat-value danger" id="failedCount">0</span>
+            </div>
+          </div>
+
+          <div class="recent-completions">
+            <h4>최근 완료</h4>
+            <ul id="recentList">
+              <li><span class="status-icon"></span>레위기 3:12 - 완료</li>
+              <li><span class="status-icon"></span>레위기 3:11 - 완료</li>
+              <li><span class="status-icon"></span>레위기 3:10 - 완료</li>
+              <li><span class="status-icon"></span>레위기 3:9 - 완료</li>
+              <li><span class="status-icon"></span>레위기 3:8 - 완료</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- 분석 탭 끝 -->
+
+    <!-- 검증 탭 (placeholder) -->
+    <div class="tab-content" id="validateTab" style="display: none;">
+      <div class="card">
+        <div class="card-body text-center">
+          <h2 style="color: var(--text-muted); padding: 60px 0;">검증 기능 준비 중...</h2>
+        </div>
+      </div>
+    </div>
+
+    <!-- 설정 탭 (placeholder) -->
+    <div class="tab-content" id="settingsTab" style="display: none;">
+      <div class="card">
+        <div class="card-body text-center">
+          <h2 style="color: var(--text-muted); padding: 60px 0;">설정 기능 준비 중...</h2>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
