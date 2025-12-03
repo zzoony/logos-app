@@ -31,5 +31,43 @@ contextBridge.exposeInMainWorld('electronAPI', {
     const listener = (event, data) => callback(data);
     ipcRenderer.on('analysis-complete', listener);
     return () => ipcRenderer.removeListener('analysis-complete', listener);
+  },
+
+  // 검증 관련 IPC
+  startValidation: (options) => ipcRenderer.invoke('start-validation', options),
+  generateValidationReport: (results) => ipcRenderer.invoke('generate-validation-report', results),
+
+  // 검증 이벤트 리스너
+  onValidationProgress: (callback) => {
+    const listener = (event, data) => callback(data);
+    ipcRenderer.on('validation-progress', listener);
+    return () => ipcRenderer.removeListener('validation-progress', listener);
+  },
+  onValidationComplete: (callback) => {
+    const listener = (event, data) => callback(data);
+    ipcRenderer.on('validation-complete', listener);
+    return () => ipcRenderer.removeListener('validation-complete', listener);
+  },
+
+  // 에디터에서 파일 열기
+  openInEditor: (options) => ipcRenderer.invoke('open-in-editor', options),
+  getFilePath: (options) => ipcRenderer.invoke('get-file-path', options),
+
+  // 단일 구절 재분석
+  reanalyzeVerse: (options) => ipcRenderer.invoke('reanalyze-verse', options),
+
+  // 배치 재분석 (Pool 기반 병렬 처리)
+  reanalyzeBatch: (options) => ipcRenderer.invoke('reanalyze-batch', options),
+
+  // 배치 재분석 이벤트 리스너
+  onReanalyzeProgress: (callback) => {
+    const listener = (event, data) => callback(data);
+    ipcRenderer.on('reanalyze-progress', listener);
+    return () => ipcRenderer.removeListener('reanalyze-progress', listener);
+  },
+  onReanalyzeComplete: (callback) => {
+    const listener = (event, data) => callback(data);
+    ipcRenderer.on('reanalyze-complete', listener);
+    return () => ipcRenderer.removeListener('reanalyze-complete', listener);
   }
 });

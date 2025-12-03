@@ -420,7 +420,26 @@ button, input, select, textarea, a, .book-card, .books-grid {
 
 .book-card.selected {
   border-color: var(--color-primary);
-  background: rgba(69, 80, 220, 0.1);
+  background: rgba(69, 80, 220, 0.15);
+  box-shadow: 0 0 0 2px rgba(69, 80, 220, 0.3);
+  position: relative;
+}
+
+.book-card.selected::after {
+  content: '✓';
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 20px;
+  height: 20px;
+  background: var(--color-primary);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
 }
 
 .book-card.analyzing {
@@ -1105,4 +1124,272 @@ button, input, select, textarea, a, .book-card, .books-grid {
   padding: 8px 12px;
   border-radius: var(--radius-sm);
   flex: 1;
+}
+
+/* ===================================
+   Validation Tab Styles
+   =================================== */
+
+/* Issue Tabs */
+.issue-tabs {
+  display: flex;
+  gap: 8px;
+  padding: 16px;
+  border-bottom: 1px solid var(--border-color);
+  overflow-x: auto;
+  flex-wrap: wrap;
+}
+
+.issue-tab-btn {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 8px 16px;
+  font-size: 12px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--transition-normal);
+  white-space: nowrap;
+}
+
+.issue-tab-btn:hover {
+  background: var(--gray-600);
+  color: var(--text-primary);
+}
+
+.issue-tab-btn.active {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: white;
+}
+
+/* Issue List */
+.issue-list {
+  padding: 16px;
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.issue-item {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  margin-bottom: 12px;
+  transition: all var(--transition-normal);
+  cursor: pointer;
+}
+
+.issue-item:hover {
+  border-color: var(--primary);
+  background: var(--bg-hover);
+  transform: translateX(4px);
+}
+
+.issue-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.issue-ref {
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 14px;
+}
+
+.issue-type {
+  font-size: 11px;
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  font-weight: 500;
+}
+
+.issue-type.source_mismatch {
+  background: rgba(239, 68, 68, 0.15);
+  color: var(--color-danger);
+}
+
+.issue-type.sentence_merge_mismatch {
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--color-warning);
+}
+
+.issue-type.empty_translation {
+  background: rgba(156, 163, 175, 0.15);
+  color: var(--text-muted);
+}
+
+.issue-type.non_korean_chars {
+  background: rgba(139, 92, 246, 0.15);
+  color: #a78bfa;
+}
+
+.issue-type.english_in_korean {
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+}
+
+/* 이슈 선택 툴바 */
+.issue-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+  margin-bottom: 12px;
+}
+
+.toolbar-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.select-all-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.select-all-label input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  accent-color: var(--color-primary);
+}
+
+.selected-count {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.btn-reanalyze-selected {
+  padding: 8px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  background: var(--color-success);
+  color: white;
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-reanalyze-selected:hover:not(:disabled) {
+  background: #059669;
+  transform: translateY(-1px);
+}
+
+.btn-reanalyze-selected:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background: var(--text-muted);
+}
+
+/* 이슈 아이템 체크박스 레이아웃 */
+.issue-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.issue-checkbox {
+  flex-shrink: 0;
+  padding-top: 2px;
+}
+
+.issue-checkbox input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  accent-color: var(--color-primary);
+}
+
+.issue-content {
+  flex: 1;
+  min-width: 0;
+}
+
+/* 재분석 완료 상태 */
+.issue-item.reanalyzed {
+  opacity: 0.5;
+  pointer-events: none;
+  background: rgba(16, 185, 129, 0.1);
+}
+
+.issue-body {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.issue-body .label {
+  font-weight: 500;
+  color: var(--text-muted);
+  margin-right: 8px;
+}
+
+.issue-body .content {
+  display: block;
+  margin-top: 4px;
+  padding: 8px 12px;
+  background: var(--bg-card);
+  border-radius: var(--radius-sm);
+  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+  font-size: 12px;
+  word-break: break-all;
+}
+
+.issue-body .chars {
+  color: var(--color-danger);
+  font-weight: 600;
+}
+
+.issue-detail {
+  margin-top: 8px;
+}
+
+/* Empty state */
+.issue-empty {
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--text-muted);
+}
+
+.issue-empty h4 {
+  font-size: 16px;
+  margin-bottom: 8px;
+  color: var(--text-secondary);
+}
+
+/* Book card validation state */
+.book-card.has-issues {
+  border-color: var(--color-warning);
+}
+
+.book-card.validated {
+  border-color: var(--color-success);
+}
+
+.book-card .validation-badge {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.book-card .validation-badge.pass {
+  background: var(--color-success);
+}
+
+.book-card .validation-badge.warning {
+  background: var(--color-warning);
 }

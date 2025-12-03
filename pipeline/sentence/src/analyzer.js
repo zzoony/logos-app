@@ -6,6 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const config = require('./config');
 
 // 경로 설정
 const SOURCE_DATA_DIR = path.join(__dirname, '../../source-data');
@@ -26,6 +27,14 @@ let vocabularyCache = {};
 // 분석 상태
 let isAnalyzing = false;
 let shouldStop = false;
+
+/**
+ * 책 이름을 파일명 형식으로 변환 (공백 제거)
+ * 예: "1 Thessalonians" -> "1Thessalonians"
+ */
+function toFilename(bookName) {
+  return bookName.replace(/\s+/g, '');
+}
 
 /**
  * 환경 변수 로드
@@ -283,8 +292,7 @@ async function analyzeVerse(book, chapter, verse, version, wordToId, koreanBible
   };
 }
 
-// 병렬 처리 설정 (Pool 크기)
-const POOL_SIZE = 5;
+// 병렬 처리 설정 (Pool 크기 - config.js에서 가져옴)
 
 /**
  * Worker Pool 기반 병렬 처리
@@ -345,8 +353,9 @@ async function analyzeBook(bookName, version, progressCallback) {
     }
   }
 
-  // 출력 디렉토리 확인
-  const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookName);
+  // 출력 디렉토리 확인 (파일명에서 공백 제거)
+  const bookFilename = toFilename(bookName);
+  const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
   if (!fs.existsSync(outputPath)) {
     fs.mkdirSync(outputPath, { recursive: true });
   }
@@ -358,7 +367,7 @@ async function analyzeBook(bookName, version, progressCallback) {
 
   // 분석이 필요한 구절만 필터링
   const versesToAnalyze = verses.filter(({ chapter, verse }) => {
-    const fileName = `${bookName}_${chapter}_${verse}.json`;
+    const fileName = `${bookFilename}_${chapter}_${verse}.json`;
     const filePath = path.join(outputPath, fileName);
     if (fs.existsSync(filePath)) {
       completed++;
@@ -376,11 +385,11 @@ async function analyzeBook(bookName, version, progressCallback) {
   });
 
   console.log(`[INFO] ${bookName}: ${versesToAnalyze.length} verses to analyze (${completed} already done)`);
-  console.log(`[POOL] Starting with ${POOL_SIZE} concurrent workers`);
+  console.log(`[POOL] Starting with ${config.POOL_SIZE} concurrent workers`);
 
   // Pool 기반 병렬 처리
   const processor = async ({ chapter, verse }) => {
-    const fileName = `${bookName}_${chapter}_${verse}.json`;
+    const fileName = `${bookFilename}_${chapter}_${verse}.json`;
     const filePath = path.join(outputPath, fileName);
 
     // 처리 시작 알림
@@ -434,7 +443,7 @@ async function analyzeBook(bookName, version, progressCallback) {
     }
   };
 
-  await processWithPool(versesToAnalyze, POOL_SIZE, processor);
+  await processWithPool(versesToAnalyze, config.POOL_SIZE, processor);
 
   if (shouldStop) {
     console.log(`[STOP] Analysis stopped by user`);
@@ -511,10 +520,160 @@ function getAnalysisState() {
   return { isAnalyzing, shouldStop };
 }
 
+/**
+ * 단일 구절 재분석 (기존 파일 삭제 후 새로 분석)
+ */
+async function reanalyzeVerse(book, chapter, verse, version) {
+  loadEnv();
+
+  if (!API_KEY) {
+    throw new Error('API key not found. Check vocabulary/.env file.');
+  }
+
+  const bibleData = loadBibleData(version);
+  const koreanBible = loadKoreanBible();
+  const wordToId = loadVocabulary(version);
+
+  // 파일 경로 (공백 제거)
+  const bookFilename = toFilename(book);
+  const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
+  const fileName = `${bookFilename}_${chapter}_${verse}.json`;
+  const filePath = path.join(outputPath, fileName);
+
+  // 기존 파일 삭제
+  if (fs.existsSync(filePath)) {
+    fs.unlinkSync(filePath);
+    console.log(`[DELETE] ${fileName}`);
+  }
+
+  // 새로 분석
+  console.log(`[REANALYZE] ${book} ${chapter}:${verse}`);
+  const result = await analyzeVerse(book, chapter, verse, version, wordToId, koreanBible, bibleData);
+
+  if (result) {
+    // 디렉토리 확인
+    if (!fs.existsSync(outputPath)) {
+      fs.mkdirSync(outputPath, { recursive: true });
+    }
+    fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
+    console.log(`[SAVE] ${fileName}`);
+  }
+
+  return result;
+}
+
+/**
+ * 여러 구절 배치 재분석 (Pool 기반 병렬 처리)
+ * @param {Array} verses - [{book, chapter, verse}, ...] 형태의 배열
+ * @param {string} version - 성경 버전
+ * @param {function} progressCallback - 진행 콜백
+ */
+async function reanalyzeBatch(verses, version, progressCallback) {
+  loadEnv();
+
+  if (!API_KEY) {
+    throw new Error('API key not found. Check vocabulary/.env file.');
+  }
+
+  const bibleData = loadBibleData(version);
+  const koreanBible = loadKoreanBible();
+  const wordToId = loadVocabulary(version);
+
+  let completed = 0;
+  let failed = 0;
+  const total = verses.length;
+  const results = [];
+
+  console.log(`\n[BATCH REANALYZE] Starting ${total} verses with ${config.POOL_SIZE} workers`);
+
+  // 각 구절 처리 함수
+  const processor = async ({ book, chapter, verse }) => {
+    const bookFilename = toFilename(book);
+    const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
+    const fileName = `${bookFilename}_${chapter}_${verse}.json`;
+    const filePath = path.join(outputPath, fileName);
+
+    // 처리 시작 알림
+    progressCallback?.({
+      book,
+      chapter,
+      verse,
+      completed,
+      failed,
+      total,
+      status: 'processing'
+    });
+
+    try {
+      // 기존 파일 삭제
+      if (fs.existsSync(filePath)) {
+        fs.unlinkSync(filePath);
+      }
+
+      // 새로 분석
+      const result = await analyzeVerse(book, chapter, verse, version, wordToId, koreanBible, bibleData);
+
+      if (result) {
+        if (!fs.existsSync(outputPath)) {
+          fs.mkdirSync(outputPath, { recursive: true });
+        }
+        fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
+        console.log(`[SAVE] ${fileName}`);
+      }
+
+      completed++;
+      progressCallback?.({
+        book,
+        chapter,
+        verse,
+        completed,
+        failed,
+        total,
+        status: 'completed'
+      });
+
+      results.push({ book, chapter, verse, status: 'completed', result });
+      return { book, chapter, verse, status: 'completed' };
+
+    } catch (error) {
+      console.error(`[ERROR] ${book} ${chapter}:${verse}: ${error.message}`);
+      failed++;
+
+      progressCallback?.({
+        book,
+        chapter,
+        verse,
+        completed,
+        failed,
+        total,
+        status: 'error',
+        error: error.message
+      });
+
+      results.push({ book, chapter, verse, status: 'error', error: error.message });
+      return { book, chapter, verse, status: 'error', error: error.message };
+    }
+  };
+
+  // Pool 기반 병렬 처리
+  await processWithPool(verses, config.POOL_SIZE, processor);
+
+  console.log(`[BATCH REANALYZE] Done: ${completed} completed, ${failed} failed`);
+
+  return {
+    total,
+    completed,
+    failed,
+    results
+  };
+}
+
 module.exports = {
   analyzeBooks,
   analyzeBook,
   analyzeVerse,
+  reanalyzeVerse,
+  reanalyzeBatch,
   stopAnalysis,
   getAnalysisState,
   loadEnv

@@ -1,9 +1,19 @@
-const { app, BrowserWindow, ipcMain } = require('electron');
+const { app, BrowserWindow, ipcMain, shell } = require('electron');
 const path = require('path');
 const fs = require('fs');
+const { exec } = require('child_process');
 const analyzer = require('./analyzer');
+const validator = require('./validator');
 
 // 성경 책 이름 매핑 (영어 -> 한글)
+/**
+ * 책 이름을 파일명 형식으로 변환 (공백 제거)
+ * 예: "1 Thessalonians" -> "1Thessalonians"
+ */
+function toFilename(bookName) {
+  return bookName.replace(/\s+/g, '');
+}
+
 const BOOK_NAMES_KO = {
   // 구약
   'Genesis': '창세기', 'Exodus': '출애굽기', 'Leviticus': '레위기', 'Numbers': '민수기',
@@ -107,10 +117,10 @@ ipcMain.handle('init-output-folders', async (event, version) => {
       fs.mkdirSync(versionPath, { recursive: true });
     }
 
-    // 각 성경 책별 폴더 생성
+    // 각 성경 책별 폴더 생성 (공백 제거한 폴더명 사용)
     const allBooks = [...OLD_TESTAMENT, ...NEW_TESTAMENT];
     for (const bookName of allBooks) {
-      const bookPath = path.join(versionPath, bookName);
+      const bookPath = path.join(versionPath, toFilename(bookName));
       if (!fs.existsSync(bookPath)) {
         fs.mkdirSync(bookPath, { recursive: true });
       }
@@ -139,10 +149,10 @@ ipcMain.handle('get-analysis-progress', async (event, version) => {
       return { success: true, progress };
     }
 
-    // 각 성경 책별 진행률 계산
+    // 각 성경 책별 진행률 계산 (공백 제거한 폴더명 사용)
     const allBooks = [...OLD_TESTAMENT, ...NEW_TESTAMENT];
     for (const bookName of allBooks) {
-      const bookPath = path.join(versionPath, bookName);
+      const bookPath = path.join(versionPath, toFilename(bookName));
 
       if (fs.existsSync(bookPath)) {
         const files = fs.readdirSync(bookPath).filter(f => f.endsWith('.json'));
@@ -232,6 +242,153 @@ ipcMain.handle('load-bible-data', async (event, version) => {
     };
   } catch (error) {
     console.error('Error loading bible data:', error);
+    return { success: false, error: error.message };
+  }
+});
+
+// 검증 시작 핸들러
+ipcMain.handle('start-validation', async (event, { books, version }) => {
+  console.log(`\n${'='.repeat(60)}`);
+  console.log(`Validation started for ${books.length} books (${version})`);
+  console.log(`Books: ${books.join(', ')}`);
+  console.log(`${'='.repeat(60)}\n`);
+
+  try {
+    const result = validator.validateBooks(books, version, (progress) => {
+      // 진행상황을 렌더러로 전송
+      if (mainWindow && !mainWindow.isDestroyed()) {
+        mainWindow.webContents.send('validation-progress', progress);
+      }
+    });
+
+    // 완료 이벤트 전송
+    if (mainWindow && !mainWindow.isDestroyed()) {
+      mainWindow.webContents.send('validation-complete', result);
+    }
+
+    console.log(`\n${'='.repeat(60)}`);
+    console.log(`Validation completed: ${result.totalValid}/${result.totalVerses} valid`);
+    console.log(`Total issues: ${result.totalIssues}`);
+    console.log(`${'='.repeat(60)}\n`);
+
+    return { success: true, result };
+  } catch (error) {
+    console.error('Validation error:', error);
+    return { success: false, error: error.message };
+  }
+});
+
+// 검증 리포트 생성 핸들러
+ipcMain.handle('generate-validation-report', async (event, results) => {
+  try {
+    const report = validator.generateReport(results);
+    return { success: true, report };
+  } catch (error) {
+    console.error('Report generation error:', error);
+    return { success: false, error: error.message };
+  }
+});
+
+// 에디터에서 파일 열기 핸들러
+ipcMain.handle('open-in-editor', async (event, { filePath, editor }) => {
+  try {
+    const absolutePath = path.isAbsolute(filePath)
+      ? filePath
+      : path.join(__dirname, '../output', filePath);
+
+    if (!fs.existsSync(absolutePath)) {
+      return { success: false, error: `File not found: ${absolutePath}` };
+    }
+
+    console.log(`Opening in ${editor}: ${absolutePath}`);
+
+    // 에디터별 명령어
+    let command;
+    if (editor === 'cursor') {
+      // Cursor는 code 명령어와 비슷하게 동작
+      command = `cursor "${absolutePath}"`;
+    } else if (editor === 'antigravity') {
+      // Antigravity 에디터
+      command = `antigravity "${absolutePath}"`;
+    } else {
+      // 기본: 시스템 기본 앱으로 열기
+      await shell.openPath(absolutePath);
+      return { success: true };
+    }
+
+    return new Promise((resolve) => {
+      exec(command, (error, stdout, stderr) => {
+        if (error) {
+          console.error(`Editor error: ${error.message}`);
+          // 명령어 실패 시 기본 앱으로 열기 시도
+          shell.openPath(absolutePath);
+          resolve({ success: true, fallback: true });
+        } else {
+          resolve({ success: true });
+        }
+      });
+    });
+  } catch (error) {
+    console.error('Open in editor error:', error);
+    return { success: false, error: error.message };
+  }
+});
+
+// 파일 경로 가져오기 핸들러
+ipcMain.handle('get-file-path', async (event, { book, fileName, version }) => {
+  try {
+    const filePath = path.join(__dirname, '../output', version.toLowerCase(), toFilename(book), fileName);
+    return { success: true, filePath };
+  } catch (error) {
+    return { success: false, error: error.message };
+  }
+});
+
+// 단일 구절 재분석 핸들러
+ipcMain.handle('reanalyze-verse', async (event, { book, chapter, verse, version }) => {
+  console.log(`\n[REANALYZE] ${book} ${chapter}:${verse} (${version})`);
+
+  try {
+    const result = await analyzer.reanalyzeVerse(book, chapter, verse, version);
+
+    if (result) {
+      console.log(`[REANALYZE] Success: ${book} ${chapter}:${verse}`);
+      return { success: true, result };
+    } else {
+      return { success: false, error: 'No result returned' };
+    }
+  } catch (error) {
+    console.error(`[REANALYZE] Error: ${error.message}`);
+    return { success: false, error: error.message };
+  }
+});
+
+// 배치 재분석 핸들러 (Pool 기반 병렬 처리)
+ipcMain.handle('reanalyze-batch', async (event, { verses, version }) => {
+  console.log(`\n${'='.repeat(60)}`);
+  console.log(`[BATCH REANALYZE] Starting ${verses.length} verses (${version})`);
+  console.log(`${'='.repeat(60)}\n`);
+
+  try {
+    const result = await analyzer.reanalyzeBatch(verses, version, (progress) => {
+      // 진행상황을 렌더러로 전송
+      if (mainWindow && !mainWindow.isDestroyed()) {
+        mainWindow.webContents.send('reanalyze-progress', progress);
+      }
+    });
+
+    // 완료 이벤트 전송
+    if (mainWindow && !mainWindow.isDestroyed()) {
+      mainWindow.webContents.send('reanalyze-complete', result);
+    }
+
+    console.log(`\n${'='.repeat(60)}`);
+    console.log(`[BATCH REANALYZE] Completed: ${result.completed}/${result.total}`);
+    console.log(`${'='.repeat(60)}\n`);
+
+    return { success: true, result };
+  } catch (error) {
+    console.error('[BATCH REANALYZE] Error:', error);
     return { success: false, error: error.message };
   }
 });

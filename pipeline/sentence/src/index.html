@@ -182,13 +182,154 @@
     </div>
     <!-- 분석 탭 끝 -->
 
-    <!-- 검증 탭 (placeholder) -->
+    <!-- 검증 탭 -->
     <div class="tab-content" id="validateTab" style="display: none;">
-      <div class="card">
-        <div class="card-body text-center">
-          <h2 style="color: var(--text-muted); padding: 60px 0;">검증 기능 준비 중...</h2>
+
+      <!-- 검증 통계 개요 -->
+      <div class="stats-overview">
+        <div class="stat-card">
+          <div class="stat-icon primary">
+            <span>📋</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="validateTotalVerses">0</div>
+            <div class="label">검증 대상</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon success">
+            <span>✓</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="validatePassedVerses">0</div>
+            <div class="label">통과</div>
+            <div class="change positive" id="validatePassRate">0%</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon warning">
+            <span>⚠</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="validateIssueCount">0</div>
+            <div class="label">이슈 발견</div>
+          </div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-icon danger">
+            <span>✗</span>
+          </div>
+          <div class="stat-content">
+            <div class="value" id="validateFailedVerses">0</div>
+            <div class="label">실패</div>
+          </div>
         </div>
       </div>
+
+      <!-- 검증 실행 패널 -->
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">🔍 검증 실행</h3>
+        </div>
+        <div class="action-panel">
+          <div class="selection-info">
+            <div class="selection-text" id="validateSelectionText">책을 선택하세요</div>
+            <div class="estimate-text" id="validateEstimateText">분석 완료된 구절만 검증됩니다</div>
+          </div>
+
+          <div class="action-buttons">
+            <button class="btn btn-secondary btn-large" id="validateSelectAllBtn">전체 선택</button>
+            <button class="btn btn-primary btn-large" id="startValidationBtn">검증 시작</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 검증 대상 책 목록 -->
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">📚 검증 대상</h3>
+          <span class="text-muted" id="validateSelectedCount">0권 선택됨</span>
+        </div>
+        <div class="books-grid" id="validateBooksGrid">
+          <!-- 동적으로 생성됨 -->
+        </div>
+      </div>
+
+      <!-- 검증 진행 패널 -->
+      <div class="card hidden" id="validationPanel">
+        <div class="analysis-panel">
+          <h3>검증 진행 중...</h3>
+
+          <div class="current-batch">
+            <p id="validationStatus">준비 중...</p>
+            <div class="progress-bar">
+              <div class="progress-fill" id="validationProgressFill" style="width: 0%;"></div>
+            </div>
+          </div>
+
+          <div class="analysis-stats">
+            <div class="stat">
+              <span class="stat-label">현재 책</span>
+              <span class="stat-value" id="validateCurrentBook">-</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">진행률</span>
+              <span class="stat-value" id="validateCurrentProgress">0%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">통과</span>
+              <span class="stat-value success" id="validateValidCount">0</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">이슈</span>
+              <span class="stat-value warning" id="validateIssuesFound">0</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 검증 결과 패널 -->
+      <div class="card hidden" id="validationResultsPanel">
+        <div class="card-header">
+          <h3 class="card-title">📊 검증 결과</h3>
+          <button class="btn btn-secondary" id="exportReportBtn">리포트 내보내기</button>
+        </div>
+
+        <!-- 이슈 유형별 탭 -->
+        <div class="issue-tabs">
+          <button class="issue-tab-btn active" data-issue="all">전체</button>
+          <button class="issue-tab-btn" data-issue="source_mismatch">원문 불일치</button>
+          <button class="issue-tab-btn" data-issue="sentence_merge_mismatch">구문 합치기 오류</button>
+          <button class="issue-tab-btn" data-issue="empty_translation">빈 번역</button>
+          <button class="issue-tab-btn" data-issue="non_korean_chars">비한글 문자</button>
+          <button class="issue-tab-btn" data-issue="english_in_korean">영어 포함</button>
+        </div>
+
+        <!-- 선택 툴바 -->
+        <div class="issue-toolbar" id="issueToolbar" style="display: none;">
+          <div class="toolbar-left">
+            <label class="select-all-label">
+              <input type="checkbox" id="selectAllIssues" />
+              <span>전체 선택</span>
+            </label>
+            <span class="selected-count" id="selectedCount">0개 선택됨</span>
+          </div>
+          <div class="toolbar-right">
+            <button class="btn-reanalyze-selected" id="reanalyzeSelectedBtn" disabled>
+              선택 항목 재분석
+            </button>
+          </div>
+        </div>
+
+        <!-- 이슈 목록 -->
+        <div class="issue-list" id="issueList">
+          <!-- 동적으로 생성됨 -->
+        </div>
+      </div>
+
     </div>
 
     <!-- 설정 탭 -->
@@ -235,6 +376,40 @@
           <div class="path-display">
             <span class="path-label">Source Data:</span>
             <code class="path-value" id="sourcePathDisplay">source-data/ESV_Bible.json</code>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">🖥️ 에디터 선택</h3>
+        </div>
+        <div class="card-body">
+          <p class="setting-description">검증 결과를 열 때 사용할 에디터를 선택하세요. 검증 탭에서 이슈를 더블클릭하면 해당 파일이 선택한 에디터에서 열립니다.</p>
+
+          <div class="bible-version-selector">
+            <label class="version-option">
+              <input type="radio" name="editorChoice" value="cursor" checked>
+              <div class="version-card">
+                <div class="version-name">Cursor</div>
+                <div class="version-full">Cursor Editor</div>
+                <div class="version-file">cursor://</div>
+              </div>
+            </label>
+
+            <label class="version-option">
+              <input type="radio" name="editorChoice" value="antigravity">
+              <div class="version-card">
+                <div class="version-name">Antigravity</div>
+                <div class="version-full">Antigravity Editor</div>
+                <div class="version-file">antigravity://</div>
+              </div>
+            </label>
+          </div>
+
+          <div class="current-setting">
+            <span class="setting-label">현재 선택:</span>
+            <span class="setting-value" id="currentEditorDisplay">Cursor</span>
           </div>
         </div>
       </div>
