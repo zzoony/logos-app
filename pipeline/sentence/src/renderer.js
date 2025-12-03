@@ -156,7 +156,8 @@ function renderBookCards(filter = 'all') {
     card.dataset.testament = book.testament;
 
     // 분석 현황 텍스트 (항상 분석된 구절 수 표시)
-    const analyzedText = `${book.analyzed.toLocaleString()} / ${book.verses.toLocaleString()}구절`;
+    const analyzed = typeof book.analyzed === 'number' ? book.analyzed : 0;
+    const analyzedText = `${analyzed.toLocaleString()} / ${book.verses.toLocaleString()}구절`;
 
     card.innerHTML = `
       <div class="book-name">${book.nameKo}</div>
@@ -189,7 +190,7 @@ function updateOverallStats() {
 
   // 전체/완료 구절 수 계산
   const totalVerses = bibleData.totalVerses;
-  const completedVerses = bibleData.books.reduce((sum, book) => sum + book.analyzed, 0);
+  const completedVerses = bibleData.books.reduce((sum, book) => sum + (book.analyzed || 0), 0);
   const progressPercent = totalVerses > 0
     ? Math.round((completedVerses / totalVerses) * 100)
     : 0;

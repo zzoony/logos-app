@@ -173,6 +173,10 @@ function callAPI(prompt) {
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
         try {
+          if (res.statusCode < 200 || res.statusCode >= 300) {
+            reject(new Error(`API error: ${res.statusCode} - ${data}`));
+            return;
+          }
           const result = JSON.parse(data);
           const content = result?.choices?.[0]?.message?.content || '';
           resolve(content);

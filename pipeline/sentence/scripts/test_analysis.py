@@ -262,9 +262,14 @@ def analyze_verse(book: str, chapter: int, verse: int, version: str = "esv") -> 
     if not parsed:
         raise ValueError("Failed to parse JSON from response")
 
-    # Build result
+    # Build result - handle both dict and list responses
     sentences = []
-    for sent in parsed.get("sentences", []):
+    if isinstance(parsed, list):
+        iter_sentences = parsed
+    else:
+        iter_sentences = parsed.get("sentences", [])
+
+    for sent in iter_sentences:
         original = sent.get("original_text", "")
         word_indices = find_word_indices(original, word_to_id)
 
