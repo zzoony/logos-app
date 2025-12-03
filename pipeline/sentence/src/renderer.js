@@ -474,7 +474,7 @@ let processingTasks = new Map();
  * 분석 진행상황 이벤트 핸들러
  */
 function handleAnalysisProgress(progress) {
-  const { book, chapter, verse, completed, processed, total, status, currentBook, totalBooks, bookIndex } = progress;
+  const { book, chapter, verse, completed, processed, total, status, currentBook, totalBooks, bookIndex, error } = progress;
 
   // 진행률 계산 (처리된 수 기준)
   const processedCount = processed || completed;  // 이전 버전 호환
@@ -496,6 +496,11 @@ function handleAnalysisProgress(progress) {
     });
   } else if (status === 'completed' || status === 'error') {
     processingTasks.delete(taskKey);
+  }
+
+  // 에러 발생 시 상세 로그 출력
+  if (status === 'error') {
+    console.error(`[ERROR] ${book} ${chapter}:${verse} - ${error || 'Unknown error'}`);
   }
 
   // 현재 진행중 목록 UI 업데이트
