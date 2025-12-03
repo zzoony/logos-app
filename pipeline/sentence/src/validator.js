@@ -156,14 +156,14 @@ function validateJsonFormat(verseData) {
               actualType: typeof sent.word_indices
             });
           } else {
-            // 배열 내 요소가 숫자인지 검증
-            const nonNumbers = sent.word_indices.filter(idx => typeof idx !== 'number');
-            if (nonNumbers.length > 0) {
+            // 배열 내 요소가 정수인지 검증 (NaN, Infinity, 소수점 제외)
+            const invalidIndices = sent.word_indices.filter(idx => !Number.isInteger(idx));
+            if (invalidIndices.length > 0) {
               issues.push({
                 type: 'invalid_json_format',
-                message: `sentences[${i}].word_indices에 숫자가 아닌 요소 포함`,
+                message: `sentences[${i}].word_indices에 유효하지 않은 요소 포함`,
                 field: `sentences[${i}].word_indices`,
-                invalidValues: nonNumbers.slice(0, 5)  // 처음 5개만 표시
+                invalidValues: invalidIndices.slice(0, 5)  // 처음 5개만 표시
               });
             }
           }
@@ -355,6 +355,8 @@ function validateBook(bookName, version, progressCallback) {
 
         if (results.issues[issue.type]) {
           results.issues[issue.type].push(issue);
+        } else {
+          console.warn(`[VALIDATE] Unknown issue type: ${issue.type}`, issue);
         }
       }
     }

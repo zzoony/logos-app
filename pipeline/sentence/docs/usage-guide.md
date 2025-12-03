@@ -28,7 +28,7 @@ npm install
 
 ### API 키 설정
 `pipeline/vocabulary/.env` 파일에 API 키를 설정합니다:
-```
+```env
 ZAI_API_KEY=your_api_key_here
 ZAI_API_BASE=https://api.z.ai/api/coding/paas/v4
 ZAI_MODEL=glm-4.6
@@ -169,7 +169,7 @@ module.exports = {
 ## 트러블슈팅
 
 ### API 키 오류
-```
+```text
 Error: API key not found
 ```
 → `pipeline/vocabulary/.env` 파일에 `ZAI_API_KEY`가 설정되어 있는지 확인하세요.
