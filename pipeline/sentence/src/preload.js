@@ -10,6 +10,13 @@ contextBridge.exposeInMainWorld('electronAPI', {
   // 앱 정보
   getAppVersion: () => ipcRenderer.invoke('get-app-version'),
 
+  // 성경 데이터 로드
+  loadBibleData: (version) => ipcRenderer.invoke('load-bible-data', version),
+
+  // Output 폴더 관련
+  initOutputFolders: (version) => ipcRenderer.invoke('init-output-folders', version),
+  getAnalysisProgress: (version) => ipcRenderer.invoke('get-analysis-progress', version),
+
   // 분석 관련 IPC (추후 구현)
   startAnalysis: (books) => ipcRenderer.invoke('start-analysis', books),
   stopAnalysis: () => ipcRenderer.invoke('stop-analysis'),

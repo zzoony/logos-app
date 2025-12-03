@@ -99,6 +99,8 @@ button, input, select, textarea, a, .book-card, .books-grid {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  -webkit-app-region: drag;
+  cursor: grab;
 }
 
 .header h1 {
@@ -371,9 +373,9 @@ button, input, select, textarea, a, .book-card, .books-grid {
    =================================== */
 .books-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 16px;
-  padding: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
+  gap: 10px;
+  padding: 16px;
   max-height: 450px;
   overflow-y: auto;
 }
@@ -404,14 +406,14 @@ button, input, select, textarea, a, .book-card, .books-grid {
   background: var(--bg-elevated);
   border: 2px solid var(--border-color);
   border-radius: var(--radius-md);
-  padding: 16px;
+  padding: 10px;
   cursor: pointer;
   transition: all var(--transition-normal);
   text-align: center;
 }
 
 .book-card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-2px);
   border-color: var(--gray-300);
   box-shadow: var(--shadow-md);
 }
@@ -432,31 +434,31 @@ button, input, select, textarea, a, .book-card, .books-grid {
 }
 
 .book-name {
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 700;
   color: var(--text-primary);
-  margin-bottom: 4px;
+  margin-bottom: 2px;
 }
 
 .book-name-en {
-  font-size: 11px;
+  font-size: 10px;
   color: var(--text-muted);
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 
 .book-stats {
-  font-size: 12px;
+  font-size: 11px;
   color: var(--text-secondary);
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 
 .book-progress-bar {
   width: 100%;
-  height: 4px;
+  height: 3px;
   background: var(--gray-500);
   border-radius: 2px;
   overflow: hidden;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .book-progress-fill {
@@ -467,7 +469,7 @@ button, input, select, textarea, a, .book-card, .books-grid {
 }
 
 .book-progress-text {
-  font-size: 11px;
+  font-size: 10px;
   color: var(--color-primary);
   font-weight: 600;
 }
@@ -651,6 +653,31 @@ button, input, select, textarea, a, .book-card, .books-grid {
   height: 6px;
   border-radius: 50%;
   background: var(--color-success);
+}
+
+.recent-completions li .status-icon.processing {
+  background: var(--color-warning);
+  animation: pulse 1s ease-in-out infinite;
+}
+
+.recent-completions li .status-icon.error {
+  background: var(--color-danger);
+}
+
+.recent-completions li .elapsed {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+
+.recent-completions li.empty {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
 }
 
 /* ===================================
@@ -964,4 +991,118 @@ button, input, select, textarea, a, .book-card, .books-grid {
 
 .mb-4 {
   margin-bottom: 16px;
+}
+
+/* ===================================
+   Settings Tab
+   =================================== */
+.setting-description {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 24px;
+  line-height: 1.6;
+}
+
+.bible-version-selector {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+
+.version-option {
+  flex: 1;
+  cursor: pointer;
+}
+
+.version-option input[type="radio"] {
+  display: none;
+}
+
+.version-card {
+  background: var(--bg-elevated);
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  text-align: center;
+  transition: all var(--transition-normal);
+}
+
+.version-option:hover .version-card {
+  border-color: var(--gray-300);
+  transform: translateY(-2px);
+}
+
+.version-option input[type="radio"]:checked + .version-card {
+  border-color: var(--color-primary);
+  background: rgba(69, 80, 220, 0.1);
+  box-shadow: 0 0 0 1px var(--color-primary);
+}
+
+.version-name {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.version-full {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+}
+
+.version-file {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+  background: var(--bg-card);
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  display: inline-block;
+}
+
+.current-setting {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  background: var(--bg-elevated);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+}
+
+.setting-label {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.setting-value {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.path-display {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  background: var(--bg-elevated);
+  border-radius: var(--radius-md);
+}
+
+.path-label {
+  font-size: 14px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.path-value {
+  font-size: 14px;
+  color: var(--color-primary);
+  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+  background: var(--bg-card);
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  flex: 1;
 }

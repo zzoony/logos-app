@@ -104,126 +104,7 @@
           <span class="text-muted" id="selectedCount">0권 선택됨</span>
         </div>
         <div class="books-grid" id="booksGrid">
-          <!-- 샘플 카드들 -->
-          <div class="book-card selected">
-            <div class="book-name">창세기</div>
-            <div class="book-name-en">Genesis</div>
-            <div class="book-stats">50장 / 1,533구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 100%;"></div>
-            </div>
-            <div class="book-progress-text">100%</div>
-          </div>
-
-          <div class="book-card selected">
-            <div class="book-name">출애굽기</div>
-            <div class="book-name-en">Exodus</div>
-            <div class="book-stats">40장 / 1,213구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 85%;"></div>
-            </div>
-            <div class="book-progress-text">85%</div>
-          </div>
-
-          <div class="book-card analyzing">
-            <div class="book-name">레위기</div>
-            <div class="book-name-en">Leviticus</div>
-            <div class="book-stats">27장 / 859구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 42%;"></div>
-            </div>
-            <div class="book-progress-text">42%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">민수기</div>
-            <div class="book-name-en">Numbers</div>
-            <div class="book-stats">36장 / 1,288구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">신명기</div>
-            <div class="book-name-en">Deuteronomy</div>
-            <div class="book-stats">34장 / 959구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">여호수아</div>
-            <div class="book-name-en">Joshua</div>
-            <div class="book-stats">24장 / 658구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">사사기</div>
-            <div class="book-name-en">Judges</div>
-            <div class="book-stats">21장 / 618구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">룻기</div>
-            <div class="book-name-en">Ruth</div>
-            <div class="book-stats">4장 / 85구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">마태복음</div>
-            <div class="book-name-en">Matthew</div>
-            <div class="book-stats">28장 / 1,071구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">마가복음</div>
-            <div class="book-name-en">Mark</div>
-            <div class="book-stats">16장 / 678구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">누가복음</div>
-            <div class="book-name-en">Luke</div>
-            <div class="book-stats">24장 / 1,151구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
-
-          <div class="book-card">
-            <div class="book-name">요한복음</div>
-            <div class="book-name-en">John</div>
-            <div class="book-stats">21장 / 879구절</div>
-            <div class="book-progress-bar">
-              <div class="book-progress-fill" style="width: 0%;"></div>
-            </div>
-            <div class="book-progress-text">0%</div>
-          </div>
+          <!-- 동적으로 생성됨 -->
         </div>
       </div>
 
@@ -250,30 +131,30 @@
         </div>
       </div>
 
-      <!-- 분석 진행 패널 (숨김 상태 샘플) -->
+      <!-- 분석 진행 패널 -->
       <div class="card hidden" id="analysisPanel">
         <div class="analysis-panel">
-          <h3>🔄 자동 분석 진행 중...</h3>
+          <h3>분석 진행 중...</h3>
 
           <div class="current-batch">
-            <p><strong>현재:</strong> <span id="currentBook">레위기</span> - <span id="currentBatch">1-50절</span></p>
+            <p id="analysisStatus">준비 중...</p>
             <div class="progress-bar">
-              <div class="progress-fill" id="batchProgress" style="width: 42%;"></div>
+              <div class="progress-fill" id="analysisProgressFill" style="width: 0%;"></div>
             </div>
           </div>
 
           <div class="analysis-stats">
             <div class="stat">
-              <span class="stat-label">진행 시간</span>
-              <span class="stat-value" id="elapsedTime">00:05:32</span>
+              <span class="stat-label">현재 책</span>
+              <span class="stat-value" id="currentBook">-</span>
             </div>
             <div class="stat">
-              <span class="stat-label">남은 시간</span>
-              <span class="stat-value" id="remainingTime">00:12:28</span>
+              <span class="stat-label">진행률</span>
+              <span class="stat-value" id="currentProgress">0%</span>
             </div>
             <div class="stat">
               <span class="stat-label">완료</span>
-              <span class="stat-value success" id="completedCount">156</span>
+              <span class="stat-value success" id="completedCount">0</span>
             </div>
             <div class="stat">
               <span class="stat-label">처리 중</span>
@@ -290,13 +171,9 @@
           </div>
 
           <div class="recent-completions">
-            <h4>최근 완료</h4>
-            <ul id="recentList">
-              <li><span class="status-icon"></span>레위기 3:12 - 완료</li>
-              <li><span class="status-icon"></span>레위기 3:11 - 완료</li>
-              <li><span class="status-icon"></span>레위기 3:10 - 완료</li>
-              <li><span class="status-icon"></span>레위기 3:9 - 완료</li>
-              <li><span class="status-icon"></span>레위기 3:8 - 완료</li>
+            <h4>현재 진행중 (Pool: 5)</h4>
+            <ul id="processingList">
+              <!-- 동적으로 생성됨 -->
             </ul>
           </div>
         </div>
@@ -314,11 +191,51 @@
       </div>
     </div>
 
-    <!-- 설정 탭 (placeholder) -->
+    <!-- 설정 탭 -->
     <div class="tab-content" id="settingsTab" style="display: none;">
       <div class="card">
-        <div class="card-body text-center">
-          <h2 style="color: var(--text-muted); padding: 60px 0;">설정 기능 준비 중...</h2>
+        <div class="card-header">
+          <h3 class="card-title">📖 성경 버전 선택</h3>
+        </div>
+        <div class="card-body">
+          <p class="setting-description">분석에 사용할 성경 버전을 선택하세요. 선택한 버전의 JSON 파일이 분석 소스로 사용됩니다.</p>
+
+          <div class="bible-version-selector">
+            <label class="version-option">
+              <input type="radio" name="bibleVersion" value="ESV" checked>
+              <div class="version-card">
+                <div class="version-name">ESV</div>
+                <div class="version-full">English Standard Version</div>
+                <div class="version-file">ESV_Bible.json</div>
+              </div>
+            </label>
+
+            <label class="version-option">
+              <input type="radio" name="bibleVersion" value="NIV">
+              <div class="version-card">
+                <div class="version-name">NIV</div>
+                <div class="version-full">New International Version</div>
+                <div class="version-file">NIV_Bible.json</div>
+              </div>
+            </label>
+          </div>
+
+          <div class="current-setting">
+            <span class="setting-label">현재 선택:</span>
+            <span class="setting-value" id="currentVersionDisplay">ESV</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">📁 소스 파일 경로</h3>
+        </div>
+        <div class="card-body">
+          <div class="path-display">
+            <span class="path-label">Source Data:</span>
+            <code class="path-value" id="sourcePathDisplay">source-data/ESV_Bible.json</code>
+          </div>
         </div>
       </div>
     </div>
