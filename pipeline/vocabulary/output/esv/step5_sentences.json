@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_sentences": 15696,
+    "total_sentences": 15711,
     "source": "English Standard Version"
   },
   "sentences": {
@@ -19,15 +19,15 @@
       "ref": "Numbers 4:21",
       "book": "Numbers"
     },
-    "psalms-18-1": {
-      "text": "I love you, O Lord, my strength.",
-      "ref": "Psalms 18:1",
-      "book": "Psalms"
-    },
     "isaiah-37-15": {
       "text": "And Hezekiah prayed to the Lord:",
       "ref": "Isaiah 37:15",
       "book": "Isaiah"
+    },
+    "jeremiah-16-1": {
+      "text": "The word of the Lord came to me:",
+      "ref": "Jeremiah 16:1",
+      "book": "Jeremiah"
     },
     "hebrews-12-29": {
       "text": "for our God is a consuming fire.",
@@ -389,11 +389,6 @@
       "ref": "1 Kings 5:2",
       "book": "1 Kings"
     },
-    "jeremiah-16-1": {
-      "text": "The word of the Lord came to me:",
-      "ref": "Jeremiah 16:1",
-      "book": "Jeremiah"
-    },
     "ezekiel-6-1": {
       "text": "The word of the Lord came to me:",
       "ref": "Ezekiel 6:1",
@@ -403,6 +398,11 @@
       "text": "The word of the Lord came to Samuel:",
       "ref": "1 Samuel 15:10",
       "book": "1 Samuel"
+    },
+    "zechariah-6-9": {
+      "text": "And the word of the Lord came to me:",
+      "ref": "Zechariah 6:9",
+      "book": "Zechariah"
     },
     "acts-8-8": {
       "text": "So there was much joy in that city.",
@@ -664,11 +664,6 @@
       "ref": "Lamentations 3:41",
       "book": "Lamentations"
     },
-    "psalms-7-10": {
-      "text": "My shield is with God,\n    who saves the upright in heart.",
-      "ref": "Psalms 7:10",
-      "book": "Psalms"
-    },
     "luke-12-34": {
       "text": "For where your treasure is, there will your heart be also.",
       "ref": "Luke 12:34",
@@ -678,6 +673,11 @@
       "text": "In return (I speak as to children) widen your hearts also.",
       "ref": "2 Corinthians 6:13",
       "book": "2 Corinthians"
+    },
+    "psalms-7-10": {
+      "text": "My shield is with God,\n    who saves the upright in heart.",
+      "ref": "Psalms 7:10",
+      "book": "Psalms"
     },
     "john-7-43": {
       "text": "So there was a division among the people over him.",
@@ -769,15 +769,15 @@
       "ref": "Joshua 19:28",
       "book": "Joshua"
     },
-    "psalms-76-1": {
-      "text": "In Judah God is known;\n    his name is great in Israel.",
-      "ref": "Psalms 76:1",
-      "book": "Psalms"
-    },
     "hebrews-10-21": {
       "text": "and since we have a great priest over the house of God,",
       "ref": "Hebrews 10:21",
       "book": "Hebrews"
+    },
+    "psalms-76-1": {
+      "text": "In Judah God is known;\n    his name is great in Israel.",
+      "ref": "Psalms 76:1",
+      "book": "Psalms"
     },
     "matthew-22-14": {
       "text": "For many are called, but few are chosen.”",
@@ -789,15 +789,15 @@
       "ref": "Galatians 5:8",
       "book": "Galatians"
     },
-    "psalms-55-16": {
-      "text": "But I call to God,\n    and the Lord will save me.",
-      "ref": "Psalms 55:16",
-      "book": "Psalms"
-    },
     "luke-20-44": {
       "text": "David thus calls him Lord, so how is he his son?”",
       "ref": "Luke 20:44",
       "book": "Luke"
+    },
+    "psalms-55-16": {
+      "text": "But I call to God,\n    and the Lord will save me.",
+      "ref": "Psalms 55:16",
+      "book": "Psalms"
     },
     "1-thessalonians-5-24": {
       "text": "He who calls you is faithful; he will surely do it.",
@@ -879,6 +879,11 @@
       "ref": "Psalms 38:18",
       "book": "Psalms"
     },
+    "psalms-18-1": {
+      "text": "I love you, O Lord, my strength.",
+      "ref": "Psalms 18:1",
+      "book": "Psalms"
+    },
     "1-john-4-19": {
       "text": "We love because he first loved us.",
       "ref": "1 John 4:19",
@@ -898,11 +903,6 @@
       "text": "Better is open rebuke\n    than hidden love.",
       "ref": "Proverbs 27:5",
       "book": "Proverbs"
-    },
-    "2-corinthians-2-8": {
-      "text": "So I beg you to reaffirm your love for him.",
-      "ref": "2 Corinthians 2:8",
-      "book": "2 Corinthians"
     },
     "john-8-45": {
       "text": "But because I tell the truth, you do not believe me.",
@@ -1064,15 +1064,15 @@
       "ref": "Ezekiel 7:17",
       "book": "Ezekiel"
     },
-    "psalms-124-5": {
-      "text": "then over us would have gone\n    the raging waters.",
-      "ref": "Psalms 124:5",
-      "book": "Psalms"
-    },
     "lamentations-3-54": {
       "text": "water closed over my head;\n    I said, ‘I am lost.’",
       "ref": "Lamentations 3:54",
       "book": "Lamentations"
+    },
+    "psalms-124-5": {
+      "text": "then over us would have gone\n    the raging waters.",
+      "ref": "Psalms 124:5",
+      "book": "Psalms"
     },
     "1-corinthians-3-6": {
       "text": "I planted, Apollos watered, but God gave the growth.",
@@ -1179,15 +1179,15 @@
       "ref": "John 14:15",
       "book": "John"
     },
-    "psalms-115-2": {
-      "text": "Why should the nations say,\n    “Where is their God?”",
-      "ref": "Psalms 115:2",
-      "book": "Psalms"
-    },
     "zephaniah-2-1": {
       "text": "Gather together, yes, gather,\n    O shameless nation,",
       "ref": "Zephaniah 2:1",
       "book": "Zephaniah"
+    },
+    "psalms-115-2": {
+      "text": "Why should the nations say,\n    “Where is their God?”",
+      "ref": "Psalms 115:2",
+      "book": "Psalms"
     },
     "mark-13-10": {
       "text": "And the gospel must first be proclaimed to all nations.",
@@ -1409,15 +1409,15 @@
       "ref": "Mark 13:36",
       "book": "Mark"
     },
-    "psalms-119-162": {
-      "text": "I rejoice at your word\n    like one who finds great spoil.",
-      "ref": "Psalms 119:162",
-      "book": "Psalms"
-    },
     "2-corinthians-13-6": {
       "text": "I hope you will find out that we have not failed the test.",
       "ref": "2 Corinthians 13:6",
       "book": "2 Corinthians"
+    },
+    "psalms-119-162": {
+      "text": "I rejoice at your word\n    like one who finds great spoil.",
+      "ref": "Psalms 119:162",
+      "book": "Psalms"
     },
     "luke-11-25": {
       "text": "And when it comes, it finds the house swept and put in order.",
@@ -2549,10 +2549,10 @@
       "ref": "Matthew 10:7",
       "book": "Matthew"
     },
-    "psalms-102-22": {
-      "text": "when peoples gather together,\n    and kingdoms, to worship the Lord.",
-      "ref": "Psalms 102:22",
-      "book": "Psalms"
+    "daniel-5-28": {
+      "text": "Peres, your kingdom is divided and given to the Medes and Persians.”",
+      "ref": "Daniel 5:28",
+      "book": "Daniel"
     },
     "numbers-28-29": {
       "text": "a tenth for each of the seven lambs;",
@@ -2604,15 +2604,15 @@
       "ref": "Mark 8:13",
       "book": "Mark"
     },
-    "psalms-102-27": {
-      "text": "but you are the same, and your years have no end.",
-      "ref": "Psalms 102:27",
-      "book": "Psalms"
-    },
     "matthew-24-13": {
       "text": "But the one who endures to the end will be saved.",
       "ref": "Matthew 24:13",
       "book": "Matthew"
+    },
+    "psalms-102-27": {
+      "text": "but you are the same, and your years have no end.",
+      "ref": "Psalms 102:27",
+      "book": "Psalms"
     },
     "deuteronomy-15-1": {
       "text": "“At the end of every seven years you shall grant a release.",
@@ -3129,15 +3129,15 @@
       "ref": "Leviticus 7:27",
       "book": "Leviticus"
     },
-    "psalms-132-3": {
-      "text": "“I will not enter my house\n    or get into my bed,",
-      "ref": "Psalms 132:3",
-      "book": "Psalms"
-    },
     "matthew-12-9": {
       "text": "He went on from there and entered their synagogue.",
       "ref": "Matthew 12:9",
       "book": "Matthew"
+    },
+    "psalms-132-3": {
+      "text": "“I will not enter my house\n    or get into my bed,",
+      "ref": "Psalms 132:3",
+      "book": "Psalms"
     },
     "john-10-2": {
       "text": "But he who enters by the door is the shepherd of the sheep.",
@@ -3239,15 +3239,15 @@
       "ref": "1 Kings 13:15",
       "book": "1 Kings"
     },
-    "psalms-102-9": {
-      "text": "For I eat ashes like bread\n    and mingle tears with my drink,",
-      "ref": "Psalms 102:9",
-      "book": "Psalms"
-    },
     "proverbs-9-5": {
       "text": "“Come, eat of my bread\n    and drink of the wine I have mixed.",
       "ref": "Proverbs 9:5",
       "book": "Proverbs"
+    },
+    "psalms-102-9": {
+      "text": "For I eat ashes like bread\n    and mingle tears with my drink,",
+      "ref": "Psalms 102:9",
+      "book": "Psalms"
     },
     "exodus-39-36": {
       "text": "the table with all its utensils, and the bread of the Presence;",
@@ -3289,15 +3289,15 @@
       "ref": "Lamentations 5:11",
       "book": "Lamentations"
     },
-    "psalms-105-34": {
-      "text": "He spoke, and the locusts came,\n    young locusts without number,",
-      "ref": "Psalms 105:34",
-      "book": "Psalms"
-    },
     "titus-2-4": {
       "text": "and so train the young women to love their husbands and children,",
       "ref": "Titus 2:4",
       "book": "Titus"
+    },
+    "psalms-105-34": {
+      "text": "He spoke, and the locusts came,\n    young locusts without number,",
+      "ref": "Psalms 105:34",
+      "book": "Psalms"
     },
     "song-of-solomon-2-2": {
       "text": "As a lily among brambles,\n    so is my love among the young women.",
@@ -4889,15 +4889,15 @@
       "ref": "Job 12:17",
       "book": "Job"
     },
-    "psalms-119-35": {
-      "text": "Lead me in the path of your commandments,\n    for I delight in it.",
-      "ref": "Psalms 119:35",
-      "book": "Psalms"
-    },
     "mark-13-5": {
       "text": "And Jesus began to say to them, “See that no one leads you astray.",
       "ref": "Mark 13:5",
       "book": "Mark"
+    },
+    "psalms-119-35": {
+      "text": "Lead me in the path of your commandments,\n    for I delight in it.",
+      "ref": "Psalms 119:35",
+      "book": "Psalms"
     },
     "1-john-5-17": {
       "text": "All wrongdoing is sin, but there is sin that does not lead to death.",
@@ -4994,15 +4994,15 @@
       "ref": "2 Kings 22:11",
       "book": "2 Kings"
     },
-    "psalms-132-18": {
-      "text": "His enemies I will clothe with shame,\n    but on him his crown will shine.”",
-      "ref": "Psalms 132:18",
-      "book": "Psalms"
-    },
     "isaiah-50-3": {
       "text": "I clothe the heavens with blackness\n    and make sackcloth their covering.”",
       "ref": "Isaiah 50:3",
       "book": "Isaiah"
+    },
+    "psalms-132-18": {
+      "text": "His enemies I will clothe with shame,\n    but on him his crown will shine.”",
+      "ref": "Psalms 132:18",
+      "book": "Psalms"
     },
     "psalms-25-1": {
       "text": "To you, O Lord, I lift up my soul.",
@@ -5509,15 +5509,15 @@
       "ref": "Isaiah 12:3",
       "book": "Isaiah"
     },
-    "psalms-69-18": {
-      "text": "Draw near to my soul, redeem me;\n    ransom me because of my enemies!",
-      "ref": "Psalms 69:18",
-      "book": "Psalms"
-    },
     "luke-15-1": {
       "text": "Now the tax collectors and sinners were all drawing near to hear him.",
       "ref": "Luke 15:1",
       "book": "Luke"
+    },
+    "psalms-69-18": {
+      "text": "Draw near to my soul, redeem me;\n    ransom me because of my enemies!",
+      "ref": "Psalms 69:18",
+      "book": "Psalms"
     },
     "job-36-27": {
       "text": "For he draws up the drops of water;\n    they distill his mist in rain,",
@@ -5669,15 +5669,15 @@
       "ref": "Revelation 6:17",
       "book": "Revelation"
     },
-    "psalms-88-16": {
-      "text": "Your wrath has swept over me;\n    your dreadful assaults destroy me.",
-      "ref": "Psalms 88:16",
-      "book": "Psalms"
-    },
     "lamentations-3-1": {
       "text": "I am the man who has seen affliction\n    under the rod of his wrath;",
       "ref": "Lamentations 3:1",
       "book": "Lamentations"
+    },
+    "psalms-88-16": {
+      "text": "Your wrath has swept over me;\n    your dreadful assaults destroy me.",
+      "ref": "Psalms 88:16",
+      "book": "Psalms"
     },
     "john-6-18": {
       "text": "The sea became rough because a strong wind was blowing.",
@@ -5694,15 +5694,15 @@
       "ref": "2 Samuel 22:33",
       "book": "2 Samuel"
     },
-    "psalms-22-12": {
-      "text": "Many bulls encompass me;\n    strong bulls of Bashan surround me;",
-      "ref": "Psalms 22:12",
-      "book": "Psalms"
-    },
     "proverbs-31-17": {
       "text": "She dresses herself with strength\n    and makes her arms strong.",
       "ref": "Proverbs 31:17",
       "book": "Proverbs"
+    },
+    "ephesians-6-10": {
+      "text": "Finally, be strong in the Lord and in the strength of his might.",
+      "ref": "Ephesians 6:10",
+      "book": "Ephesians"
     },
     "1-corinthians-12-4": {
       "text": "Now there are varieties of gifts, but the same Spirit;",
@@ -5809,11 +5809,6 @@
       "ref": "Ecclesiastes 7:20",
       "book": "Ecclesiastes"
     },
-    "psalms-128-1": {
-      "text": "Blessed is everyone who fears the Lord,\n    who walks in his ways!",
-      "ref": "Psalms 128:1",
-      "book": "Psalms"
-    },
     "mark-1-37": {
       "text": "and they found him and said to him, “Everyone is looking for you.”",
       "ref": "Mark 1:37",
@@ -5833,6 +5828,11 @@
       "text": "And everyone who thus hopes in him purifies himself as he is pure.",
       "ref": "1 John 3:3",
       "book": "1 John"
+    },
+    "psalms-128-1": {
+      "text": "Blessed is everyone who fears the Lord,\n    who walks in his ways!",
+      "ref": "Psalms 128:1",
+      "book": "Psalms"
     },
     "1-chronicles-24-17": {
       "text": "the twenty-first to Jachin, the twenty-second to Gamul,",
@@ -5979,10 +5979,10 @@
       "ref": "Matthew 27:39",
       "book": "Matthew"
     },
-    "psalms-144-4": {
-      "text": "Man is like a breath;\n    his days are like a passing shadow.",
-      "ref": "Psalms 144:4",
-      "book": "Psalms"
+    "revelation-9-12": {
+      "text": "The first woe has passed; behold, two woes are still to come.",
+      "ref": "Revelation 9:12",
+      "book": "Revelation"
     },
     "numbers-29-10": {
       "text": "a tenth for each of the seven lambs:",
@@ -6109,15 +6109,15 @@
       "ref": "Acts 10:40",
       "book": "Acts"
     },
-    "psalms-75-2": {
-      "text": "“At the set time that I appoint\n    I will judge with equity.",
-      "ref": "Psalms 75:2",
-      "book": "Psalms"
-    },
     "2-timothy-1-11": {
       "text": "for which I was appointed a preacher and apostle and teacher,",
       "ref": "2 Timothy 1:11",
       "book": "2 Timothy"
+    },
+    "psalms-75-2": {
+      "text": "“At the set time that I appoint\n    I will judge with equity.",
+      "ref": "Psalms 75:2",
+      "book": "Psalms"
     },
     "mark-3-16": {
       "text": "He appointed the twelve: Simon (to whom he gave the name Peter);",
@@ -7609,15 +7609,15 @@
       "ref": "Job 13:18",
       "book": "Job"
     },
+    "psalms-22-12": {
+      "text": "Many bulls encompass me;\n    strong bulls of Bashan surround me;",
+      "ref": "Psalms 22:12",
+      "book": "Psalms"
+    },
     "1-samuel-1-25": {
       "text": "Then they slaughtered the bull, and they brought the child to Eli.",
       "ref": "1 Samuel 1:25",
       "book": "1 Samuel"
-    },
-    "psalms-50-9": {
-      "text": "I will not accept a bull from your house\n    or goats from your folds.",
-      "ref": "Psalms 50:9",
-      "book": "Psalms"
     },
     "hebrews-10-4": {
       "text": "For it is impossible for the blood of bulls and goats to take away sins.",
@@ -7799,15 +7799,15 @@
       "ref": "Exodus 25:4",
       "book": "Exodus"
     },
+    "psalms-50-9": {
+      "text": "I will not accept a bull from your house\n    or goats from your folds.",
+      "ref": "Psalms 50:9",
+      "book": "Psalms"
+    },
     "proverbs-30-31": {
       "text": "the strutting rooster, the he-goat,\n    and a king whose army is with him.",
       "ref": "Proverbs 30:31",
       "book": "Proverbs"
-    },
-    "jeremiah-51-40": {
-      "text": "I will bring them down like lambs to the slaughter,\n    like rams and male goats.",
-      "ref": "Jeremiah 51:40",
-      "book": "Jeremiah"
     },
     "nehemiah-7-68": {
       "text": "Their horses were 736, their mules 245,",
@@ -9359,15 +9359,15 @@
       "ref": "1 Chronicles 8:12",
       "book": "1 Chronicles"
     },
-    "psalms-119-163": {
-      "text": "I hate and abhor falsehood,\n    but I love your law.",
-      "ref": "Psalms 119:163",
-      "book": "Psalms"
-    },
     "romans-9-13": {
       "text": "As it is written, “Jacob I loved, but Esau I hated.”",
       "ref": "Romans 9:13",
       "book": "Romans"
+    },
+    "psalms-119-163": {
+      "text": "I hate and abhor falsehood,\n    but I love your law.",
+      "ref": "Psalms 119:163",
+      "book": "Psalms"
     },
     "john-15-18": {
       "text": "“If the world hates you, know that it has hated me before it hated you.",
@@ -9564,15 +9564,15 @@
       "ref": "Isaiah 23:14",
       "book": "Isaiah"
     },
-    "psalms-106-15": {
-      "text": "he gave them what they asked,\n    but sent a wasting disease among them.",
-      "ref": "Psalms 106:15",
-      "book": "Psalms"
-    },
     "lamentations-3-4": {
       "text": "He has made my flesh and my skin waste away;\n    he has broken my bones;",
       "ref": "Lamentations 3:4",
       "book": "Lamentations"
+    },
+    "psalms-106-15": {
+      "text": "he gave them what they asked,\n    but sent a wasting disease among them.",
+      "ref": "Psalms 106:15",
+      "book": "Psalms"
     },
     "job-13-28": {
       "text": "Man wastes away like a rotten thing,\n    like a garment that is moth-eaten.",
@@ -10139,15 +10139,15 @@
       "ref": "Exodus 1:13",
       "book": "Exodus"
     },
-    "psalms-105-17": {
-      "text": "he had sent a man ahead of them,\n    Joseph, who was sold as a slave.",
-      "ref": "Psalms 105:17",
-      "book": "Psalms"
-    },
     "galatians-4-31": {
       "text": "So, brothers, we are not children of the slave but of the free woman.",
       "ref": "Galatians 4:31",
       "book": "Galatians"
+    },
+    "psalms-105-17": {
+      "text": "he had sent a man ahead of them,\n    Joseph, who was sold as a slave.",
+      "ref": "Psalms 105:17",
+      "book": "Psalms"
     },
     "john-8-35": {
       "text": "The slave does not remain in the house forever; the son remains forever.",
@@ -10489,15 +10489,15 @@
       "ref": "Job 13:6",
       "book": "Job"
     },
-    "psalms-34-13": {
-      "text": "Keep your tongue from evil\n    and your lips from speaking deceit.",
-      "ref": "Psalms 34:13",
-      "book": "Psalms"
-    },
     "proverbs-23-16": {
       "text": "My inmost being will exult\n    when your lips speak what is right.",
       "ref": "Proverbs 23:16",
       "book": "Proverbs"
+    },
+    "psalms-34-13": {
+      "text": "Keep your tongue from evil\n    and your lips from speaking deceit.",
+      "ref": "Psalms 34:13",
+      "book": "Psalms"
     },
     "lamentations-3-62": {
       "text": "The lips and thoughts of my assailants\n    are against me all the day long.",
@@ -11089,15 +11089,15 @@
       "ref": "Job 35:4",
       "book": "Job"
     },
-    "psalms-55-13": {
-      "text": "But it is you, a man, my equal,\n    my companion, my familiar friend.",
-      "ref": "Psalms 55:13",
-      "book": "Psalms"
-    },
     "proverbs-17-17": {
       "text": "A friend loves at all times,\n    and a brother is born for adversity.",
       "ref": "Proverbs 17:17",
       "book": "Proverbs"
+    },
+    "psalms-55-13": {
+      "text": "But it is you, a man, my equal,\n    my companion, my familiar friend.",
+      "ref": "Psalms 55:13",
+      "book": "Psalms"
     },
     "3-john-1-15": {
       "text": "Peace be to you. The friends greet you. Greet the friends, each by name.",
@@ -11464,15 +11464,15 @@
       "ref": "2 Kings 4:11",
       "book": "2 Kings"
     },
-    "psalms-105-30": {
-      "text": "Their land swarmed with frogs,\n    even in the chambers of their kings.",
-      "ref": "Psalms 105:30",
-      "book": "Psalms"
-    },
     "proverbs-7-27": {
       "text": "Her house is the way to Sheol,\n    going down to the chambers of death.",
       "ref": "Proverbs 7:27",
       "book": "Proverbs"
+    },
+    "psalms-105-30": {
+      "text": "Their land swarmed with frogs,\n    even in the chambers of their kings.",
+      "ref": "Psalms 105:30",
+      "book": "Psalms"
     },
     "ezekiel-41-10": {
       "text": "other chambers was a breadth of twenty cubits all around the temple on every side.",
@@ -11609,15 +11609,15 @@
       "ref": "Luke 24:14",
       "book": "Luke"
     },
-    "psalms-55-5": {
-      "text": "Fear and trembling come upon me,\n    and horror overwhelms me.",
-      "ref": "Psalms 55:5",
-      "book": "Psalms"
-    },
     "1-corinthians-2-3": {
       "text": "And I was with you in weakness and in fear and much trembling,",
       "ref": "1 Corinthians 2:3",
       "book": "1 Corinthians"
+    },
+    "psalms-55-5": {
+      "text": "Fear and trembling come upon me,\n    and horror overwhelms me.",
+      "ref": "Psalms 55:5",
+      "book": "Psalms"
     },
     "job-37-1": {
       "text": "“At this also my heart trembles\n    and leaps out of its place.",
@@ -11914,15 +11914,15 @@
       "ref": "Proverbs 7:17",
       "book": "Proverbs"
     },
-    "psalms-149-5": {
-      "text": "Let the godly exult in glory;\n    let them sing for joy on their beds.",
-      "ref": "Psalms 149:5",
-      "book": "Psalms"
-    },
     "mark-7-30": {
       "text": "And she went home and found the child lying in bed and the demon gone.",
       "ref": "Mark 7:30",
       "book": "Mark"
+    },
+    "psalms-149-5": {
+      "text": "Let the godly exult in glory;\n    let them sing for joy on their beds.",
+      "ref": "Psalms 149:5",
+      "book": "Psalms"
     },
     "2-kings-4-32": {
       "text": "When Elisha came into the house, he saw the child lying dead on his bed.",
@@ -12109,11 +12109,6 @@
       "ref": "Revelation 8:4",
       "book": "Revelation"
     },
-    "revelation-9-12": {
-      "text": "The first woe has passed; behold, two woes are still to come.",
-      "ref": "Revelation 9:12",
-      "book": "Revelation"
-    },
     "lamentations-5-16": {
       "text": "The crown has fallen from our head;\n    woe to us, for we have sinned!",
       "ref": "Lamentations 5:16",
@@ -12133,6 +12128,11 @@
       "text": "Woe to you! For you build the tombs of the prophets whom your fathers killed.",
       "ref": "Luke 11:47",
       "book": "Luke"
+    },
+    "psalms-120-5": {
+      "text": "Woe to me, that I sojourn in Meshech,\n    that I dwell among the tents of Kedar!",
+      "ref": "Psalms 120:5",
+      "book": "Psalms"
     },
     "acts-15-37": {
       "text": "Now Barnabas wanted to take with them John called Mark.",
@@ -13439,25 +13439,25 @@
       "ref": "Genesis 22:10",
       "book": "Genesis"
     },
-    "psalms-44-11": {
-      "text": "You have made us like sheep for slaughter\n    and have scattered us among the nations.",
-      "ref": "Psalms 44:11",
-      "book": "Psalms"
+    "jeremiah-51-40": {
+      "text": "I will bring them down like lambs to the slaughter,\n    like rams and male goats.",
+      "ref": "Jeremiah 51:40",
+      "book": "Jeremiah"
     },
     "ezekiel-16-21": {
       "text": "that you slaughtered my children and delivered them up as an offering by fire to them?",
       "ref": "Ezekiel 16:21",
       "book": "Ezekiel"
     },
+    "psalms-44-11": {
+      "text": "You have made us like sheep for slaughter\n    and have scattered us among the nations.",
+      "ref": "Psalms 44:11",
+      "book": "Psalms"
+    },
     "proverbs-9-2": {
       "text": "She has slaughtered her beasts; she has mixed her wine;\n    she has also set her table.",
       "ref": "Proverbs 9:2",
       "book": "Proverbs"
-    },
-    "hosea-5-2": {
-      "text": "And the revolters have gone deep into slaughter,\n    but I will discipline all of them.",
-      "ref": "Hosea 5:2",
-      "book": "Hosea"
     },
     "song-of-solomon-1-1": {
       "text": "The Song of Songs, which is Solomon's.",
@@ -13489,15 +13489,15 @@
       "ref": "Mark 1:25",
       "book": "Mark"
     },
-    "psalms-73-14": {
-      "text": "For all the day long I have been stricken\n    and rebuked every morning.",
-      "ref": "Psalms 73:14",
-      "book": "Psalms"
-    },
     "proverbs-30-6": {
       "text": "Do not add to his words,\n    lest he rebuke you and you be found a liar.",
       "ref": "Proverbs 30:6",
       "book": "Proverbs"
+    },
+    "psalms-73-14": {
+      "text": "For all the day long I have been stricken\n    and rebuked every morning.",
+      "ref": "Psalms 73:14",
+      "book": "Psalms"
     },
     "1-chronicles-16-21": {
       "text": "he allowed no one to oppress them;\n    he rebuked kings on their account,",
@@ -14584,15 +14584,15 @@
       "ref": "Mark 1:32",
       "book": "Mark"
     },
-    "psalms-74-17": {
-      "text": "You have fixed all the boundaries of the earth;\n    you have made summer and winter.",
-      "ref": "Psalms 74:17",
-      "book": "Psalms"
-    },
     "proverbs-15-25": {
       "text": "The Lord tears down the house of the proud\n    but maintains the widow's boundaries.",
       "ref": "Proverbs 15:25",
       "book": "Proverbs"
+    },
+    "psalms-74-17": {
+      "text": "You have fixed all the boundaries of the earth;\n    you have made summer and winter.",
+      "ref": "Psalms 74:17",
+      "book": "Psalms"
     },
     "micah-7-11": {
       "text": "A day for the building of your walls!\n    In that day the boundary shall be far extended.",
@@ -14834,15 +14834,15 @@
       "ref": "Genesis 22:24",
       "book": "Genesis"
     },
-    "psalms-119-30": {
-      "text": "I have chosen the way of faithfulness;\n    I set your rules before me.",
-      "ref": "Psalms 119:30",
-      "book": "Psalms"
-    },
     "hosea-2-20": {
       "text": "I will betroth you to me in faithfulness. And you shall know the Lord.",
       "ref": "Hosea 2:20",
       "book": "Hosea"
+    },
+    "psalms-119-30": {
+      "text": "I have chosen the way of faithfulness;\n    I set your rules before me.",
+      "ref": "Psalms 119:30",
+      "book": "Psalms"
     },
     "romans-3-3": {
       "text": "What if some were unfaithful? Does their faithlessness nullify the faithfulness of God?",
@@ -15089,15 +15089,15 @@
       "ref": "Proverbs 31:12",
       "book": "Proverbs"
     },
-    "psalms-105-15": {
-      "text": "saying, “Touch not my anointed ones,\n    do my prophets no harm!”",
-      "ref": "Psalms 105:15",
-      "book": "Psalms"
-    },
     "1-peter-3-13": {
       "text": "Now who is there to harm you if you are zealous for what is good?",
       "ref": "1 Peter 3:13",
       "book": "1 Peter"
+    },
+    "psalms-105-15": {
+      "text": "saying, “Touch not my anointed ones,\n    do my prophets no harm!”",
+      "ref": "Psalms 105:15",
+      "book": "Psalms"
     },
     "jeremiah-39-12": {
       "text": "“Take him, look after him well, and do him no harm, but deal with him as he tells you.”",
@@ -15824,15 +15824,15 @@
       "ref": "Luke 3:18",
       "book": "Luke"
     },
-    "psalms-112-7": {
-      "text": "He is not afraid of bad news;\n    his heart is firm, trusting in the Lord.",
-      "ref": "Psalms 112:7",
-      "book": "Psalms"
-    },
     "proverbs-25-25": {
       "text": "Like cold water to a thirsty soul,\n    so is good news from a far country.",
       "ref": "Proverbs 25:25",
       "book": "Proverbs"
+    },
+    "psalms-112-7": {
+      "text": "He is not afraid of bad news;\n    his heart is firm, trusting in the Lord.",
+      "ref": "Psalms 112:7",
+      "book": "Psalms"
     },
     "job-41-21": {
       "text": "His breath kindles coals,\n    and a flame comes forth from his mouth.",
@@ -16029,10 +16029,10 @@
       "ref": "Mark 13:25",
       "book": "Mark"
     },
-    "2-kings-8-11": {
-      "text": "And he fixed his gaze and stared at him, until he was embarrassed. And the man of God wept.",
-      "ref": "2 Kings 8:11",
-      "book": "2 Kings"
+    "deuteronomy-1-10": {
+      "text": "The Lord your God has multiplied you, and behold, you are today as numerous as the stars of heaven.",
+      "ref": "Deuteronomy 1:10",
+      "book": "Deuteronomy"
     },
     "psalms-105-28": {
       "text": "He sent darkness, and made the land dark;\n    they did not rebel against his words.",
@@ -16209,15 +16209,20 @@
       "ref": "1 Corinthians 3:12",
       "book": "1 Corinthians"
     },
-    "psalms-94-11": {
-      "text": "the Lord—knows the thoughts of man,\n    that they are but a breath.",
-      "ref": "Psalms 94:11",
+    "psalms-144-4": {
+      "text": "Man is like a breath;\n    his days are like a passing shadow.",
+      "ref": "Psalms 144:4",
       "book": "Psalms"
     },
     "job-7-7": {
       "text": "“Remember that my life is a breath;\n    my eye will never again see good.",
       "ref": "Job 7:7",
       "book": "Job"
+    },
+    "john-20-22": {
+      "text": "And when he had said this, he breathed on them and said to them, “Receive the Holy Spirit.",
+      "ref": "John 20:22",
+      "book": "John"
     },
     "isaiah-33-11": {
       "text": "You conceive chaff; you give birth to stubble;\n    your breath is a fire that will consume you.",
@@ -16228,11 +16233,6 @@
       "text": "They went into the ark with Noah, two and two of all flesh in which there was the breath of life.",
       "ref": "Genesis 7:15",
       "book": "Genesis"
-    },
-    "ezekiel-37-5": {
-      "text": "Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live.",
-      "ref": "Ezekiel 37:5",
-      "book": "Ezekiel"
     },
     "job-19-14": {
       "text": "My relatives have failed me,\n    my close friends have forgotten me.",
@@ -16999,15 +16999,15 @@
       "ref": "Job 16:3",
       "book": "Job"
     },
-    "psalms-78-41": {
-      "text": "They tested God again and again\n    and provoked the Holy One of Israel.",
-      "ref": "Psalms 78:41",
-      "book": "Psalms"
-    },
     "galatians-5-26": {
       "text": "Let us not become conceited, provoking one another, envying one another.",
       "ref": "Galatians 5:26",
       "book": "Galatians"
+    },
+    "psalms-78-41": {
+      "text": "They tested God again and again\n    and provoked the Holy One of Israel.",
+      "ref": "Psalms 78:41",
+      "book": "Psalms"
     },
     "matthew-14-17": {
       "text": "They said to him, “We have only five loaves here and two fish.”",
@@ -18204,10 +18204,10 @@
       "ref": "Proverbs 3:11",
       "book": "Proverbs"
     },
-    "hebrews-12-6": {
-      "text": "For the Lord disciplines the one he loves,\n    and chastises every son whom he receives.”",
-      "ref": "Hebrews 12:6",
-      "book": "Hebrews"
+    "hosea-5-2": {
+      "text": "And the revolters have gone deep into slaughter,\n    but I will discipline all of them.",
+      "ref": "Hosea 5:2",
+      "book": "Hosea"
     },
     "deuteronomy-32-34": {
       "text": "“‘Is not this laid up in store with me,\n    sealed up in my treasuries?",
@@ -18284,6 +18284,31 @@
       "ref": "Job 3:24",
       "book": "Job"
     },
+    "john-15-9": {
+      "text": "As the Father has loved me, so have I loved you. Abide in my love.",
+      "ref": "John 15:9",
+      "book": "John"
+    },
+    "1-john-2-6": {
+      "text": "whoever says he abides in him ought to walk in the same way in which he walked.",
+      "ref": "1 John 2:6",
+      "book": "1 John"
+    },
+    "psalms-25-13": {
+      "text": "His soul shall abide in well-being,\n    and his offspring shall inherit the land.",
+      "ref": "Psalms 25:13",
+      "book": "Psalms"
+    },
+    "1-corinthians-13-13": {
+      "text": "So now faith, hope, and love abide, these three; but the greatest of these is love.",
+      "ref": "1 Corinthians 13:13",
+      "book": "1 Corinthians"
+    },
+    "isaiah-32-16": {
+      "text": "Then justice will dwell in the wilderness,\n    and righteousness abide in the fruitful field.",
+      "ref": "Isaiah 32:16",
+      "book": "Isaiah"
+    },
     "habakkuk-3-5": {
       "text": "Before him went pestilence,\n    and plague followed at his heels.",
       "ref": "Habakkuk 3:5",
@@ -18344,15 +18369,15 @@
       "ref": "Deuteronomy 19:7",
       "book": "Deuteronomy"
     },
-    "psalms-2-3": {
-      "text": "“Let us burst their bonds apart\n    and cast away their cords from us.”",
-      "ref": "Psalms 2:3",
-      "book": "Psalms"
-    },
     "romans-3-28": {
       "text": "For we hold that one is justified by faith apart from works of the law.",
       "ref": "Romans 3:28",
       "book": "Romans"
+    },
+    "psalms-2-3": {
+      "text": "“Let us burst their bonds apart\n    and cast away their cords from us.”",
+      "ref": "Psalms 2:3",
+      "book": "Psalms"
     },
     "galatians-1-15": {
       "text": "But when he who had set me apart before I was born, and who called me by his grace,",
@@ -18599,15 +18624,15 @@
       "ref": "Genesis 48:3",
       "book": "Genesis"
     },
-    "psalms-58-4": {
-      "text": "They have venom like the venom of a serpent,\n    like the deaf adder that stops its ear,",
-      "ref": "Psalms 58:4",
-      "book": "Psalms"
-    },
     "luke-9-50": {
       "text": "But Jesus said to him, “Do not stop him, for the one who is not against you is for you.”",
       "ref": "Luke 9:50",
       "book": "Luke"
+    },
+    "psalms-58-4": {
+      "text": "They have venom like the venom of a serpent,\n    like the deaf adder that stops its ear,",
+      "ref": "Psalms 58:4",
+      "book": "Psalms"
     },
     "ezekiel-26-13": {
       "text": "And I will stop the music of your songs, and the sound of your lyres shall be heard no more.",
@@ -20154,11 +20179,6 @@
       "ref": "1 Corinthians 11:30",
       "book": "1 Corinthians"
     },
-    "psalms-72-13": {
-      "text": "He has pity on the weak and the needy,\n    and saves the lives of the needy.",
-      "ref": "Psalms 72:13",
-      "book": "Psalms"
-    },
     "romans-5-6": {
       "text": "For while we were still weak, at the right time Christ died for the ungodly.",
       "ref": "Romans 5:6",
@@ -20168,6 +20188,11 @@
       "text": "Who is weak, and I am not weak? Who is made to fall, and I am not indignant?",
       "ref": "2 Corinthians 11:29",
       "book": "2 Corinthians"
+    },
+    "psalms-72-13": {
+      "text": "He has pity on the weak and the needy,\n    and saves the lives of the needy.",
+      "ref": "Psalms 72:13",
+      "book": "Psalms"
     },
     "zephaniah-3-16": {
       "text": "On that day it shall be said to Jerusalem:\n“Fear not, O Zion;\n    let not your hands grow weak.",
@@ -20199,15 +20224,15 @@
       "ref": "Numbers 15:20",
       "book": "Numbers"
     },
-    "psalms-47-4": {
-      "text": "He chose our heritage for us,\n    the pride of Jacob whom he loves. Selah",
-      "ref": "Psalms 47:4",
-      "book": "Psalms"
-    },
     "proverbs-11-2": {
       "text": "When pride comes, then comes disgrace,\n    but with the humble is wisdom.",
       "ref": "Proverbs 11:2",
       "book": "Proverbs"
+    },
+    "psalms-47-4": {
+      "text": "He chose our heritage for us,\n    the pride of Jacob whom he loves. Selah",
+      "ref": "Psalms 47:4",
+      "book": "Psalms"
     },
     "ezekiel-16-56": {
       "text": "Was not your sister Sodom a byword in your mouth in the day of your pride,",
@@ -20649,6 +20674,11 @@
       "ref": "Numbers 33:56",
       "book": "Numbers"
     },
+    "psalms-94-11": {
+      "text": "the Lord—knows the thoughts of man,\n    that they are but a breath.",
+      "ref": "Psalms 94:11",
+      "book": "Psalms"
+    },
     "job-20-2": {
       "text": "“Therefore my thoughts answer me,\n    because of my haste within me.",
       "ref": "Job 20:2",
@@ -20663,11 +20693,6 @@
       "text": "Why is it thought incredible by any of you that God raises the dead?",
       "ref": "Acts 26:8",
       "book": "Acts"
-    },
-    "psalms-139-23": {
-      "text": "Search me, O God, and know my heart!\n    Try me and know my thoughts!",
-      "ref": "Psalms 139:23",
-      "book": "Psalms"
     },
     "deuteronomy-18-13": {
       "text": "You shall be blameless before the Lord your God,",
@@ -21859,15 +21884,15 @@
       "ref": "Isaiah 60:1",
       "book": "Isaiah"
     },
-    "john-5-35": {
-      "text": "He was a burning and shining lamp, and you were willing to rejoice for a while in his light.",
-      "ref": "John 5:35",
-      "book": "John"
-    },
     "matthew-13-43": {
       "text": "Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear.",
       "ref": "Matthew 13:43",
       "book": "Matthew"
+    },
+    "proverbs-4-18": {
+      "text": "But the path of the righteous is like the light of dawn,\n    which shines brighter and brighter until full day.",
+      "ref": "Proverbs 4:18",
+      "book": "Proverbs"
     },
     "mark-7-35": {
       "text": "And his ears were opened, his tongue was released, and he spoke plainly.",
@@ -22829,15 +22854,15 @@
       "ref": "Romans 6:14",
       "book": "Romans"
     },
-    "psalms-72-8": {
-      "text": "May he have dominion from sea to sea,\n    and from the River to the ends of the earth!",
-      "ref": "Psalms 72:8",
-      "book": "Psalms"
-    },
     "daniel-11-3": {
       "text": "Then a mighty king shall arise, who shall rule with great dominion and do as he wills.",
       "ref": "Daniel 11:3",
       "book": "Daniel"
+    },
+    "psalms-72-8": {
+      "text": "May he have dominion from sea to sea,\n    and from the River to the ends of the earth!",
+      "ref": "Psalms 72:8",
+      "book": "Psalms"
     },
     "psalms-130-3": {
       "text": "If you, O Lord, should mark iniquities,\n    O Lord, who could stand?",
@@ -23439,6 +23464,11 @@
       "ref": "Exodus 22:17",
       "book": "Exodus"
     },
+    "ezekiel-27-20": {
+      "text": "Dedan traded with you in saddlecloths for riding.",
+      "ref": "Ezekiel 27:20",
+      "book": "Ezekiel"
+    },
     "2-kings-10-16": {
       "text": "And he said, “Come with me, and see my zeal for the Lord.” So he had him ride in his chariot.",
       "ref": "2 Kings 10:16",
@@ -23458,11 +23488,6 @@
       "text": "“Tell of it, you who ride on white donkeys,\n    you who sit on rich carpets\n    and you who walk by the way.",
       "ref": "Judges 5:10",
       "book": "Judges"
-    },
-    "deuteronomy-33-26": {
-      "text": "“There is none like God, O Jeshurun,\n    who rides through the heavens to your help,\n    through the skies in his majesty.",
-      "ref": "Deuteronomy 33:26",
-      "book": "Deuteronomy"
     },
     "numbers-33-11": {
       "text": "And they set out from the Red Sea and camped in the wilderness of Sin.",
@@ -24469,11 +24494,6 @@
       "ref": "Psalms 107:34",
       "book": "Psalms"
     },
-    "isaiah-32-16": {
-      "text": "Then justice will dwell in the wilderness,\n    and righteousness abide in the fruitful field.",
-      "ref": "Isaiah 32:16",
-      "book": "Isaiah"
-    },
     "leviticus-26-9": {
       "text": "I will turn to you and make you fruitful and multiply you and will confirm my covenant with you.",
       "ref": "Leviticus 26:9",
@@ -24488,6 +24508,11 @@
       "text": "If I am to live in the flesh, that means fruitful labor for me. Yet which I shall choose I cannot tell.",
       "ref": "Philippians 1:22",
       "book": "Philippians"
+    },
+    "ezekiel-19-10": {
+      "text": "Your mother was like a vine in a vineyard\n    planted by the water,\nfruitful and full of branches\n    by reason of abundant water.",
+      "ref": "Ezekiel 19:10",
+      "book": "Ezekiel"
     },
     "1-corinthians-14-29": {
       "text": "Let two or three prophets speak, and let the others weigh what is said.",
@@ -24814,6 +24839,11 @@
       "ref": "Romans 3:24",
       "book": "Romans"
     },
+    "2-corinthians-2-8": {
+      "text": "So I beg you to reaffirm your love for him.",
+      "ref": "2 Corinthians 2:8",
+      "book": "2 Corinthians"
+    },
     "luke-16-27": {
       "text": "And he said, ‘Then I beg you, father, to send him to my father's house—",
       "ref": "Luke 16:27",
@@ -24833,11 +24863,6 @@
       "text": "May his children wander about and beg,\n    seeking food far from the ruins they inhabit!",
       "ref": "Psalms 109:10",
       "book": "Psalms"
-    },
-    "hebrews-12-19": {
-      "text": "and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.",
-      "ref": "Hebrews 12:19",
-      "book": "Hebrews"
     },
     "isaiah-3-13": {
       "text": "The Lord has taken his place to contend;\n    he stands to judge peoples.",
@@ -27369,15 +27394,15 @@
       "ref": "Numbers 7:1",
       "book": "Numbers"
     },
-    "psalms-94-14": {
-      "text": "For the Lord will not forsake his people;\n    he will not abandon his heritage;",
-      "ref": "Psalms 94:14",
-      "book": "Psalms"
-    },
     "revelation-2-4": {
       "text": "But I have this against you, that you have abandoned the love you had at first.",
       "ref": "Revelation 2:4",
       "book": "Revelation"
+    },
+    "psalms-94-14": {
+      "text": "For the Lord will not forsake his people;\n    he will not abandon his heritage;",
+      "ref": "Psalms 94:14",
+      "book": "Psalms"
     },
     "acts-2-27": {
       "text": "For you will not abandon my soul to Hades,\n    or let your Holy One see corruption.",
@@ -28044,25 +28069,25 @@
       "ref": "Proverbs 14:25",
       "book": "Proverbs"
     },
-    "john-20-22": {
-      "text": "And when he had said this, he breathed on them and said to them, “Receive the Holy Spirit.",
-      "ref": "John 20:22",
-      "book": "John"
-    },
-    "acts-5-5": {
-      "text": "When Ananias heard these words, he fell down and breathed his last. And great fear came upon all who heard of it.",
-      "ref": "Acts 5:5",
-      "book": "Acts"
-    },
-    "genesis-25-8": {
-      "text": "Abraham breathed his last and died in a good old age, an old man and full of years, and was gathered to his people.",
-      "ref": "Genesis 25:8",
-      "book": "Genesis"
-    },
     "song-of-solomon-2-17": {
       "text": "Until the day breathes\n    and the shadows flee,\nturn, my beloved, be like a gazelle\n    or a young stag on cleft mountains.",
       "ref": "Song Of Solomon 2:17",
       "book": "Song Of Solomon"
+    },
+    "job-11-20": {
+      "text": "But the eyes of the wicked will fail;\n    all way of escape will be lost to them,\n    and their hope is to breathe their last.”",
+      "ref": "Job 11:20",
+      "book": "Job"
+    },
+    "psalms-27-12": {
+      "text": "Give me not up to the will of my adversaries;\n    for false witnesses have risen against me,\n    and they breathe out violence.",
+      "ref": "Psalms 27:12",
+      "book": "Psalms"
+    },
+    "deuteronomy-20-16": {
+      "text": "But in the cities of these peoples that the Lord your God is giving you for an inheritance, you shall save alive nothing that breathes,",
+      "ref": "Deuteronomy 20:16",
+      "book": "Deuteronomy"
     },
     "psalms-133-1": {
       "text": "Behold, how good and pleasant it is\n    when brothers dwell in unity!",
@@ -29084,15 +29109,15 @@
       "ref": "Exodus 36:4",
       "book": "Exodus"
     },
-    "psalms-36-9": {
-      "text": "For with you is the fountain of life;\n    in your light do we see light.",
-      "ref": "Psalms 36:9",
-      "book": "Psalms"
-    },
     "proverbs-5-18": {
       "text": "Let your fountain be blessed,\n    and rejoice in the wife of your youth,",
       "ref": "Proverbs 5:18",
       "book": "Proverbs"
+    },
+    "psalms-36-9": {
+      "text": "For with you is the fountain of life;\n    in your light do we see light.",
+      "ref": "Psalms 36:9",
+      "book": "Psalms"
     },
     "ecclesiastes-12-6": {
       "text": "before the silver cord is snapped, or the golden bowl is broken, or the pitcher is shattered at the fountain, or the wheel broken at the cistern,",
@@ -30109,15 +30134,15 @@
       "ref": "1 Samuel 29:5",
       "book": "1 Samuel"
     },
-    "psalms-74-10": {
-      "text": "How long, O God, is the foe to scoff?\n    Is the enemy to revile your name forever?",
-      "ref": "Psalms 74:10",
-      "book": "Psalms"
-    },
     "john-9-28": {
       "text": "And they reviled him, saying, “You are his disciple, but we are disciples of Moses.",
       "ref": "John 9:28",
       "book": "John"
+    },
+    "psalms-74-10": {
+      "text": "How long, O God, is the foe to scoff?\n    Is the enemy to revile your name forever?",
+      "ref": "Psalms 74:10",
+      "book": "Psalms"
     },
     "1-corinthians-4-12": {
       "text": "and we labor, working with our own hands. When reviled, we bless; when persecuted, we endure;",
@@ -30434,9 +30459,9 @@
       "ref": "Psalms 12:6",
       "book": "Psalms"
     },
-    "ezekiel-27-20": {
-      "text": "Dedan traded with you in saddlecloths for riding.",
-      "ref": "Ezekiel 27:20",
+    "ezekiel-27-23": {
+      "text": "Haran, Canneh, Eden, traders of Sheba, Asshur, and Chilmad traded with you.",
+      "ref": "Ezekiel 27:23",
       "book": "Ezekiel"
     },
     "matthew-25-16": {
@@ -30919,15 +30944,15 @@
       "ref": "Job 9:15",
       "book": "Job"
     },
-    "psalms-77-10": {
-      "text": "Then I said, “I will appeal to this,\n    to the years of the right hand of the Most High.”",
-      "ref": "Psalms 77:10",
-      "book": "Psalms"
-    },
     "2-corinthians-6-1": {
       "text": "Working together with him, then, we appeal to you not to receive the grace of God in vain.",
       "ref": "2 Corinthians 6:1",
       "book": "2 Corinthians"
+    },
+    "psalms-77-10": {
+      "text": "Then I said, “I will appeal to this,\n    to the years of the right hand of the Most High.”",
+      "ref": "Psalms 77:10",
+      "book": "Psalms"
     },
     "hebrews-13-22": {
       "text": "I appeal to you, brothers, bear with my word of exhortation, for I have written to you briefly.",
@@ -31164,6 +31189,11 @@
       "ref": "Leviticus 17:16",
       "book": "Leviticus"
     },
+    "ezekiel-16-9": {
+      "text": "Then I bathed you with water and washed off your blood from you and anointed you with oil.",
+      "ref": "Ezekiel 16:9",
+      "book": "Ezekiel"
+    },
     "psalms-58-10": {
       "text": "The righteous will rejoice when he sees the vengeance;\n    he will bathe his feet in the blood of the wicked.",
       "ref": "Psalms 58:10",
@@ -31174,10 +31204,10 @@
       "ref": "Numbers 19:8",
       "book": "Numbers"
     },
-    "exodus-2-5": {
-      "text": "Now the daughter of Pharaoh came down to bathe at the river, while her young women walked beside the river. She saw the basket among the reeds and sent her servant woman, and she took it.",
-      "ref": "Exodus 2:5",
-      "book": "Exodus"
+    "john-13-10": {
+      "text": "Jesus said to him, “The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you.”",
+      "ref": "John 13:10",
+      "book": "John"
     },
     "hebrews-2-15": {
       "text": "and deliver all those who through fear of death were subject to lifelong slavery.",
@@ -31619,15 +31649,15 @@
       "ref": "Revelation 6:13",
       "book": "Revelation"
     },
+    "deuteronomy-33-26": {
+      "text": "“There is none like God, O Jeshurun,\n    who rides through the heavens to your help,\n    through the skies in his majesty.",
+      "ref": "Deuteronomy 33:26",
+      "book": "Deuteronomy"
+    },
     "luke-12-56": {
       "text": "You hypocrites! You know how to interpret the appearance of earth and sky, but why do you not know how to interpret the present time?",
       "ref": "Luke 12:56",
       "book": "Luke"
-    },
-    "proverbs-30-19": {
-      "text": "the way of an eagle in the sky,\n    the way of a serpent on a rock,\nthe way of a ship on the high seas,\n    and the way of a man with a virgin.",
-      "ref": "Proverbs 30:19",
-      "book": "Proverbs"
     },
     "hebrews-1-1": {
       "text": "Long ago, at many times and in many ways, God spoke to our fathers by the prophets,",
@@ -31678,6 +31708,31 @@
       "text": "They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading.",
       "ref": "Nehemiah 8:8",
       "book": "Nehemiah"
+    },
+    "psalms-104-20": {
+      "text": "You make darkness, and it is night,\n    when all the beasts of the forest creep about.",
+      "ref": "Psalms 104:20",
+      "book": "Psalms"
+    },
+    "deuteronomy-4-18": {
+      "text": "the likeness of anything that creeps on the ground, the likeness of any fish that is in the water under the earth.",
+      "ref": "Deuteronomy 4:18",
+      "book": "Deuteronomy"
+    },
+    "romans-1-23": {
+      "text": "and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.",
+      "ref": "Romans 1:23",
+      "book": "Romans"
+    },
+    "genesis-8-19": {
+      "text": "Every beast, every creeping thing, and every bird, everything that moves on the earth, went out by families from the ark.",
+      "ref": "Genesis 8:19",
+      "book": "Genesis"
+    },
+    "2-timothy-3-6": {
+      "text": "For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,",
+      "ref": "2 Timothy 3:6",
+      "book": "2 Timothy"
     },
     "acts-18-13": {
       "text": "saying, “This man is persuading people to worship God contrary to the law.”",
@@ -31759,11 +31814,6 @@
       "ref": "Proverbs 15:10",
       "book": "Proverbs"
     },
-    "galatians-5-4": {
-      "text": "You are severed from Christ, you who would be justified by the law; you have fallen away from grace.",
-      "ref": "Galatians 5:4",
-      "book": "Galatians"
-    },
     "genesis-41-57": {
       "text": "Moreover, all the earth came to Egypt to Joseph to buy grain, because the famine was severe over all the earth.",
       "ref": "Genesis 41:57",
@@ -31778,6 +31828,11 @@
       "text": "On the ninth day of the fourth month the famine was so severe in the city that there was no food for the people of the land.",
       "ref": "Jeremiah 52:6",
       "book": "Jeremiah"
+    },
+    "luke-12-47": {
+      "text": "And that servant who knew his master's will but did not get ready or act according to his will, will receive a severe beating.",
+      "ref": "Luke 12:47",
+      "book": "Luke"
     },
     "1-chronicles-24-13": {
       "text": "the thirteenth to Huppah, the fourteenth to Jeshebeab,",
@@ -32539,11 +32594,6 @@
       "ref": "Job 28:17",
       "book": "Job"
     },
-    "romans-1-23": {
-      "text": "and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.",
-      "ref": "Romans 1:23",
-      "book": "Romans"
-    },
     "genesis-26-31": {
       "text": "In the morning they rose early and exchanged oaths. And Isaac sent them on their way, and they departed from him in peace.",
       "ref": "Genesis 26:31",
@@ -32553,6 +32603,11 @@
       "text": "For I am the Lord your God,\n    the Holy One of Israel, your Savior.\nI give Egypt as your ransom,\n    Cush and Seba in exchange for you.",
       "ref": "Isaiah 43:3",
       "book": "Isaiah"
+    },
+    "romans-1-26": {
+      "text": "For this reason God gave them up to dishonorable passions. For their women exchanged natural relations for those that are contrary to nature;",
+      "ref": "Romans 1:26",
+      "book": "Romans"
     },
     "genesis-41-20": {
       "text": "And the thin, ugly cows ate up the first seven plump cows,",
@@ -33354,15 +33409,15 @@
       "ref": "2 Corinthians 4:15",
       "book": "2 Corinthians"
     },
-    "psalms-89-10": {
-      "text": "You crushed Rahab like a carcass;\n    you scattered your enemies with your mighty arm.",
-      "ref": "Psalms 89:10",
-      "book": "Psalms"
-    },
     "ezekiel-32-5": {
       "text": "I will strew your flesh upon the mountains\n    and fill the valleys with your carcass.",
       "ref": "Ezekiel 32:5",
       "book": "Ezekiel"
+    },
+    "psalms-89-10": {
+      "text": "You crushed Rahab like a carcass;\n    you scattered your enemies with your mighty arm.",
+      "ref": "Psalms 89:10",
+      "book": "Psalms"
     },
     "leviticus-11-37": {
       "text": "And if any part of their carcass falls upon any seed grain that is to be sown, it is clean,",
@@ -33624,10 +33679,10 @@
       "ref": "Matthew 23:25",
       "book": "Matthew"
     },
-    "exodus-39-30": {
-      "text": "They made the plate of the holy crown of pure gold, and wrote on it an inscription, like the engraving of a signet, “Holy to the Lord.”",
-      "ref": "Exodus 39:30",
-      "book": "Exodus"
+    "isaiah-30-22": {
+      "text": "Then you will defile your carved idols overlaid with silver and your gold-plated metal images. You will scatter them as unclean things. You will say to them, “Be gone!”",
+      "ref": "Isaiah 30:22",
+      "book": "Isaiah"
     },
     "psalms-74-3": {
       "text": "Direct your steps to the perpetual ruins;\n    the enemy has destroyed everything in the sanctuary!",
@@ -34234,15 +34289,15 @@
       "ref": "Proverbs 10:27",
       "book": "Proverbs"
     },
-    "psalms-89-45": {
-      "text": "You have cut short the days of his youth;\n    you have covered him with shame. Selah",
-      "ref": "Psalms 89:45",
-      "book": "Psalms"
-    },
     "acts-26-28": {
       "text": "And Agrippa said to Paul, “In a short time would you persuade me to be a Christian?”",
       "ref": "Acts 26:28",
       "book": "Acts"
+    },
+    "psalms-89-45": {
+      "text": "You have cut short the days of his youth;\n    you have covered him with shame. Selah",
+      "ref": "Psalms 89:45",
+      "book": "Psalms"
     },
     "isaiah-28-20": {
       "text": "For the bed is too short to stretch oneself on,\n    and the covering too narrow to wrap oneself in.",
@@ -34649,10 +34704,10 @@
       "ref": "Psalms 140:8",
       "book": "Psalms"
     },
-    "ezekiel-23-14": {
-      "text": "But she carried her whoring further. She saw men portrayed on the wall, the images of the Chaldeans portrayed in vermilion,",
-      "ref": "Ezekiel 23:14",
-      "book": "Ezekiel"
+    "hebrews-12-19": {
+      "text": "and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.",
+      "ref": "Hebrews 12:19",
+      "book": "Hebrews"
     },
     "nehemiah-2-4": {
       "text": "Then the king said to me, “What are you requesting?” So I prayed to the God of heaven.",
@@ -35059,6 +35114,11 @@
       "ref": "Esther 3:10",
       "book": "Esther"
     },
+    "exodus-39-30": {
+      "text": "They made the plate of the holy crown of pure gold, and wrote on it an inscription, like the engraving of a signet, “Holy to the Lord.”",
+      "ref": "Exodus 39:30",
+      "book": "Exodus"
+    },
     "jeremiah-22-24": {
       "text": "“As I live, declares the Lord, though Coniah the son of Jehoiakim, king of Judah, were the signet ring on my right hand, yet I would tear you off",
       "ref": "Jeremiah 22:24",
@@ -35069,11 +35129,6 @@
       "ref": "Genesis 41:42",
       "book": "Genesis"
     },
-    "exodus-28-11": {
-      "text": "As a jeweler engraves signets, so shall you engrave the two stones with the names of the sons of Israel. You shall enclose them in settings of gold filigree.",
-      "ref": "Exodus 28:11",
-      "book": "Exodus"
-    },
     "ezekiel-28-12": {
       "text": "“Son of man, raise a lamentation over the king of Tyre, and say to him, Thus says the Lord God:\n“You were the signet of perfection,\n    full of wisdom and perfect in beauty.",
       "ref": "Ezekiel 28:12",
@@ -35083,6 +35138,11 @@
       "text": "Forever, O Lord, your word\n    is firmly fixed in the heavens.",
       "ref": "Psalms 119:89",
       "book": "Psalms"
+    },
+    "2-kings-8-11": {
+      "text": "And he fixed his gaze and stared at him, until he was embarrassed. And the man of God wept.",
+      "ref": "2 Kings 8:11",
+      "book": "2 Kings"
     },
     "acts-1-7": {
       "text": "He said to them, “It is not for you to know times or seasons that the Father has fixed by his own authority.",
@@ -35098,11 +35158,6 @@
       "text": "The words of the wise are like goads, and like nails firmly fixed are the collected sayings; they are given by one Shepherd.",
       "ref": "Ecclesiastes 12:11",
       "book": "Ecclesiastes"
-    },
-    "ezekiel-45-14": {
-      "text": "and as the fixed portion of oil, measured in baths, one tenth of a bath from each cor (the cor, like the homer, contains ten baths).",
-      "ref": "Ezekiel 45:14",
-      "book": "Ezekiel"
     },
     "ecclesiastes-4-11": {
       "text": "Again, if two lie together, they keep warm, but how can one keep warm alone?",
@@ -36624,11 +36679,6 @@
       "ref": "Luke 9:46",
       "book": "Luke"
     },
-    "1-corinthians-13-13": {
-      "text": "So now faith, hope, and love abide, these three; but the greatest of these is love.",
-      "ref": "1 Corinthians 13:13",
-      "book": "1 Corinthians"
-    },
     "matthew-18-1": {
       "text": "At that time the disciples came to Jesus, saying, “Who is the greatest in the kingdom of heaven?”",
       "ref": "Matthew 18:1",
@@ -36643,6 +36693,11 @@
       "text": "Now the name of Hebron formerly was Kiriath-arba. (Arba was the greatest man among the Anakim.) And the land had rest from war.",
       "ref": "Joshua 14:15",
       "book": "Joshua"
+    },
+    "jonah-3-5": {
+      "text": "And the people of Nineveh believed God. They called for a fast and put on sackcloth, from the greatest of them to the least of them.",
+      "ref": "Jonah 3:5",
+      "book": "Jonah"
     },
     "2-corinthians-12-17": {
       "text": "Did I take advantage of you through any of those whom I sent to you?",
@@ -37794,15 +37849,15 @@
       "ref": "Ezekiel 32:20",
       "book": "Ezekiel"
     },
-    "psalms-28-3": {
-      "text": "Do not drag me off with the wicked,\n    with the workers of evil,\nwho speak peace with their neighbors\n    while evil is in their hearts.",
-      "ref": "Psalms 28:3",
-      "book": "Psalms"
-    },
     "habakkuk-1-15": {
       "text": "He brings all of them up with a hook;\n    he drags them out with his net;\nhe gathers them in his dragnet;\n    so he rejoices and is glad.",
       "ref": "Habakkuk 1:15",
       "book": "Habakkuk"
+    },
+    "psalms-28-3": {
+      "text": "Do not drag me off with the wicked,\n    with the workers of evil,\nwho speak peace with their neighbors\n    while evil is in their hearts.",
+      "ref": "Psalms 28:3",
+      "book": "Psalms"
     },
     "luke-12-58": {
       "text": "As you go with your accuser before the magistrate, make an effort to settle with him on the way, lest he drag you to the judge, and the judge hand you over to the officer, and the officer put you in prison.",
@@ -38339,15 +38394,15 @@
       "ref": "Job 29:9",
       "book": "Job"
     },
-    "psalms-37-8": {
-      "text": "Refrain from anger, and forsake wrath!\n    Fret not yourself; it tends only to evil.",
-      "ref": "Psalms 37:8",
-      "book": "Psalms"
-    },
     "1-corinthians-9-6": {
       "text": "Or is it only Barnabas and I who have no right to refrain from working for a living?",
       "ref": "1 Corinthians 9:6",
       "book": "1 Corinthians"
+    },
+    "psalms-37-8": {
+      "text": "Refrain from anger, and forsake wrath!\n    Fret not yourself; it tends only to evil.",
+      "ref": "Psalms 37:8",
+      "book": "Psalms"
     },
     "ecclesiastes-3-5": {
       "text": "a time to cast away stones, and a time to gather stones together;\na time to embrace, and a time to refrain from embracing;",
@@ -38994,15 +39049,15 @@
       "ref": "Proverbs 22:2",
       "book": "Proverbs"
     },
-    "psalms-149-2": {
-      "text": "Let Israel be glad in his Maker;\n    let the children of Zion rejoice in their King!",
-      "ref": "Psalms 149:2",
-      "book": "Psalms"
-    },
     "ezekiel-20-49": {
       "text": "Then I said, “Ah, Lord God! They are saying of me, ‘Is he not a maker of parables?’”",
       "ref": "Ezekiel 20:49",
       "book": "Ezekiel"
+    },
+    "psalms-149-2": {
+      "text": "Let Israel be glad in his Maker;\n    let the children of Zion rejoice in their King!",
+      "ref": "Psalms 149:2",
+      "book": "Psalms"
     },
     "isaiah-17-7": {
       "text": "In that day man will look to his Maker, and his eyes will look on the Holy One of Israel.",
@@ -43039,20 +43094,35 @@
       "ref": "Isaiah 22:1",
       "book": "Isaiah"
     },
-    "jeremiah-38-11": {
-      "text": "So Ebed-melech took the men with him and went to the house of the king, to a wardrobe in the storehouse, and took from there old rags and worn-out clothes, which he let down to Jeremiah in the cistern by ropes.",
-      "ref": "Jeremiah 38:11",
-      "book": "Jeremiah"
+    "psalms-89-9": {
+      "text": "You rule the raging of the sea;\n    when its waves rise, you still them.",
+      "ref": "Psalms 89:9",
+      "book": "Psalms"
+    },
+    "isaiah-37-28": {
+      "text": "“‘I know your sitting down\n    and your going out and coming in,\n    and your raging against me.",
+      "ref": "Isaiah 37:28",
+      "book": "Isaiah"
+    },
+    "2-kings-19-27": {
+      "text": "“But I know your sitting down\n    and your going out and coming in,\n    and your raging against me.",
+      "ref": "2 Kings 19:27",
+      "book": "2 Kings"
+    },
+    "habakkuk-3-10": {
+      "text": "The mountains saw you and writhed;\n    the raging waters swept on;\nthe deep gave forth its voice;\n    it lifted its hands on high.",
+      "ref": "Habakkuk 3:10",
+      "book": "Habakkuk"
+    },
+    "acts-26-11": {
+      "text": "And I punished them often in all the synagogues and tried to make them blaspheme, and in raging fury against them I persecuted them even to foreign cities.",
+      "ref": "Acts 26:11",
+      "book": "Acts"
     },
     "hebrews-9-10": {
       "text": "but deal only with food and drink and various washings, regulations for the body imposed until the time of reformation.",
       "ref": "Hebrews 9:10",
       "book": "Hebrews"
-    },
-    "2-timothy-3-6": {
-      "text": "For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,",
-      "ref": "2 Timothy 3:6",
-      "book": "2 Timothy"
     },
     "mark-1-34": {
       "text": "And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him.",
@@ -43068,6 +43138,11 @@
       "text": "And God has appointed in the church first apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, administrating, and various kinds of tongues.",
       "ref": "1 Corinthians 12:28",
       "book": "1 Corinthians"
+    },
+    "titus-3-3": {
+      "text": "For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.",
+      "ref": "Titus 3:3",
+      "book": "Titus"
     },
     "psalms-103-2": {
       "text": "Bless the Lord, O my soul,\n    and forget not all his benefits,",
@@ -45669,6 +45744,31 @@
       "ref": "Romans 10:12",
       "book": "Romans"
     },
+    "john-5-35": {
+      "text": "He was a burning and shining lamp, and you were willing to rejoice for a while in his light.",
+      "ref": "John 5:35",
+      "book": "John"
+    },
+    "revelation-1-16": {
+      "text": "In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength.",
+      "ref": "Revelation 1:16",
+      "book": "Revelation"
+    },
+    "2-samuel-23-4": {
+      "text": "he dawns on them like the morning light,\n    like the sun shining forth on a cloudless morning,\n    like rain that makes grass to sprout from the earth.",
+      "ref": "2 Samuel 23:4",
+      "book": "2 Samuel"
+    },
+    "1-john-2-8": {
+      "text": "At the same time, it is a new commandment that I am writing to you, which is true in him and in you, because the darkness is passing away and the true light is already shining.",
+      "ref": "1 John 2:8",
+      "book": "1 John"
+    },
+    "exodus-34-35": {
+      "text": "the people of Israel would see the face of Moses, that the skin of Moses' face was shining. And Moses would put the veil over his face again, until he went in to speak with him.",
+      "ref": "Exodus 34:35",
+      "book": "Exodus"
+    },
     "1-samuel-10-15": {
       "text": "And Saul's uncle said, “Please tell me what Samuel said to you.”",
       "ref": "1 Samuel 10:15",
@@ -46524,30 +46624,30 @@
       "ref": "1 Kings 20:9",
       "book": "1 Kings"
     },
-    "psalms-89-9": {
-      "text": "You rule the raging of the sea;\n    when its waves rise, you still them.",
-      "ref": "Psalms 89:9",
-      "book": "Psalms"
-    },
     "proverbs-19-3": {
       "text": "When a man's folly brings his way to ruin,\n    his heart rages against the Lord.",
       "ref": "Proverbs 19:3",
       "book": "Proverbs"
     },
-    "isaiah-37-28": {
-      "text": "“‘I know your sitting down\n    and your going out and coming in,\n    and your raging against me.",
-      "ref": "Isaiah 37:28",
-      "book": "Isaiah"
-    },
-    "2-kings-19-27": {
-      "text": "“But I know your sitting down\n    and your going out and coming in,\n    and your raging against me.",
-      "ref": "2 Kings 19:27",
-      "book": "2 Kings"
-    },
     "job-39-24": {
       "text": "With fierceness and rage he swallows the ground;\n    he cannot stand still at the sound of the trumpet.",
       "ref": "Job 39:24",
       "book": "Job"
+    },
+    "hosea-11-6": {
+      "text": "The sword shall rage against their cities,\n    consume the bars of their gates,\n    and devour them because of their own counsels.",
+      "ref": "Hosea 11:6",
+      "book": "Hosea"
+    },
+    "daniel-3-13": {
+      "text": "Then Nebuchadnezzar in furious rage commanded that Shadrach, Meshach, and Abednego be brought. So they brought these men before the king.",
+      "ref": "Daniel 3:13",
+      "book": "Daniel"
+    },
+    "acts-4-25": {
+      "text": "who through the mouth of our father David, your servant, said by the Holy Spirit,\n“‘Why did the Gentiles rage,\n    and the peoples plot in vain?",
+      "ref": "Acts 4:25",
+      "book": "Acts"
     },
     "psalms-118-23": {
       "text": "This is the Lord's doing;\n    it is marvelous in our eyes.",
@@ -46703,11 +46803,6 @@
       "text": "For just as you were at one time disobedient to God but now have received mercy because of their disobedience,",
       "ref": "Romans 11:30",
       "book": "Romans"
-    },
-    "titus-3-3": {
-      "text": "For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.",
-      "ref": "Titus 3:3",
-      "book": "Titus"
     },
     "luke-1-17": {
       "text": "and he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared.”",
@@ -47384,11 +47479,6 @@
       "ref": "Isaiah 60:4",
       "book": "Isaiah"
     },
-    "ezekiel-27-23": {
-      "text": "Haran, Canneh, Eden, traders of Sheba, Asshur, and Chilmad traded with you.",
-      "ref": "Ezekiel 27:23",
-      "book": "Ezekiel"
-    },
     "1-kings-10-28": {
       "text": "And Solomon's import of horses was from Egypt and Kue, and the king's traders received them from Kue at a price.",
       "ref": "1 Kings 10:28",
@@ -47408,6 +47498,11 @@
       "text": "Who has purposed this\n    against Tyre, the bestower of crowns,\nwhose merchants were princes,\n    whose traders were the honored of the earth?",
       "ref": "Isaiah 23:8",
       "book": "Isaiah"
+    },
+    "ezekiel-27-22": {
+      "text": "The traders of Sheba and Raamah traded with you; they exchanged for your wares the best of all kinds of spices and all precious stones and gold.",
+      "ref": "Ezekiel 27:22",
+      "book": "Ezekiel"
     },
     "genesis-40-13": {
       "text": "In three days Pharaoh will lift up your head and restore you to your office, and you shall place Pharaoh's cup in his hand as formerly, when you were his cupbearer.",
@@ -48269,31 +48364,6 @@
       "ref": "2 Chronicles 7:8",
       "book": "2 Chronicles"
     },
-    "ezekiel-23-12": {
-      "text": "She lusted after the Assyrians, governors and commanders, warriors clothed in full armor, horsemen riding on horses, all of them desirable young men.",
-      "ref": "Ezekiel 23:12",
-      "book": "Ezekiel"
-    },
-    "zechariah-1-8": {
-      "text": "“I saw in the night, and behold, a man riding on a red horse! He was standing among the myrtle trees in the glen, and behind him were red, sorrel, and white horses.",
-      "ref": "Zechariah 1:8",
-      "book": "Zechariah"
-    },
-    "numbers-22-22": {
-      "text": "But God's anger was kindled because he went, and the angel of the Lord took his stand in the way as his adversary. Now he was riding on the donkey, and his two servants were with him.",
-      "ref": "Numbers 22:22",
-      "book": "Numbers"
-    },
-    "jeremiah-22-4": {
-      "text": "For if you will indeed obey this word, then there shall enter the gates of this house kings who sit on the throne of David, riding in chariots and on horses, they and their servants and their people.",
-      "ref": "Jeremiah 22:4",
-      "book": "Jeremiah"
-    },
-    "isaiah-19-1": {
-      "text": "An oracle concerning Egypt.\nBehold, the Lord is riding on a swift cloud\n    and comes to Egypt;\nand the idols of Egypt will tremble at his presence,\n    and the heart of the Egyptians will melt within them.",
-      "ref": "Isaiah 19:1",
-      "book": "Isaiah"
-    },
     "nehemiah-13-27": {
       "text": "Shall we then listen to you and do all this great evil and act treacherously against our God by marrying foreign women?”",
       "ref": "Nehemiah 13:27",
@@ -48344,9 +48414,9 @@
       "ref": "Numbers 34:4",
       "book": "Numbers"
     },
-    "deuteronomy-1-10": {
-      "text": "The Lord your God has multiplied you, and behold, you are today as numerous as the stars of heaven.",
-      "ref": "Deuteronomy 1:10",
+    "deuteronomy-10-22": {
+      "text": "Your fathers went down to Egypt seventy persons, and now the Lord your God has made you as numerous as the stars of heaven.",
+      "ref": "Deuteronomy 10:22",
       "book": "Deuteronomy"
     },
     "1-chronicles-5-23": {
@@ -48689,15 +48759,15 @@
       "ref": "Proverbs 17:5",
       "book": "Proverbs"
     },
-    "psalms-89-50": {
-      "text": "Remember, O Lord, how your servants are mocked,\n    and how I bear in my heart the insults of all the many nations,",
-      "ref": "Psalms 89:50",
-      "book": "Psalms"
-    },
     "1-peter-4-14": {
       "text": "If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests upon you.",
       "ref": "1 Peter 4:14",
       "book": "1 Peter"
+    },
+    "psalms-89-50": {
+      "text": "Remember, O Lord, how your servants are mocked,\n    and how I bear in my heart the insults of all the many nations,",
+      "ref": "Psalms 89:50",
+      "book": "Psalms"
     },
     "1-kings-20-38": {
       "text": "So the prophet departed and waited for the king by the way, disguising himself with a bandage over his eyes.",
@@ -49189,9 +49259,9 @@
       "ref": "Acts 21:39",
       "book": "Acts"
     },
-    "romans-1-26": {
-      "text": "For this reason God gave them up to dishonorable passions. For their women exchanged natural relations for those that are contrary to nature;",
-      "ref": "Romans 1:26",
+    "romans-2-14": {
+      "text": "For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law.",
+      "ref": "Romans 2:14",
       "book": "Romans"
     },
     "james-5-17": {
@@ -50894,9 +50964,9 @@
       "ref": "Ezekiel 27:12",
       "book": "Ezekiel"
     },
-    "ezekiel-27-22": {
-      "text": "The traders of Sheba and Raamah traded with you; they exchanged for your wares the best of all kinds of spices and all precious stones and gold.",
-      "ref": "Ezekiel 27:22",
+    "ezekiel-27-33": {
+      "text": "When your wares came from the seas,\n    you satisfied many peoples;\nwith your abundant wealth and merchandise\n    you enriched the kings of the earth.",
+      "ref": "Ezekiel 27:33",
       "book": "Ezekiel"
     },
     "1-corinthians-3-1": {
@@ -50994,15 +51064,15 @@
       "ref": "Job 4:19",
       "book": "Job"
     },
-    "psalms-39-11": {
-      "text": "When you discipline a man\n    with rebukes for sin,\nyou consume like a moth what is dear to him;\n    surely all mankind is a mere breath! Selah",
-      "ref": "Psalms 39:11",
-      "book": "Psalms"
-    },
     "isaiah-50-9": {
       "text": "Behold, the Lord God helps me;\n    who will declare me guilty?\nBehold, all of them will wear out like a garment;\n    the moth will eat them up.",
       "ref": "Isaiah 50:9",
       "book": "Isaiah"
+    },
+    "psalms-39-11": {
+      "text": "When you discipline a man\n    with rebukes for sin,\nyou consume like a moth what is dear to him;\n    surely all mankind is a mere breath! Selah",
+      "ref": "Psalms 39:11",
+      "book": "Psalms"
     },
     "luke-12-33": {
       "text": "Sell your possessions, and give to the needy. Provide yourselves with moneybags that do not grow old, with a treasure in the heavens that does not fail, where no thief approaches and no moth destroys.",
@@ -52194,9 +52264,9 @@
       "ref": "Numbers 14:11",
       "book": "Numbers"
     },
-    "ezekiel-45-13": {
-      "text": "“This is the offering that you shall make: one sixth of an ephah from each homer of wheat, and one sixth of an ephah from each homer of barley,",
-      "ref": "Ezekiel 45:13",
+    "ezekiel-45-14": {
+      "text": "and as the fixed portion of oil, measured in baths, one tenth of a bath from each cor (the cor, like the homer, contains ten baths).",
+      "ref": "Ezekiel 45:14",
       "book": "Ezekiel"
     },
     "leviticus-27-16": {
@@ -55719,11 +55789,6 @@
       "ref": "Job 15:20",
       "book": "Job"
     },
-    "habakkuk-3-10": {
-      "text": "The mountains saw you and writhed;\n    the raging waters swept on;\nthe deep gave forth its voice;\n    it lifted its hands on high.",
-      "ref": "Habakkuk 3:10",
-      "book": "Habakkuk"
-    },
     "hosea-8-10": {
       "text": "Though they hire allies among the nations,\n    I will soon gather them up.\nAnd the king and princes shall soon writhe\n    because of the tribute.",
       "ref": "Hosea 8:10",
@@ -55983,11 +56048,6 @@
       "text": "Now when those hired first came, they thought they would receive more, but each of them also received a denarius.",
       "ref": "Matthew 20:10",
       "book": "Matthew"
-    },
-    "ephesians-6-10": {
-      "text": "Finally, be strong in the Lord and in the strength of his might.",
-      "ref": "Ephesians 6:10",
-      "book": "Ephesians"
     },
     "2-corinthians-13-11": {
       "text": "Finally, brothers, rejoice. Aim for restoration, comfort one another, agree with one another, live in peace; and the God of love and peace will be with you.",
@@ -56654,11 +56714,6 @@
       "ref": "Judges 1:28",
       "book": "Judges"
     },
-    "john-13-10": {
-      "text": "Jesus said to him, “The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you.”",
-      "ref": "John 13:10",
-      "book": "John"
-    },
     "leviticus-5-8": {
       "text": "He shall bring them to the priest, who shall offer first the one for the sin offering. He shall wring its head from its neck but shall not sever it completely,",
       "ref": "Leviticus 5:8",
@@ -56668,6 +56723,11 @@
       "text": "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ.",
       "ref": "1 Thessalonians 5:23",
       "book": "1 Thessalonians"
+    },
+    "exodus-11-1": {
+      "text": "The Lord said to Moses, “Yet one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he will drive you away completely.",
+      "ref": "Exodus 11:1",
+      "book": "Exodus"
     },
     "judges-4-4": {
       "text": "Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time.",
@@ -56852,6 +56912,11 @@
     "exodus-39-18": {
       "text": "They attached the two ends of the two cords to the two settings of filigree. Thus they attached it in front to the shoulder pieces of the ephod.",
       "ref": "Exodus 39:18",
+      "book": "Exodus"
+    },
+    "exodus-28-11": {
+      "text": "As a jeweler engraves signets, so shall you engrave the two stones with the names of the sons of Israel. You shall enclose them in settings of gold filigree.",
+      "ref": "Exodus 28:11",
       "book": "Exodus"
     },
     "exodus-39-6": {
@@ -57664,10 +57729,30 @@
       "ref": "Nahum 1:14",
       "book": "Nahum"
     },
+    "judges-20-11": {
+      "text": "So all the men of Israel gathered against the city, united as one man.",
+      "ref": "Judges 20:11",
+      "book": "Judges"
+    },
     "psalms-86-11": {
       "text": "Teach me your way, O Lord,\n    that I may walk in your truth;\n    unite my heart to fear your name.",
       "ref": "Psalms 86:11",
       "book": "Psalms"
+    },
+    "acts-18-12": {
+      "text": "But when Gallio was proconsul of Achaia, the Jews made a united attack on Paul and brought him before the tribunal,",
+      "ref": "Acts 18:12",
+      "book": "Acts"
+    },
+    "romans-6-5": {
+      "text": "For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.",
+      "ref": "Romans 6:5",
+      "book": "Romans"
+    },
+    "hebrews-4-2": {
+      "text": "For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.",
+      "ref": "Hebrews 4:2",
+      "book": "Hebrews"
     },
     "ezekiel-4-16": {
       "text": "Moreover, he said to me, “Son of man, behold, I will break the supply of bread in Jerusalem. They shall eat bread by weight and with anxiety, and they shall drink water by measure and in dismay.",
@@ -57884,10 +57969,10 @@
       "ref": "2 Samuel 21:17",
       "book": "2 Samuel"
     },
-    "ezra-6-22": {
-      "text": "And they kept the Feast of Unleavened Bread seven days with joy, for the Lord had made them joyful and had turned the heart of the king of Assyria to them, so that he aided them in the work of the house of God, the God of Israel.",
-      "ref": "Ezra 6:22",
-      "book": "Ezra"
+    "ezekiel-29-16": {
+      "text": "And it shall never again be the reliance of the house of Israel, recalling their iniquity, when they turn to them for aid. Then they will know that I am the Lord God.”",
+      "ref": "Ezekiel 29:16",
+      "book": "Ezekiel"
     },
     "1-kings-5-11": {
       "text": "while Solomon gave Hiram 20,000 cors of wheat as food for his household, and 20,000 cors of beaten oil. Solomon gave this to Hiram year by year.",
@@ -59079,6 +59164,16 @@
       "ref": "Leviticus 11:9",
       "book": "Leviticus"
     },
+    "amos-2-8": {
+      "text": "they lay themselves down beside every altar\n    on garments taken in pledge,\nand in the house of their God they drink\n    the wine of those who have been fined.",
+      "ref": "Amos 2:8",
+      "book": "Amos"
+    },
+    "exodus-21-22": {
+      "text": "“When men strive together and hit a pregnant woman, so that her children come out, but there is no harm, the one who hit her shall surely be fined, as the woman's husband shall impose on him, and he shall pay as the judges determine.",
+      "ref": "Exodus 21:22",
+      "book": "Exodus"
+    },
     "leviticus-11-10": {
       "text": "But anything in the seas or the rivers that does not have fins and scales, of the swarming creatures in the waters and of the living creatures that are in the waters, is detestable to you.",
       "ref": "Leviticus 11:10",
@@ -59893,11 +59988,6 @@
       "text": "Whoever brings blessing will be enriched,\n    and one who waters will himself be watered.",
       "ref": "Proverbs 11:25",
       "book": "Proverbs"
-    },
-    "ezekiel-27-33": {
-      "text": "When your wares came from the seas,\n    you satisfied many peoples;\nwith your abundant wealth and merchandise\n    you enriched the kings of the earth.",
-      "ref": "Ezekiel 27:33",
-      "book": "Ezekiel"
     },
     "psalms-65-9": {
       "text": "You visit the earth and water it;\n    you greatly enrich it;\nthe river of God is full of water;\n    you provide their grain,\n    for so you have prepared it.",
@@ -63084,15 +63174,15 @@
       "ref": "1 Chronicles 21:23",
       "book": "1 Chronicles"
     },
-    "psalms-136-23": {
-      "text": "It is he who remembered us in our low estate,\n    for his steadfast love endures forever;",
-      "ref": "Psalms 136:23",
-      "book": "Psalms"
-    },
     "luke-1-52": {
       "text": "he has brought down the mighty from their thrones\n    and exalted those of humble estate;",
       "ref": "Luke 1:52",
       "book": "Luke"
+    },
+    "psalms-136-23": {
+      "text": "It is he who remembered us in our low estate,\n    for his steadfast love endures forever;",
+      "ref": "Psalms 136:23",
+      "book": "Psalms"
     },
     "1-kings-2-26": {
       "text": "And to Abiathar the priest the king said, “Go to Anathoth, to your estate, for you deserve death. But I will not at this time put you to death, because you carried the ark of the Lord God before David my father, and because you shared in all my father's affliction.”",
@@ -63218,6 +63308,11 @@
       "text": "“Thus says the Lord of hosts: The fast of the fourth month and the fast of the fifth and the fast of the seventh and the fast of the tenth shall be to the house of Judah seasons of joy and gladness and cheerful feasts. Therefore love truth and peace.",
       "ref": "Zechariah 8:19",
       "book": "Zechariah"
+    },
+    "psalms-110-6": {
+      "text": "He will execute judgment among the nations,\n    filling them with corpses;\nhe will shatter chiefs\n    over the wide earth.",
+      "ref": "Psalms 110:6",
+      "book": "Psalms"
     },
     "mark-9-26": {
       "text": "And after crying out and convulsing him terribly, it came out, and the boy was like a corpse, so that most of them said, “He is dead.”",
@@ -63423,6 +63518,11 @@
       "text": "Instead of the thorn shall come up the cypress;\n    instead of the brier shall come up the myrtle;\nand it shall make a name for the Lord,\n    an everlasting sign that shall not be cut off.”",
       "ref": "Isaiah 55:13",
       "book": "Isaiah"
+    },
+    "zechariah-1-8": {
+      "text": "“I saw in the night, and behold, a man riding on a red horse! He was standing among the myrtle trees in the glen, and behind him were red, sorrel, and white horses.",
+      "ref": "Zechariah 1:8",
+      "book": "Zechariah"
     },
     "zechariah-1-11": {
       "text": "And they answered the angel of the Lord who was standing among the myrtle trees, and said, ‘We have patrolled the earth, and behold, all the earth remains at rest.’",
@@ -64354,11 +64454,6 @@
       "ref": "Acts 18:16",
       "book": "Acts"
     },
-    "acts-18-12": {
-      "text": "But when Gallio was proconsul of Achaia, the Jews made a united attack on Paul and brought him before the tribunal,",
-      "ref": "Acts 18:12",
-      "book": "Acts"
-    },
     "acts-25-17": {
       "text": "So when they came together here, I made no delay, but on the next day took my seat on the tribunal and ordered the man to be brought.",
       "ref": "Acts 25:17",
@@ -64372,6 +64467,11 @@
     "acts-25-10": {
       "text": "But Paul said, “I am standing before Caesar's tribunal, where I ought to be tried. To the Jews I have done no wrong, as you yourself know very well.",
       "ref": "Acts 25:10",
+      "book": "Acts"
+    },
+    "acts-25-6": {
+      "text": "After he stayed among them not more than eight or ten days, he went down to Caesarea. And the next day he took his seat on the tribunal and ordered Paul to be brought.",
+      "ref": "Acts 25:6",
       "book": "Acts"
     },
     "acts-21-20": {
@@ -65743,6 +65843,11 @@
       "text": "And from there we made a circuit and arrived at Rhegium. And after one day a south wind sprang up, and on the second day we came to Puteoli.",
       "ref": "Acts 28:13",
       "book": "Acts"
+    },
+    "ezekiel-23-12": {
+      "text": "She lusted after the Assyrians, governors and commanders, warriors clothed in full armor, horsemen riding on horses, all of them desirable young men.",
+      "ref": "Ezekiel 23:12",
+      "book": "Ezekiel"
     },
     "1-samuel-9-20": {
       "text": "As for your donkeys that were lost three days ago, do not set your mind on them, for they have been found. And for whom is all that is desirable in Israel? Is it not for you and for all your father's house?”",
@@ -68049,6 +68154,11 @@
       "ref": "2 Chronicles 29:34",
       "book": "2 Chronicles"
     },
+    "galatians-5-4": {
+      "text": "You are severed from Christ, you who would be justified by the law; you have fallen away from grace.",
+      "ref": "Galatians 5:4",
+      "book": "Galatians"
+    },
     "leviticus-1-17": {
       "text": "He shall tear it open by its wings, but shall not sever it completely. And the priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, a food offering with a pleasing aroma to the Lord.",
       "ref": "Leviticus 1:17",
@@ -69009,6 +69119,11 @@
       "ref": "Ezekiel 23:40",
       "book": "Ezekiel"
     },
+    "jeremiah-38-11": {
+      "text": "So Ebed-melech took the men with him and went to the house of the king, to a wardrobe in the storehouse, and took from there old rags and worn-out clothes, which he let down to Jeremiah in the cistern by ropes.",
+      "ref": "Jeremiah 38:11",
+      "book": "Jeremiah"
+    },
     "2-chronicles-34-22": {
       "text": "So Hilkiah and those whom the king had sent went to Huldah the prophetess, the wife of Shallum the son of Tokhath, son of Hasrah, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter) and spoke to her to that effect.",
       "ref": "2 Chronicles 34:22",
@@ -69359,11 +69474,6 @@
       "ref": "Job 11:17",
       "book": "Job"
     },
-    "proverbs-4-18": {
-      "text": "But the path of the righteous is like the light of dawn,\n    which shines brighter and brighter until full day.",
-      "ref": "Proverbs 4:18",
-      "book": "Proverbs"
-    },
     "acts-26-13": {
       "text": "At midday, O king, I saw on the way a light from heaven, brighter than the sun, that shone around me and those who journeyed with me.",
       "ref": "Acts 26:13",
@@ -69704,11 +69814,6 @@
       "ref": "Psalms 104:14",
       "book": "Psalms"
     },
-    "psalms-110-6": {
-      "text": "He will execute judgment among the nations,\n    filling them with corpses;\nhe will shatter chiefs\n    over the wide earth.",
-      "ref": "Psalms 110:6",
-      "book": "Psalms"
-    },
     "psalms-119-123": {
       "text": "My eyes long for your salvation\n    and for the fulfillment of your righteous promise.",
       "ref": "Psalms 119:123",
@@ -69983,11 +70088,6 @@
       "text": "And I will make every effort so that after my departure you may be able at any time to recall these things.",
       "ref": "2 Peter 1:15",
       "book": "2 Peter"
-    },
-    "ezekiel-29-16": {
-      "text": "And it shall never again be the reliance of the house of Israel, recalling their iniquity, when they turn to them for aid. Then they will know that I am the Lord God.”",
-      "ref": "Ezekiel 29:16",
-      "book": "Ezekiel"
     },
     "jeremiah-2-22": {
       "text": "Though you wash yourself with lye\n    and use much soap,\n    the stain of your guilt is still before me,\ndeclares the Lord God.",
@@ -70793,11 +70893,6 @@
       "text": "As for me, I will dwell at Mizpah, to represent you before the Chaldeans who will come to us. But as for you, gather wine and summer fruits and oil, and store them in your vessels, and dwell in your cities that you have taken.”",
       "ref": "Jeremiah 40:10",
       "book": "Jeremiah"
-    },
-    "exodus-21-22": {
-      "text": "“When men strive together and hit a pregnant woman, so that her children come out, but there is no harm, the one who hit her shall surely be fined, as the woman's husband shall impose on him, and he shall pay as the judges determine.",
-      "ref": "Exodus 21:22",
-      "book": "Exodus"
     },
     "2-corinthians-13-9": {
       "text": "For we are glad when we are weak and you are strong. Your restoration is what we pray for.",
@@ -72609,6 +72704,11 @@
       "ref": "Galatians 2:6",
       "book": "Galatians"
     },
+    "ezekiel-23-14": {
+      "text": "But she carried her whoring further. She saw men portrayed on the wall, the images of the Chaldeans portrayed in vermilion,",
+      "ref": "Ezekiel 23:14",
+      "book": "Ezekiel"
+    },
     "matthew-25-9": {
       "text": "But the wise answered, saying, ‘Since there will not be enough for us and for you, go rather to the dealers and buy for yourselves.’",
       "ref": "Matthew 25:9",
@@ -73089,10 +73189,10 @@
       "ref": "Matthew 7:28",
       "book": "Matthew"
     },
-    "psalms-78-1": {
-      "text": "Give ear, O my people, to my teaching;\n    incline your ears to the words of my mouth!",
-      "ref": "Psalms 78:1",
-      "book": "Psalms"
+    "mark-4-2": {
+      "text": "And he was teaching them many things in parables, and in his teaching he said to them:",
+      "ref": "Mark 4:2",
+      "book": "Mark"
     },
     "1-thessalonians-2-13": {
       "text": "And we also thank God constantly for this, that when you received the word of God, which you heard from us, you accepted it not as the word of men but as what it really is, the word of God, which is at work in you believers.",
@@ -74744,15 +74844,15 @@
       "ref": "Proverbs 6:19",
       "book": "Proverbs"
     },
-    "psalms-104-2": {
-      "text": "covering yourself with light as with a garment,\n    stretching out the heavens like a tent.",
-      "ref": "Psalms 104:2",
-      "book": "Psalms"
-    },
     "1-corinthians-11-15": {
       "text": "but if a woman has long hair, it is her glory? For her hair is given to her for a covering.",
       "ref": "1 Corinthians 11:15",
       "book": "1 Corinthians"
+    },
+    "psalms-104-2": {
+      "text": "covering yourself with light as with a garment,\n    stretching out the heavens like a tent.",
+      "ref": "Psalms 104:2",
+      "book": "Psalms"
     },
     "isaiah-22-8": {
       "text": "He has taken away the covering of Judah.\nIn that day you looked to the weapons of the House of the Forest,",
@@ -74983,6 +75083,11 @@
       "text": "Is it not to share your bread with the hungry\n    and bring the homeless poor into your house;\nwhen you see the naked, to cover him,\n    and not to hide yourself from your own flesh?",
       "ref": "Isaiah 58:7",
       "book": "Isaiah"
+    },
+    "hebrews-12-6": {
+      "text": "For the Lord disciplines the one he loves,\n    and chastises every son whom he receives.”",
+      "ref": "Hebrews 12:6",
+      "book": "Hebrews"
     },
     "malachi-3-2": {
       "text": "But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner's fire and like fullers' soap.",
@@ -75679,11 +75784,6 @@
       "ref": "2 Corinthians 3:1",
       "book": "2 Corinthians"
     },
-    "luke-12-47": {
-      "text": "And that servant who knew his master's will but did not get ready or act according to his will, will receive a severe beating.",
-      "ref": "Luke 12:47",
-      "book": "Luke"
-    },
     "acts-21-32": {
       "text": "He at once took soldiers and centurions and ran down to them. And when they saw the tribune and the soldiers, they stopped beating Paul.",
       "ref": "Acts 21:32",
@@ -75698,6 +75798,11 @@
       "text": "My anguish, my anguish! I writhe in pain!\n    Oh the walls of my heart!\nMy heart is beating wildly;\n    I cannot keep silent,\nfor I hear the sound of the trumpet,\n    the alarm of war.",
       "ref": "Jeremiah 4:19",
       "book": "Jeremiah"
+    },
+    "luke-12-48": {
+      "text": "But the one who did not know, and did what deserved a beating, will receive a light beating. Everyone to whom much was given, of him much will be required, and from him to whom they entrusted much, they will demand the more.",
+      "ref": "Luke 12:48",
+      "book": "Luke"
     },
     "judges-19-22": {
       "text": "As they were making their hearts merry, behold, the men of the city, worthless fellows, surrounded the house, beating on the door. And they said to the old man, the master of the house, “Bring out the man who came into your house, that we may know him.”",
@@ -76359,6 +76464,11 @@
       "ref": "1 Samuel 30:30",
       "book": "1 Samuel"
     },
+    "2-kings-12-9": {
+      "text": "Then Jehoiada the priest took a chest and bored a hole in the lid of it and set it beside the altar on the right side as one entered the house of the Lord. And the priests who guarded the threshold put in it all the money that was brought into the house of the Lord.",
+      "ref": "2 Kings 12:9",
+      "book": "2 Kings"
+    },
     "1-samuel-30-31": {
       "text": "in Hebron, for all the places where David and his men had roamed.",
       "ref": "1 Samuel 30:31",
@@ -76402,11 +76512,6 @@
     "2-samuel-23-1": {
       "text": "Now these are the last words of David:\nThe oracle of David, the son of Jesse,\n    the oracle of the man who was raised on high,\nthe anointed of the God of Jacob,\n    the sweet psalmist of Israel:",
       "ref": "2 Samuel 23:1",
-      "book": "2 Samuel"
-    },
-    "2-samuel-23-4": {
-      "text": "he dawns on them like the morning light,\n    like the sun shining forth on a cloudless morning,\n    like rain that makes grass to sprout from the earth.",
-      "ref": "2 Samuel 23:4",
       "book": "2 Samuel"
     },
     "2-samuel-23-8": {
@@ -76519,6 +76624,11 @@
       "ref": "2 Kings 9:20",
       "book": "2 Kings"
     },
+    "ezra-6-22": {
+      "text": "And they kept the Feast of Unleavened Bread seven days with joy, for the Lord had made them joyful and had turned the heart of the king of Assyria to them, so that he aided them in the work of the house of God, the God of Israel.",
+      "ref": "Ezra 6:22",
+      "book": "Ezra"
+    },
     "2-kings-9-25": {
       "text": "Jehu said to Bidkar his aide, “Take him up and throw him on the plot of ground belonging to Naboth the Jezreelite. For remember, when you and I rode side by side behind Ahab his father, how the Lord made this pronouncement against him:",
       "ref": "2 Kings 9:25",
@@ -76527,11 +76637,6 @@
     "2-kings-9-27": {
       "text": "When Ahaziah the king of Judah saw this, he fled in the direction of Beth-haggan. And Jehu pursued him and said, “Shoot him also.” And they shot him in the chariot at the ascent of Gur, which is by Ibleam. And he fled to Megiddo and died there.",
       "ref": "2 Kings 9:27",
-      "book": "2 Kings"
-    },
-    "2-kings-12-9": {
-      "text": "Then Jehoiada the priest took a chest and bored a hole in the lid of it and set it beside the altar on the right side as one entered the house of the Lord. And the priests who guarded the threshold put in it all the money that was brought into the house of the Lord.",
-      "ref": "2 Kings 12:9",
       "book": "2 Kings"
     },
     "2-kings-17-30": {
@@ -76579,30 +76684,10 @@
       "ref": "1 Chronicles 6:75",
       "book": "1 Chronicles"
     },
-    "judges-20-11": {
-      "text": "So all the men of Israel gathered against the city, united as one man.",
-      "ref": "Judges 20:11",
-      "book": "Judges"
-    },
-    "romans-6-5": {
-      "text": "For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.",
-      "ref": "Romans 6:5",
-      "book": "Romans"
-    },
     "1-chronicles-7-4": {
       "text": "And along with them, by their generations, according to their fathers' houses, were units of the army for war, 36,000, for they had many wives and sons.",
       "ref": "1 Chronicles 7:4",
       "book": "1 Chronicles"
-    },
-    "hebrews-4-2": {
-      "text": "For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.",
-      "ref": "Hebrews 4:2",
-      "book": "Hebrews"
-    },
-    "1-corinthians-1-10": {
-      "text": "I appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree, and that there be no divisions among you, but that you be united in the same mind and the same judgment.",
-      "ref": "1 Corinthians 1:10",
-      "book": "1 Corinthians"
     },
     "1-chronicles-7-25": {
       "text": "Rephah was his son, Resheph his son, Telah his son, Tahan his son,",
@@ -77224,11 +77309,6 @@
       "ref": "Isaiah 28:19",
       "book": "Isaiah"
     },
-    "isaiah-30-22": {
-      "text": "Then you will defile your carved idols overlaid with silver and your gold-plated metal images. You will scatter them as unclean things. You will say to them, “Be gone!”",
-      "ref": "Isaiah 30:22",
-      "book": "Isaiah"
-    },
     "isaiah-30-23": {
       "text": "And he will give rain for the seed with which you sow the ground, and bread, the produce of the ground, which will be rich and plenteous. In that day your livestock will graze in large pastures,",
       "ref": "Isaiah 30:23",
@@ -77602,11 +77682,6 @@
     "daniel-4-30": {
       "text": "and the king answered and said, “Is not this great Babylon, which I have built by my mighty power as a royal residence and for the glory of my majesty?”",
       "ref": "Daniel 4:30",
-      "book": "Daniel"
-    },
-    "daniel-5-28": {
-      "text": "Peres, your kingdom is divided and given to the Medes and Persians.”",
-      "ref": "Daniel 5:28",
       "book": "Daniel"
     },
     "daniel-6-18": {

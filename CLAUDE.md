@@ -60,3 +60,14 @@ flutter run
 - **Pipeline**: Python 3.x, spaCy (NLP), Z.AI SDK
 - **App**: Flutter/Dart
 - **Data**: JSON
+
+## Rules
+
+- **앱 실행 전 기존 인스턴스 종료**: Electron 앱이나 Flutter 앱을 실행하기 전에 항상 기존에 실행 중인 인스턴스를 먼저 종료해야 합니다.
+  ```bash
+  # Sentence Analysis Dashboard (Electron)
+  pkill -f "Electron.*sentence" 2>/dev/null; pkill -f "electron.*sentence" 2>/dev/null
+
+  # Flutter App
+  pkill -f "flutter.*bible_vocabulary" 2>/dev/null
+  ```
