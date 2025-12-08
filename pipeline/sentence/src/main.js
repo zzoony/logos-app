@@ -5,6 +5,20 @@ const { exec } = require('child_process');
 const analyzer = require('./analyzer');
 const validator = require('./validator');
 
+/**
+ * 타임스탬프와 함께 로그 출력
+ */
+function log(...args) {
+  const now = new Date();
+  const timestamp = now.toLocaleTimeString('ko-KR', {
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false
+  });
+  console.log(`[${timestamp}]`, ...args);
+}
+
 // 성경 책 이름 매핑 (영어 -> 한글)
 /**
  * 책 이름을 파일명 형식으로 변환 (공백 제거)
@@ -61,10 +75,10 @@ ipcMain.handle('get-app-version', () => {
 });
 
 ipcMain.handle('start-analysis', async (event, { books, version }) => {
-  console.log(`\n${'='.repeat(60)}`);
-  console.log(`Analysis started for ${books.length} books (${version})`);
-  console.log(`Books: ${books.join(', ')}`);
-  console.log(`${'='.repeat(60)}\n`);
+  log(`\n${'='.repeat(60)}`);
+  log(`Analysis started for ${books.length} books (${version})`);
+  log(`Books: ${books.join(', ')}`);
+  log(`${'='.repeat(60)}\n`);
 
   try {
     const result = await analyzer.analyzeBooks(books, version, (progress) => {
@@ -79,9 +93,9 @@ ipcMain.handle('start-analysis', async (event, { books, version }) => {
       mainWindow.webContents.send('analysis-complete', result);
     }
 
-    console.log(`\n${'='.repeat(60)}`);
-    console.log(`Analysis completed: ${result.totalCompleted}/${result.totalVerses} verses`);
-    console.log(`${'='.repeat(60)}\n`);
+    log(`\n${'='.repeat(60)}`);
+    log(`Analysis completed: ${result.totalCompleted}/${result.totalVerses} verses`);
+    log(`${'='.repeat(60)}\n`);
 
     return { success: true, result };
   } catch (error) {
@@ -91,7 +105,7 @@ ipcMain.handle('start-analysis', async (event, { books, version }) => {
 });
 
 ipcMain.handle('stop-analysis', async () => {
-  console.log('\n[STOP] Stop analysis requested\n');
+  log('\n[STOP] Stop analysis requested\n');
   analyzer.stopAnalysis();
   return { success: true };
 });
@@ -126,7 +140,7 @@ ipcMain.handle('init-output-folders', async (event, version) => {
       }
     }
 
-    console.log(`Output folders initialized for ${version}`);
+    log(`Output folders initialized for ${version}`);
     return { success: true, path: versionPath };
   } catch (error) {
     console.error('Error initializing output folders:', error);
@@ -248,10 +262,10 @@ ipcMain.handle('load-bible-data', async (event, version) => {
 
 // 검증 시작 핸들러
 ipcMain.handle('start-validation', async (event, { books, version }) => {
-  console.log(`\n${'='.repeat(60)}`);
-  console.log(`Validation started for ${books.length} books (${version})`);
-  console.log(`Books: ${books.join(', ')}`);
-  console.log(`${'='.repeat(60)}\n`);
+  log(`\n${'='.repeat(60)}`);
+  log(`Validation started for ${books.length} books (${version})`);
+  log(`Books: ${books.join(', ')}`);
+  log(`${'='.repeat(60)}\n`);
 
   try {
     const result = validator.validateBooks(books, version, (progress) => {
@@ -266,10 +280,10 @@ ipcMain.handle('start-validation', async (event, { books, version }) => {
       mainWindow.webContents.send('validation-complete', result);
     }
 
-    console.log(`\n${'='.repeat(60)}`);
-    console.log(`Validation completed: ${result.totalValid}/${result.totalVerses} valid`);
-    console.log(`Total issues: ${result.totalIssues}`);
-    console.log(`${'='.repeat(60)}\n`);
+    log(`\n${'='.repeat(60)}`);
+    log(`Validation completed: ${result.totalValid}/${result.totalVerses} valid`);
+    log(`Total issues: ${result.totalIssues}`);
+    log(`${'='.repeat(60)}\n`);
 
     return { success: true, result };
   } catch (error) {
@@ -300,7 +314,7 @@ ipcMain.handle('open-in-editor', async (event, { filePath, editor }) => {
       return { success: false, error: `File not found: ${absolutePath}` };
     }
 
-    console.log(`Opening in ${editor}: ${absolutePath}`);
+    log(`Opening in ${editor}: ${absolutePath}`);
 
     // 에디터별 명령어
     let command;
@@ -346,13 +360,13 @@ ipcMain.handle('get-file-path', async (event, { book, fileName, version }) => {
 
 // 단일 구절 재분석 핸들러
 ipcMain.handle('reanalyze-verse', async (event, { book, chapter, verse, version }) => {
-  console.log(`\n[REANALYZE] ${book} ${chapter}:${verse} (${version})`);
+  log(`\n[REANALYZE] ${book} ${chapter}:${verse} (${version})`);
 
   try {
     const result = await analyzer.reanalyzeVerse(book, chapter, verse, version);
 
     if (result) {
-      console.log(`[REANALYZE] Success: ${book} ${chapter}:${verse}`);
+      log(`[REANALYZE] Success: ${book} ${chapter}:${verse}`);
       return { success: true, result };
     } else {
       return { success: false, error: 'No result returned' };
@@ -365,9 +379,9 @@ ipcMain.handle('reanalyze-verse', async (event, { book, chapter, verse, version 
 
 // 배치 재분석 핸들러 (Pool 기반 병렬 처리)
 ipcMain.handle('reanalyze-batch', async (event, { verses, version }) => {
-  console.log(`\n${'='.repeat(60)}`);
-  console.log(`[BATCH REANALYZE] Starting ${verses.length} verses (${version})`);
-  console.log(`${'='.repeat(60)}\n`);
+  log(`\n${'='.repeat(60)}`);
+  log(`[BATCH REANALYZE] Starting ${verses.length} verses (${version})`);
+  log(`${'='.repeat(60)}\n`);
 
   try {
     const result = await analyzer.reanalyzeBatch(verses, version, (progress) => {
@@ -382,15 +396,32 @@ ipcMain.handle('reanalyze-batch', async (event, { verses, version }) => {
       mainWindow.webContents.send('reanalyze-complete', result);
     }
 
-    console.log(`\n${'='.repeat(60)}`);
-    console.log(`[BATCH REANALYZE] Completed: ${result.completed}/${result.total}`);
-    console.log(`${'='.repeat(60)}\n`);
+    log(`\n${'='.repeat(60)}`);
+    log(`[BATCH REANALYZE] Completed: ${result.completed}/${result.total}`);
+    log(`${'='.repeat(60)}\n`);
 
     return { success: true, result };
   } catch (error) {
     console.error('[BATCH REANALYZE] Error:', error);
     return { success: false, error: error.message };
   }
+});
+
+// 분석 방법 설정 핸들러
+ipcMain.handle('set-analysis-method', async (event, method) => {
+  log(`[CONFIG] Setting analysis method to: ${method}`);
+  const success = analyzer.setAnalysisMethod(method);
+  return { success, method };
+});
+
+// 현재 분석 방법 조회
+ipcMain.handle('get-analysis-method', async () => {
+  return analyzer.getAnalysisMethod();
+});
+
+// 현재 Pool 크기 조회
+ipcMain.handle('get-pool-size', async () => {
+  return analyzer.getPoolSize();
 });
 
 function createWindow() {

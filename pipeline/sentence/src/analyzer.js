@@ -6,7 +6,25 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const { spawn } = require('child_process');
 const config = require('./config');
+
+// 현재 분석 방법 (런타임에 변경 가능)
+let currentAnalysisMethod = config.ANALYSIS_METHOD || 'api';
+
+/**
+ * 타임스탬프와 함께 로그 출력
+ */
+function log(...args) {
+  const now = new Date();
+  const timestamp = now.toLocaleTimeString('ko-KR', {
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false
+  });
+  console.log(`[${timestamp}]`, ...args);
+}
 
 // 경로 설정
 const SOURCE_DATA_DIR = path.join(__dirname, '../../source-data');
@@ -207,6 +225,149 @@ function callAPI(prompt) {
 }
 
 /**
+ * Claude CLI 호출
+ */
+function callClaude(prompt) {
+  return new Promise((resolve, reject) => {
+    const timeout = config.CLI_TIMEOUT || 120000;
+    const model = config.CLAUDE_MODEL || 'haiku';
+
+    const child = spawn('claude', ['--model', model, '--print'], {
+      stdio: ['pipe', 'pipe', 'pipe']
+    });
+
+    let stdout = '';
+    let stderr = '';
+    let timeoutId;
+
+    child.stdout.on('data', (data) => {
+      stdout += data.toString();
+    });
+
+    child.stderr.on('data', (data) => {
+      stderr += data.toString();
+    });
+
+    child.on('close', (code) => {
+      clearTimeout(timeoutId);
+      if (code === 0) {
+        resolve(stdout);
+      } else {
+        reject(new Error(`Claude CLI exited with code ${code}: ${stderr}`));
+      }
+    });
+
+    child.on('error', (err) => {
+      clearTimeout(timeoutId);
+      reject(new Error(`Claude CLI error: ${err.message}`));
+    });
+
+    // 타임아웃 설정
+    timeoutId = setTimeout(() => {
+      child.kill('SIGTERM');
+      reject(new Error('Claude CLI timeout'));
+    }, timeout);
+
+    // 프롬프트 전달
+    child.stdin.write(prompt);
+    child.stdin.end();
+  });
+}
+
+/**
+ * Droid exec 호출
+ */
+function callDroid(prompt) {
+  return new Promise((resolve, reject) => {
+    const timeout = config.CLI_TIMEOUT || 120000;
+
+    const child = spawn('droid', ['exec', '-o', 'text'], {
+      stdio: ['pipe', 'pipe', 'pipe']
+    });
+
+    let stdout = '';
+    let stderr = '';
+    let timeoutId;
+
+    child.stdout.on('data', (data) => {
+      stdout += data.toString();
+    });
+
+    child.stderr.on('data', (data) => {
+      stderr += data.toString();
+    });
+
+    child.on('close', (code) => {
+      clearTimeout(timeoutId);
+      if (code === 0) {
+        resolve(stdout);
+      } else {
+        reject(new Error(`Droid exec exited with code ${code}: ${stderr}`));
+      }
+    });
+
+    child.on('error', (err) => {
+      clearTimeout(timeoutId);
+      reject(new Error(`Droid exec error: ${err.message}`));
+    });
+
+    // 타임아웃 설정
+    timeoutId = setTimeout(() => {
+      child.kill('SIGTERM');
+      reject(new Error('Droid exec timeout'));
+    }, timeout);
+
+    // 프롬프트 전달
+    child.stdin.write(prompt);
+    child.stdin.end();
+  });
+}
+
+/**
+ * 현재 분석 방법에 따라 적절한 함수 호출
+ */
+async function callAnalyzer(prompt) {
+  switch (currentAnalysisMethod) {
+    case 'claude':
+      return callClaude(prompt);
+    case 'droid':
+      return callDroid(prompt);
+    case 'api':
+    default:
+      return callAPI(prompt);
+  }
+}
+
+/**
+ * 분석 방법 설정
+ */
+function setAnalysisMethod(method) {
+  if (['api', 'claude', 'droid'].includes(method)) {
+    currentAnalysisMethod = method;
+    log(`분석 방법 변경: ${method}`);
+    return true;
+  }
+  return false;
+}
+
+/**
+ * 현재 분석 방법 반환
+ */
+function getAnalysisMethod() {
+  return currentAnalysisMethod;
+}
+
+/**
+ * 현재 설정에 맞는 Pool 크기 반환
+ */
+function getPoolSize() {
+  if (currentAnalysisMethod === 'api') {
+    return config.POOL_SIZE_API || 4;
+  }
+  return config.POOL_SIZE_CLI || 20;
+}
+
+/**
  * 분석 프롬프트 생성
  */
 function createAnalysisPrompt(verseText, verseRef) {
@@ -261,9 +422,9 @@ async function analyzeVerse(book, chapter, verse, version, wordToId, koreanBible
   const koreanText = koreanBible?.[book]?.[String(chapter)]?.[String(verse)] || '';
   const verseRef = `${book} ${chapter}:${verse}`;
 
-  // API 호출
+  // 분석기 호출 (API/Claude/Droid)
   const prompt = createAnalysisPrompt(verseText, verseRef);
-  const response = await callAPI(prompt);
+  const response = await callAnalyzer(prompt);
 
   // JSON 파싱
   const parsed = extractJSON(response);
@@ -384,8 +545,8 @@ async function analyzeBook(bookName, version, progressCallback) {
     return true;
   });
 
-  console.log(`[INFO] ${bookName}: ${versesToAnalyze.length} verses to analyze (${completed} already done)`);
-  console.log(`[POOL] Starting with ${config.POOL_SIZE} concurrent workers`);
+  log(`[INFO] ${bookName}: ${versesToAnalyze.length} verses to analyze (${completed} already done)`);
+  log(`[POOL] Starting with ${getPoolSize()} concurrent workers (method: ${currentAnalysisMethod})`);
 
   // Pool 기반 병렬 처리
   const processor = async ({ chapter, verse }) => {
@@ -407,7 +568,7 @@ async function analyzeBook(bookName, version, progressCallback) {
 
       if (result) {
         fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
-        console.log(`[SAVE] ${fileName}`);
+        log(`[SAVE] ${fileName}`);
       }
 
       completed++;  // 성공 시에만 증가
@@ -443,64 +604,196 @@ async function analyzeBook(bookName, version, progressCallback) {
     }
   };
 
-  await processWithPool(versesToAnalyze, config.POOL_SIZE, processor);
+  await processWithPool(versesToAnalyze, getPoolSize(), processor);
 
   if (shouldStop) {
-    console.log(`[STOP] Analysis stopped by user`);
+    log(`[STOP] Analysis stopped by user`);
   }
 
   return { completed, total, errors, stopped: shouldStop };
 }
 
 /**
- * 여러 책 분석
+ * 여러 책 분석 (모든 구절을 하나의 풀에서 병렬 처리)
  */
 async function analyzeBooks(bookNames, version, progressCallback) {
+  loadEnv();
+
+  if (!API_KEY) {
+    throw new Error('API key not found. Check vocabulary/.env file.');
+  }
+
   isAnalyzing = true;
   shouldStop = false;
 
-  const results = {};
-  let totalCompleted = 0;
-  let totalVerses = 0;
+  const poolSize = getPoolSize();
+  log(`\n${'='.repeat(60)}`);
+  log(`[CONFIG] 분석 방법: ${currentAnalysisMethod.toUpperCase()}, Pool 크기: ${poolSize}`);
+  log(`[CONFIG] 선택된 책: ${bookNames.length}권 - ${bookNames.join(', ')}`);
+  log(`${'='.repeat(60)}`);
+
+  // 공통 데이터 로드
+  const bibleData = loadBibleData(version);
+  const koreanBible = loadKoreanBible();
+  const wordToId = loadVocabulary(version);
+
+  // 모든 책에서 구절 수집
+  const allVerses = [];
+  const bookStats = {};
 
   for (const bookName of bookNames) {
-    if (shouldStop) break;
+    const bookData = bibleData[bookName];
+    if (!bookData) {
+      log(`[WARN] Book not found: ${bookName}`);
+      continue;
+    }
 
-    console.log(`\n${'='.repeat(60)}`);
-    console.log(`[START] Analyzing ${bookName} (${version})`);
-    console.log(`${'='.repeat(60)}\n`);
+    const bookFilename = toFilename(bookName);
+    const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
+    if (!fs.existsSync(outputPath)) {
+      fs.mkdirSync(outputPath, { recursive: true });
+    }
 
-    try {
-      const result = await analyzeBook(bookName, version, (progress) => {
-        progressCallback?.({
-          ...progress,
-          currentBook: bookName,
-          totalBooks: bookNames.length,
-          bookIndex: bookNames.indexOf(bookName) + 1
-        });
-      });
+    bookStats[bookName] = { total: 0, completed: 0, errors: [] };
 
-      results[bookName] = result;
-      totalCompleted += result.completed;
-      totalVerses += result.total;
-
-      console.log(`\n[DONE] ${bookName}: ${result.completed}/${result.total} verses`);
-      if (result.errors.length > 0) {
-        console.log(`[ERRORS] ${result.errors.length} errors occurred`);
+    for (const [chapter, chapterData] of Object.entries(bookData)) {
+      for (const verseNum of Object.keys(chapterData)) {
+        const verse = {
+          bookName,
+          bookFilename,
+          outputPath,
+          chapter: parseInt(chapter),
+          verse: parseInt(verseNum)
+        };
+        allVerses.push(verse);
+        bookStats[bookName].total++;
       }
-
-    } catch (error) {
-      console.error(`[FATAL] ${bookName}: ${error.message}`);
-      results[bookName] = { error: error.message };
     }
   }
+
+  // 전체 통계
+  let totalCompleted = 0;
+  let totalProcessed = 0;
+  let totalFailed = 0;
+  const totalVerses = allVerses.length;
+
+  // 이미 분석된 구절 필터링
+  const versesToAnalyze = allVerses.filter((v) => {
+    const fileName = `${v.bookFilename}_${v.chapter}_${v.verse}.json`;
+    const filePath = path.join(v.outputPath, fileName);
+    if (fs.existsSync(filePath)) {
+      totalCompleted++;
+      bookStats[v.bookName].completed++;
+      return false;
+    }
+    return true;
+  });
+
+  log(`[INFO] 전체: ${totalVerses}구절, 분석필요: ${versesToAnalyze.length}구절, 완료: ${totalCompleted}구절`);
+  log(`[POOL] ${poolSize}개 워커로 병렬 처리 시작\n`);
+
+  // 초기 진행상황 전달
+  progressCallback?.({
+    book: bookNames[0],
+    chapter: 0,
+    verse: 0,
+    completed: totalCompleted,
+    processed: totalCompleted,
+    total: totalVerses,
+    totalBooks: bookNames.length,
+    bookIndex: 1,
+    status: 'init'
+  });
+
+  // Pool 기반 병렬 처리
+  const processor = async (v) => {
+    const { bookName, bookFilename, outputPath, chapter, verse } = v;
+    const fileName = `${bookFilename}_${chapter}_${verse}.json`;
+    const filePath = path.join(outputPath, fileName);
+
+    // 처리 시작 알림
+    progressCallback?.({
+      book: bookName,
+      chapter,
+      verse,
+      completed: totalCompleted,
+      processed: totalProcessed,
+      total: totalVerses,
+      totalBooks: bookNames.length,
+      bookIndex: bookNames.indexOf(bookName) + 1,
+      status: 'processing'
+    });
+
+    try {
+      const result = await analyzeVerse(bookName, chapter, verse, version, wordToId, koreanBible, bibleData);
+
+      if (result) {
+        fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
+        log(`[SAVE] ${bookName} ${chapter}:${verse} -> ${fileName}`);
+      }
+
+      totalCompleted++;
+      totalProcessed++;
+      bookStats[bookName].completed++;
+
+      progressCallback?.({
+        book: bookName,
+        chapter,
+        verse,
+        completed: totalCompleted,
+        processed: totalProcessed,
+        total: totalVerses,
+        totalBooks: bookNames.length,
+        bookIndex: bookNames.indexOf(bookName) + 1,
+        status: 'completed'
+      });
+
+      return { bookName, chapter, verse, status: 'completed' };
+    } catch (error) {
+      console.error(`[ERROR] ${bookName} ${chapter}:${verse}: ${error.message}`);
+
+      totalProcessed++;
+      totalFailed++;
+      bookStats[bookName].errors.push({ chapter, verse, error: error.message });
+
+      progressCallback?.({
+        book: bookName,
+        chapter,
+        verse,
+        completed: totalCompleted,
+        processed: totalProcessed,
+        total: totalVerses,
+        totalBooks: bookNames.length,
+        bookIndex: bookNames.indexOf(bookName) + 1,
+        status: 'error',
+        error: error.message
+      });
+
+      return { bookName, chapter, verse, status: 'error', error: error.message };
+    }
+  };
+
+  await processWithPool(versesToAnalyze, poolSize, processor);
+
+  if (shouldStop) {
+    log(`[STOP] Analysis stopped by user`);
+  }
+
+  // 결과 요약
+  log(`\n${'='.repeat(60)}`);
+  log(`[SUMMARY] 전체: ${totalVerses}, 완료: ${totalCompleted}, 실패: ${totalFailed}`);
+  for (const [bookName, stats] of Object.entries(bookStats)) {
+    log(`  - ${bookName}: ${stats.completed}/${stats.total} (에러: ${stats.errors.length})`);
+  }
+  log(`${'='.repeat(60)}\n`);
 
   isAnalyzing = false;
 
   return {
-    results,
+    results: bookStats,
     totalCompleted,
     totalVerses,
+    totalFailed,
     stopped: shouldStop
   };
 }
@@ -510,7 +803,7 @@ async function analyzeBooks(bookNames, version, progressCallback) {
  */
 function stopAnalysis() {
   shouldStop = true;
-  console.log('[STOP] Stop requested...');
+  log('[STOP] Stop requested...');
 }
 
 /**
@@ -543,11 +836,11 @@ async function reanalyzeVerse(book, chapter, verse, version) {
   // 기존 파일 삭제
   if (fs.existsSync(filePath)) {
     fs.unlinkSync(filePath);
-    console.log(`[DELETE] ${fileName}`);
+    log(`[DELETE] ${fileName}`);
   }
 
   // 새로 분석
-  console.log(`[REANALYZE] ${book} ${chapter}:${verse}`);
+  log(`[REANALYZE] ${book} ${chapter}:${verse}`);
   const result = await analyzeVerse(book, chapter, verse, version, wordToId, koreanBible, bibleData);
 
   if (result) {
@@ -556,7 +849,7 @@ async function reanalyzeVerse(book, chapter, verse, version) {
       fs.mkdirSync(outputPath, { recursive: true });
     }
     fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
-    console.log(`[SAVE] ${fileName}`);
+    log(`[SAVE] ${fileName}`);
   }
 
   return result;
@@ -584,7 +877,7 @@ async function reanalyzeBatch(verses, version, progressCallback) {
   const total = verses.length;
   const results = [];
 
-  console.log(`\n[BATCH REANALYZE] Starting ${total} verses with ${config.POOL_SIZE} workers`);
+  log(`\n[BATCH REANALYZE] Starting ${total} verses with ${getPoolSize()} workers (method: ${currentAnalysisMethod})`);
 
   // 각 구절 처리 함수
   const processor = async ({ book, chapter, verse }) => {
@@ -618,7 +911,7 @@ async function reanalyzeBatch(verses, version, progressCallback) {
           fs.mkdirSync(outputPath, { recursive: true });
         }
         fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
-        console.log(`[SAVE] ${fileName}`);
+        log(`[SAVE] ${fileName}`);
       }
 
       completed++;
@@ -656,9 +949,9 @@ async function reanalyzeBatch(verses, version, progressCallback) {
   };
 
   // Pool 기반 병렬 처리
-  await processWithPool(verses, config.POOL_SIZE, processor);
+  await processWithPool(verses, getPoolSize(), processor);
 
-  console.log(`[BATCH REANALYZE] Done: ${completed} completed, ${failed} failed`);
+  log(`[BATCH REANALYZE] Done: ${completed} completed, ${failed} failed`);
 
   return {
     total,
@@ -676,5 +969,9 @@ module.exports = {
   reanalyzeBatch,
   stopAnalysis,
   getAnalysisState,
-  loadEnv
+  loadEnv,
+  // 분석 방법 관련
+  setAnalysisMethod,
+  getAnalysisMethod,
+  getPoolSize
 };

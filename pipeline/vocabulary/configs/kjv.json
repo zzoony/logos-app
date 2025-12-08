@@ -1,0 +1,12 @@
+{
+  "version": "kjv",
+  "name": "King James Version",
+  "language": "en",
+  "source_file": "KJV_bible.json",
+  "data_dir": "kjv",
+  "stopwords_file": "stopwords.txt",
+  "protected_words_file": "protected_words.txt",
+  "proper_nouns_file": "proper_nouns.txt",
+  "min_word_length": 2,
+  "min_frequency": 1
+}

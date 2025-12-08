@@ -11,6 +11,10 @@
     <!-- 헤더 -->
     <header class="header">
       <h1>Sentence Analysis Dashboard <span class="version-badge">v0.1.0</span></h1>
+      <div class="header-status">
+        <span class="status-badge" id="headerBibleVersion">ESV</span>
+        <span class="status-badge method" id="headerAnalysisMethod">API</span>
+      </div>
     </header>
 
     <!-- 탭 네비게이션 -->
@@ -118,8 +122,8 @@
 
           <div class="batch-size-control">
             <label for="batchSizeInput">동시 배치 개수:</label>
-            <input type="number" id="batchSizeInput" min="1" max="50" value="10" />
-            <span class="batch-size-hint">(기본값: 10, 범위: 1-50)</span>
+            <input type="number" id="batchSizeInput" min="1" max="50" value="4" />
+            <span class="batch-size-hint" id="batchSizeHint">(기본값: 4, 범위: 1-50)</span>
           </div>
 
           <div class="action-buttons">
@@ -171,7 +175,7 @@
           </div>
 
           <div class="recent-completions">
-            <h4>현재 진행중 (Pool: 5)</h4>
+            <h4>현재 진행중 (Pool: <span id="currentPoolDisplay">4</span>)</h4>
             <ul id="processingList">
               <!-- 동적으로 생성됨 -->
             </ul>
@@ -376,6 +380,50 @@
           <div class="path-display">
             <span class="path-label">Source Data:</span>
             <code class="path-value" id="sourcePathDisplay">source-data/ESV_Bible.json</code>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">🤖 분석 방법 선택</h3>
+        </div>
+        <div class="card-body">
+          <p class="setting-description">구문 분석에 사용할 방법을 선택하세요. 각 방법마다 동시 실행 개수가 다릅니다.</p>
+
+          <div class="bible-version-selector">
+            <label class="version-option">
+              <input type="radio" name="analysisMethod" value="api" checked>
+              <div class="version-card">
+                <div class="version-name">Z.AI API</div>
+                <div class="version-full">glm-4.6 모델</div>
+                <div class="version-file">동시 실행: 4개</div>
+              </div>
+            </label>
+
+            <label class="version-option">
+              <input type="radio" name="analysisMethod" value="claude">
+              <div class="version-card">
+                <div class="version-name">Claude CLI</div>
+                <div class="version-full">Haiku 모델</div>
+                <div class="version-file">동시 실행: 40개</div>
+              </div>
+            </label>
+
+            <label class="version-option">
+              <input type="radio" name="analysisMethod" value="droid">
+              <div class="version-card">
+                <div class="version-name">Droid Exec</div>
+                <div class="version-full">glm-4.6 모델</div>
+                <div class="version-file">동시 실행: 40개</div>
+              </div>
+            </label>
+          </div>
+
+          <div class="current-setting">
+            <span class="setting-label">현재 선택:</span>
+            <span class="setting-value" id="currentMethodDisplay">Z.AI API</span>
+            <span class="setting-value" id="currentPoolSize" style="margin-left: 20px;">동시 실행: 4개</span>
           </div>
         </div>
       </div>

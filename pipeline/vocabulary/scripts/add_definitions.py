@@ -587,10 +587,15 @@ def main():
     if args.cli:
         CLI_TOOL = args.cli
         USE_API = False
+        # Use haiku by default for claude CLI (faster and cheaper)
+        if args.cli == "claude" and args.model == DEFAULT_MODEL:
+            CLI_MODEL = "haiku"
+        else:
+            CLI_MODEL = args.model
     else:
         CLI_TOOL = DEFAULT_CLI
         USE_API = True
-    CLI_MODEL = args.model
+        CLI_MODEL = args.model
 
     # Validate API credentials if using API mode
     if USE_API and not API_KEY:

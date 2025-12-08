@@ -69,5 +69,10 @@ contextBridge.exposeInMainWorld('electronAPI', {
     const listener = (event, data) => callback(data);
     ipcRenderer.on('reanalyze-complete', listener);
     return () => ipcRenderer.removeListener('reanalyze-complete', listener);
-  }
+  },
+
+  // 분석 방법 설정
+  setAnalysisMethod: (method) => ipcRenderer.invoke('set-analysis-method', method),
+  getAnalysisMethod: () => ipcRenderer.invoke('get-analysis-method'),
+  getPoolSize: () => ipcRenderer.invoke('get-pool-size')
 });

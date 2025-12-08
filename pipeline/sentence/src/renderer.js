@@ -8,6 +8,7 @@ const CONFIG = {
   STORAGE_KEY: 'sentenceAnalysisSettings',
   DEFAULT_VERSION: 'ESV',
   DEFAULT_EDITOR: 'antigravity',
+  DEFAULT_ANALYSIS_METHOD: 'api',
   BIBLE_FILES: {
     ESV: 'ESV_Bible.json',
     NIV: 'NIV_Bible.json'
@@ -15,13 +16,19 @@ const CONFIG = {
   EDITORS: {
     cursor: 'Cursor',
     antigravity: 'Antigravity'
+  },
+  ANALYSIS_METHODS: {
+    api: { name: 'Z.AI API', poolSize: 4 },
+    claude: { name: 'Claude CLI', poolSize: 40 },
+    droid: { name: 'Droid Exec', poolSize: 40 }
   }
 };
 
 // 현재 설정 상태
 let currentSettings = {
   bibleVersion: CONFIG.DEFAULT_VERSION,
-  editor: CONFIG.DEFAULT_EDITOR
+  editor: CONFIG.DEFAULT_EDITOR,
+  analysisMethod: CONFIG.DEFAULT_ANALYSIS_METHOD
 };
 
 // 성경 데이터 상태
@@ -260,6 +267,20 @@ function updateSelectionInfo() {
   const selectedCards = document.querySelectorAll('.book-card.selected');
   const count = selectedCards.length;
 
+  // 선택된 책의 총 구절 수와 남은 구절 수 계산
+  let totalVerses = 0;
+  let remainingVerses = 0;
+
+  selectedCards.forEach(card => {
+    const bookName = card.dataset.bookName;
+    const book = bibleData?.books?.find(b => b.name === bookName);
+    if (book) {
+      totalVerses += book.verses || 0;
+      const analyzed = book.analyzed || 0;
+      remainingVerses += Math.max(0, (book.verses || 0) - analyzed);
+    }
+  });
+
   // 선택된 책 수 업데이트
   const selectedCountEl = document.getElementById('selectedCount');
   if (selectedCountEl) {
@@ -272,7 +293,38 @@ function updateSelectionInfo() {
     if (count === 0) {
       selectionTextEl.textContent = '선택된 책이 없습니다';
     } else {
-      selectionTextEl.textContent = `${count}권 선택됨`;
+      selectionTextEl.textContent = `${count}권 선택됨 (${totalVerses.toLocaleString()}구절, 남은 ${remainingVerses.toLocaleString()}구절)`;
+    }
+  }
+
+  // 예상 소요 시간 계산 및 업데이트
+  const estimateTextEl = document.getElementById('estimateText');
+  if (estimateTextEl) {
+    if (count === 0 || remainingVerses === 0) {
+      estimateTextEl.textContent = '예상 소요 시간: -';
+    } else {
+      // 평균 처리 시간: API=30초, Claude/Droid=12초 (병렬 처리 기준)
+      const method = currentSettings.analysisMethod;
+      const avgTimePerVerse = method === 'api' ? 30 : 12;  // 초
+      const poolSize = CONFIG.ANALYSIS_METHODS[method]?.poolSize || 4;
+
+      // 예상 시간 = (남은 구절 * 평균시간) / 풀크기
+      const estimatedSeconds = Math.ceil((remainingVerses * avgTimePerVerse) / poolSize);
+
+      // 시간 포맷
+      const hours = Math.floor(estimatedSeconds / 3600);
+      const minutes = Math.floor((estimatedSeconds % 3600) / 60);
+
+      let timeStr;
+      if (hours > 0) {
+        timeStr = `약 ${hours}시간 ${minutes}분`;
+      } else if (minutes > 0) {
+        timeStr = `약 ${minutes}분`;
+      } else {
+        timeStr = '1분 미만';
+      }
+
+      estimateTextEl.textContent = `예상 소요 시간: ${timeStr} (${method.toUpperCase()}, ${poolSize}워커)`;
     }
   }
 
@@ -459,12 +511,14 @@ async function stopAnalysis() {
 /**
  * 분석 상태 업데이트
  */
-function updateAnalysisStatus(message) {
+function updateAnalysisStatus(message, logToConsole = true) {
   const statusEl = document.getElementById('analysisStatus');
   if (statusEl) {
     statusEl.textContent = message;
   }
-  console.log(`[STATUS] ${message}`);
+  if (logToConsole) {
+    console.log(`[STATUS] ${message}`);
+  }
 }
 
 // 현재 진행중인 작업 목록 (key: "book_chapter_verse")
@@ -486,7 +540,19 @@ function handleAnalysisProgress(progress) {
   const bookData = bibleData?.books?.find(b => b.name === book);
   const bookNameKo = bookData?.nameKo || book;
 
-  // 진행중 목록 관리
+  // 타임스탬프 생성 함수
+  const getTimestamp = () => {
+    const now = new Date();
+    const yyyy = now.getFullYear();
+    const mm = String(now.getMonth() + 1).padStart(2, '0');
+    const dd = String(now.getDate()).padStart(2, '0');
+    const hh = String(now.getHours()).padStart(2, '0');
+    const mi = String(now.getMinutes()).padStart(2, '0');
+    const ss = String(now.getSeconds()).padStart(2, '0');
+    return `${yyyy}-${mm}-${dd} ${hh}:${mi}:${ss}`;
+  };
+
+  // 진행중 목록 관리 및 로그 출력
   if (status === 'processing') {
     processingTasks.set(taskKey, {
       book: bookNameKo,
@@ -494,13 +560,18 @@ function handleAnalysisProgress(progress) {
       verse,
       startTime: Date.now()
     });
-  } else if (status === 'completed' || status === 'error') {
+    // 시작 로그
+    console.log(`[${getTimestamp()}] 🚀 시작: ${book} ${chapter}:${verse}`);
+  } else if (status === 'completed') {
+    const task = processingTasks.get(taskKey);
+    const elapsed = task ? ((Date.now() - task.startTime) / 1000).toFixed(1) : '?';
     processingTasks.delete(taskKey);
-  }
-
-  // 에러 발생 시 상세 로그 출력
-  if (status === 'error') {
-    console.error(`[ERROR] ${book} ${chapter}:${verse} - ${error || 'Unknown error'}`);
+    // 완료 로그
+    console.log(`[${getTimestamp()}] ✅ 완료: ${book} ${chapter}:${verse} (${elapsed}s) | 진행: ${completed}/${total} (${percent}%)`);
+  } else if (status === 'error') {
+    processingTasks.delete(taskKey);
+    // 에러 로그
+    console.error(`[${getTimestamp()}] ❌ 실패: ${book} ${chapter}:${verse} - ${error || 'Unknown error'}`);
   }
 
   // 현재 진행중 목록 UI 업데이트
@@ -508,8 +579,9 @@ function handleAnalysisProgress(progress) {
 
   // 상태 메시지 업데이트 (완료/에러 시에만)
   if (status === 'completed' || status === 'error') {
-    const statusMessage = `[${bookIndex || 1}/${totalBooks || 1}] ${book} ${chapter}:${verse} (성공:${completed}/처리:${processedCount}/${total}) - ${percent}%`;
-    updateAnalysisStatus(statusMessage);
+    // UI 상태 메시지 (간결하게)
+    const statusMessage = `[${bookIndex || 1}/${totalBooks || 1}] ${book} ${chapter}:${verse} (${completed}/${total}) - ${percent}%`;
+    updateAnalysisStatus(statusMessage, false);  // 콘솔에는 출력하지 않음
   }
 
   // 진행률 바 업데이트
@@ -630,6 +702,12 @@ async function handleAnalysisComplete(result) {
 
   // 데이터 새로고침
   await loadBibleData();
+
+  // 완료 팝업 표시
+  const alertMessage = stopped
+    ? `분석이 중단되었습니다.\n\n처리된 구절: ${totalCompleted}/${totalVerses}`
+    : `분석이 완료되었습니다!\n\n처리된 구절: ${totalCompleted}/${totalVerses}`;
+  alert(alertMessage);
 }
 
 /**
@@ -670,9 +748,9 @@ function updateStats(stats) {
 /**
  * 설정 초기화
  */
-function initSettings() {
-  // 저장된 설정 로드
-  loadSettings();
+async function initSettings() {
+  // 저장된 설정 로드 (main process와 동기화 포함)
+  await loadSettings();
 
   // 성경 버전 라디오 버튼 이벤트 설정
   const versionRadios = document.querySelectorAll('input[name="bibleVersion"]');
@@ -690,6 +768,14 @@ function initSettings() {
     });
   });
 
+  // 분석 방법 라디오 버튼 이벤트 설정
+  const methodRadios = document.querySelectorAll('input[name="analysisMethod"]');
+  methodRadios.forEach(radio => {
+    radio.addEventListener('change', (e) => {
+      setAnalysisMethodUI(e.target.value);
+    });
+  });
+
   // UI 초기화
   updateSettingsUI();
 }
@@ -697,12 +783,18 @@ function initSettings() {
 /**
  * 설정 로드
  */
-function loadSettings() {
+async function loadSettings() {
   try {
     const saved = localStorage.getItem(CONFIG.STORAGE_KEY);
     if (saved) {
       const parsed = JSON.parse(saved);
       currentSettings = { ...currentSettings, ...parsed };
+
+      // 분석 방법을 main process와 동기화
+      if (currentSettings.analysisMethod) {
+        await window.electronAPI.setAnalysisMethod(currentSettings.analysisMethod);
+        console.log(`Synced analysis method: ${currentSettings.analysisMethod} (pool: ${CONFIG.ANALYSIS_METHODS[currentSettings.analysisMethod]?.poolSize || 4})`);
+      }
     }
   } catch (e) {
     console.warn('Failed to load settings:', e);
@@ -760,6 +852,40 @@ function getEditor() {
 }
 
 /**
+ * 분석 방법 설정 (UI에서 호출)
+ */
+async function setAnalysisMethodUI(method) {
+  if (CONFIG.ANALYSIS_METHODS[method]) {
+    currentSettings.analysisMethod = method;
+    saveSettings();
+    updateSettingsUI();
+
+    // analyzer.js에 분석 방법 변경 알림
+    try {
+      await window.electronAPI.setAnalysisMethod(method);
+      console.log(`Analysis method changed to: ${method}`);
+    } catch (e) {
+      console.error('Failed to set analysis method:', e);
+    }
+  }
+}
+
+/**
+ * 현재 분석 방법 가져오기
+ */
+function getAnalysisMethod() {
+  return currentSettings.analysisMethod;
+}
+
+/**
+ * 현재 분석 방법의 Pool 크기 가져오기
+ */
+function getPoolSize() {
+  const method = currentSettings.analysisMethod;
+  return CONFIG.ANALYSIS_METHODS[method]?.poolSize || 4;
+}
+
+/**
  * 현재 소스 파일 경로 가져오기
  */
 function getSourceFilePath() {
@@ -802,6 +928,54 @@ function updateSettingsUI() {
   const editorDisplay = document.getElementById('currentEditorDisplay');
   if (editorDisplay) {
     editorDisplay.textContent = CONFIG.EDITORS[editor] || editor;
+  }
+
+  // 분석 방법 라디오 버튼 상태 업데이트
+  const method = currentSettings.analysisMethod;
+  const methodRadio = document.querySelector(`input[name="analysisMethod"][value="${method}"]`);
+  if (methodRadio) {
+    methodRadio.checked = true;
+  }
+
+  // 현재 분석 방법 선택 표시 업데이트
+  const methodDisplay = document.getElementById('currentMethodDisplay');
+  if (methodDisplay) {
+    methodDisplay.textContent = CONFIG.ANALYSIS_METHODS[method]?.name || method;
+  }
+
+  // 현재 Pool 크기 표시 업데이트 (설정 탭)
+  const poolSizeDisplay = document.getElementById('currentPoolSize');
+  if (poolSizeDisplay) {
+    const poolSize = CONFIG.ANALYSIS_METHODS[method]?.poolSize || 4;
+    poolSizeDisplay.textContent = `동시 실행: ${poolSize}개`;
+  }
+
+  // 분석 탭의 배치 개수 입력 및 힌트 업데이트
+  const poolSize = CONFIG.ANALYSIS_METHODS[method]?.poolSize || 4;
+  const batchSizeInput = document.getElementById('batchSizeInput');
+  if (batchSizeInput) {
+    batchSizeInput.value = poolSize;
+  }
+  const batchSizeHint = document.getElementById('batchSizeHint');
+  if (batchSizeHint) {
+    batchSizeHint.textContent = `(기본값: ${poolSize}, 범위: 1-50)`;
+  }
+
+  // 분석 패널의 Pool 표시 업데이트
+  const currentPoolDisplay = document.getElementById('currentPoolDisplay');
+  if (currentPoolDisplay) {
+    currentPoolDisplay.textContent = poolSize;
+  }
+
+  // 헤더 상태 표시 업데이트
+  const headerBibleVersion = document.getElementById('headerBibleVersion');
+  if (headerBibleVersion) {
+    headerBibleVersion.textContent = version.toUpperCase();
+  }
+  const headerAnalysisMethod = document.getElementById('headerAnalysisMethod');
+  if (headerAnalysisMethod) {
+    const methodNames = { api: 'API', claude: 'Claude', droid: 'Droid' };
+    headerAnalysisMethod.textContent = methodNames[method] || method.toUpperCase();
   }
 }
 
