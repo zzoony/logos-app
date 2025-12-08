@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Job 23:17",
+  "version": "NIV",
+  "original_text": "Yet I am not silenced by the darkness,\n    by the thick darkness that covers my face.",
+  "korean_text": "이는 내가 두려워하는 것이 어둠 때문이나 흑암이 내 얼굴을 가렸기 때문이 아니로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yet I am not silenced by the darkness",
+      "korean_translation": "그럼에도 나는 어둠에 의해 침묵하지 않습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by the thick darkness",
+      "korean_translation": "질긴 어둠에 의해",
+      "word_indices": [
+        1113
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that covers my face",
+      "korean_translation": "나의 얼굴을 덮는",
+      "word_indices": [
+        87,
+        200
+      ]
+    }
+  ]
+}

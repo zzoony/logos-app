@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 28:33",
+  "version": "NIV",
+  "original_text": "A people that you do not know will eat what your land and labor produce, and you will have nothing but cruel oppression all your days.",
+  "korean_text": "네 토지 소산과 네 수고로 얻은 것을 네가 알지 못하는 민족이 먹겠고 너는 항상 압제와 학대를 받을 뿐이리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A people that you do not know",
+      "korean_translation": "너희가 알지 못하는 백성이",
+      "word_indices": [
+        3,
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will eat what your land and labor produce",
+      "korean_translation": "너희 땅과 노동으로 생산한 것을 먹을 것이며",
+      "word_indices": [
+        8,
+        33,
+        511,
+        682
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you will have nothing",
+      "korean_translation": "너희는 아무것도 갖지 못하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but cruel oppression all your days",
+      "korean_translation": "평생 잔인한 억압만 받게 될 것이다",
+      "word_indices": [
+        1681,
+        1895
+      ]
+    }
+  ]
+}

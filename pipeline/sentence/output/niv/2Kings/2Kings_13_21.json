@@ -1,0 +1,61 @@
+{
+  "verse_reference": "2 Kings 13:21",
+  "version": "NIV",
+  "original_text": "Once while some Israelites were burying a man, suddenly they saw a band of raiders; so they threw the man’s body into Elisha’s tomb. When the body touched Elisha’s bones, the man came to life and stood up on his feet.",
+  "korean_text": "마침 사람을 장사하는 자들이 그 도적 떼를 보고 그의 시체를 엘리사의 묘실에 들이던지매 시체가 엘리사의 뼈에 닿자 곧 회생하여 일어섰더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Once while some Israelites were burying a man",
+      "korean_translation": "어떤 이스라엘 사람들이 한 남자를 장사 지내고 있을 때",
+      "word_indices": [
+        10,
+        341
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "suddenly they saw a band of raiders",
+      "korean_translation": "갑자기 그들은 약탈자 무리를 보았다",
+      "word_indices": [
+        961,
+        1119,
+        2559
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so they threw the man's body into Elisha's tomb",
+      "korean_translation": "그래서 그들은 그 남자의 시체를 엘리사의 무덤에 던졌다",
+      "word_indices": [
+        10,
+        137,
+        621
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When the body touched Elisha's bones",
+      "korean_translation": "그 시체가 엘리사의 뼈에 닿았을 때",
+      "word_indices": [
+        137,
+        359
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the man came to life",
+      "korean_translation": "그 남자가 살아났다",
+      "word_indices": [
+        10,
+        37
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and stood up on his feet",
+      "korean_translation": "그리고 발로 일어섰다",
+      "word_indices": []
+    }
+  ]
+}

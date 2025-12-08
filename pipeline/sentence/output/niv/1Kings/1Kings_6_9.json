@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 6:9",
+  "version": "NIV",
+  "original_text": "So he built the temple and completed it, roofing it with beams and cedar planks.",
+  "korean_text": "성전의 건축을 마치니라 그 성전은 백향목 서까래와 널판으로 덮었고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So he built the temple",
+      "korean_translation": "그래서 그는 성전을 지었고",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and completed it",
+      "korean_translation": "그것을 완성했으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "roofing it with beams and cedar planks",
+      "korean_translation": "들보와 삼나무 판자로 지붕을 덮었다",
+      "word_indices": [
+        667,
+        907,
+        1687,
+        2491
+      ]
+    }
+  ]
+}

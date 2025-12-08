@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Exodus 8:24",
+  "version": "NIV",
+  "original_text": "And the Lord did this. Dense swarms of flies poured into Pharaoh’s palace and into the houses of his officials; throughout Egypt the land was ruined by the flies.",
+  "korean_text": "여호와께서 그와 같이 하시니 무수한 파리가 바로의 궁과 그의 신하의 집과 애굽 온 땅에 이르니 파리로 말미암아 그 땅이 황폐하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord did this",
+      "korean_translation": "그리고 주께서 이렇게 하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Dense swarms of flies poured into Pharaoh's palace",
+      "korean_translation": "빽빽한 파리 떼가 바로의 궁으로 쏟아져 들어왔다",
+      "word_indices": [
+        266,
+        296,
+        942,
+        1483,
+        2901
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and into the houses of his officials",
+      "korean_translation": "그리고 그의 신하들의 집으로도 들어갔다",
+      "word_indices": [
+        183
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "throughout Egypt",
+      "korean_translation": "이집트 전역에 걸쳐",
+      "word_indices": [
+        394
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the land was ruined by the flies",
+      "korean_translation": "그 땅이 파리들로 인해 망가졌다",
+      "word_indices": [
+        8,
+        284,
+        942
+      ]
+    }
+  ]
+}

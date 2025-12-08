@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Romans 9:1",
+  "version": "NIV",
+  "original_text": "I speak the truth in Christ—I am not lying, my conscience confirms it through the Holy Spirit—",
+  "korean_text": "내가 그리스도 안에서 참말을 하고 거짓말을 아니하노라 내 양심이 성령 안에서 나와 더불어 증언하노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I speak the truth in Christ",
+      "korean_translation": "나는 그리스도 안에서 진리를 말하노라",
+      "word_indices": [
+        29,
+        73,
+        385
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am not lying",
+      "korean_translation": "내가 거짓말 하는 것이 아니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my conscience confirms it",
+      "korean_translation": "나의 양심이 그것을 증언하니",
+      "word_indices": [
+        1160,
+        1350
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "through the Holy Spirit",
+      "korean_translation": "성령 안에서",
+      "word_indices": [
+        39,
+        59,
+        62
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "James 3:5",
+  "version": "NIV",
+  "original_text": "Likewise, the tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
+  "korean_text": "이와 같이 혀도 작은 지체로되 큰 것을 자랑하도다 보라 얼마나 작은 불이 얼마나 많은 나무를 태우는가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Likewise, the tongue is a small part of the body",
+      "korean_translation": "이와 같이, 혀는 몸의 작은 부분이지만",
+      "word_indices": [
+        137,
+        390,
+        400,
+        698,
+        2358
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but it makes great boasts",
+      "korean_translation": "그것은 큰 허풍을 떤다",
+      "word_indices": [
+        44,
+        551
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Consider what a great forest",
+      "korean_translation": "어떤 큰 숲이",
+      "word_indices": [
+        44,
+        429,
+        902
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is set on fire by a small spark",
+      "korean_translation": "작은 불꽃에 의해 불태워지는지 생각해 보라",
+      "word_indices": [
+        101,
+        698,
+        3576
+      ]
+    }
+  ]
+}

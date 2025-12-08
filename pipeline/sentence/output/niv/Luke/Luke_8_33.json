@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 8:33",
+  "version": "NIV",
+  "original_text": "When the demons came out of the man, they went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.",
+  "korean_text": "귀신들이 그 사람에게서 나와 돼지에게로 들어가니 그 떼가 비탈로 내리달아 호수에 들어가 몰사하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the demons came out of the man",
+      "korean_translation": "귀신들이 사람에게서 나올 때",
+      "word_indices": [
+        10,
+        659
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they went into the pigs",
+      "korean_translation": "그들은 돼지들 속으로 들어갔습니다",
+      "word_indices": [
+        1551
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the herd rushed down the steep bank",
+      "korean_translation": "그리고 돼지 떼는 가파른 언덕을 뛰어내렸습니다",
+      "word_indices": [
+        670,
+        1154,
+        1894,
+        3314
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "into the lake and was drowned",
+      "korean_translation": "호수로 들어가 익사했습니다",
+      "word_indices": [
+        1076,
+        2317
+      ]
+    }
+  ]
+}

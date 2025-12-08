@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Leviticus 21:2",
+  "version": "NIV",
+  "original_text": "except for a close relative, such as his mother or father, his son or daughter, his brother,",
+  "korean_text": "그의 살붙이인 그의 어머니나 그의 아버지나 그의 아들이나 그의 딸이나 그의 형제나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "except for a close relative",
+      "korean_translation": "가까운 친척을 제외하고",
+      "word_indices": [
+        454,
+        565,
+        595
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "such as his mother or father",
+      "korean_translation": "예를 들어 그의 어머니나 아버지와 같은",
+      "word_indices": [
+        12,
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his son or daughter",
+      "korean_translation": "그의 아들이나 딸",
+      "word_indices": [
+        2,
+        66
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "his brother",
+      "korean_translation": "그의 형제",
+      "word_indices": [
+        53
+      ]
+    }
+  ]
+}

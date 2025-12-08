@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Mark 13:12",
+  "version": "NIV",
+  "original_text": "“Brother will betray brother to death, and a father his child. Children will rebel against their parents and have them put to death.",
+  "korean_text": "형제가 형제를, 아버지가 자식을 죽는 데에 내주며 자식들이 부모를 대적하여 죽게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Brother will betray brother to death",
+      "korean_translation": "형제가 형제를 죽음에 넘길 것입니다",
+      "word_indices": [
+        53,
+        80,
+        940
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a father his child",
+      "korean_translation": "아비가 자식을",
+      "word_indices": [
+        12,
+        54
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Children will rebel against their parents",
+      "korean_translation": "자식들이 부모에게 반역할 것입니다",
+      "word_indices": [
+        11,
+        607,
+        755
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and have them put to death",
+      "korean_translation": "그들을 죽게 할 것입니다",
+      "word_indices": [
+        80
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 8:1",
+  "version": "NIV",
+  "original_text": "The Lord said to me, “Take a large scroll and write on it with an ordinary pen: Maher-Shalal-Hash-Baz.”",
+  "korean_text": "여호와께서 내게 이르시되 너는 큰 서판을 가지고 그 위에 통용 문자로 마헬살랄하스바스라 쓰라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to me",
+      "korean_translation": "주께서 내게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take a large scroll",
+      "korean_translation": "큰 두루마리를 가져오너라",
+      "word_indices": [
+        346,
+        679
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and write on it with an ordinary pen",
+      "korean_translation": "그것에 평범한 펜으로 글을 써라",
+      "word_indices": [
+        85,
+        1392,
+        3004
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Maher-Shalal-Hash-Baz",
+      "korean_translation": "마헬-살랄-하스-바즈",
+      "word_indices": [
+        4613,
+        4614,
+        4615,
+        4616
+      ]
+    }
+  ]
+}

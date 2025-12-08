@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Job 28:2",
+  "version": "NIV",
+  "original_text": "Iron is taken from the earth,\n    and copper is smelted from ore.",
+  "korean_text": "철은 흙에서 캐내고 동은 돌에서 녹여 얻느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Iron is taken from the earth",
+      "korean_translation": "철은 땅에서 채취됩니다",
+      "word_indices": [
+        40,
+        538
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and copper is smelted from ore",
+      "korean_translation": "그리고 구리는 광석에서 제련됩니다",
+      "word_indices": [
+        2597,
+        3459,
+        3975
+      ]
+    }
+  ]
+}

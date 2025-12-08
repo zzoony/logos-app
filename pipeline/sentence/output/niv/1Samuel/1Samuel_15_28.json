@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 15:28",
+  "version": "NIV",
+  "original_text": "Samuel said to him, “The Lord has torn the kingdom of Israel from you today and has given it to one of your neighbors—to one better than you.",
+  "korean_text": "사무엘이 그에게 이르되 여호와께서 오늘 이스라엘 나라를 왕에게서 떼어 왕보다 나은 왕의 이웃에게 주셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Samuel said to him",
+      "korean_translation": "사무엘이 그에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Lord has torn the kingdom of Israel from you today",
+      "korean_translation": "주께서 오늘 이스라엘 왕국을 당신에게서 빼앗으셨습니다",
+      "word_indices": [
+        109,
+        242
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and has given it to one of your neighbors",
+      "korean_translation": "그리고 그것을 당신의 이웃 중 한 사람에게 주셨습니다",
+      "word_indices": [
+        5,
+        356
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to one better than you",
+      "korean_translation": "당신보다 더 나은 사람에게",
+      "word_indices": [
+        411
+      ]
+    }
+  ]
+}

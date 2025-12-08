@@ -1,0 +1,76 @@
+{
+  "verse_reference": "1 Samuel 30:13",
+  "version": "NIV",
+  "original_text": "David asked him, “Who do you belong to? Where do you come from?”\nHe said, “I am an Egyptian, the slave of an Amalekite. My master abandoned me when I became ill three days ago.",
+  "korean_text": "다윗이 그에게 이르되 너는 누구에게 속하였으며 어디에서 왔느냐 하니 그가 이르되 나는 애굽 소년이요 아말렉 사람의 종이더니 사흘 전에 병이 들매 주인이 나를 버렸나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David asked him",
+      "korean_translation": "다윗이 그에게 물었습니다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who do you belong to?",
+      "korean_translation": "너는 누구의 소속이니?",
+      "word_indices": [
+        218
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Where do you come from?",
+      "korean_translation": "너는 어디서 왔니?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He said",
+      "korean_translation": "그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am an Egyptian",
+      "korean_translation": "저는 이집트 사람입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the slave of an Amalekite",
+      "korean_translation": "아말렉 사람의 종입니다",
+      "word_indices": [
+        287
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "My master abandoned me",
+      "korean_translation": "제 주인이 저를 버렸습니다",
+      "word_indices": [
+        265,
+        927
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "when I became ill",
+      "korean_translation": "제가 아팠을 때",
+      "word_indices": [
+        721
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "three days ago",
+      "korean_translation": "삼일 전에",
+      "word_indices": [
+        90,
+        887
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 24:4",
+  "version": "NIV",
+  "original_text": "The one who has clean hands and a pure heart,\n    who does not trust in an idol\n    or swear by a false god.",
+  "korean_text": "곧 손이 깨끗하며 마음이 청결하며 뜻을 허탄한 데에 두지 아니하며 거짓 맹세하지 아니하는 자로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one who has clean hands",
+      "korean_translation": "깨끗한 손을 가진 자",
+      "word_indices": [
+        9,
+        440
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a pure heart",
+      "korean_translation": "그리고 순수한 마음을 가진 자",
+      "word_indices": [
+        36,
+        504
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who does not trust in an idol",
+      "korean_translation": "우상을 믿지 않는 자",
+      "word_indices": [
+        256,
+        373
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or swear by a false god",
+      "korean_translation": "또는 거짓 신으로 맹세하지 않는 자",
+      "word_indices": [
+        1,
+        329,
+        623
+      ]
+    }
+  ]
+}

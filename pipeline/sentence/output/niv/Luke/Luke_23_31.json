@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 23:31",
+  "version": "NIV",
+  "original_text": "For if people do these things when the tree is green, what will happen when it is dry?”",
+  "korean_text": "푸른 나무에도 이같이 하거든 마른 나무에는 어떻게 되리요 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For if people do these things",
+      "korean_translation": "사람들이 이런 일들을 행하면",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the tree is green",
+      "korean_translation": "나무가 푸를 때에",
+      "word_indices": [
+        164,
+        1608
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what will happen",
+      "korean_translation": "무슨 일이 일어나겠는가",
+      "word_indices": [
+        275
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when it is dry?",
+      "korean_translation": "마를 때에",
+      "word_indices": [
+        477
+      ]
+    }
+  ]
+}

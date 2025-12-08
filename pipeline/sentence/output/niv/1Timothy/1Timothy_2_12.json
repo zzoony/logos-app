@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Timothy 2:12",
+  "version": "NIV",
+  "original_text": "I do not permit a woman to teach or to assume authority over a man; she must be quiet.",
+  "korean_text": "여자가 가르치는 것과 남자를 주관하는 것을 허락하지 아니하노니 오직 조용할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I do not permit a woman to teach",
+      "korean_translation": "나는 여자가 가르치는 것을 허락하지 아니하노라",
+      "word_indices": [
+        50,
+        172,
+        2136
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or to assume authority over a man",
+      "korean_translation": "남자를 주관하는 것도 허락하지 아니하노라",
+      "word_indices": [
+        10,
+        488,
+        3219
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she must be quiet",
+      "korean_translation": "여자는 잠잠하라",
+      "word_indices": [
+        1177
+      ]
+    }
+  ]
+}

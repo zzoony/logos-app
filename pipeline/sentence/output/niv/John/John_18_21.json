@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 18:21",
+  "version": "NIV",
+  "original_text": "Why question me? Ask those who heard me. Surely they know what I said.”",
+  "korean_text": "어찌하여 내게 묻느냐 내가 무슨 말을 하였는지 들은 자들에게 물어 보라 그들이 내가 하던 말을 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why question me?",
+      "korean_translation": "어찌하여 나를 묻느냐?",
+      "word_indices": [
+        896
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ask those who heard me.",
+      "korean_translation": "내 말을 들은 자들에게 물으라.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Surely they know what I said.",
+      "korean_translation": "내가 무엇을 말하였는지 그들이 아느니라.",
+      "word_indices": [
+        13,
+        150
+      ]
+    }
+  ]
+}

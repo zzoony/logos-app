@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 139:2",
+  "version": "NIV",
+  "original_text": "You know when I sit and when I rise;\n    you perceive my thoughts from afar.",
+  "korean_text": "주께서 내가 앉고 일어섬을 아시고 멀리서도 나의 생각을 밝히 아시오며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know when I sit",
+      "korean_translation": "주님은 내가 앉을 때를 아시나이다",
+      "word_indices": [
+        13,
+        151
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and when I rise",
+      "korean_translation": "그리고 내가 일어날 때를 아시나이다",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you perceive my thoughts from afar",
+      "korean_translation": "주님은 멀리서도 나의 생각을 감찰하시나이다",
+      "word_indices": [
+        1001,
+        1876,
+        2384
+      ]
+    }
+  ]
+}

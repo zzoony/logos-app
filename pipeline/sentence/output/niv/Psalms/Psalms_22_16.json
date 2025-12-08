@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 22:16",
+  "version": "NIV",
+  "original_text": "Dogs surround me,\n    a pack of villains encircles me;\n    they pierce my hands and my feet.",
+  "korean_text": "개들이 나를 에워쌌으며 악한 무리가 나를 둘러 내 수족을 찔렀나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Dogs surround me",
+      "korean_translation": "개들이 나를 에워싸다",
+      "word_indices": [
+        494,
+        1037
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a pack of villains encircles me",
+      "korean_translation": "악인들의 무리가 나를 둘러싸다",
+      "word_indices": [
+        2985,
+        4517
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they pierce my hands and my feet",
+      "korean_translation": "그들이 내 손과 발을 꿰뚫다",
+      "word_indices": [
+        9,
+        1239
+      ]
+    }
+  ]
+}

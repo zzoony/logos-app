@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Job 12:8",
+  "version": "NIV",
+  "original_text": "or speak to the earth, and it will teach you,\n    or let the fish in the sea inform you.",
+  "korean_text": "땅에게 말하라 네게 가르치리라 바다의 고기도 네게 설명하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "or speak to the earth",
+      "korean_translation": "땅에게 말하라",
+      "word_indices": [
+        29,
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and it will teach you",
+      "korean_translation": "그것이 너를 가르치리라",
+      "word_indices": [
+        172
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or let the fish in the sea inform you",
+      "korean_translation": "바다의 물고기들이 너에게 알게 하라",
+      "word_indices": [
+        108,
+        727,
+        1973
+      ]
+    }
+  ]
+}

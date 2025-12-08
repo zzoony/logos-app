@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 5:15",
+  "version": "NIV",
+  "original_text": "Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house.",
+  "korean_text": "사람이 등불을 켜서 말 아래에 두지 아니하고 등경 위에 두나니 이러므로 집 안 모든 사람에게 비치느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither do people light a lamp",
+      "korean_translation": "사람들은 등불을 켜지 않고",
+      "word_indices": [
+        3,
+        205,
+        449,
+        726
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and put it under a bowl",
+      "korean_translation": "그릇 아래에 두지 않습니다",
+      "word_indices": [
+        701
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Instead they put it on its stand",
+      "korean_translation": "대신 그들은 그것을 등경 위에 놓습니다",
+      "word_indices": [
+        45,
+        523
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it gives light to everyone in the house",
+      "korean_translation": "그러면 그것은 집안의 모든 사람에게 빛을 줍니다",
+      "word_indices": [
+        5,
+        26,
+        186,
+        205
+      ]
+    }
+  ]
+}

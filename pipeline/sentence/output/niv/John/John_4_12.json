@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 4:12",
+  "version": "NIV",
+  "original_text": "Are you greater than our father Jacob, who gave us the well and drank from it himself, as did also his sons and his livestock?”",
+  "korean_text": "우리 조상 야곱이 이 우물을 우리에게 주셨고 또 여기서 자기와 자기 아들들과 짐승이 다 마셨는데 당신이 야곱보다 더 크니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Are you greater than our father Jacob",
+      "korean_translation": "당신은 우리 아버지 야곱보다 더 크십니까",
+      "word_indices": [
+        12,
+        636
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who gave us the well",
+      "korean_translation": "그가 우리에게 우물을 주었는데",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and drank from it himself",
+      "korean_translation": "그 자신도 그것에서 마셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as did also his sons",
+      "korean_translation": "그의 아들들도 마찬가지였고",
+      "word_indices": [
+        2,
+        28
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and his livestock?",
+      "korean_translation": "그의 가축들도 그랬습니까?",
+      "word_indices": [
+        610
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 14:34",
+  "version": "NIV",
+  "original_text": "“Salt is good, but if it loses its saltiness, how can it be made salty again?",
+  "korean_text": "소금이 좋은 것이나 소금도 만일 그 맛을 잃으면 무엇으로 짜게 하리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Salt is good",
+      "korean_translation": "소금은 좋다",
+      "word_indices": [
+        56,
+        1100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but if it loses its saltiness",
+      "korean_translation": "그러나 만약 소금이 짠맛을 잃으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "how can it be made salty again?",
+      "korean_translation": "어떻게 다시 짜게 만들 수 있겠는가?",
+      "word_indices": [
+        3671
+      ]
+    }
+  ]
+}

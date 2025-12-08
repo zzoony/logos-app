@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Amos 2:15",
+  "version": "NIV",
+  "original_text": "The archer will not stand his ground,\n    the fleet-footed soldier will not get away,\n    and the horseman will not save his life.",
+  "korean_text": "활을 가진 자도 설 수 없으며 발이 빠른 자도 피할 수 없으며 말 타는 자도 자기 목숨을 구할 수 없고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The archer will not stand his ground",
+      "korean_translation": "궁수는 제 자리를 지키지 못할 것이며",
+      "word_indices": [
+        45,
+        1957,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the fleet-footed soldier will not get away",
+      "korean_translation": "빠른 발의 군사는 도망하지 못할 것이며",
+      "word_indices": [
+        34,
+        123,
+        582,
+        1934
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the horseman will not save his life",
+      "korean_translation": "기병은 자기 목숨을 구하지 못할 것이다",
+      "word_indices": [
+        37,
+        139,
+        1207
+      ]
+    }
+  ]
+}

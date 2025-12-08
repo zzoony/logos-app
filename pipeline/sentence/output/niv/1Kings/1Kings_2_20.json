@@ -1,0 +1,61 @@
+{
+  "verse_reference": "1 Kings 2:20",
+  "version": "NIV",
+  "original_text": "“I have one small request to make of you,” she said. “Do not refuse me.”\nThe king replied, “Make it, my mother; I will not refuse you.”",
+  "korean_text": "밧세바가 이르되 내가 한 가지 작은 일로 왕께 구하오니 내 청을 거절하지 마소서 왕이 대답하되 내 어머니여 구하소서 내가 어머니의 청을 거절하지 아니하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have one small request to make of you",
+      "korean_translation": "나는 당신에게 부탁할 작은 한 가지가 있어요",
+      "word_indices": [
+        698,
+        1006
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she said",
+      "korean_translation": "그녀가 말했어요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not refuse me",
+      "korean_translation": "나를 거절하지 마세요",
+      "word_indices": [
+        487
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The king replied",
+      "korean_translation": "왕이 대답했어요",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Make it",
+      "korean_translation": "부탁하세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "my mother",
+      "korean_translation": "어머니",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I will not refuse you",
+      "korean_translation": "나는 당신을 거절하지 않을 거예요",
+      "word_indices": [
+        487
+      ]
+    }
+  ]
+}

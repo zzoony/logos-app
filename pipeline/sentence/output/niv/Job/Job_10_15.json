@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Job 10:15",
+  "version": "NIV",
+  "original_text": "If I am guilty—woe to me!\n    Even if I am innocent, I cannot lift my head,\nfor I am full of shame\n    and drowned in my affliction.",
+  "korean_text": "내가 악하면 화가 있을 것이오며 내가 의로울지라도 머리를 들지 못하는 것은 내 속에 부끄러움이 가득하고 내 환난을 내 눈이 보기 때문이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I am guilty—woe to me!",
+      "korean_translation": "내가 유죄하다면, 나에게 화가 미칠 것이다!",
+      "word_indices": [
+        517,
+        642
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Even if I am innocent,",
+      "korean_translation": "내가 무죄하더라도,",
+      "word_indices": [
+        687
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I cannot lift my head,",
+      "korean_translation": "내 고개를 들 수 없다,",
+      "word_indices": [
+        67,
+        207,
+        379
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for I am full of shame",
+      "korean_translation": "나는 수치로 가득하다",
+      "word_indices": [
+        258,
+        402
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and drowned in my affliction.",
+      "korean_translation": "나의 고난에 잠겨 있다.",
+      "word_indices": [
+        1401,
+        2317
+      ]
+    }
+  ]
+}

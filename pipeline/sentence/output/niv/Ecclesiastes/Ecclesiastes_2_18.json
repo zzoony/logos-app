@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Ecclesiastes 2:18",
+  "version": "NIV",
+  "original_text": "I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me.",
+  "korean_text": "내가 해 아래에서 내가 한 모든 수고를 미워하였노니 이는 내 뒤를 이을 이에게 남겨 주게 됨이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I hated all the things",
+      "korean_translation": "나는 모든 것들을 미워했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I had toiled for under the sun",
+      "korean_translation": "내가 해 아래에서 수고했던 것들을",
+      "word_indices": [
+        364,
+        1155
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because I must leave them",
+      "korean_translation": "왜냐하면 나는 그것들을 남겨두어야만 하기 때문이다",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to the one who comes after me",
+      "korean_translation": "나를 뒤따라오는 사람에게",
+      "word_indices": []
+    }
+  ]
+}

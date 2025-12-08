@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 34:19",
+  "version": "NIV",
+  "original_text": "“The first offspring of every womb belongs to me, including all the firstborn males of your livestock, whether from herd or flock.",
+  "korean_text": "모든 첫 태생은 다 내 것이며 네 가축의 모든 처음 난 수컷인 소와 양도 다 그러하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The first offspring of every womb belongs to me",
+      "korean_translation": "모든 태의 첫 태생은 내 것이다",
+      "word_indices": [
+        218,
+        766
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "including all the firstborn males of your livestock",
+      "korean_translation": "네 가축의 모든 첫난 수컷을 포함하여",
+      "word_indices": [
+        408,
+        610
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whether from herd or flock",
+      "korean_translation": "떼나 무리에서 난 것들이든",
+      "word_indices": [
+        261,
+        670
+      ]
+    }
+  ]
+}

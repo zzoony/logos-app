@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Samuel 1:22",
+  "version": "NIV",
+  "original_text": "“From the blood of the slain,\n    from the flesh of the mighty,\nthe bow of Jonathan did not turn back,\n    the sword of Saul did not return unsatisfied.",
+  "korean_text": "죽은 자의 피에서, 용사의 기름에서 요나단의 활이 뒤로 물러가지 아니하였으며 사울의 칼이 헛되이 돌아오지 아니하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From the blood of the slain",
+      "korean_translation": "살상당한 자들의 피에서부터",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the flesh of the mighty",
+      "korean_translation": "용사들의 살에서부터",
+      "word_indices": [
+        276,
+        307
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the bow of Jonathan did not turn back",
+      "korean_translation": "요나단의 활은 뒤로 물러서지 않았고",
+      "word_indices": [
+        49,
+        52,
+        263
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the sword of Saul did not return unsatisfied",
+      "korean_translation": "사울의 칼은 공허하게 돌아오지 않았다",
+      "word_indices": [
+        84,
+        89
+      ]
+    }
+  ]
+}

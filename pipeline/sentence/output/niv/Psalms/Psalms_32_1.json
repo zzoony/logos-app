@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 32:1",
+  "version": "NIV",
+  "original_text": "Blessed is the one\n    whose transgressions are forgiven,\n    whose sins are covered.",
+  "korean_text": "허물의 사함을 받고 자신의 죄가 가려진 자는 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the one",
+      "korean_translation": "복 있는 사람은",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose transgressions are forgiven",
+      "korean_translation": "그의 transgression이 용서받았으며",
+      "word_indices": [
+        1413
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose sins are covered",
+      "korean_translation": "그의 죄들이 가려졌다",
+      "word_indices": [
+        24,
+        200
+      ]
+    }
+  ]
+}

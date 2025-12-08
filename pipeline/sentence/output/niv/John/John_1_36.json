@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 1:36",
+  "version": "NIV",
+  "original_text": "When he saw Jesus passing by, he said, “Look, the Lamb of God!”",
+  "korean_text": "예수께서 거니심을 보고 말하되 보라 하나님의 어린 양이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he saw Jesus passing by",
+      "korean_translation": "그가 예수께서 지나가시는 것을 보았을 때",
+      "word_indices": [
+        531
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Look",
+      "korean_translation": "보라",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Lamb of God!",
+      "korean_translation": "하나님의 어린 양이시다!",
+      "word_indices": [
+        1,
+        264
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Psalms 23:4",
+  "version": "NIV",
+  "original_text": "Even though I walk\n    through the darkest valley,\nI will fear no evil,\n    for you are with me;\nyour rod and your staff,\n    they comfort me.",
+  "korean_text": "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을 것은 주께서 나와 함께 하심이라 주의 지팡이와 막대기가 나를 안위하시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even though I walk",
+      "korean_translation": "내가 걸어갈지라도",
+      "word_indices": [
+        127,
+        238
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "through the darkest valley",
+      "korean_translation": "가장 어두운 골짜기로",
+      "word_indices": [
+        39,
+        301,
+        4518
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will fear no evil",
+      "korean_translation": "나는 재앙을 두려워하지 않으리니",
+      "word_indices": [
+        95,
+        133
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for you are with me",
+      "korean_translation": "이는 주께서 나와 함께 계심이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "your rod and your staff",
+      "korean_translation": "주의 지팡이와 막대기가",
+      "word_indices": [
+        677,
+        830
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "they comfort me",
+      "korean_translation": "나를 안위하나이다",
+      "word_indices": [
+        697
+      ]
+    }
+  ]
+}

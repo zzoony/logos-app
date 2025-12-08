@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 19:20",
+  "version": "NIV",
+  "original_text": "“All these I have kept,” the young man said. “What do I still lack?”",
+  "korean_text": "그 청년이 이르되 이 모든 것을 내가 지키었사온대 아직도 무엇이 부족하니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All these I have kept",
+      "korean_translation": "이 모든 것을 내가 지켰습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the young man said",
+      "korean_translation": "청년이 말했습니다",
+      "word_indices": [
+        10,
+        130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What do I still lack",
+      "korean_translation": "내가 아직도 무엇이 부족합니까",
+      "word_indices": [
+        765
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 27:34",
+  "version": "NIV",
+  "original_text": "There they offered Jesus wine to drink, mixed with gall; but after tasting it, he refused to drink it.",
+  "korean_text": "쓸개 탄 포도주를 예수께 주어 마시게 하려 하였더니 예수께서 맛보시고 마시고자 하지 아니하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There they offered Jesus wine to drink",
+      "korean_translation": "그곳에서 그들은 예수께 마실 포도주를 드렸다",
+      "word_indices": [
+        21,
+        78,
+        215
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "mixed with gall",
+      "korean_translation": "쓴 물질을 섞은",
+      "word_indices": [
+        798,
+        3047
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but after tasting it",
+      "korean_translation": "그러나 그것을 맛본 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he refused to drink it",
+      "korean_translation": "그는 마시기를 거절했다",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

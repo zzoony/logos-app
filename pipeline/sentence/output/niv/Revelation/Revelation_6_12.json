@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Revelation 6:12",
+  "version": "NIV",
+  "original_text": "I watched as he opened the sixth seal. There was a great earthquake. The sun turned black like sackcloth made of goat hair, the whole moon turned blood red,",
+  "korean_text": "내가 보니 여섯째 인을 떼실 때에 큰 지진이 나며 해가 검은 털로 짠 상복 같이 검어지고 달은 온통 피 같이 되며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I watched as he opened the sixth seal",
+      "korean_translation": "내가 그가 여섯째 인을 떼는 것을 보고 있었다",
+      "word_indices": [
+        160,
+        332,
+        742,
+        1062
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There was a great earthquake",
+      "korean_translation": "큰 지진이 일어났다",
+      "word_indices": [
+        44,
+        1636
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The sun turned black like sackcloth",
+      "korean_translation": "해가 검은 삼베 같이 검어졌다",
+      "word_indices": [
+        7,
+        49,
+        364,
+        928,
+        1837
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "made of goat hair",
+      "korean_translation": "염소 털로 만든",
+      "word_indices": [
+        311,
+        548
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the whole moon turned blood red",
+      "korean_translation": "온 달이 핏빛처럼 붉어졌다",
+      "word_indices": [
+        49,
+        94,
+        99,
+        724,
+        855
+      ]
+    }
+  ]
+}

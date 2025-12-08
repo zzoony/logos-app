@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 145:17",
+  "version": "NIV",
+  "original_text": "The Lord is righteous in all his ways\n    and faithful in all he does.",
+  "korean_text": "여호와께서는 그 모든 행위에 의로우시며 그 모든 일에 은혜로우시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is righteous",
+      "korean_translation": "주님은 의로우시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in all his ways",
+      "korean_translation": "그 모든 길에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and faithful",
+      "korean_translation": "그리고 신실하시며",
+      "word_indices": [
+        475
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in all he does",
+      "korean_translation": "그 행하시는 모든 일에서",
+      "word_indices": []
+    }
+  ]
+}

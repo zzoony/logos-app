@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 1:49",
+  "version": "NIV",
+  "original_text": "Then Nathanael declared, “Rabbi, you are the Son of God; you are the king of Israel.”",
+  "korean_text": "나다나엘이 대답하되 랍비여 당신은 하나님의 아들이시요 당신은 이스라엘의 임금이로소이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Nathanael declared",
+      "korean_translation": "그때 나다나엘이 선언했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Rabbi",
+      "korean_translation": "랍비여",
+      "word_indices": [
+        1880
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you are the Son of God",
+      "korean_translation": "당신은 하나님의 아들이십니다",
+      "word_indices": [
+        1,
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you are the king of Israel",
+      "korean_translation": "당신은 이스라엘의 왕이십니다",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

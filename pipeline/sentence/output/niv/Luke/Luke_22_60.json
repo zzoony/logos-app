@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 22:60",
+  "version": "NIV",
+  "original_text": "Peter replied, “Man, I don’t know what you’re talking about!” Just as he was speaking, the rooster crowed.",
+  "korean_text": "베드로가 이르되 이 사람아 나는 네가 하는 말을 알지 못하노라고 아직 말하고 있을 때에 닭이 곧 울더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter replied",
+      "korean_translation": "베드로가 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Man",
+      "korean_translation": "이 사람아",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I don't know",
+      "korean_translation": "나는 모른다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what you're talking about",
+      "korean_translation": "당신이 무엇을 말하는지를",
+      "word_indices": [
+        446
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Just as he was speaking",
+      "korean_translation": "그가 말하는 바로 그 때에",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the rooster crowed",
+      "korean_translation": "수탉이 울었다",
+      "word_indices": [
+        2018,
+        2189
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 35:14",
+  "version": "NIV",
+  "original_text": "I went about mourning\n    as though for my friend or brother.\nI bowed my head in grief\n    as though weeping for my mother.",
+  "korean_text": "내가 나의 친구와 형제에게 행함 같이 그들에게 행하였으며 내가 몸을 굽히고 슬퍼하기를 어머니를 곡함 같이 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I went about mourning",
+      "korean_translation": "나는 슬퍼하며 다녔습니다",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as though for my friend or brother",
+      "korean_translation": "마치 내 친구나 형제를 위해 애도하는 것처럼",
+      "word_indices": [
+        53,
+        127,
+        335
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I bowed my head in grief",
+      "korean_translation": "나는 슬픔에 머리를 숙였습니다",
+      "word_indices": [
+        67,
+        263,
+        1232
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as though weeping for my mother",
+      "korean_translation": "마치 내 어머니를 위해 우는 것처럼",
+      "word_indices": [
+        120,
+        127,
+        339
+      ]
+    }
+  ]
+}

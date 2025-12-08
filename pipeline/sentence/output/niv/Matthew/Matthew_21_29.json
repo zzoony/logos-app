@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 21:29",
+  "version": "NIV",
+  "original_text": "“‘I will not,’ he answered, but later he changed his mind and went.",
+  "korean_text": "대답하여 이르되 아버지 가겠나이다 하더니 가지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will not,' he answered",
+      "korean_translation": "가지 않겠다'고 그가 대답했다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but later he changed his mind",
+      "korean_translation": "하지만 나중에 그는 마음을 바꾸었다",
+      "word_indices": [
+        325,
+        638
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and went",
+      "korean_translation": "그리고 갔다",
+      "word_indices": []
+    }
+  ]
+}

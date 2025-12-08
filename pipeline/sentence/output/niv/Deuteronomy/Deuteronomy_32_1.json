@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 32:1",
+  "version": "NIV",
+  "original_text": "Listen, you heavens, and I will speak;\n    hear, you earth, the words of my mouth.",
+  "korean_text": "하늘이여 귀를 기울이라 내가 말하리라 땅은 내 입의 말을 들을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Listen, you heavens",
+      "korean_translation": "들으라, 너희 하늘이여",
+      "word_indices": [
+        57,
+        86
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will speak",
+      "korean_translation": "내가 말하리라",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hear, you earth",
+      "korean_translation": "들을지어다, 너희 땅이여",
+      "word_indices": [
+        16,
+        40
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the words of my mouth",
+      "korean_translation": "내 입의 말들을",
+      "word_indices": [
+        19,
+        143
+      ]
+    }
+  ]
+}

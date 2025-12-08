@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 8:6",
+  "version": "NIV",
+  "original_text": "Some fell on rocky ground, and when it came up, the plants withered because they had no moisture.",
+  "korean_text": "더러는 바위 위에 떨어지매 싹이 났다가 습기가 없으므로 말랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some fell on rocky ground",
+      "korean_translation": "일부는 돌이 많은 땅에 떨어졌고",
+      "word_indices": [
+        290,
+        2154,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and when it came up",
+      "korean_translation": "그리고 싹이 나왔을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the plants withered",
+      "korean_translation": "식물들이 말라버렸습니다",
+      "word_indices": [
+        358,
+        870
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because they had no moisture",
+      "korean_translation": "그들이 수분이 없었기 때문입니다",
+      "word_indices": [
+        3982
+      ]
+    }
+  ]
+}

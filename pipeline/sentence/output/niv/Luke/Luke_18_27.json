@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 18:27",
+  "version": "NIV",
+  "original_text": "Jesus replied, “What is impossible with man is possible with God.”",
+  "korean_text": "이르시되 무릇 사람이 할 수 없는 것을 하나님은 하실 수 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What is impossible with man",
+      "korean_translation": "사람에게 불가능한 것",
+      "word_indices": [
+        10,
+        2112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is possible with God",
+      "korean_translation": "하나님께는 가능하다",
+      "word_indices": [
+        1,
+        1689
+      ]
+    }
+  ]
+}

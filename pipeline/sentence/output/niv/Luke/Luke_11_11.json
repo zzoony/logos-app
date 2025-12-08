@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 11:11",
+  "version": "NIV",
+  "original_text": "“Which of you fathers, if your son asks for a fish, will give him a snake instead?",
+  "korean_text": "너희 중에 아버지 된 자로서 누가 아들이 생선을 달라 하는데 생선 대신에 뱀을 주며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Which of you fathers",
+      "korean_translation": "너희 중에 아버지 된 사람으로서",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if your son asks for a fish",
+      "korean_translation": "아들이 생선을 달라고 할 때에",
+      "word_indices": [
+        2,
+        31,
+        727
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will give him a snake instead?",
+      "korean_translation": "대신 뱀을 주겠느냐?",
+      "word_indices": [
+        5,
+        523,
+        1147
+      ]
+    }
+  ]
+}

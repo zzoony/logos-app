@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Isaiah 17:12",
+  "version": "NIV",
+  "original_text": "Woe to the many nations that rage—\n    they rage like the raging sea!\nWoe to the peoples who roar—\n    they roar like the roaring of great waters!",
+  "korean_text": "슬프다 많은 민족이 소동하였으되 바다 파도가 치는 소리 같이 그들이 소동하였고 열방이 충돌하였으되 큰 물이 몰려옴 같이 그들도 충돌하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to the many nations that rage",
+      "korean_translation": "성내는 많은 민족에게 화 있도다",
+      "word_indices": [
+        41,
+        517,
+        1266
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they rage like the raging sea",
+      "korean_translation": "그들은 성내는 바다 같이 성내네",
+      "word_indices": [
+        7,
+        108,
+        1266,
+        1637
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Woe to the peoples who roar",
+      "korean_translation": "포효하는 백성들에게 화 있도다",
+      "word_indices": [
+        517,
+        799
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they roar like the roaring of great waters",
+      "korean_translation": "그들은 큰 물소리 같이 포효하도다",
+      "word_indices": [
+        7,
+        44,
+        46,
+        799
+      ]
+    }
+  ]
+}

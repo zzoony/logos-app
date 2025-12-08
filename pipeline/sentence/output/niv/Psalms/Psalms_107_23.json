@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 107:23",
+  "version": "NIV",
+  "original_text": "Some went out on the sea in ships;\n    they were merchants on the mighty waters.",
+  "korean_text": "배들을 바다에 띄우며 큰 물에서 일을 하는 자는",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some went out on the sea in ships",
+      "korean_translation": "어떤 이들은 배를 타고 바다로 나갔으며",
+      "word_indices": [
+        108,
+        804
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they were merchants on the mighty waters",
+      "korean_translation": "그들은 광대한 바다에서 상인들이었다",
+      "word_indices": [
+        46,
+        276,
+        1202
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Deuteronomy 2:28",
+  "version": "NIV",
+  "original_text": "Sell us food to eat and water to drink for their price in silver. Only let us pass through on foot—",
+  "korean_text": "너는 돈을 받고 양식을 팔아 내가 먹게 하고 돈을 받고 물을 주어 내가 마시게 하라 나는 걸어서 지날 뿐인즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sell us food to eat",
+      "korean_translation": "우리에게 먹을 음식을 팔고",
+      "word_indices": [
+        33,
+        103,
+        397
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and water to drink",
+      "korean_translation": "마실 물도 팔아주세요",
+      "word_indices": [
+        46,
+        78
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for their price in silver.",
+      "korean_translation": "값은 은으로 지불하겠습니다.",
+      "word_indices": [
+        124,
+        1183
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Only let us pass through on foot—",
+      "korean_translation": "다만 우리가 걸어서 지나가도록만 허락해 주세요",
+      "word_indices": [
+        39,
+        123,
+        465
+      ]
+    }
+  ]
+}

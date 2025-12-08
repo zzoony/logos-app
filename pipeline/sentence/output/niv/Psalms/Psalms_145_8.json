@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 145:8",
+  "version": "NIV",
+  "original_text": "The Lord is gracious and compassionate,\n    slow to anger and rich in love.",
+  "korean_text": "여호와는 은혜로우시며 긍휼이 많으시며 노하기를 더디 하시며 인자하심이 크시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is gracious",
+      "korean_translation": "주님은 자비로우시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and compassionate",
+      "korean_translation": "긍휼이시며",
+      "word_indices": [
+        1975
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "slow to anger",
+      "korean_translation": "노하기를 더디하시고",
+      "word_indices": [
+        185,
+        1717
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and rich in love",
+      "korean_translation": "인자하심이 풍부하시도다",
+      "word_indices": [
+        38,
+        371
+      ]
+    }
+  ]
+}

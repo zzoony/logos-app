@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 1:3",
+  "version": "NIV",
+  "original_text": "Judah the father of Perez and Zerah, whose mother was Tamar,\nPerez the father of Hezron,\nHezron the father of Ram,",
+  "korean_text": "유다는 다말에게서 베레스와 세라를 낳고 베레스는 헤스론을 낳고 헤스론은 람을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Judah the father of Perez and Zerah,",
+      "korean_translation": "유다는 페레스와 세라의 아버지이며,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose mother was Tamar,",
+      "korean_translation": "그들의 어머니는 다말이었고,",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Perez the father of Hezron,",
+      "korean_translation": "페레스는 헤스론의 아버지이며,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Hezron the father of Ram,",
+      "korean_translation": "헤스론은 람의 아버지였다.",
+      "word_indices": [
+        12,
+        299
+      ]
+    }
+  ]
+}

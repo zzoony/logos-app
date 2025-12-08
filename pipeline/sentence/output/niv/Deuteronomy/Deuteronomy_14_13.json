@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Deuteronomy 14:13",
+  "version": "NIV",
+  "original_text": "the red kite, the black kite, any kind of falcon,",
+  "korean_text": "매와 새매와 매의 종류와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the red kite",
+      "korean_translation": "붉은 솔개",
+      "word_indices": [
+        855,
+        3422
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the black kite",
+      "korean_translation": "검은 솔개",
+      "word_indices": [
+        1837,
+        3422
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "any kind of falcon",
+      "korean_translation": "모든 종류의 매",
+      "word_indices": [
+        279,
+        3813
+      ]
+    }
+  ]
+}

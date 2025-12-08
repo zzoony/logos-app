@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Hosea 4:6",
+  "version": "NIV",
+  "original_text": "my people are destroyed from lack of knowledge.\n“Because you have rejected knowledge,\n    I also reject you as my priests;\nbecause you have ignored the law of your God,\n    I also will ignore your children.",
+  "korean_text": "내 백성이 지식이 없으므로 망하는도다 네가 지식을 버렸으니 나도 너를 버려 내 제사장이 되지 못하게 할 것이요 네가 네 하나님의 율법을 잊었으니 나도 네 자녀들을 잊어버리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "my people are destroyed",
+      "korean_translation": "내 백성이 멸망하였다",
+      "word_indices": [
+        3,
+        69
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from lack of knowledge",
+      "korean_translation": "지식이 없기 때문이다",
+      "word_indices": [
+        407,
+        765
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Because you have rejected knowledge",
+      "korean_translation": "너희가 지식을 버렸기 때문이다",
+      "word_indices": [
+        407,
+        444
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I also reject you as my priests",
+      "korean_translation": "나도 너희를 제사장으로 버리겠다",
+      "word_indices": [
+        22,
+        28,
+        444
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because you have ignored the law of your God",
+      "korean_translation": "너희가 너희 하나님의 율법을 무시했기 때문이다",
+      "word_indices": [
+        1,
+        42
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I also will ignore your children",
+      "korean_translation": "나도 너희 자손들을 무시하겠다",
+      "word_indices": [
+        28,
+        1899
+      ]
+    }
+  ]
+}

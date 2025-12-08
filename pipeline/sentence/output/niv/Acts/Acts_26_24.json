@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Acts 26:24",
+  "version": "NIV",
+  "original_text": "At this point Festus interrupted Paul’s defense. “You are out of your mind, Paul!” he shouted. “Your great learning is driving you insane.”",
+  "korean_text": "바울이 이같이 변명하매 베스도가 크게 소리 내어 이르되 바울아 네가 미쳤도다 네 많은 학문이 너를 미치게 한다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At this point Festus interrupted Paul's defense.",
+      "korean_translation": "이때 베스도가 바울의 변론을 중단시켰다.",
+      "word_indices": [
+        1013,
+        1363,
+        6079
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"You are out of your mind, Paul!\"",
+      "korean_translation": "\"바울아, 네가 미쳤구나!\"",
+      "word_indices": [
+        325
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he shouted.",
+      "korean_translation": "그가 소리쳤다.",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "\"Your great learning is driving you insane.\"",
+      "korean_translation": "\"네 심오한 학식이 너를 미치게 만들고 있구나.\"",
+      "word_indices": [
+        44,
+        526,
+        3504
+      ]
+    }
+  ]
+}

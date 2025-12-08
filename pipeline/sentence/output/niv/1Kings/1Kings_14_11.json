@@ -1,0 +1,50 @@
+{
+  "verse_reference": "1 Kings 14:11",
+  "version": "NIV",
+  "original_text": "Dogs will eat those belonging to Jeroboam who die in the city, and the birds will feed on those who die in the country. The Lord has spoken!’",
+  "korean_text": "여로보암에게 속한 자가 성읍에서 죽은즉 개가 먹고 들에서 죽은즉 공중의 새가 먹으리니 이는 여호와께서 말씀하셨음이니라 하셨나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Dogs will eat those belonging to Jeroboam",
+      "korean_translation": "개들이 여로보암에게 속한 자들을 먹을 것이며",
+      "word_indices": [
+        33,
+        218,
+        1037
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who die in the city",
+      "korean_translation": "성에서 죽은 자들은",
+      "word_indices": [
+        23,
+        58
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the birds will feed on those",
+      "korean_translation": "새들이 그들을 먹을 것이며",
+      "word_indices": [
+        386
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who die in the country",
+      "korean_translation": "시골에서 죽은 자들을",
+      "word_indices": [
+        58,
+        167
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The Lord has spoken!",
+      "korean_translation": "주께서 말씀하셨느니라!",
+      "word_indices": []
+    }
+  ]
+}

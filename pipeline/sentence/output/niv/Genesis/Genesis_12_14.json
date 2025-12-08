@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Genesis 12:14",
+  "version": "NIV",
+  "original_text": "When Abram came to Egypt, the Egyptians saw that Sarai was a very beautiful woman.",
+  "korean_text": "아브람이 애굽에 이르렀을 때에 애굽 사람들이 그 여인이 심히 아리따움을 보았고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Abram came to Egypt,",
+      "korean_translation": "아브람이 이집트에 왔을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Egyptians saw",
+      "korean_translation": "이집트 사람들은 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that Sarai was a very beautiful woman.",
+      "korean_translation": "사라가 매우 아름다운 여자라는 것을",
+      "word_indices": [
+        50,
+        720
+      ]
+    }
+  ]
+}

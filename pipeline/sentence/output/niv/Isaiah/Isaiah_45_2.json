@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Isaiah 45:2",
+  "version": "NIV",
+  "original_text": "I will go before you\n    and will level the mountains;\nI will break down gates of bronze\n    and cut through bars of iron.",
+  "korean_text": "내가 너보다 앞서 가서 험한 곳을 평탄하게 하며 놋문을 쳐서 부수며 쇠빗장을 꺾고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will go before you",
+      "korean_translation": "내가 네 앞서 행하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and will level the mountains",
+      "korean_translation": "험한 곳을 평탄하게 하며",
+      "word_indices": [
+        147,
+        1635
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will break down gates of bronze",
+      "korean_translation": "놋문을 부수며",
+      "word_indices": [
+        117,
+        333
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and cut through bars of iron",
+      "korean_translation": "쇠빗장을 끊을 것이라",
+      "word_indices": [
+        39,
+        184,
+        538,
+        1174
+      ]
+    }
+  ]
+}

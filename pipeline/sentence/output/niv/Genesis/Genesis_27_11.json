@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 27:11",
+  "version": "NIV",
+  "original_text": "Jacob said to Rebekah his mother, “But my brother Esau is a hairy man while I have smooth skin.",
+  "korean_text": "야곱이 그 어머니 리브가에게 이르되 내 형 에서는 털이 많은 사람이요 나는 매끈매끈한 사람인즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob said to Rebekah his mother",
+      "korean_translation": "야곱이 자기 어머니 르브가에게 말했다",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But my brother Esau is a hairy man",
+      "korean_translation": "하지만 내 형 에서는 털이 많은 사람이고",
+      "word_indices": [
+        10,
+        53,
+        3374
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "while I have smooth skin",
+      "korean_translation": "나는 매끈한 피부를 가졌습니다",
+      "word_indices": [
+        559,
+        1887
+      ]
+    }
+  ]
+}

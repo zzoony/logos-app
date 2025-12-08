@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Kings 9:26",
+  "version": "NIV",
+  "original_text": "King Solomon also built ships at Ezion Geber, which is near Elath in Edom, on the shore of the Red Sea.",
+  "korean_text": "솔로몬 왕이 에돔 땅 홍해 물 가의 엘롯 근처 에시온게벨에서 배들을 지은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Solomon also built ships at Ezion Geber",
+      "korean_translation": "솔로몬 왕도 에시온게베르에서 배들을 건조했습니다",
+      "word_indices": [
+        4,
+        28,
+        804
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which is near Elath in Edom",
+      "korean_translation": "그곳은 에돔의 엘랫 근처에 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the shore of the Red Sea",
+      "korean_translation": "홍해 해안가에 위치해 있습니다",
+      "word_indices": [
+        108,
+        855,
+        1581
+      ]
+    }
+  ]
+}

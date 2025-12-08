@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 20:25",
+  "version": "NIV",
+  "original_text": "He said to them, “Then give back to Caesar what is Caesar’s, and to God what is God’s.”",
+  "korean_text": "이르시되 그런즉 가이사의 것은 가이사에게, 하나님의 것은 하나님께 바치라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to them",
+      "korean_translation": "그가 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then give back to Caesar",
+      "korean_translation": "그러면 가이사에게 돌려주어라",
+      "word_indices": [
+        5,
+        52
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what is Caesar's",
+      "korean_translation": "가이사의 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to God",
+      "korean_translation": "그리고 하나님께",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what is God's",
+      "korean_translation": "하나님의 것을",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

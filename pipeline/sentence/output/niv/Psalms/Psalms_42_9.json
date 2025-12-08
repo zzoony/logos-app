@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 42:9",
+  "version": "NIV",
+  "original_text": "I say to God my Rock,\n    “Why have you forgotten me?\nWhy must I go about mourning,\n    oppressed by the enemy?”",
+  "korean_text": "내 반석이신 하나님께 말하기를 어찌하여 나를 잊으셨나이까 내가 어찌하여 원수의 압제로 말미암아 슬프게 다니나이까 하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I say to God my Rock",
+      "korean_translation": "나는 나의 반석이신 하나님께 말하나니",
+      "word_indices": [
+        1,
+        369
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why have you forgotten me?",
+      "korean_translation": "어찌하여 나를 잊으셨나이까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Why must I go about mourning",
+      "korean_translation": "어찌하여 내가 슬피 다니게 되었나이까",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "oppressed by the enemy?",
+      "korean_translation": "원수의 억압을 받으며",
+      "word_indices": [
+        100,
+        634
+      ]
+    }
+  ]
+}

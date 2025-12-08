@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 102:8",
+  "version": "NIV",
+  "original_text": "All day long my enemies taunt me;\n    those who rail against me use my name as a curse.",
+  "korean_text": "내 원수들이 종일 나를 비방하며 내게 대항하여 미칠 듯이 날뛰는 자들이 나를 가리켜 맹세하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All day long",
+      "korean_translation": "종일토록",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my enemies taunt me",
+      "korean_translation": "나의 원수들이 나를 조롱합니다",
+      "word_indices": [
+        100,
+        1743
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "those who rail against me",
+      "korean_translation": "나를 비난하는 자들은",
+      "word_indices": [
+        11,
+        5458
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "use my name as a curse",
+      "korean_translation": "내 이름을 저주로 사용합니다",
+      "word_indices": [
+        17,
+        213,
+        255
+      ]
+    }
+  ]
+}

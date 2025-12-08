@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 71:23",
+  "version": "NIV",
+  "original_text": "My lips will shout for joy\n    when I sing praise to you—\n    I whom you have delivered.",
+  "korean_text": "내가 주를 찬양할 때에 나의 입술이 기뻐 외치며 주께서 속량하신 내 영혼이 즐거워하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My lips will shout for joy",
+      "korean_translation": "나의 입술이 기쁨으로 외치리라",
+      "word_indices": [
+        237,
+        321,
+        418
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I sing praise to you",
+      "korean_translation": "내가 주를 찬송하며 노래할 때에",
+      "word_indices": [
+        88,
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I whom you have delivered",
+      "korean_translation": "주께서 구원하신 나는",
+      "word_indices": [
+        233
+      ]
+    }
+  ]
+}

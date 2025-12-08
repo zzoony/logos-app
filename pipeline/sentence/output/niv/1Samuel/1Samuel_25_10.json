@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Samuel 25:10",
+  "version": "NIV",
+  "original_text": "Nabal answered David’s servants, “Who is this David? Who is this son of Jesse? Many servants are breaking away from their masters these days.",
+  "korean_text": "나발이 다윗의 사환들에게 대답하여 이르되 다윗은 누구며 이새의 아들은 누구냐 요즈음에 각기 주인에게서 억지로 떠나는 종이 많도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nabal answered David's servants",
+      "korean_translation": "나발이 다윗의 종들에게 대답하여",
+      "word_indices": [
+        25,
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who is this David?",
+      "korean_translation": "이 다윗이 누구냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Who is this son of Jesse?",
+      "korean_translation": "이 Jesse의 아들이 누구냐?",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Many servants are breaking away",
+      "korean_translation": "많은 종들이 떠나고 있다",
+      "word_indices": [
+        25,
+        34,
+        117
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from their masters these days",
+      "korean_translation": "요즘 주인에게서",
+      "word_indices": [
+        265
+      ]
+    }
+  ]
+}

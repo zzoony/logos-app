@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 31:24",
+  "version": "NIV",
+  "original_text": "She makes linen garments and sells them,\n    and supplies the merchants with sashes.",
+  "korean_text": "그는 베로 옷을 지어 팔며 띠를 만들어 상인들에게 맡기며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She makes linen garments",
+      "korean_translation": "그녀는 아마 옷을 만듭니다",
+      "word_indices": [
+        445,
+        514
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and sells them",
+      "korean_translation": "그리고 그것들을 팝니다",
+      "word_indices": [
+        397
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and supplies the merchants with sashes",
+      "korean_translation": "그리고 상인들에게 허리띠를 공급합니다",
+      "word_indices": [
+        839,
+        1202,
+        1905
+      ]
+    }
+  ]
+}

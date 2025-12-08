@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 41:56",
+  "version": "NIV",
+  "original_text": "When the famine had spread over the whole country, Joseph opened all the storehouses and sold grain to the Egyptians, for the famine was severe throughout Egypt.",
+  "korean_text": "온 지면에 기근이 있으매 요셉이 모든 창고를 열고 애굽 백성에게 팔새 애굽 땅에 기근이 심하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the famine had spread over the whole country",
+      "korean_translation": "기근이 온 땅에 퍼졌을 때",
+      "word_indices": [
+        99,
+        167,
+        253,
+        518
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Joseph opened all the storehouses",
+      "korean_translation": "요셉이 모든 창고를 열었고",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and sold grain to the Egyptians",
+      "korean_translation": "이집트 사람들에게 곡물을 팔았으니",
+      "word_indices": [
+        182
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the famine was severe throughout Egypt",
+      "korean_translation": "이는 기근이 온 이집트 땅에 심했기 때문이었다",
+      "word_indices": [
+        394,
+        518,
+        1418
+      ]
+    }
+  ]
+}

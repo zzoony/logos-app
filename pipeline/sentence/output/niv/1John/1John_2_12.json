@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 John 2:12",
+  "version": "NIV",
+  "original_text": "I am writing to you, dear children,\n    because your sins have been forgiven on account of his name.",
+  "korean_text": "자녀들아 내가 너희에게 쓰는 것은 너희 죄가 그의 이름으로 말미암아 사함을 받았음이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am writing to you, dear children",
+      "korean_translation": "사랑하는 자녀들에게, 나는 너희에게 쓰고 있노라",
+      "word_indices": [
+        800
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because your sins have been forgiven",
+      "korean_translation": "너희 죄가 사면받았기 때문이라",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on account of his name",
+      "korean_translation": "그의 이름을 인하여라",
+      "word_indices": [
+        17,
+        637
+      ]
+    }
+  ]
+}

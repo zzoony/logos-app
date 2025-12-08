@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 3:12",
+  "version": "NIV",
+  "original_text": "The man said, “The woman you put here with me—she gave me some fruit from the tree, and I ate it.”",
+  "korean_text": "아담이 이르되 하나님이 주셔서 나와 함께 있게 하신 여자 그가 그 나무 열매를 내게 주므로 내가 먹었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man said,",
+      "korean_translation": "그 남자가 말하기를,",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The woman you put here with me—",
+      "korean_translation": "당신이 나와 함께 여기 두신 여자가—",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she gave me some fruit from the tree,",
+      "korean_translation": "그녀가 나에게 그 나무의 열매를 주었고,",
+      "word_indices": [
+        5,
+        164,
+        289
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I ate it.",
+      "korean_translation": "그리고 내가 그것을 먹었습니다.",
+      "word_indices": []
+    }
+  ]
+}

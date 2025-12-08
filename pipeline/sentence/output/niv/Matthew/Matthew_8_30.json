@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 8:30",
+  "version": "NIV",
+  "original_text": "Some distance from them a large herd of pigs was feeding.",
+  "korean_text": "마침 멀리서 많은 돼지 떼가 먹고 있는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some distance from them",
+      "korean_translation": "그들에게서 어떤 거리에",
+      "word_indices": [
+        926
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a large herd of pigs",
+      "korean_translation": "돼지의 큰 무리가",
+      "word_indices": [
+        346,
+        670,
+        1551
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was feeding",
+      "korean_translation": "먹고 있었다",
+      "word_indices": [
+        1371
+      ]
+    }
+  ]
+}

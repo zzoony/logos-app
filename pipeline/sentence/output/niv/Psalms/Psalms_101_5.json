@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Psalms 101:5",
+  "version": "NIV",
+  "original_text": "Whoever slanders their neighbor in secret,\n    I will put to silence;\nwhoever has haughty eyes and a proud heart,\n    I will not tolerate.",
+  "korean_text": "자기의 이웃을 은근히 헐뜯는 자를 내가 멸할 것이요 눈이 높고 마음이 교만한 자를 내가 용납하지 아니하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever slanders their neighbor in secret",
+      "korean_translation": "비밀리에 이웃을 중상모래하는 사람은",
+      "word_indices": [
+        154,
+        356,
+        916,
+        1194
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will put to silence",
+      "korean_translation": "내가 잠잠하게 하리라",
+      "word_indices": [
+        1195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whoever has haughty eyes",
+      "korean_translation": "오만한 눈을 가진 사람은",
+      "word_indices": [
+        154,
+        1936
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a proud heart",
+      "korean_translation": "교만한 마음을 가진 사람은",
+      "word_indices": [
+        36,
+        1074
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will not tolerate",
+      "korean_translation": "내가 용납하지 아니하리라",
+      "word_indices": [
+        2382
+      ]
+    }
+  ]
+}

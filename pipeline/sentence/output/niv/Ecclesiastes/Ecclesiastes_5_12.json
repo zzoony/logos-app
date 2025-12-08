@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Ecclesiastes 5:12",
+  "version": "NIV",
+  "original_text": "The sleep of a laborer is sweet,\n    whether they eat little or much,\nbut as for the rich, their abundance\n    permits them no sleep.",
+  "korean_text": "노동자는 먹는 것이 많든지 적든지 잠을 달게 자거니와 부자는 그 부요함 때문에 자지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sleep of a laborer is sweet",
+      "korean_translation": "일꾼의 잠은 달다",
+      "word_indices": [
+        378,
+        1470,
+        2350
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whether they eat little or much",
+      "korean_translation": "그들이 적게 먹든 많이 먹든",
+      "word_indices": [
+        33,
+        312
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but as for the rich",
+      "korean_translation": "하지만 부자에 대해서는",
+      "word_indices": [
+        371
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "their abundance permits them no sleep",
+      "korean_translation": "그들의 풍부함이 그들에게 잠을 허락하지 않는다",
+      "word_indices": [
+        378,
+        1204,
+        2136
+      ]
+    }
+  ]
+}

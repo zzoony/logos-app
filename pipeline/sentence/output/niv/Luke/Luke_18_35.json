@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 18:35",
+  "version": "NIV",
+  "original_text": "As Jesus approached Jericho, a blind man was sitting by the roadside begging.",
+  "korean_text": "여리고에 가까이 가셨을 때에 한 맹인이 길 가에 앉아 구걸하다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As Jesus approached Jericho",
+      "korean_translation": "예수님께서 여리고에 가까이 오셨을 때",
+      "word_indices": [
+        640
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a blind man was sitting by the roadside",
+      "korean_translation": "소경 한 사람이 길가에 앉아 있었습니다",
+      "word_indices": [
+        10,
+        606,
+        2911
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "begging",
+      "korean_translation": "구걸하고 있었습니다",
+      "word_indices": []
+    }
+  ]
+}

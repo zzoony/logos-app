@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Genesis 1:12",
+  "version": "NIV",
+  "original_text": "The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good.",
+  "korean_text": "땅이 풀과 각기 종류대로 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내니 하나님이 보시기에 좋았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The land produced vegetation:",
+      "korean_translation": "땅이 식물을 낳았으니",
+      "word_indices": [
+        8,
+        2891
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "plants bearing seed according to their kinds",
+      "korean_translation": "씨를 맺는 식물이 각기 종류대로",
+      "word_indices": [
+        111,
+        144,
+        279,
+        358
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and trees bearing fruit with seed in it",
+      "korean_translation": "씨를 가진 열매를 맺는 나무들이",
+      "word_indices": [
+        111,
+        289
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "according to their kinds.",
+      "korean_translation": "각기 종류대로",
+      "word_indices": [
+        144,
+        279
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And God saw that it was good.",
+      "korean_translation": "하나님이 보시기에 좋았더라.",
+      "word_indices": [
+        1,
+        56
+      ]
+    }
+  ]
+}

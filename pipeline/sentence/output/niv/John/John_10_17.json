@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 10:17",
+  "version": "NIV",
+  "original_text": "The reason my Father loves me is that I lay down my life—only to take it up again.",
+  "korean_text": "내가 내 목숨을 버리는 것은 그것을 내가 다시 얻기 위함이니 이로 말미암아 아버지께서 나를 사랑하시느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The reason my Father loves me",
+      "korean_translation": "내 아버지께서 나를 사랑하시는 이유는",
+      "word_indices": [
+        12,
+        750
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is that I lay down my life",
+      "korean_translation": "내가 내 목숨을 버리기 때문입니다",
+      "word_indices": [
+        37,
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "only to take it up again",
+      "korean_translation": "다시 그것을 취하려 함입니다",
+      "word_indices": []
+    }
+  ]
+}

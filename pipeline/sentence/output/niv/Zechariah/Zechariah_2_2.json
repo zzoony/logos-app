@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Zechariah 2:2",
+  "version": "NIV",
+  "original_text": "I asked, “Where are you going?”\nHe answered me, “To measure Jerusalem, to find out how wide and how long it is.”",
+  "korean_text": "네가 어디로 가느냐 물은즉 그가 내게 대답하되 예루살렘을 측량하여 그 너비와 길이를 보고자 하노라 하고 말할 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I asked",
+      "korean_translation": "내가 물었습니다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Where are you going?",
+      "korean_translation": "당신은 어디로 가십니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He answered me",
+      "korean_translation": "그가 나에게 대답했습니다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "To measure Jerusalem",
+      "korean_translation": "예루살렘을 측정하기 위해",
+      "word_indices": [
+        460
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to find out",
+      "korean_translation": "알아보기 위해",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "how wide and how long it is",
+      "korean_translation": "그것이 얼마나 넓고 긴지",
+      "word_indices": [
+        71,
+        512
+      ]
+    }
+  ]
+}

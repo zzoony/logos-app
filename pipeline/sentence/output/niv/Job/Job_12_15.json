@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Job 12:15",
+  "version": "NIV",
+  "original_text": "If he holds back the waters, there is drought;\n    if he lets them loose, they devastate the land.",
+  "korean_text": "그가 물을 막으신즉 곧 마르고 물을 보내신즉 곧 땅을 뒤집나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If he holds back the waters",
+      "korean_translation": "그가 물을 가두어 두면",
+      "word_indices": [
+        46,
+        52,
+        158
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there is drought",
+      "korean_translation": "가뭄이 들고",
+      "word_indices": [
+        2608
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if he lets them loose",
+      "korean_translation": "그가 물을 풀어놓으면",
+      "word_indices": [
+        1999
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they devastate the land",
+      "korean_translation": "그것들이 땅을 황폐하게 만듭니다",
+      "word_indices": [
+        8,
+        1630
+      ]
+    }
+  ]
+}

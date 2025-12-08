@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 15:23",
+  "version": "NIV",
+  "original_text": "When they came to Marah, they could not drink its water because it was bitter. (That is why the place is called Marah.)",
+  "korean_text": "마라에 이르렀더니 그 곳 물이 써서 마시지 못하겠으므로 그 이름을 마라라 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they came to Marah",
+      "korean_translation": "그들이 마라에 이르렀을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they could not drink its water",
+      "korean_translation": "그들은 그 물을 마실 수 없었다",
+      "word_indices": [
+        46,
+        78
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because it was bitter",
+      "korean_translation": "그것이 썼기 때문이다",
+      "word_indices": [
+        973
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "That is why the place is called Marah",
+      "korean_translation": "그래서 그 곳을 마라라고 부른다",
+      "word_indices": [
+        18,
+        35
+      ]
+    }
+  ]
+}

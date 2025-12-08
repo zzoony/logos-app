@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Amos 5:3",
+  "version": "NIV",
+  "original_text": "This is what the Sovereign Lord says to Israel:\n“Your city that marches out a thousand strong\n    will have only a hundred left;\nyour town that marches out a hundred strong\n    will have only ten left.”",
+  "korean_text": "주 여호와께서 이와 같이 말씀하시되 이스라엘 중에서 천 명이 행군해 나가던 성읍에는 백 명만 남고 백 명이 행군해 나가던 성읍에는 열 명만 남으리라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Sovereign Lord says to Israel:",
+      "korean_translation": "이것이 주권자 주께서 이스라엘에 말씀하시는 바라:",
+      "word_indices": [
+        157
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your city that marches out a thousand strong",
+      "korean_translation": "너희 천인의 군대로 출진하는 성은",
+      "word_indices": [
+        23,
+        136,
+        342,
+        619
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will have only a hundred left;",
+      "korean_translation": "백인만 남을 것이며;",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your town that marches out a hundred strong",
+      "korean_translation": "백인의 군대로 출진하는 읍은",
+      "word_indices": [
+        72,
+        342,
+        619
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will have only ten left.",
+      "korean_translation": "십인만 남으리라.",
+      "word_indices": [
+        240
+      ]
+    }
+  ]
+}

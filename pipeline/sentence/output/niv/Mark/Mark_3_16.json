@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Mark 3:16",
+  "version": "NIV",
+  "original_text": "These are the twelve he appointed: Simon (to whom he gave the name Peter),",
+  "korean_text": "이 열둘을 세우셨으니 시몬에게는 베드로란 이름을 더하셨고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These are the twelve",
+      "korean_translation": "이들이 십이사도입니다",
+      "word_indices": [
+        370
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he appointed:",
+      "korean_translation": "그가 임명한 사람들입니다",
+      "word_indices": [
+        272
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Simon",
+      "korean_translation": "시몬",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "(to whom he gave the name Peter)",
+      "korean_translation": "그에게 베드로라는 이름을 주셨습니다",
+      "word_indices": [
+        5,
+        17
+      ]
+    }
+  ]
+}

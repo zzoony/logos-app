@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 11:34",
+  "version": "NIV",
+  "original_text": "“Where have you laid him?” he asked.\n“Come and see, Lord,” they replied.",
+  "korean_text": "이르시되 그를 어디 두었느냐 이르되 주여 와서 보옵소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Where have you laid him?",
+      "korean_translation": "그를 어디에 두었습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he asked",
+      "korean_translation": "그가 물었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Come and see, Lord",
+      "korean_translation": "와서 보소서, 주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they replied",
+      "korean_translation": "그들이 대답했다",
+      "word_indices": []
+    }
+  ]
+}

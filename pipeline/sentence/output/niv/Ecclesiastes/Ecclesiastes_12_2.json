@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Ecclesiastes 12:2",
+  "version": "NIV",
+  "original_text": "before the sun and the light\n    and the moon and the stars grow dark,\n    and the clouds return after the rain;",
+  "korean_text": "해와 빛과 달과 별들이 어둡기 전에, 비 뒤에 구름이 다시 일어나기 전에 그리하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "before the sun and the light",
+      "korean_translation": "해와 빛이 어두워지기 전에",
+      "word_indices": [
+        205,
+        364
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the moon and the stars grow dark",
+      "korean_translation": "그리고 달과 별들이 어두워지고",
+      "word_indices": [
+        269,
+        676,
+        724,
+        1021
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the clouds return after the rain",
+      "korean_translation": "비가 온 후에 구름이 다시 돌아오기 전에",
+      "word_indices": [
+        89,
+        331,
+        506
+      ]
+    }
+  ]
+}

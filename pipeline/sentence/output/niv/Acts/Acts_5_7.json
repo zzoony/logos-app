@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Acts 5:7",
+  "version": "NIV",
+  "original_text": "About three hours later his wife came in, not knowing what had happened.",
+  "korean_text": "세 시간쯤 지나 그의 아내가 그 일어난 일을 알지 못하고 들어오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "About three hours later",
+      "korean_translation": "약 세 시간 후에",
+      "word_indices": [
+        90,
+        638,
+        939
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his wife came in",
+      "korean_translation": "그의 아내가 들어왔습니다",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not knowing what had happened",
+      "korean_translation": "무슨 일이 일어났는지 알지 못하고",
+      "word_indices": [
+        13,
+        275
+      ]
+    }
+  ]
+}

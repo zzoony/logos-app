@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 20:24",
+  "version": "NIV",
+  "original_text": "“Show me a denarius. Whose image and inscription are on it?”\n“Caesar’s,” they replied.",
+  "korean_text": "데나리온 하나를 내게 보이라 누구의 형상과 글이 여기 있느냐 대답하되 가이사의 것이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Show me a denarius.",
+      "korean_translation": "나에게 데나리온 하나를 보여주라.",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whose image and inscription are on it?",
+      "korean_translation": "그 위에 누구의 형상과 명문이 있느냐?",
+      "word_indices": [
+        594,
+        2438
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Caesar's,",
+      "korean_translation": "가이사의 것이라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they replied.",
+      "korean_translation": "그들이 대답하였다.",
+      "word_indices": []
+    }
+  ]
+}

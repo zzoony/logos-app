@@ -1,0 +1,66 @@
+{
+  "verse_reference": "John 13:26",
+  "version": "NIV",
+  "original_text": "Jesus answered, “It is the one to whom I will give this piece of bread when I have dipped it in the dish.” Then, dipping the piece of bread, he gave it to Judas, the son of Simon Iscariot.",
+  "korean_text": "예수께서 대답하시되 내가 떡 한 조각을 적셔다 주는 자가 그니라 하시고 곧 한 조각을 적셔서 가룟 시몬의 아들 유다에게 주시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is the one",
+      "korean_translation": "그가 바로 그 사람이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to whom I will give this piece of bread",
+      "korean_translation": "내가 이 떡 조각을 줄 사람에게",
+      "word_indices": [
+        5,
+        187,
+        374
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when I have dipped it in the dish",
+      "korean_translation": "내가 그것을 그릇에 찍었을 때",
+      "word_indices": [
+        1151
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then, dipping the piece of bread",
+      "korean_translation": "그런 다음, 떡 조각을 찍으시고",
+      "word_indices": [
+        187,
+        374
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "he gave it to Judas",
+      "korean_translation": "그것을 유다에게 주셨다",
+      "word_indices": [
+        5,
+        1061
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "the son of Simon Iscariot",
+      "korean_translation": "스가랏 사람 시몬의 아들",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

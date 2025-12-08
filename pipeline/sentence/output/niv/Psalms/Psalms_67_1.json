@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 67:1",
+  "version": "NIV",
+  "original_text": "May God be gracious to us and bless us\n    and make his face shine on us—",
+  "korean_text": "하나님은 우리에게 은혜를 베푸사 복을 주시고 그의 얼굴 빛을 우리에게 비추사 (셀라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May God be gracious to us",
+      "korean_translation": "하나님이 우리에게 은혜를 베푸시고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bless us",
+      "korean_translation": "우리를 축복하시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and make his face shine on us",
+      "korean_translation": "그의 얼굴을 우리에게 비추시기를",
+      "word_indices": [
+        87,
+        936
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 8:8",
+  "version": "NIV",
+  "original_text": "the birds in the sky,\n    and the fish in the sea,\n    all that swim the paths of the seas.",
+  "korean_text": "공중의 새와 바다의 물고기와 바닷길에 다니는 것이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the birds in the sky",
+      "korean_translation": "하늘의 새들",
+      "word_indices": [
+        386,
+        536
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the fish in the sea",
+      "korean_translation": "그리고 바다의 물고기들",
+      "word_indices": [
+        108,
+        727
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all that swim the paths of the seas",
+      "korean_translation": "바다의 길을 헤엄치는 모든 것들",
+      "word_indices": [
+        108,
+        516,
+        3294
+      ]
+    }
+  ]
+}

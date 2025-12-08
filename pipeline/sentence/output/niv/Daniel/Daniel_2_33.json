@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Daniel 2:33",
+  "version": "NIV",
+  "original_text": "its legs of iron, its feet partly of iron and partly of baked clay.",
+  "korean_text": "그 종아리는 쇠요 그 발은 얼마는 쇠요 얼마는 진흙이었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "its legs of iron",
+      "korean_translation": "그 다리는 철로 되어 있고",
+      "word_indices": [
+        538,
+        1237
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "its feet partly of iron",
+      "korean_translation": "그 발은 부분적으로 철로 되어 있으며",
+      "word_indices": [
+        538,
+        2693
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and partly of baked clay",
+      "korean_translation": "그리고 부분적으로 구운 점토로 되어 있었다",
+      "word_indices": [
+        1072,
+        2693
+      ]
+    }
+  ]
+}

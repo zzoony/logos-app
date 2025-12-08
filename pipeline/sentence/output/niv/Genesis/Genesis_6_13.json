@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Genesis 6:13",
+  "version": "NIV",
+  "original_text": "So God said to Noah, “I am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth.",
+  "korean_text": "하나님이 노아에게 이르시되 모든 혈육 있는 자의 포악함이 땅에 가득하므로 그 끝 날이 내 앞에 이르렀으니 내가 그들을 땅과 함께 멸하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So God said to Noah",
+      "korean_translation": "그래서 하나님이 노아에게 말씀하셨다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am going to put an end to all people",
+      "korean_translation": "내가 모든 사람을 끝내려고 한다",
+      "word_indices": [
+        3,
+        112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the earth is filled with violence",
+      "korean_translation": "땅이 폭력으로 가득 차 있기 때문이다",
+      "word_indices": [
+        40,
+        188,
+        892
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because of them",
+      "korean_translation": "그들 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am surely going to destroy them",
+      "korean_translation": "내가 반드시 그들을 멸하겠다",
+      "word_indices": [
+        69,
+        150
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the earth",
+      "korean_translation": "그리고 땅도",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

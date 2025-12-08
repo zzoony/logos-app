@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 48:12",
+  "version": "NIV",
+  "original_text": "“Listen to me, Jacob,\n    Israel, whom I have called:\nI am he;\n    I am the first and I am the last.",
+  "korean_text": "야곱아 내가 부른 이스라엘아 내게 들으라 나는 그니 나는 처음이요 또 나는 마지막이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Listen to me, Jacob",
+      "korean_translation": "나를 들으라, 야곱아",
+      "word_indices": [
+        86
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Israel, whom I have called",
+      "korean_translation": "내가 부른 이스라엘아",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am he",
+      "korean_translation": "내가 그니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am the first",
+      "korean_translation": "나는 첫째니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and I am the last",
+      "korean_translation": "나는 마지막이니라",
+      "word_indices": [
+        344
+      ]
+    }
+  ]
+}

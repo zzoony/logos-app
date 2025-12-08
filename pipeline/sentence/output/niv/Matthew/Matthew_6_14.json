@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 6:14",
+  "version": "NIV",
+  "original_text": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
+  "korean_text": "너희가 사람의 잘못을 용서하면 너희 하늘 아버지께서도 너희 잘못을 용서하시려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For if you forgive other people",
+      "korean_translation": "만약 당신이 다른 사람들을 용서하면",
+      "word_indices": [
+        3,
+        384
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when they sin against you",
+      "korean_translation": "그들이 당신에게 죄를 지을 때",
+      "word_indices": [
+        11,
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your heavenly Father will also forgive you",
+      "korean_translation": "당신의 하늘 아버지께서도 당신을 용서하실 것입니다",
+      "word_indices": [
+        12,
+        28,
+        384,
+        1129
+      ]
+    }
+  ]
+}

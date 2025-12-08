@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 23:20",
+  "version": "NIV",
+  "original_text": "“See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared.",
+  "korean_text": "내가 사자를 네 앞서 보내어 길에서 너를 보호하여 너를 내가 예비한 곳에 이르게 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "See, I am sending an angel ahead of you",
+      "korean_translation": "보라, 내가 너보다 앞서 한 천사를 보내노라",
+      "word_indices": [
+        20,
+        153,
+        554
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to guard you along the way",
+      "korean_translation": "길에서 너를 보호하려 함이라",
+      "word_indices": [
+        281
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to bring you to the place",
+      "korean_translation": "그리고 너를 그 곳으로 인도하려 함이라",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have prepared",
+      "korean_translation": "내가 준비한",
+      "word_indices": []
+    }
+  ]
+}

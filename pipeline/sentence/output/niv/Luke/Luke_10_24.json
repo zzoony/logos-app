@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 10:24",
+  "version": "NIV",
+  "original_text": "For I tell you that many prophets and kings wanted to see what you see but did not see it, and to hear what you hear but did not hear it.”",
+  "korean_text": "내가 너희에게 말하노니 많은 선지자와 임금이 너희가 보는 바를 보고자 하였으되 보지 못하였으며 너희가 듣는 바를 듣고자 하였으되 듣지 못하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I tell you",
+      "korean_translation": "내가 너희에게 말하노니",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that many prophets and kings",
+      "korean_translation": "많은 선지자와 임금들이",
+      "word_indices": [
+        4,
+        70
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "wanted to see what you see",
+      "korean_translation": "너희가 보는 것을 보고자 하였으나",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but did not see it",
+      "korean_translation": "보지 못하였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to hear what you hear",
+      "korean_translation": "너희가 듣는 것을 듣고자 하였으나",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but did not hear it",
+      "korean_translation": "듣지 못하였느니라",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

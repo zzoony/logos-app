@@ -1,0 +1,23 @@
+{
+  "verse_reference": "John 11:23",
+  "version": "NIV",
+  "original_text": "Jesus said to her, “Your brother will rise again.”",
+  "korean_text": "예수께서 이르시되 네 오라비가 다시 살아나리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to her",
+      "korean_translation": "예수님께서 그녀에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your brother will rise again",
+      "korean_translation": "너의 오라버니가 다시 살아날 것이다",
+      "word_indices": [
+        53,
+        199
+      ]
+    }
+  ]
+}

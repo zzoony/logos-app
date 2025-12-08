@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Micah 6:15",
+  "version": "NIV",
+  "original_text": "You will plant but not harvest;\n    you will press olives but not use the oil,\n    you will crush grapes but not drink the wine.",
+  "korean_text": "네가 씨를 뿌려도 추수하지 못할 것이며 감람 열매를 밟아도 기름을 네 몸에 바르지 못할 것이며 포도를 밟아도 술을 마시지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will plant but not harvest",
+      "korean_translation": "너희는 심으되 거두지 못하리라",
+      "word_indices": [
+        358,
+        472
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you will press olives but not use the oil",
+      "korean_translation": "너희는 감람나무를 밟되 기름을 쓰지 못하리라",
+      "word_indices": [
+        213,
+        246
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you will crush grapes but not drink the wine",
+      "korean_translation": "너희는 포도를 밟하되 포도주를 마시지 못하리라",
+      "word_indices": [
+        78,
+        215,
+        630
+      ]
+    }
+  ]
+}

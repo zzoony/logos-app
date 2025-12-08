@@ -1,0 +1,32 @@
+{
+  "verse_reference": "2 Samuel 22:37",
+  "version": "NIV",
+  "original_text": "You provide a broad path for my feet,\n    so that my ankles do not give way.",
+  "korean_text": "내 걸음을 넓게 하셨고 내 발이 미끄러지지 아니하게 하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You provide a broad path",
+      "korean_translation": "당신은 넓은 길을 제공하십니다",
+      "word_indices": [
+        461,
+        516,
+        2065
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for my feet",
+      "korean_translation": "나의 발을 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that my ankles do not give way",
+      "korean_translation": "그리하여 나의 발목이 꺾이지 않게 하기 위해",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

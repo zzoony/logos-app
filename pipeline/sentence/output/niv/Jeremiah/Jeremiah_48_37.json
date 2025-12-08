@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Jeremiah 48:37",
+  "version": "NIV",
+  "original_text": "Every head is shaved\n    and every beard cut off;\nevery hand is slashed\n    and every waist is covered with sackcloth.",
+  "korean_text": "모든 사람이 대머리가 되었고 모든 사람이 수염을 밀었으며 손에 칼자국이 있고 허리에 굵은 베가 둘렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every head is shaved",
+      "korean_translation": "모든 머리가 깎이고",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and every beard cut off",
+      "korean_translation": "모든 수염이 잘리며",
+      "word_indices": [
+        184,
+        1670
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "every hand is slashed",
+      "korean_translation": "모든 손이 베이고",
+      "word_indices": [
+        9,
+        3533
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and every waist is covered with sackcloth",
+      "korean_translation": "모든 허리가 베옷으로 싸이리라",
+      "word_indices": [
+        200,
+        928,
+        1336
+      ]
+    }
+  ]
+}

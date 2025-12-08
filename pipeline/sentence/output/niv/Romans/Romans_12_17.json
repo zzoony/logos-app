@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Romans 12:17",
+  "version": "NIV",
+  "original_text": "Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone.",
+  "korean_text": "아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not repay anyone evil for evil",
+      "korean_translation": "악으로 악을 갚지 말라",
+      "word_indices": [
+        68,
+        95,
+        753
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Be careful to do what is right",
+      "korean_translation": "올바른 일을 하도록 조심하라",
+      "word_indices": [
+        74,
+        662
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the eyes of everyone",
+      "korean_translation": "모든 사람의 눈에",
+      "word_indices": [
+        186
+      ]
+    }
+  ]
+}

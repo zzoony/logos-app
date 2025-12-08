@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 78:3",
+  "version": "NIV",
+  "original_text": "things we have heard and known,\n    things our ancestors have told us.",
+  "korean_text": "이는 우리가 들어서 아는 바요 우리의 조상들이 우리에게 전한 바라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "things we have heard",
+      "korean_translation": "우리가 들은 것들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and known",
+      "korean_translation": "알게 된 것들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "things our ancestors have told us",
+      "korean_translation": "우리 조상들이 우리에게 말한 것들",
+      "word_indices": [
+        138
+      ]
+    }
+  ]
+}

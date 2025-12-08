@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Revelation 6:5",
+  "version": "NIV",
+  "original_text": "When the Lamb opened the third seal, I heard the third living creature say, “Come!” I looked, and there before me was a black horse! Its rider was holding a pair of scales in his hand.",
+  "korean_text": "셋째 인을 떼실 때에 내가 들으니 셋째 생물이 말하되 오라 하기로 내가 보니 검은 말이 나오는데 그 탄 자가 손에 저울을 가졌더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the Lamb opened the third seal",
+      "korean_translation": "어린 양이 셋째 인을 떼었을 때",
+      "word_indices": [
+        160,
+        264,
+        280,
+        742
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I heard the third living creature say",
+      "korean_translation": "나는 세 번째 생물이 말하는 것을 들었으니",
+      "word_indices": [
+        280,
+        463
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Come!",
+      "korean_translation": "이리 오라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I looked",
+      "korean_translation": "내가 보니",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and there before me was a black horse",
+      "korean_translation": "내 앞에 검은 말이 있더라",
+      "word_indices": [
+        326,
+        1837
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Its rider was holding",
+      "korean_translation": "그 말을 탄 자가 손에 들고 있었으니",
+      "word_indices": [
+        158,
+        1656
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "a pair of scales in his hand",
+      "korean_translation": "손에 저울 한 쌍을 들고 있더라",
+      "word_indices": [
+        9,
+        1482
+      ]
+    }
+  ]
+}

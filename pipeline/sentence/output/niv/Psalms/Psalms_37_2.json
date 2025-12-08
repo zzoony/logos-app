@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 37:2",
+  "version": "NIV",
+  "original_text": "for like the grass they will soon wither,\n    like green plants they will soon die away.",
+  "korean_text": "그들은 풀과 같이 속히 베임을 당할 것이며 푸른 채소 같이 쇠잔할 것임이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for like the grass they will soon wither",
+      "korean_translation": "이는 풀과 같으리니 그들이 곧 마를 것임이라",
+      "word_indices": [
+        7,
+        502,
+        870
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like green plants they will soon die away",
+      "korean_translation": "푸른 식물과 같으리니 그들이 곧 죽을 것임이라",
+      "word_indices": [
+        7,
+        34,
+        58,
+        358,
+        502,
+        1608
+      ]
+    }
+  ]
+}

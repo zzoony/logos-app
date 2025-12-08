@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 120:3",
+  "version": "NIV",
+  "original_text": "What will he do to you,\n    and what more besides,\n    you deceitful tongue?",
+  "korean_text": "너 속이는 혀여 무엇을 네게 주며 무엇을 네게 더할꼬",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What will he do to you",
+      "korean_translation": "그가 너에게 무엇을 할까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and what more besides",
+      "korean_translation": "그리고 무엇을 더할까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you deceitful tongue?",
+      "korean_translation": "너 거짓된 혀여",
+      "word_indices": [
+        400,
+        1441
+      ]
+    }
+  ]
+}

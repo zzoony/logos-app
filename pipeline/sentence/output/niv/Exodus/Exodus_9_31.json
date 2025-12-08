@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 9:31",
+  "version": "NIV",
+  "original_text": "(The flax and barley were destroyed, since the barley had headed and the flax was in bloom.",
+  "korean_text": "그 때에 보리는 이삭이 나왔고 삼은 꽃이 피었으므로 삼과 보리가 상하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The flax and barley were destroyed",
+      "korean_translation": "아마와 보리가 멸망되었으며",
+      "word_indices": [
+        69,
+        1149,
+        2926
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "since the barley had headed",
+      "korean_translation": "보리가 이삭을 패었기 때문이며",
+      "word_indices": [
+        67,
+        1149
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the flax was in bloom",
+      "korean_translation": "아마는 꽃이 피었기 때문입니다",
+      "word_indices": [
+        2926,
+        3140
+      ]
+    }
+  ]
+}

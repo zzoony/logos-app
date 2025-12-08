@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 104:21",
+  "version": "NIV",
+  "original_text": "The lions roar for their prey\n    and seek their food from God.",
+  "korean_text": "젊은 사자들은 그들의 먹이를 쫓아 부르짖으며 그들의 먹이를 하나님께 구하다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The lions roar for their prey",
+      "korean_translation": "사자들이 그들의 먹이를 위해 포효하며",
+      "word_indices": [
+        399,
+        799,
+        1247
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and seek their food from God",
+      "korean_translation": "하나님께서 주시는 음식을 구하나니",
+      "word_indices": [
+        1,
+        103,
+        273
+      ]
+    }
+  ]
+}

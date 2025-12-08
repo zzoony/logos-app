@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Daniel 11:5",
+  "version": "NIV",
+  "original_text": "“The king of the South will become strong, but one of his commanders will become even stronger than he and will rule his own kingdom with great power.",
+  "korean_text": "남방의 왕들은 강할 것이나 그 군주들 중 하나는 그보다 강하여 권세를 떨치리니 그의 권세가 심히 클 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of the South will become strong",
+      "korean_translation": "남방의 왕은 강해질 것이다",
+      "word_indices": [
+        4,
+        32,
+        342,
+        433
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but one of his commanders will become even stronger than he",
+      "korean_translation": "그러나 그의 장군 중 한 사람은 그보다 더욱 강해질 것이다",
+      "word_indices": [
+        32,
+        259,
+        1324
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and will rule his own kingdom with great power",
+      "korean_translation": "그리고 큰 권능으로 자기 왕국을 다스릴 것이다",
+      "word_indices": [
+        44,
+        109,
+        178,
+        366
+      ]
+    }
+  ]
+}

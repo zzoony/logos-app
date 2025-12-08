@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 9:59",
+  "version": "NIV",
+  "original_text": "He said to another man, “Follow me.”\nBut he replied, “Lord, first let me go and bury my father.”",
+  "korean_text": "또 다른 사람에게 나를 따르라 하시니 그가 이르되 나로 먼저 가서 내 아버지를 장사하게 허락하옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to another man,",
+      "korean_translation": "그가 다른 사람에게 말하기를,",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Follow me.",
+      "korean_translation": "나를 따르라.",
+      "word_indices": [
+        91
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But he replied,",
+      "korean_translation": "그러나 그가 대답하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Lord, first let me go",
+      "korean_translation": "주님, 먼저 제 가게 하시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and bury my father.",
+      "korean_translation": "제 아버지를 장사하게 하옵소서.",
+      "word_indices": [
+        12,
+        341
+      ]
+    }
+  ]
+}

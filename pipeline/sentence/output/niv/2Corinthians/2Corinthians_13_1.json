@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Corinthians 13:1",
+  "version": "NIV",
+  "original_text": "This will be my third visit to you. “Every matter must be established by the testimony of two or three witnesses.”",
+  "korean_text": "내가 이제 세 번째 너희에게 가리니 두세 증인의 입으로 말마다 확정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This will be my third visit to you",
+      "korean_translation": "이것은 내가 당신에게 세 번째 방문하는 것입니다",
+      "word_indices": [
+        280,
+        1304
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Every matter must be established",
+      "korean_translation": "모든 문제는 확정되어야 합니다",
+      "word_indices": [
+        432,
+        580
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the testimony of two or three witnesses",
+      "korean_translation": "두세 명의 증인의 증거로",
+      "word_indices": [
+        90,
+        451,
+        700
+      ]
+    }
+  ]
+}

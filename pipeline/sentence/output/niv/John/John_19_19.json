@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 19:19",
+  "version": "NIV",
+  "original_text": "Pilate had a notice prepared and fastened to the cross. It read: jesus of nazareth, the king of the jews.",
+  "korean_text": "빌라도가 패를 써서 십자가 위에 붙이니 나사렛 예수 유대인의 왕이라 기록되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pilate had a notice prepared",
+      "korean_translation": "빌라도는 팻말을 준비하게 했고",
+      "word_indices": [
+        1326
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and fastened to the cross",
+      "korean_translation": "십자자가에 못을 박았다",
+      "word_indices": [
+        1106
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It read:",
+      "korean_translation": "팻말에는 다음과 같이 적혀 있었다:",
+      "word_indices": [
+        612
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "jesus of nazareth",
+      "korean_translation": "나사렛 예수",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the king of the jews",
+      "korean_translation": "유대인의 왕",
+      "word_indices": [
+        4,
+        209
+      ]
+    }
+  ]
+}

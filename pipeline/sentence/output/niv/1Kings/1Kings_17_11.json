@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Kings 17:11",
+  "version": "NIV",
+  "original_text": "As she was going to get it, he called, “And bring me, please, a piece of bread.”",
+  "korean_text": "그가 가지러 갈 때에 엘리야가 그를 불러 이르되 청하건대 네 손의 떡 한 조각을 내게로 가져오라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As she was going to get it",
+      "korean_translation": "그것을 가져가려던 차에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he called",
+      "korean_translation": "그가 불렀다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And bring me, please, a piece of bread",
+      "korean_translation": "그리고 빵 한 조각을 가져다 주세요",
+      "word_indices": [
+        165,
+        187,
+        374
+      ]
+    }
+  ]
+}

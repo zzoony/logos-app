@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 98:4",
+  "version": "NIV",
+  "original_text": "Shout for joy to the Lord, all the earth,\n    burst into jubilant song with music;",
+  "korean_text": "온 땅이여 여호와께 즐거이 소리칠지어다 소리 내어 즐겁게 노래하며 찬송할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Shout for joy to the Lord",
+      "korean_translation": "여호와께 기쁨으로 외치라",
+      "word_indices": [
+        237,
+        321
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the earth",
+      "korean_translation": "온 땅이여",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "burst into jubilant song with music",
+      "korean_translation": "음악과 함께 즐거운 노래를 터뜨리라",
+      "word_indices": [
+        653,
+        1164,
+        1521,
+        3259
+      ]
+    }
+  ]
+}

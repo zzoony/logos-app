@@ -1,0 +1,41 @@
+{
+  "verse_reference": "James 4:12",
+  "version": "NIV",
+  "original_text": "There is only one Lawgiver and Judge, the one who is able to save and destroy. But you—who are you to judge your neighbor?",
+  "korean_text": "입법자와 재판관은 오직 한 분이시니 능히 구원하기도 하시며 멸하기도 하시느니라 너는 누구이기에 이웃을 판단하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is only one Lawgiver and Judge",
+      "korean_translation": "오직 한 분의 입법자이자 재판관이 계시며",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the one who is able to save and destroy",
+      "korean_translation": "구원하시고 멸망시킬 수 있는 분이시다",
+      "word_indices": [
+        69,
+        139,
+        363
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you—who are you",
+      "korean_translation": "그러나 당신은—당신이 누구이기에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to judge your neighbor?",
+      "korean_translation": "이웃을 심판하는가?",
+      "word_indices": [
+        211,
+        356
+      ]
+    }
+  ]
+}

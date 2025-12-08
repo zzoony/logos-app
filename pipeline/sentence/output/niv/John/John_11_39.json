@@ -1,0 +1,62 @@
+{
+  "verse_reference": "John 11:39",
+  "version": "NIV",
+  "original_text": "“Take away the stone,” he said.\n“But, Lord,” said Martha, the sister of the dead man, “by this time there is a bad odor, for he has been there four days.”",
+  "korean_text": "예수께서 이르시되 돌을 옮겨 놓으라 하시니 그 죽은 자의 누이 마르다가 이르되 주여 죽은 지가 나흘이 되었으매 벌써 냄새가 나나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Take away the stone",
+      "korean_translation": "그 돌을 옮겨라",
+      "word_indices": [
+        34,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But, Lord",
+      "korean_translation": "그러나 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "said Martha",
+      "korean_translation": "마르다가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the sister of the dead man",
+      "korean_translation": "죽은 사람의 누이인",
+      "word_indices": [
+        10,
+        115,
+        173
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "by this time there is a bad odor",
+      "korean_translation": "이때쯤이면 악취가 날 것입니다",
+      "word_indices": [
+        764,
+        6007
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "for he has been there four days",
+      "korean_translation": "그가 거기 있은 지 이미 사흘이 되었기 때문입니다",
+      "word_indices": [
+        203
+      ]
+    }
+  ]
+}

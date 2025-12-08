@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 21:7",
+  "version": "NIV",
+  "original_text": "“If a man sells his daughter as a servant, she is not to go free as male servants do.",
+  "korean_text": "사람이 자기의 딸을 여종으로 팔았으면 그는 남종 같이 나오지 못할지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a man sells his daughter as a servant",
+      "korean_translation": "만약 어떤 남자가 자기 딸을 하녀로 판다면",
+      "word_indices": [
+        10,
+        25,
+        66,
+        397
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she is not to go free",
+      "korean_translation": "그녀는 자유로워질 수 없다",
+      "word_indices": [
+        421
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as male servants do",
+      "korean_translation": "남자 하인들이 그러하는 것처럼",
+      "word_indices": [
+        25,
+        228
+      ]
+    }
+  ]
+}

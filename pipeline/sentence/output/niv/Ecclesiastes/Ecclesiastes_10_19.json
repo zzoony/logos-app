@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Ecclesiastes 10:19",
+  "version": "NIV",
+  "original_text": "A feast is made for laughter,\n    wine makes life merry,\n    and money is the answer for everything.",
+  "korean_text": "잔치는 희락을 위하여 베푸는 것이요 포도주는 생명을 기쁘게 하는 것이나 돈은 범사에 이용되느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A feast is made for laughter",
+      "korean_translation": "잔치는 웃음을 위해 준비되고",
+      "word_indices": [
+        810,
+        2296
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "wine makes life merry",
+      "korean_translation": "포도주는 생활을 즐겁게 하며",
+      "word_indices": [
+        37,
+        215,
+        3589
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and money is the answer for everything",
+      "korean_translation": "돈은 모든 것에 대한 대답이라",
+      "word_indices": [
+        63,
+        448
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 3:5",
+  "version": "NIV",
+  "original_text": "People went out to him from Jerusalem and all Judea and the whole region of the Jordan.",
+  "korean_text": "이 때에 예루살렘과 온 유대와 요단 강 사방에서 다 그에게 나아와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People went out to him",
+      "korean_translation": "사람들이 그에게 나아가서",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from Jerusalem",
+      "korean_translation": "예루살렘에서부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all Judea",
+      "korean_translation": "온 유대에서와",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the whole region of the Jordan",
+      "korean_translation": "요단강 온 지역에서도",
+      "word_indices": [
+        99,
+        704
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 3:38",
+  "version": "NIV",
+  "original_text": "the son of Enosh,\nthe son of Seth, the son of Adam,\nthe son of God.",
+  "korean_text": "그 위는 에노스요 그 위는 셋이요 그 위는 아담이요 그 위는 하나님이시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the son of Enosh,",
+      "korean_translation": "에노스의 아들,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the son of Seth,",
+      "korean_translation": "셋의 아들,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the son of Adam,",
+      "korean_translation": "아담의 아들,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the son of God.",
+      "korean_translation": "하나님의 아들.",
+      "word_indices": [
+        1,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 130:2",
+  "version": "NIV",
+  "original_text": "Lord, hear my voice.\nLet your ears be attentive\n    to my cry for mercy.",
+  "korean_text": "주여 내 소리를 들으시며 나의 부르짖는 소리에 귀를 기울이소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord, hear my voice.",
+      "korean_translation": "주님, 나의 목소리를 들어주세요.",
+      "word_indices": [
+        16,
+        241
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let your ears be attentive",
+      "korean_translation": "당신의 귀를 기울여주세요",
+      "word_indices": [
+        383,
+        2834
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to my cry for mercy.",
+      "korean_translation": "나의 자비를 구하는 부르짖음에.",
+      "word_indices": [
+        152,
+        413
+      ]
+    }
+  ]
+}

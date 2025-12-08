@@ -1,0 +1,40 @@
+{
+  "verse_reference": "2 Kings 8:7",
+  "version": "NIV",
+  "original_text": "Elisha went to Damascus, and Ben-Hadad king of Aram was ill. When the king was told, “The man of God has come all the way up here,”",
+  "korean_text": "엘리사가 다메섹에 갔을 때에 아람 왕 벤하닷이 병들었더니 왕에게 들리기를 이르되 하나님의 사람이 여기 이르렀나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elisha went to Damascus",
+      "korean_translation": "엘리사가 다메섹으로 갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Ben-Hadad king of Aram was ill",
+      "korean_translation": "아람 왕 벤하닷이 병들었더라",
+      "word_indices": [
+        4,
+        721
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When the king was told",
+      "korean_translation": "왕에게 고하되",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The man of God has come all the way up here",
+      "korean_translation": "하나님의 사람이 여기까지 올라왔다고 하니",
+      "word_indices": [
+        1,
+        10
+      ]
+    }
+  ]
+}

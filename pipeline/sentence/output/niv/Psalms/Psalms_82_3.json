@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 82:3",
+  "version": "NIV",
+  "original_text": "Defend the weak and the fatherless;\n    uphold the cause of the poor and the oppressed.",
+  "korean_text": "가난한 자와 고아를 위하여 판단하며 곤란한 자와 빈궁한 자에게 공의를 베풀지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Defend the weak and the fatherless",
+      "korean_translation": "약한 자와 고아를 보호하라",
+      "word_indices": [
+        783,
+        1197
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "uphold the cause of the poor",
+      "korean_translation": "가난한 자의 송사를 붙들어 주라",
+      "word_indices": [
+        286,
+        298,
+        1295
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the oppressed",
+      "korean_translation": "억눌린 자의 송사도 붙들어 주라",
+      "word_indices": [
+        634
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Isaiah 28:27",
+  "version": "NIV",
+  "original_text": "Caraway is not threshed with a sledge,\n    nor is the wheel of a cart rolled over cumin;\ncaraway is beaten out with a rod,\n    and cumin with a stick.",
+  "korean_text": "소회향은 도리깨로 떨지 아니하며 대회향에는 수레 바퀴를 굴리지 아니하고 소회향은 작대기로 떨고 대회향은 막대기로 떨며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Caraway is not threshed with a sledge",
+      "korean_translation": "회향은 썰매로 타작하지 않으며",
+      "word_indices": [
+        805,
+        3012,
+        4053
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor is the wheel of a cart rolled over cumin",
+      "korean_translation": "수레 바퀴가 고수 위로 굴러가지도 않느니라",
+      "word_indices": [
+        996,
+        1117,
+        1459,
+        3648
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "caraway is beaten out with a rod",
+      "korean_translation": "회향은 막대기로 두드려 내고",
+      "word_indices": [
+        830,
+        4053
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and cumin with a stick",
+      "korean_translation": "고수는 작은 막대기로 두드려 내느니라",
+      "word_indices": [
+        1342,
+        3648
+      ]
+    }
+  ]
+}

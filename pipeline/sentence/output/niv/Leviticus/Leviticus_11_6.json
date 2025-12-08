@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 11:6",
+  "version": "NIV",
+  "original_text": "The rabbit, though it chews the cud, does not have a divided hoof; it is unclean for you.",
+  "korean_text": "토끼도 새김질은 하되 굽이 갈라지지 아니하였으므로 너희에게 부정하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The rabbit",
+      "korean_translation": "토끼는",
+      "word_indices": [
+        4224
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "though it chews the cud",
+      "korean_translation": "새김질을 하지만",
+      "word_indices": [
+        127,
+        2060,
+        2230
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "does not have a divided hoof",
+      "korean_translation": "갈라진 발굽이 없습니다",
+      "word_indices": [
+        1617
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it is unclean for you",
+      "korean_translation": "그것은 너희에게 부정합니다",
+      "word_indices": [
+        250
+      ]
+    }
+  ]
+}

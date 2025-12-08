@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Genesis 32:29",
+  "version": "NIV",
+  "original_text": "Jacob said, “Please tell me your name.”\nBut he replied, “Why do you ask my name?” Then he blessed him there.",
+  "korean_text": "야곱이 청하여 이르되 당신의 이름을 알려주소서 그 사람이 이르되 어찌하여 내 이름을 묻느냐 하고 거기서 야곱에게 축복한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob said",
+      "korean_translation": "야곱이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Please tell me your name",
+      "korean_translation": "제발 당신의 이름을 말해주세요",
+      "word_indices": [
+        15,
+        17,
+        165
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But he replied",
+      "korean_translation": "하지만 그가 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why do you ask my name",
+      "korean_translation": "왜 내 이름을 묻습니까",
+      "word_indices": [
+        17,
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then he blessed him there",
+      "korean_translation": "그리고 그는 그를 그곳에서 축복했다",
+      "word_indices": [
+        97
+      ]
+    }
+  ]
+}

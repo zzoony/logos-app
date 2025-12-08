@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 90:6",
+  "version": "NIV",
+  "original_text": "In the morning it springs up new,\n    but by evening it is dry and withered.",
+  "korean_text": "풀은 아침에 꽃이 피어 자라다가 저녁에는 시들어 마르나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the morning it springs up new",
+      "korean_translation": "아침에는 새로 싹이 나고",
+      "word_indices": [
+        479
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but by evening it is dry",
+      "korean_translation": "저녁에는 마르고",
+      "word_indices": [
+        477
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and withered",
+      "korean_translation": "시들어 버리네",
+      "word_indices": [
+        870
+      ]
+    }
+  ]
+}

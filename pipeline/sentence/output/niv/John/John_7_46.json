@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 7:46",
+  "version": "NIV",
+  "original_text": "“No one ever spoke the way this man does,” the guards replied.",
+  "korean_text": "아랫사람들이 대답하되 그 사람이 말하는 것처럼 말한 사람은 이 때까지 없었나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one ever spoke",
+      "korean_translation": "아무도 이렇게 말한 적이 없습니다",
+      "word_indices": [
+        5162
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the way this man does",
+      "korean_translation": "이 사람이 말하는 방식으로",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the guards replied",
+      "korean_translation": "경비병들이 대답했습니다",
+      "word_indices": [
+        281
+      ]
+    }
+  ]
+}

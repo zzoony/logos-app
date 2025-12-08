@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Isaiah 41:13",
+  "version": "NIV",
+  "original_text": "For I am the Lord your God\n    who takes hold of your right hand\nand says to you, Do not fear;\n    I will help you.",
+  "korean_text": "이는 나 여호와 너의 하나님이 네 오른손을 붙들고 네게 이르기를 두려워하지 말라 내가 너를 도우리라 하실 것임이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I am the Lord your God",
+      "korean_translation": "나는 너의 하나님 여호와이니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who takes hold of your right hand",
+      "korean_translation": "네 오른손을 붙드는 자",
+      "word_indices": [
+        9,
+        74,
+        158
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and says to you",
+      "korean_translation": "그리고 네게 이르기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not fear",
+      "korean_translation": "두려워 말라",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will help you",
+      "korean_translation": "내가 너를 도와주리라",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

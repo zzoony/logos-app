@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 8:20",
+  "version": "NIV",
+  "original_text": "Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.”",
+  "korean_text": "예수께서 이르시되 여우도 굴이 있고 공중의 새도 거처가 있으되 인자는 머리 둘 곳이 없다 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Foxes have dens",
+      "korean_translation": "여우는 굴이 있고",
+      "word_indices": [
+        1440,
+        2623
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and birds have nests",
+      "korean_translation": "새는 집이 있으나",
+      "word_indices": [
+        386,
+        1508
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but the Son of Man",
+      "korean_translation": "인자는",
+      "word_indices": [
+        2,
+        10
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "has no place to lay his head",
+      "korean_translation": "머리 둘 곳이 없다",
+      "word_indices": [
+        18,
+        67,
+        148
+      ]
+    }
+  ]
+}

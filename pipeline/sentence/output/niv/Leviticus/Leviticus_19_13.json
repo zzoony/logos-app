@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Leviticus 19:13",
+  "version": "NIV",
+  "original_text": "“‘Do not defraud or rob your neighbor.\n“‘Do not hold back the wages of a hired worker overnight.",
+  "korean_text": "너는 네 이웃을 억압하지 말며 착취하지 말며 품꾼의 삯을 아침까지 밤새도록 네게 두지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not defraud your neighbor.",
+      "korean_translation": "네 이웃을 속이지 말라.",
+      "word_indices": [
+        356,
+        3164
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not rob your neighbor.",
+      "korean_translation": "네 이웃을 훔치지 말라.",
+      "word_indices": [
+        356,
+        1193
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not hold back the wages",
+      "korean_translation": "임금을 보류하지 말라.",
+      "word_indices": [
+        52,
+        158,
+        2348
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of a hired worker overnight.",
+      "korean_translation": "고용된 일꾼의 임금을 밤새도록.",
+      "word_indices": [
+        678,
+        3165
+      ]
+    }
+  ]
+}

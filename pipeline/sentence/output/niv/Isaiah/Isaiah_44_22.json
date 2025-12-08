@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 44:22",
+  "version": "NIV",
+  "original_text": "I have swept away your offenses like a cloud,\n    your sins like the morning mist.\nReturn to me,\n    for I have redeemed you.”",
+  "korean_text": "내가 네 허물을 빽빽한 구름 같이, 네 죄를 안개 같이 없이하였으니 너는 내게로 돌아오라 내가 너를 구속하였음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have swept away your offenses like a cloud",
+      "korean_translation": "나는 구름처럼 너의 죄를 쓸어버렸다",
+      "word_indices": [
+        7,
+        34,
+        331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your sins like the morning mist",
+      "korean_translation": "아침 안개처럼 너의 죄들을",
+      "word_indices": [
+        7,
+        24,
+        3078
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Return to me",
+      "korean_translation": "내게로 돌아오너라",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for I have redeemed you",
+      "korean_translation": "내가 너를 구속하였기 때문이다",
+      "word_indices": [
+        587
+      ]
+    }
+  ]
+}

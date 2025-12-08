@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 118:24",
+  "version": "NIV",
+  "original_text": "The Lord has done it this very day;\n    let us rejoice today and be glad.",
+  "korean_text": "이 날은 여호와께서 정하신 것이라 이 날에 우리가 즐거워하고 기뻐하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord has done it",
+      "korean_translation": "주님께서 그것을 행하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this very day",
+      "korean_translation": "바로 오늘",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us rejoice today",
+      "korean_translation": "우리가 오늘 기뻐하자",
+      "word_indices": [
+        242,
+        274
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and be glad",
+      "korean_translation": "그리고 즐거워하자",
+      "word_indices": [
+        691
+      ]
+    }
+  ]
+}

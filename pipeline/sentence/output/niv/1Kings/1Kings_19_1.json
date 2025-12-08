@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 19:1",
+  "version": "NIV",
+  "original_text": "Now Ahab told Jezebel everything Elijah had done and how he had killed all the prophets with the sword.",
+  "korean_text": "아합이 엘리야가 행한 모든 일과 그가 어떻게 모든 선지자를 칼로 죽였는지를 이세벨에게 말하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Ahab told Jezebel",
+      "korean_translation": "이제 아합이 이세벨에게 말하였으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "everything Elijah had done",
+      "korean_translation": "엘리야가 행한 모든 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and how he had killed all the prophets",
+      "korean_translation": "그리고 그가 어떻게 모든 선지자들을 죽였는지를",
+      "word_indices": [
+        70,
+        76
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with the sword",
+      "korean_translation": "칼로",
+      "word_indices": [
+        84
+      ]
+    }
+  ]
+}

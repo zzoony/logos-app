@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Genesis 6:15",
+  "version": "NIV",
+  "original_text": "This is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.",
+  "korean_text": "네가 만들 방주는 이러하니 그 길이는 삼백 규빗, 너비는 오십 규빗, 높이는 삼십 규빗이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is how you are to build it:",
+      "korean_translation": "이것이 당신이 그것을 지어야 할 방법입니다:",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The ark is to be three hundred cubits long,",
+      "korean_translation": "방주는 길이가 삼백 규빗이어야 하고,",
+      "word_indices": [
+        71,
+        90,
+        170,
+        223
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "fifty cubits wide",
+      "korean_translation": "폭이 쉰 규빗이며",
+      "word_indices": [
+        170,
+        512,
+        560
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and thirty cubits high.",
+      "korean_translation": "높이가 서른 규빗입니다.",
+      "word_indices": [
+        105,
+        170,
+        403
+      ]
+    }
+  ]
+}

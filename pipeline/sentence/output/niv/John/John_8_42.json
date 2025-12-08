@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 8:42",
+  "version": "NIV",
+  "original_text": "Jesus said to them, “If God were your Father, you would love me, for I have come here from God. I have not come on my own; God sent me.",
+  "korean_text": "예수께서 이르시되 하나님이 너희 아버지였으면 너희가 나를 사랑하였으리니 이는 내가 하나님께로부터 나와서 왔음이라 나는 스스로 온 것이 아니요 아버지께서 나를 보내신 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If God were your Father",
+      "korean_translation": "만약 하나님이 너희 아버지이시라면",
+      "word_indices": [
+        1,
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you would love me",
+      "korean_translation": "너희는 나를 사랑했을 것이다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for I have come here from God",
+      "korean_translation": "내가 하나님께로부터 여기에 왔기 때문이다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I have not come on my own",
+      "korean_translation": "내가 혼자 온 것이 아니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "God sent me",
+      "korean_translation": "하나님이 나를 보내셨다",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

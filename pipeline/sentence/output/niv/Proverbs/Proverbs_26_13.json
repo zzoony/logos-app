@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Proverbs 26:13",
+  "version": "NIV",
+  "original_text": "A sluggard says, “There’s a lion in the road,\n    a fierce lion roaming the streets!”",
+  "korean_text": "게으른 자는 길에 사자가 있다 거리에 사자가 있다 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A sluggard says",
+      "korean_translation": "게으른 자가 말한다",
+      "word_indices": [
+        2022
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There's a lion in the road",
+      "korean_translation": "길에 사자가 있다",
+      "word_indices": [
+        399,
+        484
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a fierce lion roaming the streets",
+      "korean_translation": "거리를 어슬렁거리는 사나운 사자가 있다",
+      "word_indices": [
+        399,
+        613,
+        884,
+        2478
+      ]
+    }
+  ]
+}

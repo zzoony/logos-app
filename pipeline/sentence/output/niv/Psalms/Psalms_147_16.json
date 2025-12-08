@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 147:16",
+  "version": "NIV",
+  "original_text": "He spreads the snow like wool\n    and scatters the frost like ashes.",
+  "korean_text": "눈을 양털 같이 내리시며 서리를 재 같이 흩으시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He spreads the snow like wool",
+      "korean_translation": "그는 눈을 양털 같이 뿌리시며",
+      "word_indices": [
+        7,
+        253,
+        1580,
+        1732
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "scatters the frost like ashes",
+      "korean_translation": "서리를 재처럼 흩으시느니라",
+      "word_indices": [
+        7,
+        396,
+        1048,
+        3404
+      ]
+    }
+  ]
+}

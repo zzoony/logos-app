@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Job 34:6",
+  "version": "NIV",
+  "original_text": "Although I am right,\n    I am considered a liar;\nalthough I am guiltless,\n    his arrow inflicts an incurable wound.’",
+  "korean_text": "내가 정당함에도 거짓말쟁이라 하였고 나는 허물이 없으나 화살로 상처를 입었노라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Although I am right",
+      "korean_translation": "비록 나는 의롭지만",
+      "word_indices": [
+        74,
+        784
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am considered a liar",
+      "korean_translation": "나는 거짓말쟁이로 여겨진다",
+      "word_indices": [
+        429,
+        1513
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "although I am guiltless",
+      "korean_translation": "비록 나는 죄가 없지만",
+      "word_indices": [
+        784
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "his arrow inflicts an incurable wound",
+      "korean_translation": "그의 화살은 치유할 수 없는 상처를 입힌다",
+      "word_indices": [
+        770,
+        923,
+        1031,
+        2836
+      ]
+    }
+  ]
+}

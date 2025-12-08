@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 55:21",
+  "version": "NIV",
+  "original_text": "His talk is smooth as butter,\n    yet war is in his heart;\nhis words are more soothing than oil,\n    yet they are drawn swords.",
+  "korean_text": "그의 입은 우유 기름보다 미끄러우나 그의 마음은 전쟁이요 그의 말은 기름보다 유하나 실상은 뽑힌 칼이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "His talk is smooth as butter",
+      "korean_translation": "그의 말은 버터처럼 부드럽지만",
+      "word_indices": [
+        446,
+        1887,
+        4524
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet war is in his heart",
+      "korean_translation": "그의 마음에는 전쟁이 있으며",
+      "word_indices": [
+        36,
+        367
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his words are more soothing than oil",
+      "korean_translation": "그의 말은 기름보다 더 부드럽지만",
+      "word_indices": [
+        19,
+        246
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yet they are drawn swords",
+      "korean_translation": "그것들은 뽑아든 칼과 같습니다",
+      "word_indices": [
+        84
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Kings 25:5",
+  "version": "NIV",
+  "original_text": "but the Babylonian army pursued the king and overtook him in the plains of Jericho. All his soldiers were separated from him and scattered,",
+  "korean_text": "갈대아 군대가 그 왕을 뒤쫓아가서 여리고 평지에서 그를 따라 잡으매 왕의 모든 군대가 그를 떠나 흩어진지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the Babylonian army pursued the king",
+      "korean_translation": "바빌로니아 군대가 왕을 추격했다",
+      "word_indices": [
+        4,
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and overtook him in the plains of Jericho",
+      "korean_translation": "그리고 여리고 평원에서 그를 따라잡았다",
+      "word_indices": [
+        908
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "All his soldiers were separated from him",
+      "korean_translation": "그의 모든 군사들이 그와 헤어졌다",
+      "word_indices": [
+        582
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and scattered",
+      "korean_translation": "그리고 흩어졌다",
+      "word_indices": [
+        396
+      ]
+    }
+  ]
+}

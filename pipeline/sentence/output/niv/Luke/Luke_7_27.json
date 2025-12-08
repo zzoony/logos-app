@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 7:27",
+  "version": "NIV",
+  "original_text": "This is the one about whom it is written:\n“‘I will send my messenger ahead of you,\n    who will prepare your way before you.’",
+  "korean_text": "기록된 바 보라 내가 내 사자를 네 앞에 보내노니 그가 네 앞에서 네 길을 준비하리라 한 것이 이 사람에 대한 말씀이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the one",
+      "korean_translation": "이분이 바로 그분입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about whom it is written:",
+      "korean_translation": "기록된 바 있는 그분입니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will send my messenger ahead of you,",
+      "korean_translation": "내가 내 사자를 네 앞에 보낼 것이요,",
+      "word_indices": [
+        20,
+        474,
+        554
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who will prepare your way before you.",
+      "korean_translation": "그가 네 길을 네 앞에서 준비하리라.",
+      "word_indices": [
+        345
+      ]
+    }
+  ]
+}

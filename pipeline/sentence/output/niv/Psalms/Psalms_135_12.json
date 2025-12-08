@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 135:12",
+  "version": "NIV",
+  "original_text": "and he gave their land as an inheritance,\n    an inheritance to his people Israel.",
+  "korean_text": "그들의 땅을 기업으로 주시되 자기 백성 이스라엘에게 기업으로 주셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and he gave their land",
+      "korean_translation": "그가 그들의 땅을 주었고",
+      "word_indices": [
+        5,
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as an inheritance",
+      "korean_translation": "기업으로 주었으며",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "an inheritance to his people Israel",
+      "korean_translation": "그의 백성 이스라엘에게 기업으로 주셨다",
+      "word_indices": [
+        3,
+        208
+      ]
+    }
+  ]
+}

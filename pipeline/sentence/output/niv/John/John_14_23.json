@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 14:23",
+  "version": "NIV",
+  "original_text": "Jesus replied, “Anyone who loves me will obey my teaching. My Father will love them, and we will come to them and make our home with them.",
+  "korean_text": "예수께서 대답하여 이르시되 사람이 나를 사랑하면 내 말을 지키리니 내 아버지께서 그를 사랑하실 것이요 우리가 그에게 가서 거처를 그와 함께 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Anyone who loves me",
+      "korean_translation": "나를 사랑하는 사람은",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will obey my teaching",
+      "korean_translation": "나의 가르침을 순종할 것이다",
+      "word_indices": [
+        172,
+        247
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "My Father will love them",
+      "korean_translation": "나의 아버지께서 그들을 사랑하실 것이다",
+      "word_indices": [
+        12,
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and we will come to them",
+      "korean_translation": "그리고 우리가 그들에게 올 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and make our home with them",
+      "korean_translation": "그들과 함께 우리의 거처를 만들 것이다",
+      "word_indices": [
+        230
+      ]
+    }
+  ]
+}

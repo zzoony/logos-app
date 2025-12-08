@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Mark 12:20",
+  "version": "NIV",
+  "original_text": "Now there were seven brothers. The first one married and died without leaving any children.",
+  "korean_text": "칠 형제가 있었는데 맏이가 아내를 취하였다가 상속자가 없이 죽고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now there were seven brothers.",
+      "korean_translation": "일곱 형제가 있었습니다.",
+      "word_indices": [
+        53,
+        96
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The first one married",
+      "korean_translation": "첫째가 결혼했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and died",
+      "korean_translation": "죽었으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "without leaving any children.",
+      "korean_translation": "자녀를 남기지 않았습니다.",
+      "word_indices": []
+    }
+  ]
+}

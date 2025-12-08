@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Isaiah 43:5",
+  "version": "NIV",
+  "original_text": "Do not be afraid, for I am with you;\n    I will bring your children from the east\n    and gather you from the west.",
+  "korean_text": "두려워하지 말라 내가 너와 함께 하여 네 자손을 동쪽에서부터 오게 하며 서쪽에서부터 너를 모을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not be afraid",
+      "korean_translation": "두려워하지 말라",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I am with you",
+      "korean_translation": "내가 너와 함께 있음이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will bring your children from the east",
+      "korean_translation": "내가 동쪽에서 네 자녀들을 데려오리라",
+      "word_indices": [
+        283
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and gather you from the west",
+      "korean_translation": "서쪽에서 너를 모으리라",
+      "word_indices": [
+        169,
+        569
+      ]
+    }
+  ]
+}

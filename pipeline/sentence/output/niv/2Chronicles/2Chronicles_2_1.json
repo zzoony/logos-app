@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Chronicles 2:1",
+  "version": "NIV",
+  "original_text": "Solomon gave orders to build a temple for the Name of the Lord and a royal palace for himself.",
+  "korean_text": "솔로몬이 여호와의 이름을 위하여 성전을 건축하고 자기 왕위를 위하여 궁궐 건축하기를 결심하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon gave orders",
+      "korean_translation": "솔로몬이 명령을 내렸다",
+      "word_indices": [
+        5,
+        163
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to build a temple for the Name of the Lord",
+      "korean_translation": "주의 이름을 위한 성전을 건축하라고",
+      "word_indices": [
+        17,
+        43,
+        93
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a royal palace for himself",
+      "korean_translation": "그리고 자신을 위한 왕궁을 건축하라고",
+      "word_indices": [
+        296,
+        381
+      ]
+    }
+  ]
+}

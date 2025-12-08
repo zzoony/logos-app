@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 2:14",
+  "version": "NIV",
+  "original_text": "In the temple courts he found people selling cattle, sheep and doves, and others sitting at tables exchanging money.",
+  "korean_text": "성전 안에서 소와 양과 비둘기 파는 사람들과 돈 바꾸는 사람들이 앉아 있는 것을 보시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the temple courts",
+      "korean_translation": "성전 뜰에서",
+      "word_indices": [
+        43,
+        351
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he found people selling cattle",
+      "korean_translation": "그는 소를 파는 사람들을 발견했고",
+      "word_indices": [
+        3,
+        397,
+        655,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "sheep and doves",
+      "korean_translation": "양과 비둘기도 있었고",
+      "word_indices": [
+        251
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and others sitting at tables",
+      "korean_translation": "그리고 다른 사람들은 테이블에 앉아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "exchanging money",
+      "korean_translation": "돈을 교환하고 있었다",
+      "word_indices": [
+        448
+      ]
+    }
+  ]
+}

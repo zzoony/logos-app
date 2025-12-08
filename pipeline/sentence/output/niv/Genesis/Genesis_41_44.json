@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 41:44",
+  "version": "NIV",
+  "original_text": "Then Pharaoh said to Joseph, “I am Pharaoh, but without your word no one will lift hand or foot in all Egypt.”",
+  "korean_text": "바로가 요셉에게 이르되 나는 바로라 애굽 온 땅에서 네 허락이 없이는 수족을 놀릴 자가 없으리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Pharaoh said to Joseph",
+      "korean_translation": "그때 바로가 요셉에게 말하였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am Pharaoh",
+      "korean_translation": "나는 바로이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but without your word",
+      "korean_translation": "그러나 너의 말 없이는",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "no one will lift hand or foot",
+      "korean_translation": "아무도 손이나 발을 움직이지 못할 것이다",
+      "word_indices": [
+        9,
+        123,
+        379
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in all Egypt",
+      "korean_translation": "온 애굽 땅에서",
+      "word_indices": []
+    }
+  ]
+}

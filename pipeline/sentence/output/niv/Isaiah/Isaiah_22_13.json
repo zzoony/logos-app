@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Isaiah 22:13",
+  "version": "NIV",
+  "original_text": "But see, there is joy and revelry,\n    slaughtering of cattle and killing of sheep,\n    eating of meat and drinking of wine!\n“Let us eat and drink,” you say,\n    “for tomorrow we die!”",
+  "korean_text": "너희가 기뻐하며 즐거워하여 소를 죽이고 양을 잡아 고기를 먹고 포도주를 마시면서 내일 죽으리니 먹고 마시자 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But see, there is joy and revelry,",
+      "korean_translation": "그러나 보라, 기쁨과 연락이 있구나",
+      "word_indices": [
+        237,
+        2766
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "slaughtering of cattle and killing of sheep,",
+      "korean_translation": "소를 잡고 양을 죽이며",
+      "word_indices": [
+        76,
+        251,
+        452,
+        655
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "eating of meat and drinking of wine!",
+      "korean_translation": "고기를 먹고 포도주를 마시는구나!",
+      "word_indices": [
+        33,
+        78,
+        215,
+        574
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Let us eat and drink,",
+      "korean_translation": "먹고 마시자",
+      "word_indices": [
+        33,
+        78
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you say,",
+      "korean_translation": "너는 말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for tomorrow we die!",
+      "korean_translation": "내일 우리가 죽을 것이기 때문이다!",
+      "word_indices": [
+        58,
+        820
+      ]
+    }
+  ]
+}

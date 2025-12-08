@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 7:43",
+  "version": "NIV",
+  "original_text": "Simon replied, “I suppose the one who had the bigger debt forgiven.”\n“You have judged correctly,” Jesus said.",
+  "korean_text": "시몬이 대답하여 이르되 내 생각에는 많이 탕감함을 받은 자니이다 이르시되 네 판단이 옳다 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon replied",
+      "korean_translation": "시몬이 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I suppose the one",
+      "korean_translation": "내가 추측하기에는 그 사람",
+      "word_indices": [
+        1394
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who had the bigger debt forgiven",
+      "korean_translation": "더 큰 빚을 탕감받은 사람",
+      "word_indices": [
+        1628,
+        4775
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have judged correctly",
+      "korean_translation": "네가 올바르게 판단했다",
+      "word_indices": [
+        2992
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님이 말씀하셨다",
+      "word_indices": []
+    }
+  ]
+}

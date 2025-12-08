@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 22:8",
+  "version": "NIV",
+  "original_text": "Jesus sent Peter and John, saying, “Go and make preparations for us to eat the Passover.”",
+  "korean_text": "예수께서 베드로와 요한을 보내시며 이르시되 가서 우리를 위하여 유월절을 준비하여 우리로 먹게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus sent Peter and John",
+      "korean_translation": "예수님께서 베드로와 요한을 보내셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying",
+      "korean_translation": "말씀하시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Go and make preparations",
+      "korean_translation": "가서 준비하라",
+      "word_indices": [
+        1672
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for us to eat the Passover",
+      "korean_translation": "우리가 유월절을 먹도록",
+      "word_indices": [
+        33,
+        673
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Matthew 25:20",
+  "version": "NIV",
+  "original_text": "The man who had received five bags of gold brought the other five. ‘Master,’ he said, ‘you entrusted me with five bags of gold. See, I have gained five more.’",
+  "korean_text": "다섯 달란트 받았던 자는 다섯 달란트를 더 가지고 와서 이르되 주인이여 내게 다섯 달란트를 주셨는데 보소서 내가 또 다섯 달란트를 남겼나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man who had received five bags of gold",
+      "korean_translation": "다섯 봉지의 금을 받았던 그 사람이",
+      "word_indices": [
+        10,
+        75,
+        196,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "brought the other five",
+      "korean_translation": "나머지 다섯 봉지를 가져왔습니다",
+      "word_indices": [
+        196
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Master,'",
+      "korean_translation": "'주인님,'",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he said",
+      "korean_translation": "그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'you entrusted me with five bags of gold",
+      "korean_translation": "'당신은 저에게 다섯 봉지의 금을 맡기셨습니다",
+      "word_indices": [
+        75,
+        196,
+        1088,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "See, I have gained five more.'",
+      "korean_translation": "보세요, 저는 다섯 봉지를 더 벌었습니다.'",
+      "word_indices": [
+        196,
+        537
+      ]
+    }
+  ]
+}

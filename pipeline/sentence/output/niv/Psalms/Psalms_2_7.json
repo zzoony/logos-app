@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 2:7",
+  "version": "NIV",
+  "original_text": "I will proclaim the Lord’s decree:\nHe said to me, “You are my son;\n    today I have become your father.",
+  "korean_text": "내가 여호와의 명령을 전하노라 여호와께서 내게 이르시되 너는 내 아들이라 오늘 내가 너를 낳았도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will proclaim the Lord's decree:",
+      "korean_translation": "나는 주의 법도를 선포하겠다",
+      "word_indices": [
+        252,
+        300
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said to me,",
+      "korean_translation": "그가 내게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "\"You are my son;",
+      "korean_translation": "너는 내 아들이니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "today I have become your father.\"",
+      "korean_translation": "오늘 내가 너의 아버지가 되었노라\"",
+      "word_indices": [
+        12,
+        32,
+        242
+      ]
+    }
+  ]
+}

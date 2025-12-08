@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Romans 14:11",
+  "version": "NIV",
+  "original_text": "It is written:\n“‘As surely as I live,’ says the Lord,\n‘every knee will bow before me;\n    every tongue will acknowledge God.’”",
+  "korean_text": "기록되었으되 주께서 이르시되 내가 살았노니 모든 무릎이 내게 꿇을 것이요 모든 혀가 하나님께 자백하리라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is written:",
+      "korean_translation": "기록되었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'As surely as I live,' says the Lord,",
+      "korean_translation": "'나의 삶으로 맹세하노라' 주께서 말씀하시되",
+      "word_indices": [
+        14,
+        150
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'every knee will bow before me;",
+      "korean_translation": "'모든 무릎이 내게 꿇을 것이며",
+      "word_indices": [
+        263,
+        1187
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "every tongue will acknowledge God.'\"",
+      "korean_translation": "모든 혀가 하나님을 시인하리라'\"",
+      "word_indices": [
+        1,
+        400,
+        842
+      ]
+    }
+  ]
+}

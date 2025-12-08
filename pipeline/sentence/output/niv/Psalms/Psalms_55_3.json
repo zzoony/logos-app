@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 55:3",
+  "version": "NIV",
+  "original_text": "because of what my enemy is saying,\n    because of the threats of the wicked;\nfor they bring down suffering on me\n    and assail me in their anger.",
+  "korean_text": "이는 원수의 소리와 악인의 압제 때문이라 그들이 죄악을 내게 더하며 노하여 나를 핍박하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "because of what my enemy is saying",
+      "korean_translation": "내 원수가 말하는 것 때문에",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because of the threats of the wicked",
+      "korean_translation": "악인들의 위협 때문에",
+      "word_indices": [
+        1946,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for they bring down suffering on me",
+      "korean_translation": "그들이 내게 고통을 가져오기 때문이다",
+      "word_indices": [
+        376
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and assail me in their anger",
+      "korean_translation": "그리고 그들의 분노로 나를 공격한다",
+      "word_indices": [
+        185,
+        3965
+      ]
+    }
+  ]
+}

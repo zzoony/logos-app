@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Genesis 8:22",
+  "version": "NIV",
+  "original_text": "“As long as the earth endures,\nseedtime and harvest,\ncold and heat,\nsummer and winter,\nday and night\nwill never cease.”",
+  "korean_text": "땅이 있을 동안에는 심음과 거둠과 추위와 더위와 여름과 겨울과 낮과 밤이 쉬지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As long as the earth endures",
+      "korean_translation": "땅이 존재하는 한",
+      "word_indices": [
+        40,
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "seedtime and harvest",
+      "korean_translation": "파종과 추수는",
+      "word_indices": [
+        472,
+        4890
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "cold and heat",
+      "korean_translation": "추위와 더위는",
+      "word_indices": [
+        1228,
+        1882
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "summer and winter",
+      "korean_translation": "여름과 겨울은",
+      "word_indices": [
+        1702,
+        1763
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "day and night",
+      "korean_translation": "낮과 밤은",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will never cease",
+      "korean_translation": "결코 그치지 아니하리라",
+      "word_indices": [
+        2032
+      ]
+    }
+  ]
+}

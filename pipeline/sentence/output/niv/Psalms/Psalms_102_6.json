@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 102:6",
+  "version": "NIV",
+  "original_text": "I am like a desert owl,\n    like an owl among the ruins.",
+  "korean_text": "나는 광야의 올빼미 같고 황폐한 곳의 부엉이 같이 되었사오며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am like a desert owl",
+      "korean_translation": "나는 광야의 부엉이와 같고",
+      "word_indices": [
+        7,
+        262,
+        1366
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like an owl among the ruins",
+      "korean_translation": "폐허 가운데 있는 부엉이와 같습니다",
+      "word_indices": [
+        7,
+        27,
+        284,
+        1366
+      ]
+    }
+  ]
+}

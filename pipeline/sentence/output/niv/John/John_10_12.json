@@ -1,0 +1,69 @@
+{
+  "verse_reference": "John 10:12",
+  "version": "NIV",
+  "original_text": "The hired hand is not the shepherd and does not own the sheep. So when he sees the wolf coming, he abandons the sheep and runs away. Then the wolf attacks the flock and scatters it.",
+  "korean_text": "삯꾼은 목자가 아니요 양도 제 양이 아니라 이리가 오는 것을 보면 양을 버리고 달아나나니 이리가 양을 물어 가고 또 헤치느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The hired hand is not the shepherd",
+      "korean_translation": "품꾼은 목자가 아니며",
+      "word_indices": [
+        9,
+        437
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and does not own the sheep",
+      "korean_translation": "양을 소유하지 않습니다",
+      "word_indices": [
+        251
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So when he sees the wolf coming",
+      "korean_translation": "그러므로 그가 늑대가 오는 것을 보면",
+      "word_indices": [
+        2043
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he abandons the sheep",
+      "korean_translation": "양을 버리고",
+      "word_indices": [
+        251,
+        927
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and runs away",
+      "korean_translation": "달아납니다",
+      "word_indices": [
+        34,
+        306
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then the wolf attacks the flock",
+      "korean_translation": "그러면 늑대가 양 무리를 공격하고",
+      "word_indices": [
+        261,
+        270,
+        2043
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and scatters it",
+      "korean_translation": "흩어지게 합니다",
+      "word_indices": [
+        396
+      ]
+    }
+  ]
+}

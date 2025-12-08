@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 74:16",
+  "version": "NIV",
+  "original_text": "The day is yours, and yours also the night;\n    you established the sun and moon.",
+  "korean_text": "낮도 주의 것이요 밤도 주의 것이라 주께서 빛과 해를 마련하셨으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The day is yours",
+      "korean_translation": "낮은 주께 속하였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and yours also the night",
+      "korean_translation": "밤도 주께 속하였나이다",
+      "word_indices": [
+        28,
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you established the sun and moon",
+      "korean_translation": "주께서 해와 달을 세우셨나이다",
+      "word_indices": [
+        364,
+        432,
+        724
+      ]
+    }
+  ]
+}

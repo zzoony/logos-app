@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 1:16",
+  "version": "NIV",
+  "original_text": "Bathsheba bowed down, prostrating herself before the king.\n“What is it you want?” the king asked.",
+  "korean_text": "밧세바가 몸을 굽혀 왕께 절하니 왕이 이르되 어찌 됨이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bathsheba bowed down",
+      "korean_translation": "밧세바가 허리를 굽혔다",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "prostrating herself before the king",
+      "korean_translation": "왕 앞에 엎드렸다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What is it you want?",
+      "korean_translation": "무엇을 원하십니까?",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the king asked",
+      "korean_translation": "왕이 물었다",
+      "word_indices": [
+        4,
+        31
+      ]
+    }
+  ]
+}

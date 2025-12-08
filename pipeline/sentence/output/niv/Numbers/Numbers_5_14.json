@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Numbers 5:14",
+  "version": "NIV",
+  "original_text": "and if feelings of jealousy come over her husband and he suspects his wife and she is impure—or if he is jealous and suspects her even though she is not impure—",
+  "korean_text": "그 남편이 의심이 생겨 그 아내를 의심하였는데 그의 아내가 더럽혀졌거나 또는 그 남편이 의심이 생겨 그 아내를 의심하였으나 그 아내가 더럽혀지지 아니하였든지",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and if feelings of jealousy come over her husband",
+      "korean_translation": "만일 질투의 감정이 그녀의 남편에게 찾아오고",
+      "word_indices": [
+        375,
+        1403,
+        4250
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he suspects his wife",
+      "korean_translation": "그가 그의 아내를 의심하며",
+      "word_indices": [
+        79,
+        3802
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and she is impure",
+      "korean_translation": "그녀가 부정하다면",
+      "word_indices": [
+        998
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or if he is jealous",
+      "korean_translation": "또는 그가 질투하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and suspects her even though she is not impure",
+      "korean_translation": "그녀가 부정하지 않음에도 불구하고 그녀를 의심한다면",
+      "word_indices": [
+        127,
+        998,
+        3802
+      ]
+    }
+  ]
+}

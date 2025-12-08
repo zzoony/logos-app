@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Job 38:28",
+  "version": "NIV",
+  "original_text": "Does the rain have a father?\n    Who fathers the drops of dew?",
+  "korean_text": "비에게 아비가 있느냐 이슬방울은 누가 낳았느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Does the rain have a father?",
+      "korean_translation": "비에게 아버지가 있습니까?",
+      "word_indices": [
+        12,
+        506
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who fathers the drops of dew?",
+      "korean_translation": "이슬 방울을 낳는 이는 누구입니까?",
+      "word_indices": [
+        12,
+        1142,
+        1558
+      ]
+    }
+  ]
+}

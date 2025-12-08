@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Judges 5:26",
+  "version": "NIV",
+  "original_text": "Her hand reached for the tent peg,\n    her right hand for the workman’s hammer.\nShe struck Sisera, she crushed his head,\n    she shattered and pierced his temple.",
+  "korean_text": "손으로 장막 말뚝을 잡으며 오른손에 일꾼들의 방망이를 들고 시스라를 쳐서 그의 머리를 뚫되 곧 그의 관자놀이를 꿰뚫었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Her hand reached for the tent peg",
+      "korean_translation": "그녀의 손이 말뚝을 향해 뻗어갔다",
+      "word_indices": [
+        9,
+        119,
+        315,
+        1904
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "her right hand for the workman's hammer",
+      "korean_translation": "그녀의 오른손이 장인의 망치를 잡았다",
+      "word_indices": [
+        9,
+        74,
+        1334,
+        5067
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She struck Sisera",
+      "korean_translation": "그녀는 시스라를 쳤다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she crushed his head",
+      "korean_translation": "그녀는 그의 머리를 부숴버렸다",
+      "word_indices": [
+        67,
+        630
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "she shattered and pierced his temple",
+      "korean_translation": "그녀는 그의 관자놀이를 부수고 뚫었다",
+      "word_indices": [
+        43,
+        1104
+      ]
+    }
+  ]
+}

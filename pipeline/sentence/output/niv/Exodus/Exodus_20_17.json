@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Exodus 20:17",
+  "version": "NIV",
+  "original_text": "“You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor.”",
+  "korean_text": "네 이웃의 집을 탐내지 말라 네 이웃의 아내나 그의 남종이나 그의 여종이나 그의 소나 그의 나귀나 무릇 네 이웃의 소유를 탐내지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not covet your neighbor's house.",
+      "korean_translation": "네 이웃의 집을 탐내지 말라.",
+      "word_indices": [
+        26,
+        356,
+        2047
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You shall not covet your neighbor's wife,",
+      "korean_translation": "네 이웃의 아내를 탐내지 말며,",
+      "word_indices": [
+        79,
+        356,
+        2047
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or his male or female servant,",
+      "korean_translation": "그의 남종이나 여종을 탐내지 말라.",
+      "word_indices": [
+        25,
+        228,
+        614
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "his ox or donkey,",
+      "korean_translation": "그의 소나 나귀를 탐내지 말라.",
+      "word_indices": [
+        347,
+        547
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or anything that belongs to your neighbor.",
+      "korean_translation": "네 이웃에게 속한 어떤 것도 탐내지 말라.",
+      "word_indices": [
+        218,
+        356
+      ]
+    }
+  ]
+}

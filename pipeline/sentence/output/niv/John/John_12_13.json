@@ -1,0 +1,57 @@
+{
+  "verse_reference": "John 12:13",
+  "version": "NIV",
+  "original_text": "They took palm branches and went out to meet him, shouting,\n“Hosanna!”\n“Blessed is he who comes in the name of the Lord!”\n“Blessed is the king of Israel!”",
+  "korean_text": "종려나무 가지를 가지고 맞으러 나가 외치되 호산나 찬송하리로다 주의 이름으로 오시는 이 곧 이스라엘의 왕이시여 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They took palm branches",
+      "korean_translation": "그들은 종려 가지를 들고",
+      "word_indices": [
+        509,
+        997
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and went out to meet him",
+      "korean_translation": "그를 만나러 나아갔다",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shouting",
+      "korean_translation": "외치며",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Hosanna!",
+      "korean_translation": "호산나!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Blessed is he who comes in the name of the Lord!",
+      "korean_translation": "주의 이름으로 오시는 자가 복이 있을지어다!",
+      "word_indices": [
+        17,
+        97
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Blessed is the king of Israel!",
+      "korean_translation": "이스라엘의 왕이 복이 있을지어다!",
+      "word_indices": [
+        4,
+        97
+      ]
+    }
+  ]
+}

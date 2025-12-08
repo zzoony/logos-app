@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 143:3",
+  "version": "NIV",
+  "original_text": "The enemy pursues me,\n    he crushes me to the ground;\nhe makes me dwell in the darkness\n    like those long dead.",
+  "korean_text": "원수가 내 영혼을 핍박하며 내 생명을 땅에 엎어서 나로 죽은 지 오랜 자 같이 나를 암흑 속에 두셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The enemy pursues me",
+      "korean_translation": "원수가 나를 쫓습니다",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he crushes me to the ground",
+      "korean_translation": "그가 나를 땅에 부수다",
+      "word_indices": [
+        630,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he makes me dwell in the darkness",
+      "korean_translation": "그가 나를 어둠 속에 거하게 하다",
+      "word_indices": [
+        305
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like those long dead",
+      "korean_translation": "오래전에 죽은 자들처럼",
+      "word_indices": [
+        7,
+        71,
+        115
+      ]
+    }
+  ]
+}

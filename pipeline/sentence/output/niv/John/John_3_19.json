@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 3:19",
+  "version": "NIV",
+  "original_text": "This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil.",
+  "korean_text": "그 정죄는 이것이니 곧 빛이 세상에 왔으되 사람들이 자기 행위가 악하므로 빛보다 어둠을 더 사랑한 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the verdict:",
+      "korean_translation": "이것이 결론입니다:",
+      "word_indices": [
+        2971
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Light has come into the world,",
+      "korean_translation": "빛이 세상에 왔으나,",
+      "word_indices": [
+        190,
+        205
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but people loved darkness instead of light",
+      "korean_translation": "사람들은 빛 대신 어두움을 사랑했습니다",
+      "word_indices": [
+        3,
+        205,
+        523
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because their deeds were evil.",
+      "korean_translation": "그들의 행동이 악했기 때문입니다.",
+      "word_indices": [
+        95,
+        414
+      ]
+    }
+  ]
+}

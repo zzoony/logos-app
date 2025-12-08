@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 139:17",
+  "version": "NIV",
+  "original_text": "How precious to me are your thoughts, God!\n    How vast is the sum of them!",
+  "korean_text": "하나님이여 주의 생각이 내게 어찌 그리 보배로우신지요 그 수가 어찌 그리 많은지요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How precious to me are your thoughts",
+      "korean_translation": "당신의 생각이 나에게 얼마나 귀한지",
+      "word_indices": [
+        1001
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God",
+      "korean_translation": "하나님",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How vast is the sum of them",
+      "korean_translation": "그것들의 합계가 얼마나 광대한지",
+      "word_indices": [
+        1443,
+        3068
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 14:8",
+  "version": "NIV",
+  "original_text": "Philip said, “Lord, show us the Father and that will be enough for us.”",
+  "korean_text": "빌립이 이르되 주여 아버지를 우리에게 보여 주옵소서 그리하면 족하겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Philip said",
+      "korean_translation": "빌립이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord, show us the Father",
+      "korean_translation": "주여, 아버지를 우리에게 보여주세요",
+      "word_indices": [
+        12,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and that will be enough for us",
+      "korean_translation": "그러면 우리에게 충분할 것입니다",
+      "word_indices": [
+        540
+      ]
+    }
+  ]
+}

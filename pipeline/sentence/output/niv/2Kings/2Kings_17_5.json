@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Kings 17:5",
+  "version": "NIV",
+  "original_text": "The king of Assyria invaded the entire land, marched against Samaria and laid siege to it for three years.",
+  "korean_text": "앗수르 왕이 올라와 그 온 땅에 두루다니고 사마리아로 올라와 그 곳을 삼 년간 에워쌌더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of Assyria invaded the entire land",
+      "korean_translation": "앗수르 왕이 온 땅을 침략하였고",
+      "word_indices": [
+        4,
+        8,
+        625
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "marched against Samaria",
+      "korean_translation": "사마리아를 향해 진군하였으며",
+      "word_indices": [
+        11,
+        619
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and laid siege to it for three years",
+      "korean_translation": "그곳을 3년 동안 포위하였다",
+      "word_indices": [
+        90,
+        903
+      ]
+    }
+  ]
+}

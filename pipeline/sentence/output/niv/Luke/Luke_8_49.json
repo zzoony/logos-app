@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Luke 8:49",
+  "version": "NIV",
+  "original_text": "While Jesus was still speaking, someone came from the house of Jairus, the synagogue leader. “Your daughter is dead,” he said. “Don’t bother the teacher anymore.”",
+  "korean_text": "아직 말씀하실 때에 회당장의 집에서 사람이 와서 말하되 당신의 딸이 죽었나이다 선생님을 더 괴롭게 하지 마소서 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While Jesus was still speaking",
+      "korean_translation": "예수께서 아직 말씀하실 때",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "someone came from the house of Jairus",
+      "korean_translation": "어떤 사람이 회당장 야이로의 집에서 왔다",
+      "word_indices": [
+        26,
+        271
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the synagogue leader",
+      "korean_translation": "회당장",
+      "word_indices": [
+        222
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Your daughter is dead",
+      "korean_translation": "당신의 딸이 죽었습니다",
+      "word_indices": [
+        66,
+        115
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Don't bother the teacher anymore",
+      "korean_translation": "더 이상 선생님을 괴롭히지 마십시오",
+      "word_indices": [
+        357,
+        1510,
+        2814
+      ]
+    }
+  ]
+}

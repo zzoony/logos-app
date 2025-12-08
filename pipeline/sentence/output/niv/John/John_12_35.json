@@ -1,0 +1,64 @@
+{
+  "verse_reference": "John 12:35",
+  "version": "NIV",
+  "original_text": "Then Jesus told them, “You are going to have the light just a little while longer. Walk while you have the light, before darkness overtakes you. Whoever walks in the dark does not know where they are going.",
+  "korean_text": "예수께서 이르시되 아직 잠시 동안 빛이 너희 중에 있으니 빛이 있을 동안에 다녀 어둠에 붙잡히지 않게 하라 어둠에 다니는 자는 그 가는 곳을 알지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus told them",
+      "korean_translation": "그때 예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are going to have the light",
+      "korean_translation": "너희는 빛을 가지게 될 것이다",
+      "word_indices": [
+        205
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "just a little while longer",
+      "korean_translation": "얼마 동안만 더",
+      "word_indices": [
+        267,
+        312
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Walk while you have the light",
+      "korean_translation": "빛이 있을 때에 걸어라",
+      "word_indices": [
+        205,
+        238
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before darkness overtakes you",
+      "korean_translation": "어둠이 너희를 덮기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Whoever walks in the dark",
+      "korean_translation": "어둠 속에서 걷는 사람은",
+      "word_indices": [
+        154,
+        238,
+        1021
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "does not know where they are going",
+      "korean_translation": "자기가 어디로 가는지 알지 못한다",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

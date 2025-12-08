@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ecclesiastes 11:4",
+  "version": "NIV",
+  "original_text": "Whoever watches the wind will not plant;\n    whoever looks at the clouds will not reap.",
+  "korean_text": "풍세를 살펴보는 자는 파종하지 못할 것이요 구름만 바라보는 자는 거두지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever watches the wind",
+      "korean_translation": "바람을 지켜보는 사람은",
+      "word_indices": [
+        154,
+        295,
+        332
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will not plant",
+      "korean_translation": "씨를 뿌리지 않을 것이다",
+      "word_indices": [
+        358
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whoever looks at the clouds",
+      "korean_translation": "구름을 바라보는 사람은",
+      "word_indices": [
+        51,
+        154,
+        331
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will not reap",
+      "korean_translation": "거두지 않을 것이다",
+      "word_indices": [
+        1033
+      ]
+    }
+  ]
+}

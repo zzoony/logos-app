@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 1:31",
+  "version": "NIV",
+  "original_text": "You will conceive and give birth to a son, and you are to call him Jesus.",
+  "korean_text": "보라 네가 잉태하여 아들을 낳으리니 그 이름을 예수라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will conceive",
+      "korean_translation": "당신은 잉태하게 될 것입니다",
+      "word_indices": [
+        1112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and give birth to a son",
+      "korean_translation": "그리고 아들을 낳을 것입니다",
+      "word_indices": [
+        2,
+        5,
+        387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you are to call him Jesus",
+      "korean_translation": "그리고 그의 이름을 예수라고 부를 것입니다",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

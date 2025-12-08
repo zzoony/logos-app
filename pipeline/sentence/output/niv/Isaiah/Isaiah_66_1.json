@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 66:1",
+  "version": "NIV",
+  "original_text": "This is what the Lord says:\n“Heaven is my throne,\n    and the earth is my footstool.\nWhere is the house you will build for me?\n    Where will my resting place be?",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 하늘은 나의 보좌요 땅은 나의 발판이니 너희가 나를 위하여 무슨 집을 지으랴 내가 안식할 처소가 어디랴",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says:",
+      "korean_translation": "나 주가 이렇게 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Heaven is my throne,",
+      "korean_translation": "하늘은 나의 왕좌이며",
+      "word_indices": [
+        57,
+        282
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the earth is my footstool.",
+      "korean_translation": "땅은 나의 발받침이다",
+      "word_indices": [
+        40,
+        2093
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Where is the house you will build for me?",
+      "korean_translation": "너희가 나를 위해 지을 집이 어디에 있겠느냐",
+      "word_indices": [
+        26,
+        93
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Where will my resting place be?",
+      "korean_translation": "나의 안식처가 어디에 있겠느냐",
+      "word_indices": [
+        18,
+        114
+      ]
+    }
+  ]
+}

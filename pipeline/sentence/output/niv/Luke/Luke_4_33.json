@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 4:33",
+  "version": "NIV",
+  "original_text": "In the synagogue there was a man possessed by a demon, an impure spirit. He cried out at the top of his voice,",
+  "korean_text": "회당에 더러운 귀신 들린 사람이 있어 크게 소리 질러 이르되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the synagogue",
+      "korean_translation": "회당에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was a man",
+      "korean_translation": "한 사람이 있었다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "possessed by a demon",
+      "korean_translation": "귀신 들린",
+      "word_indices": [
+        550,
+        659
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "an impure spirit",
+      "korean_translation": "부정한 영",
+      "word_indices": [
+        62,
+        998
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He cried out",
+      "korean_translation": "그가 소리를 질렀다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "at the top of his voice",
+      "korean_translation": "목소리를 높여",
+      "word_indices": [
+        241,
+        529
+      ]
+    }
+  ]
+}

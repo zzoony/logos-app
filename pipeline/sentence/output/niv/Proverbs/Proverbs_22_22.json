@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 22:22",
+  "version": "NIV",
+  "original_text": "Do not exploit the poor because they are poor\n    and do not crush the needy in court,",
+  "korean_text": "약한 자를 그가 약하다고 탈취하지 말며 곤고한 자를 성문에서 압제하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not exploit the poor",
+      "korean_translation": "가난한 자를 착취하지 말라",
+      "word_indices": [
+        298,
+        1937
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because they are poor",
+      "korean_translation": "그들이 가난하기 때문에",
+      "word_indices": [
+        298
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and do not crush the needy in court",
+      "korean_translation": "그리고 법정에서 궁핍한 자를 짓밟지 말라",
+      "word_indices": [
+        351,
+        630,
+        840
+      ]
+    }
+  ]
+}

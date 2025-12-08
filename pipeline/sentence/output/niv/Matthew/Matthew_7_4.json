@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 7:4",
+  "version": "NIV",
+  "original_text": "How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye?",
+  "korean_text": "보라 네 눈 속에 들보가 있는데 어찌하여 형제에게 말하기를 나로 네 눈 속에 있는 티를 빼게 하라 하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How can you say to your brother,",
+      "korean_translation": "너는 어찌 네 형제에게 말하겠느냐,",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Let me take the speck out of your eye,'",
+      "korean_translation": "'내가 네 눈에서 티를 빼리라' 하고",
+      "word_indices": [
+        61,
+        3090
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when all the time",
+      "korean_translation": "그런데 실은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "there is a plank in your own eye?",
+      "korean_translation": "네 눈에는 들보가 있느냐?",
+      "word_indices": [
+        61,
+        2491
+      ]
+    }
+  ]
+}

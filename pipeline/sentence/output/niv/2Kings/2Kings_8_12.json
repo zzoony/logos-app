@@ -1,0 +1,85 @@
+{
+  "verse_reference": "2 Kings 8:12",
+  "version": "NIV",
+  "original_text": "“Why is my lord weeping?” asked Hazael.\n“Because I know the harm you will do to the Israelites,” he answered. “You will set fire to their fortified places, kill their young men with the sword, dash their little children to the ground, and rip open their pregnant women.”",
+  "korean_text": "하사엘이 이르되 내 주여 어찌하여 우시나이까 하는지라 대답하되 네가 이스라엘 자손에게 행할 모든 악을 내가 앎이라 네가 그들의 성에 불을 지르며 장정을 칼로 죽이며 어린 아이를 메치며 아이 밴 부녀를 가르리라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why is my lord weeping?",
+      "korean_translation": "나의 주께서 왜 우시나이까?",
+      "word_indices": [
+        339
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "asked Hazael.",
+      "korean_translation": "하사엘이 물었다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Because I know the harm",
+      "korean_translation": "내가 해를 알기 때문이다",
+      "word_indices": [
+        13,
+        632
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you will do to the Israelites,",
+      "korean_translation": "네가 이스라엘 사람들에게 할 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he answered.",
+      "korean_translation": "그가 대답했다.",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You will set fire to their fortified places,",
+      "korean_translation": "네가 그들의 견고한 곳들에 불을 지르고",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "kill their young men with the sword,",
+      "korean_translation": "그들의 젊은 남자들을 칼로 죽이고",
+      "word_indices": [
+        76,
+        84,
+        130
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "dash their little children to the ground,",
+      "korean_translation": "그들의 어린 아이들을 땅에 메치고",
+      "word_indices": [
+        312,
+        2001,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "and rip open their pregnant women.",
+      "korean_translation": "그들의 임산한 여자들의 배를 가르리라.",
+      "word_indices": [
+        160,
+        1063,
+        3024
+      ]
+    }
+  ]
+}

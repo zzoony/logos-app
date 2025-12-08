@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Acts 7:18",
+  "version": "NIV",
+  "original_text": "Then ‘a new king, to whom Joseph meant nothing, came to power in Egypt.’",
+  "korean_text": "요셉을 알지 못하는 새 임금이 애굽 왕위에 오르매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then a new king",
+      "korean_translation": "그때 새로운 왕이",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to whom Joseph meant nothing",
+      "korean_translation": "요셉이 아무것도 의미하지 않는 그에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "came to power in Egypt",
+      "korean_translation": "애굽에서 권력을 잡았다",
+      "word_indices": [
+        178
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Isaiah 43:19",
+  "version": "NIV",
+  "original_text": "See, I am doing a new thing!\n    Now it springs up; do you not perceive it?\nI am making a way in the wilderness\n    and streams in the wasteland.",
+  "korean_text": "보라 내가 새 일을 행하리니 이제 나타낼 것이라 너희가 그것을 알지 못하겠느냐 반드시 내가 광야에 길을 사막에 강을 내리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "See, I am doing a new thing!",
+      "korean_translation": "보라, 내가 새 일을 행하고 있노라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now it springs up",
+      "korean_translation": "이제 그것이 싹이 돋아나며",
+      "word_indices": [
+        479
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do you not perceive it?",
+      "korean_translation": "너희가 그것을 알지 못하느냐?",
+      "word_indices": [
+        2384
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am making a way in the wilderness",
+      "korean_translation": "내가 광야에 길을 만들고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and streams in the wasteland.",
+      "korean_translation": "사막에 강을 만들겠노라",
+      "word_indices": [
+        669,
+        1406
+      ]
+    }
+  ]
+}

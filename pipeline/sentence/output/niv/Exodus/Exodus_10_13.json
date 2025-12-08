@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Exodus 10:13",
+  "version": "NIV",
+  "original_text": "So Moses stretched out his staff over Egypt, and the Lord made an east wind blow across the land all that day and all that night. By morning the wind had brought the locusts;",
+  "korean_text": "모세가 애굽 땅 위에 그 지팡이를 들매 여호와께서 동풍을 일으켜 온 낮과 온 밤에 불게 하시니 아침이 되매 동풍이 메뚜기를 불어 들인지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Moses stretched out his staff over Egypt",
+      "korean_translation": "그리하여 모세가 그의 지팡이를 이집트 위로 뻗었다",
+      "word_indices": [
+        615,
+        677
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the Lord made an east wind blow",
+      "korean_translation": "그리고 주께서 동풍이 불게 하셨다",
+      "word_indices": [
+        283,
+        295,
+        639
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "across the land all that day",
+      "korean_translation": "온종일 그 땅을 가로질러",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all that night",
+      "korean_translation": "그리고 그날 밤 내내",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "By morning the wind had brought the locusts",
+      "korean_translation": "아침까지 바람이 메뚜기를 가져왔다",
+      "word_indices": [
+        295,
+        976
+      ]
+    }
+  ]
+}

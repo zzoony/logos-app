@@ -1,0 +1,51 @@
+{
+  "verse_reference": "John 3:5",
+  "version": "NIV",
+  "original_text": "Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit.",
+  "korean_text": "예수께서 대답하시되 진실로 진실로 네게 이르노니 사람이 물과 성령으로 나지 아니하면 하나님의 나라에 들어갈 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하시니",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Very truly I tell you",
+      "korean_translation": "내가 진실로 너에게 말하노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "no one can enter the kingdom of God",
+      "korean_translation": "아무도 하나님의 나라에 들어갈 수 없고",
+      "word_indices": [
+        1,
+        109,
+        135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "unless they are born of water",
+      "korean_translation": "물로 나지 아니하면",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the Spirit",
+      "korean_translation": "성령으로 나지 아니하면",
+      "word_indices": [
+        62
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Exodus 17:11",
+  "version": "NIV",
+  "original_text": "As long as Moses held up his hands, the Israelites were winning, but whenever he lowered his hands, the Amalekites were winning.",
+  "korean_text": "모세가 손을 들면 이스라엘이 이기고 손을 내리면 아말렉이 이기더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As long as Moses held up his hands",
+      "korean_translation": "모세가 손을 들고 있는 동안은",
+      "word_indices": [
+        9,
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Israelites were winning",
+      "korean_translation": "이스라엘 백성이 이기고 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but whenever he lowered his hands",
+      "korean_translation": "하지만 그가 손을 내릴 때마다",
+      "word_indices": [
+        9,
+        1043
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Amalekites were winning",
+      "korean_translation": "아말렉 사람이 이기고 있었다",
+      "word_indices": []
+    }
+  ]
+}

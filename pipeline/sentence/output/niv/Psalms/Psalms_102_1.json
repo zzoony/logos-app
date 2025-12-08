@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 102:1",
+  "version": "NIV",
+  "original_text": "Hear my prayer, Lord;\n    let my cry for help come to you.",
+  "korean_text": "여호와여 내 기도를 들으시고 나의 부르짖음을 주께 상달하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hear my prayer",
+      "korean_translation": "나의 기도를 들어주소서",
+      "word_indices": [
+        16,
+        406
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let my cry for help",
+      "korean_translation": "나의 도움을 부르짖음이",
+      "word_indices": [
+        152,
+        181
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "come to you",
+      "korean_translation": "주께 이르게 하소서",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 119:67",
+  "version": "NIV",
+  "original_text": "Before I was afflicted I went astray,\n    but now I obey your word.",
+  "korean_text": "고난 당하기 전에는 내가 그릇 행하였더니 이제는 주의 말씀을 지키나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Before I was afflicted",
+      "korean_translation": "내가 고난받기 전에는",
+      "word_indices": [
+        885
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I went astray",
+      "korean_translation": "내가 방황하였으나",
+      "word_indices": [
+        935
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but now",
+      "korean_translation": "이제는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I obey your word",
+      "korean_translation": "내가 주의 말씀을 지키나이다",
+      "word_indices": [
+        19,
+        247
+      ]
+    }
+  ]
+}

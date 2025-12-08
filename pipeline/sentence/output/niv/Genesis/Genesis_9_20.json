@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Genesis 9:20",
+  "version": "NIV",
+  "original_text": "Noah, a man of the soil, proceeded to plant a vineyard.",
+  "korean_text": "노아가 농사를 시작하여 포도나무를 심었더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Noah, a man of the soil,",
+      "korean_translation": "노아는, 땅의 사람이었으며,",
+      "word_indices": [
+        10,
+        1095
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "proceeded to plant a vineyard.",
+      "korean_translation": "포도원을 심기 시작했습니다.",
+      "word_indices": [
+        358,
+        441,
+        2293
+      ]
+    }
+  ]
+}

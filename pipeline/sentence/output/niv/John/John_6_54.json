@@ -1,0 +1,52 @@
+{
+  "verse_reference": "John 6:54",
+  "version": "NIV",
+  "original_text": "Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up at the last day.",
+  "korean_text": "내 살을 먹고 내 피를 마시는 자는 영생을 가졌고 마지막 날에 내가 그를 다시 살리리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever eats my flesh",
+      "korean_translation": "내 살을 먹는 사람은",
+      "word_indices": [
+        33,
+        154,
+        307
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drinks my blood",
+      "korean_translation": "내 피를 마시는 사람은",
+      "word_indices": [
+        78,
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "has eternal life",
+      "korean_translation": "영생을 가지고 있으며",
+      "word_indices": [
+        37,
+        650
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I will raise them up",
+      "korean_translation": "내가 그들을 일으킬 것이다",
+      "word_indices": [
+        249
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "at the last day",
+      "korean_translation": "마지막 날에",
+      "word_indices": [
+        344
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 14:2",
+  "version": "NIV",
+  "original_text": "My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?",
+  "korean_text": "내 아버지 집에 거할 곳이 많도다 그렇지 않으면 너희에게 일렀으리라 내가 너희를 위하여 거처를 예비하러 가노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My Father's house has many rooms",
+      "korean_translation": "내 아버지 집에는 방이 많이 있다",
+      "word_indices": [
+        12,
+        26,
+        409
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if that were not so",
+      "korean_translation": "만일 그렇지 않다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "would I have told you",
+      "korean_translation": "내가 너희에게 말했겠느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I am going there",
+      "korean_translation": "내가 그곳에 가고 있다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to prepare a place for you",
+      "korean_translation": "너희를 위한 자리를 준비하기 위해",
+      "word_indices": [
+        18,
+        345
+      ]
+    }
+  ]
+}

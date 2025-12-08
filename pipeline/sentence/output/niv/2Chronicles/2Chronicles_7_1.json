@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Chronicles 7:1",
+  "version": "NIV",
+  "original_text": "When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the Lord filled the temple.",
+  "korean_text": "솔로몬이 기도를 마치매 불이 하늘에서부터 내려와서 그 번제물과 제물들을 사르고 여호와의 영광이 그 성전에 가득하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Solomon finished praying",
+      "korean_translation": "솔로몬이 기도를 마쳤을 때",
+      "word_indices": [
+        212,
+        478
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "fire came down from heaven",
+      "korean_translation": "불이 하늘에서 내려왔고",
+      "word_indices": [
+        57,
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and consumed the burnt offering and the sacrifices",
+      "korean_translation": "번제물과 제물을 삼켰으며",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the glory of the Lord filled the temple",
+      "korean_translation": "여호와의 영광이 성전을 가득 채웠다",
+      "word_indices": [
+        43,
+        159,
+        188
+      ]
+    }
+  ]
+}

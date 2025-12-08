@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 Samuel 28:24",
+  "version": "NIV",
+  "original_text": "The woman had a fattened calf at the house, which she butchered at once. She took some flour, kneaded it and baked bread without yeast.",
+  "korean_text": "여인의 집에 살진 송아지가 있으므로 그것을 급히 잡고 가루를 가져다가 뭉쳐 무교병을 만들고 구워서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman had a fattened calf at the house",
+      "korean_translation": "그 여자는 집에서 살찬 송아지를 가지고 있었고",
+      "word_indices": [
+        26,
+        50,
+        796,
+        1807
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which she butchered at once",
+      "korean_translation": "그것을 즉시 잡았고",
+      "word_indices": [
+        3498
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She took some flour",
+      "korean_translation": "그녀는 밀가루를 조금 가져와",
+      "word_indices": [
+        730
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "kneaded it",
+      "korean_translation": "반죽하고",
+      "word_indices": [
+        2295
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and baked bread without yeast",
+      "korean_translation": "누룩 없는 빵을 만들었다",
+      "word_indices": [
+        187,
+        825
+      ]
+    }
+  ]
+}

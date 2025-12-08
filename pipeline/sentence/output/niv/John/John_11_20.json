@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 11:20",
+  "version": "NIV",
+  "original_text": "When Martha heard that Jesus was coming, she went out to meet him, but Mary stayed at home.",
+  "korean_text": "마르다는 예수께서 오신다는 말을 듣고 곧 나가 맞이하되 마리아는 집에 앉았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Martha heard",
+      "korean_translation": "마르다가 들었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Jesus was coming",
+      "korean_translation": "예수님께서 오고 계신다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she went out to meet him",
+      "korean_translation": "그녀는 그를 만나러 나갔다",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but Mary stayed at home",
+      "korean_translation": "하지만 마리아는 집에 머물렀다",
+      "word_indices": [
+        197,
+        230
+      ]
+    }
+  ]
+}

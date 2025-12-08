@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 3:1",
+  "version": "NIV",
+  "original_text": "Lord, how many are my foes!\n    How many rise up against me!",
+  "korean_text": "여호와여 나의 대적이 어찌 그리 많은지요 일어나 나를 치는 자가 많으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "how many are my foes",
+      "korean_translation": "나의 대적이 얼마나 많은지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How many rise up against me",
+      "korean_translation": "얼마나 많은 이들이 나를 대적하여 일어나는지",
+      "word_indices": [
+        11,
+        199
+      ]
+    }
+  ]
+}

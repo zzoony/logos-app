@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 1:23",
+  "version": "NIV",
+  "original_text": "John replied in the words of Isaiah the prophet, “I am the voice of one calling in the wilderness, ‘Make straight the way for the Lord.’”",
+  "korean_text": "이르되 나는 선지자 이사야의 말과 같이 주의 길을 곧게 하라고 광야에서 외치는 자의 소리로라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John replied",
+      "korean_translation": "요한이 대답하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the words of Isaiah the prophet",
+      "korean_translation": "이사야 선지자의 말로",
+      "word_indices": [
+        19,
+        70
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am the voice",
+      "korean_translation": "나는 소리라",
+      "word_indices": [
+        241
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of one calling in the wilderness",
+      "korean_translation": "광야에서 외치는 자의",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Make straight the way for the Lord",
+      "korean_translation": "주의 길을 곧게 하라",
+      "word_indices": [
+        1077
+      ]
+    }
+  ]
+}

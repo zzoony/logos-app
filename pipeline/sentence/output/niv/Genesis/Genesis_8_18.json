@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 8:18",
+  "version": "NIV",
+  "original_text": "So Noah came out, together with his sons and his wife and his sons’ wives.",
+  "korean_text": "노아가 그 아들들과 그의 아내와 그 며느리들과 함께 나왔고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Noah came out",
+      "korean_translation": "그래서 노아는 나왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "together with his sons",
+      "korean_translation": "그의 아들들과 함께",
+      "word_indices": [
+        2,
+        98
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his wife",
+      "korean_translation": "그리고 그의 아내와 함께",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his sons' wives",
+      "korean_translation": "그리고 그의 아들들의 아내들과 함께",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

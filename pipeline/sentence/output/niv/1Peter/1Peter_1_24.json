@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Peter 1:24",
+  "version": "NIV",
+  "original_text": "For,\n“All people are like grass,\n    and all their glory is like the flowers of the field;\nthe grass withers and the flowers fall,",
+  "korean_text": "그러므로 모든 육체는 풀과 같고 그 모든 영광은 풀의 꽃과 같으니 풀은 마르고 꽃은 떨어지되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For,",
+      "korean_translation": "이는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "All people are like grass,",
+      "korean_translation": "모든 사람은 풀과 같고",
+      "word_indices": [
+        3,
+        7
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all their glory is like the flowers of the field;",
+      "korean_translation": "모든 그 영광은 들의 꽃과 같으니",
+      "word_indices": [
+        7,
+        156,
+        159,
+        1461
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the grass withers",
+      "korean_translation": "풀은 마르고",
+      "word_indices": [
+        870
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the flowers fall,",
+      "korean_translation": "꽃은 떨어지느니라",
+      "word_indices": [
+        113,
+        1461
+      ]
+    }
+  ]
+}

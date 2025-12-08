@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 36:15",
+  "version": "NIV",
+  "original_text": "All eleven curtains were the same size—thirty cubits long and four cubits wide.",
+  "korean_text": "각 폭의 길이는 서른 규빗, 너비는 네 규빗으로 열한 폭의 장단을 같게 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All eleven curtains were the same size",
+      "korean_translation": "모든 열한 개의 휘장은 같은 크기였습니다",
+      "word_indices": [
+        175,
+        549,
+        1496,
+        1903
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thirty cubits long",
+      "korean_translation": "길이는 서른 규빗이고",
+      "word_indices": [
+        71,
+        170,
+        403
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and four cubits wide",
+      "korean_translation": "너비는 네 규빗입니다",
+      "word_indices": [
+        170,
+        203,
+        512
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 51:5",
+  "version": "NIV",
+  "original_text": "Surely I was sinful at birth,\n    sinful from the time my mother conceived me.",
+  "korean_text": "내가 죄악 중에서 출생하였음이여 어머니가 죄 중에서 나를 잉태하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Surely I was sinful at birth",
+      "korean_translation": "내가 비로소 태어날 때에 죄악 중에 잉태하였나이다",
+      "word_indices": [
+        150,
+        387,
+        1294
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sinful from the time my mother conceived me",
+      "korean_translation": "어머니가 나를 잉태할 때에도 죄악 중에 있었나이다",
+      "word_indices": [
+        120,
+        1294
+      ]
+    }
+  ]
+}

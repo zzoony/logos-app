@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Deuteronomy 33:22",
+  "version": "NIV",
+  "original_text": "About Dan he said:\n“Dan is a lion’s cub,\n    springing out of Bashan.”",
+  "korean_text": "단에 대하여는 일렀으되 단은 바산에서 뛰어나오는 사자의 새끼로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "About Dan he said",
+      "korean_translation": "그는 단에 대하여 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Dan is a lion's cub",
+      "korean_translation": "단은 사자의 새끼라",
+      "word_indices": [
+        399,
+        2042
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "springing out of Bashan",
+      "korean_translation": "바산에서 뛰쳐나오는구나",
+      "word_indices": [
+        479
+      ]
+    }
+  ]
+}

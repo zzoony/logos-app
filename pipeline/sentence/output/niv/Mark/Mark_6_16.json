@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Mark 6:16",
+  "version": "NIV",
+  "original_text": "But when Herod heard this, he said, “John, whom I beheaded, has been raised from the dead!”",
+  "korean_text": "헤롯은 듣고 이르되 내가 목 벤 요한 그가 살아났다 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when Herod heard this",
+      "korean_translation": "그러나 헤롯이 이 말을 듣고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "John, whom I beheaded",
+      "korean_translation": "내가 목 베어버린 요한이",
+      "word_indices": [
+        3339
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "has been raised from the dead",
+      "korean_translation": "죽은 자 가운데서 살아났다",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

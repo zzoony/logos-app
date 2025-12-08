@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 9:34",
+  "version": "NIV",
+  "original_text": "While he was speaking, a cloud appeared and covered them, and they were afraid as they entered the cloud.",
+  "korean_text": "이 말 할 즈음에 구름이 와서 그들을 덮는지라 구름 속으로 들어갈 때에 그들이 무서워하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While he was speaking",
+      "korean_translation": "그가 말하는 동안",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a cloud appeared",
+      "korean_translation": "구름이 나타났습니다",
+      "word_indices": [
+        293,
+        331
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and covered them",
+      "korean_translation": "그리고 그들을 덮었습니다",
+      "word_indices": [
+        200
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they were afraid",
+      "korean_translation": "그리고 그들은 두려워했습니다",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as they entered the cloud",
+      "korean_translation": "그들이 구름에 들어가면서",
+      "word_indices": [
+        135,
+        331
+      ]
+    }
+  ]
+}

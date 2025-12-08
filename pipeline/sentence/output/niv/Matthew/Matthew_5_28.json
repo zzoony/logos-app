@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 5:28",
+  "version": "NIV",
+  "original_text": "But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.",
+  "korean_text": "나는 너희에게 이르노니 음욕을 품고 여자를 보는 자마다 마음에 이미 간음하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I tell you",
+      "korean_translation": "그러나 내가 너희에게 이르노니",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that anyone who looks at a woman lustfully",
+      "korean_translation": "음란한 마음으로 여자를 보는 자는",
+      "word_indices": [
+        50,
+        51,
+        68,
+        4489
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "has already committed adultery with her",
+      "korean_translation": "이미 그녀와 간음하였느니라",
+      "word_indices": [
+        861
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in his heart",
+      "korean_translation": "마음으로",
+      "word_indices": [
+        36
+      ]
+    }
+  ]
+}

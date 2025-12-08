@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 50:18",
+  "version": "NIV",
+  "original_text": "When you see a thief, you join with him;\n    you throw in your lot with adulterers.",
+  "korean_text": "도둑을 본즉 그와 연합하고 간음하는 자들과 동료가 되며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you see a thief",
+      "korean_translation": "네가 도둑을 볼 때에",
+      "word_indices": [
+        1123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you join with him",
+      "korean_translation": "너는 그와 동행하며",
+      "word_indices": [
+        648
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you throw in your lot with adulterers",
+      "korean_translation": "간통하는 자들과 함께 하느니라",
+      "word_indices": [
+        221,
+        456,
+        2234
+      ]
+    }
+  ]
+}

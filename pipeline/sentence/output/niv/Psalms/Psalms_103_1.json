@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 103:1",
+  "version": "NIV",
+  "original_text": "Praise the Lord, my soul;\n    all my inmost being, praise his holy name.",
+  "korean_text": "내 영혼아 여호와를 송축하라 내 속에 있는 것들아 다 그의 거룩한 이름을 송축하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise the Lord, my soul",
+      "korean_translation": "여호와를 찬양하라, 나의 영혼아",
+      "word_indices": [
+        88,
+        558
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all my inmost being",
+      "korean_translation": "나의 모든 속 사람이여",
+      "word_indices": [
+        2514
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "praise his holy name",
+      "korean_translation": "그의 거룩한 이름을 찬양하라",
+      "word_indices": [
+        17,
+        59,
+        88
+      ]
+    }
+  ]
+}

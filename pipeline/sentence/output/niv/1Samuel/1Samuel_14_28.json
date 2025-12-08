@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Samuel 14:28",
+  "version": "NIV",
+  "original_text": "Then one of the soldiers told him, “Your father bound the army under a strict oath, saying, ‘Cursed be anyone who eats food today!’ That is why the men are faint.”",
+  "korean_text": "그 때에 백성 중 한 사람이 말하여 이르되 당신의 부친이 백성에게 맹세하여 엄히 말씀하시기를 오늘 음식물을 먹는 사람은 저주를 받을지어다 하셨나이다 그러므로 백성이 피곤하였나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then one of the soldiers told him",
+      "korean_translation": "그때 군사 중 한 사람이 그에게 말했다",
+      "word_indices": [
+        582
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your father bound the army under a strict oath",
+      "korean_translation": "당신의 아버지가 군대를 엄한 맹세로 묶었습니다",
+      "word_indices": [
+        12,
+        168,
+        391,
+        3218,
+        4036
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying",
+      "korean_translation": "말하면서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Cursed be anyone who eats food today",
+      "korean_translation": "오늘 음식을 먹는 자는 저주를 받으리라",
+      "word_indices": [
+        33,
+        68,
+        103,
+        242
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is why the men are faint",
+      "korean_translation": "그것이 사람들이 기진하는 이유입니다",
+      "word_indices": [
+        1199
+      ]
+    }
+  ]
+}

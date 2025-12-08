@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Isaiah 56:12",
+  "version": "NIV",
+  "original_text": "“Come,” each one cries, “let me get wine!\n    Let us drink our fill of beer!\nAnd tomorrow will be like today,\n    or even far better.”",
+  "korean_text": "오라 내가 포도주를 가져오리라 우리가 독주를 잔뜩 마시자 내일도 오늘 같이 크게 넘치리라 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"Come,\" each one cries",
+      "korean_translation": "\"오라,\" 각자가 외칩니다",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"let me get wine!\"",
+      "korean_translation": "\"나에게 포도주를 가져오게 하라!\"",
+      "word_indices": [
+        215
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "\"Let us drink our fill of beer!\"",
+      "korean_translation": "\"우리가 맥주를 만족스럽게 마시자!\"",
+      "word_indices": [
+        78,
+        188
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "\"And tomorrow will be like today",
+      "korean_translation": "\"그리고 내일은 오늘과 같을 것이며",
+      "word_indices": [
+        7,
+        242,
+        820
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "\"or even far better.\"",
+      "korean_translation": "\"또는 훨씬 더 좋을 것이다.\"",
+      "word_indices": [
+        202,
+        411
+      ]
+    }
+  ]
+}

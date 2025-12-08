@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Exodus 12:9",
+  "version": "NIV",
+  "original_text": "Do not eat the meat raw or boiled in water, but roast it over a fire—with the head, legs and internal organs.",
+  "korean_text": "날것으로나 물에 삶아서 먹지 말고 머리와 다리와 내장을 다 불에 구워 먹고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not eat the meat raw",
+      "korean_translation": "고기를 날것으로 먹지 말라",
+      "word_indices": [
+        33,
+        574,
+        2425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or boiled in water",
+      "korean_translation": "또는 물에 삶은 것도 먹지 말라",
+      "word_indices": [
+        46,
+        1497
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but roast it over a fire",
+      "korean_translation": "대신 불에 구워라",
+      "word_indices": [
+        101,
+        1901
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with the head",
+      "korean_translation": "머리와 함께",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "legs",
+      "korean_translation": "다리",
+      "word_indices": [
+        1237
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and internal organs",
+      "korean_translation": "그리고 내장을 함께 구워라",
+      "word_indices": [
+        1781,
+        1782
+      ]
+    }
+  ]
+}

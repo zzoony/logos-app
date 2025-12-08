@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Deuteronomy 1:2",
+  "version": "NIV",
+  "original_text": "(It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road.)",
+  "korean_text": "호렙 산에서 세일 산을 지나 가데스 바네아까지 열 하룻길이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It takes eleven days",
+      "korean_translation": "11일이 걸립니다",
+      "word_indices": [
+        1496
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to go from Horeb to Kadesh Barnea",
+      "korean_translation": "호렙에서 가데스 바네아까지 가는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the Mount Seir road",
+      "korean_translation": "세일 산 길을 따라",
+      "word_indices": [
+        308,
+        484
+      ]
+    }
+  ]
+}

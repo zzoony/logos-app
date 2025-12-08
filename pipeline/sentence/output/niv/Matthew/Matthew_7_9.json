@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 7:9",
+  "version": "NIV",
+  "original_text": "“Which of you, if your son asks for bread, will give him a stone?",
+  "korean_text": "너희 중에 누가 아들이 떡을 달라 하는데 돌을 주며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Which of you",
+      "korean_translation": "너희 중에 누가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if your son asks for bread",
+      "korean_translation": "네 아들이 빵을 구하면",
+      "word_indices": [
+        2,
+        31,
+        187
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will give him a stone?",
+      "korean_translation": "돌을 주겠느냐?",
+      "word_indices": [
+        5,
+        125
+      ]
+    }
+  ]
+}

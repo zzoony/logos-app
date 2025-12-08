@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 10:32",
+  "version": "NIV",
+  "original_text": "but Jesus said to them, “I have shown you many good works from the Father. For which of these do you stone me?”",
+  "korean_text": "예수께서 대답하시되 내가 아버지로 말미암아 여러 가지 선한 일로 너희에게 보였거늘 그 중에 어떤 일로 나를 돌로 치려 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but Jesus said to them",
+      "korean_translation": "그러나 예수께서 그들에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have shown you many good works",
+      "korean_translation": "내가 아버지께서 행하신 많은 선한 일을 너희에게 보였노라",
+      "word_indices": [
+        56,
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the Father",
+      "korean_translation": "아버지에게서 온",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "For which of these do you stone me?",
+      "korean_translation": "너희가 이 중 어느 것 때문에 나를 돌로 치려 하느냐",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Numbers 1:4",
+  "version": "NIV",
+  "original_text": "One man from each tribe, each of them the head of his family, is to help you.",
+  "korean_text": "각 지파의 각 조상의 가문의 우두머리 한 사람씩을 너희와 함께 하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One man from each tribe",
+      "korean_translation": "각 지파에서 한 명씩",
+      "word_indices": [
+        10,
+        116
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "each of them the head of his family",
+      "korean_translation": "각각 가족의 우두머리인 사람들",
+      "word_indices": [
+        67,
+        145
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is to help you",
+      "korean_translation": "너를 도와야 한다",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

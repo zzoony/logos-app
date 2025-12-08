@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 16:1",
+  "version": "NIV",
+  "original_text": "Keep me safe, my God,\n    for in you I take refuge.",
+  "korean_text": "하나님이여 나를 지켜 주소서 내가 주께 피하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Keep me safe",
+      "korean_translation": "나를 안전하게 지켜주세요",
+      "word_indices": [
+        60,
+        1245
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my God",
+      "korean_translation": "나의 하나님",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for in you I take refuge",
+      "korean_translation": "왜냐하면 나는 당신 안에 피난처를 두기 때문입니다",
+      "word_indices": [
+        566
+      ]
+    }
+  ]
+}

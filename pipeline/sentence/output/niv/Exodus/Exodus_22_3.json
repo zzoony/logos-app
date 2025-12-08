@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Exodus 22:3",
+  "version": "NIV",
+  "original_text": "but if it happens after sunrise, the defender is guilty of bloodshed.\n“Anyone who steals must certainly make restitution, but if they have nothing, they must be sold to pay for their theft.",
+  "korean_text": "해 돋은 후에는 피 흘린 죄가 있으리라 도둑은 반드시 배상할 것이나 배상할 것이 없으면 그 몸을 팔아 그 도둑질한 것을 배상할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but if it happens after sunrise",
+      "korean_translation": "하지만 그것이 해 뜬 후에 일어난다면",
+      "word_indices": [
+        275,
+        2049
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the defender is guilty of bloodshed",
+      "korean_translation": "방어자는 살해의 죄가 있습니다",
+      "word_indices": [
+        642,
+        2573
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Anyone who steals must certainly make restitution",
+      "korean_translation": "도둑질하는 자는 반드시 배상해야 합니다",
+      "word_indices": [
+        68,
+        836,
+        1974
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but if they have nothing",
+      "korean_translation": "하지만 그들이 아무것도 없으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they must be sold to pay for their theft",
+      "korean_translation": "그들은 도둑질에 대한 대가를 치르기 위해 팔려야 합니다",
+      "word_indices": [
+        248,
+        3407
+      ]
+    }
+  ]
+}

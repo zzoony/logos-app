@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 19:39",
+  "version": "NIV",
+  "original_text": "Some of the Pharisees in the crowd said to Jesus, “Teacher, rebuke your disciples!”",
+  "korean_text": "무리 중 어떤 바리새인들이 말하되 선생이여 당신의 제자들을 책망하소서 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some of the Pharisees in the crowd",
+      "korean_translation": "무리 중의 어떤 바리새인들이",
+      "word_indices": [
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "said to Jesus",
+      "korean_translation": "예수께 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Teacher, rebuke your disciples!",
+      "korean_translation": "선생이여, 당신의 제자들을 책망하소서!",
+      "word_indices": [
+        357,
+        541
+      ]
+    }
+  ]
+}

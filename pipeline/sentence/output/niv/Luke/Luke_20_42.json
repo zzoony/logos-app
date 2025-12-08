@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 20:42",
+  "version": "NIV",
+  "original_text": "David himself declares in the Book of Psalms:\n“‘The Lord said to my Lord:\n    “Sit at my right hand",
+  "korean_text": "시편에 다윗이 친히 말하였으되  주께서 내 주께 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David himself declares in the Book of Psalms",
+      "korean_translation": "다윗 자신이 시편에서 말합니다",
+      "word_indices": [
+        426,
+        2861
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Lord said to my Lord",
+      "korean_translation": "주께서 내 주께 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Sit at my right hand",
+      "korean_translation": "내 오른편에 앉으십시오",
+      "word_indices": [
+        9,
+        74,
+        151
+      ]
+    }
+  ]
+}

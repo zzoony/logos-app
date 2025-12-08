@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 118:26",
+  "version": "NIV",
+  "original_text": "Blessed is he who comes in the name of the Lord.\n    From the house of the Lord we bless you.",
+  "korean_text": "여호와의 이름으로 오는 자가 복이 있음이여 우리가 여호와의 집에서 너희를 축복하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is he",
+      "korean_translation": "복 있는 사람은",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who comes in the name of the Lord",
+      "korean_translation": "주의 이름으로 오는 자",
+      "word_indices": [
+        17
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "From the house of the Lord",
+      "korean_translation": "주의 집에서부터",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we bless you",
+      "korean_translation": "우리가 너를 축복하노라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Ezra 6:15",
+  "version": "NIV",
+  "original_text": "The temple was completed on the third day of the month Adar, in the sixth year of the reign of King Darius.",
+  "korean_text": "다리오 왕 제육년 아달월 삼일에 성전 일을 끝내니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The temple was completed",
+      "korean_translation": "성전이 완성되었습니다",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the third day of the month Adar",
+      "korean_translation": "아달 월 3일에",
+      "word_indices": [
+        189,
+        280
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the sixth year of the reign of King Darius",
+      "korean_translation": "다리오 왕 통치 6년째에",
+      "word_indices": [
+        4,
+        180,
+        1062
+      ]
+    }
+  ]
+}

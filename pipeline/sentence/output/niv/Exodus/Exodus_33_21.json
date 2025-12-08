@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Exodus 33:21",
+  "version": "NIV",
+  "original_text": "Then the Lord said, “There is a place near me where you may stand on a rock.",
+  "korean_text": "여호와께서 또 이르시기를 보라 내 곁에 한 장소가 있으니 너는 그 반석 위에 서라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said",
+      "korean_translation": "그때 주께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There is a place near me",
+      "korean_translation": "내게 가까운 곳에 장소가 있다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where you may stand on a rock",
+      "korean_translation": "그곳에서 너는 바위 위에 설 수 있을 것이다",
+      "word_indices": [
+        45,
+        369
+      ]
+    }
+  ]
+}

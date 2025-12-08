@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 18:27",
+  "version": "NIV",
+  "original_text": "Again Peter denied it, and at that moment a rooster began to crow.",
+  "korean_text": "이에 베드로가 또 부인하니 곧 닭이 울더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Again Peter denied it",
+      "korean_translation": "베드로가 또다시 부인했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and at that moment",
+      "korean_translation": "그리고 그 순간에",
+      "word_indices": [
+        1152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a rooster began to crow",
+      "korean_translation": "수탉이 울기 시작했다",
+      "word_indices": [
+        2018,
+        2189
+      ]
+    }
+  ]
+}

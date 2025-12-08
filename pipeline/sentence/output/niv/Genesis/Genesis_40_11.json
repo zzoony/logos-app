@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 40:11",
+  "version": "NIV",
+  "original_text": "Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into Pharaoh’s cup and put the cup in his hand.”",
+  "korean_text": "내 손에 바로의 잔이 있기로 내가 포도를 따서 그 즙을 바로의 잔에 짜서 그 잔을 바로의 손에 드렸노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pharaoh's cup was in my hand",
+      "korean_translation": "바로의 잔이 내 손에 있었다",
+      "word_indices": [
+        9,
+        690
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I took the grapes",
+      "korean_translation": "그리고 나는 포도를 따서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "squeezed them into Pharaoh's cup",
+      "korean_translation": "그것들을 바로의 잔에 짰다",
+      "word_indices": [
+        690
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and put the cup in his hand",
+      "korean_translation": "그리고 잔을 그의 손에 놓았다",
+      "word_indices": [
+        9,
+        690
+      ]
+    }
+  ]
+}

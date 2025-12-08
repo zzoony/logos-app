@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Kings 6:18",
+  "version": "NIV",
+  "original_text": "The inside of the temple was cedar, carved with gourds and open flowers. Everything was cedar; no stone was to be seen.",
+  "korean_text": "성전 안에 입힌 백향목에는 박과 핀 꽃을 아로새겼고 모두 백향목이라 돌이 보이지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The inside of the temple was cedar",
+      "korean_translation": "성전 안은 백향목이었고",
+      "word_indices": [
+        43,
+        646,
+        667
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "carved with gourds and open flowers",
+      "korean_translation": "박과 꽃으로 조각되어 있었고",
+      "word_indices": [
+        160,
+        1461,
+        3525
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Everything was cedar",
+      "korean_translation": "모든 것이 백향목이었고",
+      "word_indices": [
+        667
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "no stone was to be seen",
+      "korean_translation": "돌은 보이지 않았다",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

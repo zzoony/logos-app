@@ -1,0 +1,54 @@
+{
+  "verse_reference": "1 Samuel 14:43",
+  "version": "NIV",
+  "original_text": "Then Saul said to Jonathan, “Tell me what you have done.”\nSo Jonathan told him, “I tasted a little honey with the end of my staff. And now I must die!”",
+  "korean_text": "사울이 요나단에게 이르되 네가 행한 것을 내게 말하라 요나단이 말하여 이르되 내가 다만 내 손에 가진 지팡이 끝으로 꿀을 조금 맛보았을 뿐이오나 내가 죽을 수밖에 없나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Saul said to Jonathan",
+      "korean_translation": "그때 사울이 요나단에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tell me what you have done",
+      "korean_translation": "네가 무엇을 했는지 말해다오",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So Jonathan told him",
+      "korean_translation": "그래서 요나단이 그에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I tasted a little honey",
+      "korean_translation": "저는 약간의 꿀을 맛보았습니다",
+      "word_indices": [
+        312,
+        785
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with the end of my staff",
+      "korean_translation": "내 지팡이 끝으로",
+      "word_indices": [
+        112,
+        677
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And now I must die",
+      "korean_translation": "그리고 이제 저는 죽어야 합니다",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Amos 3:2",
+  "version": "NIV",
+  "original_text": "“You only have I chosen\n    of all the families of the earth;\ntherefore I will punish you\n    for all your sins.”",
+  "korean_text": "내가 땅의 모든 족속 가운데 너희만을 알았나니 그러므로 내가 너희 모든 죄악을 너희에게 보응하리라 하셨나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You only have I chosen",
+      "korean_translation": "오직 너희만 내가 택하였느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of all the families of the earth",
+      "korean_translation": "땅의 모든 족속 중에서",
+      "word_indices": [
+        40,
+        145
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "therefore I will punish you",
+      "korean_translation": "그러므로 내가 너희를 벌하리라",
+      "word_indices": [
+        83,
+        481
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for all your sins",
+      "korean_translation": "너희의 모든 죄악을 인하여",
+      "word_indices": [
+        24
+      ]
+    }
+  ]
+}

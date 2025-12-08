@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 22:7",
+  "version": "NIV",
+  "original_text": "“If anyone gives a neighbor silver or goods for safekeeping and they are stolen from the neighbor’s house, the thief, if caught, must pay back double.",
+  "korean_text": "사람이 돈이나 물품을 이웃에게 맡겨 지키게 하였다가 그 이웃 집에서 도둑을 맞았는데 그 도둑이 잡히면 갑절을 배상할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If anyone gives a neighbor silver or goods for safekeeping",
+      "korean_translation": "만약 누군가 이웃에게 은이나 물건을 맡기려면",
+      "word_indices": [
+        5,
+        56,
+        68,
+        124,
+        356
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they are stolen from the neighbor's house",
+      "korean_translation": "그리고 그것들이 이웃의 집에서 도난당하면",
+      "word_indices": [
+        26,
+        356
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the thief, if caught",
+      "korean_translation": "그 도둑은, 만약 잡히면",
+      "word_indices": [
+        1123
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "must pay back double",
+      "korean_translation": "배상으로 두 배를 물어주어야 한다",
+      "word_indices": [
+        52,
+        248,
+        1169
+      ]
+    }
+  ]
+}

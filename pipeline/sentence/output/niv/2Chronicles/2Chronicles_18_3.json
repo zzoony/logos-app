@@ -1,0 +1,54 @@
+{
+  "verse_reference": "2 Chronicles 18:3",
+  "version": "NIV",
+  "original_text": "Ahab king of Israel asked Jehoshaphat king of Judah, “Will you go with me against Ramoth Gilead?”\nJehoshaphat replied, “I am as you are, and my people as your people; we will join you in the war.”",
+  "korean_text": "이스라엘 왕 아합이 유다 왕 여호사밧에게 이르되 당신이 나와 함께 길르앗 라못으로 가시겠느냐 하니 여호사밧이 대답하되 나는 당신과 다름이 없고 내 백성은 당신의 백성과 다름이 없으니 당신과 함께 싸우리이다 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ahab king of Israel asked Jehoshaphat king of Judah",
+      "korean_translation": "이스라엘 왕 아합이 유다 왕 여호사밧에게 물었습니다",
+      "word_indices": [
+        4,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Will you go with me against Ramoth Gilead?",
+      "korean_translation": "나와 함께 길르앗 라못으로 가시겠습니까?",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jehoshaphat replied",
+      "korean_translation": "여호사밧이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am as you are",
+      "korean_translation": "나는 당신과 같습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and my people as your people",
+      "korean_translation": "나의 백성도 당신의 백성과 같습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "we will join you in the war",
+      "korean_translation": "우리는 당신과 함께 전쟁에 참여할 것입니다",
+      "word_indices": [
+        367,
+        648
+      ]
+    }
+  ]
+}

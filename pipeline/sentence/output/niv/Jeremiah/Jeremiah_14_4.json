@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Jeremiah 14:4",
+  "version": "NIV",
+  "original_text": "The ground is cracked\n    because there is no rain in the land;\nthe farmers are dismayed\n    and cover their heads.",
+  "korean_text": "땅에 비가 없어 지면이 갈라지니 밭 가는 자가 부끄러워서 그의 머리를 가리는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The ground is cracked",
+      "korean_translation": "땅이 갈라져 있고",
+      "word_indices": [
+        2797,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because there is no rain in the land",
+      "korean_translation": "그 땅에 비가 없기 때문이며",
+      "word_indices": [
+        8,
+        506
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the farmers are dismayed",
+      "korean_translation": "농부들은 낙담하고",
+      "word_indices": [
+        1633,
+        1821
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and cover their heads",
+      "korean_translation": "머리를 가린다",
+      "word_indices": [
+        67,
+        200
+      ]
+    }
+  ]
+}

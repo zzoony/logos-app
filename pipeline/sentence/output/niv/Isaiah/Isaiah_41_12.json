@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Isaiah 41:12",
+  "version": "NIV",
+  "original_text": "Though you search for your enemies,\n    you will not find them.\nThose who wage war against you\n    will be as nothing at all.",
+  "korean_text": "네가 찾아도 너와 싸우던 자들을 만나지 못할 것이요 너를 치는 자들은 아무것도 아닌 것 같고 허무한 것 같이 되리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though you search for your enemies",
+      "korean_translation": "네가 네 원수들을 찾을지라도",
+      "word_indices": [
+        100,
+        127,
+        609
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you will not find them",
+      "korean_translation": "너는 그들을 찾지 못할 것이다",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Those who wage war against you",
+      "korean_translation": "너를 치는 자들은",
+      "word_indices": [
+        11,
+        367,
+        845
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will be as nothing at all",
+      "korean_translation": "아무것도 되지 않을 것이다",
+      "word_indices": []
+    }
+  ]
+}

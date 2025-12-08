@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 20:9",
+  "version": "NIV",
+  "original_text": "Lord, give victory to the king!\n    Answer us when we call!",
+  "korean_text": "여호와여 왕을 구원하소서 우리가 부를 때에 우리에게 응답하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord, give victory to the king!",
+      "korean_translation": "주여, 왕에게 승리를 주소서!",
+      "word_indices": [
+        4,
+        5,
+        953
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Answer us",
+      "korean_translation": "우리에게 응답하소서",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when we call!",
+      "korean_translation": "우리가 부를 때에!",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

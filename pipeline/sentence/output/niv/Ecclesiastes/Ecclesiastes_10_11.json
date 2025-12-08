@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ecclesiastes 10:11",
+  "version": "NIV",
+  "original_text": "If a snake bites before it is charmed,\n    the charmer receives no fee.",
+  "korean_text": "주술을 베풀기 전에 뱀에게 물렸으면 술객은 소용이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a snake bites",
+      "korean_translation": "만약 뱀이 물면",
+      "word_indices": [
+        1147,
+        4722
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before it is charmed",
+      "korean_translation": "그것이 매료되기 전에",
+      "word_indices": [
+        2518
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the charmer receives no fee",
+      "korean_translation": "뱀술사는 수수료를 받지 못한다",
+      "word_indices": [
+        4525
+      ]
+    }
+  ]
+}

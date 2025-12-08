@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Leviticus 8:33",
+  "version": "NIV",
+  "original_text": "Do not leave the entrance to the tent of meeting for seven days, until the days of your ordination are completed, for your ordination will last seven days.",
+  "korean_text": "위임식은 이레 동안 행하나니 위임식이 끝나는 날까지 이레 동안은 회막 문에 나가지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not leave the entrance to the tent of meeting",
+      "korean_translation": "회막의 입구를 떠나지 말라",
+      "word_indices": [
+        30,
+        110,
+        119,
+        361
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for seven days",
+      "korean_translation": "이레 동안",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until the days of your ordination are completed",
+      "korean_translation": "네가 위임받은 날들이 차기까지",
+      "word_indices": [
+        2057
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for your ordination will last seven days",
+      "korean_translation": "네 위임은 이레 동안 계속될 것이기 때문이다",
+      "word_indices": [
+        96,
+        344,
+        2057
+      ]
+    }
+  ]
+}

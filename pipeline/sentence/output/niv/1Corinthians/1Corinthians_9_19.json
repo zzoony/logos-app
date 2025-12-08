@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Corinthians 9:19",
+  "version": "NIV",
+  "original_text": "Though I am free and belong to no one, I have made myself a slave to everyone, to win as many as possible.",
+  "korean_text": "내가 모든 사람에게서 자유로우나 스스로 모든 사람에게 종이 된 것은 더 많은 사람을 얻고자 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though I am free",
+      "korean_translation": "비록 나는 자유하지만",
+      "word_indices": [
+        127,
+        421
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and belong to no one",
+      "korean_translation": "아무에게도 속하지 않지만",
+      "word_indices": [
+        218
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have made myself a slave to everyone",
+      "korean_translation": "나는 모든 사람에게 종이 되었노라",
+      "word_indices": [
+        186,
+        287
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to win as many as possible",
+      "korean_translation": "가능한 많은 사람을 얻기 위하여",
+      "word_indices": [
+        1303,
+        1689
+      ]
+    }
+  ]
+}

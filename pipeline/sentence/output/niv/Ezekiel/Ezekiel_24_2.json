@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Ezekiel 24:2",
+  "version": "NIV",
+  "original_text": "“Son of man, record this date, this very date, because the king of Babylon has laid siege to Jerusalem this very day.",
+  "korean_text": "인자야 너는 날짜 곧 오늘의 이름을 기록하라 바벨론 왕이 오늘 예루살렘에 가까이 왔느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Son of man, record this date",
+      "korean_translation": "인자여, 이 날을 기록하라",
+      "word_indices": [
+        2,
+        10,
+        711,
+        2811
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this very date",
+      "korean_translation": "바로 이 날을",
+      "word_indices": [
+        2811
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because the king of Babylon",
+      "korean_translation": "바빌론 왕이",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "has laid siege to Jerusalem",
+      "korean_translation": "예루살렘을 포위했기 때문이다",
+      "word_indices": [
+        903
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "this very day",
+      "korean_translation": "바로 오늘",
+      "word_indices": []
+    }
+  ]
+}

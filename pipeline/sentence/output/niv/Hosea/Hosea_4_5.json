@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Hosea 4:5",
+  "version": "NIV",
+  "original_text": "You stumble day and night,\n    and the prophets stumble with you.\nSo I will destroy your mother—",
+  "korean_text": "너는 낮에 넘어지겠고 너와 함께 있는 선지자는 밤에 넘어지리라 내가 네 어머니를 멸하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You stumble day and night",
+      "korean_translation": "너희가 밤낮으로 넘어지고",
+      "word_indices": [
+        126,
+        591
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the prophets stumble with you",
+      "korean_translation": "선지자들도 너와 함께 넘어지느니라",
+      "word_indices": [
+        70,
+        591
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So I will destroy your mother",
+      "korean_translation": "그러므로 내가 너희 어미를 멸하리라",
+      "word_indices": [
+        69,
+        120
+      ]
+    }
+  ]
+}

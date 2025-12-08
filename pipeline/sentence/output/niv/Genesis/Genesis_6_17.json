@@ -1,0 +1,71 @@
+{
+  "verse_reference": "Genesis 6:17",
+  "version": "NIV",
+  "original_text": "I am going to bring floodwaters on the earth to destroy all life under the heavens, every creature that has the breath of life in it. Everything on earth will perish.",
+  "korean_text": "내가 홍수를 땅에 일으켜 무릇 생명의 기운이 있는 모든 육체를 천하에서 멸절하리니 땅에 있는 것들이 다 죽으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am going to bring floodwaters",
+      "korean_translation": "나는 홍수물을 가져오려고 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the earth",
+      "korean_translation": "땅 위로",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to destroy all life",
+      "korean_translation": "모든 생명을 멸하기 위해",
+      "word_indices": [
+        37,
+        69
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "under the heavens",
+      "korean_translation": "하늘 아래에 있는",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "every creature that has the breath of life",
+      "korean_translation": "생명의 숨결을 가진 모든 생물",
+      "word_indices": [
+        37,
+        463,
+        792
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in it",
+      "korean_translation": "그 안에 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Everything on earth",
+      "korean_translation": "땅 위에 있는 모든 것은",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "will perish",
+      "korean_translation": "멸망할 것이다",
+      "word_indices": [
+        458
+      ]
+    }
+  ]
+}

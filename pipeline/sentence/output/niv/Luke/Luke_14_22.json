@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 14:22",
+  "version": "NIV",
+  "original_text": "“‘Sir,’ the servant said, ‘what you ordered has been done, but there is still room.’",
+  "korean_text": "종이 이르되 주인이여 명하신 대로 하였으되 아직도 자리가 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "'Sir,' the servant said",
+      "korean_translation": "'주인님이라,' 하며 종이 말하였고",
+      "word_indices": [
+        25,
+        1490
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'what you ordered has been done'",
+      "korean_translation": "'분부하신 것은 이루어졌습니다'",
+      "word_indices": [
+        163
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'but there is still room.'",
+      "korean_translation": "'그러나 아직 자리가 남아 있습니다.'",
+      "word_indices": [
+        409
+      ]
+    }
+  ]
+}

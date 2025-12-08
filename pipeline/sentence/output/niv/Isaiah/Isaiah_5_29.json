@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Isaiah 5:29",
+  "version": "NIV",
+  "original_text": "Their roar is like that of the lion,\n    they roar like young lions;\nthey growl as they seize their prey\n    and carry it off with no one to rescue.",
+  "korean_text": "그들의 부르짖음은 암사자 같을 것이요 그들의 소리지름은 어린 사자들과 같을 것이라 그들이 부르짖으며 먹이를 움켜 가져가 버려도 건질 자가 없으리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Their roar is like that of the lion",
+      "korean_translation": "그들의 포효는 사자의 포효와 같으며",
+      "word_indices": [
+        7,
+        399,
+        799
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they roar like young lions",
+      "korean_translation": "그들은 어린 사자처럼 포효하며",
+      "word_indices": [
+        7,
+        130,
+        399,
+        799
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they growl as they seize their prey",
+      "korean_translation": "그들은 먹이를 움켜쥘 때 으르렁거리고",
+      "word_indices": [
+        576,
+        1247,
+        2656
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and carry it off with no one to rescue",
+      "korean_translation": "구해 줄 사람 없이 그것을 물어간다",
+      "word_indices": [
+        129,
+        398
+      ]
+    }
+  ]
+}

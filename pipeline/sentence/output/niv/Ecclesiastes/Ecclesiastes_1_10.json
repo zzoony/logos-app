@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Ecclesiastes 1:10",
+  "version": "NIV",
+  "original_text": "Is there anything of which one can say,\n    “Look! This is something new”?\nIt was here already, long ago;\n    it was here before our time.",
+  "korean_text": "무엇을 가리켜 이르기를 보라 이것이 새 것이라 할 것이 있으랴 우리가 있기 오래 전 세대들에도 이미 있었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is there anything of which one can say,",
+      "korean_translation": "사람이 말할 수 있는 것이 무엇이 있겠는가,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look! This is something new",
+      "korean_translation": "보라! 이것은 새로운 것이다",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was here already, long ago;",
+      "korean_translation": "그것은 이미 오래 전에 있었다;",
+      "word_indices": [
+        71,
+        887
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it was here before our time.",
+      "korean_translation": "그것은 우리 시대 이전에 있었다.",
+      "word_indices": []
+    }
+  ]
+}

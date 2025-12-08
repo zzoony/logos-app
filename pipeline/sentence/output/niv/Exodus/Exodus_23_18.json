@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 23:18",
+  "version": "NIV",
+  "original_text": "“Do not offer the blood of a sacrifice to me along with anything containing yeast.\n“The fat of my festival offerings must not be kept until morning.",
+  "korean_text": "너는 네 제물의 피를 유교병과 함께 드리지 말며 내 절기 제물의 기름을 아침까지 남겨두지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not offer the blood of a sacrifice to me",
+      "korean_translation": "나에게 희생 제물의 피를 드리지 말라",
+      "word_indices": [
+        21,
+        94,
+        102
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "along with anything containing yeast",
+      "korean_translation": "누룩이 든 것과 함께",
+      "word_indices": [
+        825,
+        1720
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The fat of my festival offerings",
+      "korean_translation": "나의 절기 제물의 기름은",
+      "word_indices": [
+        106,
+        425,
+        579
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "must not be kept until morning",
+      "korean_translation": "아침까지 두어서는 안 된다",
+      "word_indices": []
+    }
+  ]
+}

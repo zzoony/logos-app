@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Isaiah 45:4",
+  "version": "NIV",
+  "original_text": "For the sake of Jacob my servant,\n    of Israel my chosen,\nI summon you by name\n    and bestow on you a title of honor,\n    though you do not acknowledge me.",
+  "korean_text": "내가 나의 종 야곱, 내가 택한 자 이스라엘 곧 너를 위하여 네 이름을 불러 너는 나를 알지 못하였을지라도 네게 칭호를 주었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the sake of Jacob my servant",
+      "korean_translation": "나의 종 야곱을 위하여",
+      "word_indices": [
+        25,
+        492
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of Israel my chosen",
+      "korean_translation": "나의 택한 이스라엘을 위하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I summon you by name",
+      "korean_translation": "내가 너를 이름으로 부르며",
+      "word_indices": [
+        17,
+        539
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and bestow on you a title of honor",
+      "korean_translation": "너에게 존귀한 칭호를 주며",
+      "word_indices": [
+        244,
+        2175,
+        5700
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "though you do not acknowledge me",
+      "korean_translation": "네가 나를 알지 못하여도",
+      "word_indices": [
+        127,
+        842
+      ]
+    }
+  ]
+}

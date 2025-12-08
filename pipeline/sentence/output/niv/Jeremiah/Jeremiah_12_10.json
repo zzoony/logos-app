@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Jeremiah 12:10",
+  "version": "NIV",
+  "original_text": "Many shepherds will ruin my vineyard\n    and trample down my field;\nthey will turn my pleasant field\n    into a desolate wasteland.",
+  "korean_text": "많은 목자가 내 포도원을 헐며 내 몫을 짓밟아서 내가 기뻐하는 땅을 황무지로 만들었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many shepherds will ruin my vineyard",
+      "korean_translation": "많은 목자들이 나의 포도원을 망칠 것이다",
+      "word_indices": [
+        284,
+        437,
+        441
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and trample down my field",
+      "korean_translation": "그리고 나의 밭을 짓밟을 것이다",
+      "word_indices": [
+        156,
+        833
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They will turn my pleasant field",
+      "korean_translation": "그들은 나의 기름진 밭을",
+      "word_indices": [
+        49,
+        156,
+        1655
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "into a desolate wasteland",
+      "korean_translation": "황량한 황무지로 만들 것이다",
+      "word_indices": [
+        629,
+        1406
+      ]
+    }
+  ]
+}

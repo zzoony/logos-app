@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 144:11",
+  "version": "NIV",
+  "original_text": "deliver me;\n    rescue me from the hands of foreigners\nwhose mouths are full of lies,\n    whose right hands are deceitful.",
+  "korean_text": "이방인의 손에서 나를 구하여 건지소서 그들의 입은 거짓을 말하며 그 오른손은 거짓의 오른손이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "deliver me",
+      "korean_translation": "나를 건지시고",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rescue me from the hands of foreigners",
+      "korean_translation": "이방인의 손에서 나를 구해주소서",
+      "word_indices": [
+        9,
+        343,
+        398
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose mouths are full of lies",
+      "korean_translation": "그들의 입은 거짓으로 가득하며",
+      "word_indices": [
+        143,
+        258
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whose right hands are deceitful",
+      "korean_translation": "그들의 오른손은 속이는 손이니이다",
+      "word_indices": [
+        9,
+        74,
+        1441
+      ]
+    }
+  ]
+}

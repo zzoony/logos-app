@@ -1,0 +1,50 @@
+{
+  "verse_reference": "2 Thessalonians 3:17",
+  "version": "NIV",
+  "original_text": "I, Paul, write this greeting in my own hand, which is the distinguishing mark in all my letters. This is how I write.",
+  "korean_text": "나 바울은 친필로 문안하노니 이는 편지마다 표시로서 이렇게 쓰노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, Paul, write this greeting",
+      "korean_translation": "나, 바울은 이 인사를 씁니다",
+      "word_indices": [
+        85,
+        806
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in my own hand",
+      "korean_translation": "내 손으로 직접",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which is the distinguishing mark",
+      "korean_translation": "그것은 구별되는 표시입니다",
+      "word_indices": [
+        876,
+        1982
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in all my letters",
+      "korean_translation": "나의 모든 편지에서",
+      "word_indices": [
+        675
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This is how I write",
+      "korean_translation": "이것이 내가 쓰는 방식입니다",
+      "word_indices": [
+        85
+      ]
+    }
+  ]
+}

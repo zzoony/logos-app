@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 6:24",
+  "version": "NIV",
+  "original_text": "One wing of the first cherub was five cubits long, and the other wing five cubits—ten cubits from wing tip to wing tip.",
+  "korean_text": "한 그룹의 이쪽 날개도 다섯 규빗이요 저쪽 날개도 다섯 규빗이니 이쪽 날개 끝으로부터 저쪽 날개 끝까지 십 규빗이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One wing of the first cherub was five cubits long",
+      "korean_translation": "첫 번째 그룹의 한쪽 날개는 다섯 규빗 길이였고",
+      "word_indices": [
+        71,
+        170,
+        196,
+        593,
+        601
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the other wing five cubits—",
+      "korean_translation": "다른 쪽 날개는 다섯 규빗이었으며—",
+      "word_indices": [
+        170,
+        196,
+        593
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ten cubits from wing tip to wing tip",
+      "korean_translation": "날개 끝에서 날개 끝까지는 열 규빗이었다",
+      "word_indices": [
+        170,
+        240,
+        593,
+        2620
+      ]
+    }
+  ]
+}

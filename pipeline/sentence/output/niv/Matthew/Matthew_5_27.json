@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Matthew 5:27",
+  "version": "NIV",
+  "original_text": "“You have heard that it was said, ‘You shall not commit adultery.’",
+  "korean_text": "또 간음하지 말라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have heard",
+      "korean_translation": "너희는 들었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it was said",
+      "korean_translation": "그것이 말하여졌다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You shall not commit adultery",
+      "korean_translation": "간음하지 말라",
+      "word_indices": [
+        322,
+        861
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Isaiah 28:24",
+  "version": "NIV",
+  "original_text": "When a farmer plows for planting, does he plow continually?\n    Does he keep on breaking up and working the soil?",
+  "korean_text": "파종하려고 가는 자가 어찌 쉬지 않고 갈기만 하겠느냐 자기 땅을 개간하며 고르게만 하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When a farmer plows for planting",
+      "korean_translation": "농부가 심기 위해 밭을 갈 때",
+      "word_indices": [
+        358,
+        1357,
+        1821
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "does he plow continually?",
+      "korean_translation": "그가 계속해서 밭을 갈까요?",
+      "word_indices": [
+        1357,
+        1397
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Does he keep on breaking up",
+      "korean_translation": "그가 계속해서 땅을 부수나요?",
+      "word_indices": [
+        60,
+        117
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and working the soil?",
+      "korean_translation": "그리고 흙을 일구나요?",
+      "word_indices": [
+        65,
+        1095
+      ]
+    }
+  ]
+}

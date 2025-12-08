@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Proverbs 31:2",
+  "version": "NIV",
+  "original_text": "Listen, my son! Listen, son of my womb!\n    Listen, my son, the answer to my prayers!",
+  "korean_text": "내 아들아 내가 무엇을 말하랴 내 태에서 난 아들아 내가 무엇을 말하랴 서원대로 얻은 아들아 내가 무엇을 말하랴",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Listen, my son!",
+      "korean_translation": "들어라, 내 아들아!",
+      "word_indices": [
+        2,
+        86
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Listen, son of my womb!",
+      "korean_translation": "들어라, 내 태의 아들이여!",
+      "word_indices": [
+        2,
+        86,
+        766
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Listen, my son,",
+      "korean_translation": "들어라, 내 아들아,",
+      "word_indices": [
+        2,
+        86
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the answer to my prayers!",
+      "korean_translation": "나의 기도에 대한 응답이여!",
+      "word_indices": [
+        63,
+        406
+      ]
+    }
+  ]
+}

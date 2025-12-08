@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Romans 8:36",
+  "version": "NIV",
+  "original_text": "As it is written:\n“For your sake we face death all day long;\n    we are considered as sheep to be slaughtered.”",
+  "korean_text": "기록된 바 우리가 종일 주를 위하여 죽임을 당하게 되며 도살 당할 양 같이 여김을 받았나이다 함과 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As it is written",
+      "korean_translation": "기록된 바",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For your sake",
+      "korean_translation": "너희를 위하여",
+      "word_indices": [
+        492
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we face death all day long",
+      "korean_translation": "우리가 종일 죽음을 당하며",
+      "word_indices": [
+        71,
+        80,
+        87
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we are considered as sheep",
+      "korean_translation": "우리는 양으로 여김을 받고",
+      "word_indices": [
+        251,
+        429
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to be slaughtered",
+      "korean_translation": "도살을 위해",
+      "word_indices": [
+        452
+      ]
+    }
+  ]
+}

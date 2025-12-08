@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Esther 1:9",
+  "version": "NIV",
+  "original_text": "Queen Vashti also gave a banquet for the women in the royal palace of King Xerxes.",
+  "korean_text": "왕후 와스디도 아하수에로 왕궁에서 여인들을 위하여 잔치를 베푸니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Queen Vashti also gave a banquet",
+      "korean_translation": "왕비 바스디도 연회를 열었고",
+      "word_indices": [
+        5,
+        28,
+        801,
+        1134
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the women",
+      "korean_translation": "여성들을 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the royal palace",
+      "korean_translation": "왕궁에서",
+      "word_indices": [
+        296,
+        381
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of King Xerxes",
+      "korean_translation": "크세르크세스 왕의",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Job 33:15",
+  "version": "NIV",
+  "original_text": "In a dream, in a vision of the night,\n    when deep sleep falls on people\n    as they slumber in their beds,",
+  "korean_text": "사람이 침상에서 졸며 깊이 잠들 때에나 꿈에나 밤에 환상을 볼 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In a dream",
+      "korean_translation": "꿈에서",
+      "word_indices": [
+        508
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in a vision of the night",
+      "korean_translation": "밤의 환상 속에서",
+      "word_indices": [
+        126,
+        501
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when deep sleep falls on people",
+      "korean_translation": "깊은 잠이 사람들에게 임할 때",
+      "word_indices": [
+        3,
+        113,
+        378,
+        499
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as they slumber in their beds",
+      "korean_translation": "그들이 침대에서 잠을 잘 때",
+      "word_indices": [
+        602,
+        2388
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Samuel 22:23",
+  "version": "NIV",
+  "original_text": "Stay with me; don’t be afraid. The man who wants to kill you is trying to kill me too. You will be safe with me.”",
+  "korean_text": "두려워하지 말고 내게 있으라 내 생명을 찾는 자가 네 생명도 찾는 자니 네가 나와 함께 있으면 안전하리라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Stay with me",
+      "korean_translation": "나와 함께 머물러라",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "don't be afraid",
+      "korean_translation": "두려워하지 말라",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The man who wants to kill you",
+      "korean_translation": "너를 죽이려는 그 사람",
+      "word_indices": [
+        10,
+        76,
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is trying to kill me too",
+      "korean_translation": "나도 죽이려 하고 있다",
+      "word_indices": [
+        76,
+        466
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will be safe with me",
+      "korean_translation": "나와 함께 있으면 안전할 것이다",
+      "word_indices": [
+        1245
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Mark 1:38",
+  "version": "NIV",
+  "original_text": "Jesus replied, “Let us go somewhere else—to the nearby villages—so I can preach there also. That is why I have come.”",
+  "korean_text": "이르시되 우리가 다른 가까운 마을들로 가자 거기서도 전도하리니 내가 이를 위하여 왔노라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let us go somewhere else",
+      "korean_translation": "우리가 다른 곳으로 가자",
+      "word_indices": [
+        485,
+        3656
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the nearby villages",
+      "korean_translation": "근처 마을들로",
+      "word_indices": [
+        1956
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so I can preach there also",
+      "korean_translation": "내가 그곳에서도 전파하게 하려 함이라",
+      "word_indices": [
+        28,
+        521
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is why I have come",
+      "korean_translation": "이를 위해 내가 왔노라",
+      "word_indices": []
+    }
+  ]
+}

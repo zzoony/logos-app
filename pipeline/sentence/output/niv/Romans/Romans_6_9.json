@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Romans 6:9",
+  "version": "NIV",
+  "original_text": "For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him.",
+  "korean_text": "이는 그리스도께서 죽은 자 가운데서 살아나셨으매 다시 죽지 아니하시고 사망이 다시 그를 주장하지 못할 줄을 앎이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For we know",
+      "korean_translation": "우리는 알고 있으니",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that since Christ was raised from the dead",
+      "korean_translation": "그리스도께서 죽은 자들로부터 살아나셨으므로",
+      "word_indices": [
+        73,
+        115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he cannot die again",
+      "korean_translation": "그는 다시 죽을 수 없다",
+      "word_indices": [
+        58,
+        207
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "death no longer has mastery over him",
+      "korean_translation": "사망이 그를 더 이상 지배하지 못한다",
+      "word_indices": [
+        80,
+        267,
+        6111
+      ]
+    }
+  ]
+}

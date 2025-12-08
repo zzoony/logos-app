@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Samuel 23:1",
+  "version": "NIV",
+  "original_text": "When David was told, “Look, the Philistines are fighting against Keilah and are looting the threshing floors,”",
+  "korean_text": "사람들이 다윗에게 전하여 이르되 보소서 블레셋 사람이 그일라를 쳐서 그 타작 마당을 탈취하더이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When David was told",
+      "korean_translation": "다윗이 들었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look, the Philistines are fighting against Keilah",
+      "korean_translation": "보라, 블레셋 사람들이 길라를 공격하고 있다",
+      "word_indices": [
+        11,
+        51,
+        227
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and are looting the threshing floors",
+      "korean_translation": "그리고 타작 마당을 약탈하고 있다",
+      "word_indices": [
+        767,
+        805,
+        1573
+      ]
+    }
+  ]
+}

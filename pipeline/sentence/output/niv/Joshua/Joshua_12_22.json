@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Joshua 12:22",
+  "version": "NIV",
+  "original_text": "the king of Kedesh one the king of Jokneam in Carmel one",
+  "korean_text": "하나는 게데스 왕이요 하나는 갈멜의 욕느암 왕이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the king of Kedesh",
+      "korean_translation": "게데스의 왕",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king of Jokneam",
+      "korean_translation": "욕느암의 왕",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Carmel",
+      "korean_translation": "카멜에 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "one",
+      "korean_translation": "한 명",
+      "word_indices": []
+    }
+  ]
+}

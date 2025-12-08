@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 John 2:3",
+  "version": "NIV",
+  "original_text": "We know that we have come to know him if we keep his commands.",
+  "korean_text": "우리가 그의 계명을 지키면 이로써 우리가 그를 아는 줄로 알 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We know",
+      "korean_translation": "우리는 압니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that we have come to know him",
+      "korean_translation": "우리가 그를 알게 되었다는 것을",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if we keep his commands",
+      "korean_translation": "만약 우리가 그의 계명을 지키면",
+      "word_indices": [
+        48,
+        60
+      ]
+    }
+  ]
+}

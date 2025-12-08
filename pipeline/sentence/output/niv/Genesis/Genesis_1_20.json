@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 1:20",
+  "version": "NIV",
+  "original_text": "And God said, “Let the water teem with living creatures, and let birds fly above the earth across the vault of the sky.”",
+  "korean_text": "하나님이 이르시되 물들은 생물을 번성하게 하라 땅 위 하늘의 궁창에는 새가 날으라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And God said",
+      "korean_translation": "하나님이 말씀하시되",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let the water teem with living creatures",
+      "korean_translation": "물에 생물이 번성하게 하라",
+      "word_indices": [
+        46,
+        3108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let birds fly above the earth",
+      "korean_translation": "새가 땅 위 나는 것을 보아라",
+      "word_indices": [
+        40,
+        386,
+        942
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "across the vault of the sky",
+      "korean_translation": "하늘의 궁창을 가로질러",
+      "word_indices": [
+        536,
+        1823
+      ]
+    }
+  ]
+}

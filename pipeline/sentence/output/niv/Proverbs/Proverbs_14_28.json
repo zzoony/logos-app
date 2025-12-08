@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Proverbs 14:28",
+  "version": "NIV",
+  "original_text": "A large population is a king’s glory,\n    but without subjects a prince is ruined.",
+  "korean_text": "백성이 많은 것은 왕의 영광이요 백성이 적은 것은 주권자의 패망이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A large population is a king's glory",
+      "korean_translation": "많은 백성은 왕의 영광이다",
+      "word_indices": [
+        4,
+        159,
+        346,
+        5502
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but without subjects",
+      "korean_translation": "하지만 백성이 없으면",
+      "word_indices": [
+        802
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a prince is ruined",
+      "korean_translation": "왕자는 망하게 된다",
+      "word_indices": [
+        284,
+        486
+      ]
+    }
+  ]
+}

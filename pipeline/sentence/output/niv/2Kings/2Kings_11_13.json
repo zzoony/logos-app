@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Kings 11:13",
+  "version": "NIV",
+  "original_text": "When Athaliah heard the noise made by the guards and the people, she went to the people at the temple of the Lord.",
+  "korean_text": "아달랴가 호위병과 백성의 소리를 듣고 여호와의 성전에 들어가 백성에게 이르러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Athaliah heard the noise",
+      "korean_translation": "아달랴가 소음을 들었을 때",
+      "word_indices": [
+        1623
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "made by the guards and the people",
+      "korean_translation": "호위병과 백성들이 만든 소음을",
+      "word_indices": [
+        3,
+        281
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she went to the people",
+      "korean_translation": "그녀는 백성에게 갔습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the temple of the Lord",
+      "korean_translation": "주의 성전에 있는 백성에게",
+      "word_indices": [
+        43
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Kings 13:9",
+  "version": "NIV",
+  "original_text": "For I was commanded by the word of the Lord: ‘You must not eat bread or drink water or return by the way you came.’”",
+  "korean_text": "이는 곧 여호와의 말씀이 내게 명령하여 이르시기를 떡도 먹지 말며 물도 마시지 말고 왔던 길로 되돌아가지 말라 하셨음이니이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I was commanded by the word of the Lord",
+      "korean_translation": "내가 여호와의 말씀으로 명령을 받았으니",
+      "word_indices": [
+        19,
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You must not eat bread",
+      "korean_translation": "너는 떡을 먹지 말며",
+      "word_indices": [
+        33,
+        187
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or drink water",
+      "korean_translation": "물도 마시지 말고",
+      "word_indices": [
+        46,
+        78
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or return by the way you came.'",
+      "korean_translation": "또 네가 온 길로 돌아가지 말라'",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

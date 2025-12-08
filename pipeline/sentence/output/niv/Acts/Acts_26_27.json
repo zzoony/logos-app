@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Acts 26:27",
+  "version": "NIV",
+  "original_text": "King Agrippa, do you believe the prophets? I know you do.”",
+  "korean_text": "아그립바 왕이여 선지자를 믿으시나이까 믿으시는 줄 아나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Agrippa",
+      "korean_translation": "아그립바 왕이여",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do you believe the prophets?",
+      "korean_translation": "당신은 선지자들을 믿습니까?",
+      "word_indices": [
+        70,
+        214
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I know you do.",
+      "korean_translation": "당신이 믿는다는 것을 압니다.",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

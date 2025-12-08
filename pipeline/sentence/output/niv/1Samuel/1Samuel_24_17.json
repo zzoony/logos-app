@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Samuel 24:17",
+  "version": "NIV",
+  "original_text": "“You are more righteous than I,” he said. “You have treated me well, but I have treated you badly.",
+  "korean_text": "다윗에게 이르되 나는 너를 학대하되 너는 나를 선대하니 너는 나보다 의롭도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are more righteous than I",
+      "korean_translation": "당신은 나보다 더 의롭습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You have treated me well",
+      "korean_translation": "당신은 나를 잘 대했습니다",
+      "word_indices": [
+        616
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but I have treated you badly",
+      "korean_translation": "하지만 나는 당신을 나쁘게 대했습니다",
+      "word_indices": [
+        616,
+        3396
+      ]
+    }
+  ]
+}

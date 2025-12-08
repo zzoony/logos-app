@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 7:20",
+  "version": "NIV",
+  "original_text": "The waters rose and covered the mountains to a depth of more than fifteen cubits.",
+  "korean_text": "물이 불어서 십오 규빗이나 오르니 산들이 잠긴지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The waters rose",
+      "korean_translation": "물이 솟아올랐고",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and covered the mountains",
+      "korean_translation": "산들을 덮었으며",
+      "word_indices": [
+        147,
+        200
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to a depth of more than fifteen cubits",
+      "korean_translation": "십오 규빗보다 더 깊이까지",
+      "word_indices": [
+        170,
+        986,
+        1762
+      ]
+    }
+  ]
+}

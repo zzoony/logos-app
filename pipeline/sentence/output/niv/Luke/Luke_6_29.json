@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 6:29",
+  "version": "NIV",
+  "original_text": "If someone slaps you on one cheek, turn to them the other also. If someone takes your coat, do not withhold your shirt from them.",
+  "korean_text": "너의 이 뺨을 치는 자에게 저 뺨도 돌려대며 네 겉옷을 빼앗는 자에게 속옷도 거절하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If someone slaps you on one cheek",
+      "korean_translation": "만약 어떤 사람이 너의 한 뺨을 치면",
+      "word_indices": [
+        271,
+        2277,
+        2645
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "turn to them the other also",
+      "korean_translation": "저에게 다른 뺨도 돌려대라",
+      "word_indices": [
+        28,
+        49
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If someone takes your coat",
+      "korean_translation": "만약 어떤 사람이 너의 겉옷을 가져가면",
+      "word_indices": [
+        271,
+        2031
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "do not withhold your shirt from them",
+      "korean_translation": "너의 속옷도 저에게서 거두지 말라",
+      "word_indices": [
+        1250,
+        3089
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Corinthians 8:13",
+  "version": "NIV",
+  "original_text": "Therefore, if what I eat causes my brother or sister to fall into sin, I will never eat meat again, so that I will not cause them to fall.",
+  "korean_text": "그러므로 만일 음식이 내 형제를 실족하게 한다면 나는 영원히 고기를 먹지 아니하여 내 형제를 실족하지 않게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore, if what I eat",
+      "korean_translation": "그러므로, 만약 내가 먹는 것이",
+      "word_indices": [
+        33,
+        83
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "causes my brother or sister",
+      "korean_translation": "내 형제나 자매를 유발한다면",
+      "word_indices": [
+        53,
+        173
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to fall into sin,",
+      "korean_translation": "죄에 빠지게 한다면,",
+      "word_indices": [
+        24,
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will never eat meat again,",
+      "korean_translation": "나는 다시는 고기를 먹지 않겠습니다,",
+      "word_indices": [
+        33,
+        574
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that I will not cause them to fall.",
+      "korean_translation": "그들이 넘어지지 않게 하기 위함입니다.",
+      "word_indices": [
+        113,
+        286
+      ]
+    }
+  ]
+}

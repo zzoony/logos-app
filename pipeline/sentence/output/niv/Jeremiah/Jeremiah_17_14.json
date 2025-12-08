@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Jeremiah 17:14",
+  "version": "NIV",
+  "original_text": "Heal me, Lord, and I will be healed;\n    save me and I will be saved,\n    for you are the one I praise.",
+  "korean_text": "여호와여 주는 나의 찬송이시오니 나를 고치소서 그리하시면 내가 낫겠나이다 나를 구원하소서 그리하시면 내가 구원을 얻으리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Heal me, Lord,",
+      "korean_translation": "나를 고치소서, 주여,",
+      "word_indices": [
+        354
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will be healed;",
+      "korean_translation": "그리하시면 내가 고침을 받으리이다",
+      "word_indices": [
+        354
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "save me",
+      "korean_translation": "나를 구원하시고",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I will be saved,",
+      "korean_translation": "그리하시면 내가 구원을 받으리이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for you are the one I praise.",
+      "korean_translation": "이는 내가 찬양하는 이는 당신이기 때문입니다.",
+      "word_indices": [
+        88
+      ]
+    }
+  ]
+}

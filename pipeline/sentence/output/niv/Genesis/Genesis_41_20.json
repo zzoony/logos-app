@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 41:20",
+  "version": "NIV",
+  "original_text": "The lean, ugly cows ate up the seven fat cows that came up first.",
+  "korean_text": "그 파리하고 흉한 소가 처음의 일곱 살진 소를 먹었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The lean, ugly cows",
+      "korean_translation": "마르고 흉측한 소들이",
+      "word_indices": [
+        1354,
+        1574,
+        2554
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "ate up",
+      "korean_translation": "먹어 버렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the seven fat cows",
+      "korean_translation": "일곱 마리 살찐 소들을",
+      "word_indices": [
+        96,
+        579,
+        1354
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that came up first",
+      "korean_translation": "먼저 나왔던",
+      "word_indices": []
+    }
+  ]
+}

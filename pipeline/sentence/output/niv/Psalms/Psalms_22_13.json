@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 22:13",
+  "version": "NIV",
+  "original_text": "Roaring lions that tear their prey\n    open their mouths wide against me.",
+  "korean_text": "내게 그 입을 벌림이 찢으며 부르짖는 사자 같으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Roaring lions",
+      "korean_translation": "포효하는 사자들이",
+      "word_indices": [
+        399,
+        799
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that tear their prey",
+      "korean_translation": "자신의 먹이를 찢는",
+      "word_indices": [
+        254,
+        1247
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "open their mouths wide",
+      "korean_translation": "입을 크게 벌리고",
+      "word_indices": [
+        143,
+        160,
+        512
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "against me",
+      "korean_translation": "나를 향해",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

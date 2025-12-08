@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 10:15",
+  "version": "NIV",
+  "original_text": "Break the arm of the wicked man;\n    call the evildoer to account for his wickedness\n    that would not otherwise be found out.",
+  "korean_text": "악인의 팔을 꺾으소서 악한 자의 악을 더 이상 찾아낼 수 없을 때까지 찾으소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Break the arm of the wicked man",
+      "korean_translation": "악인의 팔을 꺾으소서",
+      "word_indices": [
+        10,
+        117,
+        302,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "call the evildoer to account for his wickedness",
+      "korean_translation": "악행한 자를 그 악으로 심판하소서",
+      "word_indices": [
+        35,
+        637,
+        982
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that would not otherwise be found out",
+      "korean_translation": "그렇지 않으면 드러나지 않을 것들이",
+      "word_indices": [
+        1098,
+        2209
+      ]
+    }
+  ]
+}

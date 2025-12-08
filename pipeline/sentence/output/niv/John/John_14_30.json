@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 14:30",
+  "version": "NIV",
+  "original_text": "I will not say much more to you, for the prince of this world is coming. He has no hold over me,",
+  "korean_text": "이후에는 내가 너희와 말을 많이 하지 아니하리니 이 세상의 임금이 오겠음이라 그러나 그는 내게 관계할 것이 없으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will not say much more to you",
+      "korean_translation": "나는 너희에게 더 이상 많이 말하지 않겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the prince of this world is coming",
+      "korean_translation": "이 세상의 임금이 오고 있기 때문이다",
+      "word_indices": [
+        190,
+        486
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He has no hold over me",
+      "korean_translation": "그는 나에 대해 어떤 권세도 가지고 있지 않다",
+      "word_indices": [
+        158
+      ]
+    }
+  ]
+}

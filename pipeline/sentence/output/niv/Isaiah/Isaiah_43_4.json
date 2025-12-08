@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Isaiah 43:4",
+  "version": "NIV",
+  "original_text": "Since you are precious and honored in my sight,\n    and because I love you,\nI will give people in exchange for you,\n    nations in exchange for your life.",
+  "korean_text": "네가 내 눈에 보배롭고 존귀하며 내가 너를 사랑하였은즉 내가 네 대신 사람들을 내어 주며 백성들이 네 생명을 대신하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Since you are precious",
+      "korean_translation": "너는 귀하므로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and honored in my sight",
+      "korean_translation": "내 눈에 존귀하며",
+      "word_indices": [
+        244,
+        353
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and because I love you",
+      "korean_translation": "내가 너를 사랑하기 때문에",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will give people in exchange for you",
+      "korean_translation": "내가 너를 대신하여 사람들을 주겠다",
+      "word_indices": [
+        3,
+        5,
+        1330
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nations in exchange for your life",
+      "korean_translation": "네 생명을 대신하여 민족들을 주겠다",
+      "word_indices": [
+        37,
+        41,
+        1330
+      ]
+    }
+  ]
+}

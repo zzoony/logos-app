@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 16:13",
+  "version": "NIV",
+  "original_text": "That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp.",
+  "korean_text": "저녁에는 메추라기가 와서 진에 덮이고 아침에는 이슬이 진 주위에 있더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That evening quail came",
+      "korean_translation": "그 날 저녁에 메추라기들이 날아왔고",
+      "word_indices": [
+        3403
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and covered the camp",
+      "korean_translation": "진지를 뒤덮었으며",
+      "word_indices": [
+        177,
+        200
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in the morning there was a layer of dew",
+      "korean_translation": "그리고 아침에는 이슬 층이 있었고",
+      "word_indices": [
+        1142,
+        4207
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "around the camp",
+      "korean_translation": "진지 주위에",
+      "word_indices": [
+        177
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Genesis 27:4",
+  "version": "NIV",
+  "original_text": "Prepare me the kind of tasty food I like and bring it to me to eat, so that I may give you my blessing before I die.”",
+  "korean_text": "내가 즐기는 별미를 만들어 내게로 가져와서 먹게 하여 내가 죽기 전에 내 마음껏 네게 축복하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Prepare me the kind of tasty food",
+      "korean_translation": "내가 좋아하는 맛있는 음식을 준비하고",
+      "word_indices": [
+        103,
+        279,
+        345,
+        2904
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I like",
+      "korean_translation": "내가 좋아하는",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bring it to me to eat",
+      "korean_translation": "그것을 내가 먹도록 나에게 가져다 주라",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that I may give you my blessing",
+      "korean_translation": "그러면 내가 너에게 나의 축복을 주리라",
+      "word_indices": [
+        5,
+        97
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before I die.",
+      "korean_translation": "내가 죽기 전에",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

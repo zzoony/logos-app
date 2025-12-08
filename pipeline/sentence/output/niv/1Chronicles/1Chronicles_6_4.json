@@ -1,0 +1,24 @@
+{
+  "verse_reference": "1 Chronicles 6:4",
+  "version": "NIV",
+  "original_text": "Eleazar was the father of Phinehas,\nPhinehas the father of Abishua,",
+  "korean_text": "엘르아살은 비느하스를 낳고 비느하스는 아비수아를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Eleazar was the father of Phinehas",
+      "korean_translation": "엘르아살은 비느하스의 아버지였고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Phinehas was the father of Abishua",
+      "korean_translation": "비느하스는 아비수아의 아버지였다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Judges 4:19",
+  "version": "NIV",
+  "original_text": "“I’m thirsty,” he said. “Please give me some water.” She opened a skin of milk, gave him a drink, and covered him up.",
+  "korean_text": "시스라가 그에게 말하되 청하노니 내게 물을 조금 마시게 하라 내가 목이 마르다 하매 우유 부대를 열어 그에게 마시게 하고 그를 덮으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"I'm thirsty,\" he said.",
+      "korean_translation": "\"목이 마르다\" 그가 말했다.",
+      "word_indices": [
+        1190
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"Please give me some water.\"",
+      "korean_translation": "\"제게 물을 좀 주세요.\"",
+      "word_indices": [
+        5,
+        46,
+        165
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She opened a skin of milk,",
+      "korean_translation": "그녀는 우주 가죽을 열고,",
+      "word_indices": [
+        160,
+        559,
+        957
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "gave him a drink,",
+      "korean_translation": "그에게 마시게 했으며,",
+      "word_indices": [
+        5,
+        78
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and covered him up.",
+      "korean_translation": "그를 덮어주었다.",
+      "word_indices": [
+        200
+      ]
+    }
+  ]
+}

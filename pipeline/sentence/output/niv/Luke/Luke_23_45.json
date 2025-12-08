@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 23:45",
+  "version": "NIV",
+  "original_text": "for the sun stopped shining. And the curtain of the temple was torn in two.",
+  "korean_text": "성소의 휘장이 한가운데가 찢어지더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for the sun stopped shining",
+      "korean_translation": "이는 해가 빛을 그치었기 때문이며",
+      "word_indices": [
+        364,
+        2174
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And the curtain of the temple",
+      "korean_translation": "그리고 성전의 휘장이",
+      "word_indices": [
+        43,
+        549
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was torn in two",
+      "korean_translation": "둘로 찢어졌다",
+      "word_indices": []
+    }
+  ]
+}

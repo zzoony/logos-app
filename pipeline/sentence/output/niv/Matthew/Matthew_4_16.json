@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 4:16",
+  "version": "NIV",
+  "original_text": "the people living in darkness\n    have seen a great light;\non those living in the land of the shadow of death\n    a light has dawned.”",
+  "korean_text": "흑암에 앉은 백성이 큰 빛을 보았고 사망의 땅과 그늘에 앉은 자들에게 빛이 비치었도다 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the people living in darkness",
+      "korean_translation": "어둠에 사는 사람들이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "have seen a great light",
+      "korean_translation": "위대한 빛을 보았다",
+      "word_indices": [
+        44,
+        205
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on those living in the land of the shadow of death",
+      "korean_translation": "사망의 그림자 땅에 사는 자들에게",
+      "word_indices": [
+        8,
+        80,
+        1015
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a light has dawned",
+      "korean_translation": "빛이 떠올랐다",
+      "word_indices": [
+        205,
+        1032
+      ]
+    }
+  ]
+}

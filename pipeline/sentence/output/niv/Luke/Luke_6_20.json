@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 6:20",
+  "version": "NIV",
+  "original_text": "Looking at his disciples, he said:\n“Blessed are you who are poor,\n    for yours is the kingdom of God.",
+  "korean_text": "예수께서 눈을 들어 제자들을 보시고 이르시되 너희 가난한 자는 복이 있나니 하나님의 나라가 너희 것임이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Looking at his disciples, he said:",
+      "korean_translation": "그의 제자들을 바라보며 그가 말하였습니다:",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Blessed are you who are poor,",
+      "korean_translation": "가난한 자들은 복이 있나니",
+      "word_indices": [
+        97,
+        298
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for yours is the kingdom of God.",
+      "korean_translation": "하나님의 나라가 너희 것임이니라",
+      "word_indices": [
+        1,
+        109
+      ]
+    }
+  ]
+}

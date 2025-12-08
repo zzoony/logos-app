@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 105:12",
+  "version": "NIV",
+  "original_text": "When they were but few in number,\n    few indeed, and strangers in it,",
+  "korean_text": "그 때에 그들의 사람 수가 적어 그 땅의 나그네가 되었고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they were but few in number,",
+      "korean_translation": "그들이 수가 적을 때에",
+      "word_indices": [
+        201,
+        672
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "few indeed,",
+      "korean_translation": "실로 적었으며",
+      "word_indices": [
+        672
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and strangers in it,",
+      "korean_translation": "그 땅에서 나그네였으니",
+      "word_indices": [
+        1045
+      ]
+    }
+  ]
+}

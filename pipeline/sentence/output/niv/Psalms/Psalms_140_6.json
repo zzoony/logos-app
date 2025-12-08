@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 140:6",
+  "version": "NIV",
+  "original_text": "I say to the Lord, “You are my God.”\n    Hear, Lord, my cry for mercy.",
+  "korean_text": "내가 여호와께 말하기를 주는 나의 하나님이시니 여호와여 나의 간구하는 소리에 귀를 기울이소서 하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I say to the Lord",
+      "korean_translation": "나는 주님께 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"You are my God.\"",
+      "korean_translation": "\"당신은 나의 하나님이십니다.\"",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Hear, Lord, my cry for mercy.",
+      "korean_translation": "주님, 자비를 구하는 my 부르짖음을 들어주세요.",
+      "word_indices": [
+        16,
+        152,
+        413
+      ]
+    }
+  ]
+}

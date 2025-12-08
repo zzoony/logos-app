@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Acts 12:6",
+  "version": "NIV",
+  "original_text": "The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance.",
+  "korean_text": "헤롯이 잡아 내려고 하는 그 전날 밤에 베드로가 두 군인 틈에서 두 쇠사슬에 매여 누워 자는데 파수꾼들이 문 밖에서 옥을 지키더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The night before Herod was to bring him to trial",
+      "korean_translation": "헤롯이 그를 재판에 넘기기 전날 밤",
+      "word_indices": [
+        126,
+        1337
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Peter was sleeping between two soldiers",
+      "korean_translation": "베드로는 두 군사 사이에서 자고 있었으며",
+      "word_indices": [
+        378,
+        582
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "bound with two chains",
+      "korean_translation": "두 쇠사슬에 묶여 있었고",
+      "word_indices": [
+        752,
+        4036
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sentries stood guard at the entrance",
+      "korean_translation": "파수꾼들이 문에서 경비를 서고 있었다",
+      "word_indices": [
+        281,
+        361,
+        6036
+      ]
+    }
+  ]
+}

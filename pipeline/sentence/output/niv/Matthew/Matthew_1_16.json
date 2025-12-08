@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 1:16",
+  "version": "NIV",
+  "original_text": "and Jacob the father of Joseph, the husband of Mary, and Mary was the mother of Jesus who is called the Messiah.",
+  "korean_text": "야곱은 마리아의 남편 요셉을 낳았으니 마리아에게서 그리스도라 칭하는 예수가 나시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Jacob the father of Joseph",
+      "korean_translation": "야곱은 요셉의 아버지였고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the husband of Mary",
+      "korean_translation": "마리아의 남편이었으며",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Mary was the mother of Jesus",
+      "korean_translation": "마리아는 예수의 어머니였습니다",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who is called the Messiah",
+      "korean_translation": "그분은 메시아라 불립니다",
+      "word_indices": [
+        35,
+        717
+      ]
+    }
+  ]
+}

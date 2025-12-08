@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 22:21",
+  "version": "NIV",
+  "original_text": "Rescue me from the mouth of the lions;\n    save me from the horns of the wild oxen.",
+  "korean_text": "나를 사자의 입에서 구하소서 주께서 내게 응답하시고 들소의 뿔에서 구원하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Rescue me",
+      "korean_translation": "나를 구해 주소서",
+      "word_indices": [
+        398
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the mouth of the lions",
+      "korean_translation": "사자의 입에서",
+      "word_indices": [
+        143,
+        399
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "save me",
+      "korean_translation": "나를 구원하소서",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the horns of the wild oxen",
+      "korean_translation": "들소의 뿔에서",
+      "word_indices": [
+        450,
+        503
+      ]
+    }
+  ]
+}

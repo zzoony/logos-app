@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 8:11",
+  "version": "NIV",
+  "original_text": "“No one, sir,” she said.\n“Then neither do I condemn you,” Jesus declared. “Go now and leave your life of sin.”",
+  "korean_text": "대답하되 주여 없나이다 예수께서 이르시되 나도 너를 정죄하지 아니하노니 가서 다시는 죄를 범하지 말라 하시니라]",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one, sir",
+      "korean_translation": "아무도 없습니다, 주님",
+      "word_indices": [
+        1490
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she said",
+      "korean_translation": "그녀가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then neither do I condemn you",
+      "korean_translation": "그러면 나도 너를 정죄하지 않겠다",
+      "word_indices": [
+        449,
+        716
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus declared",
+      "korean_translation": "예수께서 선언하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Go now",
+      "korean_translation": "이제 가거라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and leave your life of sin",
+      "korean_translation": "그리고 너의 죄 된 삶을 버리거라",
+      "word_indices": [
+        24,
+        30,
+        37
+      ]
+    }
+  ]
+}

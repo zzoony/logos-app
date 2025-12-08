@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Philippians 4:11",
+  "version": "NIV",
+  "original_text": "I am not saying this because I am in need, for I have learned to be content whatever the circumstances.",
+  "korean_text": "내가 궁핍하므로 말하는 것이 아니니라 어떠한 형편에든지 나는 자족하기를 배웠노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am not saying this",
+      "korean_translation": "나는 이것을 말하는 것이 아닙니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because I am in need",
+      "korean_translation": "내가 필요하기 때문이 아닙니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I have learned",
+      "korean_translation": "왜냐하면 나는 배웠습니다",
+      "word_indices": [
+        526
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to be content",
+      "korean_translation": "만족하는 법을",
+      "word_indices": [
+        2121
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "whatever the circumstances",
+      "korean_translation": "어떤 상황에서든지",
+      "word_indices": [
+        285
+      ]
+    }
+  ]
+}

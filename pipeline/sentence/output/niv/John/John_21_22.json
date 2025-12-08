@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 21:22",
+  "version": "NIV",
+  "original_text": "Jesus answered, “If I want him to remain alive until I return, what is that to you? You must follow me.”",
+  "korean_text": "예수께서 이르시되 내가 올 때까지 그를 머물게 하고자 할지라도 네게 무슨 상관이냐 너는 나를 따르라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하시되",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If I want him to remain alive until I return",
+      "korean_translation": "내가 그가 내가 올 때까지 살아 있게 하고자 한다면",
+      "word_indices": [
+        89,
+        161,
+        210,
+        588
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what is that to you?",
+      "korean_translation": "그것이 너와 무슨 상관이 있겠느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You must follow me.",
+      "korean_translation": "너는 나를 따르라",
+      "word_indices": [
+        91
+      ]
+    }
+  ]
+}

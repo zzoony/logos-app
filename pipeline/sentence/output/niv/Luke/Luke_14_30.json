@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 14:30",
+  "version": "NIV",
+  "original_text": "saying, ‘This person began to build and wasn’t able to finish.’",
+  "korean_text": "이르되 이 사람이 공사를 시작하고 능히 이루지 못하였다 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "saying,",
+      "korean_translation": "말하며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This person began to build",
+      "korean_translation": "이 사람은 건축하기 시작했는데",
+      "word_indices": [
+        93,
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and wasn't able to finish.",
+      "korean_translation": "끝낼 수 없었느니라.",
+      "word_indices": [
+        363,
+        478
+      ]
+    }
+  ]
+}

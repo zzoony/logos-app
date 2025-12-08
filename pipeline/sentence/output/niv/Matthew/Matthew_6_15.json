@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Matthew 6:15",
+  "version": "NIV",
+  "original_text": "But if you do not forgive others their sins, your Father will not forgive your sins.",
+  "korean_text": "너희가 사람의 잘못을 용서하지 아니하면 너희 아버지께서도 너희 잘못을 용서하지 아니하시리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if you do not forgive others their sins",
+      "korean_translation": "그러나 너희가 다른 사람들의 죄를 용서하지 않으면",
+      "word_indices": [
+        24,
+        384
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your Father will not forgive your sins",
+      "korean_translation": "너희 아버지께서도 너희 죄를 용서하지 않으실 것이다",
+      "word_indices": [
+        12,
+        24,
+        384
+      ]
+    }
+  ]
+}

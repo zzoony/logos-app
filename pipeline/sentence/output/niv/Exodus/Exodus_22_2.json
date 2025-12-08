@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 22:2",
+  "version": "NIV",
+  "original_text": "“If a thief is caught breaking in at night and is struck a fatal blow, the defender is not guilty of bloodshed;",
+  "korean_text": "도둑이 뚫고 들어오는 것을 보고 그를 쳐죽이면 피 흘린 죄가 없으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a thief is caught breaking in at night",
+      "korean_translation": "만약 도둑이 밤에 침입하다 붙잡히면",
+      "word_indices": [
+        117,
+        126,
+        1123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and is struck a fatal blow",
+      "korean_translation": "그리고 치명적인 한 대를 맞으면",
+      "word_indices": [
+        639,
+        2320
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the defender is not guilty of bloodshed",
+      "korean_translation": "방어자는 살인죄가 없다",
+      "word_indices": [
+        642,
+        2573
+      ]
+    }
+  ]
+}

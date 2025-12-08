@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 10:21",
+  "version": "NIV",
+  "original_text": "But others said, “These are not the sayings of a man possessed by a demon. Can a demon open the eyes of the blind?”",
+  "korean_text": "어떤 사람은 말하되 이 말은 귀신 들린 자의 말이 아니라 귀신이 맹인의 눈을 뜨게 할 수 있느냐 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But others said",
+      "korean_translation": "그러나 다른 사람들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "These are not the sayings of a man possessed by a demon",
+      "korean_translation": "이것들은 귀신 들린 사람의 말이 아니다",
+      "word_indices": [
+        10,
+        550,
+        659
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Can a demon open the eyes of the blind?",
+      "korean_translation": "귀신이 소경의 눈을 열 수 있겠느냐?",
+      "word_indices": [
+        160,
+        606,
+        659
+      ]
+    }
+  ]
+}

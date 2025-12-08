@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Matthew 10:8",
+  "version": "NIV",
+  "original_text": "Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received; freely give.",
+  "korean_text": "병든 자를 고치며 죽은 자를 살리며 나병환자를 깨끗하게 하며 귀신을 쫓아내되 너희가 거저 받았으니 거저 주라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Heal the sick",
+      "korean_translation": "병자들을 고치고",
+      "word_indices": [
+        354,
+        1029
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "raise the dead",
+      "korean_translation": "죽은 자를 살리며",
+      "word_indices": [
+        115,
+        249
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "cleanse those who have leprosy",
+      "korean_translation": "문둥병자들을 깨끗하게 하고",
+      "word_indices": [
+        695,
+        1439
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "drive out demons",
+      "korean_translation": "귀신을 쫓아내라",
+      "word_indices": [
+        234,
+        659
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Freely you have received",
+      "korean_translation": "너희가 거저 받았으니",
+      "word_indices": [
+        1458
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "freely give",
+      "korean_translation": "거저 주라",
+      "word_indices": [
+        5,
+        1458
+      ]
+    }
+  ]
+}

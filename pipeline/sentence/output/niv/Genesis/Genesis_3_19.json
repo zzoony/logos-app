@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Genesis 3:19",
+  "version": "NIV",
+  "original_text": "By the sweat of your brow\n    you will eat your food\nuntil you return to the ground,\n    since from it you were taken;\nfor dust you are\n    and to dust you will return.”",
+  "korean_text": "네가 흙으로 돌아갈 때까지 얼굴에 땀을 흘려야 먹을 것을 먹으리니 네가 그것에서 취함을 입었음이라 너는 흙이니 흙으로 돌아갈 것이니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By the sweat of your brow",
+      "korean_translation": "네 이마의 땀으로",
+      "word_indices": [
+        3111,
+        4164
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you will eat your food",
+      "korean_translation": "네가 네 음식을 먹으리라",
+      "word_indices": [
+        33,
+        103
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until you return to the ground",
+      "korean_translation": "네가 땅으로 돌아갈 때까지",
+      "word_indices": [
+        89,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "since from it you were taken",
+      "korean_translation": "네가 그것으로부터 취해졌기 때문이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for dust you are",
+      "korean_translation": "네가 흙이므로",
+      "word_indices": [
+        490
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and to dust you will return",
+      "korean_translation": "흙으로 돌아가리라",
+      "word_indices": [
+        89,
+        490
+      ]
+    }
+  ]
+}

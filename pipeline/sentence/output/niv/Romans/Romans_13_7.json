@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Romans 13:7",
+  "version": "NIV",
+  "original_text": "Give to everyone what you owe them: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor.",
+  "korean_text": "모든 자에게 줄 것을 주되 조세를 받을 자에게 조세를 바치고 관세를 받을 자에게 관세를 바치고 두려워할 자를 두려워하며 존경할 자를 존경하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give to everyone what you owe them",
+      "korean_translation": "모든 사람에게 자신이 빚진 것을 갚아라",
+      "word_indices": [
+        5,
+        186,
+        1845
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If you owe taxes, pay taxes",
+      "korean_translation": "세금을 빚졌으면 세금을 내고",
+      "word_indices": [
+        248,
+        954,
+        1845
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if revenue, then revenue",
+      "korean_translation": "세수를 빚졌으면 세수를 내고",
+      "word_indices": [
+        2642
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if respect, then respect",
+      "korean_translation": "존경을 빚졌으면 존경을 하고",
+      "word_indices": [
+        1009
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "if honor, then honor",
+      "korean_translation": "명예를 빚졌으면 명예를 주어라",
+      "word_indices": [
+        244
+      ]
+    }
+  ]
+}

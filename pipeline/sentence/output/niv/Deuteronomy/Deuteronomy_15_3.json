@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Deuteronomy 15:3",
+  "version": "NIV",
+  "original_text": "You may require payment from a foreigner, but you must cancel any debt your fellow Israelite owes you.",
+  "korean_text": "이방인에게는 네가 독촉하려니와 네 형제에게 꾸어준 것은 네 손에서 면제하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may require payment from a foreigner",
+      "korean_translation": "너는 외국인에게서 갚음을 요구할 수 있으나",
+      "word_indices": [
+        343,
+        960,
+        1772
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you must cancel any debt",
+      "korean_translation": "너는 어떤 빚이든지 취소해야 하며",
+      "word_indices": [
+        1628,
+        2341
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your fellow Israelite owes you",
+      "korean_translation": "네 동족 이스라엘 사람이 네게 진 빚이든지",
+      "word_indices": [
+        348
+      ]
+    }
+  ]
+}

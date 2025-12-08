@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 7:3",
+  "version": "NIV",
+  "original_text": "The centurion heard of Jesus and sent some elders of the Jews to him, asking him to come and heal his servant.",
+  "korean_text": "예수의 소문을 듣고 유대인의 장로 몇 사람을 예수께 보내어 오셔서 그 종을 구해 주시기를 청한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The centurion heard of Jesus",
+      "korean_translation": "백부장이 예수에 대해 들었습니다",
+      "word_indices": [
+        1480
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and sent some elders of the Jews to him",
+      "korean_translation": "그리고 그에게 유대인 장로 몇 사람을 보냈습니다",
+      "word_indices": [
+        209,
+        268
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "asking him to come and heal his servant",
+      "korean_translation": "그에게 와서 자기 종을 고쳐달라고 요청하면서",
+      "word_indices": [
+        25,
+        31,
+        354
+      ]
+    }
+  ]
+}

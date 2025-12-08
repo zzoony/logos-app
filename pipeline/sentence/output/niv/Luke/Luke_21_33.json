@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 21:33",
+  "version": "NIV",
+  "original_text": "Heaven and earth will pass away, but my words will never pass away.",
+  "korean_text": "천지는 없어지겠으나 내 말은 없어지지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Heaven and earth will pass away",
+      "korean_translation": "하늘과 땅은 사라질 것입니다",
+      "word_indices": [
+        34,
+        40,
+        57,
+        465
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but my words",
+      "korean_translation": "하지만 나의 말은",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will never pass away",
+      "korean_translation": "결코 사라지지 않을 것입니다",
+      "word_indices": [
+        34,
+        465
+      ]
+    }
+  ]
+}

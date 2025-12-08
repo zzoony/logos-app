@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Psalms 46:10",
+  "version": "NIV",
+  "original_text": "He says, “Be still, and know that I am God;\n    I will be exalted among the nations,\n    I will be exalted in the earth.”",
+  "korean_text": "이르시기를 너희는 가만히 있어 내가 하나님 됨을 알지어다 내가 뭇 나라 중에서 높임을 받으리라 내가 세계 중에서 높임을 받으리라 하시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He says",
+      "korean_translation": "그가 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Be still",
+      "korean_translation": "고요하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and know that I am God",
+      "korean_translation": "그리고 내가 하나님인 줄 알라",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will be exalted among the nations",
+      "korean_translation": "내가 열방 중에서 높임을 받으리라",
+      "word_indices": [
+        27,
+        41,
+        535
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will be exalted in the earth",
+      "korean_translation": "내가 온 땅에서 높임을 받으리라",
+      "word_indices": [
+        40,
+        535
+      ]
+    }
+  ]
+}

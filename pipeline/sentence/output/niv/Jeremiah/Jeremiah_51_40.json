@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Jeremiah 51:40",
+  "version": "NIV",
+  "original_text": "“I will bring them down\n    like lambs to the slaughter,\n    like rams and goats.",
+  "korean_text": "내가 그들을 끌어내려서 어린 양과 숫양과 숫염소가 도살장으로 가는 것 같게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will bring them down",
+      "korean_translation": "내가 그들을 끌어내리리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like lambs to the slaughter",
+      "korean_translation": "도살장으로 가는 어린 양들 같이",
+      "word_indices": [
+        7,
+        264,
+        452
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like rams and goats",
+      "korean_translation": "수양과 염소들 같이",
+      "word_indices": [
+        7,
+        299,
+        311
+      ]
+    }
+  ]
+}

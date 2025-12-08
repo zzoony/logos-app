@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 21:8",
+  "version": "NIV",
+  "original_text": "A very large crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road.",
+  "korean_text": "무리의 대다수는 그들의 겉옷을 길에 펴고 다른 이들은 나뭇가지를 베어 길에 펴고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A very large crowd spread their cloaks on the road",
+      "korean_translation": "아주 큰 무리가 길에 겉옷을 펼쳤고",
+      "word_indices": [
+        253,
+        303,
+        346,
+        484,
+        829
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "while others cut branches from the trees",
+      "korean_translation": "다른 이들은 나무에서 가지를 꺾어",
+      "word_indices": [
+        184,
+        509
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and spread them on the road",
+      "korean_translation": "그것들을 길에 펼쳤습니다",
+      "word_indices": [
+        253,
+        484
+      ]
+    }
+  ]
+}

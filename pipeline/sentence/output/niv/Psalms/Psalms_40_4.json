@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 40:4",
+  "version": "NIV",
+  "original_text": "Blessed is the one\n    who trusts in the Lord,\nwho does not look to the proud,\n    to those who turn aside to false gods.",
+  "korean_text": "여호와를 의지하고 교만한 자와 거짓에 치우치는 자를 돌아보지 아니하는 자는 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the one",
+      "korean_translation": "복된 사람은",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who trusts in the Lord",
+      "korean_translation": "주를 신뢰하는 사람",
+      "word_indices": [
+        373
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who does not look to the proud",
+      "korean_translation": "교만한 자들을 향하지 아니하며",
+      "word_indices": [
+        51,
+        1074
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to those who turn aside to false gods",
+      "korean_translation": "거짓 신들에게로 돌아서는 자들에게로",
+      "word_indices": [
+        1,
+        49,
+        623,
+        706
+      ]
+    }
+  ]
+}

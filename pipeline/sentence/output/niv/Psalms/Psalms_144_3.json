@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Psalms 144:3",
+  "version": "NIV",
+  "original_text": "Lord, what are human beings that you care for them,\n    mere mortals that you think of them?",
+  "korean_text": "여호와여 사람이 무엇이기에 주께서 그를 알아 주시며 인생이 무엇이기에 그를 생각하시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what are human beings",
+      "korean_translation": "사람이 무엇이기에",
+      "word_indices": [
+        239
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you care for them",
+      "korean_translation": "주께서 그들을 돌보시는가",
+      "word_indices": [
+        436
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "mere mortals",
+      "korean_translation": "필멸의 존재들이",
+      "word_indices": [
+        906,
+        1110
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you think of them",
+      "korean_translation": "주께서 그들을 생각하시는가",
+      "word_indices": [
+        236
+      ]
+    }
+  ]
+}

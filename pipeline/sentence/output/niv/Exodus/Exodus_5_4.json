@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 5:4",
+  "version": "NIV",
+  "original_text": "But the king of Egypt said, “Moses and Aaron, why are you taking the people away from their labor? Get back to your work!”",
+  "korean_text": "애굽 왕이 그들에게 이르되 모세와 아론아 너희가 어찌하여 백성의 노역을 쉬게 하려느냐 가서 너희의 노역이나 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the king of Egypt said",
+      "korean_translation": "하지만 이집트 왕이 말했습니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Moses and Aaron",
+      "korean_translation": "모세와 아론아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "why are you taking the people away from their labor?",
+      "korean_translation": "어찌하여 백성을 그들의 노역에서 빼내는가?",
+      "word_indices": [
+        3,
+        34,
+        511
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Get back to your work!",
+      "korean_translation": "너희의 일로 돌아가라!",
+      "word_indices": [
+        52,
+        65
+      ]
+    }
+  ]
+}

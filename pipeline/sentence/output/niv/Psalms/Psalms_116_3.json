@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 116:3",
+  "version": "NIV",
+  "original_text": "The cords of death entangled me,\n    the anguish of the grave came over me;\n    I was overcome by distress and sorrow.",
+  "korean_text": "사망의 줄이 나를 두르고 스올의 고통이 내게 이르므로 내가 환난과 슬픔을 만났을 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The cords of death entangled me",
+      "korean_translation": "사망의 밧줄이 나를 얽매고",
+      "word_indices": [
+        80,
+        1254
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the anguish of the grave came over me",
+      "korean_translation": "무덤의 고통이 내게 임하였으며",
+      "word_indices": [
+        859,
+        965
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was overcome by distress",
+      "korean_translation": "나는 곤고함에 눌렸고",
+      "word_indices": [
+        1274
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sorrow",
+      "korean_translation": "슬픔을 겪었도다",
+      "word_indices": [
+        1167
+      ]
+    }
+  ]
+}

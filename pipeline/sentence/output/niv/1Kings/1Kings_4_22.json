@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 Kings 4:22",
+  "version": "NIV",
+  "original_text": "Solomon’s daily provisions were thirty cors of the finest flour and sixty cors of meal,",
+  "korean_text": "솔로몬의 하루의 음식물은 가는 밀가루가 삼십 고르요 굵은 밀가루가 육십 고르요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon's daily provisions were",
+      "korean_translation": "솔로몬의 일일 식량은",
+      "word_indices": [
+        1292,
+        1424
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thirty cors of the finest flour",
+      "korean_translation": "가장 좋은 밀가루 서른 고르와",
+      "word_indices": [
+        403,
+        730,
+        759,
+        5838
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and sixty cors of meal",
+      "korean_translation": "거친 밀가루 예순 고르였습니다",
+      "word_indices": [
+        1065,
+        1300,
+        5838
+      ]
+    }
+  ]
+}

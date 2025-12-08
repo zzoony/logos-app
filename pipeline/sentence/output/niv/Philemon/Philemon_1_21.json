@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Philemon 1:21",
+  "version": "NIV",
+  "original_text": "Confident of your obedience, I write to you, knowing that you will do even more than I ask.",
+  "korean_text": "나는 네가 순종할 것을 확신하므로 네게 썼노니 네가 내가 말한 것보다 더 행할 줄을 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Confident of your obedience",
+      "korean_translation": "네가 순종할 것을 확신하여",
+      "word_indices": [
+        1188,
+        1875
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I write to you",
+      "korean_translation": "내가 네게 쓰노라",
+      "word_indices": [
+        85
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "knowing that you will do even more",
+      "korean_translation": "네가 내가 구하는 것보다 더 많이 행하리라는 것을 알며",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than I ask",
+      "korean_translation": "내가 구하는 것보다",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

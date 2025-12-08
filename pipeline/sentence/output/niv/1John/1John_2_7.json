@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 John 2:7",
+  "version": "NIV",
+  "original_text": "Dear friends, I am not writing you a new command but an old one, which you have had since the beginning. This old command is the message you have heard.",
+  "korean_text": "사랑하는 자들아 내가 새 계명을 너희에게 쓰는 것이 아니라 너희가 처음부터 가진 옛 계명이니 이 옛 계명은 너희가 들은 바 말씀이거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Dear friends",
+      "korean_translation": "사랑하는 친구들이여",
+      "word_indices": [
+        335,
+        800
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am not writing you a new command",
+      "korean_translation": "나는 너희에게 새 계명을 쓰는 것이 아니라",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but an old one",
+      "korean_translation": "옛 계명을 쓰는 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which you have had since the beginning",
+      "korean_translation": "너희가 처음부터 가지고 있던 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This old command",
+      "korean_translation": "이 옛 계명은",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "is the message you have heard",
+      "korean_translation": "너희가 들은 말씀이다",
+      "word_indices": [
+        412
+      ]
+    }
+  ]
+}

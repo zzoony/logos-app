@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 7:8",
+  "version": "NIV",
+  "original_text": "You go to the festival. I am not going up to this festival, because my time has not yet fully come.”",
+  "korean_text": "너희는 명절에 올라가라 내 때가 아직 차지 못하였으니 나는 이 명절에 아직 올라가지 아니하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You go to the festival.",
+      "korean_translation": "너는 축제에 가거라.",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am not going up to this festival,",
+      "korean_translation": "나는 이 축제에 올라가지 않는다.",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because my time has not yet fully come.",
+      "korean_translation": "이는 내 때가 아직 온전히 이르지 않았기 때문이다.",
+      "word_indices": [
+        915
+      ]
+    }
+  ]
+}

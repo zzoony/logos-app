@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Proverbs 6:30",
+  "version": "NIV",
+  "original_text": "People do not despise a thief if he steals\n    to satisfy his hunger when he is starving.",
+  "korean_text": "도둑이 만일 주릴 때에 배를 채우려고 도둑질하면 사람이 그를 멸시하지는 아니하려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People do not despise a thief",
+      "korean_translation": "사람들은 도둑을 경멸하지 않는다",
+      "word_indices": [
+        3,
+        620,
+        1123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if he steals to satisfy his hunger",
+      "korean_translation": "그가 배고픔을 채우기 위해 훔치는 경우",
+      "word_indices": [
+        787,
+        836,
+        1678
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when he is starving",
+      "korean_translation": "그가 굶주리고 있을 때",
+      "word_indices": []
+    }
+  ]
+}

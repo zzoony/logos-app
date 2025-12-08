@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 102:5",
+  "version": "NIV",
+  "original_text": "In my distress I groan aloud\n    and am reduced to skin and bones.",
+  "korean_text": "나의 탄식 소리로 말미암아 나의 살이 뼈에 붙었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In my distress",
+      "korean_translation": "내 고통 속에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I groan aloud",
+      "korean_translation": "나는 소리 내어 신음합니다",
+      "word_indices": [
+        1024,
+        1162
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and am reduced to skin and bones",
+      "korean_translation": "그리고 피와 뼈만 남게 되었습니다",
+      "word_indices": [
+        559
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 5:32",
+  "version": "NIV",
+  "original_text": "There is another who testifies in my favor, and I know that his testimony about me is true.",
+  "korean_text": "나를 위하여 증언하시는 이가 따로 있으니 나를 위하여 증언하시는 그 증언이 참인 줄 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is another who testifies in my favor",
+      "korean_translation": "나를 위해 증언하는 다른 이가 있습니다",
+      "word_indices": [
+        393,
+        628
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I know",
+      "korean_translation": "그리고 나는 압니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that his testimony about me is true",
+      "korean_translation": "그가 나에 대한 증언이 참되다는 것을",
+      "word_indices": [
+        439,
+        700
+      ]
+    }
+  ]
+}

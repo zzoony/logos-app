@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 44:15",
+  "version": "NIV",
+  "original_text": "I live in disgrace all day long,\n    and my face is covered with shame",
+  "korean_text": "나의 능욕이 종일 내 앞에 있으며 수치가 내 얼굴을 덮었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I live in disgrace",
+      "korean_translation": "나는 불명예 속에 삽니다",
+      "word_indices": [
+        14,
+        627
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all day long",
+      "korean_translation": "종일 내내",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and my face is covered",
+      "korean_translation": "그리고 내 얼굴은 덮입니다",
+      "word_indices": [
+        87,
+        200
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with shame",
+      "korean_translation": "수치로",
+      "word_indices": [
+        402
+      ]
+    }
+  ]
+}

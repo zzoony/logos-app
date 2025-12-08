@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Leviticus 18:17",
+  "version": "NIV",
+  "original_text": "“‘Do not have sexual relations with both a woman and her daughter. Do not have sexual relations with either her son’s daughter or her daughter’s daughter; they are her close relatives. That is wickedness.",
+  "korean_text": "너는 여인과 그 여인의 딸의 하체를 아울러 범하지 말며 또 그 여인의 손녀나 외손녀를 아울러 데려다가 그의 하체를 범하지 말라 그들은 그의 살붙이이니 이는 악행이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not have sexual relations with both a woman and her daughter",
+      "korean_translation": "한 여자와 그녀의 딸과 함께 성관계를 가지지 말라",
+      "word_indices": [
+        50,
+        66,
+        735,
+        933
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not have sexual relations with either her son's daughter",
+      "korean_translation": "그녀의 아들딸과 성관계를 가지지 말라",
+      "word_indices": [
+        2,
+        66,
+        735,
+        933,
+        1067
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or her daughter's daughter",
+      "korean_translation": "또는 그녀의 딸의 딸과도",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they are her close relatives",
+      "korean_translation": "그들은 그녀의 가까운 친척이다",
+      "word_indices": [
+        595
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is wickedness",
+      "korean_translation": "그것은 악함이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Acts 4:11",
+  "version": "NIV",
+  "original_text": "Jesus is\n“‘the stone you builders rejected,\n    which has become the cornerstone.’",
+  "korean_text": "이 예수는 너희 건축자들의 버린 돌로서 집 모퉁이의 머릿돌이 되었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus is",
+      "korean_translation": "예수님은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'the stone you builders rejected",
+      "korean_translation": "'너희 건축자들이 버린 돌이며",
+      "word_indices": [
+        125,
+        444,
+        1605
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which has become the cornerstone.'",
+      "korean_translation": "모퉁이 머릿돌이 되었느니라'",
+      "word_indices": [
+        32,
+        2098
+      ]
+    }
+  ]
+}

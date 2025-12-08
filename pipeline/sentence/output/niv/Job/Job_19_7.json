@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Job 19:7",
+  "version": "NIV",
+  "original_text": "“Though I cry, ‘Violence!’ I get no response;\n    though I call for help, there is no justice.",
+  "korean_text": "내가 폭행을 당한다고 부르짖으나 응답이 없고 도움을 간구하였으나 정의가 없구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though I cry, 'Violence!'",
+      "korean_translation": "내가 '폭력이라!'고 외쳐도",
+      "word_indices": [
+        127,
+        152,
+        892
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I get no response",
+      "korean_translation": "아무 응답이 없으며",
+      "word_indices": [
+        2495
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "though I call for help",
+      "korean_translation": "내가 도움을 요청해도",
+      "word_indices": [
+        35,
+        127,
+        181
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "there is no justice",
+      "korean_translation": "정의가 없구나",
+      "word_indices": [
+        417
+      ]
+    }
+  ]
+}

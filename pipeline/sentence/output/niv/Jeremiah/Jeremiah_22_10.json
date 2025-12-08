@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Jeremiah 22:10",
+  "version": "NIV",
+  "original_text": "Do not weep for the dead king or mourn his loss;\n    rather, weep bitterly for him who is exiled,\nbecause he will never return\n    nor see his native land again.",
+  "korean_text": "너희는 죽은 자를 위하여 울지 말며 그를 위하여 애통하지 말고 잡혀 간 자를 위하여 슬피 울라 그는 다시 돌아와 그 고국을 보지 못할 것임이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not weep for the dead king",
+      "korean_translation": "죽은 왕을 위해 울지 말라",
+      "word_indices": [
+        4,
+        115,
+        339
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or mourn his loss",
+      "korean_translation": "그의 죽음을 슬퍼하지 말라",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "rather, weep bitterly for him who is exiled",
+      "korean_translation": "오히려 유배된 그를 위해 크게 울라",
+      "word_indices": [
+        339,
+        671,
+        1578
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because he will never return",
+      "korean_translation": "그는 결코 돌아오지 못할 것이기 때문이다",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nor see his native land again",
+      "korean_translation": "다시는 자기 고향 땅을 보지 못할 것이다",
+      "word_indices": [
+        8,
+        1251
+      ]
+    }
+  ]
+}

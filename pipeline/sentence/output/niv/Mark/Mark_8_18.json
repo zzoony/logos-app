@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Mark 8:18",
+  "version": "NIV",
+  "original_text": "Do you have eyes but fail to see, and ears but fail to hear? And don’t you remember?",
+  "korean_text": "너희가 눈이 있어도 보지 못하며 귀가 있어도 듣지 못하느냐 또 기억하지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do you have eyes",
+      "korean_translation": "너희에게 눈이 있느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but fail to see",
+      "korean_translation": "그러나 보지 못하느냐",
+      "word_indices": [
+        519
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ears",
+      "korean_translation": "그리고 귀가 있느냐",
+      "word_indices": [
+        383
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but fail to hear",
+      "korean_translation": "그러나 듣지 못하느냐",
+      "word_indices": [
+        16,
+        519
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And don't you remember",
+      "korean_translation": "그리고 너희가 기억하지 못하느냐",
+      "word_indices": [
+        217
+      ]
+    }
+  ]
+}

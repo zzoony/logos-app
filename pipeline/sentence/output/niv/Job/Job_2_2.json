@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Job 2:2",
+  "version": "NIV",
+  "original_text": "And the Lord said to Satan, “Where have you come from?”\nSatan answered the Lord, “From roaming throughout the earth, going back and forth on it.”",
+  "korean_text": "여호와께서 사탄에게 이르시되 네가 어디서 왔느냐 사탄이 여호와께 대답하여 이르되 땅을 두루 돌아 여기 저기 다녀 왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said to Satan",
+      "korean_translation": "주님께서 사탄에게 말씀하셨다",
+      "word_indices": [
+        864
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Where have you come from?",
+      "korean_translation": "너는 어디에서 왔느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Satan answered the Lord",
+      "korean_translation": "사탄이 주님께 대답했다",
+      "word_indices": [
+        63,
+        864
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "From roaming throughout the earth",
+      "korean_translation": "땅을 두루 돌아다니면서",
+      "word_indices": [
+        40,
+        394,
+        2478
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "going back and forth on it",
+      "korean_translation": "그 위에서 오가면서",
+      "word_indices": [
+        52,
+        808
+      ]
+    }
+  ]
+}

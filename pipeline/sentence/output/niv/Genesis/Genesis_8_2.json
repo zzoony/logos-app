@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Genesis 8:2",
+  "version": "NIV",
+  "original_text": "Now the springs of the deep and the floodgates of the heavens had been closed, and the rain had stopped falling from the sky.",
+  "korean_text": "깊음의 샘과 하늘의 창문이 닫히고 하늘에서 비가 그치매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the springs of the deep",
+      "korean_translation": "이제 깊음의 샘들이",
+      "word_indices": [
+        479,
+        499
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the floodgates of the heavens",
+      "korean_translation": "하늘의 수문들이",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "had been closed",
+      "korean_translation": "닫혔으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the rain",
+      "korean_translation": "그리고 비는",
+      "word_indices": [
+        506
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "had stopped falling from the sky",
+      "korean_translation": "하늘에서 내리는 것을 멈추었다",
+      "word_indices": [
+        113,
+        536
+      ]
+    }
+  ]
+}

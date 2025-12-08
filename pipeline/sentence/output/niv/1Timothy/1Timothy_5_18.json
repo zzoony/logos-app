@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Timothy 5:18",
+  "version": "NIV",
+  "original_text": "For Scripture says, “Do not muzzle an ox while it is treading out the grain,” and “The worker deserves his wages.”",
+  "korean_text": "성경에 일렀으되 곡식을 밟아 떠는 소의 입에 망을 씌우지 말라 하였고 또 일꾼이 그 삯을 받는 것은 마땅하다 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For Scripture says,",
+      "korean_translation": "성경은 말하기를,",
+      "word_indices": [
+        865
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not muzzle an ox",
+      "korean_translation": "소의 입에 망을 씌우지 말라",
+      "word_indices": [
+        547,
+        3466
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "while it is treading out the grain",
+      "korean_translation": "곡식을 밟을 때에",
+      "word_indices": [
+        182,
+        1435
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and",
+      "korean_translation": "그리고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The worker deserves his wages",
+      "korean_translation": "일꾼은 그 삯을 받을 마땅이 있느니라",
+      "word_indices": [
+        678,
+        2348
+      ]
+    }
+  ]
+}

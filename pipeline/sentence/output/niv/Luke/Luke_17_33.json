@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 17:33",
+  "version": "NIV",
+  "original_text": "Whoever tries to keep their life will lose it, and whoever loses their life will preserve it.",
+  "korean_text": "무릇 자기 목숨을 보전하고자 하는 자는 잃을 것이요 잃는 자는 살리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever tries to keep their life",
+      "korean_translation": "자기 목숨을 보존하려는 사람은",
+      "word_indices": [
+        37,
+        60,
+        154,
+        466
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will lose it",
+      "korean_translation": "그것을 잃을 것이고",
+      "word_indices": [
+        596
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and whoever loses their life",
+      "korean_translation": "자기 목숨을 잃는 사람은",
+      "word_indices": [
+        37,
+        154
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will preserve it",
+      "korean_translation": "그것을 보존할 것이다",
+      "word_indices": [
+        1141
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 1:22",
+  "version": "NIV",
+  "original_text": "Finally they said, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”",
+  "korean_text": "또 말하되 누구냐 우리를 보낸 이들에게 대답하게 하라 너는 네게 대하여 무엇이라 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Finally they said",
+      "korean_translation": "마침내 그들이 말하기를",
+      "word_indices": [
+        1218
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who are you?",
+      "korean_translation": "당신은 누구입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Give us an answer",
+      "korean_translation": "우리에게 대답을 주세요",
+      "word_indices": [
+        5,
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to take back to those who sent us",
+      "korean_translation": "우리를 보낸 사람들에게 돌아갈",
+      "word_indices": [
+        52
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "What do you say about yourself?",
+      "korean_translation": "당신은 자신에 대해 무엇이라 말합니까?",
+      "word_indices": []
+    }
+  ]
+}

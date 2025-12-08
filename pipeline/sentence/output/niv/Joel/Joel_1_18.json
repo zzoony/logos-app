@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Joel 1:18",
+  "version": "NIV",
+  "original_text": "How the cattle moan!\n    The herds mill about\nbecause they have no pasture;\n    even the flocks of sheep are suffering.",
+  "korean_text": "가축이 울부짖고 소 떼가 소란하니 이는 꼴이 없음이라 양 떼도 피곤하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How the cattle moan!",
+      "korean_translation": "가축들이 신음하는구나!",
+      "word_indices": [
+        655,
+        2513
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The herds mill about",
+      "korean_translation": "떼들이 맴돌고 있다",
+      "word_indices": [
+        670,
+        3402
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they have no pasture;",
+      "korean_translation": "그들에게 목초지가 없기 때문이다",
+      "word_indices": [
+        911
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even the flocks of sheep are suffering.",
+      "korean_translation": "심지어 양 떼들도 고통받고 있다.",
+      "word_indices": [
+        251,
+        261,
+        376
+      ]
+    }
+  ]
+}

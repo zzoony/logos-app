@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Samuel 26:15",
+  "version": "NIV",
+  "original_text": "David said, “You’re a man, aren’t you? And who is like you in Israel? Why didn’t you guard your lord the king? Someone came to destroy your lord the king.",
+  "korean_text": "다윗이 아브넬에게 이르되 네가 용사가 아니냐 이스라엘 가운데에 너 같은 자가 누구냐 그러한데 네가 어찌하여 네 주 왕을 보호하지 아니하느냐 백성 가운데 한 사람이 네 주 왕을 죽이려고 들어갔었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said",
+      "korean_translation": "다윗이 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You're a man, aren't you?",
+      "korean_translation": "당신은 사람이지 않습니까?",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And who is like you in Israel?",
+      "korean_translation": "그리고 이스라엘에서 당신과 같은 자가 누구입니까?",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why didn't you guard your lord the king?",
+      "korean_translation": "어찌하여 당신은 주인인 왕을 보호하지 않았습니까?",
+      "word_indices": [
+        4,
+        281
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Someone came to destroy your lord the king",
+      "korean_translation": "누군가가 와서 당신의 주인인 왕을 죽이러 왔습니다",
+      "word_indices": [
+        4,
+        69,
+        271
+      ]
+    }
+  ]
+}

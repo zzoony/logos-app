@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 5:1",
+  "version": "NIV",
+  "original_text": "Some time later, Jesus went up to Jerusalem for one of the Jewish festivals.",
+  "korean_text": "그 후에 유대인의 명절이 되어 예수께서 예루살렘에 올라가시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some time later",
+      "korean_translation": "얼마 후에",
+      "word_indices": [
+        638
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus went up to Jerusalem",
+      "korean_translation": "예수님께서 예루살렘에 올라가셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for one of the Jewish festivals",
+      "korean_translation": "유대인의 명절 중 하나를 위해",
+      "word_indices": [
+        425
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 13:2",
+  "version": "NIV",
+  "original_text": "Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore.",
+  "korean_text": "큰 무리가 그에게로 모여 들거늘 예수께서 배에 올라가 앉으시고 온 무리는 해변에 서 있더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Such large crowds gathered around him",
+      "korean_translation": "그렇게 큰 무리가 그에게 모여들어",
+      "word_indices": [
+        169,
+        303,
+        346
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he got into a boat",
+      "korean_translation": "그래서 그는 배에 탔고",
+      "word_indices": [
+        875
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and sat in it",
+      "korean_translation": "그 안에 앉았으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while all the people stood on the shore",
+      "korean_translation": "모든 백성은 해변에 서서 있었다",
+      "word_indices": [
+        3,
+        1581
+      ]
+    }
+  ]
+}

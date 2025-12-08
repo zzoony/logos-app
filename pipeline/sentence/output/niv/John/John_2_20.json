@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 2:20",
+  "version": "NIV",
+  "original_text": "They replied, “It has taken forty-six years to build this temple, and you are going to raise it in three days?”",
+  "korean_text": "유대인들이 이르되 이 성전은 사십육 년 동안에 지었거늘 네가 삼 일 동안에 일으키겠느냐 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They replied",
+      "korean_translation": "그들이 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It has taken forty-six years",
+      "korean_translation": "이것은 46년이 걸렸다",
+      "word_indices": [
+        395,
+        469
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to build this temple",
+      "korean_translation": "이 성전을 건축하는 데",
+      "word_indices": [
+        43,
+        93
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you are going to raise it",
+      "korean_translation": "그리고 너는 그것을 세울 것인가",
+      "word_indices": [
+        249
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in three days?",
+      "korean_translation": "사흘 안에?",
+      "word_indices": [
+        90
+      ]
+    }
+  ]
+}

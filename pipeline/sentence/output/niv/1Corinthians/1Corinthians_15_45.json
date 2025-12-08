@@ -1,0 +1,46 @@
+{
+  "verse_reference": "1 Corinthians 15:45",
+  "version": "NIV",
+  "original_text": "So it is written: “The first man Adam became a living being”; the last Adam, a life-giving spirit.",
+  "korean_text": "기록된 바 첫 사람 아담은 생령이 되었다 함과 같이 마지막 아담은 살려 주는 영이 되었나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So it is written:",
+      "korean_translation": "기록된 바와 같이:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The first man Adam",
+      "korean_translation": "첫 사람 아담은",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "became a living being",
+      "korean_translation": "살아 있는 존재가 되었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the last Adam",
+      "korean_translation": "마지막 아담은",
+      "word_indices": [
+        344
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a life-giving spirit",
+      "korean_translation": "생명을 주시는 영이 되셨다",
+      "word_indices": [
+        5,
+        37,
+        62
+      ]
+    }
+  ]
+}

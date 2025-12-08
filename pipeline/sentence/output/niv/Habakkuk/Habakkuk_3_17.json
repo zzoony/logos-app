@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Habakkuk 3:17",
+  "version": "NIV",
+  "original_text": "Though the fig tree does not bud\n    and there are no grapes on the vines,\nthough the olive crop fails\n    and the fields produce no food,\nthough there are no sheep in the pen\n    and no cattle in the stalls,",
+  "korean_text": "비록 무화과나무가 무성하지 못하며 포도나무에 열매가 없으며 감람나무에 소출이 없으며 밭에 먹을 것이 없으며 우리에 양이 없으며 외양간에 소가 없을지라도",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though the fig tree does not bud",
+      "korean_translation": "무화과 나무가 꽃을 피우지 않을지라도",
+      "word_indices": [
+        127,
+        164,
+        703,
+        1422
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there are no grapes on the vines",
+      "korean_translation": "포도나무에 포도가 없을지라도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "though the olive crop fails",
+      "korean_translation": "올리브 수확이 실패할지라도",
+      "word_indices": [
+        127,
+        327,
+        519,
+        793
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the fields produce no food",
+      "korean_translation": "밭이 음식을 생산하지 않을지라도",
+      "word_indices": [
+        103,
+        156,
+        682
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "though there are no sheep in the pen",
+      "korean_translation": "우리 안에 양이 없을지라도",
+      "word_indices": [
+        127,
+        251,
+        1392
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and no cattle in the stalls",
+      "korean_translation": "외양간에 소가 없을지라도",
+      "word_indices": [
+        655,
+        2818
+      ]
+    }
+  ]
+}

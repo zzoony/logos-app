@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Romans 7:21",
+  "version": "NIV",
+  "original_text": "So I find this law at work: Although I want to do good, evil is right there with me.",
+  "korean_text": "그러므로 내가 한 법을 깨달았노니 곧 선을 행하기 원하는 나에게 악이 함께 있는 것이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So I find this law at work:",
+      "korean_translation": "그래서 나는 이 법칙이 작용하고 있음을 발견합니다:",
+      "word_indices": [
+        42,
+        55,
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Although I want to do good,",
+      "korean_translation": "비록 내가 선을 행하기 원하지만,",
+      "word_indices": [
+        56,
+        161,
+        784
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "evil is right there with me.",
+      "korean_translation": "악은 바로 내 곁에 있습니다.",
+      "word_indices": [
+        74,
+        95
+      ]
+    }
+  ]
+}

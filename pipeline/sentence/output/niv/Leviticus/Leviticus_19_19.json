@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Leviticus 19:19",
+  "version": "NIV",
+  "original_text": "“‘Keep my decrees.\n“‘Do not mate different kinds of animals.\n“‘Do not plant your field with two kinds of seed.\n“‘Do not wear clothing woven of two kinds of material.",
+  "korean_text": "너희는 내 규례를 지킬지어다 네 가축을 다른 종류와 교미시키지 말며 네 밭에 두 종자를 섞어 뿌리지 말며 두 재료로 직조한 옷을 입지 말지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Keep my decrees.",
+      "korean_translation": "나의 규례들을 지키라.",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not mate different kinds of animals.",
+      "korean_translation": "다른 종류의 동물들을 교배시키지 말라.",
+      "word_indices": [
+        195,
+        279,
+        1400,
+        2706
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not plant your field with two kinds of seed.",
+      "korean_translation": "네 밭에 두 종류의 씨를 심지 말라.",
+      "word_indices": [
+        156,
+        279,
+        358
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not wear clothing woven of two kinds of material.",
+      "korean_translation": "두 종류의 재료로 짠 옷을 입지 말라.",
+      "word_indices": [
+        279,
+        482,
+        1289,
+        1664
+      ]
+    }
+  ]
+}

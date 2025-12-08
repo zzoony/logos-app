@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Job 40:5",
+  "version": "NIV",
+  "original_text": "I spoke once, but I have no answer—\n    twice, but I will say no more.”",
+  "korean_text": "내가 한 번 말하였사온즉 다시는 더 대답하지 아니하겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I spoke once",
+      "korean_translation": "나는 한 번 말했습니다",
+      "word_indices": [
+        5162
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but I have no answer",
+      "korean_translation": "하지만 대답이 없습니다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "twice",
+      "korean_translation": "두 번",
+      "word_indices": [
+        1537
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but I will say no more",
+      "korean_translation": "하지만 더 이상 말하지 않겠습니다",
+      "word_indices": []
+    }
+  ]
+}

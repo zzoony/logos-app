@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 9:19",
+  "version": "NIV",
+  "original_text": "These were the three sons of Noah, and from them came the people who were scattered over the whole earth.",
+  "korean_text": "노아의 이 세 아들로부터 사람들이 온 땅에 퍼지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These were the three sons of Noah",
+      "korean_translation": "이들은 노아의 세 아들이었고",
+      "word_indices": [
+        2,
+        90
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and from them came the people",
+      "korean_translation": "그들로부터 사람들이 나왔으며",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who were scattered over the whole earth",
+      "korean_translation": "그들은 온 땅에 흩어졌다",
+      "word_indices": [
+        40,
+        99,
+        396
+      ]
+    }
+  ]
+}

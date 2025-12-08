@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 22:12",
+  "version": "NIV",
+  "original_text": "Many bulls surround me;\n    strong bulls of Bashan encircle me.",
+  "korean_text": "많은 황소가 나를 에워싸며 바산의 힘센 소들이 나를 둘러쌌으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many bulls surround me",
+      "korean_translation": "많은 황소들이 나를 둘러싸고",
+      "word_indices": [
+        309,
+        494
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "strong bulls of Bashan",
+      "korean_translation": "바산의 강한 황소들이",
+      "word_indices": [
+        309,
+        342
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "encircle me",
+      "korean_translation": "나를 포위하고 있다",
+      "word_indices": [
+        2168
+      ]
+    }
+  ]
+}

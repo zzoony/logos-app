@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Exodus 32:9",
+  "version": "NIV",
+  "original_text": "“I have seen these people,” the Lord said to Moses, “and they are a stiff-necked people.",
+  "korean_text": "여호와께서 또 모세에게 이르시되 내가 이 백성을 보니 목이 뻣뻣한 백성이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"I have seen these people,\"",
+      "korean_translation": "\"내가 이 백성을 보았으며,\"",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Lord said to Moses,",
+      "korean_translation": "주께서 모세에게 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "\"and they are a stiff-necked people.\"",
+      "korean_translation": "\"그들은 목이 곧은 백성이라.\"",
+      "word_indices": [
+        3,
+        661,
+        1667
+      ]
+    }
+  ]
+}

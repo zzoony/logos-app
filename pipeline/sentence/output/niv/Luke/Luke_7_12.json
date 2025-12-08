@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Luke 7:12",
+  "version": "NIV",
+  "original_text": "As he approached the town gate, a dead person was being carried out—the only son of his mother, and she was a widow. And a large crowd from the town was with her.",
+  "korean_text": "성문에 가까이 이르실 때에 사람들이 한 죽은 자를 메고 나오니 이는 한 어머니의 독자요 그의 어머니는 과부라 그 성의 많은 사람도 그와 함께 나오거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As he approached the town gate",
+      "korean_translation": "그가 성문에 가까이 갔을 때",
+      "word_indices": [
+        72,
+        132,
+        640
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a dead person was being carried out",
+      "korean_translation": "죽은 사람이 메워져 나오고 있었다",
+      "word_indices": [
+        115,
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the only son of his mother",
+      "korean_translation": "그의 어머니의 외아들이었다",
+      "word_indices": [
+        2,
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and she was a widow",
+      "korean_translation": "그리고 그녀는 과부였다",
+      "word_indices": [
+        556
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And a large crowd from the town was with her",
+      "korean_translation": "그리고 동네 사람들로 이루어진 큰 무리가 그녀와 함께 있었다",
+      "word_indices": [
+        72,
+        303,
+        346
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Romans 2:27",
+  "version": "NIV",
+  "original_text": "The one who is not circumcised physically and yet obeys the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.",
+  "korean_text": "또한 본래 무할례자가 율법을 온전히 지키면 율법 조문과 할례를 가지고 율법을 범하는 너를 정죄하지 아니하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one who is not circumcised physically",
+      "korean_translation": "육체적으로 할례를 받지 않은 자",
+      "word_indices": [
+        4825
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and yet obeys the law",
+      "korean_translation": "그러나 율법을 지키는 자",
+      "word_indices": [
+        42,
+        247
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will condemn you",
+      "korean_translation": "너를 정죄하리라",
+      "word_indices": [
+        716
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who, even though you have the written code",
+      "korean_translation": "너는 문자를 가졌으나",
+      "word_indices": [
+        127,
+        4133
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and circumcision",
+      "korean_translation": "할례를 받았음에도",
+      "word_indices": [
+        1567
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "are a lawbreaker",
+      "korean_translation": "율법을 범하는 자임에도",
+      "word_indices": [
+        3349
+      ]
+    }
+  ]
+}

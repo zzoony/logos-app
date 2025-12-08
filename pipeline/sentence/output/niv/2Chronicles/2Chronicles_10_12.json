@@ -1,0 +1,43 @@
+{
+  "verse_reference": "2 Chronicles 10:12",
+  "version": "NIV",
+  "original_text": "Three days later Jeroboam and all the people returned to Rehoboam, as the king had said, “Come back to me in three days.”",
+  "korean_text": "삼 일 만에 여로보암과 모든 백성이 르호보암에게 나왔으니 이는 왕이 명령하여 이르기를 삼 일 만에 내게로 다시 오라 하였음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Three days later",
+      "korean_translation": "사흘 후에",
+      "word_indices": [
+        90,
+        638
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jeroboam and all the people returned to Rehoboam",
+      "korean_translation": "여로보암과 모든 백성이 르호보암에게 돌아왔습니다",
+      "word_indices": [
+        3,
+        89
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as the king had said",
+      "korean_translation": "왕이 말했던 대로",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Come back to me in three days",
+      "korean_translation": "사흘 내게로 돌아오라",
+      "word_indices": [
+        52,
+        90
+      ]
+    }
+  ]
+}

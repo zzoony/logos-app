@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Judges 5:12",
+  "version": "NIV",
+  "original_text": "‘Wake up, wake up, Deborah!\n    Wake up, wake up, break out in song!\nArise, Barak!\n    Take captive your captives, son of Abinoam.’",
+  "korean_text": "깰지어다 깰지어다 드보라여 깰지어다 깰지어다 너는 노래할지어다 일어날지어다 바락이여 아비노암의 아들이여 네가 사로잡은 자를 끌고 갈지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wake up, wake up, Deborah!",
+      "korean_translation": "깨어나라, 깨어나라, 드보라야!",
+      "word_indices": [
+        1307
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Wake up, wake up, break out in song!",
+      "korean_translation": "깨어나라, 깨어나라, 노래로 부르라!",
+      "word_indices": [
+        117,
+        653,
+        1307
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Arise, Barak!",
+      "korean_translation": "일어나라, 바락아!",
+      "word_indices": [
+        879
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Take captive your captives,",
+      "korean_translation": "네 사로잡은 자들을 사로잡고",
+      "word_indices": [
+        729
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "son of Abinoam.",
+      "korean_translation": "아비노암의 아들이여.",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

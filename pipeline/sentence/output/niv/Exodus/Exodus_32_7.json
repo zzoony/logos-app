@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 32:7",
+  "version": "NIV",
+  "original_text": "Then the Lord said to Moses, “Go down, because your people, whom you brought up out of Egypt, have become corrupt.",
+  "korean_text": "여호와께서 모세에게 이르시되 너는 내려가라 네가 애굽 땅에서 인도하여 낸 네 백성이 부패하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses",
+      "korean_translation": "그때 주님께서 모세에게 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go down",
+      "korean_translation": "내려가 보아라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because your people",
+      "korean_translation": "네 백성이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whom you brought up out of Egypt",
+      "korean_translation": "네가 이집트에서 이끌어낸 자들이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "have become corrupt",
+      "korean_translation": "부패해졌기 때문이다",
+      "word_indices": [
+        32,
+        1083
+      ]
+    }
+  ]
+}

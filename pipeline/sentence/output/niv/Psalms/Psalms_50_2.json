@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 50:2",
+  "version": "NIV",
+  "original_text": "From Zion, perfect in beauty,\n    God shines forth.",
+  "korean_text": "온전히 아름다운 시온에서 하나님이 빛을 비추셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From Zion,",
+      "korean_translation": "시온에서부터,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "perfect in beauty,",
+      "korean_translation": "아름다움으로 완벽한,",
+      "word_indices": [
+        1175,
+        1225
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God shines forth.",
+      "korean_translation": "하나님이 빛을 발하신다.",
+      "word_indices": [
+        1,
+        808,
+        2174
+      ]
+    }
+  ]
+}

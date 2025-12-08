@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 8:13",
+  "version": "NIV",
+  "original_text": "I have indeed built a magnificent temple for you, a place for you to dwell forever.”",
+  "korean_text": "내가 참으로 주를 위하여 계실 성전을 건축하였사오니 주께서 영원히 계실 처소로소이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have indeed built",
+      "korean_translation": "내가 참으로 건축하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a magnificent temple for you",
+      "korean_translation": "당신을 위해 웅장한 성전을",
+      "word_indices": [
+        43,
+        3243
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a place for you to dwell",
+      "korean_translation": "당신이 거하실 곳을",
+      "word_indices": [
+        18,
+        305
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "forever",
+      "korean_translation": "영원히",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

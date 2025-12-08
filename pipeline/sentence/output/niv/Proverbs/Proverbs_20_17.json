@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Proverbs 20:17",
+  "version": "NIV",
+  "original_text": "Food gained by fraud tastes sweet,\n    but one ends up with a mouth full of gravel.",
+  "korean_text": "속이고 취한 음식물은 사람에게 맛이 좋은 듯하나 후에는 그의 입에 모래가 가득하게 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Food gained by fraud tastes sweet",
+      "korean_translation": "사기로 얻은 음식은 달게 느껴지지만",
+      "word_indices": [
+        103,
+        537,
+        1470,
+        4022
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but one ends up",
+      "korean_translation": "하지만 결국",
+      "word_indices": [
+        112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with a mouth full of gravel",
+      "korean_translation": "자갈 가득한 입을 갖게 된다",
+      "word_indices": [
+        143,
+        258,
+        4587
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 42:2",
+  "version": "NIV",
+  "original_text": "He continued, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”",
+  "korean_text": "야곱이 또 이르되 내가 들은즉 저 애굽에 곡식이 있다 하니 너희는 그리로 가서 거기서 우리를 위하여 사오라 그러면 우리가 살고 죽지 아니하리라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He continued",
+      "korean_translation": "그는 계속 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have heard that there is grain in Egypt",
+      "korean_translation": "이집트에 곡식이 있다는 말을 들었습니다",
+      "word_indices": [
+        182
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Go down there and buy some for us",
+      "korean_translation": "그리로 내려가서 우리를 위해 곡식을 사세요",
+      "word_indices": [
+        493
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that we may live and not die",
+      "korean_translation": "그래서 우리가 살고 죽지 않게 하기 위해",
+      "word_indices": [
+        14,
+        58
+      ]
+    }
+  ]
+}

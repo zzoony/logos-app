@@ -1,0 +1,64 @@
+{
+  "verse_reference": "2 Chronicles 16:3",
+  "version": "NIV",
+  "original_text": "“Let there be a treaty between me and you,” he said, “as there was between my father and your father. See, I am sending you silver and gold. Now break your treaty with Baasha king of Israel so he will withdraw from me.”",
+  "korean_text": "내 아버지와 당신의 아버지 사이에와 같이 나와 당신 사이에 약조하자 내가 당신에게 은금을 보내노니 와서 이스라엘 왕 바아사와 세운 약조를 깨뜨려 그가 나를 떠나게 하라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let there be a treaty between me and you",
+      "korean_translation": "나와 너 사이에 조약이 있게 하라",
+      "word_indices": [
+        1249
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as there was between my father and your father",
+      "korean_translation": "나의 아버지와 너의 아버지 사이에 있었던 것처럼",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "See",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am sending you silver and gold",
+      "korean_translation": "내가 너에게 은과 금을 보내고 있다",
+      "word_indices": [
+        20,
+        75,
+        124
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Now break your treaty with Baasha king of Israel",
+      "korean_translation": "이제 너는 이스라엘 왕 바아사와의 조약을 깨라",
+      "word_indices": [
+        4,
+        117,
+        1249
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "so he will withdraw from me",
+      "korean_translation": "그래서 그가 나에게서 물러가게 하라",
+      "word_indices": [
+        931
+      ]
+    }
+  ]
+}

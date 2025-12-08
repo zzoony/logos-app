@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 22:39",
+  "version": "NIV",
+  "original_text": "And the second is like it: ‘Love your neighbor as yourself.’",
+  "korean_text": "둘째도 그와 같으니 네 이웃을 네 자신 같이 사랑하라 하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the second is like it:",
+      "korean_translation": "그 둘째도 그와 같으니",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Love your neighbor",
+      "korean_translation": "'네 이웃을 사랑하라'",
+      "word_indices": [
+        38,
+        356
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as yourself.'",
+      "korean_translation": "네 몸과 같이 하라'",
+      "word_indices": []
+    }
+  ]
+}

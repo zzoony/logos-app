@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 91:5",
+  "version": "NIV",
+  "original_text": "You will not fear the terror of night,\n    nor the arrow that flies by day,",
+  "korean_text": "너는 밤에 찾아오는 공포와 낮에 날아드는 화살과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will not fear",
+      "korean_translation": "너는 두려워하지 않을 것이다",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the terror of night",
+      "korean_translation": "밤의 공포",
+      "word_indices": [
+        126,
+        599
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor the arrow",
+      "korean_translation": "그리고 화살도",
+      "word_indices": [
+        770
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that flies by day",
+      "korean_translation": "낮에 날아가는",
+      "word_indices": [
+        942
+      ]
+    }
+  ]
+}

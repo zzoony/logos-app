@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Jeremiah 31:15",
+  "version": "NIV",
+  "original_text": "This is what the Lord says:\n“A voice is heard in Ramah,\n    mourning and great weeping,\nRachel weeping for her children\n    and refusing to be comforted,\n    because they are no more.”",
+  "korean_text": "여호와께서 이와 같이 말씀하시니라 라마에서 슬퍼하며 통곡하는 소리가 들리니 라헬이 그 자식 때문에 애곡하는 것이라 그가 자식이 없어져서 위로 받기를 거절하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says",
+      "korean_translation": "이것이 주께서 말씀하시는 바이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A voice is heard in Ramah",
+      "korean_translation": "라마에서 소리가 들린다",
+      "word_indices": [
+        241
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "mourning and great weeping",
+      "korean_translation": "애통하며 크게 울음",
+      "word_indices": [
+        44,
+        339,
+        405
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Rachel weeping for her children",
+      "korean_translation": "라헬이 그 자녀들을 위하여 울고",
+      "word_indices": [
+        339
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and refusing to be comforted",
+      "korean_translation": "위로받기를 거절하고",
+      "word_indices": [
+        697
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because they are no more",
+      "korean_translation": "그들이 더 이상 없기 때문이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Kings 2:14",
+  "version": "NIV",
+  "original_text": "Then he added, “I have something to say to you.”\n“You may say it,” she replied.",
+  "korean_text": "또 이르되 내가 말씀드릴 일이 있나이다 밧세바가 이르되 말하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he added,",
+      "korean_translation": "그가 덧붙였다,",
+      "word_indices": [
+        660
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have something to say to you.",
+      "korean_translation": "너에게 할 말이 있단다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You may say it,",
+      "korean_translation": "말해도 좋아,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she replied.",
+      "korean_translation": "그녀가 대답했다.",
+      "word_indices": []
+    }
+  ]
+}

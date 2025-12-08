@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 50:20",
+  "version": "NIV",
+  "original_text": "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.",
+  "korean_text": "당신들은 나를 해하려 하였으나 하나님은 그것을 선으로 바꾸사 오늘과 같이 많은 백성의 생명을 구원하게 하시려 하셨나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You intended to harm me",
+      "korean_translation": "너는 나를 해치려고 했지만",
+      "word_indices": [
+        632,
+        1234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but God intended it for good",
+      "korean_translation": "하나님은 그것을 선을 위해 계획하셨다",
+      "word_indices": [
+        1,
+        56,
+        1234
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to accomplish what is now being done",
+      "korean_translation": "지금 이루어지고 있는 것을 이루기 위해",
+      "word_indices": [
+        1579
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the saving of many lives",
+      "korean_translation": "많은 사람들의 생명을 구원하는 것",
+      "word_indices": []
+    }
+  ]
+}

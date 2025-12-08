@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 5:40",
+  "version": "NIV",
+  "original_text": "And if anyone wants to sue you and take your shirt, hand over your coat as well.",
+  "korean_text": "또 너를 고발하여 속옷을 가지고자 하는 자에게 겉옷까지도 가지게 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if anyone wants to sue you",
+      "korean_translation": "그리고 만약 누군가 너를 고소하려고 하면",
+      "word_indices": [
+        68,
+        161,
+        5928
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and take your shirt",
+      "korean_translation": "네 셔츠를 가져가려고 하면",
+      "word_indices": [
+        3089
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hand over your coat as well",
+      "korean_translation": "네 외투도 내어주어라",
+      "word_indices": [
+        9,
+        2031
+      ]
+    }
+  ]
+}

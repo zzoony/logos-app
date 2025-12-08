@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Philemon 1:19",
+  "version": "NIV",
+  "original_text": "I, Paul, am writing this with my own hand. I will pay it back—not to mention that you owe me your very self.",
+  "korean_text": "나 바울이 친필로 쓰노니 내가 갚으려니와 네가 이 외에 네 자신이 내게 빚진 것은 내가 말하지 아니하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, Paul,",
+      "korean_translation": "나 바울은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "am writing this with my own hand.",
+      "korean_translation": "내 손으로 이것을 쓰고 있습니다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will pay it back—",
+      "korean_translation": "나는 그것을 갚아드리겠습니다—",
+      "word_indices": [
+        52,
+        248
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "not to mention",
+      "korean_translation": "심지어",
+      "word_indices": [
+        1892
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you owe me your very self.",
+      "korean_translation": "네 자신 자체도 나에게 빚졌다는 것을 말입니다.",
+      "word_indices": [
+        1126,
+        1845
+      ]
+    }
+  ]
+}

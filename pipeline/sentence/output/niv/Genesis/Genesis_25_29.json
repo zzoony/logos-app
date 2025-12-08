@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 25:29",
+  "version": "NIV",
+  "original_text": "Once when Jacob was cooking some stew, Esau came in from the open country, famished.",
+  "korean_text": "야곱이 죽을 쑤었더니 에서가 들에서 돌아와서 심히 피곤하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Once when Jacob was cooking some stew",
+      "korean_translation": "어느 때 야곱이 스튜를 요리하고 있을 때",
+      "word_indices": [
+        1384,
+        2718
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Esau came in from the open country",
+      "korean_translation": "에서가 들에서 들어왔는데",
+      "word_indices": [
+        160,
+        167
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "famished",
+      "korean_translation": "몹시 굶주려 있었다",
+      "word_indices": [
+        3725
+      ]
+    }
+  ]
+}

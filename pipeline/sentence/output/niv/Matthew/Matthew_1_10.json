@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:10",
+  "version": "NIV",
+  "original_text": "Hezekiah the father of Manasseh,\nManasseh the father of Amon,\nAmon the father of Josiah,",
+  "korean_text": "히스기야는 므낫세를 낳고 므낫세는 아몬을 낳고 아몬은 요시야를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hezekiah the father of Manasseh",
+      "korean_translation": "히스기야는 므낫세의 아버지이며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Manasseh the father of Amon",
+      "korean_translation": "므낫세는 아몬의 아버지이며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Amon the father of Josiah",
+      "korean_translation": "아몬은 요시야의 아버지였습니다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "verse_reference": "Genesis 23:1",
+  "version": "NIV",
+  "original_text": "Sarah lived to be a hundred and twenty-seven years old.",
+  "korean_text": "사라가 백이십칠 세를 살았으니 이것이 곧 사라가 누린 햇수라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sarah lived",
+      "korean_translation": "사라는 살았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to be a hundred and twenty-seven years old",
+      "korean_translation": "127세까지",
+      "word_indices": [
+        96,
+        220
+      ]
+    }
+  ]
+}

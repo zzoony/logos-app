@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 80:13",
+  "version": "NIV",
+  "original_text": "Boars from the forest ravage it,\n    and insects from the fields feed on it.",
+  "korean_text": "숲 속의 멧돼지들이 상해하며 들짐승들이 먹나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Boars from the forest",
+      "korean_translation": "숲에서 온 멧돼지들이",
+      "word_indices": [
+        902,
+        5451
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "ravage it",
+      "korean_translation": "그것을 황폐하게 하고",
+      "word_indices": [
+        2128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and insects from the fields",
+      "korean_translation": "그리고 들에서 온 벌레들이",
+      "word_indices": [
+        156,
+        2949
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "feed on it",
+      "korean_translation": "그것을 먹는다",
+      "word_indices": []
+    }
+  ]
+}

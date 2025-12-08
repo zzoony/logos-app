@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 13:30",
+  "version": "NIV",
+  "original_text": "As soon as Judas had taken the bread, he went out. And it was night.",
+  "korean_text": "유다가 그 조각을 받고 곧 나가니 밤이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As soon as Judas had taken the bread",
+      "korean_translation": "유다가 떡을 가져가자마자",
+      "word_indices": [
+        187,
+        502,
+        1061
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he went out",
+      "korean_translation": "그는 나갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And it was night",
+      "korean_translation": "그리고 밤이었습니다",
+      "word_indices": [
+        126
+      ]
+    }
+  ]
+}

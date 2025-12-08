@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 100:4",
+  "version": "NIV",
+  "original_text": "Enter his gates with thanksgiving\n    and his courts with praise;\n    give thanks to him and praise his name.",
+  "korean_text": "감사함으로 그의 문에 들어가며 찬송함으로 그의 궁정에 들어가서 그에게 감사하며 그의 이름을 송축할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Enter his gates with thanksgiving",
+      "korean_translation": "감사함으로 그의 문에 들어가라",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his courts with praise",
+      "korean_translation": "그의 뜰을 찬양으로 들어가라",
+      "word_indices": [
+        88,
+        351
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "give thanks to him",
+      "korean_translation": "그에게 감사하라",
+      "word_indices": [
+        5,
+        489
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and praise his name",
+      "korean_translation": "그의 이름을 찬양하라",
+      "word_indices": [
+        17,
+        88
+      ]
+    }
+  ]
+}

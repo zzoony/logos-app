@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 19:23",
+  "version": "NIV",
+  "original_text": "Then Jesus said to his disciples, “Truly I tell you, it is hard for someone who is rich to enter the kingdom of heaven.",
+  "korean_text": "예수께서 제자들에게 이르시되 내가 진실로 너희에게 이르노니 부자는 천국에 들어가기가 어려우니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus said to his disciples",
+      "korean_translation": "그때 예수께서 제자들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Truly I tell you",
+      "korean_translation": "진실로 너희에게 말하노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it is hard for someone who is rich",
+      "korean_translation": "부자인 사람에게는 어려운 일이다",
+      "word_indices": [
+        271,
+        371,
+        781
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to enter the kingdom of heaven",
+      "korean_translation": "하늘 나라에 들어가는 것이",
+      "word_indices": [
+        57,
+        109,
+        135
+      ]
+    }
+  ]
+}

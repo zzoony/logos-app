@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 30:25",
+  "version": "NIV",
+  "original_text": "Ants are creatures of little strength,\n    yet they store up their food in the summer;",
+  "korean_text": "곧 힘이 없는 종류로되 먹을 것을 여름에 준비하는 개미와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ants are creatures of little strength",
+      "korean_translation": "개미는 힘이 약한 생물입니다",
+      "word_indices": [
+        291,
+        312,
+        4570
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet they store up their food",
+      "korean_translation": "그러나 그들은 먹이를 저장합니다",
+      "word_indices": [
+        103,
+        835
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the summer",
+      "korean_translation": "여름에",
+      "word_indices": [
+        1702
+      ]
+    }
+  ]
+}

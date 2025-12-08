@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 13:20",
+  "version": "NIV",
+  "original_text": "The seed falling on rocky ground refers to someone who hears the word and at once receives it with joy.",
+  "korean_text": "돌밭에 뿌려졌다는 것은 말씀을 듣고 즉시 기쁨으로 받되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The seed falling on rocky ground",
+      "korean_translation": "바위 위에 떨어진 씨앗은",
+      "word_indices": [
+        113,
+        2154,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "refers to someone",
+      "korean_translation": "어떤 사람을 가리키는데",
+      "word_indices": [
+        271,
+        2561
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who hears the word",
+      "korean_translation": "그는 말씀을 듣고",
+      "word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and at once receives it with joy",
+      "korean_translation": "즉시 기쁨으로 받는 사람이다",
+      "word_indices": [
+        237
+      ]
+    }
+  ]
+}

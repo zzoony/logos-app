@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Genesis 2:23",
+  "version": "NIV",
+  "original_text": "The man said,\n“This is now bone of my bones\n    and flesh of my flesh;\nshe shall be called ‘woman,’\n    for she was taken out of man.”",
+  "korean_text": "아담이 이르되 이는 내 뼈 중의 뼈요 살 중의 살이라 이것을 남자에게서 취하였은즉 여자라 부르리라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man said",
+      "korean_translation": "그 남자가 말했다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This is now bone of my bones",
+      "korean_translation": "이제 이것은 내 뼈의 뼈이다",
+      "word_indices": [
+        553
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and flesh of my flesh",
+      "korean_translation": "그리고 내 살의 살이다",
+      "word_indices": [
+        307
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "She shall be called 'woman'",
+      "korean_translation": "그녀는 '여자'라고 불릴 것이다",
+      "word_indices": [
+        35,
+        50
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for she was taken out of man",
+      "korean_translation": "왜냐하면 그녀는 남자에게서 취해졌기 때문이다",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

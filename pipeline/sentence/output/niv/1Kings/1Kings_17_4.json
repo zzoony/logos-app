@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Kings 17:4",
+  "version": "NIV",
+  "original_text": "You will drink from the brook, and I have directed the ravens to supply you with food there.”",
+  "korean_text": "그 시냇물을 마시라 내가 까마귀들에게 명령하여 거기서 너를 먹이게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will drink from the brook",
+      "korean_translation": "당신은 시냇물에서 마실 것입니다",
+      "word_indices": [
+        78,
+        2780
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I have directed the ravens",
+      "korean_translation": "그리고 내가 까마귀들을 지시했습니다",
+      "word_indices": [
+        1047,
+        2195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to supply you with food there",
+      "korean_translation": "거기서 당신에게 음식을 공급하도록",
+      "word_indices": [
+        103,
+        839
+      ]
+    }
+  ]
+}

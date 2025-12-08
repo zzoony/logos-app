@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 42:2",
+  "version": "NIV",
+  "original_text": "My soul thirsts for God, for the living God.\n    When can I go and meet with God?",
+  "korean_text": "내 영혼이 하나님 곧 살아 계시는 하나님을 갈망하나니 내가 어느 때에 나아가서 하나님의 얼굴을 뵈올까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My soul thirsts for God",
+      "korean_translation": "내 영혼이 하나님을 갈망하나니",
+      "word_indices": [
+        1,
+        558,
+        1395
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the living God",
+      "korean_translation": "살아계신 하나님을 위하여",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When can I go",
+      "korean_translation": "내가 언제 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and meet with God",
+      "korean_translation": "하나님을 만날까",
+      "word_indices": [
+        1,
+        110
+      ]
+    }
+  ]
+}

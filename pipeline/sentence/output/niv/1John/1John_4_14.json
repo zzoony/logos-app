@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 John 4:14",
+  "version": "NIV",
+  "original_text": "And we have seen and testify that the Father has sent his Son to be the Savior of the world.",
+  "korean_text": "아버지가 아들을 세상의 구주로 보내신 것을 우리가 보았고 또 증언하노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And we have seen",
+      "korean_translation": "그리고 우리는 보았으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and testify",
+      "korean_translation": "증거하노니",
+      "word_indices": [
+        628
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the Father has sent his Son",
+      "korean_translation": "아버지께서 아들을 보내셨음을",
+      "word_indices": [
+        2,
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to be the Savior of the world",
+      "korean_translation": "세상의 구주가 되게 하려 하심이라",
+      "word_indices": [
+        190,
+        823
+      ]
+    }
+  ]
+}

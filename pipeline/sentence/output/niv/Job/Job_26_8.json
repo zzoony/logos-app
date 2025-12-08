@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Job 26:8",
+  "version": "NIV",
+  "original_text": "He wraps up the waters in his clouds,\n    yet the clouds do not burst under their weight.",
+  "korean_text": "물을 빽빽한 구름에 싸시나 그 밑의 구름이 찢어지지 아니하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He wraps up the waters in his clouds",
+      "korean_translation": "그는 구름 속에 물을 감싸 담고",
+      "word_indices": [
+        46,
+        331,
+        1332
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet the clouds do not burst",
+      "korean_translation": "그러나 구름은 터지지 않으며",
+      "word_indices": [
+        331,
+        1521
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "under their weight",
+      "korean_translation": "그 무게 아래에서도",
+      "word_indices": [
+        1184
+      ]
+    }
+  ]
+}

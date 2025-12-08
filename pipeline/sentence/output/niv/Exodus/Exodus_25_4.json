@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 25:4",
+  "version": "NIV",
+  "original_text": "blue, purple and scarlet yarn and fine linen; goat hair;",
+  "korean_text": "청색 자색 홍색 실과 가는 베 실과 염소 털과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "blue",
+      "korean_translation": "청색 실",
+      "word_indices": [
+        899
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "purple and scarlet yarn",
+      "korean_translation": "보라색과 주홍색 실",
+      "word_indices": [
+        900,
+        929,
+        1191
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and fine linen",
+      "korean_translation": "그리고 고운 베실",
+      "word_indices": [
+        514,
+        633
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "goat hair",
+      "korean_translation": "염소 털",
+      "word_indices": [
+        311,
+        548
+      ]
+    }
+  ]
+}

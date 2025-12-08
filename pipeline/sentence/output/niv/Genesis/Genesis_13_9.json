@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Genesis 13:9",
+  "version": "NIV",
+  "original_text": "Is not the whole land before you? Let’s part company. If you go to the left, I’ll go to the right; if you go to the right, I’ll go to the left.”",
+  "korean_text": "네 앞에 온 땅이 있지 아니하냐 나를 떠나가라 네가 좌하면 나는 우하고 네가 우하면 나는 좌하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is not the whole land before you?",
+      "korean_translation": "온 땅이 당신 앞에 있지 않습니까?",
+      "word_indices": [
+        8,
+        99
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let's part company.",
+      "korean_translation": "우리 갈라서자.",
+      "word_indices": [
+        390,
+        969
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you go to the left,",
+      "korean_translation": "당신이 왼쪽으로 가면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I'll go to the right;",
+      "korean_translation": "나는 오른쪽으로 가겠고;",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "if you go to the right,",
+      "korean_translation": "당신이 오른쪽으로 가면,",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I'll go to the left.",
+      "korean_translation": "나는 왼쪽으로 가겠다.",
+      "word_indices": []
+    }
+  ]
+}

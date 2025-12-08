@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 1:30",
+  "version": "NIV",
+  "original_text": "You will be like an oak with fading leaves,\n    like a garden without water.",
+  "korean_text": "너희는 잎사귀 마른 상수리나무 같을 것이요 물 없는 동산 같으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will be like an oak",
+      "korean_translation": "너희는 참나무 같게 되리라",
+      "word_indices": [
+        7,
+        1532
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with fading leaves",
+      "korean_translation": "잎이 마르는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like a garden",
+      "korean_translation": "정원 같게 되리라",
+      "word_indices": [
+        7,
+        745
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "without water",
+      "korean_translation": "물이 없는",
+      "word_indices": [
+        46
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Acts 27:6",
+  "version": "NIV",
+  "original_text": "There the centurion found an Alexandrian ship sailing for Italy and put us on board.",
+  "korean_text": "거기서 백부장이 이달리야로 가려 하는 알렉산드리아 배를 만나 우리를 오르게 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There the centurion found an Alexandrian ship",
+      "korean_translation": "그곳에서 백부장이 알렉산드리아 배를 찾았고",
+      "word_indices": [
+        804,
+        1480,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sailing for Italy",
+      "korean_translation": "이탈리아로 가는 배였으며",
+      "word_indices": [
+        1079
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and put us on board",
+      "korean_translation": "우리를 배에 태웠다",
+      "word_indices": [
+        2325
+      ]
+    }
+  ]
+}

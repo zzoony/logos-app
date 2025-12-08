@@ -1,0 +1,51 @@
+{
+  "verse_reference": "John 8:26",
+  "version": "NIV",
+  "original_text": "“I have much to say in judgment of you. But he who sent me is trustworthy, and what I have heard from him I tell the world.”",
+  "korean_text": "내가 너희에게 대하여 말하고 판단할 것이 많으나 나를 보내신 이가 참되시매 내가 그에게 들은 그것을 세상에 말하노라 하시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have much to say",
+      "korean_translation": "나는 할 말이 많다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in judgment of you",
+      "korean_translation": "너희를 심판하여",
+      "word_indices": [
+        380
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But he who sent me",
+      "korean_translation": "하지만 나를 보내신 분",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is trustworthy",
+      "korean_translation": "은 신실하시다",
+      "word_indices": [
+        1283
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and what I have heard from him",
+      "korean_translation": "그리고 내가 그에게서 들은 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I tell the world",
+      "korean_translation": "나는 세상에 말한다",
+      "word_indices": [
+        15,
+        190
+      ]
+    }
+  ]
+}

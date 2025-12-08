@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 14:21",
+  "version": "NIV",
+  "original_text": "It is a sin to despise one’s neighbor,\n    but blessed is the one who is kind to the needy.",
+  "korean_text": "이웃을 업신여기는 자는 죄를 범하는 자요 빈곤한 자를 불쌍히 여기는 자는 복이 있는 자니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is a sin to despise one's neighbor",
+      "korean_translation": "이웃을 경멸하는 것은 죄이다",
+      "word_indices": [
+        24,
+        356,
+        620
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but blessed is the one",
+      "korean_translation": "그러나 복이 있는 자는",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is kind to the needy",
+      "korean_translation": "가난한 자에게 친절한 자이다",
+      "word_indices": [
+        279,
+        840
+      ]
+    }
+  ]
+}

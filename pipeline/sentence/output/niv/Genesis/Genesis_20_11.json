@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Genesis 20:11",
+  "version": "NIV",
+  "original_text": "Abraham replied, “I said to myself, ‘There is surely no fear of God in this place, and they will kill me because of my wife.’",
+  "korean_text": "아브라함이 이르되 이 곳에서는 하나님을 두려워함이 없으니 내 아내로 말미암아 사람들이 나를 죽일까 생각하였음이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham replied",
+      "korean_translation": "아브라함이 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I said to myself",
+      "korean_translation": "나는 나 자신에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There is surely no fear of God in this place",
+      "korean_translation": "이곳에는 분명히 하나님을 두려워함이 없다",
+      "word_indices": [
+        1,
+        18,
+        133,
+        150
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they will kill me",
+      "korean_translation": "그리고 그들이 나를 죽일 것이다",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because of my wife",
+      "korean_translation": "내 아내 때문에",
+      "word_indices": [
+        79
+      ]
+    }
+  ]
+}

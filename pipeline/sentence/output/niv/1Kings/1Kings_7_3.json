@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Kings 7:3",
+  "version": "NIV",
+  "original_text": "It was roofed with cedar above the beams that rested on the columns—forty-five beams, fifteen to a row.",
+  "korean_text": "기둥 위에 있는 들보 사십오 개를 백향목으로 덮었는데 들보는 한 줄에 열 다섯이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It was roofed with cedar",
+      "korean_translation": "그것은 백향목으로 지붕이 덮였고",
+      "word_indices": [
+        667,
+        907
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "above the beams",
+      "korean_translation": "들보 위에",
+      "word_indices": [
+        1687
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that rested on the columns",
+      "korean_translation": "기둥 위에 놓인",
+      "word_indices": [
+        114,
+        2804
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "forty-five beams",
+      "korean_translation": "마흔다섯 개의 들보",
+      "word_indices": [
+        196,
+        469,
+        1687
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "fifteen to a row",
+      "korean_translation": "한 줄에 열다섯 개씩",
+      "word_indices": [
+        1462,
+        1762
+      ]
+    }
+  ]
+}

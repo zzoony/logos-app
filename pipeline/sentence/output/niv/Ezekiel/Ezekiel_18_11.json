@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Ezekiel 18:11",
+  "version": "NIV",
+  "original_text": "(though the father has done none of them):\n“He eats at the mountain shrines.\nHe defiles his neighbor’s wife.",
+  "korean_text": "산 위에서 제물을 먹거나 이웃의 아내를 더럽히거나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "though the father has done none of them",
+      "korean_translation": "아버지는 그것들 중 어느 것도 행하지 않았지만",
+      "word_indices": [
+        12,
+        127,
+        497
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He eats at the mountain shrines",
+      "korean_translation": "그는 산당에서 먹는다",
+      "word_indices": [
+        33,
+        147
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He defiles his neighbor's wife",
+      "korean_translation": "그는 이웃의 아내를 더럽힌다",
+      "word_indices": [
+        79,
+        356
+      ]
+    }
+  ]
+}

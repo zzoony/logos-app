@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Romans 4:7",
+  "version": "NIV",
+  "original_text": "“Blessed are those\n    whose transgressions are forgiven,\n    whose sins are covered.",
+  "korean_text": "불법이 사함을 받고 죄가 가리어짐을 받는 사람들은 복이 있고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed are those",
+      "korean_translation": "그들은 복이 있나니",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose transgressions are forgiven",
+      "korean_translation": "그들의 범과가 사함을 받았음이라",
+      "word_indices": [
+        1413
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose sins are covered",
+      "korean_translation": "그들의 죄가 가려졌음이라",
+      "word_indices": [
+        24,
+        200
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 109:16",
+  "version": "NIV",
+  "original_text": "For he never thought of doing a kindness,\n    but hounded to death the poor\n    and the needy and the brokenhearted.",
+  "korean_text": "그가 인자를 베풀 일을 생각하지 아니하고 가난하고 궁핍한 자와 마음이 상한 자를 핍박하여 죽이려 하였기 때문이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he never thought of doing a kindness",
+      "korean_translation": "그는 결코 친절을 베풀 생각을 하지 않았고",
+      "word_indices": [
+        1001
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but hounded to death the poor",
+      "korean_translation": "오히려 가난한 자들을 죽을 때까지 쫓고",
+      "word_indices": [
+        80,
+        298,
+        4477
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the needy",
+      "korean_translation": "궁핍한 자들과",
+      "word_indices": [
+        840
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the brokenhearted",
+      "korean_translation": "마음이 상한 자들을 핍박했다",
+      "word_indices": []
+    }
+  ]
+}

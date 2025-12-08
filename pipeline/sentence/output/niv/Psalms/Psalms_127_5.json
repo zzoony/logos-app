@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 127:5",
+  "version": "NIV",
+  "original_text": "Blessed is the man\n    whose quiver is full of them.\nThey will not be put to shame\n    when they contend with their opponents in court.",
+  "korean_text": "이것이 그의 화살통에 가득한 자는 복되도다 그들이 성문에서 그들의 원수와 담판할 때에 수치를 당하지 아니하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the man",
+      "korean_translation": "그 사람은 복이 있나니",
+      "word_indices": [
+        10,
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose quiver is full of them.",
+      "korean_translation": "그의 화살통이 그것들로 가득하도다",
+      "word_indices": [
+        258,
+        2543
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They will not be put to shame",
+      "korean_translation": "그들은 부끄러움을 당하지 아니하리니",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when they contend with their opponents in court.",
+      "korean_translation": "그들이 법정에서 대적자와 다툴 때에",
+      "word_indices": [
+        351,
+        1760,
+        2257
+      ]
+    }
+  ]
+}

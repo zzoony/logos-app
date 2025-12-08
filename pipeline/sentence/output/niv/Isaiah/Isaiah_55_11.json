@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 55:11",
+  "version": "NIV",
+  "original_text": "so is my word that goes out from my mouth:\n    It will not return to me empty,\nbut will accomplish what I desire\n    and achieve the purpose for which I sent it.",
+  "korean_text": "내 입에서 나가는 말도 이와 같이 헛되이 내게로 되돌아오지 아니하고 나의 기뻐하는 뜻을 이루며 내가 보낸 일에 형통하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "so is my word that goes out from my mouth",
+      "korean_translation": "내 입에서 나가는 내 말도 그와 같으니",
+      "word_indices": [
+        19,
+        143
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It will not return to me empty",
+      "korean_translation": "내게로 공허하게 돌아오지 아니하나니",
+      "word_indices": [
+        89,
+        866
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but will accomplish what I desire",
+      "korean_translation": "나의 기뻐하는 것을 이루며",
+      "word_indices": [
+        430,
+        1579
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and achieve the purpose for which I sent it",
+      "korean_translation": "내가 보낸 그 일에 형통하리라",
+      "word_indices": [
+        917,
+        2260
+      ]
+    }
+  ]
+}

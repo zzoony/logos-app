@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Proverbs 30:19",
+  "version": "NIV",
+  "original_text": "the way of an eagle in the sky,\n    the way of a snake on a rock,\nthe way of a ship on the high seas,\n    and the way of a man with a young woman.",
+  "korean_text": "곧 공중에 날아다니는 독수리의 자취와 반석 위로 기어 다니는 뱀의 자취와 바다로 지나다니는 배의 자취와 남자가 여자와 함께 한 자취며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the way of an eagle in the sky",
+      "korean_translation": "하늘에 있는 독수리의 길",
+      "word_indices": [
+        536,
+        1310
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the way of a snake on a rock",
+      "korean_translation": "바위에 있는 뱀의 길",
+      "word_indices": [
+        369,
+        1147
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the way of a ship on the high seas",
+      "korean_translation": "높은 바다에 있는 배의 길",
+      "word_indices": [
+        105,
+        108,
+        804
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the way of a man with a young woman",
+      "korean_translation": "젊은 여성과 함께하는 남자의 길",
+      "word_indices": [
+        10,
+        50,
+        130
+      ]
+    }
+  ]
+}

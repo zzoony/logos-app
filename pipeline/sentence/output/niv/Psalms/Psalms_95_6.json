@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 95:6",
+  "version": "NIV",
+  "original_text": "Come, let us bow down in worship,\n    let us kneel before the Lord our Maker;",
+  "korean_text": "오라 우리가 굽혀 경배하며 우리를 지으신 여호와 앞에 무릎을 꿇자",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come",
+      "korean_translation": "오라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let us bow down in worship",
+      "korean_translation": "우리가 경배하며 엎드리자",
+      "word_indices": [
+        204,
+        263
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us kneel",
+      "korean_translation": "우리가 무릎 꿇자",
+      "word_indices": [
+        1568
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before the Lord",
+      "korean_translation": "주 앞에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "our Maker",
+      "korean_translation": "우리를 만드신 이",
+      "word_indices": [
+        1318
+      ]
+    }
+  ]
+}

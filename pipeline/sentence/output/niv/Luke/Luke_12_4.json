@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 12:4",
+  "version": "NIV",
+  "original_text": "“I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.",
+  "korean_text": "내가 내 친구 너희에게 말하노니 몸을 죽이고 그 후에는 능히 더 못하는 자들을 두려워하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you, my friends",
+      "korean_translation": "내가 너희 친구들에게 말하노라",
+      "word_indices": [
+        15,
+        335
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not be afraid",
+      "korean_translation": "두려워하지 말라",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of those who kill the body",
+      "korean_translation": "몸을 죽이는 자들을",
+      "word_indices": [
+        76,
+        137
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and after that can do no more",
+      "korean_translation": "그 후에는 더 할 수 없는 자들을",
+      "word_indices": []
+    }
+  ]
+}

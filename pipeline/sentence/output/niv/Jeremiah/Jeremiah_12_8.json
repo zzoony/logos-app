@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Jeremiah 12:8",
+  "version": "NIV",
+  "original_text": "My inheritance has become to me\n    like a lion in the forest.\nShe roars at me;\n    therefore I hate her.",
+  "korean_text": "내 소유가 숲속의 사자 같이 되어서 나를 향하여 그 소리를 내므로 내가 그를 미워하였음이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My inheritance has become to me like a lion in the forest.",
+      "korean_translation": "나의 기업이 내게 숲속의 사자와 같이 되었도다.",
+      "word_indices": [
+        7,
+        32,
+        208,
+        399,
+        902
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She roars at me;",
+      "korean_translation": "그것이 내게 울부짖고",
+      "word_indices": [
+        799
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "therefore I hate her.",
+      "korean_translation": "그러므로 내가 그것을 미워하였노라.",
+      "word_indices": [
+        83,
+        520
+      ]
+    }
+  ]
+}

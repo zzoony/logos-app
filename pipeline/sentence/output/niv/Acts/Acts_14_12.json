@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Acts 14:12",
+  "version": "NIV",
+  "original_text": "Barnabas they called Zeus, and Paul they called Hermes because he was the chief speaker.",
+  "korean_text": "바나바는 제우스라 하고 바울은 그 중에 말하는 자이므로 헤르메스라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Barnabas they called Zeus",
+      "korean_translation": "그들은 바나바를 제우스라 불렀다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Paul they called Hermes",
+      "korean_translation": "그리고 바울을 헤르메스라 불렀다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he was the chief speaker",
+      "korean_translation": "왜냐하면 그가 주요 발언자였기 때문이다",
+      "word_indices": [
+        320,
+        3096
+      ]
+    }
+  ]
+}

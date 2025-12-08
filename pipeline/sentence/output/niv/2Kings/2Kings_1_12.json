@@ -1,0 +1,60 @@
+{
+  "verse_reference": "2 Kings 1:12",
+  "version": "NIV",
+  "original_text": "“If I am a man of God,” Elijah replied, “may fire come down from heaven and consume you and your fifty men!” Then the fire of God fell from heaven and consumed him and his fifty men.",
+  "korean_text": "엘리야가 그들에게 대답하여 이르되 내가 만일 하나님의 사람이면 불이 하늘에서 내려와 너와 너의 오십 명을 사를지로다 하매 하나님의 불이 곧 하늘에서 내려와 그와 그의 군사 오십 명을 살랐더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I am a man of God",
+      "korean_translation": "내가 하나님의 사람이라면",
+      "word_indices": [
+        1,
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Elijah replied",
+      "korean_translation": "엘리야가 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "may fire come down from heaven",
+      "korean_translation": "하늘에서 불이 내려오기를",
+      "word_indices": [
+        57,
+        101
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and consume you and your fifty men",
+      "korean_translation": "그리고 너와 너의 오십 명을 삼키기를",
+      "word_indices": [
+        560,
+        598
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then the fire of God fell from heaven",
+      "korean_translation": "그러자 하나님의 불이 하늘에서 내려왔다",
+      "word_indices": [
+        1,
+        57,
+        101,
+        290
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and consumed him and his fifty men",
+      "korean_translation": "그리고 그와 그의 오십 명을 삼켰다",
+      "word_indices": [
+        560
+      ]
+    }
+  ]
+}

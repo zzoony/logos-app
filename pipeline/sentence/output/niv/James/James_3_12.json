@@ -1,0 +1,56 @@
+{
+  "verse_reference": "James 3:12",
+  "version": "NIV",
+  "original_text": "My brothers and sisters, can a fig tree bear olives, or a grapevine bear figs? Neither can a salt spring produce fresh water.",
+  "korean_text": "내 형제들아 어찌 무화과나무가 감람 열매를, 포도나무가 무화과를 맺겠느냐 이와 같이 짠 물이 단 물을 내지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My brothers and sisters",
+      "korean_translation": "나의 형제자매들이여",
+      "word_indices": [
+        53,
+        173
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "can a fig tree bear olives",
+      "korean_translation": "무화과 나무가 올리브를 맺을 수 있겠느냐",
+      "word_indices": [
+        111,
+        164,
+        703
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or a grapevine bear figs",
+      "korean_translation": "또는 포도나무가 무화과를 맺을 수 있겠느냐",
+      "word_indices": [
+        111,
+        703,
+        3441
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Neither can a salt spring",
+      "korean_translation": "소금샘도",
+      "word_indices": [
+        449,
+        1100
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "produce fresh water",
+      "korean_translation": "단물을 내지 못하느니라",
+      "word_indices": [
+        46,
+        682,
+        1709
+      ]
+    }
+  ]
+}

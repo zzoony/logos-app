@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 98:1",
+  "version": "NIV",
+  "original_text": "Sing to the Lord a new song,\n    for he has done marvelous things;\nhis right hand and his holy arm\n    have worked salvation for him.",
+  "korean_text": "새 노래로 여호와께 찬송하라 그는 기이한 일을 행하사 그의 오른손과 거룩한 팔로 자기를 위하여 구원을 베푸셨음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sing to the Lord a new song",
+      "korean_translation": "새 노래로 주께 노래하라",
+      "word_indices": [
+        337,
+        653
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for he has done marvelous things",
+      "korean_translation": "그가 기묘한 일을 행하셨기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his right hand and his holy arm",
+      "korean_translation": "그의 오른손과 그의 거룩한 팔이",
+      "word_indices": [
+        9,
+        59,
+        74,
+        302
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "have worked salvation for him",
+      "korean_translation": "그를 위하여 구원을 이루었도다",
+      "word_indices": [
+        65,
+        467
+      ]
+    }
+  ]
+}

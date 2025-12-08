@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Leviticus 11:25",
+  "version": "NIV",
+  "original_text": "Whoever picks up one of their carcasses must wash their clothes, and they will be unclean till evening.",
+  "korean_text": "그 주검을 옮기는 모든 자는 그 옷을 빨지니 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever picks up one of their carcasses",
+      "korean_translation": "그들의 사체 중 하나를 집어 올리는 사람은",
+      "word_indices": [
+        154,
+        841,
+        1448
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must wash their clothes",
+      "korean_translation": "자기의 옷을 빨아야 하며",
+      "word_indices": [
+        419,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they will be unclean",
+      "korean_translation": "그리고 그들은 부정하게 될 것이며",
+      "word_indices": [
+        250
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "till evening",
+      "korean_translation": "저녁까지 부정할 것이다",
+      "word_indices": []
+    }
+  ]
+}

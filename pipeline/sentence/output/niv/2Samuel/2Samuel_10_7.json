@@ -1,0 +1,39 @@
+{
+  "verse_reference": "2 Samuel 10:7",
+  "version": "NIV",
+  "original_text": "On hearing this, David sent Joab out with the entire army of fighting men.",
+  "korean_text": "다윗이 듣고 요압과 용사의 온 무리를 보내매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On hearing this",
+      "korean_translation": "이 말을 듣고",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "David sent Joab out",
+      "korean_translation": "다윗은 요압을 보냈다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the entire army",
+      "korean_translation": "온 군대와 함께",
+      "word_indices": [
+        168,
+        625
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of fighting men",
+      "korean_translation": "싸우는 사람들의",
+      "word_indices": [
+        227
+      ]
+    }
+  ]
+}

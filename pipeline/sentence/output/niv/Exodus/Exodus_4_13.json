@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Exodus 4:13",
+  "version": "NIV",
+  "original_text": "But Moses said, “Pardon your servant, Lord. Please send someone else.”",
+  "korean_text": "모세가 이르되 오 주여 보낼 만한 자를 보내소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Moses said,",
+      "korean_translation": "그러나 모세가 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Pardon your servant, Lord.",
+      "korean_translation": "주여, 당신의 종을 용서하세요.",
+      "word_indices": [
+        25,
+        1777
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Please send someone else.",
+      "korean_translation": "다른 사람을 보내주십시오.",
+      "word_indices": [
+        20,
+        165,
+        271,
+        485
+      ]
+    }
+  ]
+}

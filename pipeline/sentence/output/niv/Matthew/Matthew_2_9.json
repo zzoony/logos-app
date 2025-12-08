@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Matthew 2:9",
+  "version": "NIV",
+  "original_text": "After they had heard the king, they went on their way, and the star they had seen when it rose went ahead of them until it stopped over the place where the child was.",
+  "korean_text": "박사들이 왕의 말을 듣고 갈새 동방에서 보던 그 별이 문득 앞서 인도하여 가다가 아기 있는 곳 위에 머물러 서 있는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After they had heard the king",
+      "korean_translation": "그들이 왕의 말을 들은 후에",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they went on their way",
+      "korean_translation": "그들은 길을 떠났다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the star they had seen when it rose",
+      "korean_translation": "그리고 그들이 떠오를 때 보았던 별이",
+      "word_indices": [
+        676
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "went ahead of them",
+      "korean_translation": "그들의 앞에서 갔다",
+      "word_indices": [
+        554
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until it stopped over the place",
+      "korean_translation": "그것이 그 장소 위에 멈출 때까지",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "where the child was",
+      "korean_translation": "아이가 있던 곳",
+      "word_indices": [
+        54
+      ]
+    }
+  ]
+}

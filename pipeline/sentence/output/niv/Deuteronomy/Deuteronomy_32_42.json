@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Deuteronomy 32:42",
+  "version": "NIV",
+  "original_text": "I will make my arrows drunk with blood,\n    while my sword devours flesh:\nthe blood of the slain and the captives,\n    the heads of the enemy leaders.”",
+  "korean_text": "내 화살이 피에 취하게 하고 내 칼이 그 고기를 삼키게 하리니 곧 피살자와 포로된 자의 피요 대적의 우두머리의 머리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will make my arrows drunk with blood",
+      "korean_translation": "내가 내 화살들을 피로 취하게 하리라",
+      "word_indices": [
+        94,
+        770
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "while my sword devours flesh",
+      "korean_translation": "내 칼이 살점을 삼키는 동안",
+      "word_indices": [
+        84,
+        307,
+        555
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the blood of the slain and the captives",
+      "korean_translation": "삼킨 자와 포로들의 피",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the heads of the enemy leaders",
+      "korean_translation": "적대 지도자들의 머리",
+      "word_indices": [
+        67,
+        100,
+        222
+      ]
+    }
+  ]
+}

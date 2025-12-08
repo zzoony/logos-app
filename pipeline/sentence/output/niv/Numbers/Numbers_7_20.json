@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Numbers 7:20",
+  "version": "NIV",
+  "original_text": "one gold dish weighing ten shekels, filled with incense;",
+  "korean_text": "또 열 세겔 무게의 금 그릇 하나라 그것에는 향을 채웠고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "one gold dish",
+      "korean_translation": "금 접시 하나",
+      "word_indices": [
+        75,
+        1151
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "weighing ten shekels",
+      "korean_translation": "무게는 십 세겔",
+      "word_indices": [
+        240,
+        362,
+        585
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "filled with incense",
+      "korean_translation": "향으로 채워진",
+      "word_indices": [
+        188,
+        352
+      ]
+    }
+  ]
+}

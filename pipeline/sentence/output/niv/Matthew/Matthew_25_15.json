@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 25:15",
+  "version": "NIV",
+  "original_text": "To one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability. Then he went on his journey.",
+  "korean_text": "각각 그 재능대로 한 사람에게는 금 다섯 달란트를, 한 사람에게는 두 달란트를, 한 사람에게는 한 달란트를 주고 떠났더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To one he gave five bags of gold",
+      "korean_translation": "한 사람에게 금 다섯 봉지를 주고",
+      "word_indices": [
+        5,
+        75,
+        196,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to another two bags",
+      "korean_translation": "다른 사람에게는 두 봉지를 주고",
+      "word_indices": [
+        1206
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to another one bag",
+      "korean_translation": "또 다른 사람에게는 한 봉지를 주었다",
+      "word_indices": [
+        1206
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "each according to his ability",
+      "korean_translation": "각각 그 능력에 따라",
+      "word_indices": [
+        144,
+        1966
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then he went on his journey",
+      "korean_translation": "그리고 그는 길을 떠났다",
+      "word_indices": [
+        827
+      ]
+    }
+  ]
+}

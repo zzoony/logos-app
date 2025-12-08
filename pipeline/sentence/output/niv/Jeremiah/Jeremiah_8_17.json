@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 8:17",
+  "version": "NIV",
+  "original_text": "“See, I will send venomous snakes among you,\n    vipers that cannot be charmed,\n    and they will bite you,”\ndeclares the Lord.",
+  "korean_text": "여호와의 말씀이니라 내가 술법으로도 제어할 수 없는 뱀과 독사를 너희 가운데 보내리니 그것들이 너희를 물리라 하시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "See, I will send venomous snakes among you",
+      "korean_translation": "보라, 내가 너희 중에 독뱀을 보내리라",
+      "word_indices": [
+        20,
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "vipers that cannot be charmed",
+      "korean_translation": "매혹시킬 수 없는 살무사들",
+      "word_indices": [
+        207,
+        1967,
+        2518
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they will bite you",
+      "korean_translation": "그것들이 너희를 물리라",
+      "word_indices": [
+        1835
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "declares the Lord",
+      "korean_translation": "주께서 말씀하시니라",
+      "word_indices": []
+    }
+  ]
+}

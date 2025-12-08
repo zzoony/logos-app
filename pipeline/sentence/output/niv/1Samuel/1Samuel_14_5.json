@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 14:5",
+  "version": "NIV",
+  "original_text": "One cliff stood to the north toward Mikmash, the other to the south toward Geba.",
+  "korean_text": "한 바위는 북쪽에서 믹마스 앞에 일어섰고 하나는 남쪽에서 게바 앞에 일어섰더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One cliff stood to the north",
+      "korean_translation": "하나의 절벽이 북쪽에 서 있었고",
+      "word_indices": [
+        360,
+        2628
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "toward Mikmash",
+      "korean_translation": "믁마스를 향하여",
+      "word_indices": [
+        224
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the other to the south",
+      "korean_translation": "다른 하나는 남쪽에",
+      "word_indices": [
+        433
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "toward Geba",
+      "korean_translation": "게바를 향하여",
+      "word_indices": [
+        224
+      ]
+    }
+  ]
+}

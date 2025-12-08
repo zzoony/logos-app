@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Romans 7:19",
+  "version": "NIV",
+  "original_text": "For I do not do the good I want to do, but the evil I do not want to do—this I keep on doing.",
+  "korean_text": "내가 원하는 바 선은 행하지 아니하고 도리어 원하지 아니하는 바 악을 행하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I do not do the good I want to do",
+      "korean_translation": "내가 원하는 선을 행하지 아니하며",
+      "word_indices": [
+        56,
+        161
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but the evil I do not want to do",
+      "korean_translation": "도리어 원하지 아니하는 악을 행하는도다",
+      "word_indices": [
+        95,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "this I keep on doing",
+      "korean_translation": "이것을 내가 계속하도다",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 9:3",
+  "version": "NIV",
+  "original_text": "Everything that lives and moves about will be food for you. Just as I gave you the green plants, I now give you everything.",
+  "korean_text": "모든 산 동물은 너희의 먹을 것이 될지라 채소 같이 내가 이것을 다 너희에게 주노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Everything that lives and moves about",
+      "korean_translation": "살아있고 움직이는 모든 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will be food for you",
+      "korean_translation": "너에게 음식이 될 것이다",
+      "word_indices": [
+        103
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Just as I gave you the green plants",
+      "korean_translation": "내가 너에게 푸른 식물을 준 것처럼",
+      "word_indices": [
+        5,
+        358,
+        1608
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I now give you everything",
+      "korean_translation": "나는 이제 너에게 모든 것을 준다",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

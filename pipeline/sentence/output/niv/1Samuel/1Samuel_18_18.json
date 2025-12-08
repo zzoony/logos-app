@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 18:18",
+  "version": "NIV",
+  "original_text": "But David said to Saul, “Who am I, and what is my family or my clan in Israel, that I should become the king’s son-in-law?”",
+  "korean_text": "다윗이 사울에게 이르되 내가 누구며 이스라엘 중에 내 친속이나 내 아버지의 집이 무엇이기에 내가 왕의 사위가 되리이까 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But David said to Saul",
+      "korean_translation": "그러나 다윗이 사울에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who am I",
+      "korean_translation": "내가 누구입니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and what is my family or my clan in Israel",
+      "korean_translation": "그리고 이스라엘에서 나의 가족이나 나의 씨족은 무엇입니까",
+      "word_indices": [
+        145,
+        171
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I should become the king's son-in-law?",
+      "korean_translation": "내가 왕의 사위가 되어야 합니까?",
+      "word_indices": [
+        2,
+        4,
+        32,
+        42
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Romans 1:14",
+  "version": "NIV",
+  "original_text": "I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.",
+  "korean_text": "헬라인이나 야만인이나 지혜 있는 자나 어리석은 자에게 다 내가 빚진 자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am obligated",
+      "korean_translation": "나는 의무가 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "both to Greeks and non-Greeks",
+      "korean_translation": "헬라인에게도 비헬라인에게도",
+      "word_indices": [
+        6099
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "both to the wise",
+      "korean_translation": "지혜 있는 자에게도",
+      "word_indices": [
+        288
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the foolish",
+      "korean_translation": "어리석은 자에게도",
+      "word_indices": [
+        990
+      ]
+    }
+  ]
+}

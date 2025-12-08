@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 145:1",
+  "version": "NIV",
+  "original_text": "I will exalt you, my God the King;\n    I will praise your name for ever and ever.",
+  "korean_text": "왕이신 나의 하나님이여 내가 주를 높이고 영원히 주의 이름을 송축하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will exalt you",
+      "korean_translation": "내가 주를 높이리이다",
+      "word_indices": [
+        535
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my God the King",
+      "korean_translation": "나의 왕 나의 하나님",
+      "word_indices": [
+        1,
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will praise your name",
+      "korean_translation": "내가 주의 이름을 찬송하리이다",
+      "word_indices": [
+        17,
+        88
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for ever and ever",
+      "korean_translation": "영원토록",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Romans 9:33",
+  "version": "NIV",
+  "original_text": "As it is written:\n“See, I lay in Zion a stone that causes people to stumble\n    and a rock that makes them fall,\n    and the one who believes in him will never be put to shame.”",
+  "korean_text": "기록된 바 보라 내가 걸림돌과 거치는 바위를 시온에 두노니 그를 믿는 자는 부끄러움을 당하지 아니하리라 함과 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As it is written",
+      "korean_translation": "기록된 바",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "See, I lay in Zion a stone",
+      "korean_translation": "보라, 내가 시온에 돌을 하나 둔다",
+      "word_indices": [
+        125,
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that causes people to stumble",
+      "korean_translation": "그 돌은 사람들에게 거치는 것이 되고",
+      "word_indices": [
+        3,
+        591
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a rock that makes them fall",
+      "korean_translation": "그리고 그들은 넘어지게 되는 반석이 되며",
+      "word_indices": [
+        113,
+        369
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the one who believes in him",
+      "korean_translation": "그를 믿는 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will never be put to shame",
+      "korean_translation": "결코 부끄러움을 당하지 아니하리라",
+      "word_indices": [
+        402
+      ]
+    }
+  ]
+}

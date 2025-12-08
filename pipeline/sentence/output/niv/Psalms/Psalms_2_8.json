@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 2:8",
+  "version": "NIV",
+  "original_text": "Ask me,\n    and I will make the nations your inheritance,\n    the ends of the earth your possession.",
+  "korean_text": "내게 구하라 내가 이방 나라를 네 유업으로 주리니 네 소유가 땅 끝까지 이르리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ask me",
+      "korean_translation": "나에게 구하라",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will make the nations your inheritance",
+      "korean_translation": "내가 이방 민족들을 네게 기업으로 주리라",
+      "word_indices": [
+        41,
+        208
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the ends of the earth your possession",
+      "korean_translation": "땅 끝들을 네게 소유물로 주리라",
+      "word_indices": [
+        40,
+        112,
+        382
+      ]
+    }
+  ]
+}

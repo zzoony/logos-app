@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 86:7",
+  "version": "NIV",
+  "original_text": "When I am in distress, I call to you,\n    because you answer me.",
+  "korean_text": "나의 환난 날에 내가 주께 부르짖으리니 주께서 내게 응답하시리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I am in distress",
+      "korean_translation": "내가 환난 중에 있을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I call to you",
+      "korean_translation": "내가 주께 부르짖나니",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because you answer me",
+      "korean_translation": "주께서 내게 응답하심이라",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

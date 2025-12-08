@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Acts 23:34",
+  "version": "NIV",
+  "original_text": "The governor read the letter and asked what province he was from. Learning that he was from Cilicia,",
+  "korean_text": "총독이 읽고 바울더러 어느 영지 사람이냐 물어 길리기아 사람인 줄 알고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The governor read the letter",
+      "korean_translation": "총독이 편지를 읽었고",
+      "word_indices": [
+        612,
+        656,
+        675
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and asked what province he was from",
+      "korean_translation": "그가 어느 지역에서 왔는지 물었다",
+      "word_indices": [
+        31,
+        756
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Learning that he was from Cilicia",
+      "korean_translation": "그가 길리기아에서 온 것을 알고",
+      "word_indices": [
+        526
+      ]
+    }
+  ]
+}

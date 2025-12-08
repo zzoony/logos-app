@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Hosea 7:15",
+  "version": "NIV",
+  "original_text": "I trained them and strengthened their arms,\n    but they plot evil against me.",
+  "korean_text": "내가 그들 팔을 연습시켜 힘 있게 하였으나 그들은 내게 대하여 악을 꾀하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I trained them",
+      "korean_translation": "내가 그들을 훈련시켰고",
+      "word_indices": [
+        1447
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and strengthened their arms",
+      "korean_translation": "그들의 팔을 강하게 하였으나",
+      "word_indices": [
+        302,
+        843
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but they plot evil against me",
+      "korean_translation": "그들이 나를 해하려고 꾀하는도다",
+      "word_indices": [
+        11,
+        95,
+        688
+      ]
+    }
+  ]
+}

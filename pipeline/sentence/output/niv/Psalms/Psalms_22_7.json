@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 22:7",
+  "version": "NIV",
+  "original_text": "All who see me mock me;\n    they hurl insults, shaking their heads.",
+  "korean_text": "나를 보는 자는 다 나를 비웃으며 입술을 비쭉거리고 머리를 흔들며 말하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All who see me",
+      "korean_translation": "나를 보는 모든 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "mock me",
+      "korean_translation": "나를 조롱하고",
+      "word_indices": [
+        910
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they hurl insults",
+      "korean_translation": "그들은 모욕적인 말을 던지며",
+      "word_indices": [
+        1092,
+        1209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shaking their heads",
+      "korean_translation": "머리를 흔든다",
+      "word_indices": [
+        67
+      ]
+    }
+  ]
+}

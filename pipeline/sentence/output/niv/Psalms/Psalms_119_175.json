@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 119:175",
+  "version": "NIV",
+  "original_text": "Let me live that I may praise you,\n    and may your laws sustain me.",
+  "korean_text": "내 영혼을 살게 하소서 그리하시면 주를 찬송하리이다 주의 규례들이 나를 돕게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let me live",
+      "korean_translation": "나로 살게 하소서",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I may praise you",
+      "korean_translation": "내가 주를 찬송하게 하기 위함이며",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and may your laws sustain me",
+      "korean_translation": "주의 율법이 나를 붙드소서",
+      "word_indices": [
+        42,
+        1530
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 30:29",
+  "version": "NIV",
+  "original_text": "Jacob said to him, “You know how I have worked for you and how your livestock has fared under my care.",
+  "korean_text": "야곱이 그에게 이르되 내가 어떻게 외삼촌을 섬겼는지, 어떻게 외삼촌의 가축을 쳤는지 외삼촌이 아시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob said to him",
+      "korean_translation": "야곱이 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You know how I have worked for you",
+      "korean_translation": "당신은 내가 당신을 위해 어떻게 일했는지 안다",
+      "word_indices": [
+        13,
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and how your livestock has fared under my care",
+      "korean_translation": "그리고 당신의 가축들이 내 돌봄 아래에서 어떻게 지냈는지 안다",
+      "word_indices": [
+        202,
+        436,
+        610
+      ]
+    }
+  ]
+}

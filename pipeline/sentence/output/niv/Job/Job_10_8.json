@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Job 10:8",
+  "version": "NIV",
+  "original_text": "“Your hands shaped me and made me.\n    Will you now turn and destroy me?",
+  "korean_text": "주의 손으로 나를 빚으셨으며 만드셨는데 이제 나를 멸하시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your hands shaped me",
+      "korean_translation": "주의 손이 나를 빚으셨으며",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and made me",
+      "korean_translation": "나를 만드셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Will you now turn",
+      "korean_translation": "이제 돌이키셔서",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and destroy me?",
+      "korean_translation": "나를 멸하시렵니까?",
+      "word_indices": [
+        69
+      ]
+    }
+  ]
+}

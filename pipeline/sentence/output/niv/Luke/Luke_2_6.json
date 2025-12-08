@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Luke 2:6",
+  "version": "NIV",
+  "original_text": "While they were there, the time came for the baby to be born,",
+  "korean_text": "거기 있을 그 때에 해산할 날이 차서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While they were there",
+      "korean_translation": "그들이 거기에 있는 동안",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the time came",
+      "korean_translation": "때가 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the baby to be born",
+      "korean_translation": "아기가 태어날 시간이",
+      "word_indices": [
+        1492
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Proverbs 7:9",
+  "version": "NIV",
+  "original_text": "at twilight, as the day was fading,\n    as the dark of night set in.",
+  "korean_text": "저물 때, 황혼 때, 깊은 밤 흑암 중에라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "at twilight",
+      "korean_translation": "해질 녘에",
+      "word_indices": [
+        1970
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as the day was fading",
+      "korean_translation": "낮이 지물어 갈 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as the dark of night set in",
+      "korean_translation": "밤의 어둠이 찾아올 때",
+      "word_indices": [
+        126,
+        1021
+      ]
+    }
+  ]
+}

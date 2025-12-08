@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Daniel 6:19",
+  "version": "NIV",
+  "original_text": "At the first light of dawn, the king got up and hurried to the lions’ den.",
+  "korean_text": "이튿날에 왕이 새벽에 일어나 급히 사자 굴로 가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At the first light of dawn",
+      "korean_translation": "새벽 첫 빛이 들 때",
+      "word_indices": [
+        205,
+        1032
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king got up",
+      "korean_translation": "왕이 일어났고",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and hurried to the lions' den",
+      "korean_translation": "사자 굴로 서둘러 갔습니다",
+      "word_indices": [
+        399,
+        1440
+      ]
+    }
+  ]
+}

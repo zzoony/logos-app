@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 4:29",
+  "version": "NIV",
+  "original_text": "They got up, drove him out of the town, and took him to the brow of the hill on which the town was built, in order to throw him off the cliff.",
+  "korean_text": "일어나 동네 밖으로 쫓아내어 그 동네가 건설된 산 낭떠러지까지 끌고 가서 밀쳐 떨어뜨리고자 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They got up",
+      "korean_translation": "그들이 일어나서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "drove him out of the town",
+      "korean_translation": "그를 성 밖으로 쫓아내고",
+      "word_indices": [
+        72,
+        4205
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and took him to the brow of the hill",
+      "korean_translation": "그를 언덕 꼭대기로 데려갔는데",
+      "word_indices": [
+        216,
+        3111
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on which the town was built",
+      "korean_translation": "그 성이 세워진 곳이었고",
+      "word_indices": [
+        72
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in order to throw him off the cliff",
+      "korean_translation": "그를 절벽에서 던져버리려고 했음",
+      "word_indices": [
+        163,
+        221,
+        2628
+      ]
+    }
+  ]
+}

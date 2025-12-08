@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Amos 3:12",
+  "version": "NIV",
+  "original_text": "This is what the Lord says:\n“As a shepherd rescues from the lion’s mouth\n    only two leg bones or a piece of an ear,\nso will the Israelites living in Samaria be rescued,\n    with only the head of a bed\n    and a piece of fabric from a couch.”",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 목자가 사자 입에서 양의 두 다리나 귀 조각을 건져냄과 같이 사마리아에서 침상 모서리에나 걸상의 방석에 앉은 이스라엘 자손도 건져냄을 입으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says:",
+      "korean_translation": "이것이 주께서 말씀하시는 바입니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "As a shepherd rescues from the lion's mouth",
+      "korean_translation": "목자가 사자의 입에서 구하듯이",
+      "word_indices": [
+        143,
+        399,
+        437
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "only two leg bones or a piece of an ear,",
+      "korean_translation": "다리 뼈 두 개 또는 귀 조각밖에 구하지 못하고",
+      "word_indices": [
+        374,
+        383,
+        1237
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so will the Israelites living in Samaria be rescued,",
+      "korean_translation": "사마리아에 사는 이스라엘 사람들도 그렇게 구원받으리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with only the head of a bed",
+      "korean_translation": "침대 머리 부분과",
+      "word_indices": [
+        67,
+        602
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and a piece of fabric from a couch.",
+      "korean_translation": "소파의 천 조각만 가지고",
+      "word_indices": [
+        374,
+        1792,
+        2313
+      ]
+    }
+  ]
+}

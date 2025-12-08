@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 5:13",
+  "version": "NIV",
+  "original_text": "Jesus reached out his hand and touched the man. “I am willing,” he said. “Be clean!” And immediately the leprosy left him.",
+  "korean_text": "예수께서 손을 내밀어 그에게 대시며 이르시되 내가 원하노니 깨끗함을 받으라 하신대 나병이 곧 떠나니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus reached out his hand",
+      "korean_translation": "예수님은 손을 뻗으셨다",
+      "word_indices": [
+        9,
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and touched the man",
+      "korean_translation": "그리고 그 사람을 만지셨다",
+      "word_indices": [
+        10,
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am willing",
+      "korean_translation": "내가 원하노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he said",
+      "korean_translation": "그가 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Be clean",
+      "korean_translation": "깨끗하게 되라",
+      "word_indices": [
+        440
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And immediately the leprosy left him",
+      "korean_translation": "그리고 즉시 문둥병이 그에게서 떠났다",
+      "word_indices": [
+        863,
+        1439
+      ]
+    }
+  ]
+}

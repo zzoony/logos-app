@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Leviticus 26:5",
+  "version": "NIV",
+  "original_text": "Your threshing will continue until grape harvest and the grape harvest will continue until planting, and you will eat all the food you want and live in safety in your land.",
+  "korean_text": "너희의 타작은 포도 딸 때까지 미치며 너희의 포도 따는 것은 파종할 때까지 미치리니 너희가 음식을 배불리 먹고 너희의 땅에 안전하게 거주하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your threshing will continue until grape harvest",
+      "korean_translation": "너희의 타작 작업은 포도 수확까지 계속될 것이며",
+      "word_indices": [
+        338,
+        472,
+        805,
+        860
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the grape harvest will continue until planting",
+      "korean_translation": "포도 수확은 파종할 때까지 계속될 것이며",
+      "word_indices": [
+        338,
+        358,
+        472,
+        860
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you will eat all the food you want",
+      "korean_translation": "너희는 원하는 모든 음식을 먹을 것이며",
+      "word_indices": [
+        33,
+        103,
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and live in safety in your land",
+      "korean_translation": "너희 땅에서 안전하게 살 것이다",
+      "word_indices": [
+        8,
+        14,
+        1168
+      ]
+    }
+  ]
+}

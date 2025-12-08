@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 144:13",
+  "version": "NIV",
+  "original_text": "Our barns will be filled\n    with every kind of provision.\nOur sheep will increase by thousands,\n    by tens of thousands in our fields;",
+  "korean_text": "우리의 곳간에는 백곡이 가득하며 우리의 양은 들에서 천천과 만만으로 번성하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our barns will be filled",
+      "korean_translation": "우리의 곳간이 가득할 것이며",
+      "word_indices": [
+        188,
+        2343
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with every kind of provision",
+      "korean_translation": "모든 종류의 양식으로",
+      "word_indices": [
+        279,
+        1424
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Our sheep will increase by thousands",
+      "korean_translation": "우리의 양들은 천으로 늘어나고",
+      "word_indices": [
+        136,
+        251,
+        583
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by tens of thousands in our fields",
+      "korean_translation": "만으로 우리 들에서 불어나리로다",
+      "word_indices": [
+        136,
+        156,
+        240
+      ]
+    }
+  ]
+}

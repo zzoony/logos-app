@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Deuteronomy 23:19",
+  "version": "NIV",
+  "original_text": "Do not charge a fellow Israelite interest, whether on money or food or anything else that may earn interest.",
+  "korean_text": "네가 형제에게 꾸어주거든 이자를 받지 말지니 곧 돈의 이자, 식물의 이자, 이자를 낼 만한 모든 것의 이자를 받지 말 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not charge a fellow Israelite interest",
+      "korean_translation": "동족 이스라엘인에게 이자를 받지 말라",
+      "word_indices": [
+        243,
+        348,
+        1396
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whether on money or food",
+      "korean_translation": "돈이나 음식에 대해서든",
+      "word_indices": [
+        103,
+        448
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or anything else that may earn interest",
+      "korean_translation": "또는 이자를 낼 수 있는 다른 어떤 것에 대해서든",
+      "word_indices": [
+        485,
+        1396,
+        2463
+      ]
+    }
+  ]
+}

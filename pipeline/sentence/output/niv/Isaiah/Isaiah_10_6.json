@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Isaiah 10:6",
+  "version": "NIV",
+  "original_text": "I send him against a godless nation,\n    I dispatch him against a people who anger me,\nto seize loot and snatch plunder,\n    and to trample them down like mud in the streets.",
+  "korean_text": "내가 그를 보내어 경건하지 아니한 나라를 치게 하며 내가 그에게 명령하여 나를 노하게 한 백성을 쳐서 탈취하며 노략하게 하며 또 그들을 길거리의 진흙 같이 짓밟게 하려 하거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I send him against a godless nation",
+      "korean_translation": "내가 그를 경건하지 않은 나라에게 보내니",
+      "word_indices": [
+        11,
+        20,
+        41
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I dispatch him against a people who anger me",
+      "korean_translation": "내가 그를 나를 노하게 하는 백성에게 보내며",
+      "word_indices": [
+        3,
+        11,
+        185,
+        3023
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to seize loot",
+      "korean_translation": "전리품을 빼앗고",
+      "word_indices": [
+        576,
+        1573
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and snatch plunder",
+      "korean_translation": "탈취물을 강탈하며",
+      "word_indices": [
+        401,
+        1603
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to trample them down",
+      "korean_translation": "그들을 짓밟고",
+      "word_indices": [
+        833
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "like mud in the streets",
+      "korean_translation": "거리의 진흙처럼 밟으리라",
+      "word_indices": [
+        7,
+        613,
+        1868
+      ]
+    }
+  ]
+}

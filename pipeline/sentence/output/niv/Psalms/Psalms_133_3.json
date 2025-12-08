@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 133:3",
+  "version": "NIV",
+  "original_text": "It is as if the dew of Hermon\n    were falling on Mount Zion.\nFor there the Lord bestows his blessing,\n    even life forevermore.",
+  "korean_text": "헐몬의 이슬이 시온의 산들에 내림 같도다 거기서 여호와께서 복을 명령하셨나니 곧 영생이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is as if the dew of Hermon",
+      "korean_translation": "헤르몬의 이슬이 마치",
+      "word_indices": [
+        1142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were falling on Mount Zion",
+      "korean_translation": "시온 산에 내리는 것 같도다",
+      "word_indices": [
+        113,
+        308
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For there the Lord bestows his blessing",
+      "korean_translation": "이는 그곳에서 여호와께서 복을 주시기 때문이니",
+      "word_indices": [
+        97,
+        2175
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even life forevermore",
+      "korean_translation": "곧 영원한 생명이라",
+      "word_indices": [
+        37,
+        2864
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 132:15",
+  "version": "NIV",
+  "original_text": "I will bless her with abundant provisions;\n    her poor I will satisfy with food.",
+  "korean_text": "내가 이 성의 식료품에 풍족히 복을 주고 떡으로 그 빈민을 만족하게 하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will bless her",
+      "korean_translation": "내가 그녀를 축복하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with abundant provisions",
+      "korean_translation": "풍성한 양식으로",
+      "word_indices": [
+        1243,
+        1424
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "her poor I will satisfy",
+      "korean_translation": "그녀의 가난한 자들을 내가 만족시키리라",
+      "word_indices": [
+        298,
+        787
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with food",
+      "korean_translation": "음식으로",
+      "word_indices": [
+        103
+      ]
+    }
+  ]
+}

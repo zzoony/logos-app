@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 33:17",
+  "version": "NIV",
+  "original_text": "A horse is a vain hope for deliverance;\n    despite all its great strength it cannot save.",
+  "korean_text": "구원하는 데에 군마는 헛되며 군대가 많다 하여도 능히 구하지 못하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A horse is a vain hope for deliverance",
+      "korean_translation": "말은 구원을 위한 헛된 소망이다",
+      "word_indices": [
+        294,
+        326,
+        1128,
+        1615
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "despite all its great strength",
+      "korean_translation": "그 모든 큰 힘에도 불구하고",
+      "word_indices": [
+        44,
+        291,
+        2502
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it cannot save",
+      "korean_translation": "그것은 구원할 수 없다",
+      "word_indices": [
+        139,
+        207
+      ]
+    }
+  ]
+}

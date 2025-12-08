@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Lamentations 4:4",
+  "version": "NIV",
+  "original_text": "Because of thirst the infant’s tongue\n    sticks to the roof of its mouth;\nthe children beg for bread,\n    but no one gives it to them.",
+  "korean_text": "젖먹이가 목말라서 혀가 입천장에 붙음이여 어린 아이들이 떡을 구하나 떼어 줄 사람이 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of thirst",
+      "korean_translation": "갈증 때문에",
+      "word_indices": [
+        1395
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the infant's tongue sticks to the roof of its mouth",
+      "korean_translation": "유아의 혀가 입천장에 달라붙는다",
+      "word_indices": [
+        143,
+        400,
+        907,
+        1342,
+        1555
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the children beg for bread",
+      "korean_translation": "어린이들이 빵을 구걸한다",
+      "word_indices": [
+        187,
+        930
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but no one gives it to them",
+      "korean_translation": "하지만 아무도 그것을 주지 않는다",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

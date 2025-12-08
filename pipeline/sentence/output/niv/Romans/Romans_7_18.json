@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Romans 7:18",
+  "version": "NIV",
+  "original_text": "For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out.",
+  "korean_text": "내 속 곧 내 육신에 선한 것이 거하지 아니하는 줄을 아노니 원함은 내게 있으나 선을 행하는 것은 없노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I know that good itself does not dwell in me",
+      "korean_translation": "내게는 선 자체가 거하지 않음을 내가 아노니",
+      "word_indices": [
+        13,
+        56,
+        305
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that is, in my sinful nature",
+      "korean_translation": "곧 내 죄성 안에",
+      "word_indices": [
+        1294,
+        2027
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For I have the desire to do what is good",
+      "korean_translation": "내가 선한 것을 하려는 원함은 있으나",
+      "word_indices": [
+        56,
+        430
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but I cannot carry it out",
+      "korean_translation": "행하지 아니하노라",
+      "word_indices": [
+        129,
+        207
+      ]
+    }
+  ]
+}

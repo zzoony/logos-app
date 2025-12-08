@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 132:11",
+  "version": "NIV",
+  "original_text": "The Lord swore an oath to David,\n    a sure oath he will not revoke:\n“One of your own descendants\n    I will place on your throne.",
+  "korean_text": "여호와께서 다윗에게 성실히 맹세하셨으니 변하지 아니하실지라 이르시기를 네 몸의 소생을 네 왕위에 둘지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord swore an oath to David",
+      "korean_translation": "주께서 다윗에게 맹세하셨으니",
+      "word_indices": [
+        391
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a sure oath he will not revoke",
+      "korean_translation": "변치 않을 확실한 맹세로다",
+      "word_indices": [
+        391,
+        803,
+        3275
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "One of your own descendants",
+      "korean_translation": "네 자손 중 한 사람을",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will place on your throne",
+      "korean_translation": "내가 네 왕위에 앉이리라",
+      "word_indices": [
+        18,
+        282
+      ]
+    }
+  ]
+}

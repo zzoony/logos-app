@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Zechariah 6:6",
+  "version": "NIV",
+  "original_text": "The one with the black horses is going toward the north country, the one with the white horses toward the west, and the one with the dappled horses toward the south.”",
+  "korean_text": "검은 말은 북쪽 땅으로 나가고 흰 말은 그 뒤를 따르고 어룽진 말은 남쪽 땅으로 나가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one with the black horses",
+      "korean_translation": "검은 말들을 가진 자는",
+      "word_indices": [
+        1837
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is going toward the north country",
+      "korean_translation": "북쪽 나라로 향하고 있으며",
+      "word_indices": [
+        167,
+        224,
+        360
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the one with the white horses",
+      "korean_translation": "흰 말들을 가진 자는",
+      "word_indices": [
+        751
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "toward the west",
+      "korean_translation": "서쪽으로 향하고 있으며",
+      "word_indices": [
+        224,
+        569
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the one with the dappled horses",
+      "korean_translation": "점박이 말들을 가진 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "toward the south",
+      "korean_translation": "남쪽으로 향하고 있다",
+      "word_indices": [
+        224,
+        433
+      ]
+    }
+  ]
+}

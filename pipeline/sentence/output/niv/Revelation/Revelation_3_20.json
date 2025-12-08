@@ -1,0 +1,71 @@
+{
+  "verse_reference": "Revelation 3:20",
+  "version": "NIV",
+  "original_text": "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.",
+  "korean_text": "볼지어다 내가 문 밖에 서서 두드리노니 누구든지 내 음성을 듣고 문을 열면 내가 그에게로 들어가 그와 더불어 먹고 그는 나와 더불어 먹으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Here I am!",
+      "korean_translation": "내가 여기 있노라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I stand at the door",
+      "korean_translation": "내가 문 앞에 서서",
+      "word_indices": [
+        45,
+        415
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and knock.",
+      "korean_translation": "문을 두드리노라.",
+      "word_indices": [
+        2048
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If anyone hears my voice",
+      "korean_translation": "누구든지 내 음성을 듣고",
+      "word_indices": [
+        16,
+        68,
+        241
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and opens the door",
+      "korean_translation": "문을 열면",
+      "word_indices": [
+        160,
+        415
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will come in",
+      "korean_translation": "내가 그에게로 들어가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and eat with that person",
+      "korean_translation": "그와 함께 식사하며",
+      "word_indices": [
+        33,
+        134
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and they with me.",
+      "korean_translation": "그도 나와 함께 하리라.",
+      "word_indices": []
+    }
+  ]
+}

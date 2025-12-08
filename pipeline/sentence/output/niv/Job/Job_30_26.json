@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Job 30:26",
+  "version": "NIV",
+  "original_text": "Yet when I hoped for good, evil came;\n    when I looked for light, then came darkness.",
+  "korean_text": "내가 복을 바랐더니 화가 왔고 광명을 기다렸더니 흑암이 왔구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yet when I hoped for good",
+      "korean_translation": "그러나 내가 선을 바랄 때",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "evil came",
+      "korean_translation": "악이 왔고",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when I looked for light",
+      "korean_translation": "내가 빛을 찾을 때",
+      "word_indices": [
+        51,
+        205
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then came darkness",
+      "korean_translation": "어둠이 왔도다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 94:18",
+  "version": "NIV",
+  "original_text": "When I said, “My foot is slipping,”\n    your unfailing love, Lord, supported me.",
+  "korean_text": "여호와여 나의 발이 미끄러진다고 말할 때에 주의 인자하심이 나를 붙드셨사오며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I said",
+      "korean_translation": "내가 말할 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My foot is slipping",
+      "korean_translation": "내 발이 미끄러진다",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your unfailing love",
+      "korean_translation": "당신의 변치 않는 사랑이",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "supported me",
+      "korean_translation": "나를 붙드셨다",
+      "word_indices": [
+        968
+      ]
+    }
+  ]
+}

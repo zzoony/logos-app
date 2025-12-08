@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 38:10",
+  "version": "NIV",
+  "original_text": "My heart pounds, my strength fails me;\n    even the light has gone from my eyes.",
+  "korean_text": "내 심장이 뛰고 내 기력이 쇠하여 내 눈의 빛도 나를 떠났나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My heart pounds",
+      "korean_translation": "내 마음이 뛴다",
+      "word_indices": [
+        36,
+        1929
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my strength fails me",
+      "korean_translation": "내 힘이 나를 떠난다",
+      "word_indices": [
+        291,
+        519
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even the light has gone from my eyes",
+      "korean_translation": "빛마저 내 눈에서 떠났다",
+      "word_indices": [
+        205
+      ]
+    }
+  ]
+}

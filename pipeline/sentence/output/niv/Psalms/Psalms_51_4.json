@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 51:4",
+  "version": "NIV",
+  "original_text": "Against you, you only, have I sinned\n    and done what is evil in your sight;\nso you are right in your verdict\n    and justified when you judge.",
+  "korean_text": "내가 주께만 범죄하여 주의 목전에 악을 행하였사오니 주께서 말씀하실 때에 의로우시다 하고 주께서 심판하실 때에 순전하시다 하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Against you, you only, have I sinned",
+      "korean_translation": "오직 당신에게만 죄를 지었습니다",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and done what is evil in your sight",
+      "korean_translation": "그리고 당신의 보시기에 악한 일을 행했습니다",
+      "word_indices": [
+        95,
+        353
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so you are right in your verdict",
+      "korean_translation": "그러므로 당신의 판결은 옳습니다",
+      "word_indices": [
+        74,
+        2971
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and justified when you judge",
+      "korean_translation": "그리고 당신이 심판하실 때 의롭습니다",
+      "word_indices": [
+        211
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 1:15",
+  "version": "NIV",
+  "original_text": "When you spread out your hands in prayer,\n    I hide my eyes from you;\neven when you offer many prayers,\n    I am not listening.\nYour hands are full of blood!",
+  "korean_text": "너희가 손을 펼 때에 내가 내 눈을 너희에게서 가리고 너희가 많이 기도할지라도 내가 듣지 아니하리니 이는 너희의 손에 피가 가득함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you spread out your hands in prayer",
+      "korean_translation": "당신이 기도하려고 손을 펼칠 때",
+      "word_indices": [
+        9,
+        253,
+        406
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I hide my eyes from you",
+      "korean_translation": "나는 당신으로부터 내 눈을 숨깁니다",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even when you offer many prayers",
+      "korean_translation": "당신이 많은 기도를 드릴지라도",
+      "word_indices": [
+        21,
+        406
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am not listening",
+      "korean_translation": "나는 듣고 있지 않습니다",
+      "word_indices": [
+        86
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Your hands are full of blood",
+      "korean_translation": "당신의 손은 피로 가득 차 있습니다",
+      "word_indices": [
+        9,
+        94,
+        258
+      ]
+    }
+  ]
+}

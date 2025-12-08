@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 1:17",
+  "version": "NIV",
+  "original_text": "Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Messiah.",
+  "korean_text": "그런즉 모든 대 수가 아브라함부터 다윗까지 열네 대요 다윗부터 바벨론으로 사로잡혀 갈 때까지 열네 대요 바벨론으로 사로잡혀 간 후부터 그리스도까지 열네 대더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus there were fourteen generations in all",
+      "korean_translation": "그래서 모두 열네 대가 있었으니",
+      "word_indices": [
+        324,
+        1353
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from Abraham to David",
+      "korean_translation": "아브라함부터 다윗까지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "fourteen from David to the exile",
+      "korean_translation": "열네 대는 다윗부터 바빌론 유배까지",
+      "word_indices": [
+        427,
+        1353
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to Babylon",
+      "korean_translation": "바빌론으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and fourteen from the exile",
+      "korean_translation": "그리고 열네 대는 유배로부터",
+      "word_indices": [
+        427,
+        1353
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to the Messiah",
+      "korean_translation": "메시아까지이니라",
+      "word_indices": [
+        717
+      ]
+    }
+  ]
+}

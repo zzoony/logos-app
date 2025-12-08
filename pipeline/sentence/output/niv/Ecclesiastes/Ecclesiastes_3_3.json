@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ecclesiastes 3:3",
+  "version": "NIV",
+  "original_text": "a time to kill and a time to heal,\n    a time to tear down and a time to build,",
+  "korean_text": "죽일 때가 있고 치료할 때가 있으며 헐 때가 있고 세울 때가 있으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a time to kill",
+      "korean_translation": "죽일 때가 있고",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a time to heal",
+      "korean_translation": "살릴 때가 있으며",
+      "word_indices": [
+        354
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a time to tear down",
+      "korean_translation": "헐 때가 있고",
+      "word_indices": [
+        254
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a time to build",
+      "korean_translation": "세울 때가 있나니",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

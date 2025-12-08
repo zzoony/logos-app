@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 71:11",
+  "version": "NIV",
+  "original_text": "They say, “God has forsaken him;\n    pursue him and seize him,\n    for no one will rescue him.”",
+  "korean_text": "이르기를 하나님이 그를 버리셨은즉 따라 잡으라 건질 자가 없다 하오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They say",
+      "korean_translation": "그들이 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God has forsaken him",
+      "korean_translation": "하나님께서 그를 버리셨다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "pursue him",
+      "korean_translation": "그를 쫓아라",
+      "word_indices": [
+        459
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and seize him",
+      "korean_translation": "그를 잡아라",
+      "word_indices": [
+        576
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for no one will rescue him",
+      "korean_translation": "아무도 그를 구원하지 않을 것이기 때문이다",
+      "word_indices": [
+        398
+      ]
+    }
+  ]
+}

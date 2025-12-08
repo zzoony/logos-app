@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 1:2",
+  "version": "NIV",
+  "original_text": "Abraham was the father of Isaac,\nIsaac the father of Jacob,\nJacob the father of Judah and his brothers,",
+  "korean_text": "아브라함이 이삭을 낳고 이삭은 야곱을 낳고 야곱은 유다와 그의 형제들을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham was the father of Isaac",
+      "korean_translation": "아브라함은 이삭의 아버지였으며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Isaac the father of Jacob",
+      "korean_translation": "이삭은 야곱의 아버지였고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jacob the father of Judah",
+      "korean_translation": "야곱은 유다의 아버지였으며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his brothers",
+      "korean_translation": "그의 형제들의 아버지였다",
+      "word_indices": [
+        53
+      ]
+    }
+  ]
+}

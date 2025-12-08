@@ -1,0 +1,69 @@
+{
+  "verse_reference": "1 Kings 4:23",
+  "version": "NIV",
+  "original_text": "ten head of stall-fed cattle, twenty of pasture-fed cattle and a hundred sheep and goats, as well as deer, gazelles, roebucks and choice fowl.",
+  "korean_text": "살진 소가 열 마리요 초장의 소가 스무 마리요 양이 백 마리이며 그 외에 수사슴과 노루와 암사슴과 살진 새들이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "ten head of stall-fed cattle",
+      "korean_translation": "우리에서 기른 소 열 마리",
+      "word_indices": [
+        67,
+        240,
+        655,
+        2818
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "twenty of pasture-fed cattle",
+      "korean_translation": "목초지에서 기른 소 스무 마리",
+      "word_indices": [
+        220,
+        655,
+        911
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a hundred sheep and goats",
+      "korean_translation": "그리고 백 마리의 양과 염소",
+      "word_indices": [
+        251,
+        311
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as well as deer",
+      "korean_translation": "사슴도 있었고",
+      "word_indices": [
+        1995
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "gazelles",
+      "korean_translation": "가젤도 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "roebucks",
+      "korean_translation": "노루도 있었고",
+      "word_indices": [
+        5151
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and choice fowl",
+      "korean_translation": "그리고 선별된 가금류도 있었습니다",
+      "word_indices": [
+        1181,
+        5152
+      ]
+    }
+  ]
+}

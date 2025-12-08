@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Numbers 12:3",
+  "version": "NIV",
+  "original_text": "(Now Moses was a very humble man, more humble than anyone else on the face of the earth.)",
+  "korean_text": "이 사람 모세는 온유함이 지면의 모든 사람보다 더하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Moses was a very humble man",
+      "korean_translation": "모세는 매우 겸손한 사람이었다",
+      "word_indices": [
+        10,
+        644
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "more humble than anyone else",
+      "korean_translation": "다른 누구보다 더 겸손했다",
+      "word_indices": [
+        68,
+        485,
+        644
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the face of the earth",
+      "korean_translation": "지상의",
+      "word_indices": [
+        40,
+        87
+      ]
+    }
+  ]
+}

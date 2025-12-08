@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 147:9",
+  "version": "NIV",
+  "original_text": "He provides food for the cattle\n    and for the young ravens when they call.",
+  "korean_text": "들짐승과 우는 까마귀 새끼에게 먹을 것을 주시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He provides food for the cattle",
+      "korean_translation": "그는 소들을 위해 먹이를 제공하시고",
+      "word_indices": [
+        103,
+        655
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and for the young ravens",
+      "korean_translation": "그리고 어린 까마귀들을 위해",
+      "word_indices": [
+        130,
+        2195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when they call",
+      "korean_translation": "그들이 부를 때에",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

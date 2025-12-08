@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Isaiah 41:9",
+  "version": "NIV",
+  "original_text": "I took you from the ends of the earth,\n    from its farthest corners I called you.\nI said, ‘You are my servant’;\n    I have chosen you and have not rejected you.",
+  "korean_text": "내가 땅 끝에서부터 너를 붙들며 땅 모퉁이에서부터 너를 부르고 네게 이르기를 너는 나의 종이라 내가 너를 택하고 싫어하여 버리지 아니하였다 하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I took you from the ends of the earth",
+      "korean_translation": "내가 땅 끝에서 너를 데려왔다",
+      "word_indices": [
+        40,
+        112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from its farthest corners I called you",
+      "korean_translation": "그 가장 먼 구석에서 너를 불렀다",
+      "word_indices": [
+        35,
+        736,
+        3201
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I said, 'You are my servant'",
+      "korean_translation": "내가 말하길 '너는 나의 종이라'",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have chosen you",
+      "korean_translation": "내가 너를 택했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and have not rejected you",
+      "korean_translation": "그리고 너를 버리지 않았다",
+      "word_indices": [
+        444
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Leviticus 11:42",
+  "version": "NIV",
+  "original_text": "You are not to eat any creature that moves along the ground, whether it moves on its belly or walks on all fours or on many feet; it is unclean.",
+  "korean_text": "곧 땅에 기어다니는 모든 기는 것 중에 배로 밀어 다니는 것이나 네 발로 걷는 것이나 여러 발을 가진 것이라 너희가 먹지 말지니 이것들은 가증함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are not to eat any creature",
+      "korean_translation": "너는 어떤 생물도 먹지 말라",
+      "word_indices": [
+        33,
+        463
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that moves along the ground",
+      "korean_translation": "땅에서 기어 다니는",
+      "word_indices": [
+        3251
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whether it moves on its belly",
+      "korean_translation": "배로 기던지",
+      "word_indices": [
+        2192
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or walks on all fours",
+      "korean_translation": "네 발로 걷던지",
+      "word_indices": [
+        203,
+        238
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or on many feet",
+      "korean_translation": "많은 발로 걷던지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "it is unclean",
+      "korean_translation": "그것은 부정하다",
+      "word_indices": [
+        250
+      ]
+    }
+  ]
+}

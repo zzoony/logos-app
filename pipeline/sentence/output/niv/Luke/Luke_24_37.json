@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 24:37",
+  "version": "NIV",
+  "original_text": "They were startled and frightened, thinking they saw a ghost.",
+  "korean_text": "그들이 놀라고 무서워하여 그 보는 것을 영으로 생각하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They were startled",
+      "korean_translation": "그들은 놀랐다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and frightened",
+      "korean_translation": "그리고 겁에 질렸다",
+      "word_indices": [
+        1652
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thinking they saw a ghost",
+      "korean_translation": "유령을 본 것이라고 생각하며",
+      "word_indices": [
+        236,
+        3685
+      ]
+    }
+  ]
+}

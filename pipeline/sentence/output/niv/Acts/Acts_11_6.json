@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Acts 11:6",
+  "version": "NIV",
+  "original_text": "I looked into it and saw four-footed animals of the earth, wild beasts, reptiles and birds.",
+  "korean_text": "이것을 주목하여 보니 땅에 네 발 가진 것과 들짐승과 기는 것과 공중에 나는 것들이 보이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I looked into it",
+      "korean_translation": "나는 그것을 살펴보았습니다",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and saw four-footed animals of the earth",
+      "korean_translation": "그리고 땅에 있는 네 발짐승들을 보았습니다",
+      "word_indices": [
+        40,
+        123,
+        195,
+        203
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "wild beasts",
+      "korean_translation": "들짐승들을",
+      "word_indices": [
+        450,
+        545
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "reptiles",
+      "korean_translation": "파충류들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and birds",
+      "korean_translation": "그리고 새들을 보았습니다",
+      "word_indices": [
+        386
+      ]
+    }
+  ]
+}

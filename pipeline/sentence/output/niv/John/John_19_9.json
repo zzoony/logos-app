@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 19:9",
+  "version": "NIV",
+  "original_text": "and he went back inside the palace. “Where do you come from?” he asked Jesus, but Jesus gave him no answer.",
+  "korean_text": "다시 관정에 들어가서 예수께 말하되 너는 어디로부터냐 하되 예수께서 대답하여 주지 아니하시는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and he went back inside the palace",
+      "korean_translation": "그는 궁 안으로 다시 들어갔다",
+      "word_indices": [
+        52,
+        296,
+        646
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"Where do you come from?\"",
+      "korean_translation": "\"너는 어디서 오느냐?\"",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he asked Jesus",
+      "korean_translation": "그는 예수께 물었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but Jesus gave him no answer",
+      "korean_translation": "하지만 예수께서는 그에게 대답하지 않으셨다",
+      "word_indices": [
+        5,
+        63
+      ]
+    }
+  ]
+}

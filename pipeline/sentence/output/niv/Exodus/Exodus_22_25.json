@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Exodus 22:25",
+  "version": "NIV",
+  "original_text": "“If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.",
+  "korean_text": "네가 만일 너와 함께 한 내 백성 중에서 가난한 자에게 돈을 꾸어 주면 너는 그에게 채권자 같이 하지 말며 이자를 받지 말 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you lend money",
+      "korean_translation": "만약 네가 돈을 빌려준다면",
+      "word_indices": [
+        448,
+        1663
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to one of my people among you",
+      "korean_translation": "너희 중 내 백성 중 한 사람에게",
+      "word_indices": [
+        3,
+        27
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is needy,",
+      "korean_translation": "가난한 자에게라면",
+      "word_indices": [
+        840
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "do not treat it like a business deal;",
+      "korean_translation": "그것을 거래처럼 여기지 말며",
+      "word_indices": [
+        7,
+        616,
+        722
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "charge no interest.",
+      "korean_translation": "이자를 받지 말라.",
+      "word_indices": [
+        243,
+        1396
+      ]
+    }
+  ]
+}

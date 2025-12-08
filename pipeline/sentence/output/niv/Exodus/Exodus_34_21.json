@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 34:21",
+  "version": "NIV",
+  "original_text": "“Six days you shall labor, but on the seventh day you shall rest; even during the plowing season and harvest you must rest.",
+  "korean_text": "너는 엿새 동안 일하고 일곱째 날에는 쉴지니 밭 갈 때에나 거둘 때에도 쉴지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Six days you shall labor",
+      "korean_translation": "이틀 동안 너희는 일해야 하고",
+      "word_indices": [
+        395,
+        511
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but on the seventh day you shall rest",
+      "korean_translation": "하지만 일곱째 날에는 너희는 쉬어야 하며",
+      "word_indices": [
+        114,
+        435
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even during the plowing season",
+      "korean_translation": "심는 철에도",
+      "word_indices": [
+        1352,
+        1357
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and harvest you must rest",
+      "korean_translation": "추수할 때에도 너희는 쉬어야 한다",
+      "word_indices": [
+        114,
+        472
+      ]
+    }
+  ]
+}

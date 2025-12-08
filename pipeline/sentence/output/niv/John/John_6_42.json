@@ -1,0 +1,52 @@
+{
+  "verse_reference": "John 6:42",
+  "version": "NIV",
+  "original_text": "They said, “Is this not Jesus, the son of Joseph, whose father and mother we know? How can he now say, ‘I came down from heaven’?”",
+  "korean_text": "이르되 이는 요셉의 아들 예수가 아니냐 그 부모를 우리가 아는데 자기가 지금 어찌하여 하늘에서 내려왔다 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Is this not Jesus",
+      "korean_translation": "이 사람이 예수가 아니란 말인가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the son of Joseph",
+      "korean_translation": "요셉의 아들",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whose father and mother we know",
+      "korean_translation": "그의 부모를 우리는 안다",
+      "word_indices": [
+        12,
+        13,
+        120
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "How can he now say",
+      "korean_translation": "그가 어떻게 지금 말할 수 있는가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I came down from heaven",
+      "korean_translation": "내가 하늘에서 내려왔다",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

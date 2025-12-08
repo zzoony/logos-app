@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 65:13",
+  "version": "NIV",
+  "original_text": "The meadows are covered with flocks\n    and the valleys are mantled with grain;\n    they shout for joy and sing.",
+  "korean_text": "초장은 양 떼로 옷 입었고 골짜기는 곡식으로 덮였으매 그들이 다 즐거이 외치고 또 노래하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The meadows are covered with flocks",
+      "korean_translation": "초원은 양 떼로 덮여 있고",
+      "word_indices": [
+        200,
+        261,
+        3299
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the valleys are mantled with grain",
+      "korean_translation": "골짜기는 곡식으로 덮여 있으며",
+      "word_indices": [
+        182,
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they shout for joy",
+      "korean_translation": "그들은 기쁨으로 외치고",
+      "word_indices": [
+        237,
+        321
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sing",
+      "korean_translation": "노래합니다",
+      "word_indices": [
+        337
+      ]
+    }
+  ]
+}

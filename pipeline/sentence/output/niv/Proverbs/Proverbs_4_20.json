@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 4:20",
+  "version": "NIV",
+  "original_text": "My son, pay attention to what I say;\n    turn your ear to my words.",
+  "korean_text": "내 아들아 내 말에 주의하며 내가 말하는 것에 네 귀를 기울이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My son,",
+      "korean_translation": "내 아들아,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "pay attention to what I say;",
+      "korean_translation": "내가 말하는 것에 주의를 기울이고",
+      "word_indices": [
+        248,
+        643
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "turn your ear to my words.",
+      "korean_translation": "네 귀를 내 말에 기울이라.",
+      "word_indices": [
+        19,
+        49,
+        383
+      ]
+    }
+  ]
+}

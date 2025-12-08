@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Romans 16:21",
+  "version": "NIV",
+  "original_text": "Timothy, my co-worker, sends his greetings to you, as do Lucius, Jason and Sosipater, my fellow Jews.",
+  "korean_text": "나의 동역자 디모데와 나의 친척 누기오와 야손과 소시바더가 너희에게 문안하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Timothy, my co-worker,",
+      "korean_translation": "디모데, 나의 동역자는,",
+      "word_indices": [
+        678,
+        2289
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sends his greetings to you,",
+      "korean_translation": "너희에게 문안을 보내며,",
+      "word_indices": [
+        20,
+        1269
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as do Lucius, Jason and Sosipater,",
+      "korean_translation": "루기오와 야손과 소시바더도 그렇고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my fellow Jews.",
+      "korean_translation": "나의 동족 유대인들도.",
+      "word_indices": [
+        209,
+        348
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 38:13",
+  "version": "NIV",
+  "original_text": "I am like the deaf, who cannot hear,\n    like the mute, who cannot speak;",
+  "korean_text": "나는 못 듣는 자 같이 듣지 아니하고 말 못하는 자 같이 입을 열지 아니하오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am like the deaf",
+      "korean_translation": "나는 듣지 못하는 자 같아서",
+      "word_indices": [
+        7,
+        1657
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who cannot hear",
+      "korean_translation": "듣지 못하고",
+      "word_indices": [
+        16,
+        207
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like the mute",
+      "korean_translation": "말하지 못하는 자 같아서",
+      "word_indices": [
+        7,
+        2044
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who cannot speak",
+      "korean_translation": "말하지 못하나이다",
+      "word_indices": [
+        29,
+        207
+      ]
+    }
+  ]
+}

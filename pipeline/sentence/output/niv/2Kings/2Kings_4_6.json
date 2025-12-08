@@ -1,0 +1,54 @@
+{
+  "verse_reference": "2 Kings 4:6",
+  "version": "NIV",
+  "original_text": "When all the jars were full, she said to her son, “Bring me another one.”\nBut he replied, “There is not a jar left.” Then the oil stopped flowing.",
+  "korean_text": "그릇에 다 찬지라 여인이 아들에게 이르되 또 그릇을 내게로 가져오라 하니 아들이 이르되 다른 그릇이 없나이다 하니 기름이 곧 그쳤더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When all the jars were full",
+      "korean_translation": "모든 항아리가 가득 찼을 때",
+      "word_indices": [
+        258,
+        746
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she said to her son",
+      "korean_translation": "그녀는 아들에게 말했다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Bring me another one",
+      "korean_translation": "나에게 다른 하나를 가져오너라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But he replied",
+      "korean_translation": "그러나 그가 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "There is not a jar left",
+      "korean_translation": "남은 항아리가 하나도 없다",
+      "word_indices": [
+        746
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then the oil stopped flowing",
+      "korean_translation": "그러자 기름이 흐르기를 멈췄다",
+      "word_indices": [
+        246,
+        584
+      ]
+    }
+  ]
+}

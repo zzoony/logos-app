@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 17:1",
+  "version": "NIV",
+  "original_text": "Jesus said to his disciples: “Things that cause people to stumble are bound to come, but woe to anyone through whom they come.",
+  "korean_text": "예수께서 제자들에게 이르시되 실족하게 하는 것이 없을 수는 없으나 그렇게 하게 하는 자에게는 화로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to his disciples",
+      "korean_translation": "예수님께서 제자들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Things that cause people to stumble",
+      "korean_translation": "사람들을 실족하게 하는 것들",
+      "word_indices": [
+        3,
+        286,
+        591
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are bound to come",
+      "korean_translation": "반드시 오게 되어 있다",
+      "word_indices": [
+        4036
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but woe to anyone",
+      "korean_translation": "그러나 누구에게든 화가 있을 것이다",
+      "word_indices": [
+        68,
+        517
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "through whom they come",
+      "korean_translation": "그것들을 통해 그것들이 오는 사람",
+      "word_indices": [
+        39
+      ]
+    }
+  ]
+}

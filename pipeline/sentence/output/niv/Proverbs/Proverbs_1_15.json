@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Proverbs 1:15",
+  "version": "NIV",
+  "original_text": "my son, do not go along with them,\n    do not set foot on their paths;",
+  "korean_text": "내 아들아 그들과 함께 길에 다니지 말라 네 발을 금하여 그 길을 밟지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "my son,",
+      "korean_translation": "내 아들아,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not go along with them,",
+      "korean_translation": "그들과 함께 다니지 말고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do not set foot on their paths;",
+      "korean_translation": "그들의 길에 발을 들이지 말지니라;",
+      "word_indices": [
+        123,
+        516
+      ]
+    }
+  ]
+}

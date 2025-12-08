@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 13:55",
+  "version": "NIV",
+  "original_text": "“Isn’t this the carpenter’s son? Isn’t his mother’s name Mary, and aren’t his brothers James, Joseph, Simon and Judas?",
+  "korean_text": "이는 그 목수의 아들이 아니냐 그 어머니는 마리아, 그 형제들은 야고보, 요셉, 시몬, 유다라 하지 않느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Isn't this the carpenter's son?",
+      "korean_translation": "이 사람이 목수의 아들이 아니냐?",
+      "word_indices": [
+        2,
+        2258
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Isn't his mother's name Mary?",
+      "korean_translation": "그의 어머니의 이름이 마리아가 아니냐?",
+      "word_indices": [
+        17,
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and aren't his brothers James, Joseph, Simon and Judas?",
+      "korean_translation": "그리고 그의 형제들이 야고보, 요셉, 시몬, 유다가 아니냐?",
+      "word_indices": [
+        53,
+        1061
+      ]
+    }
+  ]
+}

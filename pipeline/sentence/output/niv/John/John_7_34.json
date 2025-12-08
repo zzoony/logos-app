@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 7:34",
+  "version": "NIV",
+  "original_text": "You will look for me, but you will not find me; and where I am, you cannot come.”",
+  "korean_text": "너희가 나를 찾아도 만나지 못할 터이요 나 있는 곳에 오지도 못하리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will look for me",
+      "korean_translation": "너희가 나를 찾을 것이나",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you will not find me",
+      "korean_translation": "찾지 못할 것이라",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and where I am",
+      "korean_translation": "내가 있는 곳에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you cannot come",
+      "korean_translation": "너희가 올 수 없느니라",
+      "word_indices": [
+        207
+      ]
+    }
+  ]
+}

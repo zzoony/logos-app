@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Amos 4:7",
+  "version": "NIV",
+  "original_text": "“I also withheld rain from you\n    when the harvest was still three months away.\nI sent rain on one town,\n    but withheld it from another.\nOne field had rain;\n    another had none and dried up.",
+  "korean_text": "또 추수하기 석 달 전에 내가 너희에게 비를 멈추게 하여 어떤 성읍에는 내리고 어떤 성읍에는 내리지 않게 하였더니 땅 한 부분은 비를 얻고 한 부분은 비를 얻지 못하여 말랐으매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I also withheld rain from you",
+      "korean_translation": "나는 너희에게 비를 내리지 않았다",
+      "word_indices": [
+        28,
+        506
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the harvest was still three months away",
+      "korean_translation": "수확까지 아직 세 달이 남았을 때",
+      "word_indices": [
+        34,
+        90,
+        189,
+        472
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I sent rain on one town",
+      "korean_translation": "나는 한 동네에는 비를 보냈다",
+      "word_indices": [
+        72,
+        506
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but withheld it from another",
+      "korean_translation": "하지만 다른 동네에는 비를 보내지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "One field had rain",
+      "korean_translation": "한 밭에는 비가 내렸다",
+      "word_indices": [
+        156,
+        506
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "another had none and dried up",
+      "korean_translation": "다른 밭에는 비가 없어 말라버렸다",
+      "word_indices": [
+        497
+      ]
+    }
+  ]
+}

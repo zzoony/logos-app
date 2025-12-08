@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Zechariah 2:4",
+  "version": "NIV",
+  "original_text": "and said to him: “Run, tell that young man, ‘Jerusalem will be a city without walls because of the great number of people and animals in it.",
+  "korean_text": "이르되 너는 달려가서 그 소년에게 말하여 이르기를 예루살렘은 그 가운데 사람과 가축이 많으므로 성곽 없는 성읍이 될 것이라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and said to him:",
+      "korean_translation": "그에게 말하니:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Run, tell that young man,",
+      "korean_translation": "달려가서 그 젊은이에게 말하라,",
+      "word_indices": [
+        10,
+        15,
+        130,
+        306
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jerusalem will be a city without walls",
+      "korean_translation": "예루살렘은 성벽 없는 도시가 될 것이다",
+      "word_indices": [
+        23,
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because of the great number of people",
+      "korean_translation": "많은 사람들 때문에",
+      "word_indices": [
+        3,
+        44,
+        201
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and animals in it.",
+      "korean_translation": "그 안의 동물들 때문에",
+      "word_indices": [
+        195
+      ]
+    }
+  ]
+}

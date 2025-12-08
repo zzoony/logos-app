@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 9:10",
+  "version": "NIV",
+  "original_text": "“The bricks have fallen down,\n    but we will rebuild with dressed stone;\nthe fig trees have been felled,\n    but we will replace them with cedars.”",
+  "korean_text": "벽돌이 무너졌으나 우리는 다듬은 돌로 쌓고 뽕나무들이 찍혔으나 우리는 백향목으로 그것을 대신하리라 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The bricks have fallen down",
+      "korean_translation": "벽돌이 무너졌다",
+      "word_indices": [
+        2111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but we will rebuild with dressed stone",
+      "korean_translation": "그러나 우리는 다듬은 돌로 재건할 것이다",
+      "word_indices": [
+        125,
+        654,
+        814
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the fig trees have been felled",
+      "korean_translation": "무화과나무가 베어졌다",
+      "word_indices": [
+        290,
+        703
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but we will replace them with cedars",
+      "korean_translation": "그러나 우리는 그것들을 백향목으로 대체할 것이다",
+      "word_indices": [
+        667,
+        2445
+      ]
+    }
+  ]
+}

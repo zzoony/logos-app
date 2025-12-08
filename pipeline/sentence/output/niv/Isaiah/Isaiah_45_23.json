@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 45:23",
+  "version": "NIV",
+  "original_text": "By myself I have sworn,\n    my mouth has uttered in all integrity\n    a word that will not be revoked:\nBefore me every knee will bow;\n    by me every tongue will swear.",
+  "korean_text": "내가 나를 두고 맹세하기를 내 입에서 공의로운 말이 나갔은즉 돌아오지 아니하나니 내게 모든 무릎이 꿇겠고 모든 혀가 맹세하리라 하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By myself I have sworn",
+      "korean_translation": "내가 나를 두고 맹세하니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my mouth has uttered in all integrity",
+      "korean_translation": "내 입이 진실함으로 말하였으니",
+      "word_indices": [
+        143,
+        1090,
+        1559
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a word that will not be revoked",
+      "korean_translation": "번복하지 아니할 말을 하였음이라",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Before me every knee will bow",
+      "korean_translation": "내 앞에 모든 무릎이 꿇을 것이며",
+      "word_indices": [
+        263,
+        1187
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "by me every tongue will swear",
+      "korean_translation": "모든 혀가 내게 맹세하리라",
+      "word_indices": [
+        329,
+        400
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 10:35",
+  "version": "NIV",
+  "original_text": "For I have come to turn\n“‘a man against his father,\n    a daughter against her mother,\na daughter-in-law against her mother-in-law—",
+  "korean_text": "내가 온 것은 사람이 그 아버지와, 딸이 어머니와, 며느리가 시어머니와 불화하게 하려 함이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I have come to turn",
+      "korean_translation": "내가 돌이키려고 왔노니",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a man against his father",
+      "korean_translation": "아들을 아비에게",
+      "word_indices": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a daughter against her mother",
+      "korean_translation": "딸을 어미에게",
+      "word_indices": [
+        11,
+        66,
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a daughter-in-law against her mother-in-law",
+      "korean_translation": "며느리를 시어머니에게",
+      "word_indices": [
+        11,
+        42,
+        66,
+        120
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 21:16",
+  "version": "NIV",
+  "original_text": "“Anyone who kidnaps someone is to be put to death, whether the victim has been sold or is still in the kidnapper’s possession.",
+  "korean_text": "사람을 납치한 자가 그 사람을 팔았든지 자기 수하에 두었든지 그를 반드시 죽일지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who kidnaps someone",
+      "korean_translation": "누군가를 납치하는 자는",
+      "word_indices": [
+        68,
+        271,
+        4212
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is to be put to death",
+      "korean_translation": "사형에 처해져야 한다",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whether the victim has been sold",
+      "korean_translation": "피해자가 팔려졌든지",
+      "word_indices": [
+        1840
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or is still in the kidnapper's possession",
+      "korean_translation": "아직 납치자의 소유에 있든지",
+      "word_indices": [
+        382,
+        4213
+      ]
+    }
+  ]
+}

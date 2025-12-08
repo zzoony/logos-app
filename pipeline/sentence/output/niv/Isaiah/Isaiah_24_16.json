@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Isaiah 24:16",
+  "version": "NIV",
+  "original_text": "From the ends of the earth we hear singing:\n    “Glory to the Righteous One.”\nBut I said, “I waste away, I waste away!\n    Woe to me!\nThe treacherous betray!\n    With treachery the treacherous betray!”",
+  "korean_text": "땅 끝에서부터 노래하는 소리가 우리에게 들리기를 의로우신 이에게 영광을 돌리세 하도다 그러나 나는 이르기를 나는 쇠잔하였고 나는 쇠잔하였으니 내게 화가 있도다 배신자들은 배신하고 배신자들이 크게 배신하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From the ends of the earth we hear singing:",
+      "korean_translation": "땅 끝에서부터 노래 부르는 소리가 들리나니",
+      "word_indices": [
+        16,
+        40,
+        112,
+        337
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Glory to the Righteous One.",
+      "korean_translation": "의로우신 자에게 영광이 있을지어다",
+      "word_indices": [
+        159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I said,",
+      "korean_translation": "그러나 나는 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I waste away, I waste away!",
+      "korean_translation": "나는 쇠잔해진다, 나는 쇠잔해진다!",
+      "word_indices": [
+        34,
+        605
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Woe to me!",
+      "korean_translation": "화로다 나에게!",
+      "word_indices": [
+        517
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The treacherous betray!",
+      "korean_translation": "배신자들이 배신하도다!",
+      "word_indices": [
+        940
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "With treachery the treacherous betray!",
+      "korean_translation": "배신으로 배신자들이 배신하도다!",
+      "word_indices": [
+        940
+      ]
+    }
+  ]
+}

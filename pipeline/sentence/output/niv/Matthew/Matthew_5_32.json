@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Matthew 5:32",
+  "version": "NIV",
+  "original_text": "But I tell you that anyone who divorces his wife, except for sexual immorality, makes her the victim of adultery, and anyone who marries a divorced woman commits adultery.",
+  "korean_text": "나는 너희에게 이르노니 누구든지 음행한 이유 없이 아내를 버리면 이는 그로 간음하게 함이요 또 누구든지 버림받은 여자에게 장가드는 자도 간음함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I tell you",
+      "korean_translation": "그러나 내가 너희에게 말하노니",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that anyone who divorces his wife",
+      "korean_translation": "아내를 버리는 자는",
+      "word_indices": [
+        68,
+        79
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "except for sexual immorality",
+      "korean_translation": "음행으로 인하지 않고는",
+      "word_indices": [
+        565,
+        735,
+        1434
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "makes her the victim of adultery",
+      "korean_translation": "그녀로 간음하게 하는 것이라",
+      "word_indices": [
+        861,
+        1840
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and anyone who marries a divorced woman",
+      "korean_translation": "또한 버림받은 여자를 아내로 맞는 자도",
+      "word_indices": [
+        50,
+        68,
+        355
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "commits adultery",
+      "korean_translation": "간음하는 것이라",
+      "word_indices": [
+        322,
+        861
+      ]
+    }
+  ]
+}

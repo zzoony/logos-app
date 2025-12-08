@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Joshua 7:14",
+  "version": "NIV",
+  "original_text": "“‘In the morning, present yourselves tribe by tribe. The tribe the Lord chooses shall come forward clan by clan; the clan the Lord chooses shall come forward family by family; and the family the Lord chooses shall come forward man by man.",
+  "korean_text": "너희는 아침에 너희의 지파대로 가까이 나아오라 여호와께 뽑히는 그 지파는 그 족속대로 가까이 나아올 것이요 여호와께 뽑히는 족속은 그 가족대로 가까이 나아올 것이요 여호와께 뽑히는 그 가족은 그 남자들이 가까이 나아올 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the morning, present yourselves tribe by tribe.",
+      "korean_translation": "아침에 지파별로 너희를 나타내라.",
+      "word_indices": [
+        116,
+        194
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The tribe the Lord chooses shall come forward clan by clan;",
+      "korean_translation": "여호와께서 택하신 지파는 가족별로 나아올 것이요.",
+      "word_indices": [
+        116,
+        171,
+        826
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the clan the Lord chooses shall come forward family by family;",
+      "korean_translation": "여호와께서 택하신 가족은 집안별로 나아올 것이며.",
+      "word_indices": [
+        145,
+        171,
+        826
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the family the Lord chooses shall come forward man by man.",
+      "korean_translation": "여호와께서 택하신 집안은 남자별로 나아올 것이다.",
+      "word_indices": [
+        10,
+        145,
+        826
+      ]
+    }
+  ]
+}

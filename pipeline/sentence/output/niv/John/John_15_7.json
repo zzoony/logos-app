@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 15:7",
+  "version": "NIV",
+  "original_text": "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.",
+  "korean_text": "너희가 내 안에 거하고 내 말이 너희 안에 거하면 무엇이든지 원하는 대로 구하라 그리하면 이루리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you remain in me",
+      "korean_translation": "네가 내 안에 거하면",
+      "word_indices": [
+        210
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and my words remain in you",
+      "korean_translation": "내 말이 너희 안에 거하면",
+      "word_indices": [
+        19,
+        210
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ask whatever you wish",
+      "korean_translation": "무엇이든지 원하는 대로 구하라",
+      "word_indices": [
+        31,
+        285,
+        1036
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it will be done for you",
+      "korean_translation": "그리하면 너희에게 이루어지리라",
+      "word_indices": []
+    }
+  ]
+}

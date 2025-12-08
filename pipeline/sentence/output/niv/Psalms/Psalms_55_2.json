@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 55:2",
+  "version": "NIV",
+  "original_text": "hear me and answer me.\nMy thoughts trouble me and I am distraught",
+  "korean_text": "내게 굽히사 응답하소서 내가 근심으로 편하지 못하여 탄식하오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "hear me",
+      "korean_translation": "나를 들어주소서",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and answer me",
+      "korean_translation": "그리고 내게 응답하소서",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My thoughts trouble me",
+      "korean_translation": "나의 생각들이 나를 괴롭히나이다",
+      "word_indices": [
+        304,
+        1001
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I am distraught",
+      "korean_translation": "그리고 나는 혼란스럽나이다",
+      "word_indices": [
+        5430
+      ]
+    }
+  ]
+}

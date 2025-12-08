@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Proverbs 19:7",
+  "version": "NIV",
+  "original_text": "The poor are shunned by all their relatives—\n    how much more do their friends avoid them!\nThough the poor pursue them with pleading,\n    they are nowhere to be found.",
+  "korean_text": "가난한 자는 그의 형제들에게도 미움을 받거든 하물며 친구야 그를 멀리 하지 아니하겠느냐 따라가며 말하려 할지라도 그들이 없어졌으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The poor are shunned",
+      "korean_translation": "가난한 자들은 버림받고",
+      "word_indices": [
+        298
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by all their relatives",
+      "korean_translation": "그 모든 친척에게서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "how much more do their friends avoid them",
+      "korean_translation": "그 친구들이야말로 얼마나 더 그들을 피하겠는가",
+      "word_indices": [
+        335,
+        1640
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Though the poor pursue them with pleading",
+      "korean_translation": "가난한 자가 애원하며 그들을 따라가도",
+      "word_indices": [
+        127,
+        298,
+        459,
+        993
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they are nowhere to be found",
+      "korean_translation": "그들은 어디에서도 찾을 수 없다",
+      "word_indices": [
+        2209,
+        2708
+      ]
+    }
+  ]
+}

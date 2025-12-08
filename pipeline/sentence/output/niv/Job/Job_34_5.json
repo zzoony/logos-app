@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Job 34:5",
+  "version": "NIV",
+  "original_text": "“Job says, ‘I am innocent,\n    but God denies me justice.",
+  "korean_text": "욥이 말하기를 내가 의로우나 하나님이 내 의를 부인하셨고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Job says",
+      "korean_translation": "욥은 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I am innocent",
+      "korean_translation": "'나는 무죄합니다'",
+      "word_indices": [
+        687
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but God denies me justice.'",
+      "korean_translation": "그러나 하나님은 내게 정의를 거부하십니다.'",
+      "word_indices": [
+        1,
+        417,
+        1012
+      ]
+    }
+  ]
+}

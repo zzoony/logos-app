@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Amos 9:2",
+  "version": "NIV",
+  "original_text": "Though they dig down to the depths below,\n    from there my hand will take them.\nThough they climb up to the heavens above,\n    from there I will bring them down.",
+  "korean_text": "그들이 파고 스올로 들어갈지라도 내 손이 거기에서 붙잡아 낼 것이요 하늘로 올라갈지라도 내가 거기에서 붙잡아 내릴 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though they dig down to the depths below",
+      "korean_translation": "그들이 아래 깊은 곳까지 파내려가도",
+      "word_indices": [
+        127,
+        958,
+        986
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from there my hand will take them",
+      "korean_translation": "거기서 내 손이 그들을 잡을 것이다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Though they climb up to the heavens above",
+      "korean_translation": "그들이 위 하늘까지 올라가도",
+      "word_indices": [
+        57,
+        127,
+        1331
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from there I will bring them down",
+      "korean_translation": "거기서 내가 그들을 내려오게 할 것이다",
+      "word_indices": []
+    }
+  ]
+}

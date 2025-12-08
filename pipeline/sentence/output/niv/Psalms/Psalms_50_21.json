@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Psalms 50:21",
+  "version": "NIV",
+  "original_text": "When you did these things and I kept silent,\n    you thought I was exactly like you.\nBut I now arraign you\n    and set my accusations before you.",
+  "korean_text": "네가 이 일을 행하여도 내가 잠잠하였더니 네가 나를 너와 같은 줄로 생각하였도다 그러나 내가 너를 책망하여 네 죄를 네 눈 앞에 낱낱이 드러내리라 하시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you did these things",
+      "korean_translation": "네가 이런 일들을 행할 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I kept silent",
+      "korean_translation": "내가 잠잠하였으니",
+      "word_indices": [
+        831
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you thought I was exactly like you",
+      "korean_translation": "네가 내가 너와 같은 줄로 생각하였도다",
+      "word_indices": [
+        7,
+        1001,
+        2311
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But I now arraign you",
+      "korean_translation": "그러나 내가 이제 너를 책망하며",
+      "word_indices": [
+        5429
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and set my accusations before you",
+      "korean_translation": "네 눈앞에 너의 죄를 베풀겠노라",
+      "word_indices": [
+        2272
+      ]
+    }
+  ]
+}

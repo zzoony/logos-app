@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Leviticus 18:22",
+  "version": "NIV",
+  "original_text": "“‘Do not have sexual relations with a man as one does with a woman; that is detestable.",
+  "korean_text": "너는 여자와 동침함 같이 남자와 동침하지 말라 이는 가증한 일이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not have sexual relations with a man",
+      "korean_translation": "남자와 성적인 관계를 맺지 말라",
+      "word_indices": [
+        10,
+        735,
+        933
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as one does with a woman",
+      "korean_translation": "여자와 하는 것처럼",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is detestable",
+      "korean_translation": "그것은 가증한 일이다",
+      "word_indices": [
+        515
+      ]
+    }
+  ]
+}

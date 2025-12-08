@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 119:131",
+  "version": "NIV",
+  "original_text": "I open my mouth and pant,\n    longing for your commands.",
+  "korean_text": "내가 주의 계명들을 사모하므로 내가 입을 열고 헐떡였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I open my mouth",
+      "korean_translation": "내가 내 입을 열고",
+      "word_indices": [
+        143,
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and pant",
+      "korean_translation": "헐떡이며",
+      "word_indices": [
+        2844
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "longing for your commands",
+      "korean_translation": "당신의 계명을 갈망하나이다",
+      "word_indices": [
+        48,
+        71
+      ]
+    }
+  ]
+}

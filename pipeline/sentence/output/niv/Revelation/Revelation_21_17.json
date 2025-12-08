@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Revelation 21:17",
+  "version": "NIV",
+  "original_text": "The angel measured the wall using human measurement, and it was 144 cubits thick.",
+  "korean_text": "그 성곽을 측량하매 백사십사 규빗이니 사람의 측량 곧 천사의 측량이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel measured the wall",
+      "korean_translation": "그 천사가 그 벽을 쟀고",
+      "word_indices": [
+        153,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "using human measurement",
+      "korean_translation": "사람의 척량으로 쟀더니",
+      "word_indices": [
+        239,
+        1945
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and it was 144 cubits thick",
+      "korean_translation": "그 두께가 144규빗이더라",
+      "word_indices": [
+        170,
+        1113
+      ]
+    }
+  ]
+}

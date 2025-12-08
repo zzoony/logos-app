@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Corinthians 16:21",
+  "version": "NIV",
+  "original_text": "I, Paul, write this greeting in my own hand.",
+  "korean_text": "나 바울은 친필로 너희에게 문안하노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, Paul",
+      "korean_translation": "나, 바울은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "write this greeting",
+      "korean_translation": "이 문안 인사를 씁니다",
+      "word_indices": [
+        85,
+        806
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in my own hand",
+      "korean_translation": "내 손으로 직접",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

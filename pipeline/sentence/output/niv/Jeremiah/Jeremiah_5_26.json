@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Jeremiah 5:26",
+  "version": "NIV",
+  "original_text": "“Among my people are the wicked\n    who lie in wait like men who snare birds\n    and like those who set traps to catch people.",
+  "korean_text": "내 백성 가운데 악인이 있어서 새 사냥꾼이 매복함 같이 지키며 덫을 놓아 사람을 잡으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Among my people are the wicked",
+      "korean_translation": "내 백성 중에 악한 자들이 있으며",
+      "word_indices": [
+        3,
+        27,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who lie in wait like men who snare birds",
+      "korean_translation": "새를 잡는 자들처럼 숨어 기다리며",
+      "word_indices": [
+        7,
+        142,
+        386,
+        388,
+        897
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and like those who set traps",
+      "korean_translation": "그리고 덫을 놓는 자들처럼",
+      "word_indices": [
+        7,
+        1057
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to catch people",
+      "korean_translation": "사람을 잡으려고 하느니라",
+      "word_indices": [
+        3,
+        651
+      ]
+    }
+  ]
+}

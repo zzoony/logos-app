@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Deuteronomy 27:25",
+  "version": "NIV",
+  "original_text": "“Cursed is anyone who accepts a bribe to kill an innocent person.”\nThen all the people shall say, “Amen!”",
+  "korean_text": "무죄한 자를 죽이려고 뇌물을 받는 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed is anyone",
+      "korean_translation": "저주를 받는 자는 누구든지",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who accepts a bribe",
+      "korean_translation": "뇌물을 받는 자",
+      "word_indices": [
+        422,
+        1284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to kill an innocent person",
+      "korean_translation": "무고한 자를 죽이기 위해",
+      "word_indices": [
+        76,
+        134,
+        687
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then all the people shall say",
+      "korean_translation": "그러면 모든 백성이 말할지니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Amen",
+      "korean_translation": "아멘",
+      "word_indices": []
+    }
+  ]
+}

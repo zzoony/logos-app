@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 104:18",
+  "version": "NIV",
+  "original_text": "The high mountains belong to the wild goats;\n    the crags are a refuge for the hyrax.",
+  "korean_text": "높은 산들은 산양을 위함이여 바위는 너구리의 피난처로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The high mountains belong to the wild goats",
+      "korean_translation": "높은 산들은 산양들의 것이다",
+      "word_indices": [
+        105,
+        147,
+        218,
+        311,
+        450
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the crags are a refuge for the hyrax",
+      "korean_translation": "바위들은 히락스에게 피난처이다",
+      "word_indices": [
+        566,
+        2469,
+        3421
+      ]
+    }
+  ]
+}

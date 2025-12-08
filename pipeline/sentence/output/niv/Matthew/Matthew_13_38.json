@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 13:38",
+  "version": "NIV",
+  "original_text": "The field is the world, and the good seed stands for the people of the kingdom. The weeds are the people of the evil one,",
+  "korean_text": "밭은 세상이요 좋은 씨는 천국의 아들들이요 가라지는 악한 자의 아들들이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The field is the world",
+      "korean_translation": "밭은 세상이며",
+      "word_indices": [
+        156,
+        190
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the good seed stands for the people of the kingdom",
+      "korean_translation": "좋은 씨는 천국 백성을 의미하며",
+      "word_indices": [
+        3,
+        45,
+        56,
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The weeds are the people of the evil one",
+      "korean_translation": "가라지는 악한 자의 백성이다",
+      "word_indices": [
+        3,
+        95,
+        2185
+      ]
+    }
+  ]
+}

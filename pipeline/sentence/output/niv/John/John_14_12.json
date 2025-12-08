@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 14:12",
+  "version": "NIV",
+  "original_text": "Very truly I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 나를 믿는 자는 내가 하는 일을 그도 할 것이요 또한 그보다 큰 일도 하리니 이는 내가 아버지께로 감이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Very truly I tell you",
+      "korean_translation": "내가 진정으로 너희에게 말하노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever believes in me",
+      "korean_translation": "나를 믿는 사람은 누구든지",
+      "word_indices": [
+        154
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will do the works I have been doing",
+      "korean_translation": "내가 행한 일들을 행할 것이다",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they will do even greater things than these",
+      "korean_translation": "그리고 그들은 이것보다 더 큰 일들도 행할 것이다",
+      "word_indices": [
+        636
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because I am going to the Father",
+      "korean_translation": "왜냐하면 내가 아버지께 가기 때문이다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

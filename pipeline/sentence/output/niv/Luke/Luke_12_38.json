@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 12:38",
+  "version": "NIV",
+  "original_text": "It will be good for those servants whose master finds them ready, even if he comes in the middle of the night or toward daybreak.",
+  "korean_text": "주인이 혹 이경에나 혹 삼경에 이르러서도 종들이 그같이 하고 있는 것을 보면 그 종들은 복이 있으리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It will be good for those servants",
+      "korean_translation": "그 종들에게는 좋을 것입니다",
+      "word_indices": [
+        25,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose master finds them ready",
+      "korean_translation": "그 주인이 그들을 준비된 상태로 발견하는",
+      "word_indices": [
+        55,
+        265,
+        577
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even if he comes in the middle of the night",
+      "korean_translation": "비록 그가 밤중에 오더라도",
+      "word_indices": [
+        126,
+        943
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or toward daybreak",
+      "korean_translation": "또는 새벽녘에 올지라도",
+      "word_indices": [
+        224,
+        1889
+      ]
+    }
+  ]
+}

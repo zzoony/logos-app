@@ -1,0 +1,64 @@
+{
+  "verse_reference": "James 2:3",
+  "version": "NIV",
+  "original_text": "If you show special attention to the man wearing fine clothes and say, “Here’s a good seat for you,” but say to the poor man, “You stand there” or “Sit on the floor by my feet,”",
+  "korean_text": "너희가 아름다운 옷을 입은 자를 눈여겨 보고 말하되 여기 좋은 자리에 앉으소서 하고 또 가난한 자에게 말하되 너는 거기 서 있든지 내 발등상 아래에 앉으라 하면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you show special attention",
+      "korean_translation": "만약 당신이 특별한 관심을 보인다면",
+      "word_indices": [
+        128,
+        643,
+        1051
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the man wearing fine clothes",
+      "korean_translation": "값비싼 옷을 입은 사람에게",
+      "word_indices": [
+        10,
+        482,
+        633,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and say, \"Here's a good seat for you,\"",
+      "korean_translation": "그리고 말하기를 \"여기 좋은 자리가 있습니다\"",
+      "word_indices": [
+        56,
+        774
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but say to the poor man,",
+      "korean_translation": "하지만 가난한 사람에게는 말하기를",
+      "word_indices": [
+        10,
+        298
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "\"You stand there\"",
+      "korean_translation": "\"거기 서 있으세요\"",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or \"Sit on the floor by my feet,\"",
+      "korean_translation": "또는 \"내 발 옆 바닥에 앉으세요\"",
+      "word_indices": [
+        151,
+        767
+      ]
+    }
+  ]
+}

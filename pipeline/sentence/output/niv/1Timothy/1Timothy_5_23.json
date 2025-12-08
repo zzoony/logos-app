@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Timothy 5:23",
+  "version": "NIV",
+  "original_text": "Stop drinking only water, and use a little wine because of your stomach and your frequent illnesses.",
+  "korean_text": "이제부터는 물만 마시지 말고 네 위장과 자주 나는 병을 위하여는 포도주를 조금씩 쓰라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Stop drinking only water",
+      "korean_translation": "물만 마시는 것을 그만하십시오",
+      "word_indices": [
+        46,
+        78,
+        334
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and use a little wine",
+      "korean_translation": "그리고 조금의 포도주를 사용하십시오",
+      "word_indices": [
+        213,
+        215,
+        312
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of your stomach",
+      "korean_translation": "당신의 위 때문에",
+      "word_indices": [
+        1509
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your frequent illnesses",
+      "korean_translation": "그리고 당신의 잦은 질병 때문에",
+      "word_indices": [
+        2074,
+        6266
+      ]
+    }
+  ]
+}

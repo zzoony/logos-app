@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 21:2",
+  "version": "NIV",
+  "original_text": "He also saw a poor widow put in two very small copper coins.",
+  "korean_text": "또 어떤 가난한 과부가 두 렙돈 넣는 것을 보시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He also saw",
+      "korean_translation": "그는 또한 보았다",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a poor widow",
+      "korean_translation": "한 가난한 과부가",
+      "word_indices": [
+        298,
+        556
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "put in",
+      "korean_translation": "넣었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "two very small copper coins",
+      "korean_translation": "아주 작은 구리 동전 두 개를",
+      "word_indices": [
+        698,
+        2397,
+        2597
+      ]
+    }
+  ]
+}

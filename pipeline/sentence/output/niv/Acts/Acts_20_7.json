@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Acts 20:7",
+  "version": "NIV",
+  "original_text": "On the first day of the week we came together to break bread. Paul spoke to the people and, because he intended to leave the next day, kept on talking until midnight.",
+  "korean_text": "그 주간의 첫날에 우리가 떡을 떼려 하여 모였더니 바울이 이튿날 떠나고자 하여 그들에게 강론할새 말을 밤중까지 계속하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On the first day of the week",
+      "korean_translation": "한 주의 첫째 날에",
+      "word_indices": [
+        1450
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we came together to break bread",
+      "korean_translation": "우리는 떡을 떼기 위해 함께 모였다",
+      "word_indices": [
+        98,
+        117,
+        187
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Paul spoke to the people",
+      "korean_translation": "바울이 사람들에게 말했다",
+      "word_indices": [
+        3,
+        5162
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and, because he intended to leave the next day",
+      "korean_translation": "그리고 그가 다음 날 떠나려 했기 때문에",
+      "word_indices": [
+        30,
+        277,
+        1234
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "kept on talking until midnight",
+      "korean_translation": "자정까지 계속 말했다",
+      "word_indices": [
+        446,
+        2210
+      ]
+    }
+  ]
+}

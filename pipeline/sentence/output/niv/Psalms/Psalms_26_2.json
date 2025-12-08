@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 26:2",
+  "version": "NIV",
+  "original_text": "Test me, Lord, and try me,\n    examine my heart and my mind;",
+  "korean_text": "여호와여 나를 살피시고 시험하사 내 뜻과 내 양심을 단련하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Test me, Lord",
+      "korean_translation": "나를 시험해 보소서, 주님",
+      "word_indices": [
+        562
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and try me",
+      "korean_translation": "그리고 나를 시험해 보소서",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "examine my heart",
+      "korean_translation": "내 마음을 검사해 보소서",
+      "word_indices": [
+        36,
+        858
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and my mind",
+      "korean_translation": "그리고 내 생각을",
+      "word_indices": [
+        325
+      ]
+    }
+  ]
+}

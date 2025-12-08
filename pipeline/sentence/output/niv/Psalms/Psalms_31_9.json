@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 31:9",
+  "version": "NIV",
+  "original_text": "Be merciful to me, Lord, for I am in distress;\n    my eyes grow weak with sorrow,\n    my soul and body with grief.",
+  "korean_text": "여호와여 내가 고통 중에 있사오니 내게 은혜를 베푸소서 내가 근심 때문에 눈과 영혼과 몸이 쇠하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Be merciful to me, Lord",
+      "korean_translation": "주여, 나에게 자비를 베풀어 주소서",
+      "word_indices": [
+        1647
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I am in distress",
+      "korean_translation": "내가 곤경에 처해 있기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my eyes grow weak with sorrow",
+      "korean_translation": "나의 눈이 슬픔으로 약해집니다",
+      "word_indices": [
+        269,
+        783,
+        1167
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my soul and body with grief",
+      "korean_translation": "나의 영혼과 몸이 슬픔으로 말미암아 약해집니다",
+      "word_indices": [
+        137,
+        558,
+        1232
+      ]
+    }
+  ]
+}

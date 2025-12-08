@@ -1,0 +1,74 @@
+{
+  "verse_reference": "Matthew 17:20",
+  "version": "NIV",
+  "original_text": "He replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”",
+  "korean_text": "이르시되 너희 믿음이 작은 까닭이니라 진실로 너희에게 이르노니 만일 너희에게 믿음이 겨자씨 한 알 만큼만 있어도 이 산을 명하여 여기서 저기로 옮겨지라 하면 옮겨질 것이요 또 너희가 못할 것이 없으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He replied,",
+      "korean_translation": "그가 대답하였다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because you have so little faith.",
+      "korean_translation": "이는 너희 믿음이 적기 때문이다.",
+      "word_indices": [
+        192,
+        312
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Truly I tell you,",
+      "korean_translation": "내가 진정으로 너희에게 이르노니,",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if you have faith as small as a mustard seed,",
+      "korean_translation": "너희가 겨자씨만 한 믿음이 있으면,",
+      "word_indices": [
+        192,
+        698,
+        3338
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you can say to this mountain,",
+      "korean_translation": "이 산에게 말하되",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "'Move from here to there,'",
+      "korean_translation": "'여기서 저기로 옮겨가라' 하라",
+      "word_indices": [
+        330
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and it will move.",
+      "korean_translation": "그러면 옮겨갈 것이다.",
+      "word_indices": [
+        330
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Nothing will be impossible for you.",
+      "korean_translation": "너희에게 불가능한 것이 없을 것이다.",
+      "word_indices": [
+        2112
+      ]
+    }
+  ]
+}

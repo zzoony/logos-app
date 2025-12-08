@@ -1,0 +1,35 @@
+{
+  "verse_reference": "James 5:18",
+  "version": "NIV",
+  "original_text": "Again he prayed, and the heavens gave rain, and the earth produced its crops.",
+  "korean_text": "다시 기도하니 하늘이 비를 주고 땅이 열매를 맺었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Again he prayed",
+      "korean_translation": "그가 다시 기도하니",
+      "word_indices": [
+        212
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the heavens gave rain",
+      "korean_translation": "하늘이 비를 주었고",
+      "word_indices": [
+        5,
+        57,
+        506
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the earth produced its crops",
+      "korean_translation": "땅이 그 열매를 맺었더라",
+      "word_indices": [
+        40,
+        793
+      ]
+    }
+  ]
+}

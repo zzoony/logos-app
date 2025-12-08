@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 6:1",
+  "version": "NIV",
+  "original_text": "Some time after this, Jesus crossed to the far shore of the Sea of Galilee (that is, the Sea of Tiberias),",
+  "korean_text": "그 후에 예수께서 디베랴의 갈릴리 바다 건너편으로 가시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some time after this",
+      "korean_translation": "이 얼마 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus crossed to the far shore",
+      "korean_translation": "예수께서 건너편으로 건너가셨다",
+      "word_indices": [
+        202,
+        313,
+        1581
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the Sea of Galilee",
+      "korean_translation": "갈릴리 바다의",
+      "word_indices": [
+        108
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is, the Sea of Tiberias",
+      "korean_translation": "곧 디베랴 바다",
+      "word_indices": [
+        108
+      ]
+    }
+  ]
+}

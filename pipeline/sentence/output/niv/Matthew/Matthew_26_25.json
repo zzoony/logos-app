@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 26:25",
+  "version": "NIV",
+  "original_text": "Then Judas, the one who would betray him, said, “Surely you don’t mean me, Rabbi?”\nJesus answered, “You have said so.”",
+  "korean_text": "예수를 파는 유다가 대답하여 이르되 랍비여 나는 아니지요 대답하시되 네가 말하였도다 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Judas, the one who would betray him, said",
+      "korean_translation": "그때 유다, 그를 배신할 자,가 말하였다",
+      "word_indices": [
+        940,
+        1061
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Surely you don't mean me, Rabbi?",
+      "korean_translation": "주여, 내나이까?",
+      "word_indices": [
+        150,
+        349,
+        1880
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have said so",
+      "korean_translation": "네가 말하였다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 20:11",
+  "version": "NIV",
+  "original_text": "Now Mary stood outside the tomb crying. As she wept, she bent over to look into the tomb",
+  "korean_text": "마리아는 무덤 밖에 서서 울고 있더니 울면서 구부려 무덤 안을 들여다보니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Mary stood outside the tomb",
+      "korean_translation": "이에 마리아는 무덤 밖에 서서",
+      "word_indices": [
+        404,
+        621
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "crying",
+      "korean_translation": "울고 있었다",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As she wept",
+      "korean_translation": "그가 울면서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she bent over",
+      "korean_translation": "그는 몸을 굽혀",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to look into the tomb",
+      "korean_translation": "무덤 안을 들여다보았다",
+      "word_indices": [
+        51,
+        621
+      ]
+    }
+  ]
+}

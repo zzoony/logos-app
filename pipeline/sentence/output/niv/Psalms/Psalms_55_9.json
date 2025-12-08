@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 55:9",
+  "version": "NIV",
+  "original_text": "Lord, confuse the wicked, confound their words,\n    for I see violence and strife in the city.",
+  "korean_text": "내가 성내에서 강포와 분쟁을 보았사오니 주여 그들을 멸하소서 그들의 혀를 잘라 버리소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord, confuse the wicked",
+      "korean_translation": "주님, 악인들을 혼란시켜 주소서",
+      "word_indices": [
+        2221,
+        3365
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "confound their words",
+      "korean_translation": "그들의 말을 어지럽게 하소서",
+      "word_indices": [
+        19,
+        5432
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I see violence",
+      "korean_translation": "왜냐하면 나는 폭력을 보니",
+      "word_indices": [
+        892
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and strife in the city",
+      "korean_translation": "그리고 도시에서 분쟁을 보니",
+      "word_indices": [
+        23,
+        2099
+      ]
+    }
+  ]
+}

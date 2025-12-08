@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 19:10",
+  "version": "NIV",
+  "original_text": "They are more precious than gold,\n    than much pure gold;\nthey are sweeter than honey,\n    than honey from the honeycomb.",
+  "korean_text": "금 곧 많은 순금보다 더 사모할 것이며 꿀과 송이꿀보다 더 달도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They are more precious than gold",
+      "korean_translation": "그것들은 금보다 더 귀하다",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than much pure gold",
+      "korean_translation": "많은 순수한 금보다",
+      "word_indices": [
+        75,
+        504
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they are sweeter than honey",
+      "korean_translation": "그것들은 꿀보다 더 달콤하다",
+      "word_indices": [
+        785,
+        3842
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than honey from the honeycomb",
+      "korean_translation": "벌집에서 나온 꿀보다",
+      "word_indices": [
+        785,
+        3217
+      ]
+    }
+  ]
+}

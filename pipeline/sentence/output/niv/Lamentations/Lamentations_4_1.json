@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Lamentations 4:1",
+  "version": "NIV",
+  "original_text": "How the gold has lost its luster,\n    the fine gold become dull!\nThe sacred gems are scattered\n    at every street corner.",
+  "korean_text": "슬프다 어찌 그리 금이 빛을 잃고 순금이 변질하였으며 성소의 돌들이 거리 어귀마다 쏟아졌는고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How the gold has lost its luster",
+      "korean_translation": "어찌하여 금이 그 광채를 잃었는가",
+      "word_indices": [
+        75,
+        5773
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the fine gold become dull",
+      "korean_translation": "순금이 변하였는가",
+      "word_indices": [
+        32,
+        75,
+        633,
+        2588
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The sacred gems are scattered",
+      "korean_translation": "성소의 보석들이 흩어졌구나",
+      "word_indices": [
+        396,
+        3151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at every street corner",
+      "korean_translation": "모든 거리 모퉁이에",
+      "word_indices": [
+        613,
+        736
+      ]
+    }
+  ]
+}

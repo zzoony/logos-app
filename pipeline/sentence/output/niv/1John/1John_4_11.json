@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 John 4:11",
+  "version": "NIV",
+  "original_text": "Dear friends, since God so loved us, we also ought to love one another.",
+  "korean_text": "사랑하는 자들아 하나님이 이같이 우리를 사랑하셨은즉 우리도 서로 사랑하는 것이 마땅하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Dear friends",
+      "korean_translation": "사랑하는 친구들아",
+      "word_indices": [
+        335,
+        800
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "since God so loved us",
+      "korean_translation": "하나님이 우리를 이렇게 사랑하셨으니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we also ought to love one another",
+      "korean_translation": "우리도 서로 사랑해야 한다",
+      "word_indices": [
+        28,
+        38,
+        1115
+      ]
+    }
+  ]
+}

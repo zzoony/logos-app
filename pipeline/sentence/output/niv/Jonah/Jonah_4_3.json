@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jonah 4:3",
+  "version": "NIV",
+  "original_text": "Now, Lord, take away my life, for it is better for me to die than to live.”",
+  "korean_text": "여호와여 원하건대 이제 내 생명을 거두어 가소서 사는 것보다 죽는 것이 내게 나음이니이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now, Lord",
+      "korean_translation": "이제, 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "take away my life",
+      "korean_translation": "내 생명을 거두어 가세요",
+      "word_indices": [
+        34,
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for it is better for me to die",
+      "korean_translation": "내가 죽는 것이 더 낫기 때문입니다",
+      "word_indices": [
+        58,
+        411
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than to live",
+      "korean_translation": "사는 것보다",
+      "word_indices": [
+        14
+      ]
+    }
+  ]
+}

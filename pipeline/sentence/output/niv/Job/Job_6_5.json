@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 6:5",
+  "version": "NIV",
+  "original_text": "Does a wild donkey bray when it has grass,\n    or an ox bellow when it has fodder?",
+  "korean_text": "들나귀가 풀이 있으면 어찌 울겠으며 소가 꼴이 있으면 어찌 울겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Does a wild donkey bray",
+      "korean_translation": "들나귀가 울부짖습니까",
+      "word_indices": [
+        347,
+        450,
+        4453
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when it has grass",
+      "korean_translation": "풀을 가지고 있을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or an ox bellow",
+      "korean_translation": "또는 소가 우는 소리를 내는가",
+      "word_indices": [
+        547,
+        4454
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when it has fodder",
+      "korean_translation": "여물을 가지고 있을 때",
+      "word_indices": [
+        2715
+      ]
+    }
+  ]
+}

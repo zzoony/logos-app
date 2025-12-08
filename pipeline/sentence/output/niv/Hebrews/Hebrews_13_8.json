@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Hebrews 13:8",
+  "version": "NIV",
+  "original_text": "Jesus Christ is the same yesterday and today and forever.",
+  "korean_text": "예수 그리스도는 어제나 오늘이나 영원토록 동일하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus Christ is the same",
+      "korean_translation": "예수 그리스도는 동일하시며",
+      "word_indices": [
+        73,
+        175
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yesterday and today",
+      "korean_translation": "어제와 오늘",
+      "word_indices": [
+        242,
+        2562
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and forever",
+      "korean_translation": "그리고 영원히",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

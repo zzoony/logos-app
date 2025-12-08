@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Hosea 4:2",
+  "version": "NIV",
+  "original_text": "There is only cursing, lying and murder,\n    stealing and adultery;\nthey break all bounds,\n    and bloodshed follows bloodshed.",
+  "korean_text": "오직 저주와 속임과 살인과 도둑질과 간음뿐이요 포악하여 피가 피를 뒤이음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is only cursing, lying and murder",
+      "korean_translation": "저주만 있고 거짓말과 살인만 있으며",
+      "word_indices": [
+        847
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "stealing and adultery",
+      "korean_translation": "도둑질과 간음이 있고",
+      "word_indices": [
+        836,
+        861
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they break all bounds",
+      "korean_translation": "그들은 모든 경계를 깨뜨리며",
+      "word_indices": [
+        117,
+        4036
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and bloodshed follows bloodshed",
+      "korean_translation": "피흘림이 피흘림을 따르나니",
+      "word_indices": [
+        91
+      ]
+    }
+  ]
+}

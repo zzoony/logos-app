@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Leviticus 26:4",
+  "version": "NIV",
+  "original_text": "I will send you rain in its season, and the ground will yield its crops and the trees their fruit.",
+  "korean_text": "내가 너희에게 철따라 비를 주리니 땅은 그 산물을 내고 밭의 나무는 열매를 맺으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will send you rain in its season",
+      "korean_translation": "나는 때를 따라 너희에게 비를 보내리라",
+      "word_indices": [
+        20,
+        506,
+        1352
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the ground will yield its crops",
+      "korean_translation": "땅은 그 소산을 내고",
+      "word_indices": [
+        793,
+        1041,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the trees their fruit",
+      "korean_translation": "나무들은 그 열매를 맺으리라",
+      "word_indices": [
+        289
+      ]
+    }
+  ]
+}

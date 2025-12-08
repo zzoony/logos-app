@@ -1,0 +1,57 @@
+{
+  "verse_reference": "1 Kings 19:6",
+  "version": "NIV",
+  "original_text": "He looked around, and there by his head was some bread baked over hot coals, and a jar of water. He ate and drank and then lay down again.",
+  "korean_text": "본즉 머리맡에 숯불에 구운 떡과 한 병 물이 있더라 이에 먹고 마시고 다시 누웠더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He looked around",
+      "korean_translation": "그가 주위를 둘러보니",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there by his head",
+      "korean_translation": "그의 머리맡에",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was some bread baked over hot coals",
+      "korean_translation": "숯불에 구운 빵이 있었고",
+      "word_indices": [
+        187,
+        1305,
+        1398
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a jar of water",
+      "korean_translation": "물 항아리도 있었다",
+      "word_indices": [
+        46,
+        746
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He ate and drank",
+      "korean_translation": "그는 먹고 마셨으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and then lay down again",
+      "korean_translation": "그리고 다시 누웠다",
+      "word_indices": [
+        148
+      ]
+    }
+  ]
+}

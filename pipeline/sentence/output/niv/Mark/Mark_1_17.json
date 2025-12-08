@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Mark 1:17",
+  "version": "NIV",
+  "original_text": "“Come, follow me,” Jesus said, “and I will send you out to fish for people.”",
+  "korean_text": "예수께서 이르시되 나를 따라오라 내가 너희로 사람을 낚는 어부가 되게 하리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come, follow me",
+      "korean_translation": "나를 따르라",
+      "word_indices": [
+        91
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said",
+      "korean_translation": "예수께서 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will send you out",
+      "korean_translation": "내가 너희를 보내리니",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to fish for people",
+      "korean_translation": "사람을 낚는 어부가 되게 하리라",
+      "word_indices": [
+        3,
+        727
+      ]
+    }
+  ]
+}

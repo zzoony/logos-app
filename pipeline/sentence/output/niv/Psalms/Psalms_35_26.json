@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 35:26",
+  "version": "NIV",
+  "original_text": "May all who gloat over my distress\n    be put to shame and confusion;\nmay all who exalt themselves over me\n    be clothed with shame and disgrace.",
+  "korean_text": "나의 재난을 기뻐하는 자들이 함께 부끄러워 낭패를 당하게 하시며 나를 향하여 스스로 뽐내는 자들이 수치와 욕을 당하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May all who gloat over my distress",
+      "korean_translation": "나의 고통을 비웃는 모든 자들이",
+      "word_indices": [
+        1757
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "be put to shame and confusion",
+      "korean_translation": "수치와 혼란을 당하게 되소서",
+      "word_indices": [
+        402,
+        1660
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "may all who exalt themselves over me",
+      "korean_translation": "나를 억누르는 모든 자들이",
+      "word_indices": [
+        535
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "be clothed with shame and disgrace",
+      "korean_translation": "수치와 굴욕으로 옷 입게 되소서",
+      "word_indices": [
+        402,
+        627,
+        1289
+      ]
+    }
+  ]
+}

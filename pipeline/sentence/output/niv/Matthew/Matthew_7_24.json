@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Matthew 7:24",
+  "version": "NIV",
+  "original_text": "“Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+  "korean_text": "그러므로 누구든지 나의 이 말을 듣고 행하는 자는 그 집을 반석 위에 지은 지혜로운 사람 같으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore everyone who hears these words of mine",
+      "korean_translation": "그러므로 나의 이 말을 듣는 모든 사람은",
+      "word_indices": [
+        16,
+        19,
+        83,
+        186
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and puts them into practice",
+      "korean_translation": "그것들을 행하기만 하면",
+      "word_indices": [
+        543
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is like a wise man",
+      "korean_translation": "지혜로운 사람과 같으니",
+      "word_indices": [
+        7,
+        10,
+        288
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who built his house on the rock.",
+      "korean_translation": "그가 반석 위에 자기 집을 지었음이라",
+      "word_indices": [
+        26,
+        369
+      ]
+    }
+  ]
+}

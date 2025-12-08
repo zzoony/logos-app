@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 15:1",
+  "version": "NIV",
+  "original_text": "Lord, who may dwell in your sacred tent?\n    Who may live on your holy mountain?",
+  "korean_text": "여호와여 주의 장막에 머무를 자 누구오며 주의 성산에 사는 자 누구오니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord, who may dwell",
+      "korean_translation": "주여, 누가 머무를 수 있습니까",
+      "word_indices": [
+        305
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in your sacred tent?",
+      "korean_translation": "당신의 거룩한 장막에",
+      "word_indices": [
+        119
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Who may live",
+      "korean_translation": "누가 살 수 있습니까",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on your holy mountain?",
+      "korean_translation": "당신의 거룩한 산에",
+      "word_indices": [
+        59,
+        147
+      ]
+    }
+  ]
+}

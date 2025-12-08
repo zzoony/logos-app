@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 12:14",
+  "version": "NIV",
+  "original_text": "Jesus replied, “Man, who appointed me a judge or an arbiter between you?”",
+  "korean_text": "이르시되 이 사람아 누가 나를 너희의 재판장이나 물건 나누는 자로 세웠느냐 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Man",
+      "korean_translation": "사람아",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who appointed me a judge",
+      "korean_translation": "누가 나를 재판관으로 삼았는가",
+      "word_indices": [
+        211,
+        272
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or an arbiter between you",
+      "korean_translation": "또는 너희 사이의 중재자로 삼았는가",
+      "word_indices": [
+        5978
+      ]
+    }
+  ]
+}

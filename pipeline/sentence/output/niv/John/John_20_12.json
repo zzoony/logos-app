@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 20:12",
+  "version": "NIV",
+  "original_text": "and saw two angels in white, seated where Jesus’ body had been, one at the head and the other at the foot.",
+  "korean_text": "흰 옷 입은 두 천사가 예수의 시체 뉘었던 곳에 하나는 머리 편에, 하나는 발 편에 앉았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and saw two angels in white",
+      "korean_translation": "흰 옷을 입은 두 천사를 보았다",
+      "word_indices": [
+        153,
+        751
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "seated where Jesus' body had been",
+      "korean_translation": "예수의 몸이 있던 자리에 앉아 있었다",
+      "word_indices": [
+        137,
+        774
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "one at the head",
+      "korean_translation": "한 명은 머리 쪽에",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the other at the foot",
+      "korean_translation": "다른 한 명은 발치에 있었다",
+      "word_indices": [
+        123
+      ]
+    }
+  ]
+}

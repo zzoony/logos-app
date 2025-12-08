@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 16:1",
+  "version": "NIV",
+  "original_text": "Jesus told his disciples: “There was a rich man whose manager was accused of wasting his possessions.",
+  "korean_text": "또한 제자들에게 이르시되 어떤 부자에게 청지기가 있는데 그가 주인의 소유를 낭비한다는 말이 그 주인에게 들린지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus told his disciples:",
+      "korean_translation": "예수님께서 제자들에게 말씀하셨다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There was a rich man",
+      "korean_translation": "한 부자가 있었는데",
+      "word_indices": [
+        10,
+        371
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose manager was accused",
+      "korean_translation": "그의 청지기가 비난을 받았다",
+      "word_indices": [
+        2887
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of wasting his possessions.",
+      "korean_translation": "그의 재산을 낭비한 죄로.",
+      "word_indices": [
+        382
+      ]
+    }
+  ]
+}

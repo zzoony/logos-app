@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Numbers 15:35",
+  "version": "NIV",
+  "original_text": "Then the Lord said to Moses, “The man must die. The whole assembly must stone him outside the camp.”",
+  "korean_text": "여호와께서 모세에게 이르시되 그 사람을 반드시 죽일지니 온 회중이 진영 밖에서 돌로 그를 칠지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses",
+      "korean_translation": "그때 주님께서 모세에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The man must die",
+      "korean_translation": "그 사람은 죽어야 한다",
+      "word_indices": [
+        10,
+        58
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The whole assembly must stone him",
+      "korean_translation": "온 회중이 그를 돌로 쳐야 한다",
+      "word_indices": [
+        99,
+        125,
+        318
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "outside the camp",
+      "korean_translation": "진 밖에서",
+      "word_indices": [
+        177,
+        404
+      ]
+    }
+  ]
+}

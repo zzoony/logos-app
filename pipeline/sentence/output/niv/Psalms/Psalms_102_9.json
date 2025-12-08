@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 102:9",
+  "version": "NIV",
+  "original_text": "For I eat ashes as my food\n    and mingle my drink with tears",
+  "korean_text": "나는 재를 양식 같이 먹으며 나는 눈물 섞인 물을 마셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I eat ashes as my food",
+      "korean_translation": "내가 음식대신 재를 먹으며",
+      "word_indices": [
+        33,
+        103,
+        1048
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and mingle my drink with tears",
+      "korean_translation": "나의 마실 것을 눈물로 섞나이다",
+      "word_indices": [
+        78,
+        254,
+        3930
+      ]
+    }
+  ]
+}

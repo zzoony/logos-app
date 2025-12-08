@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Mark 9:21",
+  "version": "NIV",
+  "original_text": "Jesus asked the boy’s father, “How long has he been like this?”\n“From childhood,” he answered.",
+  "korean_text": "예수께서 그 아버지에게 물으시되 언제부터 이렇게 되었느냐 하시니 이르되 어릴 때부터니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus asked the boy's father",
+      "korean_translation": "예수님은 소년의 아버지에게 물으셨다",
+      "word_indices": [
+        12,
+        31,
+        525
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How long has he been like this?",
+      "korean_translation": "얼마나 오랫동안 이렇게 있었습니까?",
+      "word_indices": [
+        7,
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "From childhood",
+      "korean_translation": "어릴 때부터입니다",
+      "word_indices": [
+        3116
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he answered",
+      "korean_translation": "그가 대답했다",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

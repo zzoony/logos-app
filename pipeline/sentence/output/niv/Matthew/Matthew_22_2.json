@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 22:2",
+  "version": "NIV",
+  "original_text": "“The kingdom of heaven is like a king who prepared a wedding banquet for his son.",
+  "korean_text": "천국은 마치 자기 아들을 위하여 혼인 잔치를 베푼 어떤 임금과 같으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The kingdom of heaven is like a king",
+      "korean_translation": "천국은 한 왕과 같습니다",
+      "word_indices": [
+        4,
+        7,
+        57,
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who prepared a wedding banquet",
+      "korean_translation": "그는 결혼 잔치를 준비했습니다",
+      "word_indices": [
+        1134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for his son",
+      "korean_translation": "그의 아들을 위해",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

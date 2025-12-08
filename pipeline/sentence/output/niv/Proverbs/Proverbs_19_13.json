@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Proverbs 19:13",
+  "version": "NIV",
+  "original_text": "A foolish child is a father’s ruin,\n    and a quarrelsome wife is like\n    the constant dripping of a leaky roof.",
+  "korean_text": "미련한 아들은 그의 아비의 재앙이요 다투는 아내는 이어 떨어지는 물방울이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A foolish child is a father's ruin",
+      "korean_translation": "미련한 자식은 아비의 재앙이니",
+      "word_indices": [
+        12,
+        54,
+        284,
+        990
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a quarrelsome wife is like",
+      "korean_translation": "투덜거리는 아내는",
+      "word_indices": [
+        7,
+        79,
+        2684
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the constant dripping of a leaky roof",
+      "korean_translation": "새는 지붕의 끊임없는 떨어짐과 같으니라",
+      "word_indices": [
+        907,
+        2458,
+        4584
+      ]
+    }
+  ]
+}

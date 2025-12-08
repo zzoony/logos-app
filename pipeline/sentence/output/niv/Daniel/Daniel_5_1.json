@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Daniel 5:1",
+  "version": "NIV",
+  "original_text": "King Belshazzar gave a great banquet for a thousand of his nobles and drank wine with them.",
+  "korean_text": "벨사살 왕이 그의 귀족 천 명을 위하여 큰 잔치를 베풀고 그 천 명 앞에서 술을 마시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Belshazzar gave a great banquet",
+      "korean_translation": "왕 벨사살이 큰 잔치를 베풀었고",
+      "word_indices": [
+        4,
+        5,
+        44,
+        1134
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for a thousand of his nobles",
+      "korean_translation": "천 명의 귀족들을 위해",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and drank wine with them",
+      "korean_translation": "그들과 함께 포도주를 마셨다",
+      "word_indices": [
+        215
+      ]
+    }
+  ]
+}

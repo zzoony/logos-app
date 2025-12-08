@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Genesis 2:20",
+  "version": "NIV",
+  "original_text": "So the man gave names to all the livestock, the birds in the sky and all the wild animals.\nBut for Adam no suitable helper was found.",
+  "korean_text": "아담이 모든 가축과 공중의 새와 들의 모든 짐승에게 이름을 주니라 아담이 돕는 배필이 없으므로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So the man gave names",
+      "korean_translation": "그래서 그 사람은 이름을 지어주었습니다",
+      "word_indices": [
+        5,
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to all the livestock",
+      "korean_translation": "모든 가축에게",
+      "word_indices": [
+        610
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the birds in the sky",
+      "korean_translation": "하늘의 새들에게",
+      "word_indices": [
+        386,
+        536
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all the wild animals",
+      "korean_translation": "그리고 모든 들짐승에게",
+      "word_indices": [
+        195,
+        450
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But for Adam",
+      "korean_translation": "하지만 아담에게는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "no suitable helper was found",
+      "korean_translation": "적합한 도우미를 찾지 못했습니다",
+      "word_indices": [
+        2030,
+        2209,
+        3357
+      ]
+    }
+  ]
+}

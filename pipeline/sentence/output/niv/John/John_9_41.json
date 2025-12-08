@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 9:41",
+  "version": "NIV",
+  "original_text": "Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.",
+  "korean_text": "예수께서 이르시되 너희가 맹인이 되었더라면 죄가 없으려니와 본다고 하니 너희 죄가 그대로 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If you were blind",
+      "korean_translation": "너희가 소경이었다면",
+      "word_indices": [
+        606
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you would not be guilty of sin",
+      "korean_translation": "너희가 죄가 없었을 것입니다",
+      "word_indices": [
+        24,
+        642
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but now that you claim you can see",
+      "korean_translation": "그러나 너희가 본다고 말하니",
+      "word_indices": [
+        922
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "your guilt remains",
+      "korean_translation": "너희의 죄가 그대로 남아 있습니다",
+      "word_indices": [
+        210,
+        495
+      ]
+    }
+  ]
+}

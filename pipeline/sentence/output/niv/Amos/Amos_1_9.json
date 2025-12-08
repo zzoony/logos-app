@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Amos 1:9",
+  "version": "NIV",
+  "original_text": "This is what the Lord says:\n“For three sins of Tyre,\n    even for four, I will not relent.\nBecause she sold whole communities of captives to Edom,\n    disregarding a treaty of brotherhood,",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 두로의 서너 가지 죄로 말미암아 내가 그 벌을 돌이키지 아니하리니 이는 그들이 그 형제의 계약을 기억하지 아니하고 모든 사로잡은 자를 에돔에 넘겼음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says:",
+      "korean_translation": "나 주가 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For three sins of Tyre,",
+      "korean_translation": "두로의 세 가지 죄 때문에",
+      "word_indices": [
+        24,
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even for four, I will not relent.",
+      "korean_translation": "네 가지일지라도 내가 돌이키지 아니하리라",
+      "word_indices": [
+        203,
+        1214
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Because she sold whole communities of captives to Edom,",
+      "korean_translation": "그들이 사로잡은 자 온 무리를 에돔에 팔았으며",
+      "word_indices": [
+        99,
+        597
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "disregarding a treaty of brotherhood,",
+      "korean_translation": "형제의 계약을 생각지 아니하였음이라",
+      "word_indices": [
+        1249,
+        3069,
+        5878
+      ]
+    }
+  ]
+}

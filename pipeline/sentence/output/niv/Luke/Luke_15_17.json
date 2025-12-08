@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 15:17",
+  "version": "NIV",
+  "original_text": "“When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death!",
+  "korean_text": "이에 스스로 돌이켜 이르되 내 아버지에게는 양식이 풍족한 품꾼이 얼마나 많은가 나는 여기서 주려 죽는구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he came to his senses,",
+      "korean_translation": "그가 제정신이 돌아왔을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said,",
+      "korean_translation": "그가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How many of my father's hired servants",
+      "korean_translation": "내 아버지의 품꾼들이 얼마나 많은가,",
+      "word_indices": [
+        12,
+        25
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "have food to spare,",
+      "korean_translation": "남는 음식이 있고,",
+      "word_indices": [
+        103,
+        880
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and here I am starving to death!",
+      "korean_translation": "그런데 나는 여기서 굶어 죽겠구나!",
+      "word_indices": [
+        80
+      ]
+    }
+  ]
+}

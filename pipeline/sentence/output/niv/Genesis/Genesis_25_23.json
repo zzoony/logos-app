@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Genesis 25:23",
+  "version": "NIV",
+  "original_text": "The Lord said to her,\n“Two nations are in your womb,\n    and two peoples from within you will be separated;\none people will be stronger than the other,\n    and the older will serve the younger.”",
+  "korean_text": "여호와께서 그에게 이르시되 두 국민이 네 태중에 있구나 두 민족이 네 복중에서부터 나누이리라 이 족속이 저 족속보다 강하겠고 큰 자가 어린 자를 섬기리라 하셨더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to her",
+      "korean_translation": "주께서 그녀에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Two nations are in your womb",
+      "korean_translation": "두 민족이 네 태 안에 있다",
+      "word_indices": [
+        41,
+        766
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and two peoples from within you will be separated",
+      "korean_translation": "그리고 네게서 나온 두 백성이 갈라질 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "one people will be stronger than the other",
+      "korean_translation": "한 백성이 다른 백성보다 더 강할 것이다",
+      "word_indices": [
+        3,
+        1324
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the older will serve the younger",
+      "korean_translation": "그리고 장자는 맏아들을 섬길 것이다",
+      "word_indices": [
+        131,
+        1230,
+        1246
+      ]
+    }
+  ]
+}

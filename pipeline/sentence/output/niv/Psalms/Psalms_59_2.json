@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 59:2",
+  "version": "NIV",
+  "original_text": "Deliver me from evildoers\n    and save me from those who are after my blood.",
+  "korean_text": "악을 행하는 자에게서 나를 건지시고 피 흘리기를 즐기는 자에게서 나를 구원하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Deliver me from evildoers",
+      "korean_translation": "악을 행하는 자들에게서 나를 건져 주시고",
+      "word_indices": [
+        233,
+        982
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and save me",
+      "korean_translation": "그리고 나를 구원하여 주시며",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from those who are after my blood",
+      "korean_translation": "내 피를 탐하는 자들에게서",
+      "word_indices": [
+        94
+      ]
+    }
+  ]
+}

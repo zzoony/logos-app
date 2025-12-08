@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Exodus 34:25",
+  "version": "NIV",
+  "original_text": "“Do not offer the blood of a sacrifice to me along with anything containing yeast, and do not let any of the sacrifice from the Passover Festival remain until morning.",
+  "korean_text": "너는 내 제물의 피를 유교병과 함께 드리지 말며 유월절 제물을 아침까지 두지 말지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not offer the blood of a sacrifice to me",
+      "korean_translation": "나에게 제물의 피를 드리지 말라",
+      "word_indices": [
+        21,
+        94,
+        102
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "along with anything containing yeast",
+      "korean_translation": "누룩이 든 것과 함께",
+      "word_indices": [
+        825,
+        1720
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and do not let any of the sacrifice",
+      "korean_translation": "그리고 제물 중 어떤 것도",
+      "word_indices": [
+        102
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the Passover Festival remain until morning",
+      "korean_translation": "유월절에서 아침까지 남겨두지 말라",
+      "word_indices": [
+        210,
+        425,
+        673
+      ]
+    }
+  ]
+}

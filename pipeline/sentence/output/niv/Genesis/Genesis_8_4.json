@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 8:4",
+  "version": "NIV",
+  "original_text": "and on the seventeenth day of the seventh month the ark came to rest on the mountains of Ararat.",
+  "korean_text": "일곱째 달 곧 그 달 열이렛날에 방주가 아라랏 산에 머물렀으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and on the seventeenth day of the seventh month",
+      "korean_translation": "그리고 일곱째 달 열일곱째 날에",
+      "word_indices": [
+        189,
+        435,
+        2894
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the ark came to rest",
+      "korean_translation": "방주가 머물렀고",
+      "word_indices": [
+        114,
+        223
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the mountains of Ararat",
+      "korean_translation": "아라랏 산에",
+      "word_indices": [
+        147
+      ]
+    }
+  ]
+}

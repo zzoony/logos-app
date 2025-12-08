@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Acts 4:6",
+  "version": "NIV",
+  "original_text": "Annas the high priest was there, and so were Caiaphas, John, Alexander and others of the high priest’s family.",
+  "korean_text": "대제사장 안나스와 가야바와 요한과 알렉산더와 및 대제사장의 문중이 다 참여하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Annas the high priest was there",
+      "korean_translation": "대제사장 안나스가 그곳에 있었고",
+      "word_indices": [
+        22,
+        105
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and so were Caiaphas",
+      "korean_translation": "가야바도 있었으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "John, Alexander",
+      "korean_translation": "요한, 알렉산더",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and others of the high priest's family",
+      "korean_translation": "그리고 대제사장의 다른 가족들도 있었다",
+      "word_indices": [
+        22,
+        105,
+        145
+      ]
+    }
+  ]
+}

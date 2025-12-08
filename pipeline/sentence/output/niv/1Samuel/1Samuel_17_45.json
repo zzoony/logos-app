@@ -1,0 +1,50 @@
+{
+  "verse_reference": "1 Samuel 17:45",
+  "version": "NIV",
+  "original_text": "David said to the Philistine, “You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty, the God of the armies of Israel, whom you have defied.",
+  "korean_text": "다윗이 블레셋 사람에게 이르되 너는 칼과 창과 단창으로 내게 나아 오거니와 나는 만군의 여호와의 이름 곧 네가 모욕하는 이스라엘 군대의 하나님의 이름으로 네게 나아가노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said to the Philistine",
+      "korean_translation": "다윗이 블레셋 사람에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You come against me with sword and spear and javelin",
+      "korean_translation": "너는 칼과 창과 단창을 가지고 내게 맞서 오지만",
+      "word_indices": [
+        11,
+        84,
+        737,
+        2613
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but I come against you in the name of the Lord Almighty",
+      "korean_translation": "나는 만군의 여호와의 이름으로 네게 맞서 온다",
+      "word_indices": [
+        11,
+        17,
+        122
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the God of the armies of Israel",
+      "korean_translation": "이스라엘 군대의 하나님",
+      "word_indices": [
+        1,
+        168
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "whom you have defied",
+      "korean_translation": "네가 대적한 분",
+      "word_indices": []
+    }
+  ]
+}

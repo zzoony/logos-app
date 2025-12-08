@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 1:17",
+  "version": "NIV",
+  "original_text": "God set them in the vault of the sky to give light on the earth,",
+  "korean_text": "하나님이 그것들을 하늘의 궁창에 두어 땅을 비추게 하시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God set them",
+      "korean_translation": "하나님이 그것들을 두시고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the vault of the sky",
+      "korean_translation": "하늘의 궁창에",
+      "word_indices": [
+        536,
+        1823
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to give light on the earth",
+      "korean_translation": "땅에 비추게 하려 하심이라",
+      "word_indices": [
+        5,
+        40,
+        205
+      ]
+    }
+  ]
+}

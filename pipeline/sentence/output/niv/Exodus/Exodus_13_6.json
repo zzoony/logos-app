@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 13:6",
+  "version": "NIV",
+  "original_text": "For seven days eat bread made without yeast and on the seventh day hold a festival to the Lord.",
+  "korean_text": "이레 동안 무교병을 먹고 일곱째 날에는 여호와께 절기를 지키라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For seven days eat bread made without yeast",
+      "korean_translation": "이레 동안 누룩 없는 빵을 먹으라",
+      "word_indices": [
+        33,
+        96,
+        187,
+        825
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and on the seventh day",
+      "korean_translation": "그리고 일곱째 날에",
+      "word_indices": [
+        435
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hold a festival to the Lord",
+      "korean_translation": "주를 위하여 절기를 지키라",
+      "word_indices": [
+        158,
+        425
+      ]
+    }
+  ]
+}

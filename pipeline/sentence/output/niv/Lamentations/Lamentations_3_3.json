@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Lamentations 3:3",
+  "version": "NIV",
+  "original_text": "indeed, he has turned his hand against me\n    again and again, all day long.",
+  "korean_text": "종일토록 손을 들어 자주자주 나를 치시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "indeed,",
+      "korean_translation": "참으로,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he has turned his hand against me",
+      "korean_translation": "그가 자기 손을 나를 향해 돌렸도다",
+      "word_indices": [
+        9,
+        11,
+        49
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "again and again,",
+      "korean_translation": "거듭해서,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all day long.",
+      "korean_translation": "종일토록.",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 24:19",
+  "version": "NIV",
+  "original_text": "After she had given him a drink, she said, “I’ll draw water for your camels too, until they have had enough to drink.”",
+  "korean_text": "마시게 하기를 다하고 이르되 당신의 낙타를 위하여서도 물을 길어 그것들도 배불리 마시게 하리이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After she had given him a drink,",
+      "korean_translation": "그가 그에게 마실 것을 준 후에,",
+      "word_indices": [
+        5,
+        78
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she said,",
+      "korean_translation": "그녀가 말했으되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I'll draw water for your camels too,",
+      "korean_translation": "나는 당신의 낙타들을 위해서도 물을 길어 올 것이요,",
+      "word_indices": [
+        46,
+        464,
+        780
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until they have had enough to drink.",
+      "korean_translation": "그들이 충분히 마실 때까지.",
+      "word_indices": [
+        78,
+        540
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Ecclesiastes 10:18",
+  "version": "NIV",
+  "original_text": "Through laziness, the rafters sag;\n    because of idle hands, the house leaks.",
+  "korean_text": "게으른즉 서까래가 내려앉고 손을 놓은즉 집이 새느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Through laziness",
+      "korean_translation": "게으름으로 인해",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the rafters sag",
+      "korean_translation": "서까래가 처집니다",
+      "word_indices": [
+        4601,
+        5567
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of idle hands",
+      "korean_translation": "게으른 손 때문에",
+      "word_indices": [
+        9,
+        2249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the house leaks",
+      "korean_translation": "집이 새입니다",
+      "word_indices": [
+        26,
+        5568
+      ]
+    }
+  ]
+}

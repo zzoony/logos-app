@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Deuteronomy 17:5",
+  "version": "NIV",
+  "original_text": "take the man or woman who has done this evil deed to your city gate and stone that person to death.",
+  "korean_text": "너는 그 악을 행한 남자나 여자를 네 성문으로 끌어내고 그 남자나 여자를 돌로 쳐죽이되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "take the man or woman",
+      "korean_translation": "남자나 여자를 데려오라",
+      "word_indices": [
+        10,
+        50
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who has done this evil deed",
+      "korean_translation": "이 악한 행위를 한 자를",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to your city gate",
+      "korean_translation": "네 성문으로",
+      "word_indices": [
+        23,
+        132
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and stone that person to death",
+      "korean_translation": "그 사람을 돌로 쳐 죽이라",
+      "word_indices": [
+        80,
+        125,
+        134
+      ]
+    }
+  ]
+}

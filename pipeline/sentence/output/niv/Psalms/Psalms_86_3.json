@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 86:3",
+  "version": "NIV",
+  "original_text": "have mercy on me, Lord,\n    for I call to you all day long.",
+  "korean_text": "주여 내게 은혜를 베푸소서 내가 종일 주께 부르짖나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "have mercy on me, Lord",
+      "korean_translation": "주여, 저에게 자비를 베풀어 주소서",
+      "word_indices": [
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I call to you",
+      "korean_translation": "왜나니 내가 주를 부르기 때문입니다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all day long",
+      "korean_translation": "종일토록",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

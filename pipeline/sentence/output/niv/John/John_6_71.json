@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 6:71",
+  "version": "NIV",
+  "original_text": "(He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray him.)",
+  "korean_text": "이 말씀은 가룟 시몬의 아들 유다를 가리키심이라 그는 열둘 중의 하나로 예수를 팔 자러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He meant Judas",
+      "korean_translation": "그는 유다를 가리켰다",
+      "word_indices": [
+        1061
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the son of Simon Iscariot",
+      "korean_translation": "시몬 이스가리옛의 아들",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who, though one of the Twelve",
+      "korean_translation": "그는 열두 제자 중 한 사람이었지만",
+      "word_indices": [
+        127,
+        370
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "was later to betray him",
+      "korean_translation": "나중에 그를 배신할 것이었다",
+      "word_indices": [
+        638,
+        940
+      ]
+    }
+  ]
+}

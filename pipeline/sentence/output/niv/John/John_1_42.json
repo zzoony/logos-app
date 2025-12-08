@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 1:42",
+  "version": "NIV",
+  "original_text": "And he brought him to Jesus.\nJesus looked at him and said, “You are Simon son of John. You will be called Cephas” (which, when translated, is Peter).",
+  "korean_text": "데리고 예수께로 오니 예수께서 보시고 이르시되 네가 요한의 아들 시몬이니 장차 게바라 하리라 하시니라 (게바는 번역하면 베드로라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he brought him to Jesus",
+      "korean_translation": "그가 예수께 그를 데려왔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus looked at him",
+      "korean_translation": "예수께서 그를 보시고",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said",
+      "korean_translation": "말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You are Simon son of John",
+      "korean_translation": "너는 요한의 아들 시몬이라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will be called Cephas",
+      "korean_translation": "너는 게바라고 불릴 것이다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "which, when translated, is Peter",
+      "korean_translation": "번역하면 베드로라는 뜻이다",
+      "word_indices": []
+    }
+  ]
+}

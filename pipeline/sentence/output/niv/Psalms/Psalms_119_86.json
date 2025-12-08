@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 119:86",
+  "version": "NIV",
+  "original_text": "All your commands are trustworthy;\n    help me, for I am being persecuted without cause.",
+  "korean_text": "주의 모든 계명들은 신실하니이다 그들이 이유 없이 나를 핍박하오니 나를 도우소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All your commands are trustworthy",
+      "korean_translation": "주의 모든 계명들은 신실하며",
+      "word_indices": [
+        48,
+        1283
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "help me",
+      "korean_translation": "나를 도우소서",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I am being persecuted without cause",
+      "korean_translation": "이는 내가 까닭 없이 핍박을 당함이니이다",
+      "word_indices": [
+        286
+      ]
+    }
+  ]
+}

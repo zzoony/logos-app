@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Revelation 10:3",
+  "version": "NIV",
+  "original_text": "and he gave a loud shout like the roar of a lion. When he shouted, the voices of the seven thunders spoke.",
+  "korean_text": "사자가 부르짖는 것 같이 큰 소리로 외치니 그가 외칠 때에 일곱 우레가 그 소리를 내어 말하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and he gave a loud shout",
+      "korean_translation": "그가 큰 외침을 소리쳤고",
+      "word_indices": [
+        5,
+        321,
+        828
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like the roar of a lion",
+      "korean_translation": "사자의 울부짖음과 같았다",
+      "word_indices": [
+        7,
+        399,
+        799
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When he shouted",
+      "korean_translation": "그가 외쳤을 때",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the voices of the seven thunders spoke",
+      "korean_translation": "일곱 천둥의 목소리가 말했다",
+      "word_indices": [
+        96,
+        951,
+        5162
+      ]
+    }
+  ]
+}

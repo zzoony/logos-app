@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Ezra 1:9",
+  "version": "NIV",
+  "original_text": "This was the inventory:gold dishes 30silver dishes 1,000silver pans 29",
+  "korean_text": "그 수는 금 접시가 서른 개요 은 접시가 천 개요 칼이 스물아홉 개요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This was the inventory:",
+      "korean_translation": "이것이 목록이었습니다:",
+      "word_indices": [
+        5268
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "gold dishes 30",
+      "korean_translation": "금 그릇 30개",
+      "word_indices": [
+        75,
+        1151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "silver dishes 1,000",
+      "korean_translation": "은 그릇 1,000개",
+      "word_indices": [
+        124,
+        1151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "silver pans 29",
+      "korean_translation": "은 냄비 29개",
+      "word_indices": [
+        124,
+        2585
+      ]
+    }
+  ]
+}

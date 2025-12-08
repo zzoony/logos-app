@@ -1,0 +1,46 @@
+{
+  "verse_reference": "2 Kings 3:4",
+  "version": "NIV",
+  "original_text": "Now Mesha king of Moab raised sheep, and he had to pay the king of Israel a tribute of a hundred thousand lambs and the wool of a hundred thousand rams.",
+  "korean_text": "모압 왕 메사는 양을 치는 자라 새끼 양 십만 마리의 털과 숫양 십만 마리의 털을 이스라엘 왕에게 바치더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Mesha king of Moab raised sheep",
+      "korean_translation": "모압 왕 메사는 양을 길렀고",
+      "word_indices": [
+        4,
+        251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he had to pay the king of Israel a tribute",
+      "korean_translation": "그는 이스라엘 왕에게 조공을 바쳐야 했는데",
+      "word_indices": [
+        4,
+        248,
+        1370
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of a hundred thousand lambs",
+      "korean_translation": "십만 마리의 어린 양과",
+      "word_indices": [
+        136,
+        264
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the wool of a hundred thousand rams",
+      "korean_translation": "십만 마리 수양의 털이었다",
+      "word_indices": [
+        136,
+        299,
+        1732
+      ]
+    }
+  ]
+}

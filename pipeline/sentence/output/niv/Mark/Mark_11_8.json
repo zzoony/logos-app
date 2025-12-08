@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 11:8",
+  "version": "NIV",
+  "original_text": "Many people spread their cloaks on the road, while others spread branches they had cut in the fields.",
+  "korean_text": "많은 사람들은 자기들의 겉옷을, 또 다른 이들은 들에서 벤 나뭇가지를 길에 펴며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many people spread their cloaks on the road",
+      "korean_translation": "많은 사람들이 길에 겉옷을 폈더라",
+      "word_indices": [
+        3,
+        253,
+        484,
+        829
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "while others spread branches they had cut",
+      "korean_translation": "다른 이들은 벤 가지를 폈더라",
+      "word_indices": [
+        184,
+        253,
+        509
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the fields",
+      "korean_translation": "밭에서",
+      "word_indices": [
+        156
+      ]
+    }
+  ]
+}

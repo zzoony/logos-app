@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Joshua 10:17",
+  "version": "NIV",
+  "original_text": "When Joshua was told that the five kings had been found hiding in the cave at Makkedah,",
+  "korean_text": "어떤 사람이 여호수아에게 고하여 이르되 막게다의 굴에 그 다섯 왕들이 숨은 것을 발견하였나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Joshua was told",
+      "korean_translation": "여호수아가 말을 들었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the five kings had been found",
+      "korean_translation": "다섯 왕들이 발견되었다는 것을",
+      "word_indices": [
+        4,
+        196,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hiding in the cave",
+      "korean_translation": "동굴에 숨어 있는",
+      "word_indices": [
+        1020
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at Makkedah",
+      "korean_translation": "막케다에 있는",
+      "word_indices": []
+    }
+  ]
+}

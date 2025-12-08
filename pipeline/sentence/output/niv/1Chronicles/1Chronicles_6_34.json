@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Chronicles 6:34",
+  "version": "NIV",
+  "original_text": "the son of Elkanah, the son of Jeroham,\nthe son of Eliel, the son of Toah,",
+  "korean_text": "사무엘은 엘가나의 아들이요 엘가나는 여로함의 아들이요 여로함은 엘리엘의 아들이요 엘리엘은 도아의 아들이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the son of Elkanah",
+      "korean_translation": "엘카나의 아들",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the son of Jeroham",
+      "korean_translation": "여호람의 아들",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the son of Eliel",
+      "korean_translation": "엘리엘의 아들",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the son of Toah",
+      "korean_translation": "도아의 아들",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

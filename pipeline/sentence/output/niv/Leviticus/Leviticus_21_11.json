@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Leviticus 21:11",
+  "version": "NIV",
+  "original_text": "He must not enter a place where there is a dead body. He must not make himself unclean, even for his father or mother,",
+  "korean_text": "어떤 시체에든지 가까이 하지 말지니 그의 부모로 말미암아서도 더러워지게 하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He must not enter",
+      "korean_translation": "그는 들어가서는 안 된다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a place where there is a dead body",
+      "korean_translation": "시체가 있는 곳으로",
+      "word_indices": [
+        18,
+        115,
+        137
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must not make himself unclean",
+      "korean_translation": "그는 자신을 부정하게 만들어서는 안 된다",
+      "word_indices": [
+        250
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even for his father or mother",
+      "korean_translation": "비록 그의 부모나 어머니를 위해서라도",
+      "word_indices": [
+        12,
+        120
+      ]
+    }
+  ]
+}

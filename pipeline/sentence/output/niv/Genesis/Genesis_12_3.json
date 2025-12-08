@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Genesis 12:3",
+  "version": "NIV",
+  "original_text": "I will bless those who bless you,\n    and whoever curses you I will curse;\nand all peoples on earth\n    will be blessed through you.”",
+  "korean_text": "너를 축복하는 자에게는 내가 복을 내리고 너를 저주하는 자에게는 내가 저주하리니 땅의 모든 족속이 너로 말미암아 복을 얻을 것이라 하신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will bless those who bless you",
+      "korean_translation": "내가 너를 축복하는 자들을 축복하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever curses you",
+      "korean_translation": "누구든지 너를 저주하는 자는",
+      "word_indices": [
+        154
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will curse",
+      "korean_translation": "내가 저주하리라",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all peoples on earth",
+      "korean_translation": "그리고 땅의 모든 민족이",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will be blessed through you",
+      "korean_translation": "너로 말미암아 복을 받으리라",
+      "word_indices": [
+        39,
+        97
+      ]
+    }
+  ]
+}

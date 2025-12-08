@@ -1,0 +1,67 @@
+{
+  "verse_reference": "1 Kings 1:13",
+  "version": "NIV",
+  "original_text": "Go in to King David and say to him, ‘My lord the king, did you not swear to me your servant: “Surely Solomon your son shall be king after me, and he will sit on my throne”? Why then has Adonijah become king?’",
+  "korean_text": "당신은 다윗 왕 앞에 들어가서 아뢰기를 내 주 왕이여 전에 왕이 여종에게 맹세하여 이르시기를 네 아들 솔로몬이 반드시 나를 이어 왕이 되어 내 왕위에 앉으리라 하지 아니하셨나이까 그런데 아도니야가 무슨 이유로 왕이 되었나이까 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go in to King David",
+      "korean_translation": "다윗 왕께 들어가서",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and say to him",
+      "korean_translation": "그에게 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My lord the king",
+      "korean_translation": "나의 주 왕이시여",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "did you not swear to me your servant",
+      "korean_translation": "당신은 주의 종인 내게 맹세하지 않으셨습니까",
+      "word_indices": [
+        25,
+        329
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Surely Solomon your son shall be king after me",
+      "korean_translation": "당신의 아들 솔로몬이 반드시 나 뒤를 이어 왕이 될 것이며",
+      "word_indices": [
+        2,
+        4,
+        150
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and he will sit on my throne",
+      "korean_translation": "그가 내 왕위에 앉을 것이라",
+      "word_indices": [
+        151,
+        282
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Why then has Adonijah become king",
+      "korean_translation": "그런데 어찌하여 아도니야가 왕이 되었습니까",
+      "word_indices": [
+        4,
+        32
+      ]
+    }
+  ]
+}

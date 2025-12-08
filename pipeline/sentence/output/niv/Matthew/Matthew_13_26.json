@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 13:26",
+  "version": "NIV",
+  "original_text": "When the wheat sprouted and formed heads, then the weeds also appeared.",
+  "korean_text": "싹이 나고 결실할 때에 가라지도 보이거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the wheat sprouted",
+      "korean_translation": "밀이 싹을 돋았을 때",
+      "word_indices": [
+        974,
+        1774
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and formed heads",
+      "korean_translation": "이삭을 맺었더니",
+      "word_indices": [
+        67,
+        618
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then the weeds also appeared",
+      "korean_translation": "그 때 가시나물도 나타났다",
+      "word_indices": [
+        28,
+        293,
+        2185
+      ]
+    }
+  ]
+}

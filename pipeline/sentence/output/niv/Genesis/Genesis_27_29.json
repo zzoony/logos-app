@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Genesis 27:29",
+  "version": "NIV",
+  "original_text": "May nations serve you\n    and peoples bow down to you.\nBe lord over your brothers,\n    and may the sons of your mother bow down to you.\nMay those who curse you be cursed\n    and those who bless you be blessed.”",
+  "korean_text": "만민이 너를 섬기고 열국이 네게 굴복하리니 네가 형제들의 주가 되고 네 어머니의 아들들이 네게 굴복하며 너를 저주하는 자는 저주를 받고 너를 축복하는 자는 복을 받기를 원하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May nations serve you",
+      "korean_translation": "민족들이 너를 섬기기를",
+      "word_indices": [
+        41,
+        131
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and peoples bow down to you",
+      "korean_translation": "백성들이 너에게 절하기를",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Be lord over your brothers",
+      "korean_translation": "네 형제들의 주인이 되라",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and may the sons of your mother bow down to you",
+      "korean_translation": "네 어머니의 아들들이 너에게 절하기를",
+      "word_indices": [
+        2,
+        120,
+        263
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "May those who curse you be cursed",
+      "korean_translation": "너를 저주하는 자들은 저주를 받기를",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and those who bless you be blessed",
+      "korean_translation": "너를 축복하는 자들은 축복을 받기를",
+      "word_indices": [
+        97
+      ]
+    }
+  ]
+}

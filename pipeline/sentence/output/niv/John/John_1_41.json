@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 1:41",
+  "version": "NIV",
+  "original_text": "The first thing Andrew did was to find his brother Simon and tell him, “We have found the Messiah” (that is, the Christ).",
+  "korean_text": "그가 먼저 자기의 형제 시몬을 찾아 말하되 우리가 메시야를 만났다 하고 (메시야는 번역하면 그리스도라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The first thing Andrew did was to find his brother Simon",
+      "korean_translation": "안드레가 한 첫 번째 일은 그의 형제 시몬을 찾는 것이었습니다",
+      "word_indices": [
+        53,
+        55
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and tell him",
+      "korean_translation": "그리고 그에게 말하는 것이었습니다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We have found the Messiah",
+      "korean_translation": "우리가 메시아를 찾았습니다",
+      "word_indices": [
+        717,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is, the Christ",
+      "korean_translation": "즉, 그리스도라는 뜻입니다",
+      "word_indices": [
+        73
+      ]
+    }
+  ]
+}

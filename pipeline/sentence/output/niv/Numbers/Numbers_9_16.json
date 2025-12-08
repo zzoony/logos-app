@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Numbers 9:16",
+  "version": "NIV",
+  "original_text": "That is how it continued to be; the cloud covered it, and at night it looked like fire.",
+  "korean_text": "항상 그러하여 낮에는 구름이 그것을 덮었고 밤이면 불 모양이 있었는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That is how it continued to be",
+      "korean_translation": "그것이 계속해서 그런 상태였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the cloud covered it",
+      "korean_translation": "구름이 그것을 덮었습니다",
+      "word_indices": [
+        200,
+        331
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and at night it looked like fire",
+      "korean_translation": "그리고 밤에는 그것이 불처럼 보였습니다",
+      "word_indices": [
+        7,
+        51,
+        101,
+        126
+      ]
+    }
+  ]
+}

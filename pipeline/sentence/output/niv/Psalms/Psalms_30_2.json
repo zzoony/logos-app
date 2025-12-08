@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 30:2",
+  "version": "NIV",
+  "original_text": "Lord my God, I called to you for help,\n    and you healed me.",
+  "korean_text": "여호와 내 하나님이여 내가 주께 부르짖으매 나를 고치셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord my God,",
+      "korean_translation": "주 나의 하나님,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I called to you for help,",
+      "korean_translation": "나는 당신에게 도움을 요청했고,",
+      "word_indices": [
+        35,
+        181
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you healed me.",
+      "korean_translation": "당신은 나를 고치셨습니다.",
+      "word_indices": [
+        354
+      ]
+    }
+  ]
+}

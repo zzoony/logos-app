@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 2:17",
+  "version": "NIV",
+  "original_text": "but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die.”",
+  "korean_text": "선악을 알게 하는 나무의 열매는 먹지 말라 네가 먹는 날에는 반드시 죽으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but you must not eat",
+      "korean_translation": "하지만 너는 먹지 말아야 한다",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the tree of the knowledge of good and evil",
+      "korean_translation": "선과 악의 지식의 나무에서",
+      "word_indices": [
+        56,
+        95,
+        164,
+        407
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for when you eat from it",
+      "korean_translation": "왜냐하면 네가 그것을 먹을 때",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you will certainly die",
+      "korean_translation": "너는 반드시 죽을 것이다",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

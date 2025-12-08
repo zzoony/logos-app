@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 3:6",
+  "version": "NIV",
+  "original_text": "I will not fear though tens of thousands\n    assail me on every side.",
+  "korean_text": "천만인이 나를 에워싸 진 친다 하여도 나는 두려워하지 아니하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will not fear",
+      "korean_translation": "나는 두려워하지 않겠다",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "though tens of thousands assail me",
+      "korean_translation": "수만 명이 나를 공격할지라도",
+      "word_indices": [
+        127,
+        136,
+        240,
+        3965
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on every side",
+      "korean_translation": "사방에서",
+      "word_indices": [
+        118
+      ]
+    }
+  ]
+}

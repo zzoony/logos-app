@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Chronicles 2:13",
+  "version": "NIV",
+  "original_text": "Jesse was the father of\nEliab his firstborn; the second son was Abinadab, the third Shimea,",
+  "korean_text": "이새는 맏아들 엘리압과 둘째로 아비나답과 셋째로 시므아와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesse was the father of Eliab his firstborn;",
+      "korean_translation": "이새는 그의 장자 엘리압의 아버지였으며,",
+      "word_indices": [
+        12,
+        408
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the second son was Abinadab,",
+      "korean_translation": "둘째 아들은 아비나답이었고,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the third Shimea,",
+      "korean_translation": "셋째는 시매였으며,",
+      "word_indices": [
+        280
+      ]
+    }
+  ]
+}

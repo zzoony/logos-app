@@ -1,0 +1,50 @@
+{
+  "verse_reference": "2 Samuel 24:14",
+  "version": "NIV",
+  "original_text": "David said to Gad, “I am in deep distress. Let us fall into the hands of the Lord, for his mercy is great; but do not let me fall into human hands.”",
+  "korean_text": "다윗이 갓에게 이르되 내가 고통 중에 있도다 청하건대 여호와께서는 긍휼이 크시니 우리가 여호와의 손에 빠지고 내가 사람의 손에 빠지지 아니하기를 원하노라 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said to Gad",
+      "korean_translation": "다윗이 갓에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am in deep distress",
+      "korean_translation": "나는 깊은 고통 중에 있습니다",
+      "word_indices": [
+        499
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Let us fall into the hands of the Lord",
+      "korean_translation": "우리가 주의 손에 빠지게 하소서",
+      "word_indices": [
+        9,
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for his mercy is great",
+      "korean_translation": "그의 긍휼이 크기 때문입니다",
+      "word_indices": [
+        44,
+        413
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but do not let me fall into human hands",
+      "korean_translation": "나를 사람의 손에 빠지게 하지 마소서",
+      "word_indices": [
+        9,
+        113,
+        239
+      ]
+    }
+  ]
+}

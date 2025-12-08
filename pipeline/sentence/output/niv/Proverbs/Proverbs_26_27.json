@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Proverbs 26:27",
+  "version": "NIV",
+  "original_text": "Whoever digs a pit will fall into it;\n    if someone rolls a stone, it will roll back on them.",
+  "korean_text": "함정을 파는 자는 그것에 빠질 것이요 돌을 굴리는 자는 도리어 그것에 치이리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever digs a pit",
+      "korean_translation": "구덩이를 파는 자는",
+      "word_indices": [
+        154,
+        705,
+        958
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will fall into it",
+      "korean_translation": "그 속에 빠지리라",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if someone rolls a stone",
+      "korean_translation": "누군가 돌을 굴리면",
+      "word_indices": [
+        125,
+        271,
+        1117
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it will roll back on them",
+      "korean_translation": "그것이 그들에게로 굴러오리라",
+      "word_indices": [
+        52,
+        1117
+      ]
+    }
+  ]
+}

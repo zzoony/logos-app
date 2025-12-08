@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Esther 5:3",
+  "version": "NIV",
+  "original_text": "Then the king asked, “What is it, Queen Esther? What is your request? Even up to half the kingdom, it will be given you.”",
+  "korean_text": "왕이 이르되 왕후 에스더여 그대의 소원이 무엇이며 요구가 무엇이냐 나라의 절반이라도 그대에게 주겠노라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the king asked",
+      "korean_translation": "그때 왕이 묻습니다",
+      "word_indices": [
+        4,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What is it, Queen Esther?",
+      "korean_translation": "무슨 일이십니까, 에스더 왕후?",
+      "word_indices": [
+        801
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What is your request?",
+      "korean_translation": "당신의 요청은 무엇입니까?",
+      "word_indices": [
+        1006
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Even up to half the kingdom",
+      "korean_translation": "왕국의 절반까지라도",
+      "word_indices": [
+        109,
+        368
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "it will be given you",
+      "korean_translation": "당신에게 주어질 것입니다",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

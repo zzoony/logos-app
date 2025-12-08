@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 John 4:21",
+  "version": "NIV",
+  "original_text": "And he has given us this command: Anyone who loves God must also love their brother and sister.",
+  "korean_text": "우리가 이 계명을 주께 받았나니 하나님을 사랑하는 자는 또한 그 형제를 사랑할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he has given us this command",
+      "korean_translation": "그리고 그는 우리에게 이 계명을 주셨습니다",
+      "word_indices": [
+        5,
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Anyone who loves God",
+      "korean_translation": "하나님을 사랑하는 사람은",
+      "word_indices": [
+        1,
+        68
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must also love their brother",
+      "korean_translation": "반드시 자기 형제도 사랑해야 합니다",
+      "word_indices": [
+        28,
+        38,
+        53
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sister",
+      "korean_translation": "그리고 자매도",
+      "word_indices": [
+        173
+      ]
+    }
+  ]
+}

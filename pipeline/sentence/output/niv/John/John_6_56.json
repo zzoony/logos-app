@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 6:56",
+  "version": "NIV",
+  "original_text": "Whoever eats my flesh and drinks my blood remains in me, and I in them.",
+  "korean_text": "내 살을 먹고 내 피를 마시는 자는 내 안에 거하고 나도 그의 안에 거하나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever eats my flesh",
+      "korean_translation": "내 살을 먹는 사람은",
+      "word_indices": [
+        33,
+        154,
+        307
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drinks my blood",
+      "korean_translation": "내 피를 마시는 사람은",
+      "word_indices": [
+        78,
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "remains in me",
+      "korean_translation": "내 안에 거하고",
+      "word_indices": [
+        210
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I in them",
+      "korean_translation": "나도 그들 안에 거한다",
+      "word_indices": []
+    }
+  ]
+}

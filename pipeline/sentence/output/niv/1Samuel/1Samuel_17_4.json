@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 17:4",
+  "version": "NIV",
+  "original_text": "A champion named Goliath, who was from Gath, came out of the Philistine camp. His height was six cubits and a span.",
+  "korean_text": "블레셋 사람들의 진영에서 싸움을 돋우는 자가 왔는데 그의 이름은 골리앗이요 가드 사람이라 그의 키는 여섯 규빗 한 뼘이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A champion named Goliath",
+      "korean_translation": "골리앗이라는 챔피언이",
+      "word_indices": [
+        3221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who was from Gath",
+      "korean_translation": "그는 가드에서 왔으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "came out of the Philistine camp",
+      "korean_translation": "블레셋 진영에서 나왔다",
+      "word_indices": [
+        177
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "His height was six cubits and a span",
+      "korean_translation": "그의 키는 여섯 큐빗과 한 손가락이었다",
+      "word_indices": [
+        170,
+        395,
+        822,
+        2429
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 3:3",
+  "version": "NIV",
+  "original_text": "but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”",
+  "korean_text": "동산 중앙에 있는 나무의 열매는 하나님의 말씀에 너희는 먹지도 말고 만지지도 말라 너희가 죽을까 하노라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but God did say",
+      "korean_translation": "하지만 하나님께서 말씀하셨다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You must not eat fruit",
+      "korean_translation": "'너는 그 열매를 먹으면 안 되고",
+      "word_indices": [
+        33,
+        289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the tree that is in the middle of the garden",
+      "korean_translation": "동산 가운데 있는 그 나무에서'",
+      "word_indices": [
+        164,
+        745,
+        943
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you must not touch it",
+      "korean_translation": "그리고 너는 그것을 만지면 안 된다",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or you will die.'\"",
+      "korean_translation": "그렇지 않으면 너는 죽을 것이다.'\"",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

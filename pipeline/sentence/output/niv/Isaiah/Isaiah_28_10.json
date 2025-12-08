@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Isaiah 28:10",
+  "version": "NIV",
+  "original_text": "For it is:\n    Do this, do that,\n    a rule for this, a rule for that;\n    a little here, a little there.”",
+  "korean_text": "대저 경계에 경계를 더하며 경계에 경계를 더하며 교훈에 교훈을 더하며 교훈에 교훈을 더하되 여기서도 조금, 저기서도 조금 하는구나 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For it is:",
+      "korean_translation": "이것이 바로 그것이라:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do this,",
+      "korean_translation": "이것을 하고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do that,",
+      "korean_translation": "저것을 하고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a rule for this,",
+      "korean_translation": "이것에 대한 규칙이 있고,",
+      "word_indices": [
+        366
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a rule for that;",
+      "korean_translation": "저것에 대한 규칙이 있고;",
+      "word_indices": [
+        366
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "a little here,",
+      "korean_translation": "여기에 조금 있고,",
+      "word_indices": [
+        312
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "a little there.",
+      "korean_translation": "거기에 조금 있다.",
+      "word_indices": [
+        312
+      ]
+    }
+  ]
+}

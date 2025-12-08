@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 13:31",
+  "version": "NIV",
+  "original_text": "At that time some Pharisees came to Jesus and said to him, “Leave this place and go somewhere else. Herod wants to kill you.”",
+  "korean_text": "곧 그 때에 어떤 바리새인들이 나아와서 이르되 나가서 여기를 떠나소서 헤롯이 당신을 죽이고자 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At that time",
+      "korean_translation": "그때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some Pharisees came to Jesus",
+      "korean_translation": "어떤 바리새인들이 예수님께 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said to him",
+      "korean_translation": "그분께 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Leave this place",
+      "korean_translation": "이 곳을 떠나십시오",
+      "word_indices": [
+        18,
+        30
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and go somewhere else",
+      "korean_translation": "그리고 다른 곳으로 가십시오",
+      "word_indices": [
+        485,
+        3656
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Herod wants to kill you",
+      "korean_translation": "헤롯이 당신을 죽이려고 합니다",
+      "word_indices": [
+        76,
+        161
+      ]
+    }
+  ]
+}

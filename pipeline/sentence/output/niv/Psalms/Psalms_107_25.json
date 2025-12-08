@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 107:25",
+  "version": "NIV",
+  "original_text": "For he spoke and stirred up a tempest\n    that lifted high the waves.",
+  "korean_text": "여호와께서 명령하신즉 광풍이 일어나 바다 물결을 일으키는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he spoke",
+      "korean_translation": "그가 말씀하셨으니",
+      "word_indices": [
+        5162
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and stirred up a tempest",
+      "korean_translation": "그리고 폭풍을 일으켰다",
+      "word_indices": [
+        2853
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that lifted high the waves",
+      "korean_translation": "그것이 높이 파도를 들어올렸다",
+      "word_indices": [
+        105,
+        379
+      ]
+    }
+  ]
+}

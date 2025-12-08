@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:13",
+  "version": "NIV",
+  "original_text": "Zerubbabel the father of Abihud,\nAbihud the father of Eliakim,\nEliakim the father of Azor,",
+  "korean_text": "스룹바벨은 아비훗을 낳고 아비훗은 엘리아김을 낳고 엘리아김은 아소르를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Zerubbabel the father of Abihud",
+      "korean_translation": "스룹바벨은 아비훗의 아버지며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Abihud the father of Eliakim",
+      "korean_translation": "아비훗은 엘리아김의 아버지며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Eliakim the father of Azor",
+      "korean_translation": "엘리아김은 아소르의 아버지니라",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

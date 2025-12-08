@@ -1,0 +1,58 @@
+{
+  "verse_reference": "1 John 2:16",
+  "version": "NIV",
+  "original_text": "For everything in the world—the lust of the flesh, the lust of the eyes, and the pride of life—comes not from the Father but from the world.",
+  "korean_text": "이는 세상에 있는 모든 것이 육신의 정욕과 안목의 정욕과 이생의 자랑이니 다 아버지께로부터 온 것이 아니요 세상으로부터 온 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For everything in the world",
+      "korean_translation": "세상에 있는 모든 것은",
+      "word_indices": [
+        190
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the lust of the flesh",
+      "korean_translation": "육체의 정욕은",
+      "word_indices": [
+        307,
+        1404
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the lust of the eyes",
+      "korean_translation": "눈의 정욕은",
+      "word_indices": [
+        1404
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the pride of life",
+      "korean_translation": "그리고 삶의 자랑은",
+      "word_indices": [
+        37,
+        744
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "comes not from the Father",
+      "korean_translation": "아버지께로부터 온 것이 아니라",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but from the world",
+      "korean_translation": "세상으로부터 온 것이다",
+      "word_indices": [
+        190
+      ]
+    }
+  ]
+}

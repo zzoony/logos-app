@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 19:14",
+  "version": "NIV",
+  "original_text": "“‘Do not curse the deaf or put a stumbling block in front of the blind, but fear your God. I am the Lord.",
+  "korean_text": "너는 귀먹은 자를 저주하지 말며 맹인 앞에 장애물을 놓지 말고 네 하나님을 경외하라 나는 여호와이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not curse the deaf",
+      "korean_translation": " deaf 사람을 저주하지 말라",
+      "word_indices": [
+        255,
+        1657
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or put a stumbling block in front of the blind",
+      "korean_translation": "또는 blind 앞에 걸림돌을 놓지 말라",
+      "word_indices": [
+        340,
+        606,
+        1367
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but fear your God",
+      "korean_translation": "하지만 당신의 하나님을 두려워하라",
+      "word_indices": [
+        1,
+        133
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": []
+    }
+  ]
+}

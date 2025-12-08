@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Jeremiah 14:5",
+  "version": "NIV",
+  "original_text": "Even the doe in the field\n    deserts her newborn fawn\n    because there is no grass.",
+  "korean_text": "들의 암사슴은 새끼를 낳아도 풀이 없으므로 내버리며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even the doe in the field",
+      "korean_translation": "들에 있는 암사슴조차도",
+      "word_indices": [
+        64,
+        156
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "deserts her newborn fawn",
+      "korean_translation": "갓 태어난 새끼를 버리고 떠나며",
+      "word_indices": [
+        262,
+        2740,
+        4066
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because there is no grass",
+      "korean_translation": "풀이 없기 때문이다",
+      "word_indices": []
+    }
+  ]
+}

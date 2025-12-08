@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 38:20",
+  "version": "NIV",
+  "original_text": "Those who repay my good with evil\n    lodge accusations against me,\n    though I seek only to do what is good.",
+  "korean_text": "또 악으로 선을 대신하는 자들이 내가 선을 따른다는 것 때문에 나를 대적하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Those who repay my good with evil",
+      "korean_translation": "나의 선을 악으로 갚는 자들은",
+      "word_indices": [
+        56,
+        95,
+        753
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "lodge accusations against me",
+      "korean_translation": "나를 고발하며",
+      "word_indices": [
+        11,
+        2272,
+        2420
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "though I seek only to do what is good",
+      "korean_translation": "비록 나는 오직 선한 것만 행하고자 할지라도",
+      "word_indices": [
+        56,
+        127,
+        273
+      ]
+    }
+  ]
+}

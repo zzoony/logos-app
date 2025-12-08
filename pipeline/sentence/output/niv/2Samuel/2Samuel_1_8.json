@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Samuel 1:8",
+  "version": "NIV",
+  "original_text": "“He asked me, ‘Who are you?’\n“‘An Amalekite,’ I answered.",
+  "korean_text": "내게 이르되 너는 누구냐 하시기로 내가 그에게 대답하되 나는 아말렉 사람이니이다 한즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He asked me",
+      "korean_translation": "그가 나에게 물었습니다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who are you?",
+      "korean_translation": "네가 누구냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "An Amalekite",
+      "korean_translation": "아말렉 사람입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I answered",
+      "korean_translation": "내가 대답했습니다",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

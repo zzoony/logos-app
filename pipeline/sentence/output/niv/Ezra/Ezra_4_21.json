@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Ezra 4:21",
+  "version": "NIV",
+  "original_text": "Now issue an order to these men to stop work, so that this city will not be rebuilt until I so order.",
+  "korean_text": "이제 너희는 명령을 전하여 그 사람들에게 공사를 그치게 하여 그 성을 건축하지 못하게 하고 내가 다시 조서 내리기를 기다리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now issue an order to these men",
+      "korean_translation": "이제 이 사람들에게 명령을 내리라",
+      "word_indices": [
+        163,
+        1210
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to stop work",
+      "korean_translation": "그들이 일을 멈추도록",
+      "word_indices": [
+        65,
+        334
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that this city will not be rebuilt",
+      "korean_translation": "그리하여 이 도시가 재건되지 않게 하라",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until I so order",
+      "korean_translation": "내가 그렇게 명령할 때까지",
+      "word_indices": [
+        163
+      ]
+    }
+  ]
+}

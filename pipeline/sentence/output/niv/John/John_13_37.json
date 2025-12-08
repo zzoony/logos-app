@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 13:37",
+  "version": "NIV",
+  "original_text": "Peter asked, “Lord, why can’t I follow you now? I will lay down my life for you.”",
+  "korean_text": "베드로가 이르되 주여 내가 지금은 어찌하여 따라갈 수 없나이까 주를 위하여 내 목숨을 버리겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter asked",
+      "korean_translation": "베드로가 물었습니다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "why can't I follow you now?",
+      "korean_translation": "내가 지금 당신을 따라갈 수 없습니까?",
+      "word_indices": [
+        91
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will lay down my life",
+      "korean_translation": "내가 내 목숨을 드리겠습니다",
+      "word_indices": [
+        37,
+        148
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for you",
+      "korean_translation": "당신을 위해",
+      "word_indices": []
+    }
+  ]
+}

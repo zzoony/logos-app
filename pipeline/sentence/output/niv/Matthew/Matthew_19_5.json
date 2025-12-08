@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 19:5",
+  "version": "NIV",
+  "original_text": "and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’?",
+  "korean_text": "말씀하시기를 그러므로 사람이 그 부모를 떠나서 아내에게 합하여 그 둘이 한 몸이 될지니라 하신 것을 읽지 못하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and said",
+      "korean_translation": "그리고 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For this reason",
+      "korean_translation": "그러므로",
+      "word_indices": [
+        750
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a man will leave his father and mother",
+      "korean_translation": "사람이 그 아버지와 어머니를 떠나",
+      "word_indices": [
+        10,
+        12,
+        30,
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and be united to his wife",
+      "korean_translation": "그 아내와 연합하고",
+      "word_indices": [
+        79,
+        1724
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the two will become one flesh",
+      "korean_translation": "그 둘이 한 몸이 될 것이라",
+      "word_indices": [
+        32,
+        307
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Matthew 10:36",
+  "version": "NIV",
+  "original_text": "a man’s enemies will be the members of his own household.’",
+  "korean_text": "사람의 원수가 자기 집안 식구리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a man's enemies",
+      "korean_translation": "한 사람의 원수들은",
+      "word_indices": [
+        10,
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will be the members of his own household",
+      "korean_translation": "그 자신의 가족 구성원들이 될 것이다",
+      "word_indices": [
+        389,
+        1087
+      ]
+    }
+  ]
+}

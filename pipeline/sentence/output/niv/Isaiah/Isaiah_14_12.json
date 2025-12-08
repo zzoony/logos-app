@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 14:12",
+  "version": "NIV",
+  "original_text": "How you have fallen from heaven,\n    morning star, son of the dawn!\nYou have been cast down to the earth,\n    you who once laid low the nations!",
+  "korean_text": "너 아침의 아들 계명성이여 어찌 그리 하늘에서 떨어졌으며 너 열국을 엎은 자여 어찌 그리 땅에 찍혔는고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How you have fallen from heaven",
+      "korean_translation": "너는 어떻게 하늘에서 떨어졌는가",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "morning star, son of the dawn",
+      "korean_translation": "새벽 별, 동쪽의 아들아",
+      "word_indices": [
+        2,
+        676,
+        1032
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You have been cast down to the earth",
+      "korean_translation": "너는 땅으로 던져졌다",
+      "word_indices": [
+        40,
+        581
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you who once laid low the nations",
+      "korean_translation": "너는 한때 민족들을 낮추었던 자",
+      "word_indices": [
+        41,
+        1018
+      ]
+    }
+  ]
+}

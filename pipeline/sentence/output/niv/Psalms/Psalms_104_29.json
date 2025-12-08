@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Psalms 104:29",
+  "version": "NIV",
+  "original_text": "When you hide your face,\n    they are terrified;\nwhen you take away their breath,\n    they die and return to the dust.",
+  "korean_text": "주께서 낯을 숨기신즉 그들이 떨고 주께서 그들의 호흡을 거두신즉 그들은 죽어 먼지로 돌아가나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you hide your face",
+      "korean_translation": "당신이 얼굴을 숨길 때",
+      "word_indices": [
+        87,
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they are terrified",
+      "korean_translation": "그들은 두려워합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when you take away their breath",
+      "korean_translation": "당신이 그들의 숨을 거두어 갈 때",
+      "word_indices": [
+        34,
+        792
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they die",
+      "korean_translation": "그들은 죽습니다",
+      "word_indices": [
+        58
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and return to the dust",
+      "korean_translation": "그리고 흙으로 돌아갑니다",
+      "word_indices": [
+        89,
+        490
+      ]
+    }
+  ]
+}

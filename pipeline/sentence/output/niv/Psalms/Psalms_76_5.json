@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 76:5",
+  "version": "NIV",
+  "original_text": "The valiant lie plundered,\n    they sleep their last sleep;\nnot one of the warriors\n    can lift his hands.",
+  "korean_text": "마음이 강한 자도 가진 것을 빼앗기고 잠에 빠질 것이며 장사들도 모두 그들에게 도움을 줄 손을 만날 수 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The valiant lie plundered,",
+      "korean_translation": "용감한 자들은 약탈당하여 누워 있고",
+      "word_indices": [
+        142,
+        401,
+        2252
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they sleep their last sleep;",
+      "korean_translation": "그들은 마지막 잠을 자며",
+      "word_indices": [
+        344,
+        378
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not one of the warriors",
+      "korean_translation": "전사들 중 한 사람도",
+      "word_indices": [
+        575
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "can lift his hands.",
+      "korean_translation": "자기 손을 들 수 없다",
+      "word_indices": [
+        9,
+        379
+      ]
+    }
+  ]
+}

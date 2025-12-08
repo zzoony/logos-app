@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 24:1",
+  "version": "NIV",
+  "original_text": "Jesus left the temple and was walking away when his disciples came up to him to call his attention to its buildings.",
+  "korean_text": "예수께서 성전에서 나와서 가실 때에 제자들이 성전 건물들을 가리켜 보이려고 나아오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus left the temple",
+      "korean_translation": "예수께서 성전을 나가셨다",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and was walking away",
+      "korean_translation": "그리고 걸어가고 계셨다",
+      "word_indices": [
+        34,
+        238
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when his disciples came up to him",
+      "korean_translation": "그의 제자들이 그에게 다가왔을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to call his attention to its buildings",
+      "korean_translation": "그 건물들에 그의 관심을 끌기 위해",
+      "word_indices": [
+        35,
+        643,
+        2169
+      ]
+    }
+  ]
+}

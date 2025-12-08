@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Exodus 21:20",
+  "version": "NIV",
+  "original_text": "“Anyone who beats their male or female slave with a rod must be punished if the slave dies as a direct result,",
+  "korean_text": "사람이 매로 그 남종이나 여종을 쳐서 당장에 죽으면 반드시 형벌을 받으려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who beats their male or female slave",
+      "korean_translation": "자신의 남녀 종을 때리는 사람은",
+      "word_indices": [
+        68,
+        228,
+        287,
+        614,
+        754
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with a rod",
+      "korean_translation": "막대기로",
+      "word_indices": [
+        830
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must be punished",
+      "korean_translation": "벌을 받아야 한다",
+      "word_indices": [
+        481
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if the slave dies",
+      "korean_translation": "종이 죽는다면",
+      "word_indices": [
+        287
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as a direct result",
+      "korean_translation": "직접적인 결과로",
+      "word_indices": [
+        1047,
+        1205
+      ]
+    }
+  ]
+}

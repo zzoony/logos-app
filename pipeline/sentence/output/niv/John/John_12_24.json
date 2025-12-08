@@ -1,0 +1,51 @@
+{
+  "verse_reference": "John 12:24",
+  "version": "NIV",
+  "original_text": "Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 한 알의 밀이 땅에 떨어져 죽지 아니하면 한 알 그대로 있고 죽으면 많은 열매를 맺느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Very truly I tell you",
+      "korean_translation": "진실로 진실로 너희에게 말하노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unless a kernel of wheat falls to the ground and dies",
+      "korean_translation": "밀알 하나가 땅에 떨어져 죽지 않으면",
+      "word_indices": [
+        113,
+        974,
+        3188,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it remains only a single seed",
+      "korean_translation": "그것은 오직 한 알의 씨앗으로만 남을 것이다",
+      "word_indices": [
+        210,
+        1457
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But if it dies",
+      "korean_translation": "그러나 만약 그것이 죽으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "it produces many seeds",
+      "korean_translation": "그것은 많은 씨앗을 맺는다",
+      "word_indices": [
+        600
+      ]
+    }
+  ]
+}

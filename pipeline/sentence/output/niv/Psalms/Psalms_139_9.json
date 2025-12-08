@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 139:9",
+  "version": "NIV",
+  "original_text": "If I rise on the wings of the dawn,\n    if I settle on the far side of the sea,",
+  "korean_text": "내가 새벽 날개를 치며 바다 끝에 가서 거주할지라도",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I rise on the wings of the dawn,",
+      "korean_translation": "내가 새벽 날개를 타고 솟아오를지라도,",
+      "word_indices": [
+        199,
+        593,
+        1032
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if I settle on the far side of the sea,",
+      "korean_translation": "내가 바다 끝에 자리 잡을지라도,",
+      "word_indices": [
+        108,
+        118,
+        202,
+        455
+      ]
+    }
+  ]
+}

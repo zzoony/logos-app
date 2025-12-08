@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Ezekiel 7:15",
+  "version": "NIV",
+  "original_text": "Outside is the sword;\n    inside are plague and famine.\nThose in the country\n    will die by the sword;\nthose in the city\n    will be devoured by famine and plague.",
+  "korean_text": "밖에는 칼이 있고 안에는 전염병과 기근이 있어서 밭에 있는 자는 칼에 죽을 것이요 성읍에 있는 자는 기근과 전염병에 망할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Outside is the sword",
+      "korean_translation": "바깥에는 칼이 있다",
+      "word_indices": [
+        84,
+        404
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "inside are plague and famine",
+      "korean_translation": "안에는 전염병과 기근이 있다",
+      "word_indices": [
+        518,
+        534,
+        646
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Those in the country",
+      "korean_translation": "시골에 있는 사람들은",
+      "word_indices": [
+        167
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will die by the sword",
+      "korean_translation": "칼에 죽을 것이다",
+      "word_indices": [
+        58,
+        84
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "those in the city",
+      "korean_translation": "성에 있는 사람들은",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will be devoured by famine and plague",
+      "korean_translation": "기근과 전염병에 삼켜질 것이다",
+      "word_indices": [
+        518,
+        534,
+        555
+      ]
+    }
+  ]
+}

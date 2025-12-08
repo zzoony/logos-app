@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 13:28",
+  "version": "NIV",
+  "original_text": "“‘An enemy did this,’ he replied.\n“The servants asked him, ‘Do you want us to go and pull them up?’",
+  "korean_text": "주인이 이르되 원수가 이렇게 하였구나 종들이 말하되 그러면 우리가 가서 이것을 뽑기를 원하시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An enemy did this",
+      "korean_translation": "원수가 이렇게 했습니다",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he replied",
+      "korean_translation": "그가 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The servants asked him",
+      "korean_translation": "종들이 그에게 물었습니다",
+      "word_indices": [
+        25,
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do you want us to go",
+      "korean_translation": "우리가 가기를 원하십니까",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and pull them up",
+      "korean_translation": "그리고 그것들을 뽑아 올리기를",
+      "word_indices": [
+        1085
+      ]
+    }
+  ]
+}

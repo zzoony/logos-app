@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Isaiah 52:11",
+  "version": "NIV",
+  "original_text": "Depart, depart, go out from there!\n    Touch no unclean thing!\nCome out from it and be pure,\n    you who carry the articles of the Lord’s house.",
+  "korean_text": "너희는 떠날지어다 떠날지어다 거기서 나오고 부정한 것을 만지지 말지어다 그 가운데에서 나올지어다 여호와의 기구를 메는 자들이여 스스로 정결하게 할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Depart, depart",
+      "korean_translation": "떠나라, 떠나라",
+      "word_indices": [
+        1256
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "go out from there",
+      "korean_translation": "거기서 나오라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Touch no unclean thing",
+      "korean_translation": "부정한 것을 만지지 말라",
+      "word_indices": [
+        250,
+        359
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Come out from it",
+      "korean_translation": "그것에서 나오라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and be pure",
+      "korean_translation": "그리고 정결하게 되라",
+      "word_indices": [
+        504
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you who carry the articles of the Lord's house",
+      "korean_translation": "주의 집의 기물을 나르는 너희여",
+      "word_indices": [
+        26,
+        129
+      ]
+    }
+  ]
+}

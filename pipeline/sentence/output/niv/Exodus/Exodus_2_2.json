@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 2:2",
+  "version": "NIV",
+  "original_text": "and she became pregnant and gave birth to a son. When she saw that he was a fine child, she hid him for three months.",
+  "korean_text": "그 여자가 임신하여 아들을 낳으니 그가 잘 생긴 것을 보고 석 달 동안 그를 숨겼으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and she became pregnant",
+      "korean_translation": "그녀는 임신했고",
+      "word_indices": [
+        1063
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and gave birth to a son",
+      "korean_translation": "아들을 낳았다",
+      "word_indices": [
+        2,
+        5,
+        387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When she saw that he was a fine child",
+      "korean_translation": "그가 아름다운 아이라는 것을 그녀가 보았을 때",
+      "word_indices": [
+        54,
+        633
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she hid him for three months",
+      "korean_translation": "그녀는 그를 석 달 동안 숨겼다",
+      "word_indices": [
+        90,
+        189
+      ]
+    }
+  ]
+}

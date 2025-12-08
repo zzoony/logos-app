@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 122:3",
+  "version": "NIV",
+  "original_text": "Jerusalem is built like a city\n    that is closely compacted together.",
+  "korean_text": "예루살렘아 너는 잘 짜여진 성읍과 같이 건설되었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jerusalem is built",
+      "korean_translation": "예루살렘이 건설되었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like a city",
+      "korean_translation": "도시처럼",
+      "word_indices": [
+        7,
+        23
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is closely compacted together",
+      "korean_translation": "밀접하게 함께 응축되어 있는",
+      "word_indices": [
+        98,
+        1705,
+        5470
+      ]
+    }
+  ]
+}

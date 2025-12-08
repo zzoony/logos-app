@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Jeremiah 9:23",
+  "version": "NIV",
+  "original_text": "This is what the Lord says:\n“Let not the wise boast of their wisdom\n    or the strong boast of their strength\n    or the rich boast of their riches,",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 지혜로운 자는 그의 지혜를 자랑하지 말라 용사는 그의 용맹을 자랑하지 말라 부자는 그의 부함을 자랑하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says:",
+      "korean_translation": "여호와께서 이렇게 말씀하시니라:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let not the wise boast of their wisdom",
+      "korean_translation": "지혜 있는 자가 그 지혜를 자랑하지 말라",
+      "word_indices": [
+        232,
+        288,
+        551
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or the strong boast of their strength",
+      "korean_translation": "용사가 그 용맹을 자랑하지 말라",
+      "word_indices": [
+        291,
+        342,
+        551
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or the rich boast of their riches,",
+      "korean_translation": "부자가 그 부함을 자랑하지 말라",
+      "word_indices": [
+        371,
+        551
+      ]
+    }
+  ]
+}

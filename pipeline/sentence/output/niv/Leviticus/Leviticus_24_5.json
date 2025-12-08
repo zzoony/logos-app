@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Leviticus 24:5",
+  "version": "NIV",
+  "original_text": "“Take the finest flour and bake twelve loaves of bread, using two-tenths of an ephah for each loaf.",
+  "korean_text": "너는 고운 가루를 가져다가 떡 열두 개를 굽되 각 덩이를 십분의 이 에바로 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Take the finest flour",
+      "korean_translation": "가장 좋은 고운 가루를 가져오라",
+      "word_indices": [
+        730,
+        759
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bake twelve loaves of bread",
+      "korean_translation": "그리고 빵 열두 개를 굽되",
+      "word_indices": [
+        187,
+        370,
+        1347
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "using two-tenths of an ephah for each loaf",
+      "korean_translation": "빵 하나에 에바 십분의 이를 사용하라",
+      "word_indices": [
+        589,
+        734
+      ]
+    }
+  ]
+}

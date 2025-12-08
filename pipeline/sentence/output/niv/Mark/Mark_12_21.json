@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Mark 12:21",
+  "version": "NIV",
+  "original_text": "The second one married the widow, but he also died, leaving no child. It was the same with the third.",
+  "korean_text": "둘째도 그 여자를 취하였다가 상속자가 없이 죽고 셋째도 그렇게 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The second one married the widow",
+      "korean_translation": "두 번째 사람은 그 과부와 결혼했으나",
+      "word_indices": [
+        556
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but he also died",
+      "korean_translation": "그도 죽었고",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "leaving no child",
+      "korean_translation": "자식을 남기지 않았다",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It was the same with the third",
+      "korean_translation": "세 번째도 마찬가지였다",
+      "word_indices": [
+        175,
+        280
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Leviticus 27:5",
+  "version": "NIV",
+  "original_text": "for a person between the ages of five and twenty, set the value of a male at twenty shekels and of a female at ten shekels;",
+  "korean_text": "다섯 살로부터 스무 살까지는 남자면 그 값을 이십 세겔로 하고 여자면 열 세겔로 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for a person between the ages of five and twenty",
+      "korean_translation": "5세에서 20세 사이의 사람에 대해서는",
+      "word_indices": [
+        134,
+        196,
+        220
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "set the value of a male at twenty shekels",
+      "korean_translation": "남자의 값을 스무 세겔로 정하고",
+      "word_indices": [
+        220,
+        228,
+        362,
+        771
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and of a female at ten shekels",
+      "korean_translation": "여자의 값을 열 세겔로 정하라",
+      "word_indices": [
+        240,
+        362,
+        614
+      ]
+    }
+  ]
+}

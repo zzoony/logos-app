@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 11:6",
+  "version": "NIV",
+  "original_text": "a friend of mine on a journey has come to me, and I have no food to offer him.’",
+  "korean_text": "내 벗이 여행중에 내게 왔으나 내가 먹일 것이 없노라 하면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a friend of mine on a journey",
+      "korean_translation": "여행 중인 내 친구가",
+      "word_indices": [
+        335,
+        827
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "has come to me",
+      "korean_translation": "나에게 왔는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I have no food",
+      "korean_translation": "나에게는 음식이 없고",
+      "word_indices": [
+        103
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to offer him",
+      "korean_translation": "그에게 제공할 것이 없습니다",
+      "word_indices": [
+        21
+      ]
+    }
+  ]
+}

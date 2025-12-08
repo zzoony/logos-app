@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 2:2",
+  "version": "NIV",
+  "original_text": "“I am about to go the way of all the earth,” he said. “So be strong, act like a man,",
+  "korean_text": "내가 이제 세상 모든 사람이 가는 길로 가게 되었노니 너는 힘써 대장부가 되고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am about to go the way of all the earth",
+      "korean_translation": "나는 이제 모든 사람들이 가는 길을 가려고 한다",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So be strong",
+      "korean_translation": "그러므로 강하라",
+      "word_indices": [
+        342
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "act like a man",
+      "korean_translation": "장부처럼 행동하라",
+      "word_indices": [
+        7,
+        10,
+        462
+      ]
+    }
+  ]
+}

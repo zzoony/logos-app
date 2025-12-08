@@ -1,0 +1,68 @@
+{
+  "verse_reference": "Isaiah 47:1",
+  "version": "NIV",
+  "original_text": "“Go down, sit in the dust,\n    Virgin Daughter Babylon;\nsit on the ground without a throne,\n    queen city of the Babylonians.\nNo more will you be called\n    tender or delicate.",
+  "korean_text": "처녀 딸 바벨론이여 내려와서 티끌에 앉으라 딸 갈대아여 보좌가 없어졌으니 땅에 앉으라 네가 다시는 곱고 아리땁다 일컬음을 받지 못할 것임이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go down",
+      "korean_translation": "내려가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sit in the dust",
+      "korean_translation": "먼지 속에 앉아라",
+      "word_indices": [
+        151,
+        490
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Virgin Daughter Babylon",
+      "korean_translation": "처녀 바벨론 딸이여",
+      "word_indices": [
+        66,
+        854
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "sit on the ground without a throne",
+      "korean_translation": "왕좌 없이 땅에 앉아라",
+      "word_indices": [
+        151,
+        282,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "queen city of the Babylonians",
+      "korean_translation": "바벨론 사람들의 왕후 도시여",
+      "word_indices": [
+        23,
+        801
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "No more will you be called",
+      "korean_translation": "더 이상 너는 불리지 않을 것이다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "tender or delicate",
+      "korean_translation": "연약하거나 섬세하다고",
+      "word_indices": [
+        2117,
+        4645
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 81:2",
+  "version": "NIV",
+  "original_text": "Begin the music, strike the timbrel,\n    play the melodious harp and lyre.",
+  "korean_text": "시를 읊으며 소고를 치고 아름다운 수금에 비파를 아우를지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Begin the music",
+      "korean_translation": "음악을 시작하라",
+      "word_indices": [
+        146,
+        1164
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "strike the timbrel",
+      "korean_translation": "작은 북을 치라",
+      "word_indices": [
+        206,
+        1771
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "play the melodious harp",
+      "korean_translation": "멜로디 우아한 하프를 연주하라",
+      "word_indices": [
+        949,
+        1156
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and lyre",
+      "korean_translation": "그리고 리라를",
+      "word_indices": [
+        1133
+      ]
+    }
+  ]
+}

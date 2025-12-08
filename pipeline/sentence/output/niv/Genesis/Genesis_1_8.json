@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 1:8",
+  "version": "NIV",
+  "original_text": "God called the vault “sky.” And there was evening, and there was morning—the second day.",
+  "korean_text": "하나님이 궁창을 하늘이라 부르시니라 저녁이 되고 아침이 되니 이는 둘째 날이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God called the vault \"sky.\"",
+      "korean_translation": "하나님은 궁창을 \"하늘\"이라 부르셨습니다.",
+      "word_indices": [
+        1,
+        35,
+        536,
+        1823
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And there was evening,",
+      "korean_translation": "그리고 저녁이 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there was morning—",
+      "korean_translation": "그리고 아침이 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the second day.",
+      "korean_translation": "이틀째였습니다.",
+      "word_indices": []
+    }
+  ]
+}

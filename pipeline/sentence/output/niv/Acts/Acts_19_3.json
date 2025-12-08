@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Acts 19:3",
+  "version": "NIV",
+  "original_text": "So Paul asked, “Then what baptism did you receive?”\n“John’s baptism,” they replied.",
+  "korean_text": "바울이 이르되 그러면 너희가 무슨 세례를 받았느냐 대답하되 요한의 세례니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Paul asked",
+      "korean_translation": "그래서 바울이 물었습니다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then what baptism did you receive?",
+      "korean_translation": "그러면 무슨 세례를 받았습니까?",
+      "word_indices": [
+        179,
+        1645
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "John's baptism",
+      "korean_translation": "요한의 세례입니다",
+      "word_indices": [
+        1645
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they replied",
+      "korean_translation": "그들이 대답했습니다",
+      "word_indices": []
+    }
+  ]
+}

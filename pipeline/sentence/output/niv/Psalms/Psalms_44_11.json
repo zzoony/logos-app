@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 44:11",
+  "version": "NIV",
+  "original_text": "You gave us up to be devoured like sheep\n    and have scattered us among the nations.",
+  "korean_text": "주께서 우리를 잡아먹힐 양처럼 그들에게 넘겨 주시고 여러 민족 중에 우리를 흩으셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You gave us up",
+      "korean_translation": "당신은 우리를 내어주셨습니다",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to be devoured like sheep",
+      "korean_translation": "양처럼 삼키도록",
+      "word_indices": [
+        7,
+        251,
+        555
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and have scattered us",
+      "korean_translation": "그리고 우리를 흩으셨습니다",
+      "word_indices": [
+        396
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "among the nations",
+      "korean_translation": "열방 가운데로",
+      "word_indices": [
+        27,
+        41
+      ]
+    }
+  ]
+}

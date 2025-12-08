@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Isaiah 43:6",
+  "version": "NIV",
+  "original_text": "I will say to the north, ‘Give them up!’\n    and to the south, ‘Do not hold them back.’\nBring my sons from afar\n    and my daughters from the ends of the earth—",
+  "korean_text": "내가 북쪽에게 이르기를 내놓으라 남쪽에게 이르기를 가두어 두지 말라 내 아들들을 먼 곳에서 이끌며 내 딸들을 땅 끝에서 오게 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will say to the north",
+      "korean_translation": "말하리라 북방에게",
+      "word_indices": [
+        360
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Give them up",
+      "korean_translation": "그들을 내어 놓으라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to the south",
+      "korean_translation": "남방에게도",
+      "word_indices": [
+        433
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not hold them back",
+      "korean_translation": "그들을 붙들지 말라",
+      "word_indices": [
+        52,
+        158
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Bring my sons from afar",
+      "korean_translation": "먼 곳에서 내 아들들을 데려오라",
+      "word_indices": [
+        2,
+        1876
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and my daughters from the ends of the earth",
+      "korean_translation": "땅 끝에서 내 딸들을 데려오라",
+      "word_indices": [
+        40,
+        66,
+        112
+      ]
+    }
+  ]
+}

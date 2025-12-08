@@ -1,0 +1,45 @@
+{
+  "verse_reference": "2 Corinthians 8:15",
+  "version": "NIV",
+  "original_text": "as it is written: “The one who gathered much did not have too much, and the one who gathered little did not have too little.”",
+  "korean_text": "기록된 것 같이 많이 거둔 자도 남지 아니하였고 적게 거둔 자도 모자라지 아니하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "as it is written:",
+      "korean_translation": "기록된 바와 같이:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The one who gathered much",
+      "korean_translation": "많이 모은 사람",
+      "word_indices": [
+        169
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "did not have too much",
+      "korean_translation": "너무 많이 가지지 않았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the one who gathered little",
+      "korean_translation": "적게 모은 사람도",
+      "word_indices": [
+        169,
+        312
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "did not have too little",
+      "korean_translation": "너무 적게 가지지 않았다",
+      "word_indices": [
+        312
+      ]
+    }
+  ]
+}

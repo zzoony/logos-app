@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 4:15",
+  "version": "NIV",
+  "original_text": "“Land of Zebulun and land of Naphtali,\n    the Way of the Sea, beyond the Jordan,\n    Galilee of the Gentiles—",
+  "korean_text": "스불론 땅과 납달리 땅과 요단 강 저편 해변 길과 이방의 갈릴리여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Land of Zebulun and land of Naphtali",
+      "korean_translation": "스불론 땅과 납달리 땅",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Way of the Sea",
+      "korean_translation": "바다의 길",
+      "word_indices": [
+        108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "beyond the Jordan",
+      "korean_translation": "요단 건너편",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Galilee of the Gentiles",
+      "korean_translation": "이방인의 갈릴리",
+      "word_indices": []
+    }
+  ]
+}

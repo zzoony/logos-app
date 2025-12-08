@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Judges 14:14",
+  "version": "NIV",
+  "original_text": "He replied,\n“Out of the eater, something to eat;\n    out of the strong, something sweet.”\nFor three days they could not give the answer.",
+  "korean_text": "삼손이 그들에게 이르되 먹는 자에게서 먹는 것이 나오고 강한 자에게서 단 것이 나왔느니라 하니라 그들이 사흘이 되도록 수수께끼를 풀지 못하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He replied,",
+      "korean_translation": "그가 대답하여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Out of the eater, something to eat;",
+      "korean_translation": "먹는 자에게서 먹을 것이 나오고;",
+      "word_indices": [
+        33,
+        3206
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "out of the strong, something sweet.",
+      "korean_translation": "강한 자에게서 단 것이 나오리라.",
+      "word_indices": [
+        342,
+        1470
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "For three days they could not give the answer.",
+      "korean_translation": "사흘 동안 그들이 답하지 못하더라.",
+      "word_indices": [
+        5,
+        63,
+        90
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Samuel 17:32",
+  "version": "NIV",
+  "original_text": "David said to Saul, “Let no one lose heart on account of this Philistine; your servant will go and fight him.”",
+  "korean_text": "다윗이 사울에게 말하되 그로 말미암아 사람이 낙담하지 말 것이라 주의 종이 가서 저 블레셋 사람과 싸우리이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said to Saul",
+      "korean_translation": "다윗이 사울에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let no one lose heart on account of this Philistine",
+      "korean_translation": "이 블레셋 사람 때문에 아무도 낙심하지 마십시오",
+      "word_indices": [
+        36,
+        596,
+        637
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your servant will go and fight him",
+      "korean_translation": "당신의 종이 가서 그와 싸울 것입니다",
+      "word_indices": [
+        25,
+        227
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 22:18",
+  "version": "NIV",
+  "original_text": "The king of Israel said to Jehoshaphat, “Didn’t I tell you that he never prophesies anything good about me, but only bad?”",
+  "korean_text": "이스라엘의 왕이 여호사밧 왕에게 이르되 저 사람이 내게 대하여 길한 것을 예언하지 아니하고 흉한 것을 예언하겠다고 당신에게 말씀하지 아니하였나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of Israel said to Jehoshaphat",
+      "korean_translation": "이스라엘 왕이 여호사밧에게 말했다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Didn't I tell you",
+      "korean_translation": "내가 당신에게 말하지 않았습니까",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he never prophesies anything good about me",
+      "korean_translation": "그가 나에 대해 좋은 것은 결코 예언하지 않는다고",
+      "word_indices": [
+        56,
+        365
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but only bad?",
+      "korean_translation": "오직 나쁜 것만 예언한다고 말입니까?",
+      "word_indices": [
+        764
+      ]
+    }
+  ]
+}

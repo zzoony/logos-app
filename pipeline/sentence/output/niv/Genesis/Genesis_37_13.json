@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Genesis 37:13",
+  "version": "NIV",
+  "original_text": "and Israel said to Joseph, “As you know, your brothers are grazing the flocks near Shechem. Come, I am going to send you to them.”\n“Very well,” he replied.",
+  "korean_text": "이스라엘이 요셉에게 이르되 네 형들이 세겜에서 양을 치지 아니하느냐 너를 그들에게로 보내리라 요셉이 아버지에게 대답하되 내가 그리하겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Israel said to Joseph",
+      "korean_translation": "이스라엘이 요셉에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "As you know",
+      "korean_translation": "네가 아는 바와 같이",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your brothers are grazing the flocks",
+      "korean_translation": "네 형들이 양 떼를 먹이고 있다",
+      "word_indices": [
+        53,
+        261,
+        4926
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "near Shechem",
+      "korean_translation": "세겜 근처에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Come",
+      "korean_translation": "이리 와라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I am going to send you to them",
+      "korean_translation": "내가 너를 그들에게 보내려 한다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Very well",
+      "korean_translation": "좋습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "he replied",
+      "korean_translation": "그가 대답했다",
+      "word_indices": []
+    }
+  ]
+}

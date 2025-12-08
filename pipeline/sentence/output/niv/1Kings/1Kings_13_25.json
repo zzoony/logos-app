@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Kings 13:25",
+  "version": "NIV",
+  "original_text": "Some people who passed by saw the body lying there, with the lion standing beside the body, and they went and reported it in the city where the old prophet lived.",
+  "korean_text": "지나가는 사람들이 길에 버린 시체와 그 시체 곁에 선 사자를 보고 그 늙은 선지자가 사는 성읍에 가서 말한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some people who passed by",
+      "korean_translation": "지나가던 어떤 사람들이",
+      "word_indices": [
+        3,
+        531
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saw the body lying there",
+      "korean_translation": "그곳에 누워 있는 시체를 보았다",
+      "word_indices": [
+        137
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the lion standing beside the body",
+      "korean_translation": "사자가 시체 옆에 서 있는 것을",
+      "word_indices": [
+        45,
+        137,
+        399,
+        608
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they went and reported it",
+      "korean_translation": "그래서 그들은 가서 그것을 보고했다",
+      "word_indices": [
+        473
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the city where the old prophet lived",
+      "korean_translation": "늙은 선지자가 살던 성에서",
+      "word_indices": [
+        23,
+        70
+      ]
+    }
+  ]
+}

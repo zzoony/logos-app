@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jonah 2:4",
+  "version": "NIV",
+  "original_text": "I said, ‘I have been banished\n    from your sight;\nyet I will look again\n    toward your holy temple.’",
+  "korean_text": "내가 말하기를 내가 주의 목전에서 쫓겨났을지라도 다시 주의 성전을 바라보겠다 하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I said",
+      "korean_translation": "내가 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have been banished from your sight",
+      "korean_translation": "나는 당신의 얼굴에서 쫓겨났습니다",
+      "word_indices": [
+        353,
+        1320
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yet I will look again",
+      "korean_translation": "그러나 내가 다시 보겠습니다",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "toward your holy temple",
+      "korean_translation": "당신의 거룩한 성전을 향하여",
+      "word_indices": [
+        43,
+        59,
+        224
+      ]
+    }
+  ]
+}

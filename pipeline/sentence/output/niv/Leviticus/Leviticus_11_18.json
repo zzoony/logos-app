@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Leviticus 11:18",
+  "version": "NIV",
+  "original_text": "the white owl, the desert owl, the osprey,",
+  "korean_text": "흰 올빼미와 사다새와 너새와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the white owl",
+      "korean_translation": "흰 부엉이",
+      "word_indices": [
+        751,
+        1366
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the desert owl",
+      "korean_translation": "사막 부엉이",
+      "word_indices": [
+        262,
+        1366
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the osprey",
+      "korean_translation": "물수리",
+      "word_indices": [
+        4227
+      ]
+    }
+  ]
+}

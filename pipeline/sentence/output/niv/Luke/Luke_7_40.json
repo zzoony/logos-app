@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 7:40",
+  "version": "NIV",
+  "original_text": "Jesus answered him, “Simon, I have something to tell you.”\n“Tell me, teacher,” he said.",
+  "korean_text": "예수께서 대답하여 이르시되 시몬아 내가 네게 이를 말이 있다 하시니 그가 이르되 선생님 말씀하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered him",
+      "korean_translation": "예수님께서 그에게 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Simon, I have something to tell you",
+      "korean_translation": "시몬아, 너에게 할 말이 있다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Tell me, teacher",
+      "korean_translation": "선생님, 말씀해 주세요",
+      "word_indices": [
+        15,
+        357
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    }
+  ]
+}

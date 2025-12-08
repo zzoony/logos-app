@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Joel 1:4",
+  "version": "NIV",
+  "original_text": "What the locust swarm has left\n    the great locusts have eaten;\nwhat the great locusts have left\n    the young locusts have eaten;\nwhat the young locusts have left\n    other locusts have eaten.",
+  "korean_text": "팥중이가 남긴 것을 메뚜기가 먹고 메뚜기가 남긴 것을 느치가 먹고 느치가 남긴 것을 황충이 먹었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What the locust swarm has left",
+      "korean_translation": "메뚜기 떼가 남긴 것은",
+      "word_indices": [
+        976,
+        1483
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the great locusts have eaten",
+      "korean_translation": "큰 메뚜기들이 먹었다",
+      "word_indices": [
+        44,
+        976
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what the great locusts have left",
+      "korean_translation": "큰 메뚜기들이 남긴 것은",
+      "word_indices": [
+        44,
+        976
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the young locusts have eaten",
+      "korean_translation": "어린 메뚜기들이 먹었다",
+      "word_indices": [
+        130,
+        976
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what the young locusts have left",
+      "korean_translation": "어린 메뚜기들이 남긴 것은",
+      "word_indices": [
+        130,
+        976
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "other locusts have eaten",
+      "korean_translation": "다른 메뚜기들이 먹었다",
+      "word_indices": [
+        976
+      ]
+    }
+  ]
+}

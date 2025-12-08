@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Samuel 19:3",
+  "version": "NIV",
+  "original_text": "I will go out and stand with my father in the field where you are. I’ll speak to him about you and will tell you what I find out.”",
+  "korean_text": "내가 나가서 네가 있는 들에서 내 아버지 곁에 서서 네 일을 내 아버지와 말하다가 무엇을 보면 네게 알려 주리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will go out and stand with my father",
+      "korean_translation": "나는 밖으로 나가 아버지와 함께 서겠습니다",
+      "word_indices": [
+        12,
+        45
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the field where you are",
+      "korean_translation": "당신이 있는 그 들판에서",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I'll speak to him about you",
+      "korean_translation": "나는 그에게 당신에 대해 이야기하겠습니다",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and will tell you what I find out",
+      "korean_translation": "그리고 내가 알아낸 것을 당신에게 말해드리겠습니다",
+      "word_indices": [
+        15,
+        55
+      ]
+    }
+  ]
+}

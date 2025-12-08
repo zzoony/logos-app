@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Deuteronomy 28:30",
+  "version": "NIV",
+  "original_text": "You will be pledged to be married to a woman, but another will take her and rape her. You will build a house, but you will not live in it. You will plant a vineyard, but you will not even begin to enjoy its fruit.",
+  "korean_text": "네가 여자와 약혼하였으나 다른 사람이 그 여자와 같이 동침할 것이요 집을 건축하였으나 거기에 거주하지 못할 것이요 포도원을 심었으나 네가 그 열매를 따지 못할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will be pledged to be married to a woman",
+      "korean_translation": "너는 한 여인과 약혼하겠지만",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but another will take her",
+      "korean_translation": "다른 사람이 그녀를 빼앗아갈 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and rape her",
+      "korean_translation": "그녀를 강간할 것이다",
+      "word_indices": [
+        3820
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You will build a house",
+      "korean_translation": "너는 집을 짓겠지만",
+      "word_indices": [
+        26,
+        93
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but you will not live in it",
+      "korean_translation": "그 집에 살지 못할 것이며",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You will plant a vineyard",
+      "korean_translation": "너는 포도원을 심겠지만",
+      "word_indices": [
+        358,
+        441
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "but you will not even begin to enjoy its fruit",
+      "korean_translation": "그 열매를 맛보지도 못할 것이다",
+      "word_indices": [
+        146,
+        289,
+        846
+      ]
+    }
+  ]
+}

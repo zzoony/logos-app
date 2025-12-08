@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 23:27",
+  "version": "NIV",
+  "original_text": "A large number of people followed him, including women who mourned and wailed for him.",
+  "korean_text": "또 백성과 및 그를 위하여 가슴을 치며 슬피 우는 여자의 큰 무리가 따라오는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A large number of people followed him",
+      "korean_translation": "많은 사람들이 그를 따랐다",
+      "word_indices": [
+        3,
+        91,
+        201,
+        346
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "including women",
+      "korean_translation": "여성들도 포함하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who mourned and wailed for him",
+      "korean_translation": "그를 위해 슬퍼하며 통곡했다",
+      "word_indices": [
+        405,
+        733
+      ]
+    }
+  ]
+}

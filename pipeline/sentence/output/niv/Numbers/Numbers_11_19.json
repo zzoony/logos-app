@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Numbers 11:19",
+  "version": "NIV",
+  "original_text": "You will not eat it for just one day, or two days, or five, ten or twenty days,",
+  "korean_text": "하루나 이틀이나 닷새나 열흘이나 스무 날만 먹을 뿐 아니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will not eat it",
+      "korean_translation": "너희가 그것을 먹지 않을 것이다",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for just one day",
+      "korean_translation": "단 하루 동안만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or two days",
+      "korean_translation": "이틀 동안",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or five",
+      "korean_translation": "닷새 동안",
+      "word_indices": [
+        196
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "ten or twenty days",
+      "korean_translation": "열흘 또는 스무 날 동안",
+      "word_indices": [
+        220,
+        240
+      ]
+    }
+  ]
+}

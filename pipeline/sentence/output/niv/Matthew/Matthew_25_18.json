@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 25:18",
+  "version": "NIV",
+  "original_text": "But the man who had received one bag went off, dug a hole in the ground and hid his master’s money.",
+  "korean_text": "한 달란트 받은 자는 가서 땅을 파고 그 주인의 돈을 감추어 두었더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the man who had received one bag",
+      "korean_translation": "하지만 한 봉지를 받았던 그 사람은",
+      "word_indices": [
+        10,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "went off",
+      "korean_translation": "떠나가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "dug a hole in the ground",
+      "korean_translation": "땅에 구멍을 파고",
+      "word_indices": [
+        2159,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and hid his master's money",
+      "korean_translation": "주인의 돈을 숨겼다",
+      "word_indices": [
+        265,
+        448
+      ]
+    }
+  ]
+}

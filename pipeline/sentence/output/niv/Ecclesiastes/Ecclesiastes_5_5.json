@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Ecclesiastes 5:5",
+  "version": "NIV",
+  "original_text": "It is better not to make a vow than to make one and not fulfill it.",
+  "korean_text": "서원하고 갚지 아니하는 것보다 서원하지 아니하는 것이 더 나으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is better not to make a vow",
+      "korean_translation": "서약을 하지 않는 것이 더 낫다",
+      "word_indices": [
+        411,
+        641
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than to make one",
+      "korean_translation": "서약을 하는 것보다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and not fulfill it",
+      "korean_translation": "그리고 그것을 이행하지 않는 것",
+      "word_indices": [
+        837
+      ]
+    }
+  ]
+}

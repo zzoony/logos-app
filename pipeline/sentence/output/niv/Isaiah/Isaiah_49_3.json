@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Isaiah 49:3",
+  "version": "NIV",
+  "original_text": "He said to me, “You are my servant,\n    Israel, in whom I will display my splendor.”",
+  "korean_text": "내게 이르시되 너는 나의 종이요 내 영광을 네 속에 나타낼 이스라엘이라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to me",
+      "korean_translation": "그가 내게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are my servant",
+      "korean_translation": "너는 나의 종이다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Israel",
+      "korean_translation": "이스라엘아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in whom I will display my splendor",
+      "korean_translation": "내가 내 영광을 나타낼 자에게",
+      "word_indices": [
+        668,
+        1362
+      ]
+    }
+  ]
+}

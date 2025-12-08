@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 119:176",
+  "version": "NIV",
+  "original_text": "I have strayed like a lost sheep.\n    Seek your servant,\n    for I have not forgotten your commands.",
+  "korean_text": "잃은 양 같이 내가 방황하오니 주의 종을 찾으소서 내가 주의 계명들을 잊지 아니함이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have strayed like a lost sheep",
+      "korean_translation": "나는 길 잃은 양처럼 길을 벗어났습니다",
+      "word_indices": [
+        7,
+        251,
+        1620
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Seek your servant",
+      "korean_translation": "당신의 종을 찾으세요",
+      "word_indices": [
+        25,
+        273
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I have not forgotten your commands",
+      "korean_translation": "왜냐하면 나는 당신의 명령들을 잊지 않았기 때문입니다",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Romans 7:2",
+  "version": "NIV",
+  "original_text": "For example, by law a married woman is bound to her husband as long as he is alive, but if her husband dies, she is released from the law that binds her to him.",
+  "korean_text": "남편 있는 여인이 그 남편 생전에는 법으로 그에게 매인 바 되나 만일 그 남편이 죽으면 남편의 법에서 벗어나느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For example, by law a married woman is bound to her husband",
+      "korean_translation": "예를 들어, 법으로 결혼한 여자는 그녀의 남편에게 묶여 있습니다",
+      "word_indices": [
+        42,
+        50,
+        375,
+        1476,
+        4036
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as long as he is alive",
+      "korean_translation": "그가 살아있는 동안은",
+      "word_indices": [
+        71,
+        588
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but if her husband dies",
+      "korean_translation": "하지만 그녀의 남편이 죽으면",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she is released from the law",
+      "korean_translation": "그녀는 법에서 해방됩니다",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that binds her to him",
+      "korean_translation": "그녀를 그에게 묶어두던 법에서",
+      "word_indices": [
+        604
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Chronicles 35:1",
+  "version": "NIV",
+  "original_text": "Josiah celebrated the Passover to the Lord in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.",
+  "korean_text": "요시야가 예루살렘에서 여호와께 유월절을 지켜 첫째 달 열넷째 날에 유월절 어린 양을 잡으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Josiah celebrated the Passover to the Lord",
+      "korean_translation": "요시야는 하나님께 유월절을 지켰습니다",
+      "word_indices": [
+        673
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Jerusalem",
+      "korean_translation": "예루살렘에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the Passover lamb was slaughtered",
+      "korean_translation": "그리고 유월절 양이 잡혔습니다",
+      "word_indices": [
+        264,
+        452,
+        673
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the fourteenth day of the first month",
+      "korean_translation": "첫째 달 열네날에",
+      "word_indices": [
+        189,
+        1446
+      ]
+    }
+  ]
+}

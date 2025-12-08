@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Psalms 121:6",
+  "version": "NIV",
+  "original_text": "the sun will not harm you by day,\n    nor the moon by night.",
+  "korean_text": "낮의 해가 너를 상하게 하지 아니하며 밤의 달도 너를 해치지 아니하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the sun will not harm you by day",
+      "korean_translation": "낮에는 해가 너를 해치지 않고",
+      "word_indices": [
+        364,
+        632
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor the moon by night",
+      "korean_translation": "밤에는 달도 너를 해치지 않으리라",
+      "word_indices": [
+        126,
+        724
+      ]
+    }
+  ]
+}

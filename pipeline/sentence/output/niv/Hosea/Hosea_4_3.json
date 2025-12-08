@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Hosea 4:3",
+  "version": "NIV",
+  "original_text": "Because of this the land dries up,\n    and all who live in it waste away;\nthe beasts of the field, the birds in the sky\n    and the fish in the sea are swept away.",
+  "korean_text": "그러므로 이 땅이 슬퍼하며 거기 사는 자와 들짐승과 공중에 나는 새가 다 쇠잔할 것이요 바다의 고기도 없어지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of this the land dries up",
+      "korean_translation": "이 때문에 땅이 마르고",
+      "word_indices": [
+        8,
+        477
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all who live in it waste away",
+      "korean_translation": "그 안에 사는 모든 자가 쇠잔하며",
+      "word_indices": [
+        14,
+        34,
+        605
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the beasts of the field",
+      "korean_translation": "들의 짐승들이며",
+      "word_indices": [
+        156,
+        545
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the birds in the sky",
+      "korean_translation": "하늘의 새들이며",
+      "word_indices": [
+        386,
+        536
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the fish in the sea are swept away",
+      "korean_translation": "바다의 물고기들이 사라진다",
+      "word_indices": [
+        34,
+        108,
+        727
+      ]
+    }
+  ]
+}

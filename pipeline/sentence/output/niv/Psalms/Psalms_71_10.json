@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 71:10",
+  "version": "NIV",
+  "original_text": "For my enemies speak against me;\n    those who wait to kill me conspire together.",
+  "korean_text": "내 원수들이 내게 대하여 말하며 내 영혼을 엿보는 자들이 서로 꾀하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For my enemies speak against me;",
+      "korean_translation": "나의 원수들이 나를 거슬러 말하며",
+      "word_indices": [
+        11,
+        29,
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "those who wait to kill me",
+      "korean_translation": "나를 죽이려고 기다리는 자들이",
+      "word_indices": [
+        76,
+        388
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "conspire together.",
+      "korean_translation": "함께 꾀하고 있습니다.",
+      "word_indices": [
+        98,
+        1343
+      ]
+    }
+  ]
+}

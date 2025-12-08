@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 2:41",
+  "version": "NIV",
+  "original_text": "Every year Jesus’ parents went to Jerusalem for the Festival of the Passover.",
+  "korean_text": "그의 부모가 해마다 유월절이 되면 예루살렘으로 가더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every year",
+      "korean_translation": "매년",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus' parents went",
+      "korean_translation": "예수님의 부모님은 가셨다",
+      "word_indices": [
+        755
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Jerusalem",
+      "korean_translation": "예루살렘으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the Festival of the Passover",
+      "korean_translation": "유월절 축제를 위해",
+      "word_indices": [
+        425,
+        673
+      ]
+    }
+  ]
+}

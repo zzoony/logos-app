@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Ecclesiastes 6:5",
+  "version": "NIV",
+  "original_text": "Though it never saw the sun or knew anything, it has more rest than does that man—",
+  "korean_text": "햇빛도 보지 못하고 또 그것을 알지도 못하나 이가 그보다 더 평안함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though it never saw the sun",
+      "korean_translation": "비록 그것은 해를 본 적이 없지만",
+      "word_indices": [
+        127,
+        364
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or knew anything",
+      "korean_translation": "아무것도 알지 못했지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it has more rest",
+      "korean_translation": "그것은 더 많은 안식을 가진다",
+      "word_indices": [
+        114
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than does that man",
+      "korean_translation": "그 사람보다 더",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

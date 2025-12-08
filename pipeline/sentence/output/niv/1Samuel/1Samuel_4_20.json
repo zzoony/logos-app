@@ -1,0 +1,57 @@
+{
+  "verse_reference": "1 Samuel 4:20",
+  "version": "NIV",
+  "original_text": "As she was dying, the women attending her said, “Don’t despair; you have given birth to a son.” But she did not respond or pay any attention.",
+  "korean_text": "죽어갈 때에 곁에 서 있던 여인들이 그에게 이르되 두려워하지 말라 네가 아들을 낳았다 하되 그가 대답하지도 아니하며 관념하지도 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As she was dying",
+      "korean_translation": "그녀가 죽어갈 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the women attending her said",
+      "korean_translation": "그녀를 돌보던 여인들이 말했습니다",
+      "word_indices": [
+        1891
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Don't despair",
+      "korean_translation": "절망하지 마세요",
+      "word_indices": [
+        1773
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you have given birth to a son",
+      "korean_translation": "아들을 낳았습니다",
+      "word_indices": [
+        2,
+        5,
+        387
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But she did not respond",
+      "korean_translation": "하지만 그녀는 응답하지 않았습니다",
+      "word_indices": [
+        1172
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or pay any attention",
+      "korean_translation": "또는 아무 관심도 보이지 않았습니다",
+      "word_indices": [
+        248,
+        643
+      ]
+    }
+  ]
+}

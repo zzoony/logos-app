@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 118:6",
+  "version": "NIV",
+  "original_text": "The Lord is with me; I will not be afraid.\n    What can mere mortals do to me?",
+  "korean_text": "여호와는 내 편이시라 내가 두려워하지 아니하리니 사람이 내게 어찌할까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is with me",
+      "korean_translation": "주께서 나와 함께 계시다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will not be afraid",
+      "korean_translation": "나는 두려워하지 않겠다",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What can mere mortals do to me",
+      "korean_translation": "필멸하는 사람들이 내게 무엇을 할 수 있겠는가",
+      "word_indices": [
+        906,
+        1110
+      ]
+    }
+  ]
+}

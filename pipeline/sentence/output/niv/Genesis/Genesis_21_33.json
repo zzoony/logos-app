@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 21:33",
+  "version": "NIV",
+  "original_text": "Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Eternal God.",
+  "korean_text": "아브라함은 브엘세바에 에셀 나무를 심고 거기서 영원하신 여호와의 이름을 불렀으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham planted a tamarisk tree",
+      "korean_translation": "아브라함이 참나무를 심었고",
+      "word_indices": [
+        164,
+        358,
+        3724
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Beersheba",
+      "korean_translation": "브엘세바에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there he called on the name of the Lord",
+      "korean_translation": "그곳에서 그가 주의 이름을 불렀으며",
+      "word_indices": [
+        17,
+        35
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Eternal God",
+      "korean_translation": "영원하신 하나님",
+      "word_indices": [
+        1,
+        650
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Numbers 19:22",
+  "version": "NIV",
+  "original_text": "Anything that an unclean person touches becomes unclean, and anyone who touches it becomes unclean till evening.”",
+  "korean_text": "부정한 자가 만진 것은 무엇이든지 부정할 것이며 그것을 만지는 자도 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anything that an unclean person touches",
+      "korean_translation": "부정한 사람이 만지는 모든 것은",
+      "word_indices": [
+        134,
+        250,
+        359
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "becomes unclean",
+      "korean_translation": "부정하게 됩니다",
+      "word_indices": [
+        250
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and anyone who touches it",
+      "korean_translation": "그리고 그것을 만지는 사람은",
+      "word_indices": [
+        68,
+        359
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "becomes unclean till evening",
+      "korean_translation": "저녁까지 부정하게 됩니다",
+      "word_indices": [
+        250
+      ]
+    }
+  ]
+}

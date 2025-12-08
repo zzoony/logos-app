@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 27:7",
+  "version": "NIV",
+  "original_text": "One who is full loathes honey from the comb,\n    but to the hungry even what is bitter tastes sweet.",
+  "korean_text": "배부른 자는 꿀이라도 싫어하고 주린 자에게는 쓴 것이라도 다니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One who is full loathes honey from the comb",
+      "korean_translation": "배부른 자는 벌집에서 나온 꿀을 싫어한다",
+      "word_indices": [
+        258,
+        785,
+        4024
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but to the hungry",
+      "korean_translation": "하지만 굶주린 자에게는",
+      "word_indices": [
+        862
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even what is bitter tastes sweet",
+      "korean_translation": "쓴 것조차도 달게 느껴진다",
+      "word_indices": [
+        973,
+        1470
+      ]
+    }
+  ]
+}

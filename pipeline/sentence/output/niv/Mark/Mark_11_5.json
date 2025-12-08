@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 11:5",
+  "version": "NIV",
+  "original_text": "some people standing there asked, “What are you doing, untying that colt?”",
+  "korean_text": "거기 서 있는 사람 중 어떤 이들이 이르되 나귀 새끼를 풀어 무엇 하려느냐 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "some people standing there asked",
+      "korean_translation": "그곳에 서 있던 어떤 사람들이 물었다",
+      "word_indices": [
+        3,
+        31,
+        45
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What are you doing",
+      "korean_translation": "무엇을 하고 있느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "untying that colt",
+      "korean_translation": "그 나귀 새끼를 풀면서",
+      "word_indices": [
+        1896
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Corinthians 3:6",
+  "version": "NIV",
+  "original_text": "I planted the seed, Apollos watered it, but God has been making it grow.",
+  "korean_text": "나는 심었고 아볼로는 물을 주었으되 오직 하나님께서 자라나게 하셨나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I planted the seed",
+      "korean_translation": "내가 씨를 심었고",
+      "word_indices": [
+        358
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Apollos watered it",
+      "korean_translation": "아볼로가 물을 주었으나",
+      "word_indices": [
+        46,
+        2288
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but God has been making it grow",
+      "korean_translation": "하나님께서 자라게 하셨습니다",
+      "word_indices": [
+        1,
+        269
+      ]
+    }
+  ]
+}

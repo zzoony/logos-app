@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 10:7",
+  "version": "NIV",
+  "original_text": "Stay there, eating and drinking whatever they give you, for the worker deserves his wages. Do not move around from house to house.",
+  "korean_text": "그 집에 유하며 주는 것을 먹고 마시라 일꾼이 그 삯을 받는 것이 마땅하니라 이 집에서 저 집으로 옮기지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Stay there",
+      "korean_translation": "그곳에 머무르라",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "eating and drinking whatever they give you",
+      "korean_translation": "그들이 주는 것을 먹고 마시라",
+      "word_indices": [
+        5,
+        33,
+        78,
+        285
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the worker deserves his wages",
+      "korean_translation": "일꾼이 그 삯을 받음이 마땅함이라",
+      "word_indices": [
+        678,
+        2348
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not move around from house to house",
+      "korean_translation": "집에서 집으로 옮겨 다니지 말라",
+      "word_indices": [
+        26,
+        330
+      ]
+    }
+  ]
+}

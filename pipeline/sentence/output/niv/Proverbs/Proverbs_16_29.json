@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 16:29",
+  "version": "NIV",
+  "original_text": "A violent person entices their neighbor\n    and leads them down a path that is not good.",
+  "korean_text": "강포한 사람은 그 이웃을 꾀어 좋지 아니한 길로 인도하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A violent person entices their neighbor",
+      "korean_translation": "폭력적인 사람은 이웃을 유혹하고",
+      "word_indices": [
+        134,
+        356,
+        1378
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and leads them down a path",
+      "korean_translation": "그들을 길로 인도하며",
+      "word_indices": [
+        140,
+        516
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is not good",
+      "korean_translation": "그 길은 좋지 않으니라",
+      "word_indices": [
+        56
+      ]
+    }
+  ]
+}

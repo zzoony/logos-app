@@ -1,0 +1,26 @@
+{
+  "verse_reference": "1 John 5:17",
+  "version": "NIV",
+  "original_text": "All wrongdoing is sin, and there is sin that does not lead to death.",
+  "korean_text": "모든 불의가 죄로되 사망에 이르지 아니하는 죄도 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All wrongdoing is sin",
+      "korean_translation": "모든 불의는 죄이며",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there is sin that does not lead to death",
+      "korean_translation": "사망에 이르지 않는 죄가 있느니라",
+      "word_indices": [
+        24,
+        80,
+        140
+      ]
+    }
+  ]
+}

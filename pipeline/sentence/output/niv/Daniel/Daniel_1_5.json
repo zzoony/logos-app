@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Daniel 1:5",
+  "version": "NIV",
+  "original_text": "The king assigned them a daily amount of food and wine from the king’s table. They were to be trained for three years, and after that they were to enter the king’s service.",
+  "korean_text": "또 왕이 지정하여 그들에게 왕의 음식과 그가 마시는 포도주에서 날마다 쓸 것을 주어 삼 년을 기르게 하였으니 그 후에 그들은 왕 앞에 서게 될 것이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king assigned them a daily amount of food",
+      "korean_translation": "왕은 그들에게 매일 양의 음식을 할당했다",
+      "word_indices": [
+        4,
+        103,
+        819,
+        1279,
+        1292
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and wine from the king's table",
+      "korean_translation": "그리고 왕의 식탁에서 나온 포도주를",
+      "word_indices": [
+        4,
+        215,
+        528
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They were to be trained for three years",
+      "korean_translation": "그들은 3년간 훈련을 받아야 했다",
+      "word_indices": [
+        90,
+        1447
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and after that",
+      "korean_translation": "그리고 그 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they were to enter the king's service",
+      "korean_translation": "그들은 왕의 봉사에 들어가야 했다",
+      "word_indices": [
+        4,
+        135,
+        611
+      ]
+    }
+  ]
+}

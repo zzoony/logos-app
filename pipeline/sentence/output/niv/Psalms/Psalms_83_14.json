@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 83:14",
+  "version": "NIV",
+  "original_text": "As fire consumes the forest\n    or a flame sets the mountains ablaze,",
+  "korean_text": "삼림을 사르는 불과 산에 붙는 불길 같이",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As fire consumes the forest",
+      "korean_translation": "불이 숲을 삼키듯이",
+      "word_indices": [
+        101,
+        902
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or a flame sets the mountains ablaze",
+      "korean_translation": "또는 불꽃이 산들을 불태우듯이",
+      "word_indices": [
+        147,
+        985,
+        2156
+      ]
+    }
+  ]
+}

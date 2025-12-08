@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 12:7",
+  "version": "NIV",
+  "original_text": "You, Lord, will keep the needy safe\n    and will protect us forever from the wicked,",
+  "korean_text": "여호와여 그들을 지키사 이 세대로부터 영원까지 보존하시리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You, Lord,",
+      "korean_translation": "주님 당신은,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will keep the needy safe",
+      "korean_translation": "필요한 사람들을 안전하게 지키실 것입니다",
+      "word_indices": [
+        60,
+        840,
+        1245
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and will protect us forever",
+      "korean_translation": "그리고 영원히 우리를 보호하실 것입니다",
+      "word_indices": [
+        166,
+        1056
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the wicked,",
+      "korean_translation": "악한 자들로부터,",
+      "word_indices": [
+        2221
+      ]
+    }
+  ]
+}

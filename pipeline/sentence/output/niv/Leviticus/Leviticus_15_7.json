@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Leviticus 15:7",
+  "version": "NIV",
+  "original_text": "“‘Whoever touches the man who has a discharge must wash their clothes and bathe with water, and they will be unclean till evening.",
+  "korean_text": "유출병이 있는 자의 몸에 접촉하는 자는 그의 옷을 빨고 물로 몸을 씻을 것이며 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever touches the man who has a discharge",
+      "korean_translation": "유출증이 있는 남자를 만지는 사람은 누구든지",
+      "word_indices": [
+        10,
+        154,
+        359,
+        1464
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must wash their clothes",
+      "korean_translation": "옷을 빨아야 하며",
+      "word_indices": [
+        419,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bathe with water",
+      "korean_translation": "물로 목욕해야 하며",
+      "word_indices": [
+        46,
+        1425
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they will be unclean till evening",
+      "korean_translation": "그들은 저녁까지 부정하게 될 것입니다",
+      "word_indices": [
+        250
+      ]
+    }
+  ]
+}

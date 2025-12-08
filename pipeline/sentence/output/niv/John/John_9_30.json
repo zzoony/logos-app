@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 9:30",
+  "version": "NIV",
+  "original_text": "The man answered, “Now that is remarkable! You don’t know where he comes from, yet he opened my eyes.",
+  "korean_text": "그 사람이 대답하여 이르되 이상하다 이 사람이 내 눈을 뜨게 하였으되 당신들은 그가 어디서 왔는지 알지 못하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man answered",
+      "korean_translation": "그 사람이 대답했습니다",
+      "word_indices": [
+        10,
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now that is remarkable!",
+      "korean_translation": "이거 정말 놀랍습니다!",
+      "word_indices": [
+        4109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You don't know where he comes from",
+      "korean_translation": "당신은 그가 어디서 왔는지 모릅니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yet he opened my eyes",
+      "korean_translation": "그런데 그는 내 눈을 떼게 했습니다",
+      "word_indices": [
+        160
+      ]
+    }
+  ]
+}

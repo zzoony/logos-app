@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 19:24",
+  "version": "NIV",
+  "original_text": "Again I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.”",
+  "korean_text": "다시 너희에게 말하노니 낙타가 바늘귀로 들어가는 것이 부자가 하나님의 나라에 들어가는 것보다 쉬우니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Again I tell you",
+      "korean_translation": "내가 다시 너희에게 말하노니",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it is easier for a camel to go through the eye of a needle",
+      "korean_translation": "낙타가 바늘귀를 통과하는 것이 더 쉽다",
+      "word_indices": [
+        39,
+        61,
+        780,
+        2878,
+        4101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "than for someone who is rich",
+      "korean_translation": "부자가 되는 것보다",
+      "word_indices": [
+        271,
+        371
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to enter the kingdom of God",
+      "korean_translation": "하나님의 나라에 들어가는 것보다",
+      "word_indices": [
+        1,
+        109,
+        135
+      ]
+    }
+  ]
+}

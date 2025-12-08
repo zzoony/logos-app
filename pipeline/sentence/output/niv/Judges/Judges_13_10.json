@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Judges 13:10",
+  "version": "NIV",
+  "original_text": "The woman hurried to tell her husband, “He’s here! The man who appeared to me the other day!”",
+  "korean_text": "여인이 급히 달려가서 그의 남편에게 알리어 이르되 보소서 전일에 내게 오셨던 그 사람이 내게 나타났나이다 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman hurried to tell her husband",
+      "korean_translation": "그 여자는 남편에게 일러주기 위해 서둘렀다",
+      "word_indices": [
+        15,
+        50,
+        375
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He's here!",
+      "korean_translation": "그가 여기 있어요!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The man who appeared to me",
+      "korean_translation": "나에게 나타났던 그 남자",
+      "word_indices": [
+        10,
+        293
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the other day!",
+      "korean_translation": "며칠 전에!",
+      "word_indices": []
+    }
+  ]
+}

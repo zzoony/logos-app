@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 8:9",
+  "version": "NIV",
+  "original_text": "Lord, our Lord,\n    how majestic is your name in all the earth!",
+  "korean_text": "여호와 우리 주여 주의 이름이 온 땅에 어찌 그리 아름다운지요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord, our Lord,",
+      "korean_translation": "주여, 우리의 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "how majestic is your name",
+      "korean_translation": "당신의 이름은 얼마나 위대하신지",
+      "word_indices": [
+        17,
+        1971
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in all the earth!",
+      "korean_translation": "온 땅에서!",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 19:21",
+  "version": "NIV",
+  "original_text": "I was afraid of you, because you are a hard man. You take out what you did not put in and reap what you did not sow.’",
+  "korean_text": "이는 당신이 엄한 사람인 것을 내가 무서워함이라 당신은 두지 않은 것을 취하고 심지 않은 것을 거두나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I was afraid of you",
+      "korean_translation": "내가 당신을 두려워했습니다",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because you are a hard man",
+      "korean_translation": "당신이 완고한 사람이기 때문입니다",
+      "word_indices": [
+        10,
+        781
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You take out what you did not put in",
+      "korean_translation": "당신은 넣지 않은 것을 가져갑니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and reap what you did not sow",
+      "korean_translation": "뿌리지 않은 것을 거둡니다",
+      "word_indices": [
+        725,
+        1033
+      ]
+    }
+  ]
+}

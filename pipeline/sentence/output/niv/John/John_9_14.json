@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 9:14",
+  "version": "NIV",
+  "original_text": "Now the day on which Jesus had made the mud and opened the man’s eyes was a Sabbath.",
+  "korean_text": "예수께서 진흙을 이겨 눈을 뜨게 하신 날은 안식일이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the day",
+      "korean_translation": "그날은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on which Jesus had made the mud",
+      "korean_translation": "예수께서 진흙을 만드신 날이었는데",
+      "word_indices": [
+        1868
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and opened the man's eyes",
+      "korean_translation": "그 사람의 눈을 뜨게 하신",
+      "word_indices": [
+        10,
+        160
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "was a Sabbath.",
+      "korean_translation": "안식일이었다.",
+      "word_indices": [
+        319
+      ]
+    }
+  ]
+}

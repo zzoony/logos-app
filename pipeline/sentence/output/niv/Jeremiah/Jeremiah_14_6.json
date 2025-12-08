@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Jeremiah 14:6",
+  "version": "NIV",
+  "original_text": "Wild donkeys stand on the barren heights\n    and pant like jackals;\ntheir eyes fail\n    for lack of food.”",
+  "korean_text": "들 나귀들은 벗은 산 위에 서서 승냥이 같이 헐떡이며 풀이 없으므로 눈이 흐려지는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wild donkeys stand on the barren heights",
+      "korean_translation": "들나귀들이 메마른 높은 곳에 서 있습니다",
+      "word_indices": [
+        45,
+        347,
+        450,
+        822,
+        1544
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and pant like jackals",
+      "korean_translation": "그리고 승냥이처럼 헐떡입니다",
+      "word_indices": [
+        7,
+        2844
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "their eyes fail",
+      "korean_translation": "그들의 눈이 약해집니다",
+      "word_indices": [
+        519
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for lack of food",
+      "korean_translation": "먹이가 부족해서",
+      "word_indices": [
+        103,
+        765
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Jeremiah 26:7",
+  "version": "NIV",
+  "original_text": "The priests, the prophets and all the people heard Jeremiah speak these words in the house of the Lord.",
+  "korean_text": "예레미야가 여호와의 성전에서 이 말을 하매 제사장들과 선지자들과 모든 백성이 듣더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priests, the prophets and all the people",
+      "korean_translation": "제사장들, 선지자들과 모든 백성이",
+      "word_indices": [
+        3,
+        22,
+        70
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "heard Jeremiah speak these words",
+      "korean_translation": "예레미야가 이 말을 하는 것을 들었으니",
+      "word_indices": [
+        19,
+        29
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the house of the Lord",
+      "korean_translation": "주의 집에서",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 72:15",
+  "version": "NIV",
+  "original_text": "Long may he live!\n    May gold from Sheba be given him.\nMay people ever pray for him\n    and bless him all day long.",
+  "korean_text": "그들이 생존하여 스바의 금을 그에게 드리며 사람들이 그를 위하여 항상 기도하고 종일 찬송하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Long may he live!",
+      "korean_translation": "그가 오래 살기를!",
+      "word_indices": [
+        14,
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "May gold from Sheba be given him.",
+      "korean_translation": "스바의 금이 그에게 주어지기를!",
+      "word_indices": [
+        5,
+        75
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "May people ever pray for him",
+      "korean_translation": "사람들이 항상 그를 위해 기도하기를",
+      "word_indices": [
+        3,
+        212
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and bless him all day long.",
+      "korean_translation": "그를 종일 축복하기를",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

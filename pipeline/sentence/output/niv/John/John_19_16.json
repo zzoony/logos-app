@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 19:16",
+  "version": "NIV",
+  "original_text": "Finally Pilate handed him over to them to be crucified.\nSo the soldiers took charge of Jesus.",
+  "korean_text": "이에 예수를 십자가에 못 박도록 그들에게 넘겨 주니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Finally Pilate handed him over to them",
+      "korean_translation": "마침내 빌라도가 그를 그들에게 넘겨주었다",
+      "word_indices": [
+        9,
+        1218
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to be crucified",
+      "korean_translation": "십자가에 못 박히기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So the soldiers took charge of Jesus",
+      "korean_translation": "그래서 군인들이 예수를 맡았다",
+      "word_indices": [
+        243,
+        582
+      ]
+    }
+  ]
+}

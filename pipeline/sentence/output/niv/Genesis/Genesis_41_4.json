@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 41:4",
+  "version": "NIV",
+  "original_text": "And the cows that were ugly and gaunt ate up the seven sleek, fat cows. Then Pharaoh woke up.",
+  "korean_text": "그 흉하고 파리한 소가 그 아름답고 살진 일곱 소를 먹은지라 바로가 곧 깨었다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the cows that were ugly",
+      "korean_translation": "그리고 추한 소들은",
+      "word_indices": [
+        1354,
+        2554
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and gaunt ate up",
+      "korean_translation": "피곤하고 말라서 먹어치웠다",
+      "word_indices": [
+        3736
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the seven sleek, fat cows",
+      "korean_translation": "일곱 개의 매끈하고 살찬 소들을",
+      "word_indices": [
+        96,
+        579,
+        1354,
+        2915
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then Pharaoh woke up",
+      "korean_translation": "그때 바로가 깨어났다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Ezekiel 27:26",
+  "version": "NIV",
+  "original_text": "Your oarsmen take you\n    out to the high seas.\nBut the east wind will break you to pieces\n    far out at sea.",
+  "korean_text": "네 사공이 너를 인도하여 큰 물에 이르게 함이여 동풍이 바다 한가운데에서 너를 무찔렀도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your oarsmen take you",
+      "korean_translation": "당신의 노를 젓는 사람들이 당신을 데려가고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "out to the high seas.",
+      "korean_translation": "높은 바다로 나갑니다.",
+      "word_indices": [
+        105,
+        108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But the east wind will break you to pieces",
+      "korean_translation": "그러나 동풍이 당신을 산산조각 낼 것입니다",
+      "word_indices": [
+        117,
+        283,
+        295
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "far out at sea.",
+      "korean_translation": "바다 먼 곳에서.",
+      "word_indices": [
+        108,
+        202
+      ]
+    }
+  ]
+}

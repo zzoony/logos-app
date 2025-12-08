@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 4:6",
+  "version": "NIV",
+  "original_text": "Then the Lord said to Cain, “Why are you angry? Why is your face downcast?",
+  "korean_text": "여호와께서 가인에게 이르시되 네가 분하여 함은 어찌 됨이며 안색이 변함은 어찌 됨이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Cain",
+      "korean_translation": "그때 주께서 가인에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why are you angry?",
+      "korean_translation": "네가 왜 화가 있느냐?",
+      "word_indices": [
+        468
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Why is your face downcast?",
+      "korean_translation": "네 얼굴이 왜 어둡냐?",
+      "word_indices": [
+        87,
+        2193
+      ]
+    }
+  ]
+}

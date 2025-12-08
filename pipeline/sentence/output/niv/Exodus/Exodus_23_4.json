@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 23:4",
+  "version": "NIV",
+  "original_text": "“If you come across your enemy’s ox or donkey wandering off, be sure to return it.",
+  "korean_text": "네가 만일 네 원수의 길 잃은 소나 나귀를 보거든 반드시 그 사람에게로 돌릴지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you come across",
+      "korean_translation": "만약 당신이 발견하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your enemy's ox or donkey",
+      "korean_translation": "당신의 원수의 소나 나귀가",
+      "word_indices": [
+        100,
+        347,
+        547
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "wandering off",
+      "korean_translation": "길을 잃어 헤매고 있을 때",
+      "word_indices": [
+        1049
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "be sure to return it",
+      "korean_translation": "반드시 그것을 돌려주어야 합니다",
+      "word_indices": [
+        89,
+        803
+      ]
+    }
+  ]
+}

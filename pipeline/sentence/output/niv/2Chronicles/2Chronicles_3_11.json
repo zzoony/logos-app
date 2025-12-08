@@ -1,0 +1,63 @@
+{
+  "verse_reference": "2 Chronicles 3:11",
+  "version": "NIV",
+  "original_text": "The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits long and touched the temple wall, while its other wing, also five cubits long, touched the wing of the other cherub.",
+  "korean_text": "두 그룹의 날개 길이가 모두 이십 규빗이라 왼쪽 그룹의 한 날개는 다섯 규빗이니 성전 벽에 닿았고 그 다른 날개도 다섯 규빗이니 오른쪽 그룹의 날개에 닿았으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The total wingspan of the cherubim was twenty cubits.",
+      "korean_translation": "그룹들의 총 날개 길이는 스무 규빗이었다.",
+      "word_indices": [
+        170,
+        220,
+        1042,
+        5240
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "One wing of the first cherub was five cubits long",
+      "korean_translation": "첫 번째 그룹의 한쪽 날개는 다섯 규빗 길이였고",
+      "word_indices": [
+        71,
+        170,
+        196,
+        593,
+        601
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and touched the temple wall,",
+      "korean_translation": "성전 벽에 닿았으며",
+      "word_indices": [
+        43,
+        176,
+        359
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while its other wing, also five cubits long,",
+      "korean_translation": "그의 다른 쪽 날개도 역시 다섯 규빗 길이로",
+      "word_indices": [
+        28,
+        71,
+        170,
+        196,
+        593
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "touched the wing of the other cherub.",
+      "korean_translation": "다른 그룹의 날개에 닿았다.",
+      "word_indices": [
+        359,
+        593,
+        601
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Exodus 4:19",
+  "version": "NIV",
+  "original_text": "Now the Lord had said to Moses in Midian, “Go back to Egypt, for all those who wanted to kill you are dead.”",
+  "korean_text": "여호와께서 미디안에서 모세에게 이르시되 애굽으로 돌아가라 네 목숨을 노리던 자가 다 죽었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the Lord had said to Moses in Midian",
+      "korean_translation": "하나님께서 미디안에서 모세에게 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go back to Egypt",
+      "korean_translation": "이집트로 돌아가라",
+      "word_indices": [
+        52
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for all those who wanted to kill you are dead",
+      "korean_translation": "너를 죽이려던 모든 사람들이 죽었기 때문이다",
+      "word_indices": [
+        76,
+        115,
+        161
+      ]
+    }
+  ]
+}

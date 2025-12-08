@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 1:31",
+  "version": "NIV",
+  "original_text": "God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day.",
+  "korean_text": "하나님이 지으신 그 모든 것을 보시니 보시기에 심히 좋았더라 저녁이 되고 아침이 되니 이는 여섯째 날이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God saw all that he had made",
+      "korean_translation": "하나님께서 만신 모든 것을 보셨고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and it was very good",
+      "korean_translation": "그것이 매우 좋았더라",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And there was evening",
+      "korean_translation": "그리고 저녁이 있었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and there was morning",
+      "korean_translation": "아침이 있었더니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the sixth day",
+      "korean_translation": "여섯째 날이니라",
+      "word_indices": [
+        1062
+      ]
+    }
+  ]
+}

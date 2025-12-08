@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Luke 4:38",
+  "version": "NIV",
+  "original_text": "Jesus left the synagogue and went to the home of Simon. Now Simon’s mother-in-law was suffering from a high fever, and they asked Jesus to help her.",
+  "korean_text": "예수께서 일어나 회당에서 나가사 시몬의 집에 들어가시니 시몬의 장모가 중한 열병을 앓고 있는지라 사람들이 그를 위하여 예수께 구하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus left the synagogue",
+      "korean_translation": "예수님은 회당을 떠나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and went to the home of Simon",
+      "korean_translation": "시몬의 집으로 가셨습니다",
+      "word_indices": [
+        230
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Now Simon's mother-in-law",
+      "korean_translation": "이때 시몬의 장모는",
+      "word_indices": [
+        42,
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "was suffering from a high fever",
+      "korean_translation": "고열로 고통받고 있었습니다",
+      "word_indices": [
+        105,
+        376,
+        2236
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they asked Jesus",
+      "korean_translation": "그래서 그들은 예수님께",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to help her",
+      "korean_translation": "그녀를 도와달라고 요청했습니다",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

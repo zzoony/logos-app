@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Matthew 16:3",
+  "version": "NIV",
+  "original_text": "and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.",
+  "korean_text": "아침에 하늘이 붉고 흐리면 오늘은 날이 궂겠다 하나니 너희가 날씨는 분별할 줄 알면서 시대의 표적은 분별할 수 없느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and in the morning",
+      "korean_translation": "그리고 아침에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Today it will be stormy",
+      "korean_translation": "오늘은 날씨가 궂을 것이다",
+      "word_indices": [
+        242,
+        4013
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the sky is red and overcast",
+      "korean_translation": "하늘이 붉고 흐리기 때문이다",
+      "word_indices": [
+        536,
+        855,
+        5934
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You know how to interpret the appearance of the sky",
+      "korean_translation": "너희는 하늘의 모양을 해석하는 법을 안다",
+      "word_indices": [
+        13,
+        536,
+        1263,
+        1306
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but you cannot interpret the signs of the times",
+      "korean_translation": "하지만 시대의 징조는 해석하지 못한다",
+      "word_indices": [
+        207,
+        314,
+        1306
+      ]
+    }
+  ]
+}

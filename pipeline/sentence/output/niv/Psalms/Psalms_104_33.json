@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 104:33",
+  "version": "NIV",
+  "original_text": "I will sing to the Lord all my life;\n    I will sing praise to my God as long as I live.",
+  "korean_text": "내가 평생토록 여호와께 노래하며 내가 살아 있는 동안 내 하나님을 찬양하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will sing to the Lord all my life",
+      "korean_translation": "나는 내 평생 주께 노래하겠습니다",
+      "word_indices": [
+        37,
+        337
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will sing praise to my God",
+      "korean_translation": "나는 나의 하나님께 찬양을 노래하겠습니다",
+      "word_indices": [
+        1,
+        88,
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as long as I live",
+      "korean_translation": "내가 사는 동안",
+      "word_indices": [
+        14,
+        71
+      ]
+    }
+  ]
+}

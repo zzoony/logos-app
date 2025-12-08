@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 8:44",
+  "version": "NIV",
+  "original_text": "She came up behind him and touched the edge of his cloak, and immediately her bleeding stopped.",
+  "korean_text": "예수의 뒤로 와서 그의 옷 가에 손을 대니 혈루증이 즉시 그쳤더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She came up behind him",
+      "korean_translation": "그녀는 그의 뒤로 다가왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and touched the edge of his cloak",
+      "korean_translation": "그리고 그의 겉옷 가장자리를 만졌다",
+      "word_indices": [
+        359,
+        829,
+        978
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and immediately her bleeding stopped",
+      "korean_translation": "그리고 즉시 그녀의 출혈이 멈췄다",
+      "word_indices": [
+        863,
+        2587
+      ]
+    }
+  ]
+}

@@ -528,7 +528,7 @@ let processingTasks = new Map();
  * 분석 진행상황 이벤트 핸들러
  */
 function handleAnalysisProgress(progress) {
-  const { book, chapter, verse, completed, processed, total, status, currentBook, totalBooks, bookIndex, error } = progress;
+  const { book, chapter, verse, completed, processed, total, status, currentBook, totalBooks, bookIndex, bookCompleted, bookTotal, sessionCompleted, toAnalyze, error } = progress;
 
   // 진행률 계산 (처리된 수 기준)
   const processedCount = processed || completed;  // 이전 버전 호환
@@ -603,7 +603,9 @@ function handleAnalysisProgress(progress) {
 
   const completedCountEl = document.getElementById('completedCount');
   if (completedCountEl) {
-    completedCountEl.textContent = completed.toLocaleString();
+    // 세션에서 완료된 수 표시 (sessionCompleted가 없으면 기존 방식 사용)
+    const displayCompleted = sessionCompleted ?? 0;
+    completedCountEl.textContent = displayCompleted.toLocaleString();
   }
 
   const processingCountEl = document.getElementById('processingCount');
@@ -613,8 +615,9 @@ function handleAnalysisProgress(progress) {
 
   const waitingCountEl = document.getElementById('waitingCount');
   if (waitingCountEl) {
-    // 대기 = 전체 - 완료 - 진행중
-    const waiting = Math.max(0, total - completed - processingTasks.size);
+    // 대기 = 분석해야 할 구절 - 세션 완료 - 진행중
+    const analyzeTotal = toAnalyze ?? (total - completed + (sessionCompleted ?? 0));
+    const waiting = Math.max(0, analyzeTotal - (sessionCompleted ?? 0) - processingTasks.size);
     waitingCountEl.textContent = waiting.toLocaleString();
   }
 
@@ -634,18 +637,17 @@ function handleAnalysisProgress(progress) {
     const progressText = card.querySelector('.book-progress-text');
     const statsEl = card.querySelector('.book-stats');
 
-    // 성공률 계산 (성공한 수 / 전체)
-    const successPercent = total > 0 ? Math.round((completed / total) * 100) : 0;
+    // 책별 진행률 계산 (bookCompleted가 있으면 사용, 없으면 fallback)
+    const currentBookCompleted = bookCompleted ?? 0;
+    const currentBookTotal = bookTotal ?? (bibleData?.books?.find(b => b.name === book)?.verses ?? 0);
+    const bookPercent = currentBookTotal > 0 ? Math.round((currentBookCompleted / currentBookTotal) * 100) : 0;
 
-    if (progressBar) progressBar.style.width = `${successPercent}%`;
-    if (progressText) progressText.textContent = `${successPercent}%`;
+    if (progressBar) progressBar.style.width = `${bookPercent}%`;
+    if (progressText) progressText.textContent = `${bookPercent}%`;
 
-    // 분석된 구절 수 업데이트 (성공한 수)
-    if (statsEl && bibleData) {
-      const bookInfo = bibleData.books.find(b => b.name === book);
-      if (bookInfo) {
-        statsEl.textContent = `${completed.toLocaleString()} / ${bookInfo.verses.toLocaleString()}구절`;
-      }
+    // 분석된 구절 수 업데이트 (책별 수치)
+    if (statsEl) {
+      statsEl.textContent = `${currentBookCompleted.toLocaleString()} / ${currentBookTotal.toLocaleString()}구절`;
     }
   }
 }

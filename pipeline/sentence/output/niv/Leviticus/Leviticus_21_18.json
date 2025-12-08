@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Leviticus 21:18",
+  "version": "NIV",
+  "original_text": "No man who has any defect may come near: no man who is blind or lame, disfigured or deformed;",
+  "korean_text": "누구든지 흠이 있는 자는 가까이 하지 못할지니 곧 맹인이나 다리 저는 자나 코가 불완전한 자나 지체가 더한 자나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No man who has any defect",
+      "korean_translation": "어떤 결함이 있는 사람은",
+      "word_indices": [
+        10,
+        786
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "may come near:",
+      "korean_translation": "가까이 올 수 없다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "no man who is blind",
+      "korean_translation": "장님인 사람은",
+      "word_indices": [
+        10,
+        606
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or lame",
+      "korean_translation": "또는 저는 사람은",
+      "word_indices": [
+        1216
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "disfigured or deformed;",
+      "korean_translation": "흉하거나 기형인 사람은",
+      "word_indices": [
+        3795
+      ]
+    }
+  ]
+}

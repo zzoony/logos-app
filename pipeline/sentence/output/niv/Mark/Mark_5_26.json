@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Mark 5:26",
+  "version": "NIV",
+  "original_text": "She had suffered a great deal under the care of many doctors and had spent all she had, yet instead of getting better she grew worse.",
+  "korean_text": "많은 의사에게 많은 괴로움을 받았고 가진 것도 다 허비하였으되 아무 효험이 없고 도리어 더 중하여졌던 차에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She had suffered a great deal",
+      "korean_translation": "그녀는 많이 고통받았습니다",
+      "word_indices": [
+        44,
+        376,
+        722
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "under the care of many doctors",
+      "korean_translation": "많은 의사들의 치료를 받으며",
+      "word_indices": [
+        436,
+        3336
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and had spent all she had",
+      "korean_translation": "그리고 가진 것을 모두 썼습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yet instead of getting better",
+      "korean_translation": "그러나 나아지는 대신",
+      "word_indices": [
+        411,
+        523
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "she grew worse",
+      "korean_translation": "더 악화되었습니다",
+      "word_indices": [
+        1526
+      ]
+    }
+  ]
+}

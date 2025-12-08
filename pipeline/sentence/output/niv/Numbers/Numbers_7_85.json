@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Numbers 7:85",
+  "version": "NIV",
+  "original_text": "Each silver plate weighed a hundred and thirty shekels, and each sprinkling bowl seventy shekels. Altogether, the silver dishes weighed two thousand four hundred shekels, according to the sanctuary shekel.",
+  "korean_text": "은 쟁반은 각각 백삼십 세겔 무게요 은 바리는 각각 칠십 세겔 무게라 성소의 세겔로 모든 기구의 은이 모두 이천사백 세겔이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Each silver plate weighed a hundred and thirty shekels",
+      "korean_translation": "각 은쟁반은 백삼십 세겔의 무게였고",
+      "word_indices": [
+        124,
+        362,
+        403,
+        585,
+        1621
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and each sprinkling bowl seventy shekels",
+      "korean_translation": "각 뿌리는 그릇은 칠십 세겔이었다",
+      "word_indices": [
+        362,
+        701,
+        728
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Altogether, the silver dishes weighed two thousand four hundred shekels",
+      "korean_translation": "전체적으로 은 그릇들은 이천사백 세겔의 무게를 졌고",
+      "word_indices": [
+        124,
+        136,
+        203,
+        362,
+        585,
+        1151,
+        1701
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "according to the sanctuary shekel",
+      "korean_translation": "성소의 세겔 기준으로 계산되었다",
+      "word_indices": [
+        144,
+        292,
+        362
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ecclesiastes 3:4",
+  "version": "NIV",
+  "original_text": "a time to weep and a time to laugh,\n    a time to mourn and a time to dance,",
+  "korean_text": "울 때가 있고 웃을 때가 있으며 슬퍼할 때가 있고 춤출 때가 있으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a time to weep",
+      "korean_translation": "울 시간",
+      "word_indices": [
+        339
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a time to laugh",
+      "korean_translation": "그리고 웃을 시간",
+      "word_indices": [
+        1420
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a time to mourn",
+      "korean_translation": "슬퍼할 시간",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a time to dance",
+      "korean_translation": "그리고 춤출 시간",
+      "word_indices": [
+        1364
+      ]
+    }
+  ]
+}

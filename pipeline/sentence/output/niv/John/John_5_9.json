@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 5:9",
+  "version": "NIV",
+  "original_text": "At once the man was cured; he picked up his mat and walked.\nThe day on which this took place was a Sabbath,",
+  "korean_text": "그 사람이 곧 나아서 자리를 들고 걸어가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At once the man was cured",
+      "korean_translation": "그 사람은 즉시 고침을 받았다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he picked up his mat",
+      "korean_translation": "그는 자신의 돗자리를 들었고",
+      "word_indices": [
+        841,
+        1570
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and walked",
+      "korean_translation": "걸어갔다",
+      "word_indices": [
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The day on which this took place",
+      "korean_translation": "이 일이 일어난 날은",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "was a Sabbath",
+      "korean_translation": "안식일이었다",
+      "word_indices": [
+        319
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 22:15",
+  "version": "NIV",
+  "original_text": "But if the owner is with the animal, the borrower will not have to pay. If the animal was hired, the money paid for the hire covers the loss.",
+  "korean_text": "그 임자가 그것과 함께 있었으면 배상하지 아니할지니라 만일 세 낸 것이면 세로 족하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if the owner is with the animal",
+      "korean_translation": "하지만 만일 주인이 그 동물과 함께 있다면",
+      "word_indices": [
+        195,
+        934
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the borrower will not have to pay",
+      "korean_translation": "빌린 사람은 지불하지 않아도 됩니다",
+      "word_indices": [
+        248,
+        3756
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the animal was hired",
+      "korean_translation": "만일 그 동물이 임대되었다면",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the money paid for the hire covers the loss",
+      "korean_translation": "임대료로 지불된 돈이 손실을 보상합니다",
+      "word_indices": [
+        200,
+        448,
+        989
+      ]
+    }
+  ]
+}

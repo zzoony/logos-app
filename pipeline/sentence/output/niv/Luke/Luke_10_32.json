@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 10:32",
+  "version": "NIV",
+  "original_text": "So too, a Levite, when he came to the place and saw him, passed by on the other side.",
+  "korean_text": "또 이와 같이 한 레위인도 그 곳에 이르러 그를 보고 피하여 지나가되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So too,",
+      "korean_translation": "그 역시,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a Levite,",
+      "korean_translation": "한 레위인은,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when he came to the place",
+      "korean_translation": "그가 그 곳에 왔을 때",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and saw him,",
+      "korean_translation": "그를 보고는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "passed by on the other side.",
+      "korean_translation": "반대편으로 지나갔습니다.",
+      "word_indices": [
+        118,
+        531
+      ]
+    }
+  ]
+}

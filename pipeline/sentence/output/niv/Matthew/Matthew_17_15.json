@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 17:15",
+  "version": "NIV",
+  "original_text": "“Lord, have mercy on my son,” he said. “He has seizures and is suffering greatly. He often falls into the fire or into the water.",
+  "korean_text": "주여 내 아들을 불쌍히 여기소서 그가 간질로 심히 고생하여 자주 불에도 넘어지며 물에도 넘어지는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord, have mercy on my son",
+      "korean_translation": "주여, 내 아들에게 긍휼을 베풀어 주소서",
+      "word_indices": [
+        2,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He has seizures",
+      "korean_translation": "그는 경련을 일으킵니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and is suffering greatly",
+      "korean_translation": "그리고 크게 고통받고 있습니다",
+      "word_indices": [
+        376,
+        710
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He often falls into the fire",
+      "korean_translation": "그는 종종 불 속에 떨어집니다",
+      "word_indices": [
+        101,
+        113,
+        1409
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or into the water",
+      "korean_translation": "또는 물 속에 떨어집니다",
+      "word_indices": [
+        46
+      ]
+    }
+  ]
+}

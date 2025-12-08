@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 27:15",
+  "version": "NIV",
+  "original_text": "The ship was caught by the storm and could not head into the wind; so we gave way to it and were driven along.",
+  "korean_text": "배가 밀려 바람을 맞추어 갈 수 없어 가는 대로 두고 쫓겨가다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The ship was caught by the storm",
+      "korean_translation": "배가 폭풍에 휩쓸렸다",
+      "word_indices": [
+        804,
+        1148
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and could not head into the wind",
+      "korean_translation": "그리고 바람을 향해 갈 수 없었다",
+      "word_indices": [
+        67,
+        295
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so we gave way to it",
+      "korean_translation": "그래서 우리는 그 폭풍에 굴복했다",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and were driven along",
+      "korean_translation": "그리고 휩쓸려갔다",
+      "word_indices": []
+    }
+  ]
+}

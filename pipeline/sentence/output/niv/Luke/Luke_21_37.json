@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 21:37",
+  "version": "NIV",
+  "original_text": "Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives,",
+  "korean_text": "예수께서 낮에는 성전에서 가르치시고 밤에는 나가 감람원이라 하는 산에서 쉬시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Each day Jesus was teaching at the temple",
+      "korean_translation": "예수님은 매일 성전에서 가르치셨고",
+      "word_indices": [
+        43,
+        172
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and each evening he went out",
+      "korean_translation": "매일 저녁에는 나가셔서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to spend the night on the hill",
+      "korean_translation": "그 언덕에서 밤을 보내셨습니다",
+      "word_indices": [
+        126,
+        216,
+        649
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "called the Mount of Olives",
+      "korean_translation": "그 언덕은 감람산이라 불립니다",
+      "word_indices": [
+        35,
+        308
+      ]
+    }
+  ]
+}

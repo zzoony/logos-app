@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 5:13",
+  "version": "NIV",
+  "original_text": "King Solomon conscripted laborers from all Israel—thirty thousand men.",
+  "korean_text": "이에 솔로몬 왕이 온 이스라엘 가운데서 역군을 불러일으키니 그 역군의 수가 삼만 명이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Solomon conscripted laborers",
+      "korean_translation": "솔로몬 왕은 노동자들을 징집했다",
+      "word_indices": [
+        4,
+        2350,
+        2640
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from all Israel",
+      "korean_translation": "온 이스라엘에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thirty thousand men",
+      "korean_translation": "삼만 명의 사람들을",
+      "word_indices": [
+        136,
+        403
+      ]
+    }
+  ]
+}

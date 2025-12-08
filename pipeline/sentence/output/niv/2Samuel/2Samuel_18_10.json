@@ -1,0 +1,38 @@
+{
+  "verse_reference": "2 Samuel 18:10",
+  "version": "NIV",
+  "original_text": "When one of the men saw what had happened, he told Joab, “I just saw Absalom hanging in an oak tree.”",
+  "korean_text": "한 사람이 보고 요압에게 알려 이르되 내가 보니 압살롬이 상수리나무에 달렸더이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When one of the men saw what had happened",
+      "korean_translation": "사람 중 한 사람이 무슨 일이 일어났는지 보았을 때",
+      "word_indices": [
+        275
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he told Joab",
+      "korean_translation": "그는 요압에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I just saw Absalom",
+      "korean_translation": "나는 방금 압살롬을 보았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hanging in an oak tree",
+      "korean_translation": "참나무에 매달려 있는 것을",
+      "word_indices": [
+        164,
+        1054,
+        1532
+      ]
+    }
+  ]
+}

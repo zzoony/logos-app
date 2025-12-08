@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Isaiah 5:1",
+  "version": "NIV",
+  "original_text": "I will sing for the one I love\n    a song about his vineyard:\nMy loved one had a vineyard\n    on a fertile hillside.",
+  "korean_text": "나는 내가 사랑하는 자를 위하여 노래하되 내가 사랑하는 자의 포도원을 노래하리라 내가 사랑하는 자에게 포도원이 있음이여 심히 기름진 산에로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will sing for the one I love",
+      "korean_translation": "내가 사랑하는 이를 위해 노래하겠습니다",
+      "word_indices": [
+        38,
+        337
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a song about his vineyard",
+      "korean_translation": "그의 포도원에 대한 노래입니다",
+      "word_indices": [
+        441,
+        653
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My loved one had a vineyard",
+      "korean_translation": "나의 사랑하는 이에게 포도원이 있었습니다",
+      "word_indices": [
+        441
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on a fertile hillside",
+      "korean_translation": "비옥한 언덕 위에 있었습니다",
+      "word_indices": [
+        1848,
+        3235
+      ]
+    }
+  ]
+}

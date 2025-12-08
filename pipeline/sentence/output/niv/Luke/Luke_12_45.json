@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Luke 12:45",
+  "version": "NIV",
+  "original_text": "But suppose the servant says to himself, ‘My master is taking a long time in coming,’ and he then begins to beat the other servants, both men and women, and to eat and drink and get drunk.",
+  "korean_text": "만일 그 종이 마음에 생각하기를 주인이 더디 오리라 하여 남녀 종들을 때리며 먹고 마시고 취하게 되면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But suppose the servant says to himself",
+      "korean_translation": "그러나 종이 마음속으로 스스로 말한다고 가정해보자",
+      "word_indices": [
+        25,
+        1394
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'My master is taking a long time in coming,'",
+      "korean_translation": "'내 주인이 오는데 시간이 오래 걸리고 있다'",
+      "word_indices": [
+        71,
+        265
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he then begins to beat the other servants",
+      "korean_translation": "그리고 그가 다른 종들을 때리기 시작한다",
+      "word_indices": [
+        25,
+        146,
+        754
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "both men and women",
+      "korean_translation": "남자와 여자 모두를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to eat and drink and get drunk",
+      "korean_translation": "그리고 먹고 마시고 취하기 시작한다",
+      "word_indices": [
+        33,
+        78
+      ]
+    }
+  ]
+}

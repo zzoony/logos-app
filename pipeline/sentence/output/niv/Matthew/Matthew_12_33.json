@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Matthew 12:33",
+  "version": "NIV",
+  "original_text": "“Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is recognized by its fruit.",
+  "korean_text": "나무도 좋고 열매도 좋다 하든지 나무도 좋지 않고 열매도 좋지 않다 하든지 하라 그 열매로 나무를 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Make a tree good",
+      "korean_translation": "나무를 좋게 만들라",
+      "word_indices": [
+        56,
+        164
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and its fruit will be good",
+      "korean_translation": "그러면 그 열매도 좋을 것이다",
+      "word_indices": [
+        56,
+        289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or make a tree bad",
+      "korean_translation": "또는 나무를 나쁘게 만들라",
+      "word_indices": [
+        164,
+        764
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and its fruit will be bad",
+      "korean_translation": "그러면 그 열매도 나쁠 것이다",
+      "word_indices": [
+        289,
+        764
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for a tree is recognized by its fruit",
+      "korean_translation": "나무는 그 열매로 알려지기 때문이다",
+      "word_indices": [
+        164,
+        289
+      ]
+    }
+  ]
+}

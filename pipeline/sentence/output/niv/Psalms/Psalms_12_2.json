@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 12:2",
+  "version": "NIV",
+  "original_text": "Everyone lies to their neighbor;\n    they flatter with their lips\n    but harbor deception in their hearts.",
+  "korean_text": "그들이 이웃에게 각기 거짓을 말함이여 아첨하는 입술과 두 마음으로 말하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Everyone lies to their neighbor;",
+      "korean_translation": "모두 이웃에게 거짓말을 하며;",
+      "word_indices": [
+        186,
+        356
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they flatter with their lips",
+      "korean_translation": "그들은 입술로 아첨하지만",
+      "word_indices": [
+        418,
+        2387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but harbor deception in their hearts.",
+      "korean_translation": "마음속에는 기만을 품고 있다.",
+      "word_indices": [
+        36,
+        2071,
+        2511
+      ]
+    }
+  ]
+}

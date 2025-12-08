@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 109:19",
+  "version": "NIV",
+  "original_text": "May it be like a cloak wrapped about him,\n    like a belt tied forever around him.",
+  "korean_text": "저주가 그에게는 입는 옷 같고 항상 띠는 띠와 같게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May it be like a cloak",
+      "korean_translation": "그것이 외투와 같게 되기를",
+      "word_indices": [
+        7,
+        829
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "wrapped about him",
+      "korean_translation": "그를 두른",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like a belt",
+      "korean_translation": "띠와 같이",
+      "word_indices": [
+        7,
+        1308
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "tied forever around him",
+      "korean_translation": "영원히 그에게 묶인",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

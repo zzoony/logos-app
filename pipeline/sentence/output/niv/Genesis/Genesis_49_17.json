@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 49:17",
+  "version": "NIV",
+  "original_text": "Dan will be a snake by the roadside,\n    a viper along the path,\nthat bites the horse’s heels\n    so that its rider tumbles backward.",
+  "korean_text": "단은 길섶의 뱀이요 샛길의 독사로다 말굽을 물어서 그 탄 자를 뒤로 떨어지게 하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Dan will be a snake by the roadside",
+      "korean_translation": "단은 길가의 뱀이 될 것이며",
+      "word_indices": [
+        1147,
+        2911
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a viper along the path",
+      "korean_translation": "길 따라 독사가 될 것이라",
+      "word_indices": [
+        516,
+        1967
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that bites the horse's heels",
+      "korean_translation": "그것은 말의 발꿈치를 물고",
+      "word_indices": [
+        326,
+        2704,
+        4722
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that its rider tumbles backward",
+      "korean_translation": "그리하여 그 탄 자가 뒤로 넘어지리라",
+      "word_indices": [
+        1656,
+        3117
+      ]
+    }
+  ]
+}

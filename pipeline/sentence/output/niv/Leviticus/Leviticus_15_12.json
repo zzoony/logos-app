@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 15:12",
+  "version": "NIV",
+  "original_text": "“‘A clay pot that the man touches must be broken, and any wooden article is to be rinsed with water.",
+  "korean_text": "유출병이 있는 자가 만진 질그릇은 깨뜨리고 나무 그릇은 다 물로 씻을지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A clay pot that the man touches",
+      "korean_translation": "사람이 만진 질그릇은",
+      "word_indices": [
+        10,
+        359,
+        898,
+        1072
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must be broken",
+      "korean_translation": "깨져야 하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and any wooden article",
+      "korean_translation": "모든 나무 기구는",
+      "word_indices": [
+        563,
+        2232
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is to be rinsed with water",
+      "korean_translation": "물로 씻겨져야 한다",
+      "word_indices": [
+        46
+      ]
+    }
+  ]
+}

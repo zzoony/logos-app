@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Job 7:4",
+  "version": "NIV",
+  "original_text": "When I lie down I think, ‘How long before I get up?’\n    The night drags on, and I toss and turn until dawn.",
+  "korean_text": "내가 누울 때면 말하기를 언제나 일어날까, 언제나 밤이 갈까 하며 새벽까지 이리 뒤척, 저리 뒤척 하는구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I lie down",
+      "korean_translation": "내가 누울 때",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I think",
+      "korean_translation": "나는 생각한다",
+      "word_indices": [
+        236
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'How long before I get up?'",
+      "korean_translation": "'내가 얼마나 지나야 일어날까?'",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The night drags on",
+      "korean_translation": "밤은 길어진다",
+      "word_indices": [
+        126,
+        1377
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and I toss and turn",
+      "korean_translation": "그리고 나는 뒤척인다",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "until dawn.",
+      "korean_translation": "새벽까지.",
+      "word_indices": [
+        1032
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "verse_reference": "Isaiah 43:2",
+  "version": "NIV",
+  "original_text": "When you pass through the waters,\n    I will be with you;\nand when you pass through the rivers,\n    they will not sweep over you.\nWhen you walk through the fire,\n    you will not be burned;\n    the flames will not set you ablaze.",
+  "korean_text": "네가 물 가운데로 지날 때에 내가 너와 함께 할 것이라 강을 건널 때에 물이 너를 침몰하지 못할 것이며 네가 불 가운데로 지날 때에 타지도 아니할 것이요 불꽃이 너를 사르지도 못하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you pass through the waters,",
+      "korean_translation": "네가 물을 지날 때에,",
+      "word_indices": [
+        39,
+        46,
+        465
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will be with you;",
+      "korean_translation": "내가 너와 함께 있을 것이라;",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and when you pass through the rivers,",
+      "korean_translation": "네가 강을 지날 때에도,",
+      "word_indices": [
+        39,
+        392,
+        465
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they will not sweep over you.",
+      "korean_translation": "그것이 너를 휩쓸지 못할 것이며,",
+      "word_indices": [
+        773
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "When you walk through the fire,",
+      "korean_translation": "네가 불 가운데로 걸어갈 때에도,",
+      "word_indices": [
+        39,
+        101,
+        238
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you will not be burned;",
+      "korean_translation": "타지 않을 것이요,",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "the flames will not set you ablaze.",
+      "korean_translation": "불꽃이 너를 태우지 못하리라.",
+      "word_indices": [
+        2156
+      ]
+    }
+  ]
+}

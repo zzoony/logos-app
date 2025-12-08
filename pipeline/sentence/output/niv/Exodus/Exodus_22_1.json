@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 22:1",
+  "version": "NIV",
+  "original_text": "“Whoever steals an ox or a sheep and slaughters it or sells it must pay back five head of cattle for the ox and four sheep for the sheep.",
+  "korean_text": "사람이 소나 양을 도둑질하여 잡거나 팔면 그는 소 한 마리에 소 다섯 마리로 갚고 양 한 마리에 양 네 마리로 갚을지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever steals an ox or a sheep",
+      "korean_translation": "누구든지 소나 양을 훔치면",
+      "word_indices": [
+        154,
+        251,
+        547,
+        836
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and slaughters it or sells it",
+      "korean_translation": "그것을 죽이거나 팔면",
+      "word_indices": [
+        397,
+        452
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must pay back five head of cattle for the ox",
+      "korean_translation": "그 소에 대해 소 다섯 마리를 배상해야 하고",
+      "word_indices": [
+        52,
+        67,
+        196,
+        248,
+        547,
+        655
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and four sheep for the sheep",
+      "korean_translation": "그 양에 대해 양 네 마리를 배상해야 한다",
+      "word_indices": [
+        203,
+        251
+      ]
+    }
+  ]
+}

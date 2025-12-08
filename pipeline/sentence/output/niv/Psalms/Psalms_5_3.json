@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Psalms 5:3",
+  "version": "NIV",
+  "original_text": "In the morning, Lord, you hear my voice;\n    in the morning I lay my requests before you\n    and wait expectantly.",
+  "korean_text": "여호와여 아침에 주께서 나의 소리를 들으시리니 아침에 내가 주께 기도하고 바라리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the morning",
+      "korean_translation": "아침에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord, you hear my voice",
+      "korean_translation": "주님, 당신은 내 음성을 들으시나이다",
+      "word_indices": [
+        16,
+        241
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the morning",
+      "korean_translation": "아침에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I lay my requests before you",
+      "korean_translation": "나는 당신 앞에 나의 간구를 드리며",
+      "word_indices": [
+        148,
+        1006
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and wait expectantly",
+      "korean_translation": "기대하며 기다리나이다",
+      "word_indices": [
+        388,
+        3977
+      ]
+    }
+  ]
+}

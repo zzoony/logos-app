@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 27:7",
+  "version": "NIV",
+  "original_text": "Has the Lord struck her\n    as he struck down those who struck her?\nHas she been killed\n    as those were killed who killed her?",
+  "korean_text": "주께서 그 백성을 치셨던들 그 백성을 친 자들을 치심과 같았겠으며 백성이 죽임을 당하였던들 백성을 죽인 자가 죽임을 당함과 같았겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Has the Lord struck her",
+      "korean_translation": "주께서 그녀를 치셨는가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as he struck down those who struck her?",
+      "korean_translation": "그녀를 친 자들을 치신 것처럼",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Has she been killed",
+      "korean_translation": "그녀가 죽임을 당했는가",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as those were killed who killed her?",
+      "korean_translation": "그녀를 죽인 자들이 죽임을 당한 것처럼",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

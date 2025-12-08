@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Proverbs 4:27",
+  "version": "NIV",
+  "original_text": "Do not turn to the right or the left;\n    keep your foot from evil.",
+  "korean_text": "좌로나 우로나 치우치지 말고 네 발을 악에서 떠나게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not turn to the right",
+      "korean_translation": "오른쪽으로 돌지 마라",
+      "word_indices": [
+        49,
+        74
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or the left",
+      "korean_translation": "왼쪽으로도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "keep your foot from evil",
+      "korean_translation": "악에서 네 발을 지키라",
+      "word_indices": [
+        60,
+        95,
+        123
+      ]
+    }
+  ]
+}

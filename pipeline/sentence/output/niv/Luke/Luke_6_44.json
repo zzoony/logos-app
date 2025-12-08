@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 6:44",
+  "version": "NIV",
+  "original_text": "Each tree is recognized by its own fruit. People do not pick figs from thornbushes, or grapes from briers.",
+  "korean_text": "나무는 각각 그 열매로 아나니 가시나무에서 무화과를, 또는 찔레에서 포도를 따지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Each tree is recognized by its own fruit",
+      "korean_translation": "각 나무는 그 열매로 알 수 있다",
+      "word_indices": [
+        164,
+        289
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "People do not pick figs from thornbushes",
+      "korean_translation": "사람들은 가시나무에서 무화과를 따지 않는다",
+      "word_indices": [
+        3,
+        703,
+        841,
+        3205
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or grapes from briers",
+      "korean_translation": "또는 가시덩굴에서 포도를 따지 않는다",
+      "word_indices": [
+        1809
+      ]
+    }
+  ]
+}

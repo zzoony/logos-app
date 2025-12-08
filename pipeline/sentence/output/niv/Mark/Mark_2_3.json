@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 2:3",
+  "version": "NIV",
+  "original_text": "Some men came, bringing to him a paralyzed man, carried by four of them.",
+  "korean_text": "사람들이 한 중풍병자를 네 사람에게 메워 가지고 예수께로 올새",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some men came",
+      "korean_translation": "어떤 사람들이 왔는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "bringing to him a paralyzed man",
+      "korean_translation": "그에게 중풍병자를 데려왔습니다",
+      "word_indices": [
+        6,
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "carried by four of them",
+      "korean_translation": "그들 네 사람이 메고 온",
+      "word_indices": [
+        203
+      ]
+    }
+  ]
+}

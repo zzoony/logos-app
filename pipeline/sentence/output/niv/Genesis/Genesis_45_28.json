@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 45:28",
+  "version": "NIV",
+  "original_text": "And Israel said, “I’m convinced! My son Joseph is still alive. I will go and see him before I die.”",
+  "korean_text": "이스라엘이 이르되 족하도다 내 아들 요셉이 지금까지 살아 있으니 내가 죽기 전에 가서 그를 보리라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Israel said",
+      "korean_translation": "이스라엘이 말하니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I'm convinced!",
+      "korean_translation": "내가 확신한다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My son Joseph is still alive",
+      "korean_translation": "내 아들 요셉이 아직 살아있다",
+      "word_indices": [
+        2,
+        588
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will go and see him",
+      "korean_translation": "내가 그를 보러 가겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before I die",
+      "korean_translation": "내가 죽기 전에",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

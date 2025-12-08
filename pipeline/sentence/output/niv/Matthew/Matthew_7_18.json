@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 7:18",
+  "version": "NIV",
+  "original_text": "A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit.",
+  "korean_text": "좋은 나무가 나쁜 열매를 맺을 수 없고 못된 나무가 아름다운 열매를 맺을 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A good tree cannot bear bad fruit",
+      "korean_translation": "좋은 나무는 나쁜 열매를 맺을 수 없고",
+      "word_indices": [
+        56,
+        111,
+        164,
+        207,
+        289,
+        764
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a bad tree cannot bear good fruit",
+      "korean_translation": "나쁜 나무는 좋은 열매를 맺을 수 없느니라",
+      "word_indices": [
+        56,
+        111,
+        164,
+        207,
+        289,
+        764
+      ]
+    }
+  ]
+}

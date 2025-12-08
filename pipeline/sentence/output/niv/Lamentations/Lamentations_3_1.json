@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Lamentations 3:1",
+  "version": "NIV",
+  "original_text": "I am the man who has seen affliction\n    by the rod of the Lord’s wrath.",
+  "korean_text": "여호와의 분노의 매로 말미암아 고난 당한 자는 나로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the man",
+      "korean_translation": "나는 그 사람입니다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who has seen affliction",
+      "korean_translation": "고난을 본 사람입니다",
+      "word_indices": [
+        1401
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the rod of the Lord's wrath",
+      "korean_translation": "여호와의 진노의 막대기로 말미암아",
+      "word_indices": [
+        278,
+        830
+      ]
+    }
+  ]
+}

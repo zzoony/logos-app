@@ -1,0 +1,50 @@
+{
+  "verse_reference": "1 Chronicles 11:6",
+  "version": "NIV",
+  "original_text": "David had said, “Whoever leads the attack on the Jebusites will become commander in chief.” Joab son of Zeruiah went up first, and so he received the command.",
+  "korean_text": "다윗이 이르되 먼저 여부스 사람을 치는 자는 우두머리와 지휘관으로 삼으리라 하였더니 스루야의 아들 요압이 먼저 올라갔으므로 우두머리가 되었고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David had said",
+      "korean_translation": "다윗이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whoever leads the attack on the Jebusites",
+      "korean_translation": "여부스 사람을 공격하는 자는",
+      "word_indices": [
+        140,
+        154,
+        270
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will become commander in chief",
+      "korean_translation": "대장이 될 것이다",
+      "word_indices": [
+        32,
+        259,
+        320
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Joab son of Zeruiah went up first",
+      "korean_translation": "스루야의 아들 요압이 먼저 올라갔고",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and so he received the command",
+      "korean_translation": "그래서 그는 명령을 받았다",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

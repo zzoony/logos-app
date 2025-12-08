@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 11:10",
+  "version": "NIV",
+  "original_text": "For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.",
+  "korean_text": "구하는 이마다 받을 것이요 찾는 이는 찾아낼 것이요 두드리는 이에게는 열릴 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For everyone who asks receives",
+      "korean_translation": "구하는 이마다 받을 것이요",
+      "word_indices": [
+        31,
+        186
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the one who seeks finds",
+      "korean_translation": "찾는 이가 찾을 것이요",
+      "word_indices": [
+        55,
+        273
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to the one who knocks",
+      "korean_translation": "두드리는 이에게는",
+      "word_indices": [
+        2048
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the door will be opened",
+      "korean_translation": "문이 열리리라",
+      "word_indices": [
+        160,
+        415
+      ]
+    }
+  ]
+}

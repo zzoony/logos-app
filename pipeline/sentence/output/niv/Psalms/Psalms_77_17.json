@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 77:17",
+  "version": "NIV",
+  "original_text": "The clouds poured down water,\n    the heavens resounded with thunder;\n    your arrows flashed back and forth.",
+  "korean_text": "구름이 물을 쏟고 궁창이 소리를 내며 주의 화살도 날아갔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The clouds poured down water",
+      "korean_translation": "구름들이 물을 쏟아내었고",
+      "word_indices": [
+        46,
+        266,
+        331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the heavens resounded with thunder",
+      "korean_translation": "하늘이 천둥으로 울렸으며",
+      "word_indices": [
+        57,
+        951,
+        1814
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your arrows flashed back and forth",
+      "korean_translation": "당신의 화살들이 이리저리 번쩍였습니다",
+      "word_indices": [
+        52,
+        770,
+        808,
+        1227
+      ]
+    }
+  ]
+}

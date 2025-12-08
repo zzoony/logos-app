@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Luke 1:53",
+  "version": "NIV",
+  "original_text": "He has filled the hungry with good things\n    but has sent the rich away empty.",
+  "korean_text": "주리는 자를 좋은 것으로 배불리셨으며 부자는 빈 손으로 보내셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He has filled the hungry with good things",
+      "korean_translation": "그는 굶주린 자들을 좋은 것으로 채우셨다",
+      "word_indices": [
+        56,
+        188,
+        862
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but has sent the rich away empty",
+      "korean_translation": "그러나 부자들을 빈손으로 보내셨다",
+      "word_indices": [
+        34,
+        371,
+        866
+      ]
+    }
+  ]
+}

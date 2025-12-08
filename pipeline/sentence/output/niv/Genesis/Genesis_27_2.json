@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 27:2",
+  "version": "NIV",
+  "original_text": "Isaac said, “I am now an old man and don’t know the day of my death.",
+  "korean_text": "이삭이 이르되 내가 이제 늙어 어느 날 죽을는지 알지 못하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Isaac said",
+      "korean_translation": "이삭이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am now an old man",
+      "korean_translation": "나는 이제 늙은 사람이고",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and don't know the day of my death",
+      "korean_translation": "내가 죽을 날을 알지 못합니다",
+      "word_indices": [
+        13,
+        80
+      ]
+    }
+  ]
+}

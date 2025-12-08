@@ -1,0 +1,29 @@
+{
+  "verse_reference": "1 Samuel 20:4",
+  "version": "NIV",
+  "original_text": "Jonathan said to David, “Whatever you want me to do, I’ll do for you.”",
+  "korean_text": "요나단이 다윗에게 이르되 네 마음의 소원이 무엇이든지 내가 너를 위하여 그것을 이루리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jonathan said to David",
+      "korean_translation": "요나단이 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whatever you want me to do",
+      "korean_translation": "네가 내게 하기 원하는 것이 무엇이든",
+      "word_indices": [
+        161,
+        285
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I'll do for you",
+      "korean_translation": "내가 너를 위해 할 것이다",
+      "word_indices": []
+    }
+  ]
+}

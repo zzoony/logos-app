@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Genesis 5:30",
+  "version": "NIV",
+  "original_text": "After Noah was born, Lamech lived 595 years and had other sons and daughters.",
+  "korean_text": "라멕은 노아를 낳은 후 오백구십오 년을 지내며 자녀들을 낳았으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After Noah was born",
+      "korean_translation": "노아가 태어난 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lamech lived 595 years",
+      "korean_translation": "라멕은 595년을 살았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and had other sons and daughters",
+      "korean_translation": "다른 아들들과 딸들을 낳았다",
+      "word_indices": [
+        2,
+        66
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Kings 18:45",
+  "version": "NIV",
+  "original_text": "Meanwhile, the sky grew black with clouds, the wind rose, a heavy rain started falling and Ahab rode off to Jezreel.",
+  "korean_text": "조금 후에 구름과 바람이 일어나서 하늘이 캄캄해지며 큰 비가 내리는지라 아합이 마차를 타고 이스르엘로 가니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Meanwhile",
+      "korean_translation": "그동안",
+      "word_indices": [
+        1161
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sky grew black with clouds",
+      "korean_translation": "하늘이 구름으로 검게 변했다",
+      "word_indices": [
+        331,
+        536,
+        1837
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the wind rose",
+      "korean_translation": "바람이 일어났다",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a heavy rain started falling",
+      "korean_translation": "폭우가 내리기 시작했다",
+      "word_indices": [
+        113,
+        506,
+        932,
+        1118
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and Ahab rode off to Jezreel",
+      "korean_translation": "아합은 이스르엘으로 말을 달려갔다",
+      "word_indices": []
+    }
+  ]
+}

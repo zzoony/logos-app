@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Proverbs 18:17",
+  "version": "NIV",
+  "original_text": "In a lawsuit the first to speak seems right,\n    until someone comes forward and cross-examines.",
+  "korean_text": "송사에서는 먼저 온 사람의 말이 바른 것 같으나 그의 상대자가 와서 밝히느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In a lawsuit",
+      "korean_translation": "소송에서는",
+      "word_indices": [
+        2755
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the first to speak seems right",
+      "korean_translation": "먼저 말하는 사람이 옳아 보입니다",
+      "word_indices": [
+        29,
+        74,
+        856
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until someone comes forward",
+      "korean_translation": "누군가 나설 때까지",
+      "word_indices": [
+        271,
+        826
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and cross-examines",
+      "korean_translation": "그리고 심문할 때까지",
+      "word_indices": []
+    }
+  ]
+}

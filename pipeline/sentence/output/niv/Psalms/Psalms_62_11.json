@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 62:11",
+  "version": "NIV",
+  "original_text": "One thing God has spoken,\n    two things I have heard:\n“Power belongs to you, God,",
+  "korean_text": "하나님이 한두 번 하신 말씀을 내가 들었나니 권능은 하나님께 속하였다 하셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One thing God has spoken",
+      "korean_translation": "하나님께서 말씀하신 한 가지",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "two things I have heard",
+      "korean_translation": "내가 들은 두 가지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Power belongs to you, God",
+      "korean_translation": "권능은 하나님께 속해 있나이다",
+      "word_indices": [
+        1,
+        178,
+        218
+      ]
+    }
+  ]
+}

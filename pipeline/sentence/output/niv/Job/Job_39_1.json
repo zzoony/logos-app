@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Job 39:1",
+  "version": "NIV",
+  "original_text": "“Do you know when the mountain goats give birth?\n    Do you watch when the doe bears her fawn?",
+  "korean_text": "산 염소가 새끼 치는 때를 네가 아느냐 암사슴이 새끼 낳는 것을 네가 본 적이 있느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do you know",
+      "korean_translation": "너는 아느냐",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the mountain goats give birth",
+      "korean_translation": "산 염소가 새끼를 낳을 때를",
+      "word_indices": [
+        5,
+        147,
+        311,
+        387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do you watch",
+      "korean_translation": "너는 보느냐",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when the doe bears her fawn",
+      "korean_translation": "암노루가 새끼를 낳을 때를",
+      "word_indices": [
+        64,
+        111,
+        2740
+      ]
+    }
+  ]
+}

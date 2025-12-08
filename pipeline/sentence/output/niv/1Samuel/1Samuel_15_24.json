@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 Samuel 15:24",
+  "version": "NIV",
+  "original_text": "Then Saul said to Samuel, “I have sinned. I violated the Lord’s command and your instructions. I was afraid of the men and so I gave in to them.",
+  "korean_text": "사울이 사무엘에게 이르되 내가 범죄하였나이다 내가 여호와의 명령과 당신의 말씀을 어긴 것은 내가 백성을 두려워하여 그들의 말을 청종하였음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Saul said to Samuel",
+      "korean_translation": "그때 사울이 사무엘에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have sinned",
+      "korean_translation": "내가 죄를 지었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I violated the Lord's command",
+      "korean_translation": "나는 주의 명령을 어겼습니다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your instructions",
+      "korean_translation": "그리고 당신의 지시도 어겼습니다",
+      "word_indices": [
+        631
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I was afraid of the men",
+      "korean_translation": "나는 사람들이 두려웠습니다",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and so I gave in to them",
+      "korean_translation": "그래서 그들에게 굴복했습니다",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

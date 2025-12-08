@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Numbers 23:20",
+  "version": "NIV",
+  "original_text": "I have received a command to bless;\n    he has blessed, and I cannot change it.",
+  "korean_text": "내가 축복할 것을 받았으니 그가 주신 복을 내가 돌이키지 않으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have received a command to bless",
+      "korean_translation": "나는 복을 주라는 명령을 받았다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he has blessed",
+      "korean_translation": "그는 복을 주셨다",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I cannot change it",
+      "korean_translation": "그리고 나는 그것을 바꿀 수 없다",
+      "word_indices": [
+        207,
+        714
+      ]
+    }
+  ]
+}

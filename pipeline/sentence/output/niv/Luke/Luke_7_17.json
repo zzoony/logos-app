@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 7:17",
+  "version": "NIV",
+  "original_text": "This news about Jesus spread throughout Judea and the surrounding country.",
+  "korean_text": "예수께 대한 이 소문이 온 유대와 사방에 두루 퍼지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This news about Jesus",
+      "korean_translation": "이 예수에 대한 소식은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "spread throughout Judea",
+      "korean_translation": "유대 전역에 퍼졌고",
+      "word_indices": [
+        253,
+        394
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the surrounding country",
+      "korean_translation": "주변 지방에도 퍼졌다",
+      "word_indices": [
+        167,
+        494
+      ]
+    }
+  ]
+}

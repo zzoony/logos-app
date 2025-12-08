@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 14:5",
+  "version": "NIV",
+  "original_text": "Herod wanted to kill John, but he was afraid of the people, because they considered John a prophet.",
+  "korean_text": "헤롯이 요한을 죽이려 하되 무리가 그를 선지자로 여기므로 그들을 두려워하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Herod wanted to kill John",
+      "korean_translation": "헤롯은 요한을 죽이고 싶어했다",
+      "word_indices": [
+        76,
+        161
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but he was afraid of the people",
+      "korean_translation": "하지만 그는 백성들을 두려워했다",
+      "word_indices": [
+        3,
+        245
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they considered John a prophet",
+      "korean_translation": "왜냐하면 그들은 요한을 예언자로 여겼기 때문이다",
+      "word_indices": [
+        70,
+        429
+      ]
+    }
+  ]
+}

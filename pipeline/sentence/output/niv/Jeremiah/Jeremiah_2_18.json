@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Jeremiah 2:18",
+  "version": "NIV",
+  "original_text": "Now why go to Egypt\n    to drink water from the Nile?\nAnd why go to Assyria\n    to drink water from the Euphrates?",
+  "korean_text": "네가 시홀의 물을 마시려고 애굽으로 가는 길에 있음은 어찌 됨이며 또 네가 그 강물을 마시려고 앗수르로 가는 길에 있음은 어찌 됨이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now why go to Egypt",
+      "korean_translation": "그런데 어째서 이집트에 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to drink water from the Nile?",
+      "korean_translation": "나일 강물을 마시려 하는가?",
+      "word_indices": [
+        46,
+        78
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And why go to Assyria",
+      "korean_translation": "그리고 어째서 아시리아에 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to drink water from the Euphrates?",
+      "korean_translation": "유프라테스 강물을 마시려 하는가?",
+      "word_indices": [
+        46,
+        78
+      ]
+    }
+  ]
+}

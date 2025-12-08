@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Genesis 17:16",
+  "version": "NIV",
+  "original_text": "I will bless her and will surely give you a son by her. I will bless her so that she will be the mother of nations; kings of peoples will come from her.”",
+  "korean_text": "내가 그에게 복을 주어 그가 네게 아들을 낳아 주게 하며 내가 그에게 복을 주어 그를 여러 민족의 어머니가 되게 하리니 민족의 여러 왕이 그에게서 나리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will bless her",
+      "korean_translation": "나는 그녀를 축복할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and will surely give you a son by her",
+      "korean_translation": "그리고 그녀를 통해 당신에게 아들을 주겠다",
+      "word_indices": [
+        2,
+        5,
+        150
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will bless her",
+      "korean_translation": "나는 그녀를 축복할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that she will be the mother of nations",
+      "korean_translation": "그녀가 여러 민족의 어머니가 되도록",
+      "word_indices": [
+        41,
+        120
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "kings of peoples will come from her",
+      "korean_translation": "여러 민족의 왕들이 그녀에게서 나올 것이다",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 140:12",
+  "version": "NIV",
+  "original_text": "I know that the Lord secures justice for the poor\n    and upholds the cause of the needy.",
+  "korean_text": "내가 알거니와 여호와는 고난 당하는 자를 변호해 주시며 궁핍한 자에게 정의를 베푸시리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that",
+      "korean_translation": "나는 알다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Lord secures justice for the poor",
+      "korean_translation": "주께서 가난한 자를 위하여 공의를 세우시며",
+      "word_indices": [
+        298,
+        417
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and upholds the cause of the needy",
+      "korean_translation": "궁핍한 자의 송사를 변호하시는 줄",
+      "word_indices": [
+        286,
+        840,
+        1295
+      ]
+    }
+  ]
+}

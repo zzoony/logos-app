@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Ezekiel 22:5",
+  "version": "NIV",
+  "original_text": "Those who are near and those who are far away will mock you, you infamous city, full of turmoil.",
+  "korean_text": "너 이름이 더럽고 어지러움이 많은 자여 가까운 자나 먼 자나 다 너를 조롱하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Those who are near",
+      "korean_translation": "가까이 있는 자들이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and those who are far away",
+      "korean_translation": "그리고 멀리 있는 자들이",
+      "word_indices": [
+        34,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will mock you",
+      "korean_translation": "너를 비웃을 것이다",
+      "word_indices": [
+        910
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you infamous city",
+      "korean_translation": "악명 높은 도시야",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "full of turmoil",
+      "korean_translation": "혼란으로 가득찬",
+      "word_indices": [
+        258,
+        2652
+      ]
+    }
+  ]
+}

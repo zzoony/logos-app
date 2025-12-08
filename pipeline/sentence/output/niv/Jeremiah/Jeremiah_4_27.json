@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Jeremiah 4:27",
+  "version": "NIV",
+  "original_text": "This is what the Lord says:\n“The whole land will be ruined,\n    though I will not destroy it completely.",
+  "korean_text": "여호와께서 이와 같이 말씀하시길 이 온 땅이 황폐할 것이나 내가 진멸하지는 아니할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says",
+      "korean_translation": "이것이 주께서 말씀하시는 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The whole land will be ruined",
+      "korean_translation": "온 땅이 황폐될 것입니다",
+      "word_indices": [
+        8,
+        99,
+        284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "though I will not destroy it completely",
+      "korean_translation": "비록 내가 그것을 완전히 파괴하지는 않을 것입니다",
+      "word_indices": [
+        69,
+        127,
+        573
+      ]
+    }
+  ]
+}

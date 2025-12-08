@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Leviticus 6:28",
+  "version": "NIV",
+  "original_text": "The clay pot the meat is cooked in must be broken; but if it is cooked in a bronze pot, the pot is to be scoured and rinsed with water.",
+  "korean_text": "그 고기를 토기에 삶았으면 그 그릇을 깨뜨릴 것이요 유기에 삶았으면 그 그릇을 닦고 물에 씻을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The clay pot the meat is cooked in",
+      "korean_translation": "고기를 요리하는 질그릇은",
+      "word_indices": [
+        574,
+        898,
+        1072,
+        1384
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must be broken",
+      "korean_translation": "부숴져야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but if it is cooked in a bronze pot",
+      "korean_translation": "하지만 만약 놋그릇에서 요리되었다면",
+      "word_indices": [
+        333,
+        898,
+        1384
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the pot is to be scoured",
+      "korean_translation": "그 그릇은 문질러 닦아야 한다",
+      "word_indices": [
+        898,
+        4943
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and rinsed with water",
+      "korean_translation": "그리고 물로 헹구어야 한다",
+      "word_indices": [
+        46
+      ]
+    }
+  ]
+}

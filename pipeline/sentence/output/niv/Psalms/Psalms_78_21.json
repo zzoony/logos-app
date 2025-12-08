@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 78:21",
+  "version": "NIV",
+  "original_text": "When the Lord heard them, he was furious;\n    his fire broke out against Jacob,\n    and his wrath rose against Israel,",
+  "korean_text": "그러므로 여호와께서 듣고 노하셨으며 야곱에게 불 같이 노하셨고 또한 이스라엘에게 진노가 불타 올랐으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the Lord heard them,",
+      "korean_translation": "주님께서 그들을 들으셨을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he was furious;",
+      "korean_translation": "그는 진노하셨으며;",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his fire broke out against Jacob,",
+      "korean_translation": "그의 불이 야곱에게 타올랐고,",
+      "word_indices": [
+        11,
+        101
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his wrath rose against Israel,",
+      "korean_translation": "그의 분노가 이스라엘을 향해 일어났다,",
+      "word_indices": [
+        11,
+        278
+      ]
+    }
+  ]
+}

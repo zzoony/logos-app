@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 7:19",
+  "version": "NIV",
+  "original_text": "Every tree that does not bear good fruit is cut down and thrown into the fire.",
+  "korean_text": "아름다운 열매를 맺지 아니하는 나무마다 찍혀 불에 던져지느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every tree",
+      "korean_translation": "모든 나무는",
+      "word_indices": [
+        164
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that does not bear good fruit",
+      "korean_translation": "좋은 열매를 맺지 않는",
+      "word_indices": [
+        56,
+        111,
+        289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is cut down",
+      "korean_translation": "베어지고",
+      "word_indices": [
+        184
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and thrown into the fire",
+      "korean_translation": "불에 던져진다",
+      "word_indices": [
+        101
+      ]
+    }
+  ]
+}

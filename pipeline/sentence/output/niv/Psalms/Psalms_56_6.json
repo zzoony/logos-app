@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 56:6",
+  "version": "NIV",
+  "original_text": "They conspire, they lurk,\n    they watch my steps,\n    hoping to take my life.",
+  "korean_text": "그들이 내 생명을 엿보았던 것과 같이 또 모여 숨어 내 발자취를 지켜보나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They conspire",
+      "korean_translation": "그들이 모의하며",
+      "word_indices": [
+        1343
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they lurk",
+      "korean_translation": "그들이 숨어 지키며",
+      "word_indices": [
+        3286
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they watch my steps",
+      "korean_translation": "그들은 내 걸음을 지켜보며",
+      "word_indices": [
+        332,
+        674
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hoping to take my life",
+      "korean_translation": "내 생명을 빼앗기를 바라며",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

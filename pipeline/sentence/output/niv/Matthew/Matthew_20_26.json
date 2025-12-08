@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 20:26",
+  "version": "NIV",
+  "original_text": "Not so with you. Instead, whoever wants to become great among you must be your servant,",
+  "korean_text": "너희 중에는 그렇지 않아야 하나니 너희 중에 누구든지 크고자 하는 자는 너희를 섬기는 자가 되고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Not so with you.",
+      "korean_translation": "너희에게는 그렇지 아니하니라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Instead, whoever wants to become great",
+      "korean_translation": "대신 누구든지 위대하게 되고자 하는 자는",
+      "word_indices": [
+        32,
+        44,
+        154,
+        161,
+        523
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "among you must be your servant,",
+      "korean_translation": "너희 중에서 종이 되어야 하느니라.",
+      "word_indices": [
+        25,
+        27
+      ]
+    }
+  ]
+}

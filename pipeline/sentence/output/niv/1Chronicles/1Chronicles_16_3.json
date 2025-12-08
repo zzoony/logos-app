@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Chronicles 16:3",
+  "version": "NIV",
+  "original_text": "Then he gave a loaf of bread, a cake of dates and a cake of raisins to each Israelite man and woman.",
+  "korean_text": "이스라엘 무리 중 남녀를 막론하고 각 사람에게 떡 한 덩이와 야자열매로 만든 과자와 건포도로 만든 과자 하나씩을 나누어 주었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he gave a loaf of bread",
+      "korean_translation": "그는 빵 한 덩어리를 주었고",
+      "word_indices": [
+        5,
+        187,
+        734
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a cake of dates",
+      "korean_translation": "대추로 만든 케이크와",
+      "word_indices": [
+        1812
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a cake of raisins",
+      "korean_translation": "건포도 케이크를",
+      "word_indices": [
+        1812,
+        2333
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to each Israelite man and woman",
+      "korean_translation": "각 이스라엘 남녀에게 주었다",
+      "word_indices": [
+        10,
+        50
+      ]
+    }
+  ]
+}

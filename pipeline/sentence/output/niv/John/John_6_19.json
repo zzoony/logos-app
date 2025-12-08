@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 6:19",
+  "version": "NIV",
+  "original_text": "When they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the water; and they were frightened.",
+  "korean_text": "제자들이 노를 저어 십여 리쯤 가다가 예수께서 바다 위로 걸어 배에 가까이 오심을 보고 두려워하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they had rowed about three or four miles",
+      "korean_translation": "그들이 세네 마일 정도 노를 저어갔을 때",
+      "word_indices": [
+        90,
+        203,
+        1462
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they saw Jesus approaching the boat",
+      "korean_translation": "그들은 예수님이 배로 다가오시는 것을 보았다",
+      "word_indices": [
+        640,
+        875
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "walking on the water",
+      "korean_translation": "물위를 걸으며",
+      "word_indices": [
+        46,
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they were frightened",
+      "korean_translation": "그들은 두려워했다",
+      "word_indices": [
+        1652
+      ]
+    }
+  ]
+}

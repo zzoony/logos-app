@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Acts 10:5",
+  "version": "NIV",
+  "original_text": "Now send men to Joppa to bring back a man named Simon who is called Peter.",
+  "korean_text": "네가 지금 사람들을 욥바에 보내어 베드로라 하는 시몬을 청하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now send men to Joppa",
+      "korean_translation": "이제 사람들을 욥바로 보내라",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to bring back a man named Simon",
+      "korean_translation": "시몬이라 하는 사람을 데려오기 위해",
+      "word_indices": [
+        10,
+        52
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is called Peter",
+      "korean_translation": "그는 베드로라고 불린다",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

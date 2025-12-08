@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 John 2:17",
+  "version": "NIV",
+  "original_text": "The world and its desires pass away, but whoever does the will of God lives forever.",
+  "korean_text": "이 세상도, 그 정욕도 지나가되 오직 하나님의 뜻을 행하는 자는 영원히 거하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The world and its desires pass away",
+      "korean_translation": "세상과 그 욕심은 사라지지만",
+      "word_indices": [
+        34,
+        190,
+        465
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but whoever does the will of God",
+      "korean_translation": "하지만 하나님의 뜻을 행하는 사람은",
+      "word_indices": [
+        1,
+        154
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lives forever",
+      "korean_translation": "영원히 살리라",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

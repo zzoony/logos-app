@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 12:18",
+  "version": "NIV",
+  "original_text": "In the first month you are to eat bread made without yeast, from the evening of the fourteenth day until the evening of the twenty-first day.",
+  "korean_text": "첫째 달 그 달 열나흗날 저녁부터 이십일일 저녁까지 너희는 무교병을 먹을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the first month",
+      "korean_translation": "첫째 달에",
+      "word_indices": [
+        189
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you are to eat bread made without yeast",
+      "korean_translation": "너희는 누룩 없는 빵을 먹어야 하니",
+      "word_indices": [
+        33,
+        187,
+        825
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the evening of the fourteenth day",
+      "korean_translation": "열넷째 날 저녁부터",
+      "word_indices": [
+        1446
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until the evening of the twenty-first day",
+      "korean_translation": "스무첫째 날 저녁까지",
+      "word_indices": [
+        220
+      ]
+    }
+  ]
+}

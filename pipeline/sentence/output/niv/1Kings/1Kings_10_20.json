@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Kings 10:20",
+  "version": "NIV",
+  "original_text": "Twelve lions stood on the six steps, one at either end of each step. Nothing like it had ever been made for any other kingdom.",
+  "korean_text": "또 열두 사자가 있어 그 여섯 층계 좌우편에 서 있으니 어느 나라에도 이같이 만든 것이 없었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Twelve lions stood on the six steps",
+      "korean_translation": "열두 마리의 사자가 여섯 계단 위에 서 있었고",
+      "word_indices": [
+        370,
+        395,
+        399,
+        674
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "one at either end of each step",
+      "korean_translation": "각 계단의 양 끝에 하나씩 있었다",
+      "word_indices": [
+        112,
+        674,
+        1067
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Nothing like it had ever been made",
+      "korean_translation": "그와 같은 것은 결코 만들어진 적이 없었다",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for any other kingdom",
+      "korean_translation": "다른 어떤 왕국을 위해서도",
+      "word_indices": [
+        109
+      ]
+    }
+  ]
+}

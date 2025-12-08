@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Proverbs 28:1",
+  "version": "NIV",
+  "original_text": "The wicked flee though no one pursues,\n    but the righteous are as bold as a lion.",
+  "korean_text": "악인은 쫓아오는 자가 없어도 도망하나 의인은 사자 같이 담대하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wicked flee",
+      "korean_translation": "악인은 도망간다",
+      "word_indices": [
+        219,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "though no one pursues",
+      "korean_translation": "아무도 쫓지 않아도",
+      "word_indices": [
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the righteous are",
+      "korean_translation": "하지만 의인은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as bold as a lion",
+      "korean_translation": "사자처럼 담대하다",
+      "word_indices": [
+        399,
+        2404
+      ]
+    }
+  ]
+}

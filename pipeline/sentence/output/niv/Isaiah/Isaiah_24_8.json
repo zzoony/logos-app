@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 24:8",
+  "version": "NIV",
+  "original_text": "The joyful timbrels are stilled,\n    the noise of the revelers has stopped,\n    the joyful harp is silent.",
+  "korean_text": "소고 치는 기쁨이 그치고 즐거워하는 자의 소리가 끊어지고 수금 타는 기쁨이 그쳤으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The joyful timbrels are stilled",
+      "korean_translation": "즐거운 소구 탬버린이 잠잠해지고",
+      "word_indices": [
+        1679,
+        1771
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the noise of the revelers has stopped",
+      "korean_translation": "연회하는 자들의 소리가 그치고",
+      "word_indices": [
+        1623,
+        4042
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the joyful harp is silent",
+      "korean_translation": "즐거운 수금이 잠잠해졌다",
+      "word_indices": [
+        831,
+        949,
+        1679
+      ]
+    }
+  ]
+}

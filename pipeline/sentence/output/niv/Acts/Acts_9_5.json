@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 9:5",
+  "version": "NIV",
+  "original_text": "“Who are you, Lord?” Saul asked.\n“I am Jesus, whom you are persecuting,” he replied.",
+  "korean_text": "대답하되 주여 누구시니이까 이르시되 나는 네가 박해하는 예수라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who are you, Lord?",
+      "korean_translation": "당신은 누구십니까, 주님?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Saul asked.",
+      "korean_translation": "사울이 물었습니다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am Jesus",
+      "korean_translation": "나는 예수입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whom you are persecuting",
+      "korean_translation": "당신이 핍박하는 분",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he replied.",
+      "korean_translation": "그가 대답했습니다.",
+      "word_indices": []
+    }
+  ]
+}

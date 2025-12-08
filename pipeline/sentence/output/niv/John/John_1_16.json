@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 1:16",
+  "version": "NIV",
+  "original_text": "Out of his fullness we have all received grace in place of grace already given.",
+  "korean_text": "우리가 다 그의 충만한 데서 받으니 은혜 위에 은혜러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Out of his fullness",
+      "korean_translation": "그의 충만함으로부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we have all received grace",
+      "korean_translation": "우리는 모두 은혜를 받았다",
+      "word_indices": [
+        428
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in place of grace already given",
+      "korean_translation": "이미 주어진 은혜를 대신하여",
+      "word_indices": [
+        5,
+        18,
+        428
+      ]
+    }
+  ]
+}

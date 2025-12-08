@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Genesis 4:10",
+  "version": "NIV",
+  "original_text": "The Lord said, “What have you done? Listen! Your brother’s blood cries out to me from the ground.",
+  "korean_text": "이르시되 네가 무엇을 하였느냐 네 아우의 핏소리가 땅에서부터 내게 호소하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said,",
+      "korean_translation": "주께서 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What have you done?",
+      "korean_translation": "네가 무엇을 하였느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Listen!",
+      "korean_translation": "들으라!",
+      "word_indices": [
+        86
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Your brother's blood cries out to me",
+      "korean_translation": "네 아우의 피가 내게 호소하고",
+      "word_indices": [
+        53,
+        94,
+        152
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from the ground.",
+      "korean_translation": "땅에서부터 호소하고 있다.",
+      "word_indices": [
+        3251
+      ]
+    }
+  ]
+}

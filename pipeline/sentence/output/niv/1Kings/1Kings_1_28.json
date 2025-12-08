@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Kings 1:28",
+  "version": "NIV",
+  "original_text": "Then King David said, “Call in Bathsheba.” So she came into the king’s presence and stood before him.",
+  "korean_text": "다윗 왕이 명령하여 이르되 밧세바를 내 앞으로 부르라 하매 그가 왕의 앞으로 들어가 그 앞에 서는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then King David said",
+      "korean_translation": "그때 다윗 왕이 말했다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Call in Bathsheba",
+      "korean_translation": "밧세바를 부르라",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So she came into the king's presence",
+      "korean_translation": "그래서 그녀가 왕 앞으로 와서",
+      "word_indices": [
+        4,
+        257
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and stood before him",
+      "korean_translation": "그의 앞에 섰다",
+      "word_indices": []
+    }
+  ]
+}

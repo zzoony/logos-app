@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 30:3",
+  "version": "NIV",
+  "original_text": "You, Lord, brought me up from the realm of the dead;\n    you spared me from going down to the pit.",
+  "korean_text": "여호와여 주께서 내 영혼을 스올에서 끌어내어 나를 살리사 무덤으로 내려가지 아니하게 하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You, Lord, brought me up",
+      "korean_translation": "주님, 당신이 나를 이끌어 올리셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the realm of the dead",
+      "korean_translation": "죽은 자의 영역에서",
+      "word_indices": [
+        115,
+        919
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you spared me",
+      "korean_translation": "당신이 나를 건지셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from going down to the pit",
+      "korean_translation": "구덩이로 내려가는 것에서",
+      "word_indices": [
+        705
+      ]
+    }
+  ]
+}

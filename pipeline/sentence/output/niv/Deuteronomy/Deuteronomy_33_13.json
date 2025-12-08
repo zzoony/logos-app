@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Deuteronomy 33:13",
+  "version": "NIV",
+  "original_text": "About Joseph he said:\n“May the Lord bless his land\n    with the precious dew from heaven above\n    and with the deep waters that lie below;",
+  "korean_text": "요셉에 대하여는 일렀으되 원하건대 그 땅이 여호와께 복을 받아 하늘의 보물인 이슬과 땅 아래에 저장한 물과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "About Joseph he said:",
+      "korean_translation": "요셉에 관하여 그가 말하기를:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "May the Lord bless his land",
+      "korean_translation": "주께서 그의 땅을 복 주시기를",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the precious dew from heaven above",
+      "korean_translation": "위로 하늘의 귀한 이슬로",
+      "word_indices": [
+        57,
+        1142
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and with the deep waters that lie below;",
+      "korean_translation": "그리고 아래에 있는 깊은 물로",
+      "word_indices": [
+        46,
+        142,
+        499
+      ]
+    }
+  ]
+}

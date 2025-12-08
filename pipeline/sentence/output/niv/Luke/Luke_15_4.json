@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Luke 15:4",
+  "version": "NIV",
+  "original_text": "“Suppose one of you has a hundred sheep and loses one of them. Doesn’t he leave the ninety-nine in the open country and go after the lost sheep until he finds it?",
+  "korean_text": "너희 중에 어떤 사람이 양 백 마리가 있는데 그 중의 하나를 잃으면 아흔아홉 마리를 들에 두고 그 잃은 것을 찾아내기까지 찾아다니지 아니하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Suppose one of you has a hundred sheep",
+      "korean_translation": "너희 중에 한 사람이 양 백 마리를 가지고 있다고 가정해 보라",
+      "word_indices": [
+        251,
+        1394
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and loses one of them",
+      "korean_translation": "그중 한 마리를 잃어버렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Doesn't he leave the ninety-nine in the open country",
+      "korean_translation": "그는 아흔아홉 마리를 들에 두고",
+      "word_indices": [
+        30,
+        160,
+        167,
+        1229,
+        2115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and go after the lost sheep",
+      "korean_translation": "잃어버린 양을 찾아가지 않겠느냐",
+      "word_indices": [
+        251
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until he finds it",
+      "korean_translation": "그것을 찾을 때까지",
+      "word_indices": [
+        55
+      ]
+    }
+  ]
+}

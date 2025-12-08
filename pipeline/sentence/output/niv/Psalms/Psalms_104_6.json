@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 104:6",
+  "version": "NIV",
+  "original_text": "You covered it with the watery depths as with a garment;\n    the waters stood above the mountains.",
+  "korean_text": "옷으로 덮음 같이 주께서 땅을 깊은 바다로 덮으시매 물이 산들 위로 솟아올랐으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You covered it with the watery depths",
+      "korean_translation": "당신은 깊은 물로 그것을 덮으셨습니다",
+      "word_indices": [
+        200,
+        986,
+        3631
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as with a garment",
+      "korean_translation": "옷을 입히듯이",
+      "word_indices": [
+        445
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the waters stood above the mountains",
+      "korean_translation": "물들이 산들 위에 서 있었습니다",
+      "word_indices": [
+        46,
+        147
+      ]
+    }
+  ]
+}

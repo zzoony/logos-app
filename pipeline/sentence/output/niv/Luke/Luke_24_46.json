@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 24:46",
+  "version": "NIV",
+  "original_text": "He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day,",
+  "korean_text": "또 이르시되 이같이 그리스도가 고난을 받고 제삼일에 죽은 자 가운데서 살아날 것과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He told them,",
+      "korean_translation": "그가 그들에게 말했다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"This is what is written:",
+      "korean_translation": "기록된 것이 바로 이것이다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Messiah will suffer",
+      "korean_translation": "메시아는 고난받을 것이고",
+      "word_indices": [
+        376,
+        717
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and rise from the dead",
+      "korean_translation": "죽은 자들 가운데서 일어날 것이다",
+      "word_indices": [
+        115,
+        199
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the third day,\"",
+      "korean_translation": "사흗날에\"",
+      "word_indices": [
+        280
+      ]
+    }
+  ]
+}

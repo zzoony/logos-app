@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 7:1",
+  "version": "NIV",
+  "original_text": "Lord my God, I take refuge in you;\n    save and deliver me from all who pursue me,",
+  "korean_text": "여호와 내 하나님이여 내가 주께 피하오니 나를 쫓아오는 모든 자들에게서 나를 구원하여 내소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord my God",
+      "korean_translation": "주 나의 하나님이시여",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I take refuge in you",
+      "korean_translation": "내가 주께 피하나이다",
+      "word_indices": [
+        566
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "save and deliver me",
+      "korean_translation": "나를 구원하고 건지소서",
+      "word_indices": [
+        139,
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from all who pursue me",
+      "korean_translation": "나를 쫓는 모든 자에게서",
+      "word_indices": [
+        459
+      ]
+    }
+  ]
+}

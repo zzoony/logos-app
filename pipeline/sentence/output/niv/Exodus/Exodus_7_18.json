@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 7:18",
+  "version": "NIV",
+  "original_text": "The fish in the Nile will die, and the river will stink; the Egyptians will not be able to drink its water.’”",
+  "korean_text": "나일 강의 고기가 죽고 그 물에서는 악취가 나리니 애굽 사람들이 그 강 물 마시기를 싫어하리라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The fish in the Nile will die",
+      "korean_translation": "나일 강의 물고기들이 죽을 것이며",
+      "word_indices": [
+        58,
+        727
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the river will stink",
+      "korean_translation": "강은 악취를 풍길 것입니다",
+      "word_indices": [
+        392,
+        3401
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Egyptians will not be able to drink its water",
+      "korean_translation": "이집트 사람들은 그 물을 마실 수 없게 될 것입니다",
+      "word_indices": [
+        46,
+        78,
+        363
+      ]
+    }
+  ]
+}

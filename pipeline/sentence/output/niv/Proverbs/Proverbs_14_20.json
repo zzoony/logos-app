@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Proverbs 14:20",
+  "version": "NIV",
+  "original_text": "The poor are shunned even by their neighbors,\n    but the rich have many friends.",
+  "korean_text": "가난한 자는 이웃에게도 미움을 받게 되나 부요한 자는 친구가 많으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The poor are shunned",
+      "korean_translation": "가난한 자들은 버림받고",
+      "word_indices": [
+        298
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even by their neighbors",
+      "korean_translation": "심지어 이웃에게도",
+      "word_indices": [
+        356
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the rich have many friends",
+      "korean_translation": "부자는 많은 친구가 있다",
+      "word_indices": [
+        335,
+        371
+      ]
+    }
+  ]
+}

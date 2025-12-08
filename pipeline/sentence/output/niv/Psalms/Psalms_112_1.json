@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 112:1",
+  "version": "NIV",
+  "original_text": "Praise the Lord.\nBlessed are those who fear the Lord,\n    who find great delight in his commands.",
+  "korean_text": "할렐루야, 여호와를 경외하며 그의 계명을 크게 즐거워하는 자는 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise the Lord.",
+      "korean_translation": "주를 찬양하라.",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Blessed are those who fear the Lord,",
+      "korean_translation": "주를 두려워하는 자는 복이 있으니",
+      "word_indices": [
+        97,
+        133
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who find great delight in his commands.",
+      "korean_translation": "그의 계명을 크게 즐거워하는 자들이다.",
+      "word_indices": [
+        44,
+        48,
+        55,
+        527
+      ]
+    }
+  ]
+}

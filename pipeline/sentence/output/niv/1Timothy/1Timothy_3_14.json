@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Timothy 3:14",
+  "version": "NIV",
+  "original_text": "Although I hope to come to you soon, I am writing you these instructions so that,",
+  "korean_text": "내가 속히 네게 가기를 바라나 이것을 네게 쓰는 것은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Although I hope to come to you soon",
+      "korean_translation": "내가 곧 너희에게 가기를 바라지만",
+      "word_indices": [
+        294,
+        502,
+        784
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am writing you these instructions",
+      "korean_translation": "나는 너희에게 이 교훈들을 쓰고 있으며",
+      "word_indices": [
+        631
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that",
+      "korean_translation": "그래서",
+      "word_indices": []
+    }
+  ]
+}

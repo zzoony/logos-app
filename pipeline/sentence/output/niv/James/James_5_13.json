@@ -1,0 +1,45 @@
+{
+  "verse_reference": "James 5:13",
+  "version": "NIV",
+  "original_text": "Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise.",
+  "korean_text": "너희 중에 고난 당하는 자가 있느냐 그는 기도할 것이요 즐거워하는 자가 있느냐 그는 찬송할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is anyone among you in trouble?",
+      "korean_translation": "너희 중에 고난당하는 자가 있느냐?",
+      "word_indices": [
+        27,
+        68,
+        304
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let them pray.",
+      "korean_translation": "그는 기도할지니라.",
+      "word_indices": [
+        212
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Is anyone happy?",
+      "korean_translation": "기쁜 자가 있느냐?",
+      "word_indices": [
+        68,
+        1495
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Let them sing songs of praise.",
+      "korean_translation": "그는 찬송할지니라.",
+      "word_indices": [
+        88,
+        337,
+        653
+      ]
+    }
+  ]
+}

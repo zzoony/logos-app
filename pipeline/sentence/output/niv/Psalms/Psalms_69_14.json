@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 69:14",
+  "version": "NIV",
+  "original_text": "Rescue me from the mire,\n    do not let me sink;\ndeliver me from those who hate me,\n    from the deep waters.",
+  "korean_text": "나를 수렁에서 건지사 빠지지 말게 하시고 나를 미워하는 자에게서와 깊은 물에서 건지소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Rescue me from the mire",
+      "korean_translation": "나를 진흙에서 건져 주소서",
+      "word_indices": [
+        398,
+        3617
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not let me sink",
+      "korean_translation": "내가 가라앉지 않게 하소서",
+      "word_indices": [
+        1390
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "deliver me from those who hate me",
+      "korean_translation": "나를 미워하는 자들에게서 구하소서",
+      "word_indices": [
+        233,
+        520
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the deep waters",
+      "korean_translation": "깊은 물에서 건져 주소서",
+      "word_indices": [
+        46,
+        499
+      ]
+    }
+  ]
+}

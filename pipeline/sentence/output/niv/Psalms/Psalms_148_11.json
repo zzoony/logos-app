@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 148:11",
+  "version": "NIV",
+  "original_text": "kings of the earth and all nations,\n    you princes and all rulers on earth,",
+  "korean_text": "세상의 왕들과 모든 백성들과 고관들과 땅의 모든 재판관들이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "kings of the earth",
+      "korean_translation": "땅의 왕들",
+      "word_indices": [
+        4,
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all nations",
+      "korean_translation": "과 모든 민족들아",
+      "word_indices": [
+        41
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you princes",
+      "korean_translation": "너희 방백들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all rulers on earth",
+      "korean_translation": "과 땅의 모든 통치자들아",
+      "word_indices": [
+        40,
+        297
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Chronicles 2:17",
+  "version": "NIV",
+  "original_text": "Abigail was the mother of Amasa, whose father was Jether the Ishmaelite.",
+  "korean_text": "아비가일은 아마사를 낳았으니 아마사의 아버지는 이스마엘 사람 예델이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abigail was the mother of Amasa",
+      "korean_translation": "아비가일은 아마사의 어머니였습니다",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose father was Jether",
+      "korean_translation": "그의 아버지는 에셀이었습니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Ishmaelite",
+      "korean_translation": "이스마엘 사람이었습니다",
+      "word_indices": []
+    }
+  ]
+}

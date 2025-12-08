@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Joel 2:12",
+  "version": "NIV",
+  "original_text": "“Even now,” declares the Lord,\n    “return to me with all your heart,\n    with fasting and weeping and mourning.”",
+  "korean_text": "여호와의 말씀에 너희는 이제라도 금식하고 울며 애통하고 마음을 다하여 내게로 돌아오라 하셨나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"Even now,\" declares the Lord,",
+      "korean_translation": "\"지금도\", 주께서 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "return to me with all your heart,",
+      "korean_translation": "너희 마음을 다하여 내게로 돌아오라,",
+      "word_indices": [
+        36,
+        89
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with fasting and weeping and mourning.\"",
+      "korean_translation": "금식과 울음과 애통으로 하면서.\"",
+      "word_indices": [
+        339,
+        405,
+        592
+      ]
+    }
+  ]
+}

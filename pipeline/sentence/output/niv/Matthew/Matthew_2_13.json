@@ -1,0 +1,93 @@
+{
+  "verse_reference": "Matthew 2:13",
+  "version": "NIV",
+  "original_text": "When they had gone, an angel of the Lord appeared to Joseph in a dream. “Get up,” he said, “take the child and his mother and escape to Egypt. Stay there until I tell you, for Herod is going to search for the child to kill him.”",
+  "korean_text": "그들이 떠난 후에 주의 사자가 요셉에게 현몽하여 이르되 헤롯이 아기를 찾아 죽이려 하니 일어나 아기와 그의 어머니를 데리고 애굽으로 피하여 내가 네게 이르기까지 거기 있으라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they had gone",
+      "korean_translation": "그들이 떠났을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "an angel of the Lord appeared",
+      "korean_translation": "주의 천사가 나타났다",
+      "word_indices": [
+        153,
+        293
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Joseph in a dream",
+      "korean_translation": "꿈에 요셉에게",
+      "word_indices": [
+        508
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Get up",
+      "korean_translation": "일어나라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "take the child and his mother",
+      "korean_translation": "아이와 그의 어머니를 데리고",
+      "word_indices": [
+        54,
+        120
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and escape to Egypt",
+      "korean_translation": "이집트로 피하라",
+      "word_indices": [
+        470
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Stay there",
+      "korean_translation": "그곳에 머물러라",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "until I tell you",
+      "korean_translation": "내가 너에게 말할 때까지",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "for Herod is going to search",
+      "korean_translation": "헤롯이 찾으러 갈 것이기 때문이다",
+      "word_indices": [
+        609
+      ]
+    },
+    {
+      "sequence_order": 11,
+      "original_text": "for the child to kill him",
+      "korean_translation": "아이를 죽이기 위해",
+      "word_indices": [
+        54,
+        76
+      ]
+    }
+  ]
+}

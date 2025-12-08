@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 102:7",
+  "version": "NIV",
+  "original_text": "I lie awake; I have become\n    like a bird alone on a roof.",
+  "korean_text": "내가 밤을 새우니 지붕 위의 외로운 참새 같으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I lie awake",
+      "korean_translation": "나는 깨어있다",
+      "word_indices": [
+        142,
+        1111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have become",
+      "korean_translation": "나는 되었다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like a bird alone on a roof",
+      "korean_translation": "지붕 위의 외로운 새 같이",
+      "word_indices": [
+        7,
+        386,
+        480,
+        907
+      ]
+    }
+  ]
+}

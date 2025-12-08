@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Samuel 9:23",
+  "version": "NIV",
+  "original_text": "Samuel said to the cook, “Bring the piece of meat I gave you, the one I told you to lay aside.”",
+  "korean_text": "사무엘이 요리인에게 이르되 내가 네게 주며 네게 두라고 말한 그 부분을 가져오라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Samuel said to the cook",
+      "korean_translation": "사무엘이 요리사에게 말했다",
+      "word_indices": [
+        1384
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Bring the piece of meat",
+      "korean_translation": "그 고기 조각을 가져오라",
+      "word_indices": [
+        374,
+        574
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I gave you",
+      "korean_translation": "내가 너에게 준",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the one I told you",
+      "korean_translation": "내가 너에게 말한 그것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to lay aside",
+      "korean_translation": "따로 두라고",
+      "word_indices": [
+        148,
+        706
+      ]
+    }
+  ]
+}

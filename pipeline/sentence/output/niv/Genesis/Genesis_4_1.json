@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Genesis 4:1",
+  "version": "NIV",
+  "original_text": "Adam made love to his wife Eve, and she became pregnant and gave birth to Cain. She said, “With the help of the Lord I have brought forth a man.”",
+  "korean_text": "아담이 그의 아내 하와와 동침하매 하와가 임신하여 가인을 낳고 이르되 내가 여호와로 말미암아 득남하였다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Adam made love to his wife Eve",
+      "korean_translation": "아담이 그의 아내 이브와 동침하여",
+      "word_indices": [
+        38,
+        79
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and she became pregnant",
+      "korean_translation": "그리고 그녀는 임신했으며",
+      "word_indices": [
+        1063
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and gave birth to Cain",
+      "korean_translation": "가인을 낳았다",
+      "word_indices": [
+        5,
+        387
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "She said",
+      "korean_translation": "그녀가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "With the help of the Lord",
+      "korean_translation": "주님의 도움으로",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I have brought forth a man",
+      "korean_translation": "내가 한 남자를 낳았노라",
+      "word_indices": [
+        10,
+        808
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Psalms 28:1",
+  "version": "NIV",
+  "original_text": "To you, Lord, I call;\n    you are my Rock,\n    do not turn a deaf ear to me.\nFor if you remain silent,\n    I will be like those who go down to the pit.",
+  "korean_text": "여호와여 내가 주께 부르짖으오니 나의 반석이여 내게 귀를 막지 마소서 주께서 내게 잠잠하시면 내가 무덤에 내려가는 자와 같을까 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To you, Lord, I call",
+      "korean_translation": "주님, 제가 당신을 부릅니다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you are my Rock",
+      "korean_translation": "당신은 저의 반석이십니다",
+      "word_indices": [
+        369
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do not turn a deaf ear to me",
+      "korean_translation": "저에게 귀를 막지 마소서",
+      "word_indices": [
+        49,
+        383,
+        1657
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "For if you remain silent",
+      "korean_translation": "왜냐하면 당신이 침묵하시면",
+      "word_indices": [
+        210,
+        831
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will be like those who go down to the pit",
+      "korean_translation": "저는 구렁으로 내려가는 자들과 같게 될 것입니다",
+      "word_indices": [
+        7,
+        705
+      ]
+    }
+  ]
+}

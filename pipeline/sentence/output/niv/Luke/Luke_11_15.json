@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 11:15",
+  "version": "NIV",
+  "original_text": "But some of them said, “By Beelzebul, the prince of demons, he is driving out demons.”",
+  "korean_text": "그 중에 더러는 말하기를 그가 귀신의 왕 바알세불을 힘입어 귀신을 쫓아낸다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But some of them said",
+      "korean_translation": "그러나 그들 중 어떤 사람들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "By Beelzebul",
+      "korean_translation": "바알세불을 힘입어",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the prince of demons",
+      "korean_translation": "귀신의 왕으로",
+      "word_indices": [
+        486,
+        659
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he is driving out demons",
+      "korean_translation": "그가 귀신을 쫓아내고 있다",
+      "word_indices": [
+        659
+      ]
+    }
+  ]
+}

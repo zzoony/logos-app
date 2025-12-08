@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 17:4",
+  "version": "NIV",
+  "original_text": "Even if they sin against you seven times in a day and seven times come back to you saying ‘I repent,’ you must forgive them.”",
+  "korean_text": "만일 하루에 일곱 번이라도 네게 죄를 짓고 일곱 번 네게 돌아와 내가 회개하노라 하거든 너는 용서하라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even if they sin against you seven times in a day",
+      "korean_translation": "그들이 하루에 일곱 번이라도 너에게 죄를 짓더라도",
+      "word_indices": [
+        11,
+        24,
+        96
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and seven times come back to you",
+      "korean_translation": "그리고 일곱 번 너에게 돌아와",
+      "word_indices": [
+        52,
+        96
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying 'I repent,'",
+      "korean_translation": "'내가 회개한다'고 말하며",
+      "word_indices": [
+        849
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you must forgive them.",
+      "korean_translation": "너는 그들을 용서해야 한다.",
+      "word_indices": [
+        384
+      ]
+    }
+  ]
+}

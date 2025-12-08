@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Isaiah 6:1",
+  "version": "NIV",
+  "original_text": "In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.",
+  "korean_text": "웃시야 왕이 죽던 해에 내가 본즉 주께서 높이 들린 보좌에 앉으셨는데 그의 옷자락은 성전에 가득하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the year that King Uzziah died",
+      "korean_translation": "웃시야 왕이 죽던 해에",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I saw the Lord",
+      "korean_translation": "내가 주를 보았으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "high and exalted",
+      "korean_translation": "높이 들려 계시고",
+      "word_indices": [
+        105,
+        535
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "seated on a throne",
+      "korean_translation": "보좌에 앉으셨으며",
+      "word_indices": [
+        282,
+        774
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the train of his robe filled the temple",
+      "korean_translation": "그의 옷자락이 성전을 가득 채웠더라",
+      "word_indices": [
+        43,
+        188,
+        533,
+        1447
+      ]
+    }
+  ]
+}

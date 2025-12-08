@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Luke 11:29",
+  "version": "NIV",
+  "original_text": "As the crowds increased, Jesus said, “This is a wicked generation. It asks for a sign, but none will be given it except the sign of Jonah.",
+  "korean_text": "무리가 모였을 때에 예수께서 말씀하시되 이 세대는 악한 세대라 표적을 구하되 요나의 표적 밖에는 보일 표적이 없나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As the crowds increased",
+      "korean_translation": "무리가 불어나자",
+      "word_indices": [
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said",
+      "korean_translation": "예수께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This is a wicked generation",
+      "korean_translation": "이 세대는 악한 세대다",
+      "word_indices": [
+        324,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It asks for a sign",
+      "korean_translation": "그것은 표적을 요구한다",
+      "word_indices": [
+        31,
+        314
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but none will be given it",
+      "korean_translation": "그러나 아무것도 주어지지 않을 것이다",
+      "word_indices": [
+        5,
+        497
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "except the sign of Jonah",
+      "korean_translation": "요나의 표적 외에는",
+      "word_indices": [
+        314,
+        565
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 5:29",
+  "version": "NIV",
+  "original_text": "and come out—those who have done what is good will rise to live, and those who have done what is evil will rise to be condemned.",
+  "korean_text": "선한 일을 행한 자는 생명의 부활로, 악한 일을 행한 자는 심판의 부활로 나오리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and come out",
+      "korean_translation": "그리고 나오리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "those who have done what is good",
+      "korean_translation": "선한 일을 행한 자들은",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will rise to live",
+      "korean_translation": "살아나는 부활로 나올 것이요",
+      "word_indices": [
+        14,
+        199
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and those who have done what is evil",
+      "korean_translation": "악한 일을 행한 자들은",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will rise to be condemned",
+      "korean_translation": "심판을 받는 부활로 나오리라",
+      "word_indices": [
+        199,
+        716
+      ]
+    }
+  ]
+}

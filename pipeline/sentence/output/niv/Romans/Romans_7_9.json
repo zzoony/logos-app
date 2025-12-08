@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Romans 7:9",
+  "version": "NIV",
+  "original_text": "Once I was alive apart from the law; but when the commandment came, sin sprang to life and I died.",
+  "korean_text": "전에 율법을 깨닫지 못했을 때에는 내가 살았더니 계명이 이르매 죄는 살아나고 나는 죽었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Once I was alive apart from the law",
+      "korean_translation": "내가 율법 없이 한 때 살아 있었으나",
+      "word_indices": [
+        42,
+        588,
+        817
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but when the commandment came",
+      "korean_translation": "계명이 이르렀을 때에",
+      "word_indices": [
+        1211
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "sin sprang to life",
+      "korean_translation": "죄가 살아났고",
+      "word_indices": [
+        24,
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I died",
+      "korean_translation": "나는 죽었도다",
+      "word_indices": []
+    }
+  ]
+}

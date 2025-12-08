@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Exodus 8:16",
+  "version": "NIV",
+  "original_text": "Then the Lord said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the ground,’ and throughout the land of Egypt the dust will become gnats.”",
+  "korean_text": "여호와께서 모세에게 이르시되 아론에게 명령하기를 네 지팡이를 들어 땅의 티끌을 치라 하라 그것이 애굽 온 땅에서 이가 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses,",
+      "korean_translation": "그때 주께서 모세에게 말씀하셨습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tell Aaron,",
+      "korean_translation": "아론에게 전하라,",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Stretch out your staff",
+      "korean_translation": "네 지팡이를 뻗으라",
+      "word_indices": [
+        615,
+        677
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and strike the dust of the ground,",
+      "korean_translation": "그리고 땅의 먼지를 치라",
+      "word_indices": [
+        206,
+        490,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and throughout the land of Egypt",
+      "korean_translation": "그러면 애굽 온 땅에",
+      "word_indices": [
+        8,
+        394
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the dust will become gnats.",
+      "korean_translation": "먼지가 이가 될 것이다.",
+      "word_indices": [
+        32,
+        490,
+        2746
+      ]
+    }
+  ]
+}

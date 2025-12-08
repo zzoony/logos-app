@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 21:28",
+  "version": "NIV",
+  "original_text": "“If a bull gores a man or woman to death, the bull is to be stoned to death, and its meat must not be eaten. But the owner of the bull will not be held responsible.",
+  "korean_text": "소가 남자나 여자를 받아서 죽이면 그 소는 반드시 돌로 쳐서 죽일 것이요 그 고기는 먹지 말 것이며 임자는 형벌을 면하려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a bull gores a man or woman to death",
+      "korean_translation": "만약 소가 남자나 여자를 받아 죽게 하면",
+      "word_indices": [
+        10,
+        50,
+        80,
+        309
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the bull is to be stoned to death",
+      "korean_translation": "그 소는 돌로 쳐서 죽여야 하고",
+      "word_indices": [
+        80,
+        309
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and its meat must not be eaten",
+      "korean_translation": "그 고기는 먹지 말아야 한다",
+      "word_indices": [
+        574
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But the owner of the bull will not be held responsible",
+      "korean_translation": "하지만 소의 주인은 책임지지 않을 것이다",
+      "word_indices": [
+        309,
+        934,
+        1005
+      ]
+    }
+  ]
+}

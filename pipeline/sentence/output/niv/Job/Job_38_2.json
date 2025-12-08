@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Job 38:2",
+  "version": "NIV",
+  "original_text": "“Who is this that obscures my plans\n    with words without knowledge?",
+  "korean_text": "무지한 말로 생각을 어둡게 하는 자가 누구냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who is this",
+      "korean_translation": "이 사람은 누구인가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that obscures my plans",
+      "korean_translation": "나의 계획을 가로막는",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with words without knowledge",
+      "korean_translation": "지식 없는 말로",
+      "word_indices": [
+        19,
+        407
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Numbers 23:11",
+  "version": "NIV",
+  "original_text": "Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, but you have done nothing but bless them!”",
+  "korean_text": "발락이 발람에게 이르되 그대가 어찌 내게 이같이 행하느냐 나의 원수를 저주하라고 그대를 데려왔거늘 그대가 오히려 축복하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Balak said to Balaam",
+      "korean_translation": "발락이 발라암에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What have you done to me?",
+      "korean_translation": "당신이 내게 무엇을 했습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I brought you to curse my enemies",
+      "korean_translation": "내가 당신을 내 원수들을 저주하게 하려고 데려왔는데",
+      "word_indices": [
+        100,
+        255
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but you have done nothing but bless them!",
+      "korean_translation": "당신은 그들을 축복하는 것 외에는 아무것도 하지 않았습니다!",
+      "word_indices": []
+    }
+  ]
+}

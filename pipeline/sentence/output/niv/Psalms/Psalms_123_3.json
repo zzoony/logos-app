@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 123:3",
+  "version": "NIV",
+  "original_text": "Have mercy on us, Lord, have mercy on us,\n    for we have endured no end of contempt.",
+  "korean_text": "여호와여 우리에게 은혜를 베푸시고 또 은혜를 베푸소서 심한 멸시가 우리에게 넘치나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Have mercy on us",
+      "korean_translation": "우리에게 긍휼을 베푸소서",
+      "word_indices": [
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "have mercy on us",
+      "korean_translation": "우리에게 긍휼을 베푸소서",
+      "word_indices": [
+        413
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for we have endured",
+      "korean_translation": "이는 우리가 견디어 왔기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "no end of contempt",
+      "korean_translation": "끝없는 멸시를",
+      "word_indices": [
+        112,
+        1127
+      ]
+    }
+  ]
+}

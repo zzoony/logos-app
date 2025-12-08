@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 17:26",
+  "version": "NIV",
+  "original_text": "“Just as it was in the days of Noah, so also will it be in the days of the Son of Man.",
+  "korean_text": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Just as it was in the days of Noah",
+      "korean_translation": "노아의 날들에 있었던 것처럼",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so also will it be",
+      "korean_translation": "그렇게 될 것이다",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the days of the Son of Man",
+      "korean_translation": "인자의 날들에도",
+      "word_indices": [
+        2,
+        10
+      ]
+    }
+  ]
+}

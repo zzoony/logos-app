@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Mark 4:4",
+  "version": "NIV",
+  "original_text": "As he was scattering the seed, some fell along the path, and the birds came and ate it up.",
+  "korean_text": "뿌릴새 더러는 길 가에 떨어지매 새들이 와서 먹어 버렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As he was scattering the seed",
+      "korean_translation": "그가 씨를 뿌릴 때에",
+      "word_indices": [
+        396
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some fell along the path",
+      "korean_translation": "어떤 씨는 길가에 떨어지고",
+      "word_indices": [
+        290,
+        516
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the birds came",
+      "korean_translation": "새들이 와서",
+      "word_indices": [
+        386
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ate it up",
+      "korean_translation": "그것을 먹어 버렸다",
+      "word_indices": []
+    }
+  ]
+}

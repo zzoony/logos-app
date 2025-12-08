@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 15:2",
+  "version": "NIV",
+  "original_text": "“Are you the king of the Jews?” asked Pilate.\n“You have said so,” Jesus replied.",
+  "korean_text": "빌라도가 묻되 네가 유대인의 왕이냐 예수께서 대답하여 이르시되 네 말이 옳도다 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Are you the king of the Jews?",
+      "korean_translation": "네가 유대인의 왕이냐?",
+      "word_indices": [
+        4,
+        209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "asked Pilate.",
+      "korean_translation": "빌라도가 물었다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You have said so,",
+      "korean_translation": "네가 그렇게 말했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus replied.",
+      "korean_translation": "예수께서 대답하셨다.",
+      "word_indices": []
+    }
+  ]
+}

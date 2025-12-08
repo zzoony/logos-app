@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Timothy 2:20",
+  "version": "NIV",
+  "original_text": "In a large house there are articles not only of gold and silver, but also of wood and clay; some are for special purposes and some for common use.",
+  "korean_text": "큰 집에는 금 그릇과 은 그릇뿐 아니라 나무 그릇과 질그릇도 있어 귀하게 쓰는 것도 있고 천하게 쓰는 것도 있나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In a large house there are articles",
+      "korean_translation": "큰 집에는 기물들이 있습니다",
+      "word_indices": [
+        26,
+        346
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "not only of gold and silver",
+      "korean_translation": "금과 은으로 만든 것뿐만 아니라",
+      "word_indices": [
+        75,
+        124
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but also of wood and clay",
+      "korean_translation": "나무와 진흙으로 만든 것도 있습니다",
+      "word_indices": [
+        28,
+        431,
+        1072
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "some are for special purposes",
+      "korean_translation": "어떤 것들은 특별한 용도를 위해 있고",
+      "word_indices": [
+        1051
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and some for common use",
+      "korean_translation": "어떤 것들은 일반적인 용도를 위해 있습니다",
+      "word_indices": [
+        213,
+        1381
+      ]
+    }
+  ]
+}

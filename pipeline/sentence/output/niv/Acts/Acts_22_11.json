@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 22:11",
+  "version": "NIV",
+  "original_text": "My companions led me by the hand into Damascus, because the brilliance of the light had blinded me.",
+  "korean_text": "나는 그 빛의 광채로 말미암아 볼 수 없게 되었으므로 나와 함께 있는 사람들의 손에 끌려 다메섹에 들어갔노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My companions led me by the hand",
+      "korean_translation": "나의 동료들이 손을 잡고 나를 인도했다",
+      "word_indices": [
+        9,
+        1108
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into Damascus",
+      "korean_translation": "다메섹으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because the brilliance of the light",
+      "korean_translation": "빛의 눈부심 때문에",
+      "word_indices": [
+        205,
+        4125
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "had blinded me",
+      "korean_translation": "나를 눈멀게 했기 때문이다",
+      "word_indices": [
+        606
+      ]
+    }
+  ]
+}

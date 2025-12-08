@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 14:19",
+  "version": "NIV",
+  "original_text": "Before long, the world will not see me anymore, but you will see me. Because I live, you also will live.",
+  "korean_text": "조금 있으면 세상은 다시 나를 보지 못할 것이로되 너희는 나를 보리니 이는 내가 살아 있고 너희도 살아 있겠음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Before long",
+      "korean_translation": "곧",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the world will not see me anymore",
+      "korean_translation": "세상은 더 이상 나를 보지 못할 것이지만",
+      "word_indices": [
+        190,
+        1510
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but you will see me",
+      "korean_translation": "너희는 나를 볼 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Because I live",
+      "korean_translation": "내가 사는 까닭은",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you also will live",
+      "korean_translation": "너희도 살 것임이라",
+      "word_indices": [
+        14,
+        28
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 69:17",
+  "version": "NIV",
+  "original_text": "Do not hide your face from your servant;\n    answer me quickly, for I am in trouble.",
+  "korean_text": "주의 얼굴을 주의 종에게서 숨기지 마소서 내가 환난 중에 있사오니 속히 내게 응답하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not hide your face from your servant",
+      "korean_translation": "주의 종에게 주의 얼굴을 숨기지 마소서",
+      "word_indices": [
+        25,
+        87,
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "answer me quickly",
+      "korean_translation": "나를 속히 응답하소서",
+      "word_indices": [
+        63,
+        686
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I am in trouble",
+      "korean_translation": "나는 환난 중에 있나이다",
+      "word_indices": [
+        304
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 48:18",
+  "version": "NIV",
+  "original_text": "If only you had paid attention to my commands,\n    your peace would have been like a river,\n    your well-being like the waves of the sea.",
+  "korean_text": "네가 나의 명령에 주의하였더라면 네 평강이 강과 같았겠고 네 공의가 바다 물결 같았을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If only you had paid attention to my commands",
+      "korean_translation": "네가 나의 명령에 주의를 기울였더라면",
+      "word_indices": [
+        48,
+        643
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your peace would have been like a river",
+      "korean_translation": "네 평강이 강 같았을 것이요",
+      "word_indices": [
+        7,
+        198,
+        392
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your well-being like the waves of the sea",
+      "korean_translation": "네 안녕이 바다의 물결 같았을 것이라",
+      "word_indices": [
+        7,
+        108
+      ]
+    }
+  ]
+}

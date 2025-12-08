@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 30:26",
+  "version": "NIV",
+  "original_text": "Give me my wives and children, for whom I have served you, and I will be on my way. You know how much work I’ve done for you.”",
+  "korean_text": "내가 외삼촌에게서 일하고 얻은 처자를 내게 주시어 나로 가게 하소서 내가 외삼촌에게 한 일은 외삼촌이 아시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give me my wives and children",
+      "korean_translation": "내 아내들과 자식들을 내게 주세요",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for whom I have served you",
+      "korean_translation": "내가 당신을 위해 일했던 그들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will be on my way",
+      "korean_translation": "그러면 내가 떠나겠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You know how much work",
+      "korean_translation": "당신은 얼마나 많은 일을 했는지 압니다",
+      "word_indices": [
+        13,
+        65
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I've done for you",
+      "korean_translation": "내가 당신을 위해 한 일을",
+      "word_indices": []
+    }
+  ]
+}

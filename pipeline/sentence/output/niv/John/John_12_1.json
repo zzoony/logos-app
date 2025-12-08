@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 12:1",
+  "version": "NIV",
+  "original_text": "Six days before the Passover, Jesus came to Bethany, where Lazarus lived, whom Jesus had raised from the dead.",
+  "korean_text": "유월절 엿새 전에 예수께서 베다니에 이르시니 이 곳은 예수께서 죽은 자 가운데서 살리신 나사로가 있는 곳이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Six days before the Passover",
+      "korean_translation": "유월절 여섯 날 전에",
+      "word_indices": [
+        395,
+        673
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus came to Bethany",
+      "korean_translation": "예수께서 베다니에 오시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where Lazarus lived",
+      "korean_translation": "나사로가 살던 곳이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whom Jesus had raised from the dead",
+      "korean_translation": "예수께서 죽은 자 가운데서 살리신 나사로라",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

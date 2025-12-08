@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 148:10",
+  "version": "NIV",
+  "original_text": "wild animals and all cattle,\n    small creatures and flying birds,",
+  "korean_text": "짐승과 모든 가축과 기는 것과 나는 새며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "wild animals and all cattle",
+      "korean_translation": "들짐승과 모든 가축이여",
+      "word_indices": [
+        195,
+        450,
+        655
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "small creatures and flying birds",
+      "korean_translation": "작은 생물과 날아가는 새들이여",
+      "word_indices": [
+        386,
+        698,
+        942
+      ]
+    }
+  ]
+}

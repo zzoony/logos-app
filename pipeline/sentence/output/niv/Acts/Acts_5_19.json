@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 5:19",
+  "version": "NIV",
+  "original_text": "But during the night an angel of the Lord opened the doors of the jail and brought them out.",
+  "korean_text": "주의 사자가 밤에 옥문을 열고 끌어내어 이르되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But during the night",
+      "korean_translation": "그러나 밤중에",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "an angel of the Lord",
+      "korean_translation": "주의 천사가",
+      "word_indices": [
+        153
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "opened the doors of the jail",
+      "korean_translation": "감옥 문들을 열고",
+      "word_indices": [
+        160,
+        415,
+        2888
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and brought them out",
+      "korean_translation": "그들을 데려냈다",
+      "word_indices": []
+    }
+  ]
+}

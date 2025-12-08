@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ruth 3:17",
+  "version": "NIV",
+  "original_text": "and added, “He gave me these six measures of barley, saying, ‘Don’t go back to your mother-in-law empty-handed.’”",
+  "korean_text": "이르되 그가 내게 이 보리를 여섯 번 되어 주며 이르기를 빈 손으로 네 시어머니에게 가지 말라 하더이다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and added",
+      "korean_translation": "그리고 덧붙였다",
+      "word_indices": [
+        660
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He gave me these six measures of barley",
+      "korean_translation": "그가 나에게 이 보리 여섯 되를 주었다",
+      "word_indices": [
+        5,
+        395,
+        1149
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying",
+      "korean_translation": "말하면서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Don't go back to your mother-in-law empty-handed",
+      "korean_translation": "시어머니께 빈손으로 돌아가지 말라",
+      "word_indices": [
+        9,
+        42,
+        52,
+        120,
+        866
+      ]
+    }
+  ]
+}

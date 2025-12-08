@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 13:9",
+  "version": "NIV",
+  "original_text": "See, the day of the Lord is coming\n    —a cruel day, with wrath and fierce anger—\nto make the land desolate\n    and destroy the sinners within it.",
+  "korean_text": "보라 여호와의 날 곧 잔혹히 분냄과 맹렬히 노하는 날이 이르러 땅을 황폐하게 하며 그 중에서 죄인들을 멸하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "See, the day of the Lord is coming",
+      "korean_translation": "보라, 주의 날이 이르고 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a cruel day",
+      "korean_translation": "그것은 잔인한 날이다",
+      "word_indices": [
+        1895
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with wrath and fierce anger",
+      "korean_translation": "진노와 맹렬한 분노를 가진 날",
+      "word_indices": [
+        185,
+        278,
+        884
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to make the land desolate",
+      "korean_translation": "그 땅을 황폐하게 하기 위해",
+      "word_indices": [
+        8,
+        629
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and destroy the sinners within it",
+      "korean_translation": "그 안에 있는 죄인들을 멸하기 위해",
+      "word_indices": [
+        69,
+        779
+      ]
+    }
+  ]
+}

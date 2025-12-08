@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Kings 6:2",
+  "version": "NIV",
+  "original_text": "The temple that King Solomon built for the Lord was sixty cubits long, twenty wide and thirty high.",
+  "korean_text": "솔로몬 왕이 여호와를 위하여 건축한 성전은 길이가 육십 규빗이요 너비가 이십 규빗이요 높이가 삼십 규빗이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The temple that King Solomon built",
+      "korean_translation": "솔로몬 왕이 건축한 성전은",
+      "word_indices": [
+        4,
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the Lord",
+      "korean_translation": "주님을 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was sixty cubits long",
+      "korean_translation": "길이가 60 규빗이었고",
+      "word_indices": [
+        71,
+        170,
+        1065
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "twenty wide",
+      "korean_translation": "너비는 20 규빗이었으며",
+      "word_indices": [
+        220,
+        512
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and thirty high",
+      "korean_translation": "높이는 30 규빗이었다",
+      "word_indices": [
+        105,
+        403
+      ]
+    }
+  ]
+}

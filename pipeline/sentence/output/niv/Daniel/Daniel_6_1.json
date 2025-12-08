@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Daniel 6:1",
+  "version": "NIV",
+  "original_text": "It pleased Darius to appoint 120 satraps to rule throughout the kingdom,",
+  "korean_text": "다리오가 자기의 뜻대로 고관 백이십 명을 세워 전국을 통치하게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It pleased Darius",
+      "korean_translation": "다리우스는 기뻐하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to appoint 120 satraps",
+      "korean_translation": "120명의 총독을 임명했다",
+      "word_indices": [
+        272,
+        2095
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to rule throughout the kingdom",
+      "korean_translation": "온 왕국을 다스리기 위해",
+      "word_indices": [
+        109,
+        366,
+        394
+      ]
+    }
+  ]
+}

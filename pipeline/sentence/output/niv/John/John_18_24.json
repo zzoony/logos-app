@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 18:24",
+  "version": "NIV",
+  "original_text": "Then Annas sent him bound to Caiaphas the high priest.",
+  "korean_text": "안나스가 예수를 결박한 그대로 대제사장 가야바에게 보내니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Annas sent him",
+      "korean_translation": "그때 안나스가 그를 보냈다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "bound to Caiaphas",
+      "korean_translation": "묶여서 가야바에게",
+      "word_indices": [
+        4036
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the high priest",
+      "korean_translation": "대제사장인",
+      "word_indices": [
+        22,
+        105
+      ]
+    }
+  ]
+}

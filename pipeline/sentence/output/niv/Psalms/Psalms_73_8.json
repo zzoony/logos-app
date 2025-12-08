@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 73:8",
+  "version": "NIV",
+  "original_text": "They scoff, and speak with malice;\n    with arrogance they threaten oppression.",
+  "korean_text": "그들은 능욕하며 악하게 말하며 높은 데서 거만하게 말하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They scoff",
+      "korean_translation": "그들은 조롱합니다",
+      "word_indices": [
+        1939
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and speak with malice",
+      "korean_translation": "그리고 악의를 담아 말합니다",
+      "word_indices": [
+        29,
+        1557
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with arrogance they threaten oppression",
+      "korean_translation": "오만함으로 그들은 억압을 위협합니다",
+      "word_indices": [
+        1681,
+        1737,
+        2142
+      ]
+    }
+  ]
+}

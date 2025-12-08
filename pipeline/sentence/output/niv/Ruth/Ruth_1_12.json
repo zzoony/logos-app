@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Ruth 1:12",
+  "version": "NIV",
+  "original_text": "Return home, my daughters; I am too old to have another husband. Even if I thought there was still hope for me—even if I had a husband tonight and then gave birth to sons—",
+  "korean_text": "내 딸들아 되돌아 가라 나는 늙었으니 남편을 두지 못할지라 가령 내가 소망이 있다고 말한다든지 오늘 밤에 남편을 두어 아들들을 낳는다 하더라도",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Return home, my daughters",
+      "korean_translation": "딸들아, 집으로 돌아가너라",
+      "word_indices": [
+        66,
+        89,
+        230
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am too old",
+      "korean_translation": "나는 너무 늙었단다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to have another husband",
+      "korean_translation": "다른 남편을 맞을",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Even if I thought",
+      "korean_translation": "내가 생각한다 할지라도",
+      "word_indices": [
+        1001
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "there was still hope for me",
+      "korean_translation": "나에게 아직 희망이 있다고",
+      "word_indices": [
+        294
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "even if I had a husband tonight",
+      "korean_translation": "오늘 밤 남편이 생긴다 할지라도",
+      "word_indices": [
+        375,
+        2119
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and then gave birth to sons",
+      "korean_translation": "그리고 아들을 낳는다 할지라도",
+      "word_indices": [
+        2,
+        5,
+        387
+      ]
+    }
+  ]
+}

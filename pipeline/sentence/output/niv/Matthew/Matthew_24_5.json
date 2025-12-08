@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 24:5",
+  "version": "NIV",
+  "original_text": "For many will come in my name, claiming, ‘I am the Messiah,’ and will deceive many.",
+  "korean_text": "많은 사람이 내 이름으로 와서 이르되 나는 그리스도라 하여 많은 사람을 미혹하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For many will come in my name",
+      "korean_translation": "나의 이름으로 많은 사람들이 올 것이며",
+      "word_indices": [
+        17
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "claiming, 'I am the Messiah'",
+      "korean_translation": "나는 메시아라고 주장하며",
+      "word_indices": [
+        717,
+        922
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and will deceive many",
+      "korean_translation": "많은 사람들을 속일 것입니다",
+      "word_indices": [
+        683
+      ]
+    }
+  ]
+}

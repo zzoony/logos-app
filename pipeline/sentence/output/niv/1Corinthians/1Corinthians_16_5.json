@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Corinthians 16:5",
+  "version": "NIV",
+  "original_text": "After I go through Macedonia, I will come to you—for I will be going through Macedonia.",
+  "korean_text": "내가 마게도냐를 지날 터이니 마게도냐를 지난 후에 너희에게 가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After I go through Macedonia",
+      "korean_translation": "내가 마게도냐를 지나간 후에",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will come to you",
+      "korean_translation": "나는 너희에게 가겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I will be going through Macedonia",
+      "korean_translation": "왜냐하면 내가 마게도냐를 지나갈 것이기 때문이다",
+      "word_indices": [
+        39
+      ]
+    }
+  ]
+}

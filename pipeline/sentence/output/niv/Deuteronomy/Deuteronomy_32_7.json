@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Deuteronomy 32:7",
+  "version": "NIV",
+  "original_text": "Remember the days of old;\n    consider the generations long past.\nAsk your father and he will tell you,\n    your elders, and they will explain to you.",
+  "korean_text": "옛날을 기억하라 역대의 연대를 생각하라 네 아버지에게 물으라 그가 네게 설명할 것이요 네 어른들에게 물으라 그들이 네게 말하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember the days of old",
+      "korean_translation": "옛날의 날들을 기억하라",
+      "word_indices": [
+        217
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "consider the generations long past",
+      "korean_translation": "오래 전 세대들을 생각하라",
+      "word_indices": [
+        71,
+        324,
+        429,
+        925
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Ask your father",
+      "korean_translation": "네 아버지에게 물으라",
+      "word_indices": [
+        12,
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he will tell you",
+      "korean_translation": "그가 네게 말해줄 것이다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "your elders",
+      "korean_translation": "네 장로들에게",
+      "word_indices": [
+        268
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and they will explain to you",
+      "korean_translation": "그들이 네게 설명해줄 것이다",
+      "word_indices": [
+        1166
+      ]
+    }
+  ]
+}

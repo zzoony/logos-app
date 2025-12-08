@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 4:51",
+  "version": "NIV",
+  "original_text": "While he was still on the way, his servants met him with the news that his boy was living.",
+  "korean_text": "내려가는 길에서 그 종들이 오다가 만나서 아이가 살아 있다 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While he was still on the way",
+      "korean_translation": "그가 길을 가고 있을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his servants met him",
+      "korean_translation": "그의 종들이 그를 만났다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the news",
+      "korean_translation": "소식을 가지고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that his boy was living",
+      "korean_translation": "그의 아이가 살아있다는",
+      "word_indices": [
+        525
+      ]
+    }
+  ]
+}

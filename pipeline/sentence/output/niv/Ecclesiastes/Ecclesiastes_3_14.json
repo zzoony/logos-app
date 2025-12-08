@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Ecclesiastes 3:14",
+  "version": "NIV",
+  "original_text": "I know that everything God does will endure forever; nothing can be added to it and nothing taken from it. God does it so that people will fear him.",
+  "korean_text": "하나님께서 행하시는 모든 것은 영원히 있을 것이라 그 위에 더 할 수도 없고 그것에서 덜 할 수도 없나니 하나님이 이같이 행하심은 사람들이 그의 앞에서 경외하게 하려 하심인 줄을 내가 알았도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that everything God does will endure forever",
+      "korean_translation": "내가 하나님이 하시는 모든 것은 영원히 있을 것을 안다",
+      "word_indices": [
+        1,
+        13,
+        166,
+        447
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nothing can be added to it",
+      "korean_translation": "그것에 아무것도 더할 수 없으며",
+      "word_indices": [
+        660
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and nothing taken from it",
+      "korean_translation": "그것에서 아무것도 뺄 수 없다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God does it so that people will fear him",
+      "korean_translation": "하나님께서 사람들이 그를 경외하게 하시려고 그것을 행하신다",
+      "word_indices": [
+        1,
+        3,
+        133
+      ]
+    }
+  ]
+}

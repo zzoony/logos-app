@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 122:8",
+  "version": "NIV",
+  "original_text": "For the sake of my family and friends,\n    I will say, “Peace be within you.”",
+  "korean_text": "내가 내 형제와 친구를 위하여 이제 말하리니 네 가운데에 평안이 있을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the sake of my family and friends,",
+      "korean_translation": "나의 가족과 친구들을 위해,",
+      "word_indices": [
+        145,
+        335,
+        492
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will say,",
+      "korean_translation": "나는 말할 것이다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "\"Peace be within you.\"",
+      "korean_translation": "\"평강이 너희 안에 있을지어다.\"",
+      "word_indices": [
+        198
+      ]
+    }
+  ]
+}

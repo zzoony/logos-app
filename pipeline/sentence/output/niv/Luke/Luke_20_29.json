@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 20:29",
+  "version": "NIV",
+  "original_text": "Now there were seven brothers. The first one married a woman and died childless.",
+  "korean_text": "그런데 칠 형제가 있었는데 맏이가 아내를 취하였다가 자식이 없이 죽고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now there were seven brothers.",
+      "korean_translation": "일곱 형제가 있었습니다.",
+      "word_indices": [
+        53,
+        96
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The first one married a woman",
+      "korean_translation": "첫째가 한 여자와 결혼했고",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and died childless.",
+      "korean_translation": "자식 없이 죽었습니다.",
+      "word_indices": []
+    }
+  ]
+}

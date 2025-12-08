@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 1:7",
+  "version": "NIV",
+  "original_text": "Your country is desolate,\n    your cities burned with fire;\nyour fields are being stripped by foreigners\n    right before you,\n    laid waste as when overthrown by strangers.",
+  "korean_text": "너희의 땅은 황폐하였고 너희의 성읍들은 불에 탔고 너희의 토지는 너희 목전에서 이방인에게 삼켜졌으며 이방인에게 파괴됨 같이 황폐하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your country is desolate",
+      "korean_translation": "너희 땅은 황폐하며",
+      "word_indices": [
+        167,
+        629
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your cities burned with fire",
+      "korean_translation": "너희 성읍들은 불에 탔으며",
+      "word_indices": [
+        23,
+        47,
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your fields are being stripped by foreigners",
+      "korean_translation": "너희 토지는 이방인들에게 약탈당하고",
+      "word_indices": [
+        156,
+        343
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "right before you",
+      "korean_translation": "너희 목전에서",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "laid waste as when overthrown by strangers",
+      "korean_translation": "이방인에게 멸망당한 것처럼 황무하게 되었느니라",
+      "word_indices": [
+        605,
+        1045
+      ]
+    }
+  ]
+}

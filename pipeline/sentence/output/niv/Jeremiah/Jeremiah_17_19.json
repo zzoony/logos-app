@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Jeremiah 17:19",
+  "version": "NIV",
+  "original_text": "This is what the Lord said to me: “Go and stand at the Gate of the People, through which the kings of Judah go in and out; stand also at all the other gates of Jerusalem.",
+  "korean_text": "여호와께서 내게 이와 같이 말씀하시되 너는 가서 유다 왕들이 출입하는 평민의 문과 예루살렘 모든 문에 서서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord said to me:",
+      "korean_translation": "이것이 주님께서 내게 하신 말씀입니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go and stand at the Gate of the People,",
+      "korean_translation": "가서 백성의 문에 서라,",
+      "word_indices": [
+        3,
+        45,
+        132
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "through which the kings of Judah go in and out;",
+      "korean_translation": "유다 왕들이 드나드는 그 문으로,",
+      "word_indices": [
+        4,
+        39
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "stand also at all the other gates of Jerusalem.",
+      "korean_translation": "예루살렘의 다른 모든 문에도 서라.",
+      "word_indices": [
+        28,
+        45
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 1:9",
+  "version": "NIV",
+  "original_text": "Then the Lord reached out his hand and touched my mouth and said to me, “I have put my words in your mouth.",
+  "korean_text": "여호와께서 그의 손을 내밀어 내 입에 대시며 여호와께서 내게 이르시되 보라 내가 내 말을 네 입에 두었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord reached out his hand",
+      "korean_translation": "그때 주께서 손을 뻗으시고",
+      "word_indices": [
+        9,
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and touched my mouth",
+      "korean_translation": "내 입에 손을 대시며",
+      "word_indices": [
+        143,
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said to me",
+      "korean_translation": "내게 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have put my words in your mouth",
+      "korean_translation": "내가 내 말을 네 입에 두었노라",
+      "word_indices": [
+        19,
+        143
+      ]
+    }
+  ]
+}

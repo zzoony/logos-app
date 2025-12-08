@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 1:23",
+  "version": "NIV",
+  "original_text": "“The virgin will conceive and give birth to a son, and they will call him Immanuel” (which means “God with us”).",
+  "korean_text": "보라 처녀가 잉태하여 아들을 낳을 것이요 그의 이름은 임마누엘이라 하리라 하셨으니 이를 번역한즉 하나님이 우리와 함께 계시다 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The virgin will conceive",
+      "korean_translation": "동정녀가 잉태할 것이며",
+      "word_indices": [
+        854,
+        1112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and give birth to a son",
+      "korean_translation": "아들을 낳을 것이요",
+      "word_indices": [
+        2,
+        5,
+        387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they will call him Immanuel",
+      "korean_translation": "사람들이 그 이름을 임마누엘이라 부르리라",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which means \"God with us\"",
+      "korean_translation": "이는 '우리와 함께 계시는 하나님'이라는 뜻이다",
+      "word_indices": [
+        1,
+        349
+      ]
+    }
+  ]
+}

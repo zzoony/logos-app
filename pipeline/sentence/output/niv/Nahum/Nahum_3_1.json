@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Nahum 3:1",
+  "version": "NIV",
+  "original_text": "Woe to the city of blood,\n    full of lies,\nfull of plunder,\n    never without victims!",
+  "korean_text": "화 있을진저 피의 성이여 그 안에는 거짓이 가득하고 포악이 가득하며 탈취가 떠나지 아니하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to the city of blood",
+      "korean_translation": "피의 도시여 화 있을진저",
+      "word_indices": [
+        23,
+        94,
+        517
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "full of lies",
+      "korean_translation": "거짓말로 가득하며",
+      "word_indices": [
+        258
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "full of plunder",
+      "korean_translation": "약탈로 가득하며",
+      "word_indices": [
+        258,
+        401
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "never without victims!",
+      "korean_translation": "결코 희생자가 없지 않느니라!",
+      "word_indices": [
+        1840
+      ]
+    }
+  ]
+}

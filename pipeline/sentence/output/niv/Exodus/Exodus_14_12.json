@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Exodus 14:12",
+  "version": "NIV",
+  "original_text": "Didn’t we say to you in Egypt, ‘Leave us alone; let us serve the Egyptians’? It would have been better for us to serve the Egyptians than to die in the desert!”",
+  "korean_text": "우리가 애굽에서 당신에게 이른 말이 이것이 아니냐 이르기를 우리를 내버려 두라 우리가 애굽 사람을 섬길 것이라 하지 아니하더냐 애굽 사람을 섬기는 것이 광야에서 죽는 것보다 낫겠노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Didn't we say to you in Egypt",
+      "korean_translation": "우리가 이집트에서 너에게 말하지 않았더냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Leave us alone",
+      "korean_translation": "우리를 내버려 두세요",
+      "word_indices": [
+        30,
+        480
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us serve the Egyptians",
+      "korean_translation": "우리가 이집트 사람들을 섬기게 하소서",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It would have been better for us to serve the Egyptians",
+      "korean_translation": "우리가 이집트 사람들을 섬기는 것이 더 좋았을 것이다",
+      "word_indices": [
+        131,
+        411
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "than to die in the desert",
+      "korean_translation": "광야에서 죽는 것보다",
+      "word_indices": [
+        58,
+        262
+      ]
+    }
+  ]
+}

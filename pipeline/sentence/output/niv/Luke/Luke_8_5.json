@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 8:5",
+  "version": "NIV",
+  "original_text": "“A farmer went out to sow his seed. As he was scattering the seed, some fell along the path; it was trampled on, and the birds ate it up.",
+  "korean_text": "씨를 뿌리는 자가 그 씨를 뿌리러 나가서 뿌릴새 더러는 길 가에 떨어지매 밟히며 공중의 새들이 먹어버렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A farmer went out",
+      "korean_translation": "한 농부가 나갔습니다",
+      "word_indices": [
+        1821
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to sow his seed",
+      "korean_translation": "씨를 뿌리려고",
+      "word_indices": [
+        725
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As he was scattering the seed",
+      "korean_translation": "씨를 뿌리는 동안에",
+      "word_indices": [
+        396
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "some fell along the path",
+      "korean_translation": "일부는 길가에 떨어졌고",
+      "word_indices": [
+        290,
+        516
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "it was trampled on",
+      "korean_translation": "그것은 밟혔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the birds ate it up",
+      "korean_translation": "그리고 새들이 그것을 먹어버렸습니다",
+      "word_indices": [
+        386
+      ]
+    }
+  ]
+}

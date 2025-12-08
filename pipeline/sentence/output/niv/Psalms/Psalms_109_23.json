@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 109:23",
+  "version": "NIV",
+  "original_text": "I fade away like an evening shadow;\n    I am shaken off like a locust.",
+  "korean_text": "나는 석양 그림자 같이 지나가고 또 메뚜기 같이 불려 가오며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I fade away",
+      "korean_translation": "나는 사라집니다",
+      "word_indices": [
+        34,
+        1625
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like an evening shadow",
+      "korean_translation": "저녁 그림자처럼",
+      "word_indices": [
+        7,
+        1015
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am shaken off",
+      "korean_translation": "저는 흔들려 떨어집니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like a locust",
+      "korean_translation": "메뚜기처럼",
+      "word_indices": [
+        7,
+        976
+      ]
+    }
+  ]
+}

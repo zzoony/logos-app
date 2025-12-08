@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Psalms 115:7",
+  "version": "NIV",
+  "original_text": "They have hands, but cannot feel,\n    feet, but cannot walk,\n    nor can they utter a sound with their throats.",
+  "korean_text": "손이 있어도 만지지 못하며 발이 있어도 걷지 못하며 목구멍이 있어도 작은 소리조차 내지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They have hands",
+      "korean_translation": "그들은 손을 가지고 있지만",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but cannot feel",
+      "korean_translation": "느낄 수 없습니다",
+      "word_indices": [
+        207,
+        1423
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "feet",
+      "korean_translation": "발을 가지고 있지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but cannot walk",
+      "korean_translation": "걸을 수 없습니다",
+      "word_indices": [
+        207,
+        238
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nor can they utter a sound",
+      "korean_translation": "소리를 낼 수도 없으며",
+      "word_indices": [
+        310,
+        1090
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "with their throats",
+      "korean_translation": "그들의 목으로도",
+      "word_indices": [
+        2855
+      ]
+    }
+  ]
+}

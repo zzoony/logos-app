@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 12:41",
+  "version": "NIV",
+  "original_text": "Isaiah said this because he saw Jesus’ glory and spoke about him.",
+  "korean_text": "이사야가 이렇게 말한 것은 주의 영광을 보고 주를 가리켜 말한 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Isaiah said this",
+      "korean_translation": "이사야가 이렇게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he saw Jesus' glory",
+      "korean_translation": "왜냐하면 그는 예수님의 영광을 보았기 때문입니다",
+      "word_indices": [
+        159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and spoke about him",
+      "korean_translation": "그리고 그에 대해 말했습니다",
+      "word_indices": [
+        5162
+      ]
+    }
+  ]
+}

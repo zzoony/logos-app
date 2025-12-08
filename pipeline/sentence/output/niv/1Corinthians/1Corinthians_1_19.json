@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Corinthians 1:19",
+  "version": "NIV",
+  "original_text": "For it is written:\n“I will destroy the wisdom of the wise;\n    the intelligence of the intelligent I will frustrate.”",
+  "korean_text": "기록된 바 내가 지혜 있는 자들의 지혜를 멸하고 총명한 자들의 총명을 폐하리라 하였으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For it is written:",
+      "korean_translation": "기록된 바",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will destroy the wisdom of the wise",
+      "korean_translation": "내가 지혜 있는 자들의 지혜를 멸하리라",
+      "word_indices": [
+        69,
+        232,
+        288
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the intelligence of the intelligent I will frustrate",
+      "korean_translation": "명철한 자들의 명철을 없애리라",
+      "word_indices": [
+        2486,
+        3262,
+        3508
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Samuel 15:8",
+  "version": "NIV",
+  "original_text": "He took Agag king of the Amalekites alive, and all his people he totally destroyed with the sword.",
+  "korean_text": "아말렉 사람의 왕 아각을 사로잡고 칼날로 그의 모든 백성을 진멸하였으되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He took Agag",
+      "korean_translation": "그는 아각을 사로잡았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "king of the Amalekites",
+      "korean_translation": "아말렉 사람의 왕을",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and took him alive",
+      "korean_translation": "그리고 살아서 잡았으며",
+      "word_indices": [
+        588
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And all his people",
+      "korean_translation": "그리고 그의 모든 백성을",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he totally destroyed with the sword",
+      "korean_translation": "그가 칼로 진멸하였다",
+      "word_indices": [
+        69,
+        84,
+        1433
+      ]
+    }
+  ]
+}

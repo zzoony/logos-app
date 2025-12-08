@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Chronicles 8:1",
+  "version": "NIV",
+  "original_text": "Benjamin was the father of Bela his firstborn,\nAshbel the second son, Aharah the third,",
+  "korean_text": "베냐민이 낳은 자는 맏아들 벨라와 둘째 아스벨과 셋째 아하라와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Benjamin was the father of Bela his firstborn",
+      "korean_translation": "베냐민은 그의 장자 벨라의 아버지였고",
+      "word_indices": [
+        12,
+        408
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ashbel the second son",
+      "korean_translation": "둘째 아들 아스벨은",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Aharah the third",
+      "korean_translation": "셋째 아하라였다",
+      "word_indices": [
+        280
+      ]
+    }
+  ]
+}

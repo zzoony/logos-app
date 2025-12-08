@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 6:44",
+  "version": "NIV",
+  "original_text": "The number of the men who had eaten was five thousand.",
+  "korean_text": "떡을 먹은 남자는 오천 명이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The number of the men",
+      "korean_translation": "남자들의 수는",
+      "word_indices": [
+        201
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had eaten",
+      "korean_translation": "먹었던 사람들의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was five thousand",
+      "korean_translation": "오천 명이었다",
+      "word_indices": [
+        136,
+        196
+      ]
+    }
+  ]
+}

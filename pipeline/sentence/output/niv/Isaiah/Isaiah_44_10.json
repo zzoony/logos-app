@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Isaiah 44:10",
+  "version": "NIV",
+  "original_text": "Who shapes a god and casts an idol,\n    which can profit nothing?",
+  "korean_text": "신상을 만들며 무익한 우상을 부어 만든 자가 누구냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who shapes a god",
+      "korean_translation": "누가 신을 만들며",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and casts an idol",
+      "korean_translation": "우상을 부으며",
+      "word_indices": [
+        256,
+        581
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which can profit nothing",
+      "korean_translation": "아무 유익이 없는 것을",
+      "word_indices": [
+        1671
+      ]
+    }
+  ]
+}

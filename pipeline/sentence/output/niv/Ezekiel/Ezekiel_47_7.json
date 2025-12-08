@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Ezekiel 47:7",
+  "version": "NIV",
+  "original_text": "When I arrived there, I saw a great number of trees on each side of the river.",
+  "korean_text": "내가 돌아가니 강 좌우편에 나무가 심히 많더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I arrived there",
+      "korean_translation": "내가 그곳에 도착했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I saw a great number of trees",
+      "korean_translation": "나는 많은 나무들을 보았다",
+      "word_indices": [
+        44,
+        201
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on each side of the river",
+      "korean_translation": "강의 양쪽에",
+      "word_indices": [
+        118,
+        392
+      ]
+    }
+  ]
+}

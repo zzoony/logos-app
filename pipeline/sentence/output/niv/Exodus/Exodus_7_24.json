@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 7:24",
+  "version": "NIV",
+  "original_text": "And all the Egyptians dug along the Nile to get drinking water, because they could not drink the water of the river.",
+  "korean_text": "애굽 사람들은 나일 강 물을 마실 수 없으므로 나일 강 가를 두루 파서 마실 물을 구하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And all the Egyptians dug along the Nile",
+      "korean_translation": "그리고 모든 이집트 사람들은 나일 강가를 파헤쳤습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to get drinking water",
+      "korean_translation": "마실 물을 구하기 위해",
+      "word_indices": [
+        46,
+        78
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they could not drink",
+      "korean_translation": "왜냐하면 그들은 마실 수 없었기 때문입니다",
+      "word_indices": [
+        78
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the water of the river",
+      "korean_translation": "강물을",
+      "word_indices": [
+        46,
+        392
+      ]
+    }
+  ]
+}

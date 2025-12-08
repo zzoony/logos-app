@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Mark 8:24",
+  "version": "NIV",
+  "original_text": "He looked up and said, “I see people; they look like trees walking around.”",
+  "korean_text": "쳐다보며 이르되 사람들이 보이나이다 나무 같은 것들이 걸어 가는 것을 보나이다 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He looked up",
+      "korean_translation": "그가 위를 보았다",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "그리고 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I see people",
+      "korean_translation": "나는 사람들을 본다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they look like trees",
+      "korean_translation": "그들은 나무처럼 보인다",
+      "word_indices": [
+        7,
+        51
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "walking around",
+      "korean_translation": "걸어 다니는",
+      "word_indices": [
+        238
+      ]
+    }
+  ]
+}

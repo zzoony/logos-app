@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 34:14",
+  "version": "NIV",
+  "original_text": "Turn from evil and do good;\n    seek peace and pursue it.",
+  "korean_text": "악을 버리고 선을 행하며 화평을 찾아 따를지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Turn from evil",
+      "korean_translation": "악을 돌이키고",
+      "word_indices": [
+        49,
+        95
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and do good",
+      "korean_translation": "선을 행하며",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "seek peace",
+      "korean_translation": "평화를 찾고",
+      "word_indices": [
+        198,
+        273
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and pursue it",
+      "korean_translation": "그것을 추구하라",
+      "word_indices": [
+        459
+      ]
+    }
+  ]
+}

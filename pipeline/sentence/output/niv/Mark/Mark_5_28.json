@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 5:28",
+  "version": "NIV",
+  "original_text": "because she thought, “If I just touch his clothes, I will be healed.”",
+  "korean_text": "이는 내가 그의 옷에만 손을 대어도 구원을 받으리라 생각함일러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "because she thought",
+      "korean_translation": "왜냐하면 그녀는 생각했다",
+      "word_indices": [
+        1001
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"If I just touch his clothes",
+      "korean_translation": "\"만약 내가 그의 옷을 만지기만 하면",
+      "word_indices": [
+        359,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will be healed.\"",
+      "korean_translation": "나는 고침을 받을 것이다.\"",
+      "word_indices": [
+        354
+      ]
+    }
+  ]
+}

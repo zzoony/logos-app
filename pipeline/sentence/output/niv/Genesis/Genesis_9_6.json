@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Genesis 9:6",
+  "version": "NIV",
+  "original_text": "“Whoever sheds human blood,\n    by humans shall their blood be shed;\nfor in the image of God\n    has God made mankind.",
+  "korean_text": "다른 사람의 피를 흘리면 그 사람의 피도 흘릴 것이니 이는 하나님이 자기 형상대로 사람을 지으셨음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever sheds human blood",
+      "korean_translation": "사람의 피를 흘리는 누구든지",
+      "word_indices": [
+        94,
+        154,
+        239,
+        794
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by humans shall their blood be shed",
+      "korean_translation": "사람에 의해 그들의 피가 흘려질 것이라",
+      "word_indices": [
+        94,
+        239
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for in the image of God",
+      "korean_translation": "이는 하나님의 형상으로",
+      "word_indices": [
+        1,
+        594
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "has God made mankind",
+      "korean_translation": "하나님께서 인류를 만드셨기 때문이다",
+      "word_indices": [
+        1,
+        791
+      ]
+    }
+  ]
+}

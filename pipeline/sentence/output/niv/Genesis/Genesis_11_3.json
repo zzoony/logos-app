@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 11:3",
+  "version": "NIV",
+  "original_text": "They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar.",
+  "korean_text": "서로 말하되 자, 벽돌을 만들어 견고히 굽자 하고 이에 벽돌로 돌을 대신하며 역청으로 진흙을 대신하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said to each other",
+      "korean_translation": "그들은 서로에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Come, let's make bricks",
+      "korean_translation": "자, 벽돌을 만들자",
+      "word_indices": [
+        2111
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bake them thoroughly",
+      "korean_translation": "그리고 그것들을 철저히 구우자",
+      "word_indices": [
+        1347,
+        2402
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They used brick instead of stone",
+      "korean_translation": "그들은 돌 대신 벽돌을 사용했다",
+      "word_indices": [
+        125,
+        523,
+        2111
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and tar for mortar",
+      "korean_translation": "그리고 회반도용으로 타르를 사용했다",
+      "word_indices": [
+        2899,
+        3719
+      ]
+    }
+  ]
+}

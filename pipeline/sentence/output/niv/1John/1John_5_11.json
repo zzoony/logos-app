@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 John 5:11",
+  "version": "NIV",
+  "original_text": "And this is the testimony: God has given us eternal life, and this life is in his Son.",
+  "korean_text": "또 증거는 이것이니 하나님이 우리에게 영생을 주신 것과 이 생명이 그의 아들 안에 있는 그것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And this is the testimony:",
+      "korean_translation": "이것이 그 증거니라",
+      "word_indices": [
+        700
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God has given us eternal life,",
+      "korean_translation": "하나님이 우리에게 영생을 주셨고",
+      "word_indices": [
+        1,
+        5,
+        37,
+        650
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and this life is in his Son.",
+      "korean_translation": "이 생명은 그의 아들 안에 있다",
+      "word_indices": [
+        2,
+        37
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "verse_reference": "Luke 6:42",
+  "version": "NIV",
+  "original_text": "How can you say to your brother, ‘Brother, let me take the speck out of your eye,’ when you yourself fail to see the plank in your own eye? You hypocrite, first take the plank out of your eye, and then you will see clearly to remove the speck from your brother’s eye.",
+  "korean_text": "너는 네 눈 속에 있는 들보를 보지 못하면서 어찌하여 형제에게 말하기를 형제여 나로 네 눈 속에 있는 티를 빼게 하라 할 수 있느냐 외식하는 자여 먼저 네 눈 속에서 들보를 빼라 그 후에야 네가 밝히 보고 형제의 눈 속에 있는 티를 빼리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How can you say to your brother",
+      "korean_translation": "어떻게 네 형제에게 말할 수 있느냐",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Brother, let me take the speck out of your eye",
+      "korean_translation": "형제여, 내가 네 눈에서 티를 빼게 하라",
+      "word_indices": [
+        53,
+        61,
+        3090
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when you yourself fail to see the plank in your own eye",
+      "korean_translation": "네 자신은 네 눈 속의 들보를 보지 못하면서",
+      "word_indices": [
+        61,
+        519,
+        2491
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You hypocrite",
+      "korean_translation": "너 위선자야",
+      "word_indices": [
+        1758
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "first take the plank out of your eye",
+      "korean_translation": "먼저 네 눈에서 들보를 빼내라",
+      "word_indices": [
+        61,
+        2491
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and then you will see clearly",
+      "korean_translation": "그러면 네가 분명히 보게 될 것이다",
+      "word_indices": [
+        1649
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to remove the speck from your brother's eye",
+      "korean_translation": "네 형제의 눈에서 티를 빼기 위해",
+      "word_indices": [
+        53,
+        61,
+        423,
+        3090
+      ]
+    }
+  ]
+}

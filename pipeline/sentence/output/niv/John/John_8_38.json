@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 8:38",
+  "version": "NIV",
+  "original_text": "I am telling you what I have seen in the Father’s presence, and you are doing what you have heard from your father.”",
+  "korean_text": "나는 내 아버지에게서 본 것을 말하고 너희는 너희 아비에게서 들은 것을 행하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am telling you",
+      "korean_translation": "내가 너희에게 말하고 있다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what I have seen in the Father's presence",
+      "korean_translation": "내가 아버지 앞에서 본 것들",
+      "word_indices": [
+        12,
+        257
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you are doing",
+      "korean_translation": "그리고 너희는 행하고 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what you have heard from your father",
+      "korean_translation": "너희가 아버지에게서 들은 것들",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

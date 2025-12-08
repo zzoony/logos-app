@@ -1,0 +1,46 @@
+{
+  "verse_reference": "2 Samuel 14:5",
+  "version": "NIV",
+  "original_text": "The king asked her, “What is troubling you?”\nShe said, “I am a widow; my husband is dead.",
+  "korean_text": "왕이 그에게 이르되 무슨 일이냐 하니라 대답하되 나는 진정으로 과부니이다 남편은 죽고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king asked her",
+      "korean_translation": "왕이 그녀에게 물었다",
+      "word_indices": [
+        4,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What is troubling you?",
+      "korean_translation": "무엇이 당신을 괴롭히고 있나요?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She said",
+      "korean_translation": "그녀가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am a widow",
+      "korean_translation": "저는 과부입니다",
+      "word_indices": [
+        556
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "my husband is dead",
+      "korean_translation": "제 남편이 죽었습니다",
+      "word_indices": [
+        115,
+        375
+      ]
+    }
+  ]
+}

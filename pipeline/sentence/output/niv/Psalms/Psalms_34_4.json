@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 34:4",
+  "version": "NIV",
+  "original_text": "I sought the Lord, and he answered me;\n    he delivered me from all my fears.",
+  "korean_text": "내가 여호와께 간구하매 내게 응답하시고 내 모든 두려움에서 나를 건지셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I sought the Lord",
+      "korean_translation": "내가 주를 찾았더니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he answered me",
+      "korean_translation": "그가 내게 응답하셨으며",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he delivered me",
+      "korean_translation": "그가 나를 건지셨으니",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from all my fears",
+      "korean_translation": "나의 모든 두려움에서",
+      "word_indices": [
+        133
+      ]
+    }
+  ]
+}

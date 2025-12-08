@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 20:22",
+  "version": "NIV",
+  "original_text": "But if I say to the boy, ‘Look, the arrows are beyond you,’ then you must go, because the Lord has sent you away.",
+  "korean_text": "만일 아이에게 이르기를 보라 화살이 네 앞쪽에 있다 하거든 네 길을 가라 여호와께서 너를 보내셨음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if I say to the boy,",
+      "korean_translation": "하지만 내가 소년에게 말하기를,",
+      "word_indices": [
+        525
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Look, the arrows are beyond you,'",
+      "korean_translation": "'보라, 화살들이 너를 지나갔다,'",
+      "word_indices": [
+        51,
+        770
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then you must go,",
+      "korean_translation": "그러면 너는 가야 한다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because the Lord has sent you away.",
+      "korean_translation": "이는 주께서 너를 보내셨기 때문이다.",
+      "word_indices": [
+        34
+      ]
+    }
+  ]
+}

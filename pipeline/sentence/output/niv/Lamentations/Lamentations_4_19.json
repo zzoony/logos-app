@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Lamentations 4:19",
+  "version": "NIV",
+  "original_text": "Our pursuers were swifter\n    than eagles in the sky;\nthey chased us over the mountains\n    and lay in wait for us in the desert.",
+  "korean_text": "우리를 뒤쫓는 자들이 하늘의 독수리들보다 빠름이여 산 꼭대기까지도 뒤쫓으며 광야에서도 우리를 잡으려고 매복하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our pursuers were swifter",
+      "korean_translation": "우리를 쫓는 자들이 더 빨랐습니다",
+      "word_indices": [
+        2611,
+        3007
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than eagles in the sky",
+      "korean_translation": "하늘의 독수리보다도",
+      "word_indices": [
+        536
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they chased us over the mountains",
+      "korean_translation": "그들은 우리를 산을 넘어 쫓았습니다",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and lay in wait for us in the desert",
+      "korean_translation": "그리고 광야에서 우리를 위해 매복했습니다",
+      "word_indices": [
+        148,
+        262,
+        388
+      ]
+    }
+  ]
+}

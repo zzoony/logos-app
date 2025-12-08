@@ -1,0 +1,45 @@
+{
+  "verse_reference": "2 Samuel 11:2",
+  "version": "NIV",
+  "original_text": "One evening David got up from his bed and walked around on the roof of the palace. From the roof he saw a woman bathing. The woman was very beautiful,",
+  "korean_text": "저녁 때에 다윗이 그의 침상에서 일어나 왕궁 옥상에서 거닐다가 그 곳에서 보니 한 여인이 목욕을 하는데 심히 아름다워 보이는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One evening David got up from his bed",
+      "korean_translation": "어느 저녁에 다윗은 자신의 침대에서 일어나",
+      "word_indices": [
+        602
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and walked around on the roof of the palace",
+      "korean_translation": "궁전 옥상을 걸어 다녔다",
+      "word_indices": [
+        238,
+        296,
+        907
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "From the roof he saw a woman bathing",
+      "korean_translation": "옥상에서 그는 목욕하는 한 여자를 보았다",
+      "word_indices": [
+        50,
+        907,
+        1431
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The woman was very beautiful",
+      "korean_translation": "그 여자는 매우 아름다웠다",
+      "word_indices": [
+        50,
+        720
+      ]
+    }
+  ]
+}

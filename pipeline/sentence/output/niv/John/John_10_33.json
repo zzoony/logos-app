@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 10:33",
+  "version": "NIV",
+  "original_text": "“We are not stoning you for any good work,” they replied, “but for blasphemy, because you, a mere man, claim to be God.”",
+  "korean_text": "유대인들이 대답하되 선한 일로 말미암아 우리가 너를 돌로 치려는 것이 아니라 신성모독으로 인함이니 네가 사람이 되어 자칭 하나님이라 함이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We are not stoning you",
+      "korean_translation": "우리가 당신을 돌로 치려는 것이 아닙니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for any good work",
+      "korean_translation": "아무 선한 일 때문에",
+      "word_indices": [
+        56,
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they replied",
+      "korean_translation": "그들이 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but for blasphemy",
+      "korean_translation": "하지만 신성모독 때문에",
+      "word_indices": [
+        2381
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because you, a mere man",
+      "korean_translation": "왜냐하면 당신은 그저 사람이면서",
+      "word_indices": [
+        10,
+        1110
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "claim to be God",
+      "korean_translation": "자신을 하나님이라고 주장하기 때문입니다",
+      "word_indices": [
+        1,
+        922
+      ]
+    }
+  ]
+}

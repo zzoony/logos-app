@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 16:4",
+  "version": "NIV",
+  "original_text": "I have told you this, so that when their time comes you will remember that I warned you about them. I did not tell you this from the beginning because I was with you,",
+  "korean_text": "오직 너희에게 이 말을 한 것은 너희로 그 때를 당하면 내가 너희에게 말한 이것을 기억나게 하려 함이요 처음부터 이 말을 하지 아니한 것은 내가 너희와 함께 있었음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have told you this",
+      "korean_translation": "내가 이것을 너희에게 말한 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that when their time comes",
+      "korean_translation": "그때가 이르러",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you will remember",
+      "korean_translation": "너희가 기억하게 하려 함이니",
+      "word_indices": [
+        217
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I warned you about them",
+      "korean_translation": "내가 너희에게 경고한 것을",
+      "word_indices": [
+        586
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I did not tell you this from the beginning",
+      "korean_translation": "내가 처음부터 이것을 너희에게 말하지 아니한 것은",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because I was with you",
+      "korean_translation": "내가 너희와 함께 있었기 때문이니라",
+      "word_indices": []
+    }
+  ]
+}

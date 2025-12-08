@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Numbers 11:13",
+  "version": "NIV",
+  "original_text": "Where can I get meat for all these people? They keep wailing to me, ‘Give us meat to eat!’",
+  "korean_text": "이 모든 백성에게 줄 고기를 내가 어디서 얻으리이까 그들이 나를 향하여 울며 이르되 우리에게 고기를 주어 먹게 하라 하온즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Where can I get meat",
+      "korean_translation": "내가 어디서 고기를 얻을 수 있을까",
+      "word_indices": [
+        574
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for all these people?",
+      "korean_translation": "이 모든 사람들을 위해?",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They keep wailing to me,",
+      "korean_translation": "그들은 나에게 계속 울부짖으며",
+      "word_indices": [
+        60,
+        733
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Give us meat to eat!",
+      "korean_translation": "우리에게 먹을 고기를 주라!",
+      "word_indices": [
+        5,
+        33,
+        574
+      ]
+    }
+  ]
+}

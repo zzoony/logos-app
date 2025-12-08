@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 23:3",
+  "version": "NIV",
+  "original_text": "he refreshes my soul.\nHe guides me along the right paths\n    for his name’s sake.",
+  "korean_text": "내 영혼을 소생시키시고 자기 이름을 위하여 의의 길로 인도하시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "he refreshes my soul",
+      "korean_translation": "그는 내 영혼을 소생시키고",
+      "word_indices": [
+        558,
+        1487
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He guides me",
+      "korean_translation": "그가 나를 인도하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "along the right paths",
+      "korean_translation": "올바른 길로",
+      "word_indices": [
+        74,
+        516
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for his name's sake",
+      "korean_translation": "자신의 이름을 위해",
+      "word_indices": [
+        17,
+        492
+      ]
+    }
+  ]
+}

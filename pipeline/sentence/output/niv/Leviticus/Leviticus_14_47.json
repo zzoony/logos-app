@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Leviticus 14:47",
+  "version": "NIV",
+  "original_text": "Anyone who sleeps or eats in the house must wash their clothes.",
+  "korean_text": "그 집에서 자는 자는 그의 옷을 빨 것이요 그 집에서 먹는 자도 그의 옷을 빨 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who sleeps",
+      "korean_translation": "자는 사람은",
+      "word_indices": [
+        68,
+        378
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or eats in the house",
+      "korean_translation": "또는 집에서 먹는 사람은",
+      "word_indices": [
+        26,
+        33
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must wash their clothes",
+      "korean_translation": "옷을 빨아야 합니다",
+      "word_indices": [
+        419,
+        1289
+      ]
+    }
+  ]
+}

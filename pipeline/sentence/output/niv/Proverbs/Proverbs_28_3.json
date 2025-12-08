@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 28:3",
+  "version": "NIV",
+  "original_text": "A ruler who oppresses the poor\n    is like a driving rain that leaves no crops.",
+  "korean_text": "가난한 자를 학대하는 가난한 자는 곡식을 남기지 아니하는 폭우 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A ruler who oppresses the poor",
+      "korean_translation": "가난한 자를 억압하는 통치자는",
+      "word_indices": [
+        297,
+        298,
+        634
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is like a driving rain",
+      "korean_translation": "쏟아지는 비와 같으니",
+      "word_indices": [
+        7,
+        506
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that leaves no crops",
+      "korean_translation": "곡식을 남기지 않는",
+      "word_indices": [
+        793
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 18:42",
+  "version": "NIV",
+  "original_text": "Jesus said to him, “Receive your sight; your faith has healed you.”",
+  "korean_text": "예수께서 그에게 이르시되 보라 네 믿음이 너를 구원하였느니라 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수께서 그에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Receive your sight",
+      "korean_translation": "네 sight를 받으라",
+      "word_indices": [
+        179,
+        353
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your faith has healed you",
+      "korean_translation": "네 믿음이 너를 heal하였느니라",
+      "word_indices": [
+        192,
+        354
+      ]
+    }
+  ]
+}

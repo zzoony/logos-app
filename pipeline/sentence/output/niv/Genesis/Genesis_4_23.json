@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Genesis 4:23",
+  "version": "NIV",
+  "original_text": "Lamech said to his wives,\n“Adah and Zillah, listen to me;\n    wives of Lamech, hear my words.\nI have killed a man for wounding me,\n    a young man for injuring me.",
+  "korean_text": "라멕이 아내들에게 이르되 아다와 씰라여 내 목소리를 들으라 라멕의 아내들이여 내 말을 들으라 나의 상처로 말미암아 내가 사람을 죽였고 나의 상함으로 말미암아 소년을 죽였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lamech said to his wives",
+      "korean_translation": "라멕이 그의 아내들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Adah and Zillah, listen to me",
+      "korean_translation": "아다와 씰라여, 내 말을 들으라",
+      "word_indices": [
+        86
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "wives of Lamech, hear my words",
+      "korean_translation": "라멕의 아내들이여, 내 말을 들어보라",
+      "word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have killed a man",
+      "korean_translation": "나는 한 남자를 죽였다",
+      "word_indices": [
+        10,
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for wounding me",
+      "korean_translation": "나를 상하게 했기 때문이다",
+      "word_indices": [
+        923
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "a young man for injuring me",
+      "korean_translation": "나를 해쳤기 때문에 한 젊은이를",
+      "word_indices": [
+        10,
+        130
+      ]
+    }
+  ]
+}

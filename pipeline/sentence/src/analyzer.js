@@ -290,7 +290,7 @@ function callDroid(prompt) {
   return new Promise((resolve, reject) => {
     const timeout = config.CLI_TIMEOUT || 120000;
 
-    const child = spawn('droid', ['exec', '-o', 'text'], {
+    const child = spawn('droid', ['exec', '-o', 'text', '--auto', 'high'], {
       stdio: ['pipe', 'pipe', 'pipe']
     });
 
@@ -502,7 +502,7 @@ async function processWithPool(tasks, poolSize, processor) {
 async function analyzeBook(bookName, version, progressCallback) {
   loadEnv();
 
-  if (!API_KEY) {
+  if (currentAnalysisMethod === 'api' && !API_KEY) {
     throw new Error('API key not found. Check vocabulary/.env file.');
   }
 
@@ -628,7 +628,7 @@ async function analyzeBook(bookName, version, progressCallback) {
 async function analyzeBooks(bookNames, version, progressCallback) {
   loadEnv();
 
-  if (!API_KEY) {
+  if (currentAnalysisMethod === 'api' && !API_KEY) {
     throw new Error('API key not found. Check vocabulary/.env file.');
   }
 
@@ -684,6 +684,7 @@ async function analyzeBooks(bookNames, version, progressCallback) {
   let totalCompleted = 0;
   let totalProcessed = 0;
   let totalFailed = 0;
+  let sessionCompleted = 0;  // 이번 세션에서 새로 완료된 수
   const totalVerses = allVerses.length;
 
   // 이미 분석된 구절 필터링
@@ -698,7 +699,8 @@ async function analyzeBooks(bookNames, version, progressCallback) {
     return true;
   });
 
-  log(`[INFO] 전체: ${totalVerses}구절, 분석필요: ${versesToAnalyze.length}구절, 완료: ${totalCompleted}구절`);
+  const toAnalyze = versesToAnalyze.length;  // 분석해야 할 구절 수
+  log(`[INFO] 전체: ${totalVerses}구절, 분석필요: ${toAnalyze}구절, 완료: ${totalCompleted}구절`);
   log(`[POOL] ${poolSize}개 워커로 병렬 처리 시작\n`);
 
   // 초기 진행상황 전달
@@ -711,6 +713,10 @@ async function analyzeBooks(bookNames, version, progressCallback) {
     total: totalVerses,
     totalBooks: bookNames.length,
     bookIndex: 1,
+    bookCompleted: bookStats[bookNames[0]].completed,
+    bookTotal: bookStats[bookNames[0]].total,
+    sessionCompleted: 0,
+    toAnalyze: toAnalyze,
     status: 'init'
   });
 
@@ -730,6 +736,10 @@ async function analyzeBooks(bookNames, version, progressCallback) {
       total: totalVerses,
       totalBooks: bookNames.length,
       bookIndex: bookNames.indexOf(bookName) + 1,
+      bookCompleted: bookStats[bookName].completed,
+      bookTotal: bookStats[bookName].total,
+      sessionCompleted: sessionCompleted,
+      toAnalyze: toAnalyze,
       status: 'processing'
     });
 
@@ -743,6 +753,7 @@ async function analyzeBooks(bookNames, version, progressCallback) {
 
       totalCompleted++;
       totalProcessed++;
+      sessionCompleted++;
       bookStats[bookName].completed++;
 
       progressCallback?.({
@@ -754,6 +765,10 @@ async function analyzeBooks(bookNames, version, progressCallback) {
         total: totalVerses,
         totalBooks: bookNames.length,
         bookIndex: bookNames.indexOf(bookName) + 1,
+        bookCompleted: bookStats[bookName].completed,
+        bookTotal: bookStats[bookName].total,
+        sessionCompleted: sessionCompleted,
+        toAnalyze: toAnalyze,
         status: 'completed'
       });
 
@@ -774,6 +789,10 @@ async function analyzeBooks(bookNames, version, progressCallback) {
         total: totalVerses,
         totalBooks: bookNames.length,
         bookIndex: bookNames.indexOf(bookName) + 1,
+        bookCompleted: bookStats[bookName].completed,
+        bookTotal: bookStats[bookName].total,
+        sessionCompleted: sessionCompleted,
+        toAnalyze: toAnalyze,
         status: 'error',
         error: error.message
       });
@@ -828,7 +847,7 @@ function getAnalysisState() {
 async function reanalyzeVerse(book, chapter, verse, version) {
   loadEnv();
 
-  if (!API_KEY) {
+  if (currentAnalysisMethod === 'api' && !API_KEY) {
     throw new Error('API key not found. Check vocabulary/.env file.');
   }
 
@@ -873,7 +892,7 @@ async function reanalyzeVerse(book, chapter, verse, version) {
 async function reanalyzeBatch(verses, version, progressCallback) {
   loadEnv();
 
-  if (!API_KEY) {
+  if (currentAnalysisMethod === 'api' && !API_KEY) {
     throw new Error('API key not found. Check vocabulary/.env file.');
   }
 

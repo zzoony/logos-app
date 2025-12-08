@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Chronicles 9:42",
+  "version": "NIV",
+  "original_text": "Ahaz was the father of Jadah, Jadah was the father of Alemeth, Azmaveth and Zimri, and Zimri was the father of Moza.",
+  "korean_text": "아하스는 야라를 낳고 야라는 알레멧과 아스마?과 시므리를 낳고 시므리는 모사를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ahaz was the father of Jadah",
+      "korean_translation": "아하스는 야다의 아버지였다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jadah was the father of Alemeth, Azmaveth and Zimri",
+      "korean_translation": "야다는 알레멧, 아스마웻, 심리의 아버지였다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Zimri was the father of Moza",
+      "korean_translation": "그리고 심리는 모사의 아버지였다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

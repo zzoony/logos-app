@@ -1,0 +1,62 @@
+{
+  "verse_reference": "John 20:25",
+  "version": "NIV",
+  "original_text": "So the other disciples told him, “We have seen the Lord!”\nBut he said to them, “Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe.”",
+  "korean_text": "다른 제자들이 그에게 이르되 우리가 주를 보았노라 하니 도마가 이르되 내가 그의 손의 못 자국을 보며 내 손가락을 그 못 자국에 넣으며 내 손을 그 옆구리에 넣어 보지 않고는 믿지 아니하겠노라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So the other disciples told him",
+      "korean_translation": "그래서 다른 제자들이 그에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We have seen the Lord!",
+      "korean_translation": "우리가 주를 보았소!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But he said to them",
+      "korean_translation": "그러나 그가 그들에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Unless I see the nail marks in his hands",
+      "korean_translation": "내가 그의 손에 있는 못 자국을 보지 않고는",
+      "word_indices": [
+        9,
+        876,
+        2245
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and put my finger where the nails were",
+      "korean_translation": "내 손가락을 못이 있던 곳에 넣어보지 않고는",
+      "word_indices": [
+        992,
+        2245
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and put my hand into his side",
+      "korean_translation": "내 손을 그의 옆구리에 넣어보지 않고는",
+      "word_indices": [
+        9,
+        118
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I will not believe.",
+      "korean_translation": "나는 믿지 않겠소.",
+      "word_indices": [
+        214
+      ]
+    }
+  ]
+}

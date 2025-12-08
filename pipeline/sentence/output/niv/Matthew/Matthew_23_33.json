@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 23:33",
+  "version": "NIV",
+  "original_text": "“You snakes! You brood of vipers! How will you escape being condemned to hell?",
+  "korean_text": "뱀들아 독사의 새끼들아 너희가 어떻게 지옥의 판결을 피하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You snakes!",
+      "korean_translation": "너희 뱀들아!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You brood of vipers!",
+      "korean_translation": "독사의 자식들아!",
+      "word_indices": [
+        1967,
+        2461
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How will you escape",
+      "korean_translation": "너희가 어떻게 피할 수 있겠느냐",
+      "word_indices": [
+        470
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "being condemned to hell?",
+      "korean_translation": "지옥의 정죄를 받지 않고?",
+      "word_indices": [
+        716,
+        2104
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Genesis 41:15",
+  "version": "NIV",
+  "original_text": "Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”",
+  "korean_text": "바로가 요셉에게 이르되 내가 한 꿈을 꾸었으나 그것을 해석하는 자가 없더니 들은즉 너는 꿈을 들으면 능히 푼다 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pharaoh said to Joseph",
+      "korean_translation": "바로가 요셉에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I had a dream",
+      "korean_translation": "나는 꿈을 꾸었습니다",
+      "word_indices": [
+        508
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and no one can interpret it",
+      "korean_translation": "아무도 그것을 해석할 수 없습니다",
+      "word_indices": [
+        1306
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But I have heard it said of you",
+      "korean_translation": "하지만 당신에 대해 말하는 것을 들었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that when you hear a dream",
+      "korean_translation": "당신이 꿈을 들을 때",
+      "word_indices": [
+        16,
+        508
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you can interpret it",
+      "korean_translation": "당신은 그것을 해석할 수 있습니다",
+      "word_indices": [
+        1306
+      ]
+    }
+  ]
+}

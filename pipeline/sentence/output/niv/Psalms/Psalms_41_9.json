@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 41:9",
+  "version": "NIV",
+  "original_text": "Even my close friend,\n    someone I trusted,\none who shared my bread,\n    has turned against me.",
+  "korean_text": "내가 신뢰하여 내 떡을 나눠 먹던 나의 가까운 친구도 나를 대적하여 그의 발꿈치를 들었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even my close friend",
+      "korean_translation": "나의 가까운 친구조차도",
+      "word_indices": [
+        335,
+        595
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "someone I trusted",
+      "korean_translation": "내가 신뢰했던 사람",
+      "word_indices": [
+        271,
+        373
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "one who shared my bread",
+      "korean_translation": "나와 떡을 나누던 자",
+      "word_indices": [
+        187
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "has turned against me",
+      "korean_translation": "나를 대적하여 일어섰다",
+      "word_indices": [
+        11,
+        49
+      ]
+    }
+  ]
+}

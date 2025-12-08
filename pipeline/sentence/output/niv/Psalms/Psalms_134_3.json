@@ -1,0 +1,24 @@
+{
+  "verse_reference": "Psalms 134:3",
+  "version": "NIV",
+  "original_text": "May the Lord bless you from Zion,\n    he who is the Maker of heaven and earth.",
+  "korean_text": "천지를 지으신 여호와께서 시온에서 네게 복을 주실지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May the Lord bless you from Zion",
+      "korean_translation": "여호와께서 시온에서 너를 복 주시기를 원하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he who is the Maker of heaven and earth",
+      "korean_translation": "천지를 지으신 이가",
+      "word_indices": [
+        40,
+        57,
+        1318
+      ]
+    }
+  ]
+}

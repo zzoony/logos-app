@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Ecclesiastes 11:3",
+  "version": "NIV",
+  "original_text": "If clouds are full of water,\n    they pour rain on the earth.\nWhether a tree falls to the south or to the north,\n    in the place where it falls, there it will lie.",
+  "korean_text": "구름에 비가 가득하면 땅에 쏟아지며 나무가 남으로나 북으로나 쓰러지면 그 쓰러진 곳에 그냥 있으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If clouds are full of water",
+      "korean_translation": "구름이 물로 가득하면",
+      "word_indices": [
+        46,
+        258,
+        331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they pour rain on the earth",
+      "korean_translation": "땅에 비를 쏟습니다",
+      "word_indices": [
+        40,
+        266,
+        506
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Whether a tree falls to the south",
+      "korean_translation": "나무가 남쪽으로 쓰러지든지",
+      "word_indices": [
+        113,
+        164,
+        433
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or to the north",
+      "korean_translation": "북쪽으로 쓰러지든지",
+      "word_indices": [
+        360
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the place where it falls",
+      "korean_translation": "쓰러진 그 곳에서",
+      "word_indices": [
+        18,
+        113
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "there it will lie",
+      "korean_translation": "그곳에 누워있을 것입니다",
+      "word_indices": [
+        142
+      ]
+    }
+  ]
+}

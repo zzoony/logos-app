@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 15:12",
+  "version": "NIV",
+  "original_text": "My command is this: Love each other as I have loved you.",
+  "korean_text": "내 계명은 곧 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라 하는 이것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My command is this:",
+      "korean_translation": "나의 명령은 이것입니다:",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Love each other",
+      "korean_translation": "서로 사랑하라",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as I have loved you.",
+      "korean_translation": "내가 너희를 사랑한 것같이",
+      "word_indices": []
+    }
+  ]
+}

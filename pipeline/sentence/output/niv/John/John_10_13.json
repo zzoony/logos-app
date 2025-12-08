@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 10:13",
+  "version": "NIV",
+  "original_text": "The man runs away because he is a hired hand and cares nothing for the sheep.",
+  "korean_text": "달아나는 것은 그가 삯꾼인 까닭에 양을 돌보지 아니함이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man runs away",
+      "korean_translation": "그 사람은 도망간다",
+      "word_indices": [
+        10,
+        34,
+        306
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he is a hired hand",
+      "korean_translation": "그는 삯꾼이기 때문이다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cares nothing for the sheep",
+      "korean_translation": "그리고 양들을 전혀 돌보지 않는다",
+      "word_indices": [
+        251
+      ]
+    }
+  ]
+}

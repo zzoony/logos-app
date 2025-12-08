@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 12:49",
+  "version": "NIV",
+  "original_text": "For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.",
+  "korean_text": "내가 내 자의로 말한 것이 아니요 나를 보내신 아버지께서 내가 말할 것과 이를 것을 친히 명령하여 주셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I did not speak on my own",
+      "korean_translation": "내가 내 자신으로 말하지 않았으니",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but the Father who sent me",
+      "korean_translation": "나를 보내신 아버지께서",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "commanded me to say all that I have spoken",
+      "korean_translation": "내가 말한 모든 것을 말하라고 명령하셨기 때문이니라",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

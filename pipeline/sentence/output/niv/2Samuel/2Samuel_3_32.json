@@ -1,0 +1,40 @@
+{
+  "verse_reference": "2 Samuel 3:32",
+  "version": "NIV",
+  "original_text": "They buried Abner in Hebron, and the king wept aloud at Abner’s tomb. All the people wept also.",
+  "korean_text": "아브넬을 헤브론에 장사하고 아브넬의 무덤에서 왕이 소리를 높여 울고 백성도 다 우니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They buried Abner in Hebron",
+      "korean_translation": "그들은 헤브론에서 아브너를 장사했으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the king wept aloud",
+      "korean_translation": "왕은 소리 내어 울었고",
+      "word_indices": [
+        4,
+        1162
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "at Abner's tomb",
+      "korean_translation": "아브너의 무덤에서",
+      "word_indices": [
+        621
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "All the people wept also",
+      "korean_translation": "모든 백성도 또한 울었다",
+      "word_indices": [
+        3,
+        28
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 72:5",
+  "version": "NIV",
+  "original_text": "May he endure as long as the sun,\n    as long as the moon, through all generations.",
+  "korean_text": "그들이 해가 있을 동안에도 주를 두려워하며 달이 있을 동안에도 대대로 그리하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May he endure as long as the sun",
+      "korean_translation": "그가 해와 같이 오래 지속하기를",
+      "word_indices": [
+        71,
+        364,
+        447
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as long as the moon",
+      "korean_translation": "달과 같이",
+      "word_indices": [
+        71,
+        724
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "through all generations",
+      "korean_translation": "모든 세대를 통해",
+      "word_indices": [
+        39,
+        324
+      ]
+    }
+  ]
+}

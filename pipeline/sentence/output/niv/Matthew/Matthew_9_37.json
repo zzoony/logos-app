@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 9:37",
+  "version": "NIV",
+  "original_text": "Then he said to his disciples, “The harvest is plentiful but the workers are few.",
+  "korean_text": "이에 제자들에게 이르시되 추수할 것은 많되 일꾼이 적으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he said to his disciples",
+      "korean_translation": "그때 그가 제자들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The harvest is plentiful",
+      "korean_translation": "추수할 것은 많으나",
+      "word_indices": [
+        472,
+        2643
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the workers are few",
+      "korean_translation": "일꾼은 적다",
+      "word_indices": [
+        672,
+        678
+      ]
+    }
+  ]
+}

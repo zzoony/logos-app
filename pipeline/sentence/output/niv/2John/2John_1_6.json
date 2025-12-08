@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 John 1:6",
+  "version": "NIV",
+  "original_text": "And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love.",
+  "korean_text": "또 사랑은 이것이니 우리가 그 계명을 따라 행하는 것이요 계명은 이것이니 너희가 처음부터 들은 바와 같이 그 가운데서 행하라 하심이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And this is love",
+      "korean_translation": "그리고 이것이 사랑입니다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that we walk in obedience to his commands",
+      "korean_translation": "우리가 그의 명령에 순종하며 행하는 것입니다",
+      "word_indices": [
+        48,
+        238,
+        1188
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As you have heard from the beginning",
+      "korean_translation": "처음부터 들은 대로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "his command is that you walk in love",
+      "korean_translation": "그의 명령은 너희가 사랑 속에서 행하는 것입니다",
+      "word_indices": [
+        38,
+        48,
+        238
+      ]
+    }
+  ]
+}

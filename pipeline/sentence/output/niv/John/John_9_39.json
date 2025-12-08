@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 9:39",
+  "version": "NIV",
+  "original_text": "Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”",
+  "korean_text": "예수께서 이르시되 내가 심판하러 이 세상에 왔으니 보지 못하는 자들은 보게 하고 보는 자들은 맹인이 되게 하려 함이라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For judgment I have come into this world",
+      "korean_translation": "심판을 위하여 내가 이 세상에 왔다",
+      "word_indices": [
+        190,
+        380
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that the blind will see",
+      "korean_translation": "소경들이 보게 하려 함이라",
+      "word_indices": [
+        606
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and those who see will become blind",
+      "korean_translation": "보는 자들은 소경이 되게 하려 함이니라",
+      "word_indices": [
+        32,
+        606
+      ]
+    }
+  ]
+}

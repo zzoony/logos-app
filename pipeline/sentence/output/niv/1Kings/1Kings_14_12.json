@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Kings 14:12",
+  "version": "NIV",
+  "original_text": "“As for you, go back home. When you set foot in your city, the boy will die.",
+  "korean_text": "너는 일어나 네 집으로 가라 네 발이 성읍에 들어갈 때에 그 아이가 죽을지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As for you, go back home.",
+      "korean_translation": "너는 집으로 돌아가라.",
+      "word_indices": [
+        52,
+        230
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When you set foot in your city,",
+      "korean_translation": "네가 성읍에 들어갈 때,",
+      "word_indices": [
+        23,
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the boy will die.",
+      "korean_translation": "그 아이가 죽을 것이다.",
+      "word_indices": [
+        58,
+        525
+      ]
+    }
+  ]
+}

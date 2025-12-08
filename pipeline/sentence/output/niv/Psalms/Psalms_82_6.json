@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 82:6",
+  "version": "NIV",
+  "original_text": "“I said, ‘You are “gods”;\n    you are all sons of the Most High.’",
+  "korean_text": "내가 말하기를 너희는 신들이며 다 지존자의 아들들이라 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I said",
+      "korean_translation": "내가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are \"gods\"",
+      "korean_translation": "너희는 '신'이다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you are all sons",
+      "korean_translation": "너희는 모두 아들들이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the Most High",
+      "korean_translation": "지존자의",
+      "word_indices": [
+        105
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 12:51",
+  "version": "NIV",
+  "original_text": "Do you think I came to bring peace on earth? No, I tell you, but division.",
+  "korean_text": "내가 세상에 화평을 주려고 온 줄로 아느냐 내가 너희에게 이르노니 아니라 도리어 분쟁하게 하려 함이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do you think I came to bring peace on earth?",
+      "korean_translation": "내가 세상에 평화를 주러 온 줄로 아느냐?",
+      "word_indices": [
+        40,
+        198,
+        236
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "No, I tell you",
+      "korean_translation": "아니라, 너희에게 말한다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but division",
+      "korean_translation": "분열을 주려고 왔다",
+      "word_indices": [
+        570
+      ]
+    }
+  ]
+}

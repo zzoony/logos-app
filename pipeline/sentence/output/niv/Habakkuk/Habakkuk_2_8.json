@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Habakkuk 2:8",
+  "version": "NIV",
+  "original_text": "Because you have plundered many nations,\n    the peoples who are left will plunder you.\nFor you have shed human blood;\n    you have destroyed lands and cities and everyone in them.",
+  "korean_text": "네가 여러 나라를 노략하였으므로 그 모든 민족의 남은 자가 너를 노략하리니 이는 네가 사람의 피를 흘렸음이요 또 땅과 성읍과 그 안의 모든 주민에게 강포를 행하였음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because you have plundered many nations",
+      "korean_translation": "네가 여러 나라를 약탈했으므로",
+      "word_indices": [
+        41,
+        401
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the peoples who are left",
+      "korean_translation": "남아있는 민족들이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will plunder you",
+      "korean_translation": "너를 약탈할 것이다",
+      "word_indices": [
+        401
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "For you have shed human blood",
+      "korean_translation": "네가 사람의 피를 흘렸기 때문이다",
+      "word_indices": [
+        94,
+        239
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you have destroyed lands",
+      "korean_translation": "네가 땅들을 파괴했다",
+      "word_indices": [
+        8,
+        69
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and cities",
+      "korean_translation": "그리고 도시들을",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and everyone in them",
+      "korean_translation": "그 안에 있는 모든 사람들을",
+      "word_indices": [
+        186
+      ]
+    }
+  ]
+}

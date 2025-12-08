@@ -1,0 +1,35 @@
+{
+  "verse_reference": "2 Chronicles 21:15",
+  "version": "NIV",
+  "original_text": "You yourself will be very ill with a lingering disease of the bowels, until the disease causes your bowels to come out.’”",
+  "korean_text": "또 너는 창자에 중병이 들고 그 병이 날로 중하여 창자가 빠져나오리라 하셨다 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You yourself will be very ill",
+      "korean_translation": "너 자신이 매우 아프게 될 것이다",
+      "word_indices": [
+        721
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with a lingering disease of the bowels",
+      "korean_translation": "장의 지속적인 질병으로",
+      "word_indices": [
+        795,
+        2794,
+        3202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until the disease causes your bowels to come out",
+      "korean_translation": "그 질병이 너의 장이 빠져나오게 할 때까지",
+      "word_indices": [
+        795,
+        3202
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ezekiel 29:2",
+  "version": "NIV",
+  "original_text": "“Son of man, set your face against Pharaoh king of Egypt and prophesy against him and against all Egypt.",
+  "korean_text": "인자야 너는 애굽의 바로 왕과 온 애굽으로 얼굴을 향하고 예언하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Son of man",
+      "korean_translation": "인자야",
+      "word_indices": [
+        2,
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "set your face against Pharaoh king of Egypt",
+      "korean_translation": "애굽 왕 바로를 향하여 네 얼굴을 향하게 하라",
+      "word_indices": [
+        4,
+        11,
+        87
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and prophesy against him",
+      "korean_translation": "그를 향하여 예언하라",
+      "word_indices": [
+        11,
+        365
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and against all Egypt",
+      "korean_translation": "온 애굽을 향하여 예언하라",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

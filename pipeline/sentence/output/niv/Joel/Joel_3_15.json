@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Joel 3:15",
+  "version": "NIV",
+  "original_text": "The sun and moon will be darkened,\n    and the stars no longer shine.",
+  "korean_text": "해와 달이 캄캄하며 별들이 그 빛을 거두도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun and moon will be darkened",
+      "korean_translation": "해와 달이 어두워지고",
+      "word_indices": [
+        364,
+        724,
+        1755
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the stars no longer shine",
+      "korean_translation": "별들이 더 이상 빛나지 않을 것이라",
+      "word_indices": [
+        267,
+        676,
+        936
+      ]
+    }
+  ]
+}

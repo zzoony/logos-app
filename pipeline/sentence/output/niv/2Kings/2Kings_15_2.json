@@ -1,0 +1,55 @@
+{
+  "verse_reference": "2 Kings 15:2",
+  "version": "NIV",
+  "original_text": "He was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jekoliah; she was from Jerusalem.",
+  "korean_text": "그가 왕이 될 때에 나이가 십육 세라 예루살렘에서 오십이 년간 다스리니라 그의 어머니의 이름은 여골리야라 예루살렘 사람이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He was sixteen years old",
+      "korean_translation": "그는 열여섯 살이었다",
+      "word_indices": [
+        1715
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he became king",
+      "korean_translation": "그가 왕이 되었을 때",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he reigned in Jerusalem",
+      "korean_translation": "그리고 그는 예루살렘에서 통치했다",
+      "word_indices": [
+        180
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "fifty-two years",
+      "korean_translation": "오십이 년 동안",
+      "word_indices": [
+        560
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "His mother's name was Jekoliah",
+      "korean_translation": "그의 어머니의 이름은 여골리아였다",
+      "word_indices": [
+        17,
+        120
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "she was from Jerusalem",
+      "korean_translation": "그녀는 예루살렘 출신이었다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 100:3",
+  "version": "NIV",
+  "original_text": "Know that the Lord is God.\n    It is he who made us, and we are his;\n    we are his people, the sheep of his pasture.",
+  "korean_text": "여호와가 우리 하나님이신 줄 너희는 알지어다 그는 우리를 지으신 이요 우리는 그의 것이니 그의 백성이요 그의 기르시는 양이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Know that the Lord is God",
+      "korean_translation": "여호와께서 하나님이심을 알라",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is he who made us",
+      "korean_translation": "그가 우리를 지으신 이시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and we are his",
+      "korean_translation": "우리는 그의 것이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we are his people",
+      "korean_translation": "우리는 그의 백성이요",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the sheep of his pasture",
+      "korean_translation": "그의 목장의 양이로다",
+      "word_indices": [
+        251,
+        911
+      ]
+    }
+  ]
+}

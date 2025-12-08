@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 20:1",
+  "version": "NIV",
+  "original_text": "“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.",
+  "korean_text": "천국은 마치 품꾼을 얻어 포도원에 들여보내려고 이른 아침에 나간 집 주인과 같으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the kingdom of heaven is like a landowner",
+      "korean_translation": "천국은 어떤 포도원 주인과 같으니",
+      "word_indices": [
+        7,
+        57,
+        109,
+        4102
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who went out early in the morning",
+      "korean_translation": "그가 아침 일찍 나가서",
+      "word_indices": [
+        731
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to hire workers for his vineyard",
+      "korean_translation": "자기 포도원에 일꾼을 고용하려 함이라",
+      "word_indices": [
+        441,
+        678,
+        989
+      ]
+    }
+  ]
+}

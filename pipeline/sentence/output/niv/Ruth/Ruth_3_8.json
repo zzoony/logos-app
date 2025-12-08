@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Ruth 3:8",
+  "version": "NIV",
+  "original_text": "In the middle of the night something startled the man; he turned—and there was a woman lying at his feet!",
+  "korean_text": "밤중에 그가 놀라 몸을 돌이켜 본즉 한 여인이 자기 발치에 누워 있는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the middle of the night",
+      "korean_translation": "한밤중에",
+      "word_indices": [
+        126,
+        943
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "something startled the man",
+      "korean_translation": "무언가가 그 남자를 놀라게 했다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he turned",
+      "korean_translation": "그가 몸을 돌렸다",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and there was a woman",
+      "korean_translation": "그리고 한 여자가 있었다",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "lying at his feet!",
+      "korean_translation": "그의 발치에 누워 있었다!",
+      "word_indices": []
+    }
+  ]
+}

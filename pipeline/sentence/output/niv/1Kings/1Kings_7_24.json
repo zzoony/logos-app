@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 Kings 7:24",
+  "version": "NIV",
+  "original_text": "Below the rim, gourds encircled it—ten to a cubit. The gourds were cast in two rows in one piece with the Sea.",
+  "korean_text": "그 가장자리 아래에는 돌아가며 박이 있는데 매 규빗에 열 개씩 있어서 바다 주위에 둘렸으니 그 박은 바다를 부어 만들 때에 두 줄로 부어 만들었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Below the rim",
+      "korean_translation": "가장자리 아래에",
+      "word_indices": [
+        1365
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "gourds encircled it",
+      "korean_translation": "박이 그것을 둘러쌌고",
+      "word_indices": [
+        3525
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ten to a cubit",
+      "korean_translation": "규빗당 열 개였다",
+      "word_indices": [
+        170,
+        240
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The gourds were cast in two rows",
+      "korean_translation": "그 박들은 두 줄로 부어졌고",
+      "word_indices": [
+        581,
+        1462,
+        3525
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in one piece with the Sea",
+      "korean_translation": "바다와 한 덩어리로 만들어졌다",
+      "word_indices": [
+        108,
+        374
+      ]
+    }
+  ]
+}

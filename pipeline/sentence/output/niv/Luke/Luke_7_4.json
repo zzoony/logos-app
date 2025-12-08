@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 7:4",
+  "version": "NIV",
+  "original_text": "When they came to Jesus, they pleaded earnestly with him, “This man deserves to have you do this,",
+  "korean_text": "이에 그들이 예수께 나아와 간절히 구하여 이르되 이 일을 하시는 것이 이 사람에게는 합당하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they came to Jesus,",
+      "korean_translation": "그들이 예수께 왔을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they pleaded earnestly with him,",
+      "korean_translation": "그들이 그에게 간절히 청하며,",
+      "word_indices": [
+        993,
+        2003
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This man deserves to have you do this,",
+      "korean_translation": "이 사람은 당신이 이렇게 해주시기를 합당합니다.",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

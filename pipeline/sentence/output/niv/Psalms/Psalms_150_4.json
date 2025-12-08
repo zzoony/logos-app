@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 150:4",
+  "version": "NIV",
+  "original_text": "praise him with timbrel and dancing,\n    praise him with the strings and pipe,",
+  "korean_text": "소고 치며 춤 추어 찬양하며 현악과 퉁소로 찬양할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "praise him with timbrel",
+      "korean_translation": "그를 탐브릴로 찬양하라",
+      "word_indices": [
+        88,
+        1771
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and dancing",
+      "korean_translation": "그리고 춤추며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "praise him with the strings",
+      "korean_translation": "그를 현악기로 찬양하라",
+      "word_indices": [
+        88,
+        1824
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and pipe",
+      "korean_translation": "그리고 퉁소로",
+      "word_indices": [
+        1700
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Genesis 25:28",
+  "version": "NIV",
+  "original_text": "Isaac, who had a taste for wild game, loved Esau, but Rebekah loved Jacob.",
+  "korean_text": "이삭은 에서가 사냥한 고기를 좋아하므로 그를 사랑하고 리브가는 야곱을 사랑하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Isaac, who had a taste for wild game",
+      "korean_translation": "야생 고기에 입맛이 있던 이삭은",
+      "word_indices": [
+        450,
+        1203,
+        2202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "loved Esau",
+      "korean_translation": "에서를 사랑했지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but Rebekah loved Jacob",
+      "korean_translation": "리브가는 야곱을 사랑했다",
+      "word_indices": []
+    }
+  ]
+}

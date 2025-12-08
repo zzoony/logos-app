@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Numbers 5:21",
+  "version": "NIV",
+  "original_text": "here the priest is to put the woman under this curse—“may the Lord cause you to become a curse among your people when he makes your womb miscarry and your abdomen swell.",
+  "korean_text": "(제사장이 그 여인에게 저주의 맹세를 하게 하고 그 여인에게 말할지니라) 여호와께서 네 넓적다리가 마르고 네 배가 부어서 네가 네 백성 중에 저줏거리, 맹셋거리가 되게 하실지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Here the priest is to put the woman under this curse—",
+      "korean_translation": "여기서 제사장은 이 저주 아래 여자를 두게 하라—",
+      "word_indices": [
+        22,
+        50,
+        255
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "may the Lord cause you to become a curse among your people",
+      "korean_translation": "주께서 당신을 당신 백성 가운데 저주가 되게 하소서",
+      "word_indices": [
+        3,
+        27,
+        32,
+        255,
+        286
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when he makes your womb miscarry",
+      "korean_translation": "그가 당신의 태를 유산시킬 때",
+      "word_indices": [
+        766,
+        2725
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your abdomen swell.",
+      "korean_translation": "그리고 당신의 배가 부풀게 할 때에.",
+      "word_indices": [
+        1844,
+        3803
+      ]
+    }
+  ]
+}

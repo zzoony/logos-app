@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 1:1",
+  "version": "NIV",
+  "original_text": "Blessed is the one\n    who does not walk in step with the wicked\nor stand in the way that sinners take\n    or sit in the company of mockers,",
+  "korean_text": "복 있는 사람은 악인들의 꾀를 따르지 아니하며 죄인들의 길에 서지 아니하며 오만한 자들의 자리에 앉지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the one",
+      "korean_translation": "복 있는 사람은",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who does not walk in step with the wicked",
+      "korean_translation": "악인의 꾀를 좇지 아니하며",
+      "word_indices": [
+        238,
+        674,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or stand in the way that sinners take",
+      "korean_translation": "죄인의 길에 서지 아니하며",
+      "word_indices": [
+        45,
+        779
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or sit in the company of mockers",
+      "korean_translation": "오만한 자의 자리에 앉지 아니하는 자",
+      "word_indices": [
+        151,
+        969,
+        1642
+      ]
+    }
+  ]
+}

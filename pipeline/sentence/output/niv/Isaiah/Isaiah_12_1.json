@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Isaiah 12:1",
+  "version": "NIV",
+  "original_text": "In that day you will say:\n“I will praise you, Lord.\n    Although you were angry with me,\nyour anger has turned away\n    and you have comforted me.",
+  "korean_text": "그 날에 네가 말하기를 여호와여 주께서 전에는 내게 노하셨사오나 이제는 주의 진노가 돌아섰고 또 주께서 나를 안위하시오니 내가 주께 감사하겠나이다 할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In that day you will say:",
+      "korean_translation": "그 날에 너희가 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will praise you, Lord.",
+      "korean_translation": "주님, 내가 당신을 찬양하겠습니다",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Although you were angry with me,",
+      "korean_translation": "당신이 나에게 진노하셨지만",
+      "word_indices": [
+        468,
+        784
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your anger has turned away",
+      "korean_translation": "당신의 진노는 돌이키셨고",
+      "word_indices": [
+        34,
+        49,
+        185
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and you have comforted me.",
+      "korean_translation": "당신이 나를 위로하셨습니다",
+      "word_indices": [
+        697
+      ]
+    }
+  ]
+}

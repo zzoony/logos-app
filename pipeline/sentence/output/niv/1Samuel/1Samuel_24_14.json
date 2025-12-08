@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 24:14",
+  "version": "NIV",
+  "original_text": "“Against whom has the king of Israel come out? Who are you pursuing? A dead dog? A flea?",
+  "korean_text": "이스라엘 왕이 누구를 따라 나왔으며 누구의 뒤를 쫓나이까 죽은 개나 벼룩을 쫓음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Against whom has the king of Israel come out?",
+      "korean_translation": "이스라엘 왕은 누구를 치러 나왔습니까?",
+      "word_indices": [
+        4,
+        11
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who are you pursuing?",
+      "korean_translation": "당신은 누구를 쫓고 있습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A dead dog?",
+      "korean_translation": "죽은 개입니까?",
+      "word_indices": [
+        115,
+        1037
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "A flea?",
+      "korean_translation": "벌레입니까?",
+      "word_indices": [
+        4331
+      ]
+    }
+  ]
+}

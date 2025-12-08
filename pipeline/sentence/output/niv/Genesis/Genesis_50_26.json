@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 50:26",
+  "version": "NIV",
+  "original_text": "So Joseph died at the age of a hundred and ten. And after they embalmed him, he was placed in a coffin in Egypt.",
+  "korean_text": "요셉이 백십 세에 죽으매 그들이 그의 몸에 향 재료를 넣고 애굽에서 입관하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Joseph died",
+      "korean_translation": "그래서 요셉이 죽었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the age of a hundred and ten",
+      "korean_translation": "백십 세에",
+      "word_indices": [
+        240,
+        561
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And after they embalmed him",
+      "korean_translation": "그리고 그들이 그의 시체를 처리한 후에",
+      "word_indices": [
+        3394
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he was placed in a coffin",
+      "korean_translation": "그는 관에 안치되었고",
+      "word_indices": [
+        4915
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in Egypt",
+      "korean_translation": "애굽에서",
+      "word_indices": []
+    }
+  ]
+}

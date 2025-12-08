@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Luke 1:25",
+  "version": "NIV",
+  "original_text": "“The Lord has done this for me,” she said. “In these days he has shown his favor and taken away my disgrace among the people.”",
+  "korean_text": "주께서 나를 돌보시는 날에 사람들 앞에서 내 부끄러움을 없게 하시려고 이렇게 행하심이라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"The Lord has done this for me,\"",
+      "korean_translation": "\"주께서 나를 위해 이 일을 행하셨다,\"",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she said.",
+      "korean_translation": "그녀가 말했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "\"In these days",
+      "korean_translation": "\"이 날들에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he has shown his favor",
+      "korean_translation": "그는 그의 호의를 보여주셨고",
+      "word_indices": [
+        393
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and taken away my disgrace",
+      "korean_translation": "나의 치욱을 거두어가셨다",
+      "word_indices": [
+        34,
+        627
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "among the people.\"",
+      "korean_translation": "사람들 가운데서.\"",
+      "word_indices": [
+        3,
+        27
+      ]
+    }
+  ]
+}

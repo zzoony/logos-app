@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Kings 10:16",
+  "version": "NIV",
+  "original_text": "King Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went into each shield.",
+  "korean_text": "솔로몬 왕이 쳐서 늘인 금으로 큰 방패 이백 개를 만들었으니 매 방패에 든 금이 육백 세겔이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Solomon made two hundred large shields",
+      "korean_translation": "솔로몬 왕은 이백 개의 큰 방패를 만들었다",
+      "word_indices": [
+        4,
+        346,
+        524
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of hammered gold",
+      "korean_translation": "두들겨 만든 금으로 된",
+      "word_indices": [
+        75,
+        1334
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "six hundred shekels of gold",
+      "korean_translation": "육백 세겔의 금이",
+      "word_indices": [
+        75,
+        362,
+        395
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "went into each shield",
+      "korean_translation": "각 방패에 들어갔다",
+      "word_indices": [
+        524
+      ]
+    }
+  ]
+}

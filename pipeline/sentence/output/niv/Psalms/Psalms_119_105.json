@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 119:105",
+  "version": "NIV",
+  "original_text": "Your word is a lamp for my feet,\n    a light on my path.",
+  "korean_text": "주의 말씀은 내 발에 등이요 내 길에 빛이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your word is a lamp",
+      "korean_translation": "당신의 말씀은 등불입니다",
+      "word_indices": [
+        19,
+        726
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for my feet",
+      "korean_translation": "내 발을 위한",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a light on my path",
+      "korean_translation": "내 길 위의 빛입니다",
+      "word_indices": [
+        205,
+        516
+      ]
+    }
+  ]
+}

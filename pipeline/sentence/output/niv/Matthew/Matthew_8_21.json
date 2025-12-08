@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 8:21",
+  "version": "NIV",
+  "original_text": "Another disciple said to him, “Lord, first let me go and bury my father.”",
+  "korean_text": "제자 중에 또 한 사람이 이르되 주여 내가 먼저 가서 내 아버지를 장사하게 허락하옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Another disciple said to him",
+      "korean_translation": "다른 제자가 그에게 말했다",
+      "word_indices": [
+        162
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "first let me go",
+      "korean_translation": "먼저 제가 가게 하소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and bury my father",
+      "korean_translation": "그리고 제 아버지를 장사하게 하소서",
+      "word_indices": [
+        12,
+        341
+      ]
+    }
+  ]
+}

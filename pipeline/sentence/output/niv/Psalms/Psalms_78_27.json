@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 78:27",
+  "version": "NIV",
+  "original_text": "He rained meat down on them like dust,\n    birds like sand on the seashore.",
+  "korean_text": "먼지처럼 많은 고기를 비 같이 내리시고 나는 새를 바다의 모래 같이 내리셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He rained meat down on them like dust",
+      "korean_translation": "그가 그들에게 먼지처럼 고기를 내리셨다",
+      "word_indices": [
+        7,
+        490,
+        506,
+        574
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "birds like sand on the seashore",
+      "korean_translation": "바닷가의 모래처럼 새들을",
+      "word_indices": [
+        7,
+        386,
+        1302,
+        2034
+      ]
+    }
+  ]
+}

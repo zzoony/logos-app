@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 139:8",
+  "version": "NIV",
+  "original_text": "If I go up to the heavens, you are there;\n    if I make my bed in the depths, you are there.",
+  "korean_text": "내가 하늘에 올라갈지라도 거기 계시며 스올에 내 자리를 펼지라도 거기 계시니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I go up to the heavens",
+      "korean_translation": "내가 하늘에 오르면",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you are there",
+      "korean_translation": "주께서 거기 계시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if I make my bed in the depths",
+      "korean_translation": "내가 스올에 누워도",
+      "word_indices": [
+        602,
+        986
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you are there",
+      "korean_translation": "주께서 거기 계시니이다",
+      "word_indices": []
+    }
+  ]
+}

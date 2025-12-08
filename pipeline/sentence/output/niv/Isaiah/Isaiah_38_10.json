@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 38:10",
+  "version": "NIV",
+  "original_text": "I said, “In the prime of my life\n    must I go through the gates of death\n    and be robbed of the rest of my years?”",
+  "korean_text": "내가 말하기를 나의 중년에 스올의 문에 들어가고 나의 여생을 빼앗기게 되리라 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I said",
+      "korean_translation": "내가 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "In the prime of my life",
+      "korean_translation": "내 생의 한창 때에",
+      "word_indices": [
+        37,
+        3855
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must I go through the gates of death",
+      "korean_translation": "내가 죽음의 문을 지나가야 하는가",
+      "word_indices": [
+        39,
+        80
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and be robbed of the rest of my years?",
+      "korean_translation": "그리고 내 남은 해를 빼앗겨야 하는가?",
+      "word_indices": [
+        114
+      ]
+    }
+  ]
+}

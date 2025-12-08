@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 119:60",
+  "version": "NIV",
+  "original_text": "I will hasten and not delay\n    to obey your commands.",
+  "korean_text": "주의 계명들을 지키기에 신속히 하고 지체하지 아니하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will hasten",
+      "korean_translation": "내가 서두르리라",
+      "word_indices": [
+        3625
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and not delay",
+      "korean_translation": "지체하지 아니하리라",
+      "word_indices": [
+        1577
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to obey your commands",
+      "korean_translation": "주의 계명을 지키기 위하여",
+      "word_indices": [
+        48,
+        247
+      ]
+    }
+  ]
+}

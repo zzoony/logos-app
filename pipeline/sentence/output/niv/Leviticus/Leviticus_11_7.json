@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 11:7",
+  "version": "NIV",
+  "original_text": "And the pig, though it has a divided hoof, does not chew the cud; it is unclean for you.",
+  "korean_text": "돼지는 굽이 갈라져 쪽발이로되 새김질을 못하므로 너희에게 부정하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the pig",
+      "korean_translation": "그리고 돼지는",
+      "word_indices": [
+        1551
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "though it has a divided hoof",
+      "korean_translation": "분발된 발굽이 있지만",
+      "word_indices": [
+        127,
+        1617
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "does not chew the cud",
+      "korean_translation": "되새김질을 하지 않으며",
+      "word_indices": [
+        2060,
+        2230
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it is unclean for you",
+      "korean_translation": "너희에게 부정한 것이다",
+      "word_indices": [
+        250
+      ]
+    }
+  ]
+}

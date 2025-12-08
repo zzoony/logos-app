@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Proverbs 24:13",
+  "version": "NIV",
+  "original_text": "Eat honey, my son, for it is good;\n    honey from the comb is sweet to your taste.",
+  "korean_text": "내 아들아 꿀을 먹으라 이것이 좋으니라 송이꿀을 먹으라 이것이 네 입에 다니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Eat honey, my son",
+      "korean_translation": "꿀을 먹으라, 내 아들아",
+      "word_indices": [
+        2,
+        33,
+        785
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for it is good",
+      "korean_translation": "그것이 좋기 때문이다",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "honey from the comb",
+      "korean_translation": "벌집에서 나온 꿀은",
+      "word_indices": [
+        785,
+        4024
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is sweet to your taste",
+      "korean_translation": "네 맛에 달콤하니라",
+      "word_indices": [
+        1203,
+        1470
+      ]
+    }
+  ]
+}

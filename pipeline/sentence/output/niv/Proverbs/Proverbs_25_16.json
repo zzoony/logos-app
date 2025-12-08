@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Proverbs 25:16",
+  "version": "NIV",
+  "original_text": "If you find honey, eat just enough—\n    too much of it, and you will vomit.",
+  "korean_text": "너는 꿀을 보거든 족하리만큼 먹으라 과식함으로 토할까 두려우니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you find honey",
+      "korean_translation": "너가 꿀을 찾으면",
+      "word_indices": [
+        55,
+        785
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "eat just enough",
+      "korean_translation": "적당히만 먹어라",
+      "word_indices": [
+        33,
+        540
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "too much of it",
+      "korean_translation": "너무 많이 먹으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you will vomit",
+      "korean_translation": "그러면 너는 토하게 될 것이다",
+      "word_indices": [
+        1984
+      ]
+    }
+  ]
+}

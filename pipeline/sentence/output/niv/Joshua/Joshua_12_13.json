@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Joshua 12:13",
+  "version": "NIV",
+  "original_text": "the king of Debir one the king of Geder one",
+  "korean_text": "하나는 드빌 왕이요 하나는 게델 왕이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the king of Debir",
+      "korean_translation": "데빌의 왕",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "one",
+      "korean_translation": "한 명",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the king of Geder",
+      "korean_translation": "게델의 왕",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "one",
+      "korean_translation": "한 명",
+      "word_indices": []
+    }
+  ]
+}

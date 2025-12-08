@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Samuel 30:11",
+  "version": "NIV",
+  "original_text": "They found an Egyptian in a field and brought him to David. They gave him water to drink and food to eat—",
+  "korean_text": "무리가 들에서 애굽 사람 하나를 만나 그를 다윗에게로 데려다가 떡을 주어 먹게 하며 물을 마시게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They found an Egyptian in a field",
+      "korean_translation": "그들이 들판에서 한 이집트 사람을 발견했고",
+      "word_indices": [
+        156,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and brought him to David",
+      "korean_translation": "그를 다윗에게 데려왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They gave him water to drink",
+      "korean_translation": "그들은 그에게 마실 물을 주었고",
+      "word_indices": [
+        5,
+        46,
+        78
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and food to eat",
+      "korean_translation": "먹을 음식을 주었습니다",
+      "word_indices": [
+        33,
+        103
+      ]
+    }
+  ]
+}

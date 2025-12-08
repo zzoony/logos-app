@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Samuel 11:20",
+  "version": "NIV",
+  "original_text": "the king’s anger may flare up, and he may ask you, ‘Why did you get so close to the city to fight? Didn’t you know they would shoot arrows from the wall?",
+  "korean_text": "혹시 왕이 노하여 네게 말씀하기를 너희가 어찌하여 성에 그처럼 가까이 가서 싸웠느냐 그들이 성 위에서 쏠 줄을 알지 못하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the king's anger may flare up",
+      "korean_translation": "왕의 분노가 치밀어 오를 수 있고",
+      "word_indices": [
+        4,
+        185,
+        2988
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he may ask you",
+      "korean_translation": "그가 네게 물을지도 모른다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Why did you get so close to the city to fight?'",
+      "korean_translation": "'어째서 싸우려고 성에 그렇게 가까이 갔느냐?'",
+      "word_indices": [
+        23,
+        227,
+        595
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Didn't you know they would shoot arrows from the wall?",
+      "korean_translation": "그들이 성벽에서 화살을 쏠 것이라는 것을 알지 못했느냐?",
+      "word_indices": [
+        13,
+        176,
+        770,
+        963
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 104:10",
+  "version": "NIV",
+  "original_text": "He makes springs pour water into the ravines;\n    it flows between the mountains.",
+  "korean_text": "여호와께서 샘을 골짜기에서 솟아나게 하시고 산 사이에 흐르게 하사",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He makes springs pour water",
+      "korean_translation": "그는 샘들이 물을 쏟게 하시니",
+      "word_indices": [
+        46,
+        266,
+        479
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into the ravines",
+      "korean_translation": "골짜기 속으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it flows",
+      "korean_translation": "그것이 흐르나니",
+      "word_indices": [
+        584
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "between the mountains",
+      "korean_translation": "산들 사이로",
+      "word_indices": [
+        147
+      ]
+    }
+  ]
+}

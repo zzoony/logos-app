@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 61:5",
+  "version": "NIV",
+  "original_text": "Strangers will shepherd your flocks;\n    foreigners will work your fields and vineyards.",
+  "korean_text": "외인은 서서 너희 양 떼를 칠 것이요 이방 사람은 너희 농부와 포도원지기가 될 것이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Strangers will shepherd your flocks",
+      "korean_translation": "낯선 사람들이 네 양떼를 먹일 것이며",
+      "word_indices": [
+        261,
+        437,
+        1045
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "foreigners will work your fields",
+      "korean_translation": "이방인들이 네 밭을 일할 것이며",
+      "word_indices": [
+        65,
+        156,
+        343
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and vineyards",
+      "korean_translation": "포도원도 일할 것이다",
+      "word_indices": [
+        441
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Matthew 9:22",
+  "version": "NIV",
+  "original_text": "Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed at that moment.",
+  "korean_text": "예수께서 돌이켜 그를 보시며 이르시되 딸아 안심하라 네 믿음이 너를 구원하였다 하시니 여자가 그 즉시 구원을 받으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus turned and saw her.",
+      "korean_translation": "예수님은 돌아서서 그녀를 보셨습니다.",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take heart, daughter,",
+      "korean_translation": "딸아, 용기를 내어라.",
+      "word_indices": [
+        36,
+        66
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he said,",
+      "korean_translation": "그가 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your faith has healed you.",
+      "korean_translation": "네 믿음이 너를 고쳤다.",
+      "word_indices": [
+        192,
+        354
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And the woman was healed",
+      "korean_translation": "그리고 그 여인은 고침을 받았습니다.",
+      "word_indices": [
+        50,
+        354
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "at that moment.",
+      "korean_translation": "그 순간에.",
+      "word_indices": [
+        1152
+      ]
+    }
+  ]
+}

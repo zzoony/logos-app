@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Kings 14:3",
+  "version": "NIV",
+  "original_text": "Take ten loaves of bread with you, some cakes and a jar of honey, and go to him. He will tell you what will happen to the boy.”",
+  "korean_text": "그대의 손에 떡 열 개와 과자와 꿀 한 병을 가지고 그에게로 가라 그가 그대에게 이 아이가 어떻게 될지를 알게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Take ten loaves of bread with you",
+      "korean_translation": "떡 열 개를 가지고 가라",
+      "word_indices": [
+        187,
+        240
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some cakes and a jar of honey",
+      "korean_translation": "약간의 과자와 꿀 한 통도",
+      "word_indices": [
+        746,
+        785
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and go to him",
+      "korean_translation": "그에게 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He will tell you",
+      "korean_translation": "그가 너에게 말해줄 것이다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what will happen to the boy",
+      "korean_translation": "그 소년에게 무슨 일이 일어날지를",
+      "word_indices": [
+        275,
+        525
+      ]
+    }
+  ]
+}

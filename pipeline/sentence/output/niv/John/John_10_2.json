@@ -1,0 +1,26 @@
+{
+  "verse_reference": "John 10:2",
+  "version": "NIV",
+  "original_text": "The one who enters by the gate is the shepherd of the sheep.",
+  "korean_text": "문으로 들어가는 이는 양의 목자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one who enters by the gate",
+      "korean_translation": "문으로 들어가는 사람",
+      "word_indices": [
+        132,
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is the shepherd of the sheep",
+      "korean_translation": "양들의 목자이다",
+      "word_indices": [
+        251,
+        437
+      ]
+    }
+  ]
+}

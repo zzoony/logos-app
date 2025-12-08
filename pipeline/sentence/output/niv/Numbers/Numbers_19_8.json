@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Numbers 19:8",
+  "version": "NIV",
+  "original_text": "The man who burns it must also wash his clothes and bathe with water, and he too will be unclean till evening.",
+  "korean_text": "송아지를 불사른 자도 자기의 옷을 물로 빨고 물로 그 몸을 씻을 것이라 그도 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man who burns it",
+      "korean_translation": "그것을 불사르는 사람은",
+      "word_indices": [
+        10,
+        47
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must also wash his clothes",
+      "korean_translation": "또한 자기 옷을 씻어야 하며",
+      "word_indices": [
+        28,
+        419,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bathe with water",
+      "korean_translation": "물로 목욕해야 합니다",
+      "word_indices": [
+        46,
+        1425
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he too will be unclean",
+      "korean_translation": "그 역시 부정하게 될 것입니다",
+      "word_indices": [
+        250
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "till evening",
+      "korean_translation": "저녁까지",
+      "word_indices": []
+    }
+  ]
+}

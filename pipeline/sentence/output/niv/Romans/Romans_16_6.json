@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Romans 16:6",
+  "version": "NIV",
+  "original_text": "Greet Mary, who worked very hard for you.",
+  "korean_text": "너희를 위하여 많이 수고한 마리아에게 문안하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Greet Mary",
+      "korean_translation": "마리아에게 문안하라",
+      "word_indices": [
+        806
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who worked very hard for you",
+      "korean_translation": "그녀는 너희를 위해 매우 열심히 일했다",
+      "word_indices": [
+        65,
+        781
+      ]
+    }
+  ]
+}

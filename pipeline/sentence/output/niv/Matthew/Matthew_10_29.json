@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 10:29",
+  "version": "NIV",
+  "original_text": "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care.",
+  "korean_text": "참새 두 마리가 한 앗사리온에 팔리지 않느냐 그러나 너희 아버지께서 허락하지 아니하시면 그 하나도 땅에 떨어지지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Are not two sparrows sold for a penny?",
+      "korean_translation": "두 제비가 한 니에에 팔리지 않느냐?",
+      "word_indices": [
+        2863,
+        3680
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Yet not one of them will fall to the ground",
+      "korean_translation": "그러나 그들 중 하나도 땅에 떨어지지 않고",
+      "word_indices": [
+        113,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "outside your Father's care.",
+      "korean_translation": "너희 아버지의 보살핌 없이는.",
+      "word_indices": [
+        12,
+        404,
+        436
+      ]
+    }
+  ]
+}

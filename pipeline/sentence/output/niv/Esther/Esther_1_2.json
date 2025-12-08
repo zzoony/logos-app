@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Esther 1:2",
+  "version": "NIV",
+  "original_text": "At that time King Xerxes reigned from his royal throne in the citadel of Susa,",
+  "korean_text": "당시에 아하수에로 왕이 수산 궁에서 즉위하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At that time",
+      "korean_translation": "그때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "King Xerxes reigned",
+      "korean_translation": "크셀크세스 왕이 통치했고",
+      "word_indices": [
+        4,
+        180
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from his royal throne",
+      "korean_translation": "그의 왕좌에서",
+      "word_indices": [
+        282,
+        381
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the citadel of Susa",
+      "korean_translation": "수산 성에서 통치했다",
+      "word_indices": [
+        1472
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "verse_reference": "2 Kings 5:6",
+  "version": "NIV",
+  "original_text": "The letter that he took to the king of Israel read: “With this letter I am sending my servant Naaman to you so that you may cure him of his leprosy.”",
+  "korean_text": "이스라엘 왕에게 그 글을 전하니 일렀으되 내가 내 신하 나아만을 당신에게 보내오니 이 글이 당신에게 이르거든 당신은 그의 나병을 고쳐 주소서 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The letter that he took to the king of Israel",
+      "korean_translation": "그가 이스라엘 왕에게 가져간 편지는",
+      "word_indices": [
+        4,
+        675
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "read:",
+      "korean_translation": "이렇게 쓰여 있었습니다:",
+      "word_indices": [
+        612
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "With this letter I am sending my servant Naaman",
+      "korean_translation": "이 편지와 함께 내 종 나아만을 보내오니",
+      "word_indices": [
+        20,
+        25,
+        675
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to you",
+      "korean_translation": "당신에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that you may cure him",
+      "korean_translation": "당신이 그를 고쳐주시길 바랍니다",
+      "word_indices": [
+        1740
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "of his leprosy.",
+      "korean_translation": "그의 문둥병을.",
+      "word_indices": [
+        1439
+      ]
+    }
+  ]
+}

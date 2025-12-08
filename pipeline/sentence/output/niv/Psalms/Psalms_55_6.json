@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 55:6",
+  "version": "NIV",
+  "original_text": "I said, “Oh, that I had the wings of a dove!\n    I would fly away and be at rest.",
+  "korean_text": "나는 말하기를 만일 내게 비둘기 같이 날개가 있다면 날아가서 편히 쉬리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I said",
+      "korean_translation": "내가 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Oh, that I had the wings of a dove!",
+      "korean_translation": "아, 내가 비둘기의 날개를 가졌다면!",
+      "word_indices": [
+        593,
+        1504
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I would fly away",
+      "korean_translation": "나는 날아가겠다",
+      "word_indices": [
+        34,
+        942
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and be at rest",
+      "korean_translation": "그리고 안식하겠다",
+      "word_indices": [
+        114
+      ]
+    }
+  ]
+}

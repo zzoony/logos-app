@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Luke 5:5",
+  "version": "NIV",
+  "original_text": "Simon answered, “Master, we’ve worked hard all night and haven’t caught anything. But because you say so, I will let down the nets.”",
+  "korean_text": "시몬이 대답하여 이르되 선생님 우리들이 밤이 새도록 수고하였으되 잡은 것이 없지마는 말씀에 의지하여 내가 그물을 내리리이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon answered,",
+      "korean_translation": "시몬이 대답하였으되,",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Master,",
+      "korean_translation": "선생님,",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we've worked hard all night",
+      "korean_translation": "우리가 밤새도록 수고했으나",
+      "word_indices": [
+        65,
+        126,
+        781
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and haven't caught anything.",
+      "korean_translation": "아무 것도 잡지 못하였습니다.",
+      "word_indices": [
+        3743
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But because you say so,",
+      "korean_translation": "그러나 당신이 말씀하시므로,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will let down the nets.",
+      "korean_translation": "내가 그물을 내리겠습니다.",
+      "word_indices": [
+        1016
+      ]
+    }
+  ]
+}

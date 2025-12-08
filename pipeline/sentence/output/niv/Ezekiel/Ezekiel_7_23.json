@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Ezekiel 7:23",
+  "version": "NIV",
+  "original_text": "“‘Prepare chains!\n    For the land is full of bloodshed,\n    and the city is full of violence.",
+  "korean_text": "너는 쇠사슬을 만들라 이는 피 흘리는 죄가 그 땅에 가득하고 포악이 그 성읍에 찼음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Prepare chains!",
+      "korean_translation": "쇠사슬을 준비하라!",
+      "word_indices": [
+        345,
+        752
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For the land is full of bloodshed,",
+      "korean_translation": "이 땅은 피흘림으로 가득하고",
+      "word_indices": [
+        8,
+        258
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the city is full of violence.",
+      "korean_translation": "그 성은 폭력으로 가득하다.",
+      "word_indices": [
+        23,
+        258,
+        892
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 10:2",
+  "version": "NIV",
+  "original_text": "This is what the Lord says:\n“Do not learn the ways of the nations\n    or be terrified by signs in the heavens,\n    though the nations are terrified by them.",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 여러 나라의 길을 배우지 말라 이방 사람들은 하늘의 징조를 두려워하거니와 너희는 그것을 두려워하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says:",
+      "korean_translation": "이것이 주님께서 말씀하시는 것이다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not learn the ways of the nations",
+      "korean_translation": "이방인들의 방식을 배우지 말라",
+      "word_indices": [
+        41,
+        526
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or be terrified by signs in the heavens,",
+      "korean_translation": "하늘의 징조들로 두려워하지 말라",
+      "word_indices": [
+        57,
+        314
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "though the nations are terrified by them.",
+      "korean_translation": "비록 이방인들이 그것들로 두려워할지라도",
+      "word_indices": [
+        41,
+        127
+      ]
+    }
+  ]
+}

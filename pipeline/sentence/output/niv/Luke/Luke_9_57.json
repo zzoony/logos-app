@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 9:57",
+  "version": "NIV",
+  "original_text": "As they were walking along the road, a man said to him, “I will follow you wherever you go.”",
+  "korean_text": "길 가실 때에 어떤 사람이 여짜오되 어디로 가시든지 나는 따르리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As they were walking along the road",
+      "korean_translation": "그들이 길을 따라 걸어갈 때",
+      "word_indices": [
+        238,
+        484
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a man said to him",
+      "korean_translation": "한 사람이 그에게 말했다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will follow you",
+      "korean_translation": "내가 당신을 따르겠습니다",
+      "word_indices": [
+        91
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "wherever you go",
+      "korean_translation": "당신이 어디에 가든지",
+      "word_indices": []
+    }
+  ]
+}

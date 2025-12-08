@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 18:41",
+  "version": "NIV",
+  "original_text": "And Elijah said to Ahab, “Go, eat and drink, for there is the sound of a heavy rain.”",
+  "korean_text": "엘리야가 아합에게 이르되 올라가서 먹고 마시소서 큰 비 소리가 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Elijah said to Ahab",
+      "korean_translation": "그리하여 엘리야가 아합에게 말하였으되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go, eat and drink",
+      "korean_translation": "가서 먹고 마시라",
+      "word_indices": [
+        33,
+        78
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for there is the sound of a heavy rain",
+      "korean_translation": "이는 많은 비의 소리가 있기 때문이니라",
+      "word_indices": [
+        310,
+        506,
+        932
+      ]
+    }
+  ]
+}

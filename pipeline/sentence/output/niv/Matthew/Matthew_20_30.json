@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 20:30",
+  "version": "NIV",
+  "original_text": "Two blind men were sitting by the roadside, and when they heard that Jesus was going by, they shouted, “Lord, Son of David, have mercy on us!”",
+  "korean_text": "맹인 두 사람이 길 가에 앉았다가 예수께서 지나가신다 함을 듣고 소리 질러 이르되 주여 우리를 불쌍히 여기소서 다윗의 자손이여 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two blind men were sitting by the roadside",
+      "korean_translation": "두 맹인이 길가에 앉아 있었는데",
+      "word_indices": [
+        606,
+        2911
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and when they heard that Jesus was going by",
+      "korean_translation": "그리고 예수께서 지나가신다는 것을 들었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they shouted",
+      "korean_translation": "그들이 소리치며",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Lord, Son of David, have mercy on us!",
+      "korean_translation": "주님, 다윗의 자손이여, 우리에게 자비를 베푸소서!",
+      "word_indices": [
+        2,
+        413
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 18:7",
+  "version": "NIV",
+  "original_text": "Woe to the world because of the things that cause people to stumble! Such things must come, but woe to the person through whom they come!",
+  "korean_text": "실족하게 하는 일들이 있음으로 말미암아 세상에 화가 있도다 실족하게 하는 일이 없을 수는 없으나 실족하게 하는 그 사람에게는 화가 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to the world",
+      "korean_translation": "세상에게 화가 있다",
+      "word_indices": [
+        190,
+        517
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because of the things that cause people to stumble",
+      "korean_translation": "사람들을 실족하게 하는 것들 때문에",
+      "word_indices": [
+        3,
+        286,
+        591
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Such things must come",
+      "korean_translation": "그런 것들은 반드시 올 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but woe to the person",
+      "korean_translation": "그러나 그 사람에게 화가 있다",
+      "word_indices": [
+        134,
+        517
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "through whom they come",
+      "korean_translation": "그를 통해 그것들이 오는",
+      "word_indices": [
+        39
+      ]
+    }
+  ]
+}

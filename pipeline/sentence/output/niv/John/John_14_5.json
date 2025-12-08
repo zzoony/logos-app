@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 14:5",
+  "version": "NIV",
+  "original_text": "Thomas said to him, “Lord, we don’t know where you are going, so how can we know the way?”",
+  "korean_text": "도마가 이르되 주여 주께서 어디로 가시는지 우리가 알지 못하거늘 그 길을 어찌 알겠사옵나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thomas said to him",
+      "korean_translation": "도마가 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we don't know where you are going",
+      "korean_translation": "우리는 당신이 어디로 가는지 모릅니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so how can we know the way?",
+      "korean_translation": "그러니 우리가 어떻게 그 길을 알 수 있겠습니까?",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

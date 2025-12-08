@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 6:21",
+  "version": "NIV",
+  "original_text": "You are to take every kind of food that is to be eaten and store it away as food for you and for them.”",
+  "korean_text": "너는 먹을 모든 양식을 네게로 가져다가 저축하라 이것이 너와 그들의 먹을 것이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are to take every kind of food",
+      "korean_translation": "너는 모든 종류의 음식을 가져가야 한다",
+      "word_indices": [
+        103,
+        279
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that is to be eaten",
+      "korean_translation": "먹을 수 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and store it away as food",
+      "korean_translation": "그리고 그것을 음식으로 저장해라",
+      "word_indices": [
+        34,
+        103,
+        835
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for you and for them",
+      "korean_translation": "너와 그들을 위해",
+      "word_indices": []
+    }
+  ]
+}

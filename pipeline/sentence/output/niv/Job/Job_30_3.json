@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Job 30:3",
+  "version": "NIV",
+  "original_text": "Haggard from want and hunger,\n    they roamed the parched land\n    in desolate wastelands at night.",
+  "korean_text": "그들은 곧 궁핍과 기근으로 인하여 파리하며 캄캄하고 메마른 땅에서 마른 흙을 씹으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Haggard from want and hunger,",
+      "korean_translation": "궁핍과 굶주림으로 해쳐져서,",
+      "word_indices": [
+        161,
+        1678,
+        4343
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they roamed the parched land",
+      "korean_translation": "그들은 메마른 땅을 떠돌며",
+      "word_indices": [
+        8,
+        1694,
+        2478
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in desolate wastelands at night.",
+      "korean_translation": "밤에 황무지에서 배회했다.",
+      "word_indices": [
+        126,
+        629,
+        1406
+      ]
+    }
+  ]
+}

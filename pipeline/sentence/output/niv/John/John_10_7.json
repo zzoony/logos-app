@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 10:7",
+  "version": "NIV",
+  "original_text": "Therefore Jesus said again, “Very truly I tell you, I am the gate for the sheep.",
+  "korean_text": "그러므로 예수께서 다시 이르시되 내가 진실로 진실로 너희에게 말하노니 나는 양의 문이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore Jesus said again",
+      "korean_translation": "그러므로 예수께서 다시 말씀하시되",
+      "word_indices": [
+        83
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Very truly I tell you",
+      "korean_translation": "내가 진실로 너희에게 말하노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am the gate for the sheep",
+      "korean_translation": "나는 양의 문이니라",
+      "word_indices": [
+        132,
+        251
+      ]
+    }
+  ]
+}

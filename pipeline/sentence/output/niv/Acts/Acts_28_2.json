@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Acts 28:2",
+  "version": "NIV",
+  "original_text": "The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold.",
+  "korean_text": "비가 오고 날이 차매 원주민들이 우리에게 특별한 동정을 하여 불을 피워 우리를 다 영접하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The islanders showed us unusual kindness",
+      "korean_translation": "섬 사람들은 우리에게 특별한 친절을 보였다",
+      "word_indices": [
+        128,
+        3792,
+        4820
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They built a fire",
+      "korean_translation": "그들은 불을 피웠다",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and welcomed us all",
+      "korean_translation": "그리고 우리 모두를 환영했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because it was raining",
+      "korean_translation": "비가 내리고 있었기 때문이다",
+      "word_indices": [
+        506
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and cold",
+      "korean_translation": "그리고 추웠기 때문이다",
+      "word_indices": [
+        1882
+      ]
+    }
+  ]
+}

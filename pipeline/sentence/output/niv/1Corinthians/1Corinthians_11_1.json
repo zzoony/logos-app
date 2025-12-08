@@ -1,0 +1,27 @@
+{
+  "verse_reference": "1 Corinthians 11:1",
+  "version": "NIV",
+  "original_text": "Follow my example, as I follow the example of Christ.",
+  "korean_text": "내가 그리스도를 본받는 자가 된 것 같이 너희는 나를 본받는 자가 되라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Follow my example",
+      "korean_translation": "나의 본을 따르라",
+      "word_indices": [
+        91,
+        1476
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as I follow the example of Christ",
+      "korean_translation": "내가 그리스도의 본을 따르는 것처럼",
+      "word_indices": [
+        73,
+        91,
+        1476
+      ]
+    }
+  ]
+}

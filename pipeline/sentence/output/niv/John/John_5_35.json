@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 5:35",
+  "version": "NIV",
+  "original_text": "John was a lamp that burned and gave light, and you chose for a time to enjoy his light.",
+  "korean_text": "요한은 켜서 비추이는 등불이라 너희가 한때 그 빛에 즐거이 있기를 원하였거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John was a lamp",
+      "korean_translation": "요한은 등불이었으며",
+      "word_indices": [
+        726
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that burned and gave light",
+      "korean_translation": "타서 빛을 주었고",
+      "word_indices": [
+        5,
+        47,
+        205
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you chose for a time",
+      "korean_translation": "그리고 당신은 잠시 동안 선택했었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to enjoy his light",
+      "korean_translation": "그의 빛을 즐기기 위해",
+      "word_indices": [
+        205,
+        846
+      ]
+    }
+  ]
+}

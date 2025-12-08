@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 142:3",
+  "version": "NIV",
+  "original_text": "When my spirit grows faint within me,\n    it is you who watch over my way.\nIn the path where I walk\n    people have hidden a snare for me.",
+  "korean_text": "내 영이 내 속에서 상할 때에도 주께서 내 길을 아셨나이다 내가 가는 길에 그들이 나를 잡으려고 올무를 숨겼나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When my spirit grows faint within me",
+      "korean_translation": "내 영이 내 안에서 기진할 때에",
+      "word_indices": [
+        62,
+        269,
+        1199
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it is you who watch over my way",
+      "korean_translation": "주께서 내 길을 지켜보시나이다",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "In the path where I walk",
+      "korean_translation": "내가 걷는 길에서",
+      "word_indices": [
+        238,
+        516
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "people have hidden a snare for me",
+      "korean_translation": "사람들이 나를 위해 올무를 숨겼나이다",
+      "word_indices": [
+        3,
+        897
+      ]
+    }
+  ]
+}

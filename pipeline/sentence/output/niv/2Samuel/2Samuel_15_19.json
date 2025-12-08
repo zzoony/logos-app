@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Samuel 15:19",
+  "version": "NIV",
+  "original_text": "The king said to Ittai the Gittite, “Why should you come along with us? Go back and stay with King Absalom. You are a foreigner, an exile from your homeland.",
+  "korean_text": "그 때에 왕이 가드 사람 잇대에게 이르되 어찌하여 너도 우리와 함께 가느냐 너는 쫓겨난 나그네이니 돌아가서 왕과 함께 네 곳에 있으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king said to Ittai the Gittite",
+      "korean_translation": "왕이 가듛 사람 잇대에게 말하였다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why should you come along with us?",
+      "korean_translation": "어찌하여 우리와 함께 오려느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Go back and stay with King Absalom.",
+      "korean_translation": "돌아가서 압살롬 왕과 함께 있으라",
+      "word_indices": [
+        4,
+        52,
+        197
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You are a foreigner",
+      "korean_translation": "너는 외국인이라",
+      "word_indices": [
+        343
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "an exile from your homeland.",
+      "korean_translation": "고향으로부터 추방된 자이니라",
+      "word_indices": [
+        427,
+        2721
+      ]
+    }
+  ]
+}

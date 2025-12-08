@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Corinthians 10:17",
+  "version": "NIV",
+  "original_text": "Because there is one loaf, we, who are many, are one body, for we all share the one loaf.",
+  "korean_text": "떡이 하나요 많은 우리가 한 몸이니 이는 우리가 다 한 떡에 참여함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because there is one loaf",
+      "korean_translation": "한 떡이 있기 때문에",
+      "word_indices": [
+        734
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we, who are many, are one body",
+      "korean_translation": "우리는 많은 사람이지만 한 몸입니다",
+      "word_indices": [
+        137
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for we all share the one loaf",
+      "korean_translation": "우리 모두가 한 떡을 나누기 때문입니다",
+      "word_indices": [
+        416,
+        734
+      ]
+    }
+  ]
+}

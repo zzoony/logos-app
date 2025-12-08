@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Chronicles 2:31",
+  "version": "NIV",
+  "original_text": "The son of Appaim:\nIshi, who was the father of Sheshan.\nSheshan was the father of Ahlai.",
+  "korean_text": "압바임의 아들은 이시요 이시의 아들은 세산이요 세산의 아들은 알래요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The son of Appaim:",
+      "korean_translation": "암바임의 아들:",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ishi, who was the father of Sheshan.",
+      "korean_translation": "이시는 세산의 아버지였다.",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Sheshan was the father of Ahlai.",
+      "korean_translation": "세산은 아래의 아버지였다.",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

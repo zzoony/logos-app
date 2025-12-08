@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 6:40",
+  "version": "NIV",
+  "original_text": "The student is not above the teacher, but everyone who is fully trained will be like their teacher.",
+  "korean_text": "제자가 그 선생보다 높지 못하나 무릇 온전하게 된 자는 그 선생과 같으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The student is not above the teacher",
+      "korean_translation": "제자는 그 스승보다 위가 아니니",
+      "word_indices": [
+        357,
+        3555
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but everyone who is fully trained",
+      "korean_translation": "그러나 온전히 훈련받은 모든 사람은",
+      "word_indices": [
+        186,
+        915,
+        1447
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will be like their teacher",
+      "korean_translation": "자기 스승과 같으리라",
+      "word_indices": [
+        7,
+        357
+      ]
+    }
+  ]
+}

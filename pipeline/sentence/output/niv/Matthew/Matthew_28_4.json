@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 28:4",
+  "version": "NIV",
+  "original_text": "The guards were so afraid of him that they shook and became like dead men.",
+  "korean_text": "지키던 자들이 그를 무서워하여 떨며 죽은 사람과 같이 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The guards were so afraid of him",
+      "korean_translation": "그들은 그를 두려워하여",
+      "word_indices": [
+        245,
+        281
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that they shook",
+      "korean_translation": "떨며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and became like dead men",
+      "korean_translation": "죽은 사람들 같이 되었더라",
+      "word_indices": [
+        7,
+        115
+      ]
+    }
+  ]
+}

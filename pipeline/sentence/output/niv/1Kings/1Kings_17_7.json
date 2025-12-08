@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 17:7",
+  "version": "NIV",
+  "original_text": "Some time later the brook dried up because there had been no rain in the land.",
+  "korean_text": "땅에 비가 내리지 아니하므로 얼마 후에 그 시내가 마르니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some time later",
+      "korean_translation": "얼마 후에",
+      "word_indices": [
+        638
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the brook dried up",
+      "korean_translation": "개울이 마르고",
+      "word_indices": [
+        2780
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because there had been no rain",
+      "korean_translation": "비가 내리지 않았기 때문이었습니다",
+      "word_indices": [
+        506
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the land",
+      "korean_translation": "그 땅에는",
+      "word_indices": [
+        8
+      ]
+    }
+  ]
+}

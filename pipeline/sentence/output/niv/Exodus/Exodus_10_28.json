@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 10:28",
+  "version": "NIV",
+  "original_text": "Pharaoh said to Moses, “Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die.”",
+  "korean_text": "바로가 모세에게 이르되 너는 나를 떠나가고 스스로 삼가 다시 내 얼굴을 보지 말라 네가 내 얼굴을 보는 날에는 죽으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pharaoh said to Moses",
+      "korean_translation": "바로가 모세에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Get out of my sight",
+      "korean_translation": "내 눈앞에서 사라져라",
+      "word_indices": [
+        353
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Make sure you do not appear before me again",
+      "korean_translation": "다시는 내 앞에 나타나지 않도록 하라",
+      "word_indices": [
+        293,
+        803
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The day you see my face",
+      "korean_translation": "네가 내 얼굴을 보는 그날",
+      "word_indices": [
+        87
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will die",
+      "korean_translation": "너는 죽을 것이다",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

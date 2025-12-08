@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Matthew 2:1",
+  "version": "NIV",
+  "original_text": "After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east came to Jerusalem",
+  "korean_text": "헤롯 왕 때에 예수께서 유대 베들레헴에서 나시매 동방으로부터 박사들이 예루살렘에 이르러 말하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After Jesus was born in Bethlehem in Judea",
+      "korean_translation": "예수께서 유대 베들레헴에서 태어난 후",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "during the time of King Herod",
+      "korean_translation": "헤롯 왕 때에",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Magi from the east came to Jerusalem",
+      "korean_translation": "동방에서 온 박사들이 예루살렘에 이르렀다",
+      "word_indices": [
+        283
+      ]
+    }
+  ]
+}

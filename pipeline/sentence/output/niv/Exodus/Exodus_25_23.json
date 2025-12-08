@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 25:23",
+  "version": "NIV",
+  "original_text": "“Make a table of acacia wood—two cubits long, a cubit wide and a cubit and a half high.",
+  "korean_text": "너는 조각목으로 상을 만들되 길이는 두 규빗, 너비는 한 규빗, 높이는 한 규빗 반이 되게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Make a table of acacia wood",
+      "korean_translation": "아카시아 나무로 상을 만드세요",
+      "word_indices": [
+        431,
+        528,
+        1311
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "two cubits long",
+      "korean_translation": "길이는 두 규빗",
+      "word_indices": [
+        71,
+        170
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a cubit wide",
+      "korean_translation": "너비는 한 규빗",
+      "word_indices": [
+        170,
+        512
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a cubit and a half high",
+      "korean_translation": "높이는 한 규빗 반",
+      "word_indices": [
+        105,
+        170,
+        368
+      ]
+    }
+  ]
+}

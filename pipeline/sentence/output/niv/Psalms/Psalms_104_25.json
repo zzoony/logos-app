@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 104:25",
+  "version": "NIV",
+  "original_text": "There is the sea, vast and spacious,\n    teeming with creatures beyond number—\n    living things both large and small.",
+  "korean_text": "거기에는 크고 넓은 바다가 있고 그 속에는 생물 곧 크고 작은 동물들이 무수하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is the sea",
+      "korean_translation": "바다가 있구나",
+      "word_indices": [
+        108
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "vast and spacious",
+      "korean_translation": "넓고 광활한",
+      "word_indices": [
+        1443
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "teeming with creatures beyond number",
+      "korean_translation": "셀 수 없는 생물들로 가득 차 있는",
+      "word_indices": [
+        201,
+        3108
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "living things both large and small",
+      "korean_translation": "크고 작은 모든 생물들",
+      "word_indices": [
+        346,
+        698
+      ]
+    }
+  ]
+}

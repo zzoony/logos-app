@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Joshua 8:2",
+  "version": "NIV",
+  "original_text": "You shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set an ambush behind the city.”",
+  "korean_text": "너는 여리고와 그 왕에게 행한 것 같이 아이와 그 왕에게 행하되 오직 거기서 탈취할 물건과 가축은 스스로 가지라 너는 아이 성 뒤에 복병을 둘지니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall do to Ai and its king",
+      "korean_translation": "너는 아이와 그 왕에게 행할 것이니",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as you did to Jericho and its king,",
+      "korean_translation": "네가 여리고와 그 왕에게 행한 것 같이 하되",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "except that you may carry off their plunder",
+      "korean_translation": "오직 그 노략한 것과 가축은",
+      "word_indices": [
+        129,
+        401,
+        565
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and livestock for yourselves.",
+      "korean_translation": "너희를 위하여 탈취하라",
+      "word_indices": [
+        610
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Set an ambush behind the city.",
+      "korean_translation": "성 뒤에 복병을 두라",
+      "word_indices": [
+        23,
+        1340
+      ]
+    }
+  ]
+}

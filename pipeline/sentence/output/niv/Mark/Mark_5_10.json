@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Mark 5:10",
+  "version": "NIV",
+  "original_text": "And he begged Jesus again and again not to send them out of the area.",
+  "korean_text": "자기를 그 지방에서 내보내지 마시기를 간구하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he begged Jesus",
+      "korean_translation": "그는 예수님께 간구했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "again and again",
+      "korean_translation": "거듭거듭",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not to send them",
+      "korean_translation": "그들을 보내지 않기를",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "out of the area",
+      "korean_translation": "그 지역 밖으로",
+      "word_indices": [
+        812
+      ]
+    }
+  ]
+}

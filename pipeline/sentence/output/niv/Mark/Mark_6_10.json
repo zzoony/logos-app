@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Mark 6:10",
+  "version": "NIV",
+  "original_text": "Whenever you enter a house, stay there until you leave that town.",
+  "korean_text": "또 이르시되 어디서든지 누구의 집에 들어가거든 그 곳을 떠나기까지 거기 유하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whenever you enter a house",
+      "korean_translation": "너희가 집에 들어갈 때마다",
+      "word_indices": [
+        26,
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "stay there",
+      "korean_translation": "그곳에 머물러라",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until you leave that town",
+      "korean_translation": "그 동네를 떠날 때까지",
+      "word_indices": [
+        30,
+        72
+      ]
+    }
+  ]
+}

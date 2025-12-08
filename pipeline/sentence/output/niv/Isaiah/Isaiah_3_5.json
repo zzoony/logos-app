@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Isaiah 3:5",
+  "version": "NIV",
+  "original_text": "People will oppress each other—\n    man against man, neighbor against neighbor.\nThe young will rise up against the old,\n    the nobody against the honored.",
+  "korean_text": "백성이 서로 학대하며 각기 이웃을 잔해하며 아이가 노인에게, 비천한 자가 존귀한 자에게 교만할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People will oppress each other",
+      "korean_translation": "사람들이 서로를 억압할 것이라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "man against man",
+      "korean_translation": "남자가 남자를 대적하고",
+      "word_indices": [
+        10,
+        11
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neighbor against neighbor",
+      "korean_translation": "이웃이 이웃을 대적하리라",
+      "word_indices": [
+        11,
+        356
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The young will rise up against the old",
+      "korean_translation": "젊은이들이 노인들을 대적하여 일어날 것이라",
+      "word_indices": [
+        11,
+        130,
+        199
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the nobody against the honored",
+      "korean_translation": "비천한 자가 존귀한 자를 대적하리라",
+      "word_indices": [
+        11,
+        244,
+        2868
+      ]
+    }
+  ]
+}

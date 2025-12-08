@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 7:20",
+  "version": "NIV",
+  "original_text": "“You are demon-possessed,” the crowd answered. “Who is trying to kill you?”",
+  "korean_text": "무리가 대답하되 당신은 귀신이 들렸도다 누가 당신을 죽이려 하나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are demon-possessed,",
+      "korean_translation": "당신은 귀신 들렸습니다,",
+      "word_indices": [
+        550,
+        659
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the crowd answered.",
+      "korean_translation": "무리가 대답했습니다.",
+      "word_indices": [
+        63,
+        303
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Who is trying to kill you?",
+      "korean_translation": "누가 당신을 죽이려고 합니까?",
+      "word_indices": [
+        76,
+        466
+      ]
+    }
+  ]
+}

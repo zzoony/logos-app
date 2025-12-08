@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 18:35",
+  "version": "NIV",
+  "original_text": "The water ran down around the altar and even filled the trench.",
+  "korean_text": "물이 제단으로 두루 흐르고 도랑에도 물이 가득 찼더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The water ran down",
+      "korean_translation": "물이 흘러내렸다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "around the altar",
+      "korean_translation": "제단을 둘러싸며",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and even filled the trench",
+      "korean_translation": "심지어 도랑까지 채웠다",
+      "word_indices": [
+        188,
+        3534
+      ]
+    }
+  ]
+}

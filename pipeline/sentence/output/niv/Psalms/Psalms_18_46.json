@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 18:46",
+  "version": "NIV",
+  "original_text": "The Lord lives! Praise be to my Rock!\n    Exalted be God my Savior!",
+  "korean_text": "여호와는 살아 계시니 나의 반석을 찬송하며 내 구원의 하나님을 높일지로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord lives!",
+      "korean_translation": "주께서 살아 계시다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Praise be to my Rock!",
+      "korean_translation": "나의 반석이신 분께 찬양을!",
+      "word_indices": [
+        88,
+        369
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Exalted be God my Savior!",
+      "korean_translation": "나의 구원자이신 하나님께서 높임을 받으시라!",
+      "word_indices": [
+        1,
+        535,
+        823
+      ]
+    }
+  ]
+}

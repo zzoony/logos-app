@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Acts 9:9",
+  "version": "NIV",
+  "original_text": "For three days he was blind, and did not eat or drink anything.",
+  "korean_text": "사흘 동안 보지 못하고 먹지도 마시지도 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For three days he was blind",
+      "korean_translation": "사흘 동안 그는 눈이 멀었고",
+      "word_indices": [
+        90,
+        606
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and did not eat or drink anything",
+      "korean_translation": "아무것도 먹지도 마시지도 못하였다",
+      "word_indices": [
+        33,
+        78
+      ]
+    }
+  ]
+}

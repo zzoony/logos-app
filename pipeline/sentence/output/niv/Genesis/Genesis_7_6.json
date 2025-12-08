@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Genesis 7:6",
+  "version": "NIV",
+  "original_text": "Noah was six hundred years old when the floodwaters came on the earth.",
+  "korean_text": "홍수가 땅에 있을 때에 노아가 육백 세라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Noah was six hundred years old",
+      "korean_translation": "노아는 육백 살이었습니다",
+      "word_indices": [
+        395
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the floodwaters came",
+      "korean_translation": "홍수가 닥쳤을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the earth",
+      "korean_translation": "땅 위에",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

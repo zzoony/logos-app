@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 8:37",
+  "version": "NIV",
+  "original_text": "I know that you are Abraham’s descendants. Yet you are looking for a way to kill me, because you have no room for my word.",
+  "korean_text": "나도 너희가 아브라함의 자손인 줄 아노라 그러나 내 말이 너희 안에 있을 곳이 없으므로 나를 죽이려 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that you are Abraham's descendants.",
+      "korean_translation": "나는 너희가 아브라함의 자손인 줄 안다.",
+      "word_indices": [
+        13,
+        92
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Yet you are looking for a way to kill me,",
+      "korean_translation": "그러나 너희는 나를 죽일 기회를 찾고 있으며,",
+      "word_indices": [
+        51,
+        76
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because you have no room for my word.",
+      "korean_translation": "이는 너희가 내 말을 받을 공간이 없기 때문이다.",
+      "word_indices": [
+        19,
+        409
+      ]
+    }
+  ]
+}

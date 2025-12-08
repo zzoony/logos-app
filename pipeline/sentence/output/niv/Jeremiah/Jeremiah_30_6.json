@@ -1,0 +1,70 @@
+{
+  "verse_reference": "Jeremiah 30:6",
+  "version": "NIV",
+  "original_text": "Ask and see:\n    Can a man bear children?\nThen why do I see every strong man\n    with his hands on his stomach like a woman in labor,\n    every face turned deathly pale?",
+  "korean_text": "너희는 자식을 해산하는 남자가 있는가 물어보라 어찌하여 모든 남자가 해산하는 여자 같이 손을 자기 허리에 대고 모든 얼굴이 겁에 질려 새파래졌는가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ask and see:",
+      "korean_translation": "물어서 보아라:",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Can a man bear children?",
+      "korean_translation": "남자가 아이를 낳을 수 있느냐?",
+      "word_indices": [
+        10,
+        111
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then why do I see",
+      "korean_translation": "그런데 어째서 내가 보는가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "every strong man",
+      "korean_translation": "모든 강한 남자가",
+      "word_indices": [
+        10,
+        342
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with his hands on his stomach",
+      "korean_translation": "손을 배에 얹고",
+      "word_indices": [
+        9,
+        1509
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "like a woman in labor,",
+      "korean_translation": "해산하는 여자처럼,",
+      "word_indices": [
+        7,
+        50,
+        511
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "every face turned deathly pale?",
+      "korean_translation": "모든 얼굴이 창백하게 변하는가?",
+      "word_indices": [
+        49,
+        87,
+        2394,
+        4665
+      ]
+    }
+  ]
+}

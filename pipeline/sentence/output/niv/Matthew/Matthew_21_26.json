@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Matthew 21:26",
+  "version": "NIV",
+  "original_text": "But if we say, ‘Of human origin’—we are afraid of the people, for they all hold that John was a prophet.”",
+  "korean_text": "만일 사람으로부터라 하면 모든 사람이 요한을 선지자로 여기니 백성이 무섭다 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if we say",
+      "korean_translation": "그러나 만약 우리가 말한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Of human origin",
+      "korean_translation": "인간적인 기원에서",
+      "word_indices": [
+        239,
+        2274
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we are afraid of the people",
+      "korean_translation": "우리는 백성들을 두려워한다",
+      "word_indices": [
+        3,
+        245
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for they all hold",
+      "korean_translation": "왜냐하면 그들은 모두 믿고 있다",
+      "word_indices": [
+        158
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that John was a prophet",
+      "korean_translation": "요한은 예언자였다고",
+      "word_indices": [
+        70
+      ]
+    }
+  ]
+}

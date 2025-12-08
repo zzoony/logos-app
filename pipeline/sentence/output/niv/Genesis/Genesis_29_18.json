@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 29:18",
+  "version": "NIV",
+  "original_text": "Jacob was in love with Rachel and said, “I’ll work for you seven years in return for your younger daughter Rachel.”",
+  "korean_text": "야곱이 라헬을 더 사랑하므로 대답하되 내가 외삼촌의 작은 딸 라헬을 위하여 외삼촌에게 칠 년을 섬기리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob was in love with Rachel",
+      "korean_translation": "야곱은 라헬과 사랑에 빠졌다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "그리고 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I'll work for you seven years",
+      "korean_translation": "나는 당신을 위해 7년 동안 일하겠습니다",
+      "word_indices": [
+        65,
+        96
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in return for your younger daughter Rachel",
+      "korean_translation": "당신의 막내 딸 라헬을 대가로",
+      "word_indices": [
+        66,
+        89,
+        1230
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "verse_reference": "Genesis 50:5",
+  "version": "NIV",
+  "original_text": "‘My father made me swear an oath and said, “I am about to die; bury me in the tomb I dug for myself in the land of Canaan.” Now let me go up and bury my father; then I will return.’”",
+  "korean_text": "우리 아버지가 나로 맹세하게 하여 이르되 내가 죽거든 가나안 땅에 내가 파 놓은 묘실에 나를 장사하라 하였나니 나로 올라가서 아버지를 장사하게 하소서 내가 다시 오리이다 하라 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My father made me swear an oath",
+      "korean_translation": "내 아버지께서 나에게 맹세하게 하셨고",
+      "word_indices": [
+        12,
+        329,
+        391
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am about to die",
+      "korean_translation": "나는 죽을 것이다",
+      "word_indices": [
+        58
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bury me in the tomb",
+      "korean_translation": "나를 무덤에 묻어다오",
+      "word_indices": [
+        341,
+        621
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I dug for myself",
+      "korean_translation": "내가 스스로를 위해 판",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in the land of Canaan",
+      "korean_translation": "가나안 땅에 있는",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Now let me go up",
+      "korean_translation": "이제 나를 올려보내다오",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and bury my father",
+      "korean_translation": "그리고 내 아버지를 묻게 하라",
+      "word_indices": [
+        12,
+        341
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "then I will return",
+      "korean_translation": "그러면 내가 돌아오겠다",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

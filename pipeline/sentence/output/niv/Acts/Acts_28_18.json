@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 28:18",
+  "version": "NIV",
+  "original_text": "They examined me and wanted to release me, because I was not guilty of any crime deserving death.",
+  "korean_text": "로마인은 나를 심문하여 죽일 죄목이 없으므로 석방하려 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They examined me",
+      "korean_translation": "그들이 나를 심문했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and wanted to release me",
+      "korean_translation": "나를 풀어주려고 했습니다",
+      "word_indices": [
+        161,
+        811
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because I was not guilty",
+      "korean_translation": "왜냐하면 내가 죄가 없었기 때문입니다",
+      "word_indices": [
+        642
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of any crime deserving death",
+      "korean_translation": "사형에 처할 어떤 범죄도",
+      "word_indices": [
+        80,
+        1453
+      ]
+    }
+  ]
+}

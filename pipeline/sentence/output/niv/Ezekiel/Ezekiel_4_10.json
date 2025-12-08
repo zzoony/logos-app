@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Ezekiel 4:10",
+  "version": "NIV",
+  "original_text": "Weigh out twenty shekels of food to eat each day and eat it at set times.",
+  "korean_text": "너는 음식물을 달아서 하루 이십 세겔씩 때를 따라 먹고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Weigh out twenty shekels of food",
+      "korean_translation": "스무 세겔의 식량을 달아내고",
+      "word_indices": [
+        103,
+        220,
+        362,
+        585
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to eat each day",
+      "korean_translation": "매일 먹도록",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and eat it at set times",
+      "korean_translation": "정해진 시간에 그것을 먹으라",
+      "word_indices": [
+        33
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Psalms 31:11",
+  "version": "NIV",
+  "original_text": "Because of all my enemies,\n    I am the utter contempt of my neighbors\nand an object of dread to my closest friends—\n    those who see me on the street flee from me.",
+  "korean_text": "내가 모든 대적들 때문에 욕을 당하고 내 이웃에게서는 심히 당하니 내 친구가 놀라고 길에서 보는 자가 나를 피하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of all my enemies",
+      "korean_translation": "나의 모든 원수들 때문에",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am the utter contempt of my neighbors",
+      "korean_translation": "나는 이웃들의 완전한 멸시를 받습니다",
+      "word_indices": [
+        356,
+        1090,
+        1127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and an object of dread to my closest friends",
+      "korean_translation": "그리고 가장 가까운 친구들에게는 두려움의 대상입니다",
+      "word_indices": [
+        335,
+        874,
+        1322,
+        2599
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "those who see me on the street",
+      "korean_translation": "거리에서 나를 보는 자들",
+      "word_indices": [
+        613
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "flee from me",
+      "korean_translation": "나에게서 도망합니다",
+      "word_indices": [
+        219
+      ]
+    }
+  ]
+}

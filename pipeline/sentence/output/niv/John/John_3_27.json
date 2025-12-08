@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 3:27",
+  "version": "NIV",
+  "original_text": "To this John replied, “A person can receive only what is given them from heaven.",
+  "korean_text": "요한이 대답하여 이르되 만일 하늘에서 주신 바 아니면 사람이 아무 것도 받을 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To this John replied,",
+      "korean_translation": "이에 요한이 대답하여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A person can receive only what is given them",
+      "korean_translation": "사람은 자기에게 주어진 것만 받을 수 있고",
+      "word_indices": [
+        5,
+        134,
+        179
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from heaven.",
+      "korean_translation": "하늘에서 받은 것이니라",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

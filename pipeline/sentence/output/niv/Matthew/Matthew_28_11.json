@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 28:11",
+  "version": "NIV",
+  "original_text": "While the women were on their way, some of the guards went into the city and reported to the chief priests everything that had happened.",
+  "korean_text": "여자들이 갈 때 경비병 중 몇이 성에 들어가 모든 된 일을 대제사장들에게 알리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While the women were on their way",
+      "korean_translation": "여자들이 길을 가는 동안",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some of the guards went into the city",
+      "korean_translation": "경비병 중 몇 명이 도시로 들어갔습니다",
+      "word_indices": [
+        23,
+        281
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and reported to the chief priests",
+      "korean_translation": "그리고 대제사장들에게 보고했습니다",
+      "word_indices": [
+        22,
+        320,
+        473
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "everything that had happened",
+      "korean_translation": "일어난 모든 일을",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

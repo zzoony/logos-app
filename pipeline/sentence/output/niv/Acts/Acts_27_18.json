@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Acts 27:18",
+  "version": "NIV",
+  "original_text": "We took such a violent battering from the storm that the next day they began to throw the cargo overboard.",
+  "korean_text": "우리가 풍랑으로 심히 애쓰다가 이튿날 사공들이 짐을 바다에 풀어 버리고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We took such a violent battering from the storm",
+      "korean_translation": "우리는 폭풍으로 인해 그렇게 격렬한 타격을 받았습니다",
+      "word_indices": [
+        1148,
+        1378,
+        2634
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the next day they began",
+      "korean_translation": "그래서 다음 날 그들은 시작했습니다",
+      "word_indices": [
+        277
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to throw the cargo overboard",
+      "korean_translation": "화물을 바다에 던지기 시작했습니다",
+      "word_indices": [
+        221,
+        2493,
+        3677
+      ]
+    }
+  ]
+}

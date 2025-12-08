@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Acts 10:12",
+  "version": "NIV",
+  "original_text": "It contained all kinds of four-footed animals, as well as reptiles and birds.",
+  "korean_text": "그 안에는 땅에 있는 각종 네 발 가진 짐승과 기는 것과 공중에 나는 것들이 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It contained all kinds of four-footed animals",
+      "korean_translation": "그것은 모든 종류의 네 발 동물들을 담고 있었습니다",
+      "word_indices": [
+        123,
+        195,
+        203,
+        279,
+        1720
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as well as reptiles",
+      "korean_translation": "파충류들도 있었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and birds",
+      "korean_translation": "새들도 있었습니다",
+      "word_indices": [
+        386
+      ]
+    }
+  ]
+}

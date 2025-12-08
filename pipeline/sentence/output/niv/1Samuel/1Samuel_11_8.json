@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Samuel 11:8",
+  "version": "NIV",
+  "original_text": "When Saul mustered them at Bezek, the men of Israel numbered three hundred thousand and those of Judah thirty thousand.",
+  "korean_text": "사울이 베섹에서 그들의 수를 세어 보니 이스라엘 자손이 삼십만 명이요 유다 사람이 삼만 명이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Saul mustered them at Bezek,",
+      "korean_translation": "사울이 베세크에서 그들을 소집했을 때,",
+      "word_indices": [
+        1556
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the men of Israel numbered three hundred thousand",
+      "korean_translation": "이스라엘 사람은 삼십만 명이었고",
+      "word_indices": [
+        90,
+        136,
+        201
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and those of Judah thirty thousand.",
+      "korean_translation": "유다 사람은 삼만 명이었습니다.",
+      "word_indices": [
+        136,
+        403
+      ]
+    }
+  ]
+}

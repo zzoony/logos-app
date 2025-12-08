@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 6:25",
+  "version": "NIV",
+  "original_text": "Woe to you who are well fed now,\n    for you will go hungry.\nWoe to you who laugh now,\n    for you will mourn and weep.",
+  "korean_text": "화 있을진저 너희 지금 배부른 자여 너희는 주리리로다 화 있을진저 너희 지금 웃는 자여 너희가 애통하며 울리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to you who are well fed now",
+      "korean_translation": "지금 배부른 자들에게 화 있으리니",
+      "word_indices": [
+        517
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for you will go hungry",
+      "korean_translation": "너희가 주릴 것임이요",
+      "word_indices": [
+        862
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Woe to you who laugh now",
+      "korean_translation": "지금 웃는 자들에게 화가 있으리니",
+      "word_indices": [
+        517,
+        1420
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for you will mourn",
+      "korean_translation": "너희가 애통할 것임이요",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and weep",
+      "korean_translation": "울 것임이니라",
+      "word_indices": [
+        339
+      ]
+    }
+  ]
+}

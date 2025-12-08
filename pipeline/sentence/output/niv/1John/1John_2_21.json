@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 John 2:21",
+  "version": "NIV",
+  "original_text": "I do not write to you because you do not know the truth, but because you do know it and because no lie comes from the truth.",
+  "korean_text": "내가 너희에게 쓰는 것은 너희가 진리를 알지 못하기 때문이 아니라 알기 때문이요 또 모든 거짓은 진리에서 나지 않기 때문이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I do not write to you",
+      "korean_translation": "내가 너희에게 쓰는 것은",
+      "word_indices": [
+        85
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because you do not know the truth",
+      "korean_translation": "너희가 진리를 알지 못해서가 아니라",
+      "word_indices": [
+        13,
+        385
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but because you do know it",
+      "korean_translation": "너희가 그것을 알기 때문이다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and because no lie comes from the truth",
+      "korean_translation": "그리고 어떤 거짓도 진리에서 나오지 않기 때문이다",
+      "word_indices": [
+        142,
+        385
+      ]
+    }
+  ]
+}

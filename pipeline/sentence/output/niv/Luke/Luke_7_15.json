@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 7:15",
+  "version": "NIV",
+  "original_text": "The dead man sat up and began to talk, and Jesus gave him back to his mother.",
+  "korean_text": "죽었던 자가 일어나 앉고 말도 하거늘 예수께서 그를 어머니에게 주시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The dead man sat up",
+      "korean_translation": "죽었던 사람이 일어나 앉았고",
+      "word_indices": [
+        10,
+        115
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and began to talk",
+      "korean_translation": "말을 시작했으며",
+      "word_indices": [
+        446
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Jesus gave him back",
+      "korean_translation": "예수님은 그를 돌려주셨고",
+      "word_indices": [
+        5,
+        52
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to his mother",
+      "korean_translation": "그의 어머니에게",
+      "word_indices": [
+        120
+      ]
+    }
+  ]
+}

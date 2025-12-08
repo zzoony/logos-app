@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Kings 5:25",
+  "version": "NIV",
+  "original_text": "When he went in and stood before his master, Elisha asked him, “Where have you been, Gehazi?”\n“Your servant didn’t go anywhere,” Gehazi answered.",
+  "korean_text": "들어가 그의 주인 앞에 서니 엘리사가 이르되 게하시야 네가 어디서 오느냐 하니 대답하되 당신의 종이 아무데도 가지 아니하였나이다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he went in",
+      "korean_translation": "그가 들어갔을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and stood before his master",
+      "korean_translation": "그의 주인 앞에 서서",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Elisha asked him",
+      "korean_translation": "엘리사가 그에게 물었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Where have you been, Gehazi?",
+      "korean_translation": "너는 어디에 있었느냐, 게하시?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Your servant didn't go anywhere",
+      "korean_translation": "당신의 종은 어디에도 가지 않았습니다",
+      "word_indices": [
+        25,
+        1830
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Gehazi answered",
+      "korean_translation": "게하시가 대답했다",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

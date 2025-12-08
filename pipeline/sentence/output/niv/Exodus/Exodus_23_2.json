@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Exodus 23:2",
+  "version": "NIV",
+  "original_text": "“Do not follow the crowd in doing wrong. When you give testimony in a lawsuit, do not pervert justice by siding with the crowd,",
+  "korean_text": "다수를 따라 악을 행하지 말며 송사에 다수를 따라 부당한 증언을 하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not follow the crowd in doing wrong.",
+      "korean_translation": "잘못된 일을 할 때 군중을 따르지 말라.",
+      "word_indices": [
+        91,
+        303,
+        442
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When you give testimony in a lawsuit,",
+      "korean_translation": "소송에서 증언할 때에,",
+      "word_indices": [
+        5,
+        700,
+        2755
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do not pervert justice by siding with the crowd,",
+      "korean_translation": "군중을 편들어 정의를 굽히지 말라.",
+      "word_indices": [
+        303,
+        417,
+        1976
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 63:6",
+  "version": "NIV",
+  "original_text": "On my bed I remember you;\n    I think of you through the watches of the night.",
+  "korean_text": "내가 나의 침상에서 주를 기억하며 새벽에 주의 말씀을 작은 소리로 읊조릴 때에 하오리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On my bed I remember you;",
+      "korean_translation": "내 침대에서 당신을 기억하며",
+      "word_indices": [
+        217,
+        602
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I think of you",
+      "korean_translation": "나는 당신을 생각하며",
+      "word_indices": [
+        236
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "through the watches of the night",
+      "korean_translation": "밤의 시간 동안",
+      "word_indices": [
+        39,
+        126,
+        332
+      ]
+    }
+  ]
+}

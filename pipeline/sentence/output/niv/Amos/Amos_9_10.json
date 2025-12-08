@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Amos 9:10",
+  "version": "NIV",
+  "original_text": "All the sinners among my people\n    will die by the sword,\nall those who say,\n    ‘Disaster will not overtake or meet us.’",
+  "korean_text": "내 백성 중에서 말하기를 화가 우리에게 미치지 아니하며 이르지 아니하리라 하는 모든 죄인은 칼에 죽으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the sinners among my people",
+      "korean_translation": "내 백성 중 모든 죄인들은",
+      "word_indices": [
+        3,
+        27,
+        779
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will die by the sword,",
+      "korean_translation": "칼에 죽으리라",
+      "word_indices": [
+        58,
+        84
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all those who say,",
+      "korean_translation": "말하는 모든 자들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Disaster will not overtake or meet us.'",
+      "korean_translation": "재앙이 우리를 미치거나 만나지 못하리라",
+      "word_indices": [
+        110,
+        424,
+        895
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 10:9",
+  "version": "NIV",
+  "original_text": "like a lion in cover he lies in wait.\nHe lies in wait to catch the helpless;\n    he catches the helpless and drags them off in his net.",
+  "korean_text": "사자가 자기의 굴에 엎드림 같이 그가 은밀한 곳에 엎드려 가련한 자를 잡으려고 기다리며 자기 그물을 끌어당겨 가련한 자를 잡나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "like a lion in cover he lies in wait",
+      "korean_translation": "덤불 속의 사자처럼 그는 웅크리고 기다립니다",
+      "word_indices": [
+        7,
+        200,
+        388,
+        399
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He lies in wait to catch the helpless",
+      "korean_translation": "그는 무력한 자를 잡기 위해 숨어 기다립니다",
+      "word_indices": [
+        388,
+        651
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he catches the helpless",
+      "korean_translation": "그는 무력한 자를 붙잡습니다",
+      "word_indices": [
+        651
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and drags them off in his net",
+      "korean_translation": "그리고 그의 그물로 그들을 끌고 갑니다",
+      "word_indices": [
+        1016,
+        1377
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 105:31",
+  "version": "NIV",
+  "original_text": "He spoke, and there came swarms of flies,\n    and gnats throughout their country.",
+  "korean_text": "여호와께서 말씀하신즉 파리 떼가 오며 그들의 온 영토에 이가 생겼도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He spoke",
+      "korean_translation": "그가 말씀하시자",
+      "word_indices": [
+        5162
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there came swarms of flies",
+      "korean_translation": "그리고 파리 떼가 왔고",
+      "word_indices": [
+        942,
+        1483
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and gnats throughout their country",
+      "korean_translation": "그리고 그들의 온 땅에 모기들이 생겼다",
+      "word_indices": [
+        167,
+        394,
+        2746
+      ]
+    }
+  ]
+}

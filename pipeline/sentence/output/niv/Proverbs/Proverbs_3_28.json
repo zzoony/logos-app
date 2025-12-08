@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Proverbs 3:28",
+  "version": "NIV",
+  "original_text": "Do not say to your neighbor,\n    “Come back tomorrow and I’ll give it to you”—\n    when you already have it with you.",
+  "korean_text": "네게 있거든 이웃에게 이르기를 갔다가 다시 오라 내일 주겠노라 하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not say to your neighbor",
+      "korean_translation": "네 이웃에게 말하지 말라",
+      "word_indices": [
+        356
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Come back tomorrow",
+      "korean_translation": "내일 다시 오너라",
+      "word_indices": [
+        52,
+        820
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I'll give it to you",
+      "korean_translation": "내가 그것을 네게 주리라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when you already have it with you",
+      "korean_translation": "네가 이미 그것을 가지고 있을 때에",
+      "word_indices": []
+    }
+  ]
+}

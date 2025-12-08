@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ecclesiastes 1:6",
+  "version": "NIV",
+  "original_text": "The wind blows to the south\n    and turns to the north;\nround and round it goes,\n    ever returning on its course.",
+  "korean_text": "바람은 남으로 불다가 북으로 돌아가며 이리 돌며 저리 돌아 바람은 그 불던 곳으로 돌아가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wind blows to the south",
+      "korean_translation": "바람이 남쪽으로 불고",
+      "word_indices": [
+        295,
+        433,
+        639
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and turns to the north",
+      "korean_translation": "북쪽으로 돌며",
+      "word_indices": [
+        49,
+        360
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "round and round it goes",
+      "korean_translation": "뱅뱅 돌아가니",
+      "word_indices": [
+        2054
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "ever returning on its course",
+      "korean_translation": "길을 따라 계속 돌아온다",
+      "word_indices": [
+        89,
+        1096
+      ]
+    }
+  ]
+}

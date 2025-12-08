@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Acts 10:31",
+  "version": "NIV",
+  "original_text": "and said, ‘Cornelius, God has heard your prayer and remembered your gifts to the poor.",
+  "korean_text": "말하되 고넬료야 하나님이 네 기도를 들으시고 네 구제를 기억하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and said",
+      "korean_translation": "그리고 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Cornelius",
+      "korean_translation": "고넬료여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God has heard your prayer",
+      "korean_translation": "하나님이 네 기도를 들으셨고",
+      "word_indices": [
+        1,
+        406
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and remembered your gifts to the poor",
+      "korean_translation": "가난한 자에게 주던 구제도 기억하셨느니라",
+      "word_indices": [
+        217,
+        298,
+        316
+      ]
+    }
+  ]
+}

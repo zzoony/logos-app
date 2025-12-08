@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 4:4",
+  "version": "NIV",
+  "original_text": "Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”",
+  "korean_text": "예수께서 대답하여 이르시되 기록되었으되 사람이 떡으로만 살 것이 아니요 하나님의 입으로부터 나오는 모든 말씀으로 살 것이라 하였느니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is written",
+      "korean_translation": "기록된 바 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Man shall not live on bread alone",
+      "korean_translation": "사람은 빵으로만 살 것이 아니다",
+      "word_indices": [
+        10,
+        14,
+        187,
+        480
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but on every word",
+      "korean_translation": "오직 모든 말씀으로",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that comes from the mouth of God",
+      "korean_translation": "하나님의 입에서 나오는 것으로 살 것이다",
+      "word_indices": [
+        1,
+        143
+      ]
+    }
+  ]
+}

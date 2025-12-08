@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Timothy 1:8",
+  "version": "NIV",
+  "original_text": "We know that the law is good if one uses it properly.",
+  "korean_text": "그러나 율법은 사람이 그것을 적법하게만 쓰면 선한 것임을 우리는 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We know that",
+      "korean_translation": "우리는 안다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the law is good",
+      "korean_translation": "율법은 선하다",
+      "word_indices": [
+        42,
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if one uses it properly",
+      "korean_translation": "누군가가 올바르게 사용하면",
+      "word_indices": [
+        6251
+      ]
+    }
+  ]
+}

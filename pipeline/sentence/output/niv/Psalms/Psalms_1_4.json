@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 1:4",
+  "version": "NIV",
+  "original_text": "Not so the wicked!\n    They are like chaff\n    that the wind blows away.",
+  "korean_text": "악인들은 그렇지 아니함이여 오직 바람에 나는 겨와 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Not so the wicked!",
+      "korean_translation": "악인들은 그렇지 않아!",
+      "word_indices": [
+        2221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They are like chaff",
+      "korean_translation": "그들은 검불과 같아",
+      "word_indices": [
+        7,
+        1756
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the wind blows away",
+      "korean_translation": "바람이 흩날려 보내는",
+      "word_indices": [
+        34,
+        295,
+        639
+      ]
+    }
+  ]
+}

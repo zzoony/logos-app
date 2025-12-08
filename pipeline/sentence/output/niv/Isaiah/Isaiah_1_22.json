@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Isaiah 1:22",
+  "version": "NIV",
+  "original_text": "Your silver has become dross,\n    your choice wine is diluted with water.",
+  "korean_text": "네 은은 찌꺼기가 되었고 네 포도주에는 물이 섞였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your silver has become dross",
+      "korean_translation": "네 은은 찌꺼기가 되었고",
+      "word_indices": [
+        32,
+        124
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your choice wine is diluted with water",
+      "korean_translation": "너의 가장 좋은 포도주는 물로 섞였다",
+      "word_indices": [
+        46,
+        215,
+        1181
+      ]
+    }
+  ]
+}

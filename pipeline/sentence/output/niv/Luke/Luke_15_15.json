@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 15:15",
+  "version": "NIV",
+  "original_text": "So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs.",
+  "korean_text": "가서 그 나라 백성 중 한 사람에게 붙여 사니 그가 그를 들로 보내어 돼지를 치게 하였는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So he went",
+      "korean_translation": "그래서 그는 갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and hired himself out",
+      "korean_translation": "고용을 자청했으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to a citizen of that country",
+      "korean_translation": "그 나라의 시민에게",
+      "word_indices": [
+        167,
+        1242
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who sent him to his fields",
+      "korean_translation": "그는 그를 그의 밭으로 보냈고",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to feed pigs",
+      "korean_translation": "돼지를 먹이게 하기 위해",
+      "word_indices": [
+        1551
+      ]
+    }
+  ]
+}

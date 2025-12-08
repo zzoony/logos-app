@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Isaiah 11:7",
+  "version": "NIV",
+  "original_text": "The cow will feed with the bear,\n    their young will lie down together,\n    and the lion will eat straw like the ox.",
+  "korean_text": "암소와 곰이 함께 먹으며 그것들의 새끼가 함께 엎드리며 사자가 소처럼 풀을 먹을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The cow will feed with the bear",
+      "korean_translation": "소가 곰과 함께 먹을 것이며",
+      "word_indices": [
+        111,
+        1354
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "their young will lie down together",
+      "korean_translation": "그들의 새끼가 함께 누울 것이며",
+      "word_indices": [
+        98,
+        130,
+        142
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the lion will eat straw like the ox",
+      "korean_translation": "사자가 소처럼 짚을 먹을 것이다",
+      "word_indices": [
+        7,
+        33,
+        399,
+        547,
+        1491
+      ]
+    }
+  ]
+}

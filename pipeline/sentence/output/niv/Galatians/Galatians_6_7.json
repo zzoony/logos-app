@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Galatians 6:7",
+  "version": "NIV",
+  "original_text": "Do not be deceived: God cannot be mocked. A man reaps what he sows.",
+  "korean_text": "스스로 속이지 말라 하나님은 업신여김을 받지 아니하시나니 사람이 무엇으로 심든지 그대로 거두리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not be deceived",
+      "korean_translation": "속지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God cannot be mocked",
+      "korean_translation": "하나님은 조롱을 받으실 수 없다",
+      "word_indices": [
+        1,
+        207,
+        910
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A man reaps what he sows",
+      "korean_translation": "사람은 자기가 뿌린 것을 거둔다",
+      "word_indices": [
+        10,
+        725,
+        1033
+      ]
+    }
+  ]
+}

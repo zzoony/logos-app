@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 12:18",
+  "version": "NIV",
+  "original_text": "Many people, because they had heard that he had performed this sign, went out to meet him.",
+  "korean_text": "이에 무리가 예수를 맞음은 이 표적 행하심을 들었음이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many people",
+      "korean_translation": "많은 사람들이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because they had heard",
+      "korean_translation": "그들이 들었기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he had performed this sign",
+      "korean_translation": "그가 이 표적을 행했다는 것을",
+      "word_indices": [
+        314,
+        635
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "went out to meet him",
+      "korean_translation": "그를 맞이하러 나갔다",
+      "word_indices": [
+        110
+      ]
+    }
+  ]
+}

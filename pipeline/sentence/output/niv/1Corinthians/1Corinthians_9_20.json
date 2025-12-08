@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Corinthians 9:20",
+  "version": "NIV",
+  "original_text": "To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), so as to win those under the law.",
+  "korean_text": "유대인들에게 내가 유대인과 같이 된 것은 유대인들을 얻고자 함이요 율법 아래에 있는 자들에게는 내가 율법 아래에 있지 아니하나 율법 아래에 있는 자 같이 된 것은 율법 아래에 있는 자들을 얻고자 함이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To the Jews I became like a Jew",
+      "korean_translation": "유대인들에게는 내가 유대인 같이 되었습니다",
+      "word_indices": [
+        7,
+        209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to win the Jews",
+      "korean_translation": "유대인들을 얻기 위함입니다",
+      "word_indices": [
+        209,
+        1303
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "To those under the law I became like one under the law",
+      "korean_translation": "율법 아래 있는 사람들에게는 내가 율법 아래 있는 자 같이 되었습니다",
+      "word_indices": [
+        7,
+        42
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "though I myself am not under the law",
+      "korean_translation": "비록 나 자신은 율법 아래 있지 않지만",
+      "word_indices": [
+        42,
+        127
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so as to win those under the law",
+      "korean_translation": "율법 아래 있는 사람들을 얻기 위함입니다",
+      "word_indices": [
+        42,
+        1303
+      ]
+    }
+  ]
+}

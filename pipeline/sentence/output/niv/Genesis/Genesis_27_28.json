@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 27:28",
+  "version": "NIV",
+  "original_text": "May God give you heaven’s dew\n    and earth’s richness—\n    an abundance of grain and new wine.",
+  "korean_text": "하나님은 하늘의 이슬과 땅의 기름짐이며 풍성한 곡식과 포도주를 네게 주시기를 원하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May God give you heaven's dew",
+      "korean_translation": "하나님이 하늘의 이슬을 네게 주시기를",
+      "word_indices": [
+        1,
+        5,
+        57,
+        1142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and earth's richness—",
+      "korean_translation": "그리고 땅의 풍요를 주시기를",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "an abundance of grain",
+      "korean_translation": "곡식의 풍성함을",
+      "word_indices": [
+        182,
+        1204
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and new wine.",
+      "korean_translation": "그리고 새 포도주를.",
+      "word_indices": [
+        215
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 41:40",
+  "version": "NIV",
+  "original_text": "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you.”",
+  "korean_text": "너는 내 집을 다스리라 내 백성이 다 네 명령에 복종하리니 내가 너보다 높은 것은 내 왕좌뿐이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall be in charge of my palace",
+      "korean_translation": "너는 나의 궁전을 책임질 것이다",
+      "word_indices": [
+        243,
+        296
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all my people are to submit to your orders",
+      "korean_translation": "그리고 나의 모든 백성은 너의 명령에 복종할 것이다",
+      "word_indices": [
+        3,
+        163,
+        1299
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Only with respect to the throne",
+      "korean_translation": "오직 왕위에 관해서만",
+      "word_indices": [
+        282,
+        1009
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will I be greater than you",
+      "korean_translation": "내가 너보다 위일 것이다",
+      "word_indices": [
+        636
+      ]
+    }
+  ]
+}

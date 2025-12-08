@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Job 1:21",
+  "version": "NIV",
+  "original_text": "and said:\n“Naked I came from my mother’s womb,\n    and naked I will depart.\nThe Lord gave and the Lord has taken away;\n    may the name of the Lord be praised.”",
+  "korean_text": "이르되 내가 모태에서 알몸으로 나왔사온즉 또한 알몸이 그리로 돌아가올지라 주신 이도 여호와시요 거두신 이도 여호와시오니 여호와의 이름이 찬송을 받으실지니이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and said",
+      "korean_translation": "그리고 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Naked I came from my mother's womb",
+      "korean_translation": "벌거벗은 몸으로 내가 어머니의 태에서 나왔으며",
+      "word_indices": [
+        120,
+        766
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and naked I will depart",
+      "korean_translation": "벌거벗은 몸으로 떠나갈 것이라",
+      "word_indices": [
+        1256
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Lord gave",
+      "korean_translation": "주셨고",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the Lord has taken away",
+      "korean_translation": "주께서 가져가셨으니",
+      "word_indices": [
+        34
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "may the name of the Lord be praised",
+      "korean_translation": "주의 이름이 찬송 받으시리다",
+      "word_indices": [
+        17
+      ]
+    }
+  ]
+}

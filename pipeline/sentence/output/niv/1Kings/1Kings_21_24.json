@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Kings 21:24",
+  "version": "NIV",
+  "original_text": "“Dogs will eat those belonging to Ahab who die in the city, and the birds will feed on those who die in the country.”",
+  "korean_text": "아합에게 속한 자로서 성읍에서 죽은 자는 개들이 먹고 들에서 죽은 자는 공중의 새가 먹으리라고 하셨느니라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Dogs will eat those belonging to Ahab",
+      "korean_translation": "개들이 아합에게 속한 자들을 먹을 것이며",
+      "word_indices": [
+        33,
+        218,
+        1037
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who die in the city",
+      "korean_translation": "성에서 죽은 자들을",
+      "word_indices": [
+        23,
+        58
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the birds will feed on those",
+      "korean_translation": "새들이 그들을 먹을 것이며",
+      "word_indices": [
+        386
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who die in the country",
+      "korean_translation": "시골에서 죽은 자들을",
+      "word_indices": [
+        58,
+        167
+      ]
+    }
+  ]
+}

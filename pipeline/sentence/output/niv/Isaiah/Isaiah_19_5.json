@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Isaiah 19:5",
+  "version": "NIV",
+  "original_text": "The waters of the river will dry up,\n    and the riverbed will be parched and dry.",
+  "korean_text": "바닷물이 없어지겠고 강이 잦아서 마르겠고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The waters of the river will dry up",
+      "korean_translation": "강물이 마를 것입니다",
+      "word_indices": [
+        46,
+        392,
+        477
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the riverbed will be parched and dry",
+      "korean_translation": "강바닥이 메말라 건조할 것입니다",
+      "word_indices": [
+        477,
+        1694
+      ]
+    }
+  ]
+}

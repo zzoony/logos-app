@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Kings 6:30",
+  "version": "NIV",
+  "original_text": "He also covered the floors of both the inner and outer rooms of the temple with gold.",
+  "korean_text": "내외 성전 마루에는 금으로 입혔으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He also covered",
+      "korean_translation": "그는 또한 입혔습니다",
+      "word_indices": [
+        28,
+        200
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the floors of both the inner and outer rooms",
+      "korean_translation": "내실과 외실의 바닥에",
+      "word_indices": [
+        409,
+        741,
+        767,
+        1055
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the temple",
+      "korean_translation": "성전의",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with gold",
+      "korean_translation": "금으로",
+      "word_indices": [
+        75
+      ]
+    }
+  ]
+}

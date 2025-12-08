@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 Corinthians 11:6",
+  "version": "NIV",
+  "original_text": "For if a woman does not cover her head, she might as well have her hair cut off; but if it is a disgrace for a woman to have her hair cut off or her head shaved, then she should cover her head.",
+  "korean_text": "만일 여자가 머리를 가리지 않거든 깎을 것이요 만일 깎거나 미는 것이 여자에게 부끄러움이 되거든 가릴지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For if a woman does not cover her head",
+      "korean_translation": "이는 만약 여자가 자기 머리를 덮지 않으면",
+      "word_indices": [
+        50,
+        67,
+        200
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she might as well have her hair cut off",
+      "korean_translation": "그녀는 머리를 잘라버리는 것과 마찬가지라",
+      "word_indices": [
+        184,
+        548
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but if it is a disgrace for a woman",
+      "korean_translation": "그러나 만약 여자에게 부끄러운 일이라면",
+      "word_indices": [
+        50,
+        627
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to have her hair cut off or her head shaved",
+      "korean_translation": "머리를 잘리거나 깎이는 것이",
+      "word_indices": [
+        67,
+        184,
+        548
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "then she should cover her head",
+      "korean_translation": "그녀는 머리를 덮어야 한다",
+      "word_indices": [
+        67,
+        200
+      ]
+    }
+  ]
+}

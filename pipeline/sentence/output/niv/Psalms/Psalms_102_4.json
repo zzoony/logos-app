@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 102:4",
+  "version": "NIV",
+  "original_text": "My heart is blighted and withered like grass;\n    I forget to eat my food.",
+  "korean_text": "내가 음식 먹기도 잊었으므로 내 마음이 풀 같이 시들고 말라 버렸사오며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My heart is blighted",
+      "korean_translation": "내 마음이 시들고",
+      "word_indices": [
+        36,
+        2788
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and withered like grass",
+      "korean_translation": "풀처럼 마르며",
+      "word_indices": [
+        7,
+        870
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I forget to eat my food",
+      "korean_translation": "내 음식 먹는 것을 잊었나이다",
+      "word_indices": [
+        33,
+        103,
+        483
+      ]
+    }
+  ]
+}

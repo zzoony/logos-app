@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 107:10",
+  "version": "NIV",
+  "original_text": "Some sat in darkness, in utter darkness,\n    prisoners suffering in iron chains,",
+  "korean_text": "사람이 흑암과 사망의 그늘에 앉으며 곤고와 쇠사슬에 매임은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some sat in darkness",
+      "korean_translation": "어떤 이들은 어둠 속에 앉아 있었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in utter darkness",
+      "korean_translation": "완전한 어둠 속에 있었습니다",
+      "word_indices": [
+        1090
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "prisoners suffering",
+      "korean_translation": "고통받는 죄수들이",
+      "word_indices": [
+        376,
+        913
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in iron chains",
+      "korean_translation": "쇠사슬 속에 있었습니다",
+      "word_indices": [
+        538,
+        752
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Exodus 20:2",
+  "version": "NIV",
+  "original_text": "“I am the Lord your God, who brought you out of Egypt, out of the land of slavery.",
+  "korean_text": "나는 너를 애굽 땅, 종 되었던 집에서 인도하여 낸 네 하나님 여호와니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord your God",
+      "korean_translation": "나는 너의 하나님 여호와이다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who brought you out of Egypt",
+      "korean_translation": "너를 애굽에서 인도하여 낸 분이시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "out of the land of slavery",
+      "korean_translation": "종살이하는 땅에서 너를 인도하여 내었다",
+      "word_indices": [
+        8,
+        1539
+      ]
+    }
+  ]
+}

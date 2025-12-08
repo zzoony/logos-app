@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 28:1",
+  "version": "NIV",
+  "original_text": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.",
+  "korean_text": "안식일이 다 지나고 안식 후 첫날이 되려는 새벽에 막달라 마리아와 다른 마리아가 무덤을 보려고 갔더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After the Sabbath",
+      "korean_translation": "안식일 후에",
+      "word_indices": [
+        319
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at dawn on the first day of the week",
+      "korean_translation": "한 주의 첫째 날 새벽에",
+      "word_indices": [
+        1032,
+        1450
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Mary Magdalene and the other Mary",
+      "korean_translation": "막달라 마리아와 다른 마리아가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "went to look at the tomb",
+      "korean_translation": "무덤을 보러 갔다",
+      "word_indices": [
+        51,
+        621
+      ]
+    }
+  ]
+}

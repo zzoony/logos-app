@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 19:16",
+  "version": "NIV",
+  "original_text": "“The first one came and said, ‘Sir, your mina has earned ten more.’",
+  "korean_text": "그 첫째가 나아와 이르되 주인이여 당신의 한 므나로 열 므나를 남겼나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The first one came",
+      "korean_translation": "첫 번째 사람이 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Sir",
+      "korean_translation": "주인님",
+      "word_indices": [
+        1490
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your mina has earned ten more",
+      "korean_translation": "당신의 미나가 열 개를 더 벌었습니다",
+      "word_indices": [
+        240,
+        2262,
+        2463
+      ]
+    }
+  ]
+}

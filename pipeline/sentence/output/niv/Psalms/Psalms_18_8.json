@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 18:8",
+  "version": "NIV",
+  "original_text": "Smoke rose from his nostrils;\n    consuming fire came from his mouth,\n    burning coals blazed out of it.",
+  "korean_text": "그의 코에서 연기가 오르고 입에서 불이 나와 사름이여 그 불에 숯이 피었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Smoke rose from his nostrils",
+      "korean_translation": "연기가 그의 콧구멍에서 올라왔다",
+      "word_indices": [
+        945,
+        2029
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "consuming fire came from his mouth",
+      "korean_translation": "삼키는 불이 그의 입에서 나왔다",
+      "word_indices": [
+        101,
+        143
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "burning coals blazed out of it",
+      "korean_translation": "타는 숯불이 그것에서 불타올랐다",
+      "word_indices": [
+        47,
+        1398
+      ]
+    }
+  ]
+}

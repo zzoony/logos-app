@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Daniel 8:21",
+  "version": "NIV",
+  "original_text": "The shaggy goat is the king of Greece, and the large horn between its eyes is the first king.",
+  "korean_text": "털이 많은 숫염소는 곧 헬라 왕이요 그의 두 눈 사이에 있는 큰 뿔은 곧 그 첫째 왕이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The shaggy goat is the king of Greece",
+      "korean_translation": "털이 많은 수염소는 헬라의 왕이며",
+      "word_indices": [
+        4,
+        311,
+        5860
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the large horn between its eyes",
+      "korean_translation": "그 눈 사이의 큰 뿔은",
+      "word_indices": [
+        346,
+        503
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is the first king",
+      "korean_translation": "첫 번째 왕이니라",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

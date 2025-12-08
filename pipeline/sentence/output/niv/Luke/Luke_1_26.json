@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 1:26",
+  "version": "NIV",
+  "original_text": "In the sixth month of Elizabeth’s pregnancy, God sent the angel Gabriel to Nazareth, a town in Galilee,",
+  "korean_text": "여섯째 달에 천사 가브리엘이 하나님의 보내심을 받아 갈릴리 나사렛이란 동네에 가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the sixth month of Elizabeth's pregnancy,",
+      "korean_translation": "엘리사벳이 잉태한 지 여섯 달째에,",
+      "word_indices": [
+        189,
+        1062,
+        4718
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God sent the angel Gabriel",
+      "korean_translation": "하나님은 가브리엘 천사를 보내셨다",
+      "word_indices": [
+        1,
+        153
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Nazareth, a town in Galilee,",
+      "korean_translation": "갈릴리 지방 나사렛 동네로",
+      "word_indices": [
+        72
+      ]
+    }
+  ]
+}

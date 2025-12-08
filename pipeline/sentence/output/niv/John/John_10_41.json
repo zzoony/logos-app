@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 10:41",
+  "version": "NIV",
+  "original_text": "and many people came to him. They said, “Though John never performed a sign, all that John said about this man was true.”",
+  "korean_text": "많은 사람이 왔다가 말하되 요한은 아무 표적도 행하지 아니하였으나 요한이 이 사람을 가리켜 말한 것은 다 참이라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and many people came to him",
+      "korean_translation": "그리고 많은 사람들이 그에게 왔다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Though John never performed a sign",
+      "korean_translation": "요한은 결코 표적을 행하지 않았지만",
+      "word_indices": [
+        127,
+        314,
+        635
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all that John said about this man",
+      "korean_translation": "요한이 이 사람에 대해 말한 모든 것은",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "was true",
+      "korean_translation": "참되었다",
+      "word_indices": [
+        439
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "2 Corinthians 7:8",
+  "version": "NIV",
+  "original_text": "Even if I caused you sorrow by my letter, I do not regret it. Though I did regret it—I see that my letter hurt you, but only for a little while—",
+  "korean_text": "그러므로 내가 편지로 너희를 근심하게 한 것을 후회하였으나 지금은 후회하지 아니함은 그 편지가 너희로 잠시만 근심하게 한 줄을 앎이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even if I caused you sorrow by my letter",
+      "korean_translation": "내가 편지로 당신에게 슬픔을 주었더라도",
+      "word_indices": [
+        675,
+        1167
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I do not regret it",
+      "korean_translation": "나는 그것을 후회하지 않습니다",
+      "word_indices": [
+        2534
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Though I did regret it",
+      "korean_translation": "비록 내가 그것을 후회했지만",
+      "word_indices": [
+        127,
+        2534
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I see that my letter hurt you",
+      "korean_translation": "내 편지가 당신을 상처 입혔다는 것을 압니다",
+      "word_indices": [
+        675,
+        2279
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but only for a little while",
+      "korean_translation": "하지만 잠시 동안만이었습니다",
+      "word_indices": [
+        312
+      ]
+    }
+  ]
+}

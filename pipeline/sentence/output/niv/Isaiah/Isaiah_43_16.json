@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Isaiah 43:16",
+  "version": "NIV",
+  "original_text": "This is what the Lord says—\n    he who made a way through the sea,\n    a path through the mighty waters,",
+  "korean_text": "나 여호와가 이같이 말하노라 바다 가운데에 길을, 큰 물 가운데에 지름길을 내고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord says",
+      "korean_translation": "이것이 주께서 말씀하시는 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he who made a way through the sea",
+      "korean_translation": "바다를 통해 길을 만드신 분",
+      "word_indices": [
+        39,
+        108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a path through the mighty waters",
+      "korean_translation": "강한 물들을 통해 길을 만드신 분",
+      "word_indices": [
+        39,
+        46,
+        276,
+        516
+      ]
+    }
+  ]
+}

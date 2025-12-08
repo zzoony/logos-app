@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 12:2",
+  "version": "NIV",
+  "original_text": "Here a dinner was given in Jesus’ honor. Martha served, while Lazarus was among those reclining at the table with him.",
+  "korean_text": "거기서 예수를 위하여 잔치할새 마르다는 일을 하고 나사로는 예수와 함께 앉은 자 중에 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Here a dinner was given in Jesus' honor.",
+      "korean_translation": "여기서 예수님을 위해 만찬이 베풀어졌습니다.",
+      "word_indices": [
+        5,
+        244,
+        2527
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Martha served",
+      "korean_translation": "마르다는 음식을 나누었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "while Lazarus was among those reclining at the table",
+      "korean_translation": "라자로는 식탁에 함께 앉아있는 사람들 중에 있었습니다.",
+      "word_indices": [
+        27,
+        528
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with him.",
+      "korean_translation": "그와 함께였습니다.",
+      "word_indices": []
+    }
+  ]
+}

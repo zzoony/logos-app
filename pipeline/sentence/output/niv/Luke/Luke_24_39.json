@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 24:39",
+  "version": "NIV",
+  "original_text": "Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.”",
+  "korean_text": "내 손과 발을 보고 나인 줄 알라 또 나를 만져 보라 영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Look at my hands and my feet.",
+      "korean_translation": "내 손과 내 발을 보라.",
+      "word_indices": [
+        9,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is I myself!",
+      "korean_translation": "바로 나 자신이다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Touch me and see;",
+      "korean_translation": "나를 만지고 보라.",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a ghost does not have flesh and bones,",
+      "korean_translation": "유령은 살과 뼈가 없으나,",
+      "word_indices": [
+        307,
+        3685
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as you see I have.",
+      "korean_translation": "너희가 보는 바와 같이 나는 가지고 있다.",
+      "word_indices": []
+    }
+  ]
+}

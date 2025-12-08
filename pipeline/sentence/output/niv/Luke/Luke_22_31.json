@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 22:31",
+  "version": "NIV",
+  "original_text": "“Simon, Simon, Satan has asked to sift all of you as wheat.",
+  "korean_text": "시몬아, 시몬아, 보라 사탄이 너희를 밀 까부르듯 하려고 요구하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon, Simon",
+      "korean_translation": "시몬아, 시몬아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Satan has asked",
+      "korean_translation": "사탄이 청했습니다",
+      "word_indices": [
+        31,
+        864
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to sift all of you",
+      "korean_translation": "너희 모두를 체질하기 위해",
+      "word_indices": [
+        5995
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as wheat",
+      "korean_translation": "밀처럼",
+      "word_indices": [
+        974
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Exodus 23:12",
+  "version": "NIV",
+  "original_text": "“Six days do your work, but on the seventh day do not work, so that your ox and your donkey may rest, and so that the slave born in your household and the foreigner living among you may be refreshed.",
+  "korean_text": "너는 엿새 동안에 네 일을 하고 일곱째 날에는 쉬라 네 소와 나귀가 쉴 것이며 네 여종의 자식과 나그네가 숨을 돌리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Six days do your work",
+      "korean_translation": "엿새 동안 네 일을 하고",
+      "word_indices": [
+        65,
+        395
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but on the seventh day do not work",
+      "korean_translation": "이레째는 쉬어라",
+      "word_indices": [
+        65,
+        435
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that your ox and your donkey may rest",
+      "korean_translation": "그리하여 네 소와 네 나귀가 쉴 수 있게 하라",
+      "word_indices": [
+        114,
+        347,
+        547
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and so that the slave born in your household",
+      "korean_translation": "또한 네 집에서 태어난 종과",
+      "word_indices": [
+        287,
+        389
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the foreigner living among you may be refreshed",
+      "korean_translation": "너희 중에 거류하는 이방인이 숨을 돌리게 하라",
+      "word_indices": [
+        27,
+        343,
+        1487
+      ]
+    }
+  ]
+}

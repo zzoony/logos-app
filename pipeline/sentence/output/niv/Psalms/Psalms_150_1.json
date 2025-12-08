@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 150:1",
+  "version": "NIV",
+  "original_text": "Praise the Lord.\nPraise God in his sanctuary;\n    praise him in his mighty heavens.",
+  "korean_text": "할렐루야 그의 성소에서 하나님을 찬양하며 그의 권능의 궁창에서 그를 찬양할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise the Lord.",
+      "korean_translation": "주를 찬양하라.",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Praise God in his sanctuary",
+      "korean_translation": "그의 성소에서 하나님을 찬양하라",
+      "word_indices": [
+        1,
+        88,
+        292
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "praise him in his mighty heavens",
+      "korean_translation": "그의 광대한 하늘에서 그를 찬양하라",
+      "word_indices": [
+        57,
+        88,
+        276
+      ]
+    }
+  ]
+}

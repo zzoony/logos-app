@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 18:48",
+  "version": "NIV",
+  "original_text": "who saves me from my enemies.\nYou exalted me above my foes;\n    from a violent man you rescued me.",
+  "korean_text": "주께서 나를 내 원수들에게서 구조하시니 주께서 나를 대적하는 자들의 위에 나를 높이 드시고 나를 포악한 자에게서 건지시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "who saves me from my enemies",
+      "korean_translation": "나를 내 원수들로부터 구원하시는 분",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You exalted me above my foes",
+      "korean_translation": "주께서 나를 나의 대적들 위에 높이셨습니다",
+      "word_indices": [
+        535
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from a violent man you rescued me",
+      "korean_translation": "폭력적인 사람으로부터 나를 건지셨습니다",
+      "word_indices": [
+        10,
+        1378
+      ]
+    }
+  ]
+}

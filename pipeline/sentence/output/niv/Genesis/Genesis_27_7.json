@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Genesis 27:7",
+  "version": "NIV",
+  "original_text": "‘Bring me some game and prepare me some tasty food to eat, so that I may give you my blessing in the presence of the Lord before I die.’",
+  "korean_text": "나를 위하여 사냥하여 가져다가 별미를 만들어 내가 먹게 하여 죽기 전에 여호와 앞에서 네게 축복하게 하라 하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bring me some game",
+      "korean_translation": "나에게 사냥한 고기를 가져오고",
+      "word_indices": [
+        2202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and prepare me some tasty food to eat",
+      "korean_translation": "먹기 좋은 맛있는 음식을 준비해 다오",
+      "word_indices": [
+        33,
+        103,
+        345,
+        2904
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that I may give you my blessing",
+      "korean_translation": "그래서 내가 너에게 내 축복을 줄 수 있게 하려는 것이다",
+      "word_indices": [
+        5,
+        97
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the presence of the Lord",
+      "korean_translation": "주 앞에서",
+      "word_indices": [
+        257
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before I die",
+      "korean_translation": "내가 죽기 전에",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

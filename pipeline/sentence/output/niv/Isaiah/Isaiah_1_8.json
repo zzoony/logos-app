@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Isaiah 1:8",
+  "version": "NIV",
+  "original_text": "Daughter Zion is left\n    like a shelter in a vineyard,\nlike a hut in a cucumber field,\n    like a city under siege.",
+  "korean_text": "딸 시온은 포도원의 망대 같이, 참외밭의 원두막 같이, 에워 싸인 성읍 같이 겨우 남았도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Daughter Zion is left",
+      "korean_translation": "딸 시온은 버려졌다",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like a shelter in a vineyard",
+      "korean_translation": "포도원에 있는 대피소처럼",
+      "word_indices": [
+        7,
+        441,
+        1086
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like a hut in a cucumber field",
+      "korean_translation": "오이 밭에 있는 오두막처럼",
+      "word_indices": [
+        7,
+        156,
+        3805,
+        3974
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like a city under siege",
+      "korean_translation": "포위된 도시처럼",
+      "word_indices": [
+        7,
+        23,
+        903
+      ]
+    }
+  ]
+}

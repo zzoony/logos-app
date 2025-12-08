@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 15:38",
+  "version": "NIV",
+  "original_text": "The number of those who ate was four thousand men, besides women and children.",
+  "korean_text": "먹은 자는 여자와 어린이 외에 사천 명이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The number of those who ate",
+      "korean_translation": "먹은 사람들의 수는",
+      "word_indices": [
+        201
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was four thousand men",
+      "korean_translation": "사천 명의 남자였으며",
+      "word_indices": [
+        136,
+        203
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "besides women and children",
+      "korean_translation": "여자들과 아이들을 제외하고",
+      "word_indices": []
+    }
+  ]
+}

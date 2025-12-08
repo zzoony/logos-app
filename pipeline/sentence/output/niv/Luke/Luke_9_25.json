@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 9:25",
+  "version": "NIV",
+  "original_text": "What good is it for someone to gain the whole world, and yet lose or forfeit their very self?",
+  "korean_text": "사람이 만일 온 천하를 얻고도 자기를 잃든지 빼앗기든지 하면 무엇이 유익하리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What good is it",
+      "korean_translation": "무슨 유익이 있겠습니까",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for someone to gain the whole world",
+      "korean_translation": "사람이 온 세상을 얻고서도",
+      "word_indices": [
+        99,
+        190,
+        271,
+        537
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and yet lose",
+      "korean_translation": "그러나 잃어버린다면",
+      "word_indices": [
+        596
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or forfeit their very self?",
+      "korean_translation": "자기 자신을 포기한다면?",
+      "word_indices": [
+        1126,
+        3039
+      ]
+    }
+  ]
+}

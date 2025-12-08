@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 21:35",
+  "version": "NIV",
+  "original_text": "For it will come on all those who live on the face of the whole earth.",
+  "korean_text": "이 날은 온 지구상에 거하는 모든 사람에게 임하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For it will come",
+      "korean_translation": "이것이 올 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on all those who live",
+      "korean_translation": "사는 모든 사람에게",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the face of the whole earth",
+      "korean_translation": "온 땅 위에",
+      "word_indices": [
+        40,
+        87,
+        99
+      ]
+    }
+  ]
+}

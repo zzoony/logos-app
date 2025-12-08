@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 6:55",
+  "version": "NIV",
+  "original_text": "For my flesh is real food and my blood is real drink.",
+  "korean_text": "내 살은 참된 양식이요 내 피는 참된 음료로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For my flesh is real food",
+      "korean_translation": "나의 살은 참된 음식이며",
+      "word_indices": [
+        103,
+        307,
+        4115
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and my blood is real drink",
+      "korean_translation": "나의 피는 참된 음료니라",
+      "word_indices": [
+        78,
+        94,
+        4115
+      ]
+    }
+  ]
+}

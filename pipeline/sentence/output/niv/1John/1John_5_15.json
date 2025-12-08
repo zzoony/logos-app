@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 John 5:15",
+  "version": "NIV",
+  "original_text": "And if we know that he hears us—whatever we ask—we know that we have what we asked of him.",
+  "korean_text": "우리가 무엇이든지 구하는 바를 들으시는 줄을 안즉 우리가 그에게 구한 그것을 얻은 줄을 또한 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if we know that he hears us",
+      "korean_translation": "그리고 우리가 그가 우리의 기도를 들으신다는 것을 안다면",
+      "word_indices": [
+        13,
+        16
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whatever we ask",
+      "korean_translation": "우리가 무엇을 구하든지",
+      "word_indices": [
+        31,
+        285
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we know that we have",
+      "korean_translation": "우리는 가지고 있다는 것을 압니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what we asked of him",
+      "korean_translation": "우리가 그에게 구한 것을",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

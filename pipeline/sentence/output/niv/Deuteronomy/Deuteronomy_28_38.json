@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Deuteronomy 28:38",
+  "version": "NIV",
+  "original_text": "You will sow much seed in the field but you will harvest little, because locusts will devour it.",
+  "korean_text": "네가 많은 종자를 들에 뿌릴지라도 메뚜기가 먹으므로 거둘 것이 적을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will sow much seed in the field",
+      "korean_translation": "너는 밭에 많은 씨를 뿌릴 것이다",
+      "word_indices": [
+        156,
+        725
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you will harvest little",
+      "korean_translation": "하지만 거의 수확하지 못할 것이다",
+      "word_indices": [
+        312,
+        472
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because locusts will devour it",
+      "korean_translation": "왜냐하면 메뚜기들이 그것을 먹어버릴 것이기 때문이다",
+      "word_indices": [
+        555,
+        976
+      ]
+    }
+  ]
+}

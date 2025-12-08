@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 69:21",
+  "version": "NIV",
+  "original_text": "They put gall in my food\n    and gave me vinegar for my thirst.",
+  "korean_text": "그들이 쓸개를 나의 음식물로 주며 목마를 때에는 초를 마시게 하였사오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They put gall in my food",
+      "korean_translation": "그들은 내 음식에 쓸개즙을 넣었다",
+      "word_indices": [
+        103,
+        3047
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and gave me vinegar for my thirst",
+      "korean_translation": "그리고 내 갈증에 식초를 주었다",
+      "word_indices": [
+        5,
+        1395,
+        2453
+      ]
+    }
+  ]
+}

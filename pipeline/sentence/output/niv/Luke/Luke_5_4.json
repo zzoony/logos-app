@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 5:4",
+  "version": "NIV",
+  "original_text": "When he had finished speaking, he said to Simon, “Put out into deep water, and let down the nets for a catch.”",
+  "korean_text": "말씀을 마치시고 시몬에게 이르시되 깊은 데로 가서 그물을 내려 고기를 잡으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he had finished speaking,",
+      "korean_translation": "그가 말을 마쳤을 때,",
+      "word_indices": [
+        29,
+        478
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said to Simon,",
+      "korean_translation": "그는 시몬에게 말하였으되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Put out into deep water,",
+      "korean_translation": "깊은 물로 나아가라",
+      "word_indices": [
+        46,
+        499
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and let down the nets for a catch.",
+      "korean_translation": "그물을 내려 고기를 잡으라",
+      "word_indices": [
+        651,
+        1016
+      ]
+    }
+  ]
+}

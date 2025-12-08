@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ezekiel 23:2",
+  "version": "NIV",
+  "original_text": "“Son of man, there were two women, daughters of the same mother.",
+  "korean_text": "인자야 두 여인이 있었으니 한 어머니의 딸이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Son of man",
+      "korean_translation": "인자여",
+      "word_indices": [
+        2,
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there were two women",
+      "korean_translation": "두 여인이 있었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "daughters of the same mother",
+      "korean_translation": "같은 어미의 딸들이라",
+      "word_indices": [
+        66,
+        120,
+        175
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 16:23",
+  "version": "NIV",
+  "original_text": "In Hades, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side.",
+  "korean_text": "그가 음부에서 고통중에 눈을 들어 멀리 아브라함과 그의 품에 있는 나사로를 보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In Hades",
+      "korean_translation": "하데스에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where he was in torment",
+      "korean_translation": "그가 고통받고 있던 곳에서",
+      "word_indices": [
+        1560
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he looked up",
+      "korean_translation": "그가 위를 쳐다보니",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and saw Abraham far away",
+      "korean_translation": "아브라함이 멀리 있는 것을 보았고",
+      "word_indices": [
+        34,
+        202
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with Lazarus by his side",
+      "korean_translation": "나사로가 그의 곁에 있었습니다",
+      "word_indices": [
+        118
+      ]
+    }
+  ]
+}

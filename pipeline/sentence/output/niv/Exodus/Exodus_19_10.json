@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 19:10",
+  "version": "NIV",
+  "original_text": "And the Lord said to Moses, “Go to the people and consecrate them today and tomorrow. Have them wash their clothes",
+  "korean_text": "여호와께서 모세에게 이르시되 너는 백성에게로 가서 오늘과 내일 그들을 성결하게 하며 그들에게 옷을 빨게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said to Moses",
+      "korean_translation": "주께서 모세에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go to the people",
+      "korean_translation": "백성에게 가라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and consecrate them today and tomorrow",
+      "korean_translation": "그들을 오늘과 내일 구별하여 거룩하게 하라",
+      "word_indices": [
+        242,
+        530,
+        820
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Have them wash their clothes",
+      "korean_translation": "그들에게 옷을 씻게 하라",
+      "word_indices": [
+        419,
+        1289
+      ]
+    }
+  ]
+}

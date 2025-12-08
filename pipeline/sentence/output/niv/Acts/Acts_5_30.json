@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Acts 5:30",
+  "version": "NIV",
+  "original_text": "The God of our ancestors raised Jesus from the dead—whom you killed by hanging him on a cross.",
+  "korean_text": "너희가 나무에 달아 죽인 예수를 우리 조상의 하나님이 살리시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The God of our ancestors",
+      "korean_translation": "우리 조상들의 하나님께서",
+      "word_indices": [
+        1,
+        138
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "raised Jesus from the dead",
+      "korean_translation": "예수를 죽은 자 가운데서 살리셨다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whom you killed",
+      "korean_translation": "너희가 죽인 예수를",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by hanging him on a cross",
+      "korean_translation": "십자가에 달아 죽였다",
+      "word_indices": [
+        1054
+      ]
+    }
+  ]
+}

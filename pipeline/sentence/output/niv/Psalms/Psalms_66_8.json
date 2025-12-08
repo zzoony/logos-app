@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 66:8",
+  "version": "NIV",
+  "original_text": "Praise our God, all peoples,\n    let the sound of his praise be heard;",
+  "korean_text": "만민들아 우리 하나님을 송축하며 그의 찬양 소리를 들리게 할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise our God",
+      "korean_translation": "우리 하나님을 찬양하라",
+      "word_indices": [
+        1,
+        88
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all peoples",
+      "korean_translation": "모든 민족들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let the sound of his praise be heard",
+      "korean_translation": "그의 찬양 소리가 들리게 하라",
+      "word_indices": [
+        88,
+        310
+      ]
+    }
+  ]
+}

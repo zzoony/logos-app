@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Luke 24:2",
+  "version": "NIV",
+  "original_text": "They found the stone rolled away from the tomb,",
+  "korean_text": "돌이 무덤에서 굴려 옮겨진 것을 보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They found the stone",
+      "korean_translation": "그들은 그 돌을 발견했고",
+      "word_indices": [
+        125,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rolled away from the tomb",
+      "korean_translation": "무덤에서 굴려져 나간 것을",
+      "word_indices": [
+        34,
+        621,
+        1117
+      ]
+    }
+  ]
+}

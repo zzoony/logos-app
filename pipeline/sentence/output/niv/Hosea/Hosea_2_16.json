@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Hosea 2:16",
+  "version": "NIV",
+  "original_text": "“In that day,” declares the Lord,\n    “you will call me ‘my husband’;\n    you will no longer call me ‘my master.’",
+  "korean_text": "여호와께서 이르시되 그 날에 네가 나를 내 남편이라 일컫고 다시는 내 바알이라 일컫지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In that day, declares the Lord",
+      "korean_translation": "그 날에, 주께서 말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you will call me 'my husband'",
+      "korean_translation": "너는 나를 '내 남편'이라 부를 것이다",
+      "word_indices": [
+        35,
+        375
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you will no longer call me 'my master'",
+      "korean_translation": "너는 더 이상 나를 '내 주인'이라 부르지 않을 것이다",
+      "word_indices": [
+        35,
+        265,
+        267
+      ]
+    }
+  ]
+}

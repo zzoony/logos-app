@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 26:23",
+  "version": "NIV",
+  "original_text": "Jesus replied, “The one who has dipped his hand into the bowl with me will betray me.",
+  "korean_text": "대답하여 이르시되 나와 함께 그릇에 손을 넣는 그가 나를 팔리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The one who has dipped his hand into the bowl with me",
+      "korean_translation": "나와 함께 그릇에 손을 넣은 자",
+      "word_indices": [
+        9,
+        701
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will betray me",
+      "korean_translation": "나를 배신할 것이다",
+      "word_indices": [
+        940
+      ]
+    }
+  ]
+}

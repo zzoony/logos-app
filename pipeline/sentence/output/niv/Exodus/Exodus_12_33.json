@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 12:33",
+  "version": "NIV",
+  "original_text": "The Egyptians urged the people to hurry and leave the country. “For otherwise,” they said, “we will all die!”",
+  "korean_text": "애굽 사람들은 말하기를 우리가 다 죽은 자가 되도다 하고 그 백성을 재촉하여 그 땅에서 속히 내보내려 하므로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Egyptians urged the people",
+      "korean_translation": "애굽 사람들은 백성들을 재촉하였다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to hurry and leave the country",
+      "korean_translation": "서둘러 그 땅을 떠나라고",
+      "word_indices": [
+        30,
+        167,
+        1046
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For otherwise",
+      "korean_translation": "그렇지 않으면",
+      "word_indices": [
+        1098
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we will all die",
+      "korean_translation": "우리가 다 죽을 것이다",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

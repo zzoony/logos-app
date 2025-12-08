@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Samuel 17:15",
+  "version": "NIV",
+  "original_text": "but David went back and forth from Saul to tend his father’s sheep at Bethlehem.",
+  "korean_text": "다윗은 사울에게로 왕래하며 베들레헴에서 그의 아버지의 양을 칠 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but David went back and forth",
+      "korean_translation": "하지만 다윗은 왔다 갔다 했으며",
+      "word_indices": [
+        52,
+        808
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from Saul to tend his father's sheep",
+      "korean_translation": "사울에게서 떠나 아버지의 양을 돌보기 위해",
+      "word_indices": [
+        12,
+        251,
+        1252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "at Bethlehem",
+      "korean_translation": "베들레헴에서",
+      "word_indices": []
+    }
+  ]
+}

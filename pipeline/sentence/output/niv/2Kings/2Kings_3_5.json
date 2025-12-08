@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Kings 3:5",
+  "version": "NIV",
+  "original_text": "But after Ahab died, the king of Moab rebelled against the king of Israel.",
+  "korean_text": "아합이 죽은 후에 모압 왕이 이스라엘 왕을 배반한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But after Ahab died",
+      "korean_translation": "하지만 아합이 죽은 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king of Moab rebelled",
+      "korean_translation": "모압 왕이 반역했으며",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "against the king of Israel",
+      "korean_translation": "이스라엘 왕에 대하여",
+      "word_indices": [
+        4,
+        11
+      ]
+    }
+  ]
+}

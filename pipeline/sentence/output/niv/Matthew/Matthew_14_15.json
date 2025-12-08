@@ -1,0 +1,70 @@
+{
+  "verse_reference": "Matthew 14:15",
+  "version": "NIV",
+  "original_text": "As evening approached, the disciples came to him and said, “This is a remote place, and it’s already getting late. Send the crowds away, so they can go to the villages and buy themselves some food.”",
+  "korean_text": "저녁이 되매 제자들이 나아와 이르되 이 곳은 빈 들이요 때도 이미 저물었으니 무리를 보내어 마을에 들어가 먹을 것을 사 먹게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As evening approached",
+      "korean_translation": "저녁이 다가올 때에",
+      "word_indices": [
+        640
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the disciples came to him",
+      "korean_translation": "제자들이 그에게 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said",
+      "korean_translation": "말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This is a remote place",
+      "korean_translation": "이곳은 외진 곳이며",
+      "word_indices": [
+        18,
+        2590
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and it's already getting late",
+      "korean_translation": "이미 시간이 늦었습니다",
+      "word_indices": [
+        2678
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Send the crowds away",
+      "korean_translation": "무리들을 보내시어",
+      "word_indices": [
+        20,
+        34,
+        303
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "so they can go to the villages",
+      "korean_translation": "그들이 마을로 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and buy themselves some food",
+      "korean_translation": "스스로 음식을 사게 하소서",
+      "word_indices": [
+        103,
+        493
+      ]
+    }
+  ]
+}

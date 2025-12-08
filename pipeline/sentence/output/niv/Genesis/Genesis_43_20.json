@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 43:20",
+  "version": "NIV",
+  "original_text": "“We beg your pardon, our lord,” they said, “we came down here the first time to buy food.",
+  "korean_text": "이르되 내 주여 우리가 전번에 내려와서 양식을 사가지고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We beg your pardon",
+      "korean_translation": "용서를 빕니다",
+      "word_indices": [
+        930,
+        1777
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "our lord",
+      "korean_translation": "나의 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they said",
+      "korean_translation": "그들이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we came down here the first time",
+      "korean_translation": "우리는 첫 번째로 이곳에 내려왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to buy food",
+      "korean_translation": "음식을 사기 위해",
+      "word_indices": [
+        103,
+        493
+      ]
+    }
+  ]
+}

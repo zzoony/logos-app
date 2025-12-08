@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Leviticus 11:16",
+  "version": "NIV",
+  "original_text": "the horned owl, the screech owl, the gull, any kind of hawk,",
+  "korean_text": "타조와 타흐마스와 갈매기와 새매 종류와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the horned owl",
+      "korean_translation": "뿔올빼미",
+      "word_indices": [
+        503,
+        1366
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the screech owl",
+      "korean_translation": "소쩐새",
+      "word_indices": [
+        1366,
+        3423
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the gull",
+      "korean_translation": "갈매기",
+      "word_indices": [
+        4225
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "any kind of hawk",
+      "korean_translation": "모든 종류의 매",
+      "word_indices": [
+        279,
+        3786
+      ]
+    }
+  ]
+}

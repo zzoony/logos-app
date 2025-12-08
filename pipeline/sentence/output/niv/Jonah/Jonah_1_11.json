@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jonah 1:11",
+  "version": "NIV",
+  "original_text": "The sea was getting rougher and rougher. So they asked him, “What should we do to you to make the sea calm down for us?”",
+  "korean_text": "바다가 점점 흉용한지라 무리가 그에게 이르되 우리가 너를 어떻게 하여야 바다가 우리를 위하여 잔잔하겠느냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sea was getting rougher and rougher",
+      "korean_translation": "바다는 점점 더 거칠어지고 있었다",
+      "word_indices": [
+        108,
+        4726
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So they asked him",
+      "korean_translation": "그래서 그들은 그에게 물었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What should we do to you",
+      "korean_translation": "우리가 당신에게 무엇을 해야 합니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to make the sea calm down for us",
+      "korean_translation": "우리를 위해 바다를 잔잔하게 하려면",
+      "word_indices": [
+        108,
+        1871
+      ]
+    }
+  ]
+}

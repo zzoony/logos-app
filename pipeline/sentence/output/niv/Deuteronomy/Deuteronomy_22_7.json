@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Deuteronomy 22:7",
+  "version": "NIV",
+  "original_text": "You may take the young, but be sure to let the mother go, so that it may go well with you and you may have a long life.",
+  "korean_text": "어미는 반드시 놓아 줄 것이요 새끼는 취하여도 되나니 그리하면 네가 복을 누리고 장수하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may take the young",
+      "korean_translation": "새끼를 가져도 좋다",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but be sure to let the mother go",
+      "korean_translation": "그러나 어미는 반드시 놓아주어라",
+      "word_indices": [
+        120,
+        803
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that it may go well with you",
+      "korean_translation": "그리하면 너에게 잘 될 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you may have a long life",
+      "korean_translation": "오래 살 수 있으리라",
+      "word_indices": [
+        37,
+        71
+      ]
+    }
+  ]
+}

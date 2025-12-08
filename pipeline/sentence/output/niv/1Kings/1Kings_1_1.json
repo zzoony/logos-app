@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 1:1",
+  "version": "NIV",
+  "original_text": "When King David was very old, he could not keep warm even when they put covers over him.",
+  "korean_text": "다윗 왕이 나이가 많아 늙으니 이불을 덮어도 따뜻하지 아니한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When King David was very old",
+      "korean_translation": "다윗 왕이 매우 늙었을 때",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he could not keep warm",
+      "korean_translation": "그는 체온을 유지할 수 없었다",
+      "word_indices": [
+        60,
+        1746
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even when they put covers over him",
+      "korean_translation": "그들이 그를 덮기 위해 이불을 덮어줘도",
+      "word_indices": [
+        200
+      ]
+    }
+  ]
+}

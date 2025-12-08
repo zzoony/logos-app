@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Ecclesiastes 4:3",
+  "version": "NIV",
+  "original_text": "But better than both\n    is the one who has never been born,\nwho has not seen the evil\n    that is done under the sun.",
+  "korean_text": "이 둘보다도 아직 출생하지 아니하여 해 아래에서 행하는 악한 일을 보지 못한 자가 더 복되다 하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But better than both",
+      "korean_translation": "그러나 둘보다 더 나은 이는",
+      "word_indices": [
+        411
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is the one who has never been born",
+      "korean_translation": "태어나지 않은 자이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who has not seen the evil",
+      "korean_translation": "그는 악을 보지 못했으며",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is done under the sun",
+      "korean_translation": "해 아래서 행해지는 악을",
+      "word_indices": [
+        364
+      ]
+    }
+  ]
+}

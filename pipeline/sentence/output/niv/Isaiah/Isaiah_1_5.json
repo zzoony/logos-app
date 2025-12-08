@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 1:5",
+  "version": "NIV",
+  "original_text": "Why should you be beaten anymore?\n    Why do you persist in rebellion?\nYour whole head is injured,\n    your whole heart afflicted.",
+  "korean_text": "너희가 어찌하여 매를 더 맞으려고 패역을 거듭하느냐 온 머리는 병들었고 온 마음은 피곤하였으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why should you be beaten anymore?",
+      "korean_translation": "너희가 더 이상 매를 맞아야 하는 이유가 무엇인가?",
+      "word_indices": [
+        1510
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why do you persist in rebellion?",
+      "korean_translation": "너희가 반역을 고집하는 이유가 무엇인가?",
+      "word_indices": [
+        1053,
+        2465
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your whole head is injured,",
+      "korean_translation": "너희의 머리 전체가 다쳤고",
+      "word_indices": [
+        67,
+        99
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your whole heart afflicted.",
+      "korean_translation": "너희의 마음 전체가 고통받고 있다.",
+      "word_indices": [
+        36,
+        99,
+        885
+      ]
+    }
+  ]
+}

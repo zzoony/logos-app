@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 105:39",
+  "version": "NIV",
+  "original_text": "He spread out a cloud as a covering,\n    and a fire to give light at night.",
+  "korean_text": "여호와께서 낮에는 구름을 펴사 덮개를 삼으시고 밤에는 불로 밝히셨으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He spread out a cloud",
+      "korean_translation": "그는 구름을 펼치시고",
+      "word_indices": [
+        253,
+        331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as a covering",
+      "korean_translation": "덮개로 삼으셨으며",
+      "word_indices": [
+        200
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a fire",
+      "korean_translation": "불을 보내사",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to give light at night",
+      "korean_translation": "밤에 빛을 주셨다",
+      "word_indices": [
+        5,
+        126,
+        205
+      ]
+    }
+  ]
+}

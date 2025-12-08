@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Daniel 5:4",
+  "version": "NIV",
+  "original_text": "As they drank the wine, they praised the gods of gold and silver, of bronze, iron, wood and stone.",
+  "korean_text": "그들이 술을 마시고는 그 금, 은, 구리, 쇠, 나무, 돌로 만든 신들을 찬양하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As they drank the wine,",
+      "korean_translation": "그들이 포도주를 마실 때에,",
+      "word_indices": [
+        215
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they praised the gods",
+      "korean_translation": "그들은 신들을 찬양했으며",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of gold and silver,",
+      "korean_translation": "금과 은으로 만든 신들을",
+      "word_indices": [
+        75,
+        124
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of bronze, iron,",
+      "korean_translation": "놋과 철로 만든 신들을",
+      "word_indices": [
+        333,
+        538
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "wood and stone.",
+      "korean_translation": "나무와 돌로 만든 신들을 찬양하였더라",
+      "word_indices": [
+        125,
+        431
+      ]
+    }
+  ]
+}

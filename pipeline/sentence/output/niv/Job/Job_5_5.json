@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Job 5:5",
+  "version": "NIV",
+  "original_text": "The hungry consume his harvest,\n    taking it even from among thorns,\n    and the thirsty pant after his wealth.",
+  "korean_text": "그가 추수한 것은 주린 자가 먹되 덫에 걸린 것도 빼앗으며 올무가 그의 재산을 향하여 입을 벌리느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The hungry consume his harvest",
+      "korean_translation": "굶주린 자들이 그의 수확을 먹어치우고",
+      "word_indices": [
+        472,
+        598,
+        862
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "taking it even from among thorns",
+      "korean_translation": "그것을 가시덤불 속에서라도 가져가며",
+      "word_indices": [
+        27,
+        1017
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the thirsty pant after his wealth",
+      "korean_translation": "갈증난 자들은 그의 재물을 탐낸다",
+      "word_indices": [
+        457,
+        1190,
+        2844
+      ]
+    }
+  ]
+}

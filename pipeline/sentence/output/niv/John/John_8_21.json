@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 8:21",
+  "version": "NIV",
+  "original_text": "Once more Jesus said to them, “I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.”",
+  "korean_text": "다시 이르시되 내가 가리니 너희가 나를 찾다가 너희 죄 가운데서 죽겠고 내가 가는 곳에는 너희가 오지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Once more Jesus said to them",
+      "korean_translation": "예수님께서 다시 그들에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am going away",
+      "korean_translation": "내가 떠나가리니",
+      "word_indices": [
+        34
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you will look for me",
+      "korean_translation": "너희가 나를 찾으려 할 것이요",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you will die in your sin",
+      "korean_translation": "너희가 죄 가운데서 죽으리라",
+      "word_indices": [
+        24,
+        58
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Where I go",
+      "korean_translation": "내가 가는 곳에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you cannot come",
+      "korean_translation": "너희가 올 수 없느니라",
+      "word_indices": [
+        207
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 17:34",
+  "version": "NIV",
+  "original_text": "I tell you, on that night two people will be in one bed; one will be taken and the other left.",
+  "korean_text": "내가 너희에게 이르노니 그 밤에 둘이 한 자리에 누워 있으매 하나는 데려감을 얻고 하나는 버려둠을 당할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you",
+      "korean_translation": "내가 너희에게 말한다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on that night",
+      "korean_translation": "그 밤에",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "two people will be in one bed",
+      "korean_translation": "두 사람이 한 침대에 있을 것이다",
+      "word_indices": [
+        3,
+        602
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "one will be taken",
+      "korean_translation": "한 사람은 데려가지고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the other left",
+      "korean_translation": "다른 사람은 남겨질 것이다",
+      "word_indices": []
+    }
+  ]
+}

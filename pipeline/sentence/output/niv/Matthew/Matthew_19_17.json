@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 19:17",
+  "version": "NIV",
+  "original_text": "“Why do you ask me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”",
+  "korean_text": "예수께서 이르시되 어찌하여 선한 일을 내게 묻느냐 선한 이는 오직 한 분이시니라 네가 생명에 들어 가려면 계명들을 지키라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why do you ask me about what is good?",
+      "korean_translation": "너는 내게 선한 것에 대하여 어찌하여 묻느냐?",
+      "word_indices": [
+        31,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus replied.",
+      "korean_translation": "예수께서 대답하셨다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There is only One who is good.",
+      "korean_translation": "선한 이는 오직 한 분이시다.",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you want to enter life,",
+      "korean_translation": "네가 생명에 들어가려거든",
+      "word_indices": [
+        37,
+        135,
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "keep the commandments.",
+      "korean_translation": "계명들을 지키라.",
+      "word_indices": [
+        60,
+        1211
+      ]
+    }
+  ]
+}

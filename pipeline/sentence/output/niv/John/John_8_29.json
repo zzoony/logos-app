@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 8:29",
+  "version": "NIV",
+  "original_text": "The one who sent me is with me; he has not left me alone, for I always do what pleases him.”",
+  "korean_text": "나를 보내신 이가 나와 함께 하시도다 나는 항상 그가 기뻐하시는 일을 행하므로 나를 혼자 두지 아니하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one who sent me",
+      "korean_translation": "나를 보내신 분",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is with me",
+      "korean_translation": "나와 함께 계십니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he has not left me alone",
+      "korean_translation": "그분은 나를 혼자 두지 않으셨습니다",
+      "word_indices": [
+        480
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for I always do",
+      "korean_translation": "왜냐하면 나는 항상 행합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what pleases him",
+      "korean_translation": "그분을 기쁘시게 하는 것을",
+      "word_indices": []
+    }
+  ]
+}

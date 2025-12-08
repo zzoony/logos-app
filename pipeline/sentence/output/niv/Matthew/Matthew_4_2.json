@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Matthew 4:2",
+  "version": "NIV",
+  "original_text": "After fasting forty days and forty nights, he was hungry.",
+  "korean_text": "사십 일을 밤낮으로 금식하신 후에 주리신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After fasting forty days and forty nights",
+      "korean_translation": "사십 주야를 금식한 후에",
+      "word_indices": [
+        126,
+        469,
+        592
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he was hungry",
+      "korean_translation": "그는 주렸다",
+      "word_indices": [
+        862
+      ]
+    }
+  ]
+}

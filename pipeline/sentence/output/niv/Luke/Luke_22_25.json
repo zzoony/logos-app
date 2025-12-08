@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 22:25",
+  "version": "NIV",
+  "original_text": "Jesus said to them, “The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors.",
+  "korean_text": "예수께서 이르시되 이방인의 임금들은 그들을 주관하며 그 집권자들은 은인이라 칭함을 받으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수께서 그들에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The kings of the Gentiles",
+      "korean_translation": "이방인의 왕들은",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lord it over them",
+      "korean_translation": "그들을 지배하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and those who exercise authority over them",
+      "korean_translation": "그들을 다스리는 자들은",
+      "word_indices": [
+        488,
+        2689
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "call themselves Benefactors",
+      "korean_translation": "자신을 은인이라 부르느니라",
+      "word_indices": [
+        35,
+        4783
+      ]
+    }
+  ]
+}

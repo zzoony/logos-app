@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 14:17",
+  "version": "NIV",
+  "original_text": "“We have here only five loaves of bread and two fish,” they answered.",
+  "korean_text": "제자들이 이르되 여기 우리에게 있는 것은 떡 다섯 개와 물고기 두 마리뿐이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We have here only five loaves of bread",
+      "korean_translation": "우리는 여기서 빵 다섯 개만 가지고 있습니다",
+      "word_indices": [
+        187,
+        196
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and two fish",
+      "korean_translation": "그리고 물고기 두 마리입니다",
+      "word_indices": [
+        727
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they answered",
+      "korean_translation": "그들이 대답했습니다",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

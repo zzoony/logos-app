@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 27:11",
+  "version": "NIV",
+  "original_text": "Meanwhile Jesus stood before the governor, and the governor asked him, “Are you the king of the Jews?”\n“You have said so,” Jesus replied.",
+  "korean_text": "예수께서 총독 앞에 섰으매 총독이 물어 이르되 네가 유대인의 왕이냐 예수께서 대답하시되 네 말이 옳도다 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Meanwhile Jesus stood before the governor",
+      "korean_translation": "그 동안 예수님은 총독 앞에 서셨다",
+      "word_indices": [
+        656,
+        1161
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the governor asked him",
+      "korean_translation": "그리고 총독이 그에게 물었다",
+      "word_indices": [
+        31,
+        656
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Are you the king of the Jews?",
+      "korean_translation": "네가 유대인의 왕이냐?",
+      "word_indices": [
+        4,
+        209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have said so",
+      "korean_translation": "네가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수님이 대답하셨다",
+      "word_indices": []
+    }
+  ]
+}

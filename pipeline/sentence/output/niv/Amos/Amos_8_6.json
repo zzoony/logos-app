@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Amos 8:6",
+  "version": "NIV",
+  "original_text": "buying the poor with silver\n    and the needy for a pair of sandals,\n    selling even the sweepings with the wheat.",
+  "korean_text": "은으로 힘없는 자를 사며 신 한 켤레로 가난한 자를 사며 찌꺼기 밀을 팔자 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "buying the poor with silver",
+      "korean_translation": "은으로 가난한 자를 사며",
+      "word_indices": [
+        124,
+        298,
+        493
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the needy for a pair of sandals",
+      "korean_translation": "신발 한 켤레 값에 궁핍한 자를 사며",
+      "word_indices": [
+        840,
+        1180,
+        1482
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "selling even the sweepings with the wheat",
+      "korean_translation": "밀겨와 함께 쓰레기까지 팔고 있도다",
+      "word_indices": [
+        397,
+        974,
+        5887
+      ]
+    }
+  ]
+}

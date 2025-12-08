@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Galatians 5:9",
+  "version": "NIV",
+  "original_text": "“A little yeast works through the whole batch of dough.”",
+  "korean_text": "적은 누룩이 온 덩이에 퍼지느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A little yeast",
+      "korean_translation": "작은 누룩",
+      "word_indices": [
+        312,
+        825
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "works through the whole batch of dough",
+      "korean_translation": "온 덩어리에 퍼져나간다",
+      "word_indices": [
+        39,
+        65,
+        99,
+        2211,
+        3698
+      ]
+    }
+  ]
+}

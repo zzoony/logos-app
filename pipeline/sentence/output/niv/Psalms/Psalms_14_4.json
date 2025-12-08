@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 14:4",
+  "version": "NIV",
+  "original_text": "Do all these evildoers know nothing?\nThey devour my people as though eating bread;\n    they never call on the Lord.",
+  "korean_text": "죄악을 행하는 자는 다 무지하냐 그들이 떡 먹듯이 내 백성을 먹으면서 여호와를 부르지 아니하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do all these evildoers know nothing?",
+      "korean_translation": "이 모든 악행자들은 아무것도 모르는가?",
+      "word_indices": [
+        13,
+        982
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They devour my people",
+      "korean_translation": "그들은 나의 백성을 삼키고",
+      "word_indices": [
+        3,
+        555
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as though eating bread",
+      "korean_translation": "마치 빵을 먹듯이",
+      "word_indices": [
+        33,
+        127,
+        187
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they never call on the Lord.",
+      "korean_translation": "그들은 결코 주를 부르지 않는다.",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

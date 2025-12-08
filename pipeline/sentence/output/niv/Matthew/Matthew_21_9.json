@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Matthew 21:9",
+  "version": "NIV",
+  "original_text": "The crowds that went ahead of him and those that followed shouted,\n“Hosanna to the Son of David!”\n“Blessed is he who comes in the name of the Lord!”\n“Hosanna in the highest heaven!”",
+  "korean_text": "앞에서 가고 뒤에서 따르는 무리가 소리 높여 이르되 호산나 다윗의 자손이여 찬송하리로다 주의 이름으로 오시는 이여 가장 높은 곳에서 호산나 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The crowds that went ahead of him",
+      "korean_translation": "그가 앞서간 무리가",
+      "word_indices": [
+        303,
+        554
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and those that followed shouted",
+      "korean_translation": "뒤따르던 사람들도 외쳤다",
+      "word_indices": [
+        91,
+        321
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Hosanna to the Son of David",
+      "korean_translation": "다윗의 아들 호산나",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Blessed is he",
+      "korean_translation": "복이 있나니",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who comes in the name of the Lord",
+      "korean_translation": "주의 이름으로 오시는 이",
+      "word_indices": [
+        17
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Hosanna in the highest heaven",
+      "korean_translation": "지극히 높은 곳에서 호산나",
+      "word_indices": [
+        57,
+        1241
+      ]
+    }
+  ]
+}

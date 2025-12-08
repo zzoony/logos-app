@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Romans 2:22",
+  "version": "NIV",
+  "original_text": "You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?",
+  "korean_text": "간음하지 말라 말하는 네가 간음하느냐 우상을 가증히 여기는 네가 신전 물건을 도둑질하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You who say that people should not commit adultery",
+      "korean_translation": "간음하지 말아야 한다고 말하는 너희가",
+      "word_indices": [
+        3,
+        322,
+        861
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do you commit adultery?",
+      "korean_translation": "간음하느냐",
+      "word_indices": [
+        322,
+        861
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You who abhor idols",
+      "korean_translation": "우상을 혐오하는 너희가",
+      "word_indices": [
+        256,
+        2149
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "do you rob temples?",
+      "korean_translation": "성전을 도적질하느냐",
+      "word_indices": [
+        1193
+      ]
+    }
+  ]
+}

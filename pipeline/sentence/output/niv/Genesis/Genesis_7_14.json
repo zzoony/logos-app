@@ -1,0 +1,72 @@
+{
+  "verse_reference": "Genesis 7:14",
+  "version": "NIV",
+  "original_text": "They had with them every wild animal according to its kind, all livestock according to their kinds, every creature that moves along the ground according to its kind and every bird according to its kind, everything with wings.",
+  "korean_text": "그들과 모든 들짐승이 그 종류대로, 모든 가축이 그 종류대로, 땅에 기는 모든 것이 그 종류대로, 모든 새가 그 종류대로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They had with them every wild animal",
+      "korean_translation": "그들은 그들과 함께 모든 들짐승을 데려갔습니다",
+      "word_indices": [
+        195,
+        450
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "according to its kind",
+      "korean_translation": "각 종류대로",
+      "word_indices": [
+        144,
+        279
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all livestock according to their kinds",
+      "korean_translation": "모든 가축을 각 종류대로",
+      "word_indices": [
+        144,
+        279,
+        610
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "every creature that moves along the ground",
+      "korean_translation": "땅을 기어 다니는 모든 생물을",
+      "word_indices": [
+        463,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "according to its kind",
+      "korean_translation": "각 종류대로",
+      "word_indices": [
+        144,
+        279
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and every bird according to its kind",
+      "korean_translation": "그리고 모든 새를 각 종류대로",
+      "word_indices": [
+        144,
+        279,
+        386
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "everything with wings",
+      "korean_translation": "날개를 가진 모든 것을",
+      "word_indices": [
+        593
+      ]
+    }
+  ]
+}

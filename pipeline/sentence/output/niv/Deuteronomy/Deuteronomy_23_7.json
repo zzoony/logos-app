@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Deuteronomy 23:7",
+  "version": "NIV",
+  "original_text": "Do not despise an Edomite, for the Edomites are related to you. Do not despise an Egyptian, because you resided as foreigners in their country.",
+  "korean_text": "너는 에돔 사람을 미워하지 말라 그는 네 형제임이니라 애굽 사람을 미워하지 말라 네가 그의 땅에서 객이 되었음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not despise an Edomite",
+      "korean_translation": "에돔 사람을 멸시하지 말라",
+      "word_indices": [
+        620
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the Edomites are related to you",
+      "korean_translation": "에돔 사람들은 너와 친족이기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not despise an Egyptian",
+      "korean_translation": "이집트 사람을 멸시하지 말라",
+      "word_indices": [
+        620
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because you resided as foreigners in their country",
+      "korean_translation": "너희가 그 땅에서 이방인으로 거주했기 때문이다",
+      "word_indices": [
+        167,
+        343
+      ]
+    }
+  ]
+}

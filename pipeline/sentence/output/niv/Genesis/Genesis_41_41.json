@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 41:41",
+  "version": "NIV",
+  "original_text": "So Pharaoh said to Joseph, “I hereby put you in charge of the whole land of Egypt.”",
+  "korean_text": "바로가 또 요셉에게 이르되 내가 너를 애굽 온 땅의 총리가 되게 하노라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Pharaoh said to Joseph",
+      "korean_translation": "그래서 바로가 요셉에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I hereby put you in charge",
+      "korean_translation": "내가 당신을 책임자로 임명합니다",
+      "word_indices": [
+        243,
+        4191
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the whole land of Egypt",
+      "korean_translation": "이집트 전체 땅의",
+      "word_indices": [
+        8,
+        99
+      ]
+    }
+  ]
+}

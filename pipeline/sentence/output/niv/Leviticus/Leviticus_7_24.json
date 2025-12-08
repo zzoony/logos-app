@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Leviticus 7:24",
+  "version": "NIV",
+  "original_text": "The fat of an animal found dead or torn by wild animals may be used for any other purpose, but you must not eat it.",
+  "korean_text": "스스로 죽은 것의 기름이나 짐승에게 찢긴 것의 기름은 다른 데는 쓰려니와 결단코 먹지는 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The fat of an animal found dead",
+      "korean_translation": "죽어서 발견된 동물의 기름은",
+      "word_indices": [
+        115,
+        195,
+        579,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or torn by wild animals",
+      "korean_translation": "야생 동물에게 찢겨진",
+      "word_indices": [
+        195,
+        450
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "may be used for any other purpose",
+      "korean_translation": "다른 다른 목적으로 사용될 수 있으나",
+      "word_indices": [
+        917
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but you must not eat it",
+      "korean_translation": "너는 그것을 먹어서는 안된다",
+      "word_indices": [
+        33
+      ]
+    }
+  ]
+}

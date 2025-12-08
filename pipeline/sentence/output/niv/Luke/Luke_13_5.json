@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 13:5",
+  "version": "NIV",
+  "original_text": "I tell you, no! But unless you repent, you too will all perish.”",
+  "korean_text": "너희에게 이르노니 아니라 너희도 만일 회개하지 아니하면 다 이와 같이 망하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you",
+      "korean_translation": "내가 너희에게 말하노니",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "no!",
+      "korean_translation": "아니라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But unless you repent",
+      "korean_translation": "그러나 너희가 회개하지 않으면",
+      "word_indices": [
+        849
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you too will all perish",
+      "korean_translation": "너희도 다 멸망하리라",
+      "word_indices": [
+        458
+      ]
+    }
+  ]
+}

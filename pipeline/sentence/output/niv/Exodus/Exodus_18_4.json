@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Exodus 18:4",
+  "version": "NIV",
+  "original_text": "and the other was named Eliezer, for he said, “My father’s God was my helper; he saved me from the sword of Pharaoh.”",
+  "korean_text": "하나의 이름은 엘리에셀이라 이는 내 아버지의 하나님이 나를 도우사 바로의 칼에서 구원하셨다 함이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and the other was named Eliezer,",
+      "korean_translation": "그리고 다른 하나는 엘리에셀이라 불렸으며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for he said,",
+      "korean_translation": "그가 말했기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My father's God was my helper;",
+      "korean_translation": "내 아버지의 하나님이 나의 도움이 되셨고;",
+      "word_indices": [
+        1,
+        12,
+        2030
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he saved me from the sword of Pharaoh.",
+      "korean_translation": "그가 바로의 칼에서 나를 구원하셨다.",
+      "word_indices": [
+        84
+      ]
+    }
+  ]
+}

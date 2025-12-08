@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Acts 20:29",
+  "version": "NIV",
+  "original_text": "I know that after I leave, savage wolves will come in among you and will not spare the flock.",
+  "korean_text": "내가 떠난 후에 사나운 이리가 여러분에게 들어와서 그 양 떼를 아끼지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that after I leave",
+      "korean_translation": "내가 떠난 후에 일어날 일을 내가 알노라",
+      "word_indices": [
+        13,
+        30
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "savage wolves will come in among you",
+      "korean_translation": "흉악한 이리가 너희 중에 들어와",
+      "word_indices": [
+        27,
+        4699
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and will not spare the flock",
+      "korean_translation": "양 떼를 아끼지 아니하겠다",
+      "word_indices": [
+        261,
+        880
+      ]
+    }
+  ]
+}

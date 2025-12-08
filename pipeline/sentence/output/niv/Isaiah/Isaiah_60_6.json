@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 60:6",
+  "version": "NIV",
+  "original_text": "Herds of camels will cover your land,\n    young camels of Midian and Ephah.\nAnd all from Sheba will come,\n    bearing gold and incense\n    and proclaiming the praise of the Lord.",
+  "korean_text": "허다한 낙타, 미디안과 에바의 어린 낙타가 네 가운데에 가득할 것이며 스바 사람들은 다 금과 유향을 가지고 와서 여호와의 찬송을 전파할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Herds of camels will cover your land",
+      "korean_translation": "낙타 떼가 너의 땅을 뒤덮을 것이며",
+      "word_indices": [
+        8,
+        200,
+        670,
+        780
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "young camels of Midian and Ephah",
+      "korean_translation": "미디안과 에바의 어린 낙타들이라",
+      "word_indices": [
+        130,
+        780
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And all from Sheba will come",
+      "korean_translation": "스바에서 다 모여 올 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bearing gold and incense",
+      "korean_translation": "금과 향을 가지고",
+      "word_indices": [
+        75,
+        111,
+        352
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and proclaiming the praise of the Lord",
+      "korean_translation": "여호와의 찬양을 전파하리라",
+      "word_indices": [
+        88,
+        300
+      ]
+    }
+  ]
+}

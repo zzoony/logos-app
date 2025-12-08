@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 2:42",
+  "version": "NIV",
+  "original_text": "When he was twelve years old, they went up to the festival, according to the custom.",
+  "korean_text": "예수께서 열두 살 되었을 때에 그들이 이 절기의 관례를 따라 올라갔다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he was twelve years old",
+      "korean_translation": "그가 열두 살이 되었을 때",
+      "word_indices": [
+        370
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they went up to the festival",
+      "korean_translation": "그들은 축제에 올라갔습니다",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "according to the custom",
+      "korean_translation": "관례에 따라",
+      "word_indices": [
+        144,
+        1248
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 139:13",
+  "version": "NIV",
+  "original_text": "For you created my inmost being;\n    you knit me together in my mother’s womb.",
+  "korean_text": "주께서 내 내장을 지으시며 나의 모태에서 나를 만드셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For you created",
+      "korean_translation": "당신이 창조했으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my inmost being",
+      "korean_translation": "나의 가장 깊은 존재를",
+      "word_indices": [
+        2514
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you knit me together",
+      "korean_translation": "당신이 나를 엮어 만들었으니",
+      "word_indices": [
+        98,
+        2147
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in my mother's womb",
+      "korean_translation": "내 어머니의 태 안에서",
+      "word_indices": [
+        120,
+        766
+      ]
+    }
+  ]
+}

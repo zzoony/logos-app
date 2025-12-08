@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Lamentations 2:16",
+  "version": "NIV",
+  "original_text": "All your enemies open their mouths\n    wide against you;\nthey scoff and gnash their teeth\n    and say, “We have swallowed her up.\nThis is the day we have waited for;\n    we have lived to see it.”",
+  "korean_text": "네 모든 원수들은 너를 향하여 그들의 입을 벌리며 비웃고 이를 갈며 말하기를 우리가 그를 삼켰도다 우리가 바라던 날이 과연 이 날이라 우리가 얻기도 하고 보기도 하였다 하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All your enemies open their mouths wide against you",
+      "korean_translation": "네 모든 원수들이 너를 향해 입을 크게 벌리고",
+      "word_indices": [
+        11,
+        100,
+        143,
+        160,
+        512
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they scoff and gnash their teeth",
+      "korean_translation": "그들은 비웃고 이를 갈며",
+      "word_indices": [
+        1035,
+        1939,
+        2016
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and say, \"We have swallowed her up",
+      "korean_translation": "말하기를, \"우리가 그녀를 삼켰다",
+      "word_indices": [
+        1089
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This is the day we have waited for",
+      "korean_translation": "이것이 우리가 기다려 온 날이다",
+      "word_indices": [
+        388
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "we have lived to see it",
+      "korean_translation": "우리가 이것을 보기 위해 살아남았다\"",
+      "word_indices": []
+    }
+  ]
+}

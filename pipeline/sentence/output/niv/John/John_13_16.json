@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 13:16",
+  "version": "NIV",
+  "original_text": "Very truly I tell you, no servant is greater than his master, nor is a messenger greater than the one who sent him.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 종이 주인보다 크지 못하고 보냄을 받은 자가 보낸 자보다 크지 못하나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Very truly I tell you",
+      "korean_translation": "진실로 진실로 너희에게 이르노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "no servant is greater than his master",
+      "korean_translation": "종이 주인보다 큰 자가 아니요",
+      "word_indices": [
+        25,
+        265,
+        636
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor is a messenger greater than the one who sent him",
+      "korean_translation": "보낸 자보다 사자가 큰 자가 아니니라",
+      "word_indices": [
+        474,
+        636
+      ]
+    }
+  ]
+}

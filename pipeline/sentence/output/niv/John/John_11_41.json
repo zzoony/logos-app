@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 11:41",
+  "version": "NIV",
+  "original_text": "So they took away the stone. Then Jesus looked up and said, “Father, I thank you that you have heard me.",
+  "korean_text": "돌을 옮겨 놓으니 예수께서 눈을 들어 우러러 보시고 이르시되 아버지여 내 말을 들으신 것을 감사하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they took away the stone.",
+      "korean_translation": "그래서 그들은 돌을 옮겼다.",
+      "word_indices": [
+        34,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then Jesus looked up",
+      "korean_translation": "그때 예수께서 눈을 들어",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said",
+      "korean_translation": "말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "\"Father,",
+      "korean_translation": "\"아버지,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I thank you",
+      "korean_translation": "당신께 감사드립니다",
+      "word_indices": [
+        489
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that you have heard me.\"",
+      "korean_translation": "당신이 내 기도를 들으셨기 때문입니다.\"",
+      "word_indices": []
+    }
+  ]
+}

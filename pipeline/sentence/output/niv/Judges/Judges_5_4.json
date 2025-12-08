@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Judges 5:4",
+  "version": "NIV",
+  "original_text": "“When you, Lord, went out from Seir,\n    when you marched from the land of Edom,\nthe earth shook, the heavens poured,\n    the clouds poured down water.",
+  "korean_text": "여호와여 주께서 세일에서부터 나오시고 에돔 들에서부터 진행하실 때에 땅이 진동하고 하늘이 물을 내리고 구름도 물을 내렸나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you, Lord, went out from Seir,",
+      "korean_translation": "주여, 당신이 세일에서 나오실 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when you marched from the land of Edom,",
+      "korean_translation": "당신이 에돔 땅에서 행진하실 때,",
+      "word_indices": [
+        8,
+        619
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the earth shook,",
+      "korean_translation": "땅이 흔들렸고,",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the heavens poured,",
+      "korean_translation": "하늘이 쏟아졌으며,",
+      "word_indices": [
+        57,
+        266
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the clouds poured down water.",
+      "korean_translation": "구름이 물을 쏟아내었습니다.",
+      "word_indices": [
+        46,
+        266,
+        331
+      ]
+    }
+  ]
+}

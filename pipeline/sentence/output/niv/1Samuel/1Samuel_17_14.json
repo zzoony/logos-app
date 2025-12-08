@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Samuel 17:14",
+  "version": "NIV",
+  "original_text": "David was the youngest. The three oldest followed Saul,",
+  "korean_text": "다윗은 막내라 장성한 세 사람은 사울을 따랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David was the youngest.",
+      "korean_translation": "다윗은 막내였습니다.",
+      "word_indices": [
+        1522
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The three oldest",
+      "korean_translation": "셋 중 가장 나이가 많은 세 명은",
+      "word_indices": [
+        90,
+        2417
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "followed Saul.",
+      "korean_translation": "사울을 따랐습니다.",
+      "word_indices": [
+        91
+      ]
+    }
+  ]
+}

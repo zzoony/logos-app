@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 72:4",
+  "version": "NIV",
+  "original_text": "May he defend the afflicted among the people\n    and save the children of the needy;\n    may he crush the oppressor.",
+  "korean_text": "그가 가난한 백성의 억울함을 풀어 주며 궁핍한 자의 자손을 구원하며 압박하는 자를 꺾으리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May he defend the afflicted among the people",
+      "korean_translation": "그가 백성 중에 고난 당하는 자를 보호하시기를",
+      "word_indices": [
+        3,
+        27,
+        885,
+        1197
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and save the children of the needy",
+      "korean_translation": "그리고 궁핍한 자의 자녀들을 구원하시기를",
+      "word_indices": [
+        139,
+        840
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "may he crush the oppressor",
+      "korean_translation": "그가 억압하는 자를 짓밟으시기를",
+      "word_indices": [
+        630,
+        1514
+      ]
+    }
+  ]
+}

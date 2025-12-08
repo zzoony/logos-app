@@ -1,0 +1,30 @@
+{
+  "verse_reference": "2 Kings 1:1",
+  "version": "NIV",
+  "original_text": "After Ahab’s death, Moab rebelled against Israel.",
+  "korean_text": "아합이 죽은 후에 모압이 이스라엘을 배반하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After Ahab's death",
+      "korean_translation": "아합의 죽음 후에",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Moab rebelled",
+      "korean_translation": "모압이 반란을 일으켰다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "against Israel",
+      "korean_translation": "이스라엘을 대항하여",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 9:44",
+  "version": "NIV",
+  "original_text": "“Listen carefully to what I am about to tell you: The Son of Man is going to be delivered into the hands of men.”",
+  "korean_text": "이 말을 너희 귀에 담아 두라 인자가 장차 사람들의 손에 넘겨지리라 하시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Listen carefully to what I am about to tell you:",
+      "korean_translation": "내가 너희에게 말하려는 것을 주의 깊게 들으라:",
+      "word_indices": [
+        15,
+        86,
+        1007
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Son of Man is going to be delivered",
+      "korean_translation": "인자가 넘겨질 것이다",
+      "word_indices": [
+        2,
+        10,
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "into the hands of men.",
+      "korean_translation": "사람들의 손에.",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

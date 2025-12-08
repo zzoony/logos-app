@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Ruth 3:9",
+  "version": "NIV",
+  "original_text": "“Who are you?” he asked.\n“I am your servant Ruth,” she said. “Spread the corner of your garment over me, since you are a guardian-redeemer of our family.”",
+  "korean_text": "이르되 네가 누구냐 하니 대답하되 나는 당신의 여종 룻이오니 당신의 옷자락을 펴 당신의 여종을 덮으소서 이는 당신이 기업을 무를 자가 됨이니이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who are you?",
+      "korean_translation": "당신은 누구입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he asked.",
+      "korean_translation": "그가 물었습니다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am your servant Ruth,",
+      "korean_translation": "저는 당신의 종 룻입니다.",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she said.",
+      "korean_translation": "그녀가 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Spread the corner of your garment over me,",
+      "korean_translation": "당신의 옷자락을 저에게 펼쳐주세요.",
+      "word_indices": [
+        253,
+        445,
+        736
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "since you are a guardian-redeemer",
+      "korean_translation": "왜냐하면 당신은 우리 가문의 대속자이기 때문입니다.",
+      "word_indices": [
+        1408,
+        1748
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "of our family.",
+      "korean_translation": "우리 가족의.",
+      "word_indices": [
+        145
+      ]
+    }
+  ]
+}

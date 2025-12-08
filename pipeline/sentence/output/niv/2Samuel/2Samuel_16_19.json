@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Samuel 16:19",
+  "version": "NIV",
+  "original_text": "Furthermore, whom should I serve? Should I not serve the son? Just as I served your father, so I will serve you.”",
+  "korean_text": "또 내가 이제 누구를 섬기리이까 그의 아들이 아니니이까 내가 전에 왕의 아버지를 섬긴 것 같이 왕을 섬기리이다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Furthermore, whom should I serve?",
+      "korean_translation": "게다가, 내가 누구를 섬겨야 합니까?",
+      "word_indices": [
+        131,
+        2167
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Should I not serve the son?",
+      "korean_translation": "내가 아들을 섬기지 않아야 합니까?",
+      "word_indices": [
+        2,
+        131
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Just as I served your father,",
+      "korean_translation": "내가 당신의 아버지를 섬긴 것처럼,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so I will serve you.",
+      "korean_translation": "그렇게 나도 당신을 섬기겠습니다.",
+      "word_indices": [
+        131
+      ]
+    }
+  ]
+}

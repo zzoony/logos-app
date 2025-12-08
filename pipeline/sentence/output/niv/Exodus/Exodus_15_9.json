@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Exodus 15:9",
+  "version": "NIV",
+  "original_text": "The enemy boasted,\n    ‘I will pursue, I will overtake them.\nI will divide the spoils;\n    I will gorge myself on them.\nI will draw my sword\n    and my hand will destroy them.’",
+  "korean_text": "원수가 말하기를 내가 뒤쫓아 따라잡아 탈취물을 나누리라, 내가 그들로 말미암아 내 욕망을 채우리라, 내가 내 칼을 빼리니 내 손이 그들을 멸하리라 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The enemy boasted",
+      "korean_translation": "원수가 자랑하며 말했다",
+      "word_indices": [
+        100,
+        551
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will pursue",
+      "korean_translation": "내가 그들을 쫓으리라",
+      "word_indices": [
+        459
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will overtake them",
+      "korean_translation": "내가 그들을 따라잡으리라",
+      "word_indices": [
+        895
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will divide the spoils",
+      "korean_translation": "내가 전리품을 나누리라",
+      "word_indices": [
+        546,
+        1721
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will gorge myself on them",
+      "korean_translation": "내가 그들로 배불리리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will draw my sword",
+      "korean_translation": "내가 내 칼을 빼리라",
+      "word_indices": [
+        84,
+        464
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and my hand will destroy them",
+      "korean_translation": "내 손이 그들을 멸하리라",
+      "word_indices": [
+        9,
+        69
+      ]
+    }
+  ]
+}

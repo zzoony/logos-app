@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Jeremiah 51:54",
+  "version": "NIV",
+  "original_text": "“The sound of a cry comes from Babylon,\n    the sound of great destruction\n    from the land of the Babylonians.",
+  "korean_text": "바벨론으로부터 부르짖는 소리가 들리도다 갈대아 사람의 땅에 큰 파멸의 소리가 들리도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sound of a cry comes from Babylon",
+      "korean_translation": "부르짖는 소리가 바빌론에서 들려온다",
+      "word_indices": [
+        152,
+        310
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sound of great destruction",
+      "korean_translation": "큰 파멸의 소리",
+      "word_indices": [
+        44,
+        310,
+        571
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the land of the Babylonians",
+      "korean_translation": "바빌론 사람들의 땅에서 들려온다",
+      "word_indices": [
+        8
+      ]
+    }
+  ]
+}

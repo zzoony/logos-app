@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Acts 12:13",
+  "version": "NIV",
+  "original_text": "Peter knocked at the outer entrance, and a servant named Rhoda came to answer the door.",
+  "korean_text": "베드로가 대문을 두드린대 로데라 하는 여자 아이가 영접하러 나왔다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter knocked at the outer entrance",
+      "korean_translation": "베드로가 바깥 문을 두드렸습니다",
+      "word_indices": [
+        361,
+        1055,
+        2048
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a servant named Rhoda",
+      "korean_translation": "그리고 로다라 이름의 여종이",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "came to answer the door",
+      "korean_translation": "문에 응답하러 왔습니다",
+      "word_indices": [
+        63,
+        415
+      ]
+    }
+  ]
+}

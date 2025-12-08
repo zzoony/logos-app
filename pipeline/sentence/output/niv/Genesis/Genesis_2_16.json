@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 2:16",
+  "version": "NIV",
+  "original_text": "And the Lord God commanded the man, “You are free to eat from any tree in the garden;",
+  "korean_text": "여호와 하나님이 그 사람에게 명하여 이르시되 동산 각종 나무의 열매는 네가 임의로 먹되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord God",
+      "korean_translation": "그리고 주 하나님께서는",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "commanded the man,",
+      "korean_translation": "그 사람에게 명령하셨다,",
+      "word_indices": [
+        10,
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You are free to eat",
+      "korean_translation": "너는 먹어도 좋다",
+      "word_indices": [
+        33,
+        421
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from any tree",
+      "korean_translation": "어떤 나무에서든지",
+      "word_indices": [
+        164
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the garden;",
+      "korean_translation": "동산에서;",
+      "word_indices": [
+        745
+      ]
+    }
+  ]
+}

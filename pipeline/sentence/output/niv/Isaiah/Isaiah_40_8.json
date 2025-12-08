@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Isaiah 40:8",
+  "version": "NIV",
+  "original_text": "The grass withers and the flowers fall,\n    but the word of our God endures forever.”",
+  "korean_text": "풀은 마르고 꽃은 시드나 우리 하나님의 말씀은 영원히 서리라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The grass withers",
+      "korean_translation": "풀은 마르고",
+      "word_indices": [
+        870
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the flowers fall",
+      "korean_translation": "꽃은 시드나",
+      "word_indices": [
+        113,
+        1461
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the word of our God",
+      "korean_translation": "우리 하나님의 말씀은",
+      "word_indices": [
+        1,
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "endures forever",
+      "korean_translation": "영원히 계속되느니라",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

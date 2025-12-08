@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Genesis 9:14",
+  "version": "NIV",
+  "original_text": "Whenever I bring clouds over the earth and the rainbow appears in the clouds,",
+  "korean_text": "내가 구름으로 땅을 덮을 때에 무지개가 구름 속에 나타나면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whenever I bring clouds over the earth",
+      "korean_translation": "내가 땅 위에 구름을 가져올 때마다",
+      "word_indices": [
+        40,
+        331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the rainbow appears in the clouds",
+      "korean_translation": "그리고 무지개가 구름 속에 나타날 때",
+      "word_indices": [
+        293,
+        331,
+        2897
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Proverbs 22:3",
+  "version": "NIV",
+  "original_text": "The prudent see danger and take refuge,\n    but the simple keep going and pay the penalty.",
+  "korean_text": "슬기로운 자는 재앙을 보면 숨어 피하여도 어리석은 자는 나가다가 해를 받느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The prudent see danger",
+      "korean_translation": "슬기로운 자는 위험을 보고",
+      "word_indices": [
+        1684,
+        1699
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and take refuge",
+      "korean_translation": "피하지만",
+      "word_indices": [
+        566
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the simple keep going",
+      "korean_translation": "어리석은 자들은 나아가다가",
+      "word_indices": [
+        60,
+        1500
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and pay the penalty",
+      "korean_translation": "벌을 받는다",
+      "word_indices": [
+        248,
+        1907
+      ]
+    }
+  ]
+}

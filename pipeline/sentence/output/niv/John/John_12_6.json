@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 12:6",
+  "version": "NIV",
+  "original_text": "He did not say this because he cared about the poor but because he was a thief; as keeper of the money bag, he used to help himself to what was put into it.",
+  "korean_text": "이렇게 말함은 가난한 자들을 생각함이 아니요 그는 도둑이라 돈궤를 맡고 거기 넣는 것을 훔쳐 감이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He did not say this",
+      "korean_translation": "그는 이렇게 말하지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he cared about the poor",
+      "korean_translation": "가난한 사람들을 걱정했기 때문이 아니었다",
+      "word_indices": [
+        298
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but because he was a thief",
+      "korean_translation": "그는 도둑이었기 때문이었다",
+      "word_indices": [
+        1123
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as keeper of the money bag",
+      "korean_translation": "돈주머니를 관리하는 사람으로서",
+      "word_indices": [
+        448,
+        1206,
+        2401
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he used to help himself to what was put into it",
+      "korean_translation": "그는 그 안에 들어간 것을 훔쳐서 사용하곤 했다",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

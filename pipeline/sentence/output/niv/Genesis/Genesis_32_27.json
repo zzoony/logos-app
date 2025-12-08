@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 32:27",
+  "version": "NIV",
+  "original_text": "The man asked him, “What is your name?”\n“Jacob,” he answered.",
+  "korean_text": "그 사람이 그에게 이르되 네 이름이 무엇이냐 그가 이르되 야곱이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man asked him",
+      "korean_translation": "그 사람이 그에게 물었다",
+      "word_indices": [
+        10,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What is your name?",
+      "korean_translation": "네 이름이 무엇이냐?",
+      "word_indices": [
+        17
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jacob",
+      "korean_translation": "야곱이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he answered",
+      "korean_translation": "그가 대답했다",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

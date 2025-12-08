@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Kings 3:8",
+  "version": "NIV",
+  "original_text": "Your servant is here among the people you have chosen, a great people, too numerous to count or number.",
+  "korean_text": "왕께서 택하신 백성 가운데 있나이다 그들은 큰 백성이라 수효가 많아서 셀 수도 없고 기록할 수도 없사오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your servant is here",
+      "korean_translation": "주의 종이 여기 있습니다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "among the people you have chosen",
+      "korean_translation": "당신이 선택하신 백성 중에",
+      "word_indices": [
+        3,
+        27
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a great people",
+      "korean_translation": "위대한 백성이니",
+      "word_indices": [
+        3,
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "too numerous to count or number",
+      "korean_translation": "셀 수도, 계산할 수도 없이 많습니다",
+      "word_indices": [
+        201,
+        434
+      ]
+    }
+  ]
+}

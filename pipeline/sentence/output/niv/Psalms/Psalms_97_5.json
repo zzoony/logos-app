@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 97:5",
+  "version": "NIV",
+  "original_text": "The mountains melt like wax before the Lord,\n    before the Lord of all the earth.",
+  "korean_text": "산들이 여호와의 앞 곧 온 땅의 주 앞에서 밀랍 같이 녹았도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The mountains melt like wax",
+      "korean_translation": "산들이 밀랍처럼 녹습니다",
+      "word_indices": [
+        7,
+        147,
+        1150,
+        3610
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before the Lord",
+      "korean_translation": "주님 앞에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "before the Lord of all the earth",
+      "korean_translation": "온 땅의 주님 앞에서",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

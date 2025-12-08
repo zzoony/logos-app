@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 133:2",
+  "version": "NIV",
+  "original_text": "It is like precious oil poured on the head,\n    running down on the beard,\nrunning down on Aaron’s beard,\n    down on the collar of his robe.",
+  "korean_text": "머리에 있는 보배로운 기름이 수염 곧 아론의 수염에 흘러서 그의 옷깃까지 내림 같고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is like precious oil poured on the head",
+      "korean_translation": "그것은 머리에 부어진 귀한 기름과 같고",
+      "word_indices": [
+        7,
+        67,
+        246,
+        266
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "running down on the beard",
+      "korean_translation": "수염으로 흘러내리며",
+      "word_indices": [
+        1670
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "running down on Aaron's beard",
+      "korean_translation": "아론의 수염으로 흘러내리며",
+      "word_indices": [
+        1670
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "down on the collar of his robe",
+      "korean_translation": "그의 옷깃까지 흘러내리는도다",
+      "word_indices": [
+        533,
+        3772
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Mark 14:30",
+  "version": "NIV",
+  "original_text": "“Truly I tell you,” Jesus answered, “today—yes, tonight—before the rooster crows twice you yourself will disown me three times.”",
+  "korean_text": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 이 밤 닭이 두 번 울기 전에 네가 세 번 나를 부인하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Truly I tell you",
+      "korean_translation": "내가 진정으로 너희에게 말하노라",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "today",
+      "korean_translation": "오늘",
+      "word_indices": [
+        242
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yes, tonight",
+      "korean_translation": "그래, 오늘 밤",
+      "word_indices": [
+        2119
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before the rooster crows twice",
+      "korean_translation": "수탉이 두 번 울기 전에",
+      "word_indices": [
+        1537,
+        2018,
+        2189
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you yourself will disown me three times",
+      "korean_translation": "너는 나를 세 번 부인할 것이다",
+      "word_indices": [
+        90,
+        1693
+      ]
+    }
+  ]
+}

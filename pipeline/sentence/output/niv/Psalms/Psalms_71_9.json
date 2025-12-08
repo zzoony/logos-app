@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 71:9",
+  "version": "NIV",
+  "original_text": "Do not cast me away when I am old;\n    do not forsake me when my strength is gone.",
+  "korean_text": "늙을 때에 나를 버리지 마시며 내 힘이 쇠약할 때에 나를 떠나지 마소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not cast me away",
+      "korean_translation": "나를 내던지지 마세요",
+      "word_indices": [
+        34,
+        581
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I am old",
+      "korean_translation": "내가 늙었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do not forsake me",
+      "korean_translation": "나를 버리지 마세요",
+      "word_indices": [
+        544
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when my strength is gone",
+      "korean_translation": "내 힘이 다하였을 때",
+      "word_indices": [
+        291
+      ]
+    }
+  ]
+}

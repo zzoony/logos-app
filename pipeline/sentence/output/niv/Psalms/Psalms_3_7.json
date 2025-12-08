@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 3:7",
+  "version": "NIV",
+  "original_text": "Arise, Lord!\n    Deliver me, my God!\nStrike all my enemies on the jaw;\n    break the teeth of the wicked.",
+  "korean_text": "여호와여 일어나소서 나의 하나님이여 나를 구원하소서 주께서 나의 모든 원수의 뺨을 치시며 악인의 이를 꺾으셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Arise, Lord!",
+      "korean_translation": "일어나소서, 주님!",
+      "word_indices": [
+        879
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Deliver me, my God!",
+      "korean_translation": "나를 구원하소서, 나의 하나님!",
+      "word_indices": [
+        1,
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Strike all my enemies on the jaw;",
+      "korean_translation": "나의 모든 원수의 턱을 치소서;",
+      "word_indices": [
+        100,
+        206,
+        2666
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "break the teeth of the wicked.",
+      "korean_translation": "악인들의 이를 부수소서.",
+      "word_indices": [
+        117,
+        1035,
+        2221
+      ]
+    }
+  ]
+}

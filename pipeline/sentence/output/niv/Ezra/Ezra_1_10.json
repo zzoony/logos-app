@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ezra 1:10",
+  "version": "NIV",
+  "original_text": "gold bowls 30matching silver bowls 410 other articles 1,000",
+  "korean_text": "금 대접이 서른 개요 그보다 못한 은 대접이 사백열 개요 그밖의 그릇이 천 개이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "gold bowls 30",
+      "korean_translation": "금 대접 30개",
+      "word_indices": [
+        75,
+        701
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "matching silver bowls 410",
+      "korean_translation": "일치하는 은 대접 410개",
+      "word_indices": [
+        124,
+        701,
+        3552
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "other articles 1,000",
+      "korean_translation": "다른 기물 1,000개",
+      "word_indices": []
+    }
+  ]
+}

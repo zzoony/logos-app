@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 5:4",
+  "version": "NIV",
+  "original_text": "After Seth was born, Adam lived 800 years and had other sons and daughters.",
+  "korean_text": "아담은 셋을 낳은 후 팔백 년을 지내며 자녀들을 낳았으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After Seth was born",
+      "korean_translation": "셋이 태어난 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Adam lived 800 years",
+      "korean_translation": "아담은 800년을 살았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and had other sons",
+      "korean_translation": "다른 아들을 낳았으며",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and daughters",
+      "korean_translation": "딸도 낳았다",
+      "word_indices": [
+        66
+      ]
+    }
+  ]
+}

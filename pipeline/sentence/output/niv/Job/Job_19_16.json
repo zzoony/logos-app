@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Job 19:16",
+  "version": "NIV",
+  "original_text": "I summon my servant, but he does not answer,\n    though I beg him with my own mouth.",
+  "korean_text": "내가 내 종을 불러도 대답하지 아니하니 내 입으로 그에게 간청하여야 하겠구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I summon my servant",
+      "korean_translation": "나는 내 종을 부르지만",
+      "word_indices": [
+        25,
+        539
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but he does not answer",
+      "korean_translation": "그는 대답하지 않는다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "though I beg him with my own mouth",
+      "korean_translation": "비록 내가 내 입으로 그에게 간청해도",
+      "word_indices": [
+        127,
+        143,
+        930
+      ]
+    }
+  ]
+}

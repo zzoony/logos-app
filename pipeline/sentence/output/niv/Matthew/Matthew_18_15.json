@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 18:15",
+  "version": "NIV",
+  "original_text": "“If your brother or sister sins, go and point out their fault, just between the two of you. If they listen to you, you have won them over.",
+  "korean_text": "네 형제가 죄를 범하거든 가서 너와 그 사람과만 상대하여 권고하라 만일 들으면 네가 네 형제를 얻은 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If your brother or sister sins,",
+      "korean_translation": "네 형제나 자매가 죄를 짓거든",
+      "word_indices": [
+        24,
+        53,
+        173
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "go and point out their fault,",
+      "korean_translation": "가서 그의 허물을 지적하고",
+      "word_indices": [
+        1013,
+        1718
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "just between the two of you.",
+      "korean_translation": "너와 그两个人 사이에서만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If they listen to you,",
+      "korean_translation": "그가 네 말을 들으면",
+      "word_indices": [
+        86
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you have won them over.",
+      "korean_translation": "네가 그를 얻은 것이니라",
+      "word_indices": []
+    }
+  ]
+}

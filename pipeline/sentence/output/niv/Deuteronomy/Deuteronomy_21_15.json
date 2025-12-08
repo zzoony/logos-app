@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Deuteronomy 21:15",
+  "version": "NIV",
+  "original_text": "If a man has two wives, and he loves one but not the other, and both bear him sons but the firstborn is the son of the wife he does not love,",
+  "korean_text": "어떤 사람이 두 아내를 두었는데 하나는 사랑을 받고 하나는 미움을 받다가 그 사랑을 받는 자와 미움을 받는 자가 둘 다 아들을 낳았다 하자 그 미움을 받는 자의 아들이 장자이면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a man has two wives",
+      "korean_translation": "만약 한 남자가 두 명의 아내를 가지고 있다면",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he loves one but not the other",
+      "korean_translation": "그리고 그가 한 명은 사랑하지만 다른 한 명은 사랑하지 않는다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and both bear him sons",
+      "korean_translation": "그리고 두 아내 모두 그에게 아들을 낳아주고",
+      "word_indices": [
+        2,
+        111
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but the firstborn is the son of the wife he does not love",
+      "korean_translation": "하지만 첫째 아들은 그가 사랑하지 않는 아내의 아들인 경우",
+      "word_indices": [
+        2,
+        38,
+        79,
+        408
+      ]
+    }
+  ]
+}

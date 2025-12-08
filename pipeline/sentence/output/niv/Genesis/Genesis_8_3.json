@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 8:3",
+  "version": "NIV",
+  "original_text": "The water receded steadily from the earth. At the end of the hundred and fifty days the water had gone down,",
+  "korean_text": "물이 땅에서 물러가고 점점 물러가서 백오십 일 후에 줄어들고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The water receded steadily",
+      "korean_translation": "물이 꾸준히 빠져나갔습니다",
+      "word_indices": [
+        46,
+        4165
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the earth",
+      "korean_translation": "땅에서",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "At the end of the hundred and fifty days",
+      "korean_translation": "백오십일이 끝났을 때",
+      "word_indices": [
+        112,
+        560
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the water had gone down",
+      "korean_translation": "물이 내려갔습니다",
+      "word_indices": [
+        46
+      ]
+    }
+  ]
+}

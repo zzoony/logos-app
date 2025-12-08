@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ecclesiastes 8:7",
+  "version": "NIV",
+  "original_text": "Since no one knows the future,\n    who can tell someone else what is to come?",
+  "korean_text": "사람이 장래 일을 알지 못하나니 장래 일을 가르칠 자가 누구이랴",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Since no one knows the future",
+      "korean_translation": "아무도 미래를 알지 못하므로",
+      "word_indices": [
+        13,
+        1253
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who can tell someone else",
+      "korean_translation": "누가 다른 사람에게 말할 수 있겠는가",
+      "word_indices": [
+        15,
+        271,
+        485
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what is to come?",
+      "korean_translation": "무엇이 올 것인지를?",
+      "word_indices": []
+    }
+  ]
+}

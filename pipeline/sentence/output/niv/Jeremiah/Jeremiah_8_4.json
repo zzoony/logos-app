@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Jeremiah 8:4",
+  "version": "NIV",
+  "original_text": "“Say to them, ‘This is what the Lord says:\n“‘When people fall down, do they not get up?\n    When someone turns away, do they not return?",
+  "korean_text": "너는 또 그들에게 말하기를 여호와의 말씀에 사람이 엎드러지면 어찌 일어나지 아니하겠으며 사람이 떠나갔으면 어찌 돌아오지 아니하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Say to them",
+      "korean_translation": "그들에게 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This is what the Lord says",
+      "korean_translation": "주께서 말씀하시는 것이니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When people fall down",
+      "korean_translation": "사람들이 넘어질 때에",
+      "word_indices": [
+        3,
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "do they not get up?",
+      "korean_translation": "그들이 일어나지 아니하겠느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "When someone turns away",
+      "korean_translation": "사람이 돌이킬 때에",
+      "word_indices": [
+        34,
+        49,
+        271
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "do they not return?",
+      "korean_translation": "그들이 돌아오지 아니하겠느냐",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

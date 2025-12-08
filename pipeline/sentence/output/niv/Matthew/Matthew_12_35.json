@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 12:35",
+  "version": "NIV",
+  "original_text": "A good man brings good things out of the good stored up in him, and an evil man brings evil things out of the evil stored up in him.",
+  "korean_text": "선한 사람은 그 쌓은 선에서 선한 것을 내고 악한 사람은 그 쌓은 악에서 악한 것을 내느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A good man brings good things",
+      "korean_translation": "선한 사람은 선한 것들을 가져옵니다",
+      "word_indices": [
+        6,
+        10,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "out of the good stored up in him",
+      "korean_translation": "그의 안에 저장된 선한 것들로부터",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and an evil man brings evil things",
+      "korean_translation": "그리고 악한 사람은 악한 것들을 가져옵니다",
+      "word_indices": [
+        6,
+        10,
+        95
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "out of the evil stored up in him",
+      "korean_translation": "그의 안에 저장된 악한 것들로부터",
+      "word_indices": [
+        95
+      ]
+    }
+  ]
+}

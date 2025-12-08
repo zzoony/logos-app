@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Chronicles 10:11",
+  "version": "NIV",
+  "original_text": "My father laid on you a heavy yoke; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.’”",
+  "korean_text": "내 아버지가 너희에게 무거운 멍에를 메게 하였으나 이제 나는 너희의 멍에를 더욱 무겁게 할지라 내 아버지는 가죽 채찍으로 너희를 치셨으나 나는 전갈 채찍으로 하리라 하소서 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My father laid on you a heavy yoke",
+      "korean_translation": "내 아버지가 너희에게 무거운 멍에를 씌웠고",
+      "word_indices": [
+        12,
+        740,
+        932
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will make it even heavier",
+      "korean_translation": "나는 그것을 더욱 무겁게 만들겠노라",
+      "word_indices": [
+        3020
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My father scourged you with whips",
+      "korean_translation": "내 아버지는 채찍으로 너희를 쳤으나",
+      "word_indices": [
+        12,
+        2476
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will scourge you with scorpions",
+      "korean_translation": "나는 전갈로 너희를 치겠노라",
+      "word_indices": [
+        1992,
+        2172
+      ]
+    }
+  ]
+}

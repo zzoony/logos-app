@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 42:20",
+  "version": "NIV",
+  "original_text": "You have seen many things, but you pay no attention;\n    your ears are open, but you do not listen.”",
+  "korean_text": "네가 많은 것을 볼지라도 유의하지 아니하며 귀가 열려 있을지라도 듣지 아니하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have seen many things",
+      "korean_translation": "당신은 많은 것을 보았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you pay no attention",
+      "korean_translation": "그러나 당신은 주의를 기울이지 않습니다",
+      "word_indices": [
+        248,
+        643
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your ears are open",
+      "korean_translation": "당신의 귀는 열려 있습니다",
+      "word_indices": [
+        160,
+        383
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but you do not listen",
+      "korean_translation": "그러나 당신은 듣지 않습니다",
+      "word_indices": [
+        86
+      ]
+    }
+  ]
+}

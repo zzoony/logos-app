@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 95:3",
+  "version": "NIV",
+  "original_text": "For the Lord is the great God,\n    the great King above all gods.",
+  "korean_text": "여호와는 크신 하나님이시요 모든 신들보다 크신 왕이시기 때문이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the Lord is the great God",
+      "korean_translation": "이는 주님은 위대하신 하나님이시기 때문입니다",
+      "word_indices": [
+        1,
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the great King above all gods",
+      "korean_translation": "모든 신들 위에 계신 위대하신 왕이십니다",
+      "word_indices": [
+        1,
+        4,
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Proverbs 20:22",
+  "version": "NIV",
+  "original_text": "Do not say, “I’ll pay you back for this wrong!”\n    Wait for the Lord, and he will avenge you.",
+  "korean_text": "너는 악을 갚겠다 말하지 말고 여호와를 기다리라 그가 너를 구원하시리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not say",
+      "korean_translation": "말하지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I'll pay you back for this wrong!",
+      "korean_translation": "이 잘못에 대해 갚아 주겠다고!",
+      "word_indices": [
+        52,
+        248,
+        442
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Wait for the Lord",
+      "korean_translation": "주님을 기다리라",
+      "word_indices": [
+        388
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he will avenge you",
+      "korean_translation": "그가 너를 갚아 주실 것이다",
+      "word_indices": [
+        1097
+      ]
+    }
+  ]
+}

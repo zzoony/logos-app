@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Genesis 32:15",
+  "version": "NIV",
+  "original_text": "thirty female camels with their young, forty cows and ten bulls, and twenty female donkeys and ten male donkeys.",
+  "korean_text": "젖 나는 낙타 삼십과 그 새끼요 암소가 사십이요 황소가 열이요 암나귀가 이십이요 그 새끼 나귀가 열이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "thirty female camels with their young",
+      "korean_translation": "새끼를 데른 암낙타 서른 마리",
+      "word_indices": [
+        130,
+        403,
+        614,
+        780
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "forty cows",
+      "korean_translation": "소 마흔 마리",
+      "word_indices": [
+        469,
+        1354
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ten bulls",
+      "korean_translation": "그리고 수소 열 마리",
+      "word_indices": [
+        240,
+        309
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and twenty female donkeys",
+      "korean_translation": "그리고 암나귀 스무 마리",
+      "word_indices": [
+        220,
+        347,
+        614
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and ten male donkeys",
+      "korean_translation": "그리고 수나귀 열 마리",
+      "word_indices": [
+        228,
+        240,
+        347
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Chronicles 3:4",
+  "version": "NIV",
+  "original_text": "These six were born to David in Hebron, where he reigned seven years and six months.\nDavid reigned in Jerusalem thirty-three years,",
+  "korean_text": "이 여섯은 헤브론에서 낳았더라 다윗이 거기서 칠 년 육 개월 다스렸고 또 예루살렘에서 삼십삼 년 다스렸으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These six were born to David in Hebron,",
+      "korean_translation": "이 여섯은 헤브론에서 다윗에게 태어났고,",
+      "word_indices": [
+        395
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where he reigned seven years and six months.",
+      "korean_translation": "거기서 그는 칠 년 여섯 달 동안 통치했다.",
+      "word_indices": [
+        96,
+        180,
+        189,
+        395
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "David reigned in Jerusalem thirty-three years,",
+      "korean_translation": "다윗은 예루살렘에서 삼십삼 년 동안 통치했다.",
+      "word_indices": [
+        90,
+        180,
+        403
+      ]
+    }
+  ]
+}

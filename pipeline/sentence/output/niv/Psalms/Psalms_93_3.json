@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 93:3",
+  "version": "NIV",
+  "original_text": "The seas have lifted up, Lord,\n    the seas have lifted up their voice;\n    the seas have lifted up their pounding waves.",
+  "korean_text": "여호와여 큰 물이 소리를 높였고 큰 물이 그 소리를 높였으니 큰 물이 그 물결을 높이나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The seas have lifted up, Lord",
+      "korean_translation": "바다들이 들어 올렸나이다, 주여",
+      "word_indices": [
+        108,
+        379
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the seas have lifted up their voice",
+      "korean_translation": "바다들이 그들의 목소리를 들어 올렸나이다",
+      "word_indices": [
+        108,
+        241,
+        379
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the seas have lifted up their pounding waves",
+      "korean_translation": "바다들이 그들의 출렁이는 파도를 들어 올렸나이다",
+      "word_indices": [
+        108,
+        379,
+        1929
+      ]
+    }
+  ]
+}

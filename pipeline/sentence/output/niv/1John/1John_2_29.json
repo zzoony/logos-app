@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 John 2:29",
+  "version": "NIV",
+  "original_text": "If you know that he is righteous, you know that everyone who does what is right has been born of him.",
+  "korean_text": "너희가 그가 의로우신 줄을 알면 의를 행하는 자마다 그에게서 난 줄을 알리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you know that he is righteous",
+      "korean_translation": "그가 의로운 분인 줄 알면",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you know that everyone who does what is right",
+      "korean_translation": "옳은 일을 행하는 모든 사람이",
+      "word_indices": [
+        13,
+        74,
+        186
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "has been born of him",
+      "korean_translation": "그에게서 난 사람임을 안다",
+      "word_indices": []
+    }
+  ]
+}

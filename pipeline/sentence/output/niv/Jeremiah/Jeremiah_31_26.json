@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Jeremiah 31:26",
+  "version": "NIV",
+  "original_text": "At this I awoke and looked around. My sleep had been pleasant to me.",
+  "korean_text": "내가 깨어 보니 내 잠이 달았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At this I awoke",
+      "korean_translation": "이에 내가 깨어나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and looked around",
+      "korean_translation": "주위를 둘러보았다",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My sleep had been pleasant to me",
+      "korean_translation": "나의 잠은 나에게 즐거웠다",
+      "word_indices": [
+        378,
+        1655
+      ]
+    }
+  ]
+}

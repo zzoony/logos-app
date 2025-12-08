@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Chronicles 4:1",
+  "version": "NIV",
+  "original_text": "He made a bronze altar twenty cubits long, twenty cubits wide and ten cubits high.",
+  "korean_text": "솔로몬이 또 놋으로 제단을 만들었으니 길이가 이십 규빗이요 너비가 이십 규빗이요 높이가 십 규빗이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He made a bronze altar",
+      "korean_translation": "그는 놋제단을 만들었고",
+      "word_indices": [
+        82,
+        333
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "twenty cubits long",
+      "korean_translation": "길이는 스무 규빗이며",
+      "word_indices": [
+        71,
+        170,
+        220
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "twenty cubits wide",
+      "korean_translation": "너비는 스무 규빗이고",
+      "word_indices": [
+        170,
+        220,
+        512
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "ten cubits high",
+      "korean_translation": "높이는 열 규빗이었다",
+      "word_indices": [
+        105,
+        170,
+        240
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Acts 3:6",
+  "version": "NIV",
+  "original_text": "Then Peter said, “Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.”",
+  "korean_text": "베드로가 이르되 은과 금은 내게 없거니와 내게 있는 이것을 네게 주노니 나사렛 예수 그리스도의 이름으로 일어나 걸으라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Peter said",
+      "korean_translation": "그때 베드로가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Silver or gold I do not have",
+      "korean_translation": "은이나 금은 내가 가지고 있지 않지만",
+      "word_indices": [
+        75,
+        124
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but what I do have I give you",
+      "korean_translation": "내가 가진 것을 너에게 주리라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "In the name of Jesus Christ of Nazareth",
+      "korean_translation": "나사렛 예수 그리스도의 이름으로",
+      "word_indices": [
+        17,
+        73
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "walk",
+      "korean_translation": "걸으라",
+      "word_indices": [
+        238
+      ]
+    }
+  ]
+}

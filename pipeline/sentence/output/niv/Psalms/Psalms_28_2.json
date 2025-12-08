@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 28:2",
+  "version": "NIV",
+  "original_text": "Hear my cry for mercy\n    as I call to you for help,\nas I lift up my hands\n    toward your Most Holy Place.",
+  "korean_text": "내가 주의 지성소를 향하여 나의 손을 들고 주께 부르짖을 때에 나의 간구하는 소리를 들으소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hear my cry for mercy",
+      "korean_translation": "나의 긍휼을 베풀어 달라는 부르짖음을 들어주소서",
+      "word_indices": [
+        16,
+        152,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as I call to you for help",
+      "korean_translation": "내가 주께 도움을 구하며 부를 때",
+      "word_indices": [
+        35,
+        181
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as I lift up my hands",
+      "korean_translation": "내가 손을 들어",
+      "word_indices": [
+        9,
+        379
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "toward your Most Holy Place",
+      "korean_translation": "주의 지성소를 향할 때",
+      "word_indices": [
+        18,
+        59,
+        224
+      ]
+    }
+  ]
+}

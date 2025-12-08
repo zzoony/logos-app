@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Exodus 23:14",
+  "version": "NIV",
+  "original_text": "“Three times a year you are to celebrate a festival to me.",
+  "korean_text": "너는 매년 세 번 내게 절기를 지킬지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Three times a year",
+      "korean_translation": "일 년에 세 번",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you are to celebrate a festival",
+      "korean_translation": "너희는 절기를 지켜야 한다",
+      "word_indices": [
+        425,
+        666
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to me",
+      "korean_translation": "나를 위해",
+      "word_indices": []
+    }
+  ]
+}

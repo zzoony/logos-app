@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 4:38",
+  "version": "NIV",
+  "original_text": "I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.”",
+  "korean_text": "내가 너희로 노력하지 아니한 것을 거두러 보내었노니 다른 사람들은 노력하였고 너희는 그들이 노력한 것에 참여하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I sent you to reap",
+      "korean_translation": "내가 너희를 보내어 거두게 하려함이라",
+      "word_indices": [
+        1033
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what you have not worked for",
+      "korean_translation": "너희가 수고하지 않은 것을",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Others have done the hard work",
+      "korean_translation": "다른 사람들이 수고하였고",
+      "word_indices": [
+        65,
+        781
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you have reaped the benefits of their labor",
+      "korean_translation": "너희는 그들이 수고한 것을 거두었느니라",
+      "word_indices": [
+        511,
+        1033,
+        1511
+      ]
+    }
+  ]
+}

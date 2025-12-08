@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 15:2",
+  "version": "NIV",
+  "original_text": "He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.",
+  "korean_text": "무릇 내게 붙어 있어 열매를 맺지 아니하는 가지는 아버지께서 그것을 제거해 버리시고 무릇 열매를 맺는 가지는 더 열매를 맺게 하려 하여 그것을 깨끗하게 하시느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He cuts off every branch in me",
+      "korean_translation": "그는 내 안 있는 모든 가지를 잘라내며",
+      "word_indices": [
+        184,
+        509
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that bears no fruit",
+      "korean_translation": "열매를 맺지 못하는 것은",
+      "word_indices": [
+        111,
+        289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "while every branch that does bear fruit",
+      "korean_translation": "반면에 열매를 맺는 모든 가지는",
+      "word_indices": [
+        111,
+        289,
+        509
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he prunes",
+      "korean_translation": "그가 다듬어서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that it will be even more fruitful",
+      "korean_translation": "더 많은 열매를 맺게 하려 함이라",
+      "word_indices": [
+        1270
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 97:9",
+  "version": "NIV",
+  "original_text": "For you, Lord, are the Most High over all the earth;\n    you are exalted far above all gods.",
+  "korean_text": "여호와여 주는 온 땅 위에 지존하시고 모든 신들보다 위에 계시니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For you, Lord",
+      "korean_translation": "주여, 당신은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "are the Most High over all the earth",
+      "korean_translation": "온 땅 위에 계신 지존하신 분이시며",
+      "word_indices": [
+        40,
+        105
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you are exalted",
+      "korean_translation": "당신은 높임을 받으셨고",
+      "word_indices": [
+        535
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "far above all gods",
+      "korean_translation": "모든 신들보다 훨씬 위에 계십니다",
+      "word_indices": [
+        1,
+        202
+      ]
+    }
+  ]
+}

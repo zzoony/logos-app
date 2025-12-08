@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Kings 13:17",
+  "version": "NIV",
+  "original_text": "I have been told by the word of the Lord: ‘You must not eat bread or drink water there or return by the way you came.’”",
+  "korean_text": "이는 여호와의 말씀이 내게 이르시기를 네가 거기서 떡도 먹지 말고 물도 마시지 말며 또 네가 오던 길로 되돌아가지도 말라 하셨음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have been told",
+      "korean_translation": "내가 들었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by the word of the Lord",
+      "korean_translation": "여호와의 말씀으로",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must not eat bread",
+      "korean_translation": "너는 떡을 먹지 말며",
+      "word_indices": [
+        33,
+        187
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or drink water there",
+      "korean_translation": "그 곳에서 물을 마시지 말고",
+      "word_indices": [
+        46,
+        78
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or return by the way you came",
+      "korean_translation": "네가 왔던 길로 돌아가지 말지니라",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

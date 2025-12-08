@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Isaiah 55:1",
+  "version": "NIV",
+  "original_text": "“Come, all you who are thirsty,\n    come to the waters;\nand you who have no money,\n    come, buy and eat!\nCome, buy wine and milk\n    without money and without cost.",
+  "korean_text": "오호라 너희 모든 목마른 자들아 물로 나아오라 돈 없는 자도 오라 너희는 와서 사 먹되 돈 없이, 값 없이 와서 포도주와 젖을 사라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come, all you who are thirsty",
+      "korean_translation": "오라, 목마른 모든 사람들아",
+      "word_indices": [
+        1190
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "come to the waters",
+      "korean_translation": "물로 오라",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you who have no money",
+      "korean_translation": "돈이 없는 너희도",
+      "word_indices": [
+        448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "come, buy and eat",
+      "korean_translation": "와서 사고 먹으라",
+      "word_indices": [
+        33,
+        493
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Come, buy wine and milk",
+      "korean_translation": "와서 포도주와 우유를 사라",
+      "word_indices": [
+        215,
+        493,
+        957
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "without money and without cost",
+      "korean_translation": "돈 없이 값없이",
+      "word_indices": [
+        448,
+        1799
+      ]
+    }
+  ]
+}

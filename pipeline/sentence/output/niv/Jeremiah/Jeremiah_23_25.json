@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 23:25",
+  "version": "NIV",
+  "original_text": "“I have heard what the prophets say who prophesy lies in my name. They say, ‘I had a dream! I had a dream!’",
+  "korean_text": "내 이름으로 거짓을 예언하는 선지자들의 말에 내가 꿈을 꾸었다 꿈을 꾸었다고 말하는 것을 내가 들었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have heard what the prophets say",
+      "korean_translation": "나는 선지자들이 말하는 것을 들었다",
+      "word_indices": [
+        70
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who prophesy lies in my name",
+      "korean_translation": "내 이름으로 거짓을 예언하는 자들",
+      "word_indices": [
+        17,
+        365
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They say, 'I had a dream!'",
+      "korean_translation": "그들은 말한다, '나는 꿈을 꾸었다!'",
+      "word_indices": [
+        508
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I had a dream!'",
+      "korean_translation": "나는 꿈을 꾸었다!'",
+      "word_indices": [
+        508
+      ]
+    }
+  ]
+}

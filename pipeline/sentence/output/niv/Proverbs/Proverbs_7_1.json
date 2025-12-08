@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Proverbs 7:1",
+  "version": "NIV",
+  "original_text": "My son, keep my words\n    and store up my commands within you.",
+  "korean_text": "내 아들아 내 말을 지키며 내 계명을 간직하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My son",
+      "korean_translation": "내 아들아",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "keep my words",
+      "korean_translation": "나의 말을 지키고",
+      "word_indices": [
+        19,
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and store up my commands",
+      "korean_translation": "나의 명령을 쌓아두어라",
+      "word_indices": [
+        48,
+        835
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "within you",
+      "korean_translation": "네 속에",
+      "word_indices": []
+    }
+  ]
+}

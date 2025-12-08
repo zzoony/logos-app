@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Joshua 15:5",
+  "version": "NIV",
+  "original_text": "The eastern boundary is the Dead Sea as far as the mouth of the Jordan.\nThe northern boundary started from the bay of the sea at the mouth of the Jordan,",
+  "korean_text": "그 동쪽 경계는 염해이니 요단 끝까지요 그 북쪽 경계는 요단 끝에 있는 해만에서부터",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The eastern boundary is the Dead Sea",
+      "korean_translation": "동쪽 경계는 사해입니다",
+      "word_indices": [
+        108,
+        115,
+        712,
+        1565
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as far as the mouth of the Jordan",
+      "korean_translation": "요단강 하구까지입니다",
+      "word_indices": [
+        143,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The northern boundary started",
+      "korean_translation": "북쪽 경계는 시작되었습니다",
+      "word_indices": [
+        712,
+        1118,
+        1677
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the bay of the sea",
+      "korean_translation": "바이의 만에서",
+      "word_indices": [
+        108,
+        3476
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "at the mouth of the Jordan",
+      "korean_translation": "요단강 하구에서",
+      "word_indices": [
+        143
+      ]
+    }
+  ]
+}

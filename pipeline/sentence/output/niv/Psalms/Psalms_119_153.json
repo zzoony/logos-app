@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 119:153",
+  "version": "NIV",
+  "original_text": "Look on my suffering and deliver me,\n    for I have not forgotten your law.",
+  "korean_text": "나의 고난을 보시고 나를 건지소서 내가 주의 율법을 잊지 아니함이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Look on my suffering",
+      "korean_translation": "나의 고통을 보소서",
+      "word_indices": [
+        51,
+        376
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and deliver me",
+      "korean_translation": "그리고 나를 건지소서",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I have not forgotten your law",
+      "korean_translation": "내가 주의 법을 잊지 아니하였기 때문이니이다",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

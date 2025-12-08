@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Deuteronomy 9:13",
+  "version": "NIV",
+  "original_text": "And the Lord said to me, “I have seen this people, and they are a stiff-necked people indeed!",
+  "korean_text": "여호와께서 또 내게 말씀하여 이르시되 내가 이 백성을 보았노라 보라 이는 목이 곧은 백성이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said to me",
+      "korean_translation": "그리고 주께서 내게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have seen this people",
+      "korean_translation": "내가 이 백성을 보았으며",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they are a stiff-necked people indeed!",
+      "korean_translation": "그들은 참으로 목이 곧은 백성이라!",
+      "word_indices": [
+        3,
+        661,
+        1667
+      ]
+    }
+  ]
+}

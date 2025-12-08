@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Genesis 7:12",
+  "version": "NIV",
+  "original_text": "And rain fell on the earth forty days and forty nights.",
+  "korean_text": "사십 주야를 비가 땅에 쏟아졌더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And rain fell on the earth",
+      "korean_translation": "그리고 비가 땅에 내렸으며",
+      "word_indices": [
+        40,
+        290,
+        506
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "forty days and forty nights",
+      "korean_translation": "사십 일 사십 밤 동안",
+      "word_indices": [
+        126,
+        469
+      ]
+    }
+  ]
+}

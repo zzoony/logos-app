@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 24:12",
+  "version": "NIV",
+  "original_text": "May the Lord judge between you and me. And may the Lord avenge the wrongs you have done to me, but my hand will not touch you.",
+  "korean_text": "여호와께서는 나와 왕 사이를 판단하사 여호와께서 나를 위하여 왕에게 보복하시려니와 내 손으로는 왕을 해하지 않겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May the Lord judge between you and me.",
+      "korean_translation": "주께서 당신과 나 사이를 판단하시기를 바랍니다.",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And may the Lord avenge the wrongs",
+      "korean_translation": "그리고 주께서 그 잘못에 대한 복수를",
+      "word_indices": [
+        442,
+        1097
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you have done to me,",
+      "korean_translation": "당신이 나에게 한 행위에 하시기를 바랍니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but my hand will not touch you.",
+      "korean_translation": "하지만 내 손은 당신을 대지 않을 것입니다.",
+      "word_indices": [
+        9,
+        359
+      ]
+    }
+  ]
+}

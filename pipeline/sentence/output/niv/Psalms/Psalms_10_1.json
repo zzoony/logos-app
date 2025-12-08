@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 10:1",
+  "version": "NIV",
+  "original_text": "Why, Lord, do you stand far off?\n    Why do you hide yourself in times of trouble?",
+  "korean_text": "여호와여 어찌하여 멀리 서시며 어찌하여 환난 때에 숨으시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why, Lord, do you stand far off?",
+      "korean_translation": "왜 주님은 멀리 서 계십니까?",
+      "word_indices": [
+        45,
+        202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why do you hide yourself",
+      "korean_translation": "왜 당신은 스스로를 숨기십니까",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in times of trouble?",
+      "korean_translation": "환난 때에?",
+      "word_indices": [
+        304
+      ]
+    }
+  ]
+}

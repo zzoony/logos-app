@@ -1,0 +1,68 @@
+{
+  "verse_reference": "2 Kings 6:28",
+  "version": "NIV",
+  "original_text": "Then he asked her, “What’s the matter?”\nShe answered, “This woman said to me, ‘Give up your son so we may eat him today, and tomorrow we’ll eat my son.’",
+  "korean_text": "또 이르되 무슨 일이냐 하니 여인이 대답하되 이 여인이 내게 이르기를 네 아들을 내놓아라 우리가 오늘 먹고 내일은 내 아들을 먹자 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he asked her",
+      "korean_translation": "그때 그가 그녀에게 물었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What's the matter?",
+      "korean_translation": "무슨 일이니?",
+      "word_indices": [
+        580
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She answered",
+      "korean_translation": "그녀가 대답했다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This woman said to me",
+      "korean_translation": "이 여자가 나에게 말했다",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Give up your son",
+      "korean_translation": "네 아들을 내놓으라",
+      "word_indices": [
+        2,
+        5
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "so we may eat him today",
+      "korean_translation": "그러면 오늘 우리가 그를 먹을 수 있게",
+      "word_indices": [
+        33,
+        242
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and tomorrow we'll eat my son",
+      "korean_translation": "그리고 내일 우리는 내 아들을 먹을 것이다",
+      "word_indices": [
+        2,
+        33,
+        820
+      ]
+    }
+  ]
+}

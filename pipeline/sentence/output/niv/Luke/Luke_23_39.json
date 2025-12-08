@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 23:39",
+  "version": "NIV",
+  "original_text": "One of the criminals who hung there hurled insults at him: “Aren’t you the Messiah? Save yourself and us!”",
+  "korean_text": "달린 행악자 중 하나는 비방하여 이르되 네가 그리스도가 아니냐 너와 우리를 구원하라 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One of the criminals",
+      "korean_translation": "죄수 중 한 사람이",
+      "word_indices": [
+        2637
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who hung there",
+      "korean_translation": "거기에 매달려 있던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hurled insults at him",
+      "korean_translation": "그에게 욕설을 퍼부었다",
+      "word_indices": [
+        1092,
+        1209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Aren't you the Messiah?",
+      "korean_translation": "당신이 메시아가 아니란 말입니까?",
+      "word_indices": [
+        717
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Save yourself",
+      "korean_translation": "당신 자신을 구원하세요",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and us!",
+      "korean_translation": "그리고 우리도 구원하세요!",
+      "word_indices": []
+    }
+  ]
+}

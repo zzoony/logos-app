@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Nehemiah 5:2",
+  "version": "NIV",
+  "original_text": "Some were saying, “We and our sons and daughters are numerous; in order for us to eat and stay alive, we must get grain.”",
+  "korean_text": "어떤 사람은 말하기를 우리와 우리 자녀가 많으니 양식을 얻어 먹고 살아야 하겠다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some were saying",
+      "korean_translation": "어떤 사람들이 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We and our sons and daughters are numerous",
+      "korean_translation": "우리와 우리 아들딸들이 많습니다",
+      "word_indices": [
+        2,
+        66
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in order for us to eat and stay alive",
+      "korean_translation": "우리가 먹고 살기 위해",
+      "word_indices": [
+        33,
+        163,
+        197,
+        588
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we must get grain",
+      "korean_translation": "우리는 곡식을 얻어야 합니다",
+      "word_indices": [
+        182
+      ]
+    }
+  ]
+}

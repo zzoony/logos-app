@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Nahum 2:11",
+  "version": "NIV",
+  "original_text": "Where now is the lions’ den,\n    the place where they fed their young,\nwhere the lion and lioness went,\n    and the cubs, with nothing to fear?",
+  "korean_text": "이제 사자의 굴이 어디냐 젊은 사자가 먹을 곳이 어디냐 전에는 수사자 암사자가 그 새끼 사자와 함께 거기서 다니되 그것들을 두렵게 할 자가 없었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Where now is the lions' den",
+      "korean_translation": "사자의 굴이 이제 어디에 있는가",
+      "word_indices": [
+        399,
+        1440
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the place where they fed their young",
+      "korean_translation": "그들이 새끼에게 먹이를 주던 곳",
+      "word_indices": [
+        18,
+        130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where the lion and lioness went",
+      "korean_translation": "수사자와 암사자가 다니던 곳",
+      "word_indices": [
+        399
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the cubs, with nothing to fear",
+      "korean_translation": "그리고 두려움 없는 새끼 사자들",
+      "word_indices": [
+        133,
+        2042
+      ]
+    }
+  ]
+}

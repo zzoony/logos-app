@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 39:21",
+  "version": "NIV",
+  "original_text": "the Lord was with him; he showed him kindness and granted him favor in the eyes of the prison warden.",
+  "korean_text": "여호와께서 요셉과 함께 하시고 그에게 인자를 더하사 간수장에게 은혜를 받게 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the Lord was with him",
+      "korean_translation": "여호와께서 그와 함께 계셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he showed him kindness",
+      "korean_translation": "그에게 인자를 베풀고",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and granted him favor in the eyes of the prison warden",
+      "korean_translation": "옥장에게 은혜를 얻게 하셨더라",
+      "word_indices": [
+        393,
+        689,
+        719,
+        3735
+      ]
+    }
+  ]
+}

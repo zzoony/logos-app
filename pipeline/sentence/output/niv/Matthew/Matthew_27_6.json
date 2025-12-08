@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 27:6",
+  "version": "NIV",
+  "original_text": "The chief priests picked up the coins and said, “It is against the law to put this into the treasury, since it is blood money.”",
+  "korean_text": "대제사장들이 그 은을 거두며 이르되 이것은 핏값이라 성전고에 넣어 둠이 옳지 않다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The chief priests picked up the coins",
+      "korean_translation": "대제사장들이 동전을 주웠다",
+      "word_indices": [
+        22,
+        320,
+        841,
+        2397
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "그리고 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is against the law",
+      "korean_translation": "그것은 법에 어긋난다",
+      "word_indices": [
+        11,
+        42
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to put this into the treasury",
+      "korean_translation": "이것을 금고에 넣는 것은",
+      "word_indices": [
+        1091
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "since it is blood money",
+      "korean_translation": "왜냐하면 그것은 피의 돈이기 때문이다",
+      "word_indices": [
+        94,
+        448
+      ]
+    }
+  ]
+}

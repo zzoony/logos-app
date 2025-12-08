@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 95:1",
+  "version": "NIV",
+  "original_text": "Come, let us sing for joy to the Lord;\n    let us shout aloud to the Rock of our salvation.",
+  "korean_text": "오라 우리가 여호와께 노래하며 우리의 구원의 반석을 향하여 즐거이 외치자",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come,",
+      "korean_translation": "오라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let us sing for joy to the Lord;",
+      "korean_translation": "우리가 기쁨으로 주께 노래하며,",
+      "word_indices": [
+        237,
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us shout aloud to the Rock of our salvation.",
+      "korean_translation": "우리의 구원의 반석에게 큰 소리로 외치자.",
+      "word_indices": [
+        321,
+        369,
+        467,
+        1162
+      ]
+    }
+  ]
+}

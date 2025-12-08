@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Amos 2:10",
+  "version": "NIV",
+  "original_text": "I brought you up out of Egypt\n    and led you forty years in the wilderness\n    to give you the land of the Amorites.",
+  "korean_text": "내가 너희를 애굽 땅에서 이끌어 내어 사십 년 동안 광야에서 인도하고 아모리 사람의 땅을 너희가 차지하게 하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I brought you up out of Egypt",
+      "korean_translation": "내가 너희를 애굽에서 인도하여 내었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and led you forty years in the wilderness",
+      "korean_translation": "사십 년 동안 광야에서 너희를 인도하였으며",
+      "word_indices": [
+        469
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to give you the land of the Amorites",
+      "korean_translation": "아모리 사람의 땅을 너희에게 주려 하였노라",
+      "word_indices": [
+        5,
+        8
+      ]
+    }
+  ]
+}

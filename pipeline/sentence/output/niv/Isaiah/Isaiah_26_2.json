@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Isaiah 26:2",
+  "version": "NIV",
+  "original_text": "Open the gates\n    that the righteous nation may enter,\n    the nation that keeps faith.",
+  "korean_text": "너희는 문들을 열고 신의를 지키는 의로운 나라가 들어오게 할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Open the gates",
+      "korean_translation": "문들을 열어라",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the righteous nation may enter",
+      "korean_translation": "의로운 나라가 들어올 수 있도록",
+      "word_indices": [
+        41,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the nation that keeps faith",
+      "korean_translation": "믿음을 지키는 나라",
+      "word_indices": [
+        41,
+        60,
+        192
+      ]
+    }
+  ]
+}

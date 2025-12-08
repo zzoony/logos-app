@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 121:4",
+  "version": "NIV",
+  "original_text": "indeed, he who watches over Israel\n    will neither slumber nor sleep.",
+  "korean_text": "이스라엘을 지키시는 이는 졸지도 아니하시고 주무시지도 아니하시리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "indeed",
+      "korean_translation": "참으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he who watches over Israel",
+      "korean_translation": "이스라엘을 지키시는 이는",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will neither slumber",
+      "korean_translation": "결코 졸지 않으시며",
+      "word_indices": [
+        449,
+        2388
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor sleep",
+      "korean_translation": "잠들지도 아니하시리라",
+      "word_indices": [
+        378
+      ]
+    }
+  ]
+}

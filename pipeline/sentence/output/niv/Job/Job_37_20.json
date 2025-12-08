@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Job 37:20",
+  "version": "NIV",
+  "original_text": "Should he be told that I want to speak?\n    Would anyone ask to be swallowed up?",
+  "korean_text": "내가 말하고 싶은 것을 어찌 그에게 고할 수 있으랴 삼켜지기를 바랄 자가 어디 있으랴",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Should he be told",
+      "korean_translation": "그에게 말해져야 하는가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I want to speak?",
+      "korean_translation": "내가 말하고 싶어한다는 것을?",
+      "word_indices": [
+        29,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Would anyone ask",
+      "korean_translation": "누가 요청하겠는가",
+      "word_indices": [
+        31,
+        68
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to be swallowed up?",
+      "korean_translation": "삼켜지기를?",
+      "word_indices": [
+        1089
+      ]
+    }
+  ]
+}

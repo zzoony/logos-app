@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Isaiah 42:2",
+  "version": "NIV",
+  "original_text": "He will not shout or cry out,\n    or raise his voice in the streets.",
+  "korean_text": "그는 외치지 아니하며 목소리를 높이지 아니하며 그 소리를 거리에 들리게 하지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He will not shout",
+      "korean_translation": "그는 외치지 않을 것이며",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or cry out",
+      "korean_translation": "소리치지 않을 것이고",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or raise his voice in the streets",
+      "korean_translation": "거리에서 목소리를 높이지 않을 것이다",
+      "word_indices": [
+        241,
+        249,
+        613
+      ]
+    }
+  ]
+}

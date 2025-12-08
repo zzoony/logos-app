@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 8:11",
+  "version": "NIV",
+  "original_text": "When the dove returned to him in the evening, there in its beak was a freshly plucked olive leaf! Then Noah knew that the water had receded from the earth.",
+  "korean_text": "저녁때에 비둘기가 그에게로 돌아왔는데 그 입에 감람나무 새 잎사귀가 있는지라 이에 노아가 땅에 물이 줄어든 줄을 알았으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the dove returned to him in the evening",
+      "korean_translation": "비둘기가 저녁에 그에게 돌아왔을 때",
+      "word_indices": [
+        89,
+        1504
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there in its beak was a freshly plucked olive leaf",
+      "korean_translation": "그 부리에는 방금 딴 올리브 잎이 있었다",
+      "word_indices": [
+        327,
+        1030,
+        3717,
+        4888,
+        4889
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then Noah knew",
+      "korean_translation": "그때 노아는 알았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that the water had receded from the earth",
+      "korean_translation": "물이 땅에서 물러갔다는 것을",
+      "word_indices": [
+        40,
+        46
+      ]
+    }
+  ]
+}

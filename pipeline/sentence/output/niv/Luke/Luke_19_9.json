@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 19:9",
+  "version": "NIV",
+  "original_text": "Jesus said to him, “Today salvation has come to this house, because this man, too, is a son of Abraham.",
+  "korean_text": "예수께서 이르시되 오늘 구원이 이 집에 이르렀으니 이 사람도 아브라함의 자손임이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수님께서 그에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Today salvation has come to this house",
+      "korean_translation": "오늘 구원이 이 집에 이르렀다",
+      "word_indices": [
+        26,
+        242,
+        467
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because this man, too, is a son of Abraham",
+      "korean_translation": "이 사람도 아브라함의 아들이기 때문이다",
+      "word_indices": [
+        2,
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Corinthians 15:21",
+  "version": "NIV",
+  "original_text": "For since death came through a man, the resurrection of the dead comes also through a man.",
+  "korean_text": "사망이 한 사람으로 말미암았으니 죽은 자의 부활도 한 사람으로 말미암는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For since death came through a man",
+      "korean_translation": "이는 한 사람을 통해 죽음이 왔기 때문에",
+      "word_indices": [
+        10,
+        39,
+        80
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the resurrection of the dead comes",
+      "korean_translation": "죽은 자들의 부활이 오는 것도",
+      "word_indices": [
+        115,
+        1081
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "also through a man",
+      "korean_translation": "또한 한 사람을 통해임",
+      "word_indices": [
+        10,
+        28,
+        39
+      ]
+    }
+  ]
+}

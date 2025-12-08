@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Ecclesiastes 12:4",
+  "version": "NIV",
+  "original_text": "when the doors to the street are closed\n    and the sound of grinding fades;\nwhen people rise up at the sound of birds,\n    but all their songs grow faint;",
+  "korean_text": "길거리 문들이 닫혀질 것이며 맷돌 소리가 적어질 것이며 새의 소리로 말미암아 일어날 것이며 음악하는 여자들은 다 쇠하여질 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "when the doors to the street are closed",
+      "korean_translation": "거리의 문들이 닫힐 때",
+      "word_indices": [
+        415,
+        613
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the sound of grinding fades",
+      "korean_translation": "그리고 맷돌 소리가 사라질 때",
+      "word_indices": [
+        141,
+        310
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when people rise up at the sound of birds",
+      "korean_translation": "사람들이 새소리에 일어날 때",
+      "word_indices": [
+        3,
+        199,
+        310,
+        386
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but all their songs grow faint",
+      "korean_translation": "그러나 그들의 모든 노래가 희미해질 때",
+      "word_indices": [
+        269,
+        653,
+        1199
+      ]
+    }
+  ]
+}

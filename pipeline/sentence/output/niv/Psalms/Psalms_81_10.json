@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 81:10",
+  "version": "NIV",
+  "original_text": "I am the Lord your God,\n    who brought you up out of Egypt.\nOpen wide your mouth and I will fill it.",
+  "korean_text": "나는 너를 애굽 땅에서 인도하여 낸 여호와 네 하나님이니 네 입을 크게 열라 내가 채우리라 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord your God",
+      "korean_translation": "나는 너의 하나님 여호와이다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who brought you up out of Egypt",
+      "korean_translation": "너를 애굽 땅에서 인도하여 낸 자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Open wide your mouth",
+      "korean_translation": "너의 입을 넓게 열라",
+      "word_indices": [
+        143,
+        160,
+        512
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I will fill it",
+      "korean_translation": "내가 채우리라",
+      "word_indices": [
+        188
+      ]
+    }
+  ]
+}

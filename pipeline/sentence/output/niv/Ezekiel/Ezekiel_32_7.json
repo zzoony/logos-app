@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Ezekiel 32:7",
+  "version": "NIV",
+  "original_text": "When I snuff you out, I will cover the heavens\n    and darken their stars;\nI will cover the sun with a cloud,\n    and the moon will not give its light.",
+  "korean_text": "내가 너를 불 끄듯 할 때에 하늘을 가리어 별을 어둡게 하며 해를 구름으로 가리며 달이 빛을 내지 못하게 할 것임이여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I snuff you out",
+      "korean_translation": "내가 너를 끌 때",
+      "word_indices": [
+        2509
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will cover the heavens",
+      "korean_translation": "내가 하늘을 덮으리라",
+      "word_indices": [
+        57,
+        200
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and darken their stars",
+      "korean_translation": "그 별들을 어둡게 하리라",
+      "word_indices": [
+        676,
+        1755
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will cover the sun with a cloud",
+      "korean_translation": "내가 구름으로 해를 덮으리라",
+      "word_indices": [
+        200,
+        331,
+        364
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the moon will not give its light",
+      "korean_translation": "그리고 달은 그 빛을 주지 아니하리라",
+      "word_indices": [
+        5,
+        205,
+        724
+      ]
+    }
+  ]
+}

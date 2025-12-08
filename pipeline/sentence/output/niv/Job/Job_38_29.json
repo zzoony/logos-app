@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Job 38:29",
+  "version": "NIV",
+  "original_text": "From whose womb comes the ice?\n    Who gives birth to the frost from the heavens",
+  "korean_text": "얼음은 누구의 태에서 났느냐 공중의 서리는 누가 낳았느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From whose womb comes the ice?",
+      "korean_translation": "누구의 태에서 얼음이 나오는가?",
+      "word_indices": [
+        766,
+        3952
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who gives birth to the frost",
+      "korean_translation": "누가 서리를 낳는가?",
+      "word_indices": [
+        5,
+        387,
+        3404
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the heavens",
+      "korean_translation": "하늘로부터",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

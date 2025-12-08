@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Jeremiah 42:17",
+  "version": "NIV",
+  "original_text": "Indeed, all who are determined to go to Egypt to settle there will die by the sword, famine and plague; not one of them will survive or escape the disaster I will bring on them.’",
+  "korean_text": "무릇 애굽으로 들어가서 거기에 머물러 살기로 고집하는 모든 사람은 이와 같이 되리니 곧 칼과 기근과 전염병에 죽을 것인즉 내가 그들에게 내리는 재난을 벗어나서 남을 자 없으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Indeed, all who are determined to go to Egypt",
+      "korean_translation": "과연, 이집트로 가기로 결심한 모든 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to settle there will die by the sword, famine and plague",
+      "korean_translation": "그곳에 정착하려는 사람들은 칼, 기근과 역병으로 죽을 것이다",
+      "word_indices": [
+        58,
+        84,
+        455,
+        518,
+        534
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not one of them will survive",
+      "korean_translation": "그들 중 한 사람도 살아남지 못할 것이며",
+      "word_indices": [
+        1238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or escape the disaster I will bring on them",
+      "korean_translation": "내가 그들에게 가져올 재앙을 피하지 못할 것이다",
+      "word_indices": [
+        424,
+        470
+      ]
+    }
+  ]
+}

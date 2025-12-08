@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Nahum 3:18",
+  "version": "NIV",
+  "original_text": "King of Assyria, your shepherds slumber;\n    your nobles lie down to rest.\nYour people are scattered on the mountains\n    with no one to gather them.",
+  "korean_text": "앗수르 왕이여 네 목자가 자고 네 귀족은 누워 쉬며 네 백성은 산들에 흩어지나 그들을 모을 사람이 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King of Assyria, your shepherds slumber;",
+      "korean_translation": "앗수르 왕이여, 너의 목자들은 잠들고",
+      "word_indices": [
+        4,
+        437,
+        2388
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your nobles lie down to rest.",
+      "korean_translation": "너의 귀인들은 눕기를 쉬는도다.",
+      "word_indices": [
+        114,
+        142
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your people are scattered on the mountains",
+      "korean_translation": "네 백성은 산들에 흩어지고",
+      "word_indices": [
+        3,
+        147,
+        396
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with no one to gather them.",
+      "korean_translation": "모으는 자가 하나도 없도다.",
+      "word_indices": [
+        169
+      ]
+    }
+  ]
+}

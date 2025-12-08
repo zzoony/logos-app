@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Genesis 7:21",
+  "version": "NIV",
+  "original_text": "Every living thing that moved on land perished—birds, livestock, wild animals, all the creatures that swarm over the earth, and all mankind.",
+  "korean_text": "땅 위에 움직이는 생물이 다 죽었으니 곧 새와 가축과 들짐승과 땅에 기는 모든 것과 모든 사람이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every living thing that moved on land perished",
+      "korean_translation": "땅에서 움직이는 모든 생물이 멸망했다",
+      "word_indices": [
+        8,
+        458
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "birds",
+      "korean_translation": "새들",
+      "word_indices": [
+        386
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "livestock",
+      "korean_translation": "가축들",
+      "word_indices": [
+        610
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "wild animals",
+      "korean_translation": "야생 동물들",
+      "word_indices": [
+        195,
+        450
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "all the creatures that swarm over the earth",
+      "korean_translation": "땅 위를 기어 다니는 모든 생물들",
+      "word_indices": [
+        40,
+        1483
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and all mankind",
+      "korean_translation": "그리고 모든 인류",
+      "word_indices": [
+        791
+      ]
+    }
+  ]
+}

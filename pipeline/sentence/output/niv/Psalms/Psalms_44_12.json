@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 44:12",
+  "version": "NIV",
+  "original_text": "You sold your people for a pittance,\n    gaining nothing from their sale.",
+  "korean_text": "주께서 주의 백성을 헐값으로 파심이여 그들을 판 값으로 이익을 얻지 못하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You sold your people",
+      "korean_translation": "당신은 당신의 백성을 팔았습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for a pittance",
+      "korean_translation": "아주 낮은 가격에",
+      "word_indices": [
+        5418
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "gaining nothing from their sale",
+      "korean_translation": "그들의 판매로부터 아무것도 얻지 못하고",
+      "word_indices": [
+        537,
+        3171
+      ]
+    }
+  ]
+}

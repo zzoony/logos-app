@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 78:2",
+  "version": "NIV",
+  "original_text": "I will open my mouth with a parable;\n    I will utter hidden things, things from of old—",
+  "korean_text": "내가 입을 열어 비유로 말하며 예로부터 감추어졌던 것을 드러내려 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will open my mouth with a parable",
+      "korean_translation": "나는 비유로 내 입을 열겠다",
+      "word_indices": [
+        143,
+        160,
+        905
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will utter hidden things",
+      "korean_translation": "나는 숨겨진 것들을 말하겠다",
+      "word_indices": [
+        1090
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "things from of old",
+      "korean_translation": "예로부터 된 것들을",
+      "word_indices": []
+    }
+  ]
+}

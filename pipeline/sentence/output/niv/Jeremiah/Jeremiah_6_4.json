@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Jeremiah 6:4",
+  "version": "NIV",
+  "original_text": "“Prepare for battle against her!\n    Arise, let us attack at noon!\nBut, alas, the daylight is fading,\n    and the shadows of evening grow long.",
+  "korean_text": "너희는 그를 칠 준비를 하라 일어나라 우리가 정오에 올라가자 아하 아깝다 날이 기울어 저녁 그늘이 길었구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Prepare for battle against her!",
+      "korean_translation": "그녀를 향해 전투를 준비하라!",
+      "word_indices": [
+        11,
+        231,
+        345
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Arise, let us attack at noon!",
+      "korean_translation": "일어나라, 정오에 공격하자!",
+      "word_indices": [
+        270,
+        879,
+        1538
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But, alas, the daylight is fading,",
+      "korean_translation": "그러나 아아, 낮빛이 사라지고",
+      "word_indices": [
+        1591,
+        1800
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the shadows of evening grow long.",
+      "korean_translation": "저녁 그림자가 길어지고 있다.",
+      "word_indices": [
+        71,
+        269,
+        1015
+      ]
+    }
+  ]
+}

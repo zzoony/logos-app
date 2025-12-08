@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 13:23",
+  "version": "NIV",
+  "original_text": "An unplowed field produces food for the poor,\n    but injustice sweeps it away.",
+  "korean_text": "가난한 자는 밭을 경작함으로 양식이 많아지거니와 불의로 말미암아 가산을 탕진하는 자가 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An unplowed field produces food",
+      "korean_translation": "갈지 않은 밭은 음식을 생산하고",
+      "word_indices": [
+        103,
+        156
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the poor",
+      "korean_translation": "가난한 자들을 위해",
+      "word_indices": [
+        298
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but injustice sweeps it away",
+      "korean_translation": "그러나 불의가 그것을 쓸어간다",
+      "word_indices": [
+        34,
+        773,
+        2176
+      ]
+    }
+  ]
+}

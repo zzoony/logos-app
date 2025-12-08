@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Colossians 2:4",
+  "version": "NIV",
+  "original_text": "I tell you this so that no one may deceive you by fine-sounding arguments.",
+  "korean_text": "내가 이것을 말함은 아무도 교묘한 말로 너희를 속이지 못하게 하려 함이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this",
+      "korean_translation": "내가 이것을 너희에게 말함은",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that no one may deceive you",
+      "korean_translation": "아무도 너희를 속이지 못하게 하려 함이라",
+      "word_indices": [
+        683
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by fine-sounding arguments",
+      "korean_translation": "아름다운 말로",
+      "word_indices": [
+        310,
+        633,
+        1948
+      ]
+    }
+  ]
+}

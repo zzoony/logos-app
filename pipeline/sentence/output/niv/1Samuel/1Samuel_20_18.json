@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 20:18",
+  "version": "NIV",
+  "original_text": "Then Jonathan said to David, “Tomorrow is the New Moon feast. You will be missed, because your seat will be empty.",
+  "korean_text": "요나단이 다윗에게 이르되 내일은 초하루인즉 네 자리가 비므로 네가 없음을 자세히 물으실 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jonathan said to David",
+      "korean_translation": "그때 요나단이 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tomorrow is the New Moon feast",
+      "korean_translation": "내일은 월삭 축제다",
+      "word_indices": [
+        724,
+        810,
+        820
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will be missed",
+      "korean_translation": "당신은 없어질 것이다",
+      "word_indices": [
+        1626
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because your seat will be empty",
+      "korean_translation": "왜냐하면 당신의 자리가 비어 있을 것이기 때문이다",
+      "word_indices": [
+        774,
+        866
+      ]
+    }
+  ]
+}

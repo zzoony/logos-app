@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 18:15",
+  "version": "NIV",
+  "original_text": "Sarah was afraid, so she lied and said, “I did not laugh.”\nBut he said, “Yes, you did laugh.”",
+  "korean_text": "사라가 두려워서 부인하여 이르되 내가 웃지 아니하였나이다 이르시되 아니라 네가 웃었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sarah was afraid",
+      "korean_translation": "사라는 두려웠다",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so she lied",
+      "korean_translation": "그래서 그녀는 거짓말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said",
+      "korean_translation": "그리고 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I did not laugh",
+      "korean_translation": "나는 웃지 않았다",
+      "word_indices": [
+        1420
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But he said",
+      "korean_translation": "하지만 그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Yes, you did laugh",
+      "korean_translation": "네, 너는 웃었다",
+      "word_indices": [
+        1420
+      ]
+    }
+  ]
+}

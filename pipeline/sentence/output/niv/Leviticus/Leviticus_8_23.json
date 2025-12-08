@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Leviticus 8:23",
+  "version": "NIV",
+  "original_text": "Moses slaughtered the ram and took some of its blood and put it on the lobe of Aaron’s right ear, on the thumb of his right hand and on the big toe of his right foot.",
+  "korean_text": "모세가 잡고 그 피를 가져다가 아론의 오른쪽 귓부리와 그의 오른쪽 엄지 손가락과 그의 오른쪽 엄지 발가락에 바르고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses slaughtered the ram",
+      "korean_translation": "모세가 숫양을 잡았고",
+      "word_indices": [
+        299,
+        452
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and took some of its blood",
+      "korean_translation": "그 피를 조금 가져와",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and put it on the lobe of Aaron's right ear",
+      "korean_translation": "아론의 오른쪽 귓불에 바르고",
+      "word_indices": [
+        74,
+        383,
+        1727
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the thumb of his right hand",
+      "korean_translation": "그의 오른손 엄지에 바르고",
+      "word_indices": [
+        9,
+        74,
+        2435
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and on the big toe of his right foot",
+      "korean_translation": "그의 오른발 엄지에 발랐습니다",
+      "word_indices": [
+        74,
+        123,
+        2055,
+        2056
+      ]
+    }
+  ]
+}

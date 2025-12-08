@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 28:5",
+  "version": "NIV",
+  "original_text": "The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified.",
+  "korean_text": "천사가 여자들에게 말하여 이르되 너희는 무서워하지 말라 십자가에 못 박히신 예수를 너희가 찾는 줄을 내가 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel said to the women",
+      "korean_translation": "천사가 여인들에게 말하였다",
+      "word_indices": [
+        153
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not be afraid",
+      "korean_translation": "두려워하지 말라",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I know that you are looking for Jesus",
+      "korean_translation": "내가 너희가 예수를 찾고 있음을 앎이라",
+      "word_indices": [
+        13,
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who was crucified",
+      "korean_translation": "십자가에 못 박히신",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Jeremiah 2:13",
+  "version": "NIV",
+  "original_text": "“My people have committed two sins:\nThey have forsaken me,\n    the spring of living water,\nand have dug their own cisterns,\n    broken cisterns that cannot hold water.",
+  "korean_text": "내 백성이 두 가지 악을 행하였나니 곧 그들이 생수의 근원되는 나를 버린 것과 스스로 웅덩이를 판 것인데 그것은 그 물을 가두지 못할 터진 웅덩이들이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My people have committed two sins:",
+      "korean_translation": "내 백성이 두 가지 죄를 범하였나니",
+      "word_indices": [
+        3,
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They have forsaken me,",
+      "korean_translation": "그들이 나를 버렸나니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the spring of living water,",
+      "korean_translation": "곧 살아 있는 물의 근원이며",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and have dug their own cisterns,",
+      "korean_translation": "자기들을 위하여 웅덩이를 팠나니",
+      "word_indices": [
+        1356
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "broken cisterns that cannot hold water.",
+      "korean_translation": "물을 거두지 못할 터진 웅덩이니라",
+      "word_indices": [
+        46,
+        158,
+        207,
+        1356
+      ]
+    }
+  ]
+}

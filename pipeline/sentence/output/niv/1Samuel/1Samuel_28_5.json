@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Samuel 28:5",
+  "version": "NIV",
+  "original_text": "When Saul saw the Philistine army, he was afraid; terror filled his heart.",
+  "korean_text": "사울이 블레셋 사람들의 군대를 보고 두려워서 그의 마음이 크게 떨린지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Saul saw the Philistine army",
+      "korean_translation": "사울이 블레셋 군대를 보았을 때",
+      "word_indices": [
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he was afraid",
+      "korean_translation": "그는 두려웠다",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "terror filled his heart",
+      "korean_translation": "공포가 그의 마음을 채웠다",
+      "word_indices": [
+        36,
+        188,
+        599
+      ]
+    }
+  ]
+}

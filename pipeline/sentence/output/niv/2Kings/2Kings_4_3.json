@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Kings 4:3",
+  "version": "NIV",
+  "original_text": "Elisha said, “Go around and ask all your neighbors for empty jars. Don’t ask for just a few.",
+  "korean_text": "이르되 너는 밖에 나가서 모든 이웃에게 그릇을 빌리라 빈 그릇을 빌리되 조금 빌리지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elisha said",
+      "korean_translation": "엘리사가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go around",
+      "korean_translation": "돌아다니며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ask all your neighbors",
+      "korean_translation": "모든 이웃에게 요청하라",
+      "word_indices": [
+        31,
+        356
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for empty jars",
+      "korean_translation": "빈 그릇을",
+      "word_indices": [
+        746,
+        866
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Don't ask for just a few",
+      "korean_translation": "몇 개만 요청하지 말라",
+      "word_indices": [
+        31,
+        672
+      ]
+    }
+  ]
+}

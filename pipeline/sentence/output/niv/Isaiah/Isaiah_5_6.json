@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Isaiah 5:6",
+  "version": "NIV",
+  "original_text": "I will make it a wasteland,\n    neither pruned nor cultivated,\n    and briers and thorns will grow there.\nI will command the clouds\n    not to rain on it.”",
+  "korean_text": "내가 그것을 황폐하게 하리니 다시는 가지를 자름이나 북을 돋우지 못하여 찔레와 가시가 날 것이며 내가 또 구름에게 명하여 그 위에 비를 내리지 못하게 하리라 하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will make it a wasteland",
+      "korean_translation": "내가 그것을 황무지로 만들리라",
+      "word_indices": [
+        1406
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither pruned nor cultivated",
+      "korean_translation": "가지치거나 경작하지 않으며",
+      "word_indices": [
+        449
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and briers and thorns will grow there",
+      "korean_translation": "그곳에는 찔레와 가시나무가 자라리라",
+      "word_indices": [
+        269,
+        1017,
+        1809
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will command the clouds",
+      "korean_translation": "내가 구름에게 명령하리니",
+      "word_indices": [
+        48,
+        331
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "not to rain on it",
+      "korean_translation": "그것 위에 비를 내리지 말라",
+      "word_indices": [
+        506
+      ]
+    }
+  ]
+}

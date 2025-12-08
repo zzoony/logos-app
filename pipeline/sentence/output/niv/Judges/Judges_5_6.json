@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Judges 5:6",
+  "version": "NIV",
+  "original_text": "“In the days of Shamgar son of Anath,\n    in the days of Jael, the highways were abandoned;\n    travelers took to winding paths.",
+  "korean_text": "아낫의 아들 삼갈의 날에 또는 야엘의 날에는 대로가 비었고 길의 행인들은 오솔길로 다녔도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the days of Shamgar son of Anath",
+      "korean_translation": "아낫의 아들 삼갈의 때에는",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the days of Jael",
+      "korean_translation": "야엘의 때에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the highways were abandoned",
+      "korean_translation": "길들이 버려졌으며",
+      "word_indices": [
+        927,
+        1991
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "travelers took to winding paths",
+      "korean_translation": "행인들은 굽은 길로 다녔느니라",
+      "word_indices": [
+        295,
+        516,
+        2477
+      ]
+    }
+  ]
+}

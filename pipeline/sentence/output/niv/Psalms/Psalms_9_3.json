@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 9:3",
+  "version": "NIV",
+  "original_text": "My enemies turn back;\n    they stumble and perish before you.",
+  "korean_text": "내 원수들이 물러갈 때에 주 앞에서 넘어져 망함이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My enemies turn back",
+      "korean_translation": "나의 원수들이 물러간다",
+      "word_indices": [
+        49,
+        52,
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they stumble",
+      "korean_translation": "그들은 비틀거린다",
+      "word_indices": [
+        591
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and perish before you",
+      "korean_translation": "그리고 당신 앞에서 멸망한다",
+      "word_indices": [
+        458
+      ]
+    }
+  ]
+}

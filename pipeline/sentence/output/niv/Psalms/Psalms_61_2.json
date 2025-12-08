@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 61:2",
+  "version": "NIV",
+  "original_text": "From the ends of the earth I call to you,\n    I call as my heart grows faint;\n    lead me to the rock that is higher than I.",
+  "korean_text": "내 마음이 약해 질 때에 땅 끝에서부터 주께 부르짖으오리니 나보다 높은 바위에 나를 인도하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From the ends of the earth I call to you",
+      "korean_translation": "땅 끝에서 내가 주께 부르짖습니다",
+      "word_indices": [
+        35,
+        40,
+        112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I call as my heart grows faint",
+      "korean_translation": "내 마음이 피곤할 때 내가 부릅니다",
+      "word_indices": [
+        35,
+        36,
+        269,
+        1199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lead me to the rock",
+      "korean_translation": "나를 그 바위로 인도하여",
+      "word_indices": [
+        140,
+        369
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is higher than I",
+      "korean_translation": "나보다 높은 그 곳으로",
+      "word_indices": [
+        1855
+      ]
+    }
+  ]
+}

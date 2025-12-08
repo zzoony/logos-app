@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Leviticus 24:21",
+  "version": "NIV",
+  "original_text": "Whoever kills an animal must make restitution, but whoever kills a human being is to be put to death.",
+  "korean_text": "짐승을 죽인 자는 그것을 물어 줄 것이요 사람을 죽인 자는 죽일지니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever kills an animal must make restitution",
+      "korean_translation": "짐승을 죽이는 사람은 배상해야 하며",
+      "word_indices": [
+        76,
+        154,
+        195,
+        1974
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but whoever kills a human being",
+      "korean_translation": "하지만 사람을 죽이는 자는",
+      "word_indices": [
+        76,
+        154,
+        239
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is to be put to death",
+      "korean_translation": "사형에 처해야 한다",
+      "word_indices": [
+        80
+      ]
+    }
+  ]
+}

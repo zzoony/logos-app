@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Jeremiah 29:11",
+  "version": "NIV",
+  "original_text": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+  "korean_text": "여호와의 말씀이니라 너희를 향한 나의 생각을 내가 아나니 평안이요 재앙이 아니니라 너희에게 미래와 희망을 주는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I know the plans I have for you",
+      "korean_translation": "내가 너를 위한 계획을 알고 있으니",
+      "word_indices": [
+        13,
+        500
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "declares the Lord",
+      "korean_translation": "주께서 말씀하시니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "plans to prosper you",
+      "korean_translation": "너를 번성하게 할 계획이며",
+      "word_indices": [
+        500,
+        1022
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and not to harm you",
+      "korean_translation": "너를 해하지 않을 계획이요",
+      "word_indices": [
+        632
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "plans to give you hope",
+      "korean_translation": "너에게 소망을 줄 계획이며",
+      "word_indices": [
+        5,
+        294,
+        500
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and a future",
+      "korean_translation": "미래를 줄 계획이라",
+      "word_indices": [
+        1253
+      ]
+    }
+  ]
+}

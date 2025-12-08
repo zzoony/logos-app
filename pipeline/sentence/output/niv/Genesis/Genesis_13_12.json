@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 13:12",
+  "version": "NIV",
+  "original_text": "Abram lived in the land of Canaan, while Lot lived among the cities of the plain and pitched his tents near Sodom.",
+  "korean_text": "아브람은 가나안 땅에 거주하였고 롯은 그 지역의 도시들에 머무르며 그 장막을 옮겨 소돔까지 이르렀더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abram lived in the land of Canaan",
+      "korean_translation": "아브람은 가나안 땅에 살았고",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "while Lot lived among the cities of the plain",
+      "korean_translation": "롯은 평원의 성들 가운데 살았으며",
+      "word_indices": [
+        23,
+        27,
+        456,
+        908
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and pitched his tents near Sodom",
+      "korean_translation": "그의 장막을 소돔 근처에 쳤습니다",
+      "word_indices": [
+        119,
+        1321
+      ]
+    }
+  ]
+}

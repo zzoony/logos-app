@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Job 13:19",
+  "version": "NIV",
+  "original_text": "Can anyone bring charges against me?\n    If so, I will be silent and die.",
+  "korean_text": "나와 변론할 자가 누구이랴 그러면 내가 잠잠하고 기운이 끊어지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Can anyone bring charges against me?",
+      "korean_translation": "누가 나를 고발할 수 있는가?",
+      "word_indices": [
+        11,
+        68
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If so,",
+      "korean_translation": "그렇다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will be silent",
+      "korean_translation": "나는 침묵할 것이고",
+      "word_indices": [
+        831
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and die.",
+      "korean_translation": "죽을 것이다.",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

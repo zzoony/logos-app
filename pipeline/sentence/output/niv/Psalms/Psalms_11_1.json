@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 11:1",
+  "version": "NIV",
+  "original_text": "In the Lord I take refuge.\n    How then can you say to me:\n    “Flee like a bird to your mountain.",
+  "korean_text": "내가 여호와께 피하였거늘 너희가 내 영혼에게 새 같이 네 산으로 도망하라 함은 어찌함인가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the Lord I take refuge.",
+      "korean_translation": "나는 주 안에 피난처를 삼습니다.",
+      "word_indices": [
+        566
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How then can you say to me:",
+      "korean_translation": "그러면 어찌 내게 이르기를:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Flee like a bird",
+      "korean_translation": "새처럼 도망하라",
+      "word_indices": [
+        7,
+        219,
+        386
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to your mountain.",
+      "korean_translation": "네 산으로.",
+      "word_indices": [
+        147
+      ]
+    }
+  ]
+}

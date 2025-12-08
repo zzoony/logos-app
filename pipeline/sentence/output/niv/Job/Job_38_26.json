@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Job 38:26",
+  "version": "NIV",
+  "original_text": "to water a land where no one lives,\n    an uninhabited desert,",
+  "korean_text": "누가 사람 없는 땅에, 사람 없는 광야에 비를 내리며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "to water a land",
+      "korean_translation": "땅에 물을 주기 위해",
+      "word_indices": [
+        8,
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where no one lives",
+      "korean_translation": "아무도 살지 않는 곳",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "an uninhabited desert",
+      "korean_translation": "사람이 살지 않는 광야",
+      "word_indices": [
+        262
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Jeremiah 4:24",
+  "version": "NIV",
+  "original_text": "I looked at the mountains,\n    and they were quaking;\n    all the hills were swaying.",
+  "korean_text": "내가 산들을 본즉 다 진동하며 작은 산들도 요동하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I looked at the mountains",
+      "korean_translation": "내가 산들을 바라보니",
+      "word_indices": [
+        51,
+        147
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they were quaking",
+      "korean_translation": "그들이 흔들리고 있었으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all the hills were swaying",
+      "korean_translation": "모든 언덕들이 흔들리고 있었다",
+      "word_indices": [
+        216,
+        1926
+      ]
+    }
+  ]
+}

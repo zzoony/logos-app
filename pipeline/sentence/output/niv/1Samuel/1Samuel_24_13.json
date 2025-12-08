@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Samuel 24:13",
+  "version": "NIV",
+  "original_text": "As the old saying goes, ‘From evildoers come evil deeds,’ so my hand will not touch you.",
+  "korean_text": "옛 속담에 말하기를 악은 악인에게서 난다 하였으니 내 손이 왕을 해하지 아니하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As the old saying goes",
+      "korean_translation": "속담에 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "From evildoers come evil deeds",
+      "korean_translation": "악인에게서 악한 행동이 나온다",
+      "word_indices": [
+        95,
+        414,
+        982
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so my hand will not touch you",
+      "korean_translation": "그러므로 내 손이 너를 대지 않으리라",
+      "word_indices": [
+        9,
+        359
+      ]
+    }
+  ]
+}

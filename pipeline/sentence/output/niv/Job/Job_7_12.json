@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Job 7:12",
+  "version": "NIV",
+  "original_text": "Am I the sea, or the monster of the deep,\n    that you put me under guard?",
+  "korean_text": "내가 바다니이까 바다 괴물이니이까 주께서 어찌하여 나를 지키시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Am I the sea",
+      "korean_translation": "내가 바다인가",
+      "word_indices": [
+        108
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or the monster of the deep",
+      "korean_translation": "또는 깊은 곳의 괴물인가",
+      "word_indices": [
+        499,
+        3045
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you put me under guard",
+      "korean_translation": "당신이 나를 지킬 아래에 두었는가",
+      "word_indices": [
+        281
+      ]
+    }
+  ]
+}

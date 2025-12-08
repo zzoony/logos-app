@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Hosea 4:10",
+  "version": "NIV",
+  "original_text": "“They will eat but not have enough;\n    they will engage in prostitution but not flourish,\nbecause they have deserted the Lord\n    to give themselves",
+  "korean_text": "그들이 먹어도 배부르지 아니하며 음행하여도 수효가 늘지 못하니 이는 여호와를 버리고 따르지 아니하였음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They will eat but not have enough",
+      "korean_translation": "그들은 먹되 만족하지 못할 것",
+      "word_indices": [
+        33,
+        540
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they will engage in prostitution but not flourish",
+      "korean_translation": "그들은 행음하되 번성하지 못할 것",
+      "word_indices": [
+        1144,
+        1493,
+        1622
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they have deserted the Lord",
+      "korean_translation": "이는 그들이 주를 버렸기 때문이라",
+      "word_indices": [
+        262
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to give themselves",
+      "korean_translation": "자신들을 바치려고",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

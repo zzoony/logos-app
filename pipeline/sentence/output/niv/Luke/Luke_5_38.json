@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 5:38",
+  "version": "NIV",
+  "original_text": "No, new wine must be poured into new wineskins.",
+  "korean_text": "새 포도주는 새 부대에 넣어야 할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No",
+      "korean_translation": "아니요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "new wine must be poured",
+      "korean_translation": "새 포도주를 부어야 합니다",
+      "word_indices": [
+        215,
+        266
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "into new wineskins",
+      "korean_translation": "새 가죽 부대에",
+      "word_indices": [
+        1862
+      ]
+    }
+  ]
+}

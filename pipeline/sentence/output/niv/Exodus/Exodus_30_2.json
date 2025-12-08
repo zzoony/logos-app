@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 30:2",
+  "version": "NIV",
+  "original_text": "It is to be square, a cubit long and a cubit wide, and two cubits high—its horns of one piece with it.",
+  "korean_text": "길이가 한 규빗, 너비가 한 규빗으로 네모가 반듯하게 하고 높이는 두 규빗으로 하며 그 뿔을 그것과 이어지게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is to be square",
+      "korean_translation": "그것은 정사각형이어야 한다",
+      "word_indices": [
+        1019
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a cubit long and a cubit wide",
+      "korean_translation": "길이가 한 큐빗이고 너비가 한 큐빗이며",
+      "word_indices": [
+        71,
+        170,
+        512
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and two cubits high",
+      "korean_translation": "높이는 두 큐빗이고",
+      "word_indices": [
+        105,
+        170
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "its horns of one piece with it",
+      "korean_translation": "그 뿔은 그것과 한 조각이어야 한다",
+      "word_indices": [
+        374,
+        503
+      ]
+    }
+  ]
+}

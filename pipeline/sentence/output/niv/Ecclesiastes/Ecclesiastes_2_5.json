@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Ecclesiastes 2:5",
+  "version": "NIV",
+  "original_text": "I made gardens and parks and planted all kinds of fruit trees in them.",
+  "korean_text": "여러 동산과 과원을 만들고 그 가운데에 각종 과목을 심었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I made gardens",
+      "korean_translation": "나는 정원을 만들었고",
+      "word_indices": [
+        745
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and parks",
+      "korean_translation": "공원도 만들었으며",
+      "word_indices": [
+        4436
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and planted all kinds of fruit trees in them",
+      "korean_translation": "그 안에 온갖 종류의 과일나무를 심었다",
+      "word_indices": [
+        279,
+        289,
+        358
+      ]
+    }
+  ]
+}

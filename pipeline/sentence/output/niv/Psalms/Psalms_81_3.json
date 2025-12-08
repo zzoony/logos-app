@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 81:3",
+  "version": "NIV",
+  "original_text": "Sound the ram’s horn at the New Moon,\n    and when the moon is full, on the day of our festival;",
+  "korean_text": "초하루와 보름과 우리의 명절에 나팔을 불지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sound the ram's horn at the New Moon",
+      "korean_translation": "새 달에 나팔을 불며",
+      "word_indices": [
+        299,
+        310,
+        503,
+        724
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and when the moon is full",
+      "korean_translation": "월삭하고 월망에는",
+      "word_indices": [
+        258,
+        724
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the day of our festival",
+      "korean_translation": "우리의 명절 날에",
+      "word_indices": [
+        425
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Romans 12:21",
+  "version": "NIV",
+  "original_text": "Do not be overcome by evil, but overcome evil with good.",
+  "korean_text": "악에게 지지 말고 선으로 악을 이기라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not be overcome by evil",
+      "korean_translation": "악에게 지지 말라",
+      "word_indices": [
+        95,
+        1274
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but overcome evil with good",
+      "korean_translation": "오직 선으로 악을 이기라",
+      "word_indices": [
+        56,
+        95,
+        1274
+      ]
+    }
+  ]
+}

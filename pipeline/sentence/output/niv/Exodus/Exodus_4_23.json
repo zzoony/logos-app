@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 4:23",
+  "version": "NIV",
+  "original_text": "and I told you, “Let my son go, so he may worship me.” But you refused to let him go; so I will kill your firstborn son.’”",
+  "korean_text": "내가 네게 이르기를 내 아들을 보내 주어 나를 섬기게 하라 하여도 네가 보내 주기를 거절하니 내가 네 아들 네 장자를 죽이리라 하셨다 하라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and I told you",
+      "korean_translation": "그리고 내가 너에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let my son go",
+      "korean_translation": "내 아들을 보내라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so he may worship me",
+      "korean_translation": "그가 나를 경배하게 하기 위하여",
+      "word_indices": [
+        204
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But you refused to let him go",
+      "korean_translation": "하지만 너는 그를 보내는 것을 거절했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so I will kill your firstborn son",
+      "korean_translation": "그러므로 내가 네 장남을 죽이겠다",
+      "word_indices": [
+        2,
+        76,
+        408
+      ]
+    }
+  ]
+}

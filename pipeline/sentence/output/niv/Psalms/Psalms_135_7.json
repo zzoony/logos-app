@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 135:7",
+  "version": "NIV",
+  "original_text": "He makes clouds rise from the ends of the earth;\n    he sends lightning with the rain\n    and brings out the wind from his storehouses.",
+  "korean_text": "안개를 땅 끝에서 일으키시며 비를 위하여 번개를 만드시며 바람을 그 곳간에서 내시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He makes clouds rise from the ends of the earth",
+      "korean_translation": "그는 땅 끝에서 구름이 솟아오르게 하시며",
+      "word_indices": [
+        40,
+        112,
+        199,
+        331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he sends lightning with the rain",
+      "korean_translation": "비와 함께 번개를 보내시고",
+      "word_indices": [
+        20,
+        506
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and brings out the wind from his storehouses",
+      "korean_translation": "그의 창고에서 바람을 끌어내시는도다",
+      "word_indices": [
+        6,
+        295
+      ]
+    }
+  ]
+}

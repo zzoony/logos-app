@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 1:16",
+  "version": "NIV",
+  "original_text": "Wash and make yourselves clean.\n    Take your evil deeds out of my sight;\n    stop doing wrong.",
+  "korean_text": "너희는 스스로 씻으며 스스로 깨끗하게 하여 내 목전에서 너희 악한 행실을 버리며 행악을 그치고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wash and make yourselves clean",
+      "korean_translation": "너희는 스스로 씻고 스스로 깨끗케 하라",
+      "word_indices": [
+        419,
+        440
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take your evil deeds out of my sight",
+      "korean_translation": "내 앞에서 너희의 악한 행실을 제하라",
+      "word_indices": [
+        95,
+        353,
+        414
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "stop doing wrong",
+      "korean_translation": "악을 행하지 말라",
+      "word_indices": [
+        334,
+        442
+      ]
+    }
+  ]
+}

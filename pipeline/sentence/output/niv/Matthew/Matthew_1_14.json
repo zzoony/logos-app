@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:14",
+  "version": "NIV",
+  "original_text": "Azor the father of Zadok,\nZadok the father of Akim,\nAkim the father of Elihud,",
+  "korean_text": "아소르는 사독을 낳고 사독은 아킴을 낳고 아킴은 엘리웃을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Azor the father of Zadok,",
+      "korean_translation": "아소르는 사독의 아버지이며,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Zadok the father of Akim,",
+      "korean_translation": "사독은 아킴의 아버지이며,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Akim the father of Elihud,",
+      "korean_translation": "아킴은 엘리훗의 아버지이다.",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

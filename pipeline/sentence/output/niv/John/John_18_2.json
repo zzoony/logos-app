@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 18:2",
+  "version": "NIV",
+  "original_text": "Now Judas, who betrayed him, knew the place, because Jesus had often met there with his disciples.",
+  "korean_text": "그 곳은 가끔 예수께서 제자들과 모이시는 곳이므로 예수를 파는 유다도 그 곳을 알더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Judas, who betrayed him",
+      "korean_translation": "그를 배신한 유다는",
+      "word_indices": [
+        940,
+        1061
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "knew the place",
+      "korean_translation": "그 장소를 알고 있었는데",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because Jesus had often met there",
+      "korean_translation": "예수께서 자주 그곳에서",
+      "word_indices": [
+        1409
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with his disciples",
+      "korean_translation": "제자들과 만나셨기 때문이었다",
+      "word_indices": []
+    }
+  ]
+}

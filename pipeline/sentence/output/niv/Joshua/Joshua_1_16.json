@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Joshua 1:16",
+  "version": "NIV",
+  "original_text": "Then they answered Joshua, “Whatever you have commanded us we will do, and wherever you send us we will go.",
+  "korean_text": "그들이 여호수아에게 대답하여 이르되 당신이 우리에게 명령하신 것은 우리가 다 행할 것이요 당신이 우리를 보내시는 곳에는 우리가 가리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then they answered Joshua",
+      "korean_translation": "그들이 여호수아에게 대답하여",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whatever you have commanded us",
+      "korean_translation": "당신이 우리에게 명령하신 것은",
+      "word_indices": [
+        48,
+        285
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we will do",
+      "korean_translation": "우리가 행할 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and wherever you send us",
+      "korean_translation": "그리고 당신이 우리를 보내시는 곳은",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "we will go",
+      "korean_translation": "우리가 갈 것입니다",
+      "word_indices": []
+    }
+  ]
+}

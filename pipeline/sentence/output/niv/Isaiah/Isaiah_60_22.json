@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Isaiah 60:22",
+  "version": "NIV",
+  "original_text": "The least of you will become a thousand,\n    the smallest a mighty nation.\nI am the Lord;\n    in its time I will do this swiftly.”",
+  "korean_text": "그 작은 자가 천 명을 이루겠고 그 약한 자가 강국을 이룰 것이라 때가 되면 나 여호와가 속히 이루리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The least of you will become a thousand",
+      "korean_translation": "너희 중 가장 작은 자가 천 명이 되고",
+      "word_indices": [
+        32,
+        136,
+        1058
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the smallest a mighty nation",
+      "korean_translation": "가장 작은 자가 강대한 민족이 되리라",
+      "word_indices": [
+        41,
+        276,
+        3215
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 여호와니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in its time I will do this swiftly",
+      "korean_translation": "정한 때에 속히 이루리라",
+      "word_indices": [
+        3633
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Joel 1:5",
+  "version": "NIV",
+  "original_text": "Wake up, you drunkards, and weep!\n    Wail, all you drinkers of wine;\nwail because of the new wine,\n    for it has been snatched from your lips.",
+  "korean_text": "취하는 자들아 너희는 깨어 울지어다 포도주를 마시는 자들아 너희는 울지어다 이는 단 포도주가 너희 입에서 끊어졌음이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wake up, you drunkards",
+      "korean_translation": "깨어나라, 너희 술 취한 자들아",
+      "word_indices": [
+        1307,
+        1804
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and weep!",
+      "korean_translation": "그리고 울어라!",
+      "word_indices": [
+        339
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Wail, all you drinkers of wine",
+      "korean_translation": "슬피 울지어다, 포도주를 마시는 너희 모든 자들아",
+      "word_indices": [
+        215,
+        733,
+        4631
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "wail because of the new wine",
+      "korean_translation": "새 포도주 때문에 슬피 울지어다",
+      "word_indices": [
+        215,
+        733
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for it has been snatched from your lips",
+      "korean_translation": "그것이 너희 입술에서 빼앗겼기 때문이니라",
+      "word_indices": [
+        418,
+        1603
+      ]
+    }
+  ]
+}

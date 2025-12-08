@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Deuteronomy 28:31",
+  "version": "NIV",
+  "original_text": "Your ox will be slaughtered before your eyes, but you will eat none of it. Your donkey will be forcibly taken from you and will not be returned. Your sheep will be given to your enemies, and no one will rescue them.",
+  "korean_text": "네 소를 네 목전에서 잡았으나 네가 먹지 못할 것이며 네 나귀를 네 목전에서 빼앗겨도 도로 찾지 못할 것이며 네 양을 원수에게 빼앗길 것이나 너를 도와 줄 자가 없을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your ox will be slaughtered before your eyes",
+      "korean_translation": "네 소는 네 눈앞에서 잡혀 잡아먹히고",
+      "word_indices": [
+        452,
+        547
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you will eat none of it",
+      "korean_translation": "그것을 너는 조금도 먹지 못하리라",
+      "word_indices": [
+        33,
+        497
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your donkey will be forcibly taken from you",
+      "korean_translation": "네 나귀는 네 앞에서 빼앗겨",
+      "word_indices": [
+        347,
+        4188
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and will not be returned",
+      "korean_translation": "다시 돌려주지 못할 것이며",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Your sheep will be given to your enemies",
+      "korean_translation": "네 양은 원수에게 붙잡혀",
+      "word_indices": [
+        5,
+        100,
+        251
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and no one will rescue them",
+      "korean_translation": "도와 줄 자가 없으리라",
+      "word_indices": [
+        398
+      ]
+    }
+  ]
+}

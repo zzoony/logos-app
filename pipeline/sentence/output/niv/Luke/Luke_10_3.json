@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 10:3",
+  "version": "NIV",
+  "original_text": "Go! I am sending you out like lambs among wolves.",
+  "korean_text": "갈지어다 내가 너희를 보냄이 어린 양을 이리 가운데로 보냄과 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go!",
+      "korean_translation": "가라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am sending you out",
+      "korean_translation": "내가 너희를 보내노라",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like lambs among wolves",
+      "korean_translation": "이리들 사이에 있는 양처럼",
+      "word_indices": [
+        7,
+        27,
+        264
+      ]
+    }
+  ]
+}

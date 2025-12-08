@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 3:1",
+  "version": "NIV",
+  "original_text": "My son, do not forget my teaching,\n    but keep my commands in your heart,",
+  "korean_text": "내 아들아 나의 법을 잊어버리지 말고 네 마음으로 나의 명령을 지키라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My son,",
+      "korean_translation": "나의 아들아,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not forget my teaching,",
+      "korean_translation": "나의 가르침을 잊지 말고,",
+      "word_indices": [
+        172,
+        483
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but keep my commands in your heart,",
+      "korean_translation": "나의 명령을 네 마음에 지켜라",
+      "word_indices": [
+        36,
+        48,
+        60
+      ]
+    }
+  ]
+}

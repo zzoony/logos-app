@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 7:17",
+  "version": "NIV",
+  "original_text": "Likewise, every good tree bears good fruit, but a bad tree bears bad fruit.",
+  "korean_text": "이와 같이 좋은 나무마다 아름다운 열매를 맺고 못된 나무가 나쁜 열매를 맺나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Likewise, every good tree bears good fruit",
+      "korean_translation": "이와 같이, 모든 좋은 나무는 좋은 열매를 맺습니다",
+      "word_indices": [
+        56,
+        111,
+        164,
+        289,
+        2358
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but a bad tree bears bad fruit",
+      "korean_translation": "하지만 나쁜 나무는 나쁜 열매를 맺습니다",
+      "word_indices": [
+        111,
+        164,
+        289,
+        764
+      ]
+    }
+  ]
+}

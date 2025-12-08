@@ -1,0 +1,23 @@
+{
+  "verse_reference": "John 14:14",
+  "version": "NIV",
+  "original_text": "You may ask me for anything in my name, and I will do it.",
+  "korean_text": "내 이름으로 무엇이든지 내게 구하면 내가 행하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may ask me for anything in my name",
+      "korean_translation": "내 이름으로 무엇이든지 구하면",
+      "word_indices": [
+        17,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will do it",
+      "korean_translation": "내가 그것을 행하리라",
+      "word_indices": []
+    }
+  ]
+}

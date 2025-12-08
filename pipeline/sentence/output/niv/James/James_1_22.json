@@ -1,0 +1,32 @@
+{
+  "verse_reference": "James 1:22",
+  "version": "NIV",
+  "original_text": "Do not merely listen to the word, and so deceive yourselves. Do what it says.",
+  "korean_text": "너희는 말씀을 행하는 자가 되고 듣기만 하여 자신을 속이는 자가 되지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not merely listen to the word",
+      "korean_translation": "말씀을 단순히 듣기만 하지 말고",
+      "word_indices": [
+        19,
+        86,
+        2000
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and so deceive yourselves",
+      "korean_translation": "스스로를 속이지 말라",
+      "word_indices": [
+        683
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do what it says",
+      "korean_translation": "그것이 하는 대로 행하라",
+      "word_indices": []
+    }
+  ]
+}

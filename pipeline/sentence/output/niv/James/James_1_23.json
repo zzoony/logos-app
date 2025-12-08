@@ -1,0 +1,43 @@
+{
+  "verse_reference": "James 1:23",
+  "version": "NIV",
+  "original_text": "Anyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror",
+  "korean_text": "누구든지 말씀을 듣고 행하지 아니하면 그는 거울로 자기의 생긴 얼굴을 보는 사람과 같아서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who listens to the word",
+      "korean_translation": "말씀을 듣는 사람은",
+      "word_indices": [
+        19,
+        68,
+        86
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but does not do what it says",
+      "korean_translation": "하지만 그대로 행하지 않으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is like someone",
+      "korean_translation": "그런 사람은",
+      "word_indices": [
+        7,
+        271
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who looks at his face in a mirror",
+      "korean_translation": "거울에 비친 자기 얼굴을 보는 사람과 같다",
+      "word_indices": [
+        51,
+        87,
+        3158
+      ]
+    }
+  ]
+}

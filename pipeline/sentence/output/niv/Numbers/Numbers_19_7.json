@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Numbers 19:7",
+  "version": "NIV",
+  "original_text": "After that, the priest must wash his clothes and bathe himself with water. He may then come into the camp, but he will be ceremonially unclean till evening.",
+  "korean_text": "제사장은 자기의 옷을 빨고 물로 몸을 씻은 후에 진영에 들어갈 것이라 그는 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After that",
+      "korean_translation": "그 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the priest must wash his clothes",
+      "korean_translation": "제사장은 자신의 옷을 씻어야 합니다",
+      "word_indices": [
+        22,
+        419,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bathe himself with water",
+      "korean_translation": "그리고 물로 몸을 씻어야 합니다",
+      "word_indices": [
+        46,
+        1425
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He may then come into the camp",
+      "korean_translation": "그러면 그는 진영으로 들어갈 수 있습니다",
+      "word_indices": [
+        177
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but he will be ceremonially unclean",
+      "korean_translation": "하지만 그는 의식적으로 부정할 것입니다",
+      "word_indices": [
+        250,
+        1071
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "till evening",
+      "korean_translation": "저녁까지",
+      "word_indices": []
+    }
+  ]
+}

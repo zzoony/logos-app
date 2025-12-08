@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 2:12",
+  "version": "NIV",
+  "original_text": "This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.”",
+  "korean_text": "너희가 가서 강보에 싸여 구유에 뉘어 있는 아기를 보리니 이것이 너희에게 표적이니라 하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This will be a sign to you:",
+      "korean_translation": "이것이 너에게는 표적이 되리라:",
+      "word_indices": [
+        314
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You will find a baby",
+      "korean_translation": "너희가 한 아기를 보게 되리니",
+      "word_indices": [
+        55,
+        1492
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "wrapped in cloths",
+      "korean_translation": "그는 옷감에 싸여 있고",
+      "word_indices": [
+        1289
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and lying in a manger.",
+      "korean_translation": "구유에 누워 있으리라.",
+      "word_indices": [
+        3053
+      ]
+    }
+  ]
+}

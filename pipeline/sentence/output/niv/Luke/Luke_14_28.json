@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 14:28",
+  "version": "NIV",
+  "original_text": "“Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?",
+  "korean_text": "너희 중의 누가 망대를 세우고자 할진대 자기의 가진 것이 준공하기까지에 족할는지 먼저 앉아 그 비용을 계산하지 아니하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Suppose one of you wants to build a tower",
+      "korean_translation": "너희 중에 누가 탑을 건축하고자 할 것이다",
+      "word_indices": [
+        93,
+        161,
+        844,
+        1394
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Won't you first sit down",
+      "korean_translation": "먼저 앉지 않겠느냐",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and estimate the cost",
+      "korean_translation": "그리고 비용을 계산하지 않겠느냐",
+      "word_indices": [
+        1799,
+        5986
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to see if you have enough money",
+      "korean_translation": "돈이 충분한지 확인하기 위해",
+      "word_indices": [
+        448,
+        540
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to complete it",
+      "korean_translation": "그것을 완성하기 위해",
+      "word_indices": [
+        891
+      ]
+    }
+  ]
+}

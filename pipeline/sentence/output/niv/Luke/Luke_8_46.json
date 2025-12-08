@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 8:46",
+  "version": "NIV",
+  "original_text": "But Jesus said, “Someone touched me; I know that power has gone out from me.”",
+  "korean_text": "예수께서 이르시되 내게 손을 댄 자가 있도다 이는 내게서 능력이 나간 줄 앎이로다 하신대",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Jesus said",
+      "korean_translation": "그러나 예수님께서 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Someone touched me",
+      "korean_translation": "누군가 나를 만졌습니다",
+      "word_indices": [
+        271,
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I know",
+      "korean_translation": "나는 압니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that power has gone out from me",
+      "korean_translation": "힘이 내게서 나갔음을",
+      "word_indices": [
+        178
+      ]
+    }
+  ]
+}

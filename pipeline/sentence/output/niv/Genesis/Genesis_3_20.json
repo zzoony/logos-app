@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Genesis 3:20",
+  "version": "NIV",
+  "original_text": "Adam named his wife Eve, because she would become the mother of all the living.",
+  "korean_text": "아담이 그의 아내의 이름을 하와라 불렀으니 그는 모든 산 자의 어머니가 됨이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Adam named his wife Eve",
+      "korean_translation": "아담은 그의 아내를 이브라고 이름 지었습니다",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because she would become the mother of all the living",
+      "korean_translation": "왜냐하면 그녀가 모든 산 자의 어머니가 될 것이었기 때문입니다",
+      "word_indices": [
+        32,
+        120
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "verse_reference": "John 12:30",
+  "version": "NIV",
+  "original_text": "Jesus said, “This voice was for your benefit, not mine.",
+  "korean_text": "예수께서 대답하여 이르시되 이 소리가 난 것은 나를 위한 것이 아니요 너희를 위한 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said,",
+      "korean_translation": "예수님께서 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This voice was for your benefit,",
+      "korean_translation": "이 음성은 너희를 위한 것이요,",
+      "word_indices": [
+        241,
+        1511
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not mine.",
+      "korean_translation": "나를 위한 것이 아니니라.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 18:15",
+  "version": "NIV",
+  "original_text": "Elijah said, “As the Lord Almighty lives, whom I serve, I will surely present myself to Ahab today.”",
+  "korean_text": "엘리야가 이르되 내가 섬기는 만군의 여호와께서 살아 계심을 두고 맹세하노니 내가 오늘 아합에게 보이리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elijah said",
+      "korean_translation": "엘리야가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "As the Lord Almighty lives",
+      "korean_translation": "전능하신 주께서 살아 계심을 두고",
+      "word_indices": [
+        122
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whom I serve",
+      "korean_translation": "내가 섬기는 분께서",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will surely present myself to Ahab today",
+      "korean_translation": "내가 오늘 아합에게 반드시 나타나겠습니다",
+      "word_indices": [
+        150,
+        194,
+        242
+      ]
+    }
+  ]
+}

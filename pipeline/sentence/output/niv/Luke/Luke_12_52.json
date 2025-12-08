@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 12:52",
+  "version": "NIV",
+  "original_text": "From now on there will be five in one family divided against each other, three against two and two against three.",
+  "korean_text": "이후부터 한 집에 다섯 사람이 있어 분쟁하되 셋이 둘과, 둘이 셋과 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From now on",
+      "korean_translation": "이제부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there will be five in one family",
+      "korean_translation": "한 가정에 다섯 사람이 있을 것인데",
+      "word_indices": [
+        145,
+        196
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "divided against each other",
+      "korean_translation": "서로 나누어질 것입니다",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "three against two",
+      "korean_translation": "세 명은 두 명을 대항하고",
+      "word_indices": [
+        11,
+        90
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and two against three",
+      "korean_translation": "두 명은 세 명을 대항할 것입니다",
+      "word_indices": [
+        11,
+        90
+      ]
+    }
+  ]
+}

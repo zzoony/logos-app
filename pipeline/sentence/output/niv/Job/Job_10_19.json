@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Job 10:19",
+  "version": "NIV",
+  "original_text": "If only I had never come into being,\n    or had been carried straight from the womb to the grave!",
+  "korean_text": "있어도 없던 것 같이 되어서 태에서 바로 무덤으로 옮겨졌으리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If only I had never come into being",
+      "korean_translation": "내가 결코 존재하지 않았더라면 좋았을 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or had been carried straight from the womb",
+      "korean_translation": "또는 태어나자마자",
+      "word_indices": [
+        766,
+        1077
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the grave!",
+      "korean_translation": "무덤으로 직접 옮겨졌더라면!",
+      "word_indices": [
+        859
+      ]
+    }
+  ]
+}

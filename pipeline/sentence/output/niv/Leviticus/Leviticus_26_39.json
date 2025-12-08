@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Leviticus 26:39",
+  "version": "NIV",
+  "original_text": "Those of you who are left will waste away in the lands of their enemies because of their sins; also because of their ancestors’ sins they will waste away.",
+  "korean_text": "너희 남은 자가 너희의 원수들의 땅에서 자기의 죄로 말미암아 쇠잔하며 그 조상의 죄로 말미암아 그 조상 같이 쇠잔하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Those of you who are left",
+      "korean_translation": "너희 중 남은 자들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will waste away in the lands of their enemies",
+      "korean_translation": "원수들의 땅에서 쇠퇴할 것이라",
+      "word_indices": [
+        8,
+        34,
+        100,
+        605
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of their sins",
+      "korean_translation": "그들의 죄 때문에",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "also because of their ancestors' sins",
+      "korean_translation": "또한 그 조상들의 죄 때문에도",
+      "word_indices": [
+        24,
+        28,
+        138
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they will waste away",
+      "korean_translation": "그들은 쇠퇴할 것이다",
+      "word_indices": [
+        34,
+        605
+      ]
+    }
+  ]
+}

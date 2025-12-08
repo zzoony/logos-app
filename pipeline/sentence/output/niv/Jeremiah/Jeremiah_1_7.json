@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 1:7",
+  "version": "NIV",
+  "original_text": "But the Lord said to me, “Do not say, ‘I am too young.’ You must go to everyone I send you to and say whatever I command you.",
+  "korean_text": "여호와께서 내게 이르시되 너는 아이라 말하지 말고 내가 너를 누구에게 보내든지 너는 가며 내가 네게 무엇을 명령하든지 너는 말할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the Lord said to me",
+      "korean_translation": "그러나 주님께서 내게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not say, 'I am too young'",
+      "korean_translation": "내가 너무 어리다고 말하지 말라",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must go to everyone I send you to",
+      "korean_translation": "너는 내가 너를 보내는 모든 사람에게 가야 한다",
+      "word_indices": [
+        20,
+        186
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and say whatever I command you",
+      "korean_translation": "그리고 내가 너에게 명령하는 무엇이든 말해야 한다",
+      "word_indices": [
+        48,
+        285
+      ]
+    }
+  ]
+}

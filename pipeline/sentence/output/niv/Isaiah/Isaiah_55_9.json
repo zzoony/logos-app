@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Isaiah 55:9",
+  "version": "NIV",
+  "original_text": "“As the heavens are higher than the earth,\n    so are my ways higher than your ways\n    and my thoughts than your thoughts.",
+  "korean_text": "이는 하늘이 땅보다 높음 같이 내 길은 너희의 길보다 높으며 내 생각은 너희의 생각보다 높으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As the heavens are higher than the earth",
+      "korean_translation": "하늘이 땅보다 높은 것 같이",
+      "word_indices": [
+        40,
+        57,
+        1855
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so are my ways higher than your ways",
+      "korean_translation": "내 길은 너희 길보다 높으며",
+      "word_indices": [
+        1855
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and my thoughts than your thoughts",
+      "korean_translation": "내 생각은 너희 생각보다 높으니라",
+      "word_indices": [
+        1001
+      ]
+    }
+  ]
+}

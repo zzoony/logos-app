@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 137:1",
+  "version": "NIV",
+  "original_text": "By the rivers of Babylon we sat and wept\n    when we remembered Zion.",
+  "korean_text": "우리가 바벨론의 여러 강변 거기에 앉아서 시온을 기억하며 울었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By the rivers of Babylon",
+      "korean_translation": "바빌론의 강가에서",
+      "word_indices": [
+        392
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we sat and wept",
+      "korean_translation": "우리는 앉아서 울었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when we remembered Zion",
+      "korean_translation": "시온을 기억할 때",
+      "word_indices": [
+        217
+      ]
+    }
+  ]
+}

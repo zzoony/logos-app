@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 2:10",
+  "version": "NIV",
+  "original_text": "A river watering the garden flowed from Eden; from there it was separated into four headwaters.",
+  "korean_text": "강이 에덴에서 흘러 나와 동산을 적시고 거기서부터 갈라져 네 근원이 되었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A river watering the garden",
+      "korean_translation": "동산을 물주는 강이",
+      "word_indices": [
+        46,
+        392,
+        745
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "flowed from Eden",
+      "korean_translation": "에덴에서 흘러 나왔고",
+      "word_indices": [
+        584
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from there it was separated",
+      "korean_translation": "그곳에서부터 그것은 나뉘어졌다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "into four headwaters",
+      "korean_translation": "네 개의 강 근원으로",
+      "word_indices": [
+        203,
+        4885
+      ]
+    }
+  ]
+}

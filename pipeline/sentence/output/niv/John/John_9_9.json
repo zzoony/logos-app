@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 9:9",
+  "version": "NIV",
+  "original_text": "Some claimed that he was.\nOthers said, “No, he only looks like him.”\nBut he himself insisted, “I am the man.”",
+  "korean_text": "어떤 사람은 그 사람이라 하며 어떤 사람은 아니라 그와 비슷하다 하거늘 자기 말은 내가 그라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some claimed that he was.",
+      "korean_translation": "어떤 사람들은 그가 그 사람이라고 주장했습니다.",
+      "word_indices": [
+        922
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Others said",
+      "korean_translation": "다른 사람들은 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "No, he only looks like him.",
+      "korean_translation": "아니요, 그는 그와 모양만 같을 뿐입니다.",
+      "word_indices": [
+        7,
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But he himself insisted",
+      "korean_translation": "하지만 그 자신은 단호하게 말했습니다",
+      "word_indices": [
+        2118
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am the man.",
+      "korean_translation": "내가 그 사람입니다.",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

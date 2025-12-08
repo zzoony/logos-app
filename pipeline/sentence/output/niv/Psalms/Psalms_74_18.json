@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 74:18",
+  "version": "NIV",
+  "original_text": "Remember how the enemy has mocked you, Lord,\n    how foolish people have reviled your name.",
+  "korean_text": "여호와여 이것을 기억하소서 원수가 주를 비방하며 우매한 백성이 주의 이름을 능욕하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember how the enemy has mocked you",
+      "korean_translation": "원수가 당신을 조롱했던 것을 기억하소서",
+      "word_indices": [
+        100,
+        217,
+        910
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "how foolish people have reviled your name",
+      "korean_translation": "어리석은 자들이 당신의 이름을 모독했던 것을",
+      "word_indices": [
+        3,
+        17,
+        990
+      ]
+    }
+  ]
+}
