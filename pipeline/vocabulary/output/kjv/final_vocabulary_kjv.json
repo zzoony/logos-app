@@ -15,7 +15,8 @@
     "definitions_added": true,
     "definitions_count": 5952,
     "processing_date": "2025-12-03 13:42:38",
-    "has_id": true
+    "has_id": true,
+    "total_words": 5924
   },
   "words": [
     {
@@ -454,7 +455,13 @@
       "word": "pas",
       "count": 830,
       "rank": 28,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "genesis-7-10",
+        "genesis-8-6",
+        "genesis-9-14",
+        "genesis-6-1",
+        "genesis-4-3"
+      ],
       "ipa_pronunciation": "[pæs]",
       "korean_pronunciation": "패스",
       "definition_korean": "통과하다",
@@ -6333,22 +6340,6 @@
       "id": 394
     },
     {
-      "word": "fee",
-      "count": 81,
-      "rank": 396,
-      "sentence_ids": [
-        "proverbs-10-21",
-        "ezekiel-34-15",
-        "job-24-2",
-        "1-samuel-17-15",
-        "genesis-37-16"
-      ],
-      "ipa_pronunciation": "[fiː]",
-      "korean_pronunciation": "피",
-      "definition_korean": "수수료, 비용",
-      "id": 395
-    },
-    {
       "word": "sow",
       "count": 81,
       "rank": 397,
@@ -11721,7 +11712,13 @@
       "word": "jam",
       "count": 42,
       "rank": 733,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "mark-10-41",
+        "matthew-27-56",
+        "mark-5-37",
+        "matthew-17-1",
+        "matthew-13-55"
+      ],
       "ipa_pronunciation": "[dʒæm]",
       "korean_pronunciation": "잼",
       "definition_korean": "잼, 막다",
@@ -19150,16 +19147,6 @@
       "id": 1196
     },
     {
-      "word": "graf",
-      "count": 21,
-      "rank": 1198,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ɡræf]",
-      "korean_pronunciation": "그래프",
-      "definition_korean": "그래프 (고대 에브라임 도시)",
-      "id": 1197
-    },
-    {
       "word": "bottom",
       "count": 21,
       "rank": 1199,
@@ -20123,7 +20110,13 @@
       "word": "shin",
       "count": 20,
       "rank": 1259,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "psalms-50-2",
+        "job-31-26",
+        "proverbs-4-18",
+        "isaiah-9-2",
+        "2-samuel-23-4"
+      ],
       "ipa_pronunciation": "[ʃɪn]",
       "korean_pronunciation": "신",
       "definition_korean": "정강이, 경골",
@@ -20304,16 +20297,6 @@
       "korean_pronunciation": "로어",
       "definition_korean": "낮추다, 더 낮은",
       "id": 1269
-    },
-    {
-      "word": "dive",
-      "count": 19,
-      "rank": 1271,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[daɪv]",
-      "korean_pronunciation": "다이브",
-      "definition_korean": "잠수하다, 급강하하다",
-      "id": 1270
     },
     {
       "word": "reserve",
@@ -24055,16 +24038,6 @@
       "id": 1504
     },
     {
-      "word": "ban",
-      "count": 15,
-      "rank": 1506,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[bæn]",
-      "korean_pronunciation": "밴",
-      "definition_korean": "금지하다, 금지령",
-      "id": 1505
-    },
-    {
       "word": "lily",
       "count": 15,
       "rank": 1507,
@@ -26355,7 +26328,13 @@
       "word": "hop",
       "count": 13,
       "rank": 1650,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "psalms-119-166",
+        "job-6-20",
+        "jeremiah-3-23",
+        "acts-24-26",
+        "luke-23-8"
+      ],
       "ipa_pronunciation": "[hɑːp]",
       "korean_pronunciation": "홉",
       "definition_korean": "뛰어다니다, 홉",
@@ -27002,16 +26981,6 @@
       "id": 1689
     },
     {
-      "word": "footman",
-      "count": 12,
-      "rank": 1691,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈfʊtmən]",
-      "korean_pronunciation": "풋맨",
-      "definition_korean": "보행자, 하인",
-      "id": 1690
-    },
-    {
       "word": "similitude",
       "count": 12,
       "rank": 1692,
@@ -27495,7 +27464,13 @@
       "word": "backslide",
       "count": 12,
       "rank": 1722,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "jeremiah-3-11",
+        "hosea-4-16",
+        "jeremiah-8-5",
+        "jeremiah-3-22",
+        "jeremiah-31-22"
+      ],
       "ipa_pronunciation": "[ˌbækˈslaɪd]",
       "korean_pronunciation": "백슬라이드",
       "definition_korean": "타락하다, 퇴보하다",
@@ -31029,22 +31004,6 @@
       "korean_pronunciation": "듀티",
       "definition_korean": "의무, 책임; 세금",
       "id": 1942
-    },
-    {
-      "word": "wont",
-      "count": 9,
-      "rank": 1944,
-      "sentence_ids": [
-        "luke-22-39",
-        "1-samuel-30-31",
-        "2-samuel-20-18",
-        "acts-16-13",
-        "numbers-22-30"
-      ],
-      "ipa_pronunciation": "[woʊnt]",
-      "korean_pronunciation": "원트",
-      "definition_korean": "습관, 관례",
-      "id": 1943
     },
     {
       "word": "unrighteous",
@@ -35785,16 +35744,6 @@
       "id": 2240
     },
     {
-      "word": "beef",
-      "count": 7,
-      "rank": 2242,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[biːf]",
-      "korean_pronunciation": "비프",
-      "definition_korean": "소고기",
-      "id": 2241
-    },
-    {
       "word": "maim",
       "count": 7,
       "rank": 2243,
@@ -36035,7 +35984,13 @@
       "word": "sol",
       "count": 7,
       "rank": 2258,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "malachi-4-3",
+        "deuteronomy-11-24",
+        "1-kings-5-3",
+        "isaiah-60-14",
+        "joshua-3-13"
+      ],
       "ipa_pronunciation": "[sɒl]",
       "korean_pronunciation": "솔",
       "definition_korean": "태양, 악보의 다섯 번째 음",
@@ -36461,7 +36416,13 @@
       "word": "ax",
       "count": 7,
       "rank": 2285,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "psalms-74-5",
+        "ezekiel-26-9",
+        "1-samuel-13-21",
+        "jeremiah-46-22",
+        "1-chronicles-20-3"
+      ],
       "ipa_pronunciation": "[æks]",
       "korean_pronunciation": "액스",
       "definition_korean": "도끼",
@@ -37431,7 +37392,13 @@
       "word": "dot",
       "count": 7,
       "rank": 2346,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "ezekiel-23-16",
+        "1-timothy-6-4",
+        "ezekiel-23-5",
+        "ezekiel-23-9",
+        "ezekiel-23-20"
+      ],
       "ipa_pronunciation": "[dɑt]",
       "korean_pronunciation": "닷",
       "definition_korean": "점, 도트",
@@ -37484,16 +37451,6 @@
       "korean_pronunciation": "프래그먼트",
       "definition_korean": "조각, 파편",
       "id": 2348
-    },
-    {
-      "word": "wed",
-      "count": 7,
-      "rank": 2350,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[wɛd]",
-      "korean_pronunciation": "웨드",
-      "definition_korean": "결혼하다, 결합하다",
-      "id": 2349
     },
     {
       "word": "crow",
@@ -38226,16 +38183,6 @@
       "korean_pronunciation": "베드체임버",
       "definition_korean": "침실, 방",
       "id": 2395
-    },
-    {
-      "word": "louse",
-      "count": 6,
-      "rank": 2397,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[laʊs]",
-      "korean_pronunciation": "라우스",
-      "definition_korean": "이(곤충)",
-      "id": 2396
     },
     {
       "word": "thunderings",
@@ -39777,16 +39724,6 @@
       "korean_pronunciation": "워십피쓰",
       "definition_korean": "경배한다 (고어 3인칭 단수)",
       "id": 2493
-    },
-    {
-      "word": "medium",
-      "count": 6,
-      "rank": 2495,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈmiːdiəm]",
-      "korean_pronunciation": "미디움",
-      "definition_korean": "중간의, 매개체",
-      "id": 2494
     },
     {
       "word": "holdest",
@@ -45229,7 +45166,13 @@
       "word": "sham",
       "count": 4,
       "rank": 2843,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "genesis-38-23",
+        "2-samuel-19-5",
+        "1-chronicles-8-12",
+        "psalms-14-6",
+        "proverbs-28-7"
+      ],
       "ipa_pronunciation": "[ʃæm]",
       "korean_pronunciation": "셤",
       "definition_korean": "거짓, 사기, 가장한",
@@ -46910,16 +46853,6 @@
       "korean_pronunciation": "젠틀니스",
       "definition_korean": "온화함, 부드러움",
       "id": 2955
-    },
-    {
-      "word": "confer",
-      "count": 4,
-      "rank": 2957,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[kənˈfɜːr]",
-      "korean_pronunciation": "컨퍼",
-      "definition_korean": "상의하다, 의논하다",
-      "id": 2956
     },
     {
       "word": "pip",
@@ -51467,7 +51400,11 @@
       "word": "suckle",
       "count": 3,
       "rank": 3272,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "deuteronomy-32-25",
+        "1-samuel-15-3",
+        "jeremiah-44-7"
+      ],
       "ipa_pronunciation": "[ˈsʌkəl]",
       "korean_pronunciation": "서클",
       "definition_korean": "젖을 먹이다, 포유하다",
@@ -52614,16 +52551,6 @@
       "korean_pronunciation": "플러밋",
       "definition_korean": "급락하다; 수직으로 떨어지다",
       "id": 3353
-    },
-    {
-      "word": "overfly",
-      "count": 3,
-      "rank": 3355,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˌoʊvərˈflaɪ]",
-      "korean_pronunciation": "오버플라이",
-      "definition_korean": "위를 날아가다; 넘어서 날다",
-      "id": 3354
     },
     {
       "word": "doorkeeper",
@@ -56362,16 +56289,6 @@
       "id": 3623
     },
     {
-      "word": "shrink",
-      "count": 2,
-      "rank": 3625,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ʃrɪŋk]",
-      "korean_pronunciation": "슈링크",
-      "definition_korean": "축소하다, 움츠러들다",
-      "id": 3624
-    },
-    {
       "word": "hindermost",
       "count": 2,
       "rank": 3626,
@@ -56396,16 +56313,6 @@
       "korean_pronunciation": "플레디스트",
       "definition_korean": "도망쳤다 (구식 2인칭)",
       "id": 3626
-    },
-    {
-      "word": "merchantman",
-      "count": 2,
-      "rank": 3628,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈmɜrtʃəntmən]",
-      "korean_pronunciation": "머천트맨",
-      "definition_korean": "상인, 상선",
-      "id": 3627
     },
     {
       "word": "fatfleshed",
@@ -58548,26 +58455,6 @@
       "id": 3792
     },
     {
-      "word": "overrun",
-      "count": 2,
-      "rank": 3794,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˌoʊvɚˈrʌn]",
-      "korean_pronunciation": "오버런",
-      "definition_korean": "점령하다, 초과하다",
-      "id": 3793
-    },
-    {
-      "word": "trim",
-      "count": 2,
-      "rank": 3795,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[trɪm]",
-      "korean_pronunciation": "트림",
-      "definition_korean": "가지치기, 단정한",
-      "id": 3794
-    },
-    {
       "word": "unsavoury",
       "count": 2,
       "rank": 3796,
@@ -58986,7 +58873,11 @@
       "word": "muster",
       "count": 2,
       "rank": 3828,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "2-kings-25-19",
+        "isaiah-13-4",
+        "jeremiah-52-25"
+      ],
       "ipa_pronunciation": "[ˈmʌstər]",
       "korean_pronunciation": "머스터",
       "definition_korean": "모으다, 소집",
@@ -61815,7 +61706,9 @@
       "word": "dreameth",
       "count": 2,
       "rank": 4046,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "isaiah-29-8"
+      ],
       "ipa_pronunciation": "[driːmθ]",
       "korean_pronunciation": "드림스",
       "definition_korean": "꿈을 꾸다 (구약용어)",
@@ -62407,7 +62300,10 @@
       "word": "execration",
       "count": 2,
       "rank": 4092,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "jeremiah-42-18",
+        "jeremiah-44-12"
+      ],
       "ipa_pronunciation": "[ˌɛksɪˈkreɪʃən]",
       "korean_pronunciation": "엑식레이션",
       "definition_korean": "저주, 욕설",
@@ -64843,16 +64739,6 @@
       "korean_pronunciation": "십렉",
       "definition_korean": "난파, 좌초",
       "id": 4279
-    },
-    {
-      "word": "countryman",
-      "count": 2,
-      "rank": 4281,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈkʌntrimən]",
-      "korean_pronunciation": "컨트리맨",
-      "definition_korean": "같은 나라 사람, 시골 사람",
-      "id": 4280
     },
     {
       "word": "envyings",
@@ -67418,20 +67304,12 @@
       "id": 4488
     },
     {
-      "word": "daysjourney",
-      "count": 1,
-      "rank": 4490,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[deɪzˈdʒɝːni]",
-      "korean_pronunciation": "데이즈저니",
-      "definition_korean": "하루 여행거리",
-      "id": 4489
-    },
-    {
       "word": "fewer",
       "count": 1,
       "rank": 4491,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "numbers-33-54"
+      ],
       "ipa_pronunciation": "[ˈfjuːər]",
       "korean_pronunciation": "퓨어",
       "definition_korean": "더 적은",
@@ -68173,7 +68051,9 @@
       "word": "amam",
       "count": 1,
       "rank": 4553,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "joshua-15-26"
+      ],
       "ipa_pronunciation": "[əˈmɑːm]",
       "korean_pronunciation": "아맘",
       "definition_korean": "성경의 유다 도시명",
@@ -68195,7 +68075,9 @@
       "word": "arab",
       "count": 1,
       "rank": 4555,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "joshua-15-52"
+      ],
       "ipa_pronunciation": "[ˈærəb]",
       "korean_pronunciation": "아랍",
       "definition_korean": "성경의 유다 도시명",
@@ -68205,7 +68087,9 @@
       "word": "halhul",
       "count": 1,
       "rank": 4556,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "joshua-15-58"
+      ],
       "ipa_pronunciation": "[ˈhælhuːl]",
       "korean_pronunciation": "할훌",
       "definition_korean": "성경의 유다 도시명",
@@ -68743,7 +68627,9 @@
       "word": "sorroweth",
       "count": 1,
       "rank": 4601,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "1-samuel-10-2"
+      ],
       "ipa_pronunciation": "[ˈsɑroʊɪŋ]",
       "korean_pronunciation": "소로잉",
       "definition_korean": "슬퍼하다",
@@ -69017,7 +68903,9 @@
       "word": "chargest",
       "count": 1,
       "rank": 4624,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "2-samuel-3-8"
+      ],
       "ipa_pronunciation": "[tʃɑrdʒ]",
       "korean_pronunciation": "차지",
       "definition_korean": "명령하다 (구식 표현)",
@@ -69219,7 +69107,9 @@
       "word": "fiercer",
       "count": 1,
       "rank": 4641,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "2-samuel-19-43"
+      ],
       "ipa_pronunciation": "[ˈfɪrsər]",
       "korean_pronunciation": "피어서",
       "definition_korean": "더 맹렬한",
@@ -69859,7 +69749,9 @@
       "word": "kenan",
       "count": 1,
       "rank": 4694,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "1-chronicles-1-2"
+      ],
       "ipa_pronunciation": "[ˈkeɪnən]",
       "korean_pronunciation": "케난",
       "definition_korean": "케난(성경 인물, 아담의 후손)",
@@ -70097,7 +69989,9 @@
       "word": "overtaketh",
       "count": 1,
       "rank": 4714,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "1-chronicles-21-12"
+      ],
       "ipa_pronunciation": "[ˌoʊvərˈteɪkɪθ]",
       "korean_pronunciation": "오버테이키스",
       "definition_korean": "추월하다 (고어)",
@@ -70211,16 +70105,6 @@
       "korean_pronunciation": "테러스",
       "definition_korean": "테라스, 단 위의 대지",
       "id": 4722
-    },
-    {
-      "word": "chapman",
-      "count": 1,
-      "rank": 4724,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈtʃæpmən]",
-      "korean_pronunciation": "채프먼",
-      "definition_korean": "상인, 장사꾼",
-      "id": 4723
     },
     {
       "word": "huge",
@@ -70374,7 +70258,9 @@
       "word": "strongly",
       "count": 1,
       "rank": 4737,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "ezra-6-3"
+      ],
       "ipa_pronunciation": "[ˈstrɔŋli]",
       "korean_pronunciation": "스트롱글리",
       "definition_korean": "강하게",
@@ -70420,7 +70306,9 @@
       "word": "vaniah",
       "count": 1,
       "rank": 4741,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "ezra-10-36"
+      ],
       "ipa_pronunciation": "[vəˈnaɪə]",
       "korean_pronunciation": "바니아",
       "definition_korean": "성경의 인물명",
@@ -70430,7 +70318,9 @@
       "word": "machnadebai",
       "count": 1,
       "rank": 4742,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "ezra-10-40"
+      ],
       "ipa_pronunciation": "[ˌmækənəˈdebaɪ]",
       "korean_pronunciation": "맥나데바이",
       "definition_korean": "성경의 인물명",
@@ -70476,7 +70366,9 @@
       "word": "pulpit",
       "count": 1,
       "rank": 4746,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "nehemiah-8-4"
+      ],
       "ipa_pronunciation": "[ˈpʊlpɪt]",
       "korean_pronunciation": "풀피트",
       "definition_korean": "강단, 연단",
@@ -70594,7 +70486,9 @@
       "word": "magpiash",
       "count": 1,
       "rank": 4756,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "nehemiah-10-20"
+      ],
       "ipa_pronunciation": "[ˈmæɡpaɪ]",
       "korean_pronunciation": "맥파이",
       "definition_korean": "까치 같은, 수다쟁이 같은",
@@ -70604,7 +70498,9 @@
       "word": "hallohesh",
       "count": 1,
       "rank": 4757,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "nehemiah-10-24"
+      ],
       "ipa_pronunciation": "[ˈhæloʊ]",
       "korean_pronunciation": "할로",
       "definition_korean": "할렐루야 관련 (구약 용어)",
@@ -70712,7 +70608,9 @@
       "word": "execution",
       "count": 1,
       "rank": 4766,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "esther-9-1"
+      ],
       "ipa_pronunciation": "[ˌɛɡzɪˈkjuʃən]",
       "korean_pronunciation": "엑시큐션",
       "definition_korean": "실행, 처형",
@@ -71735,16 +71633,6 @@
       "id": 4849
     },
     {
-      "word": "freeze",
-      "count": 1,
-      "rank": 4851,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[friːz]",
-      "korean_pronunciation": "프리즈",
-      "definition_korean": "얼다, 동결되다",
-      "id": 4850
-    },
-    {
       "word": "influence",
       "count": 1,
       "rank": 4852,
@@ -72656,7 +72544,9 @@
       "word": "mow",
       "count": 1,
       "rank": 4927,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "psalms-129-7"
+      ],
       "ipa_pronunciation": "[moʊ]",
       "korean_pronunciation": "모우",
       "definition_korean": "풀을 깎다, 베어내다",
@@ -73798,7 +73688,9 @@
       "word": "babble",
       "count": 1,
       "rank": 5022,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "proverbs-23-29"
+      ],
       "ipa_pronunciation": "[ˈbæbəl]",
       "korean_pronunciation": "배블",
       "definition_korean": "중얼거리다, 수다",
@@ -75728,7 +75620,9 @@
       "word": "litter",
       "count": 1,
       "rank": 5183,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "isaiah-66-20"
+      ],
       "ipa_pronunciation": "[ˈlɪt.ɚ]",
       "korean_pronunciation": "리터",
       "definition_korean": "쓰레기, 들것, 새끼들",
@@ -75853,16 +75747,6 @@
       "korean_pronunciation": "소티시",
       "definition_korean": "술 취한 것 같은, 어리석은",
       "id": 5192
-    },
-    {
-      "word": "bowman",
-      "count": 1,
-      "rank": 5194,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈboʊ.mən]",
-      "korean_pronunciation": "보우먼",
-      "definition_korean": "궁수, 활을 쏘는 사람",
-      "id": 5193
     },
     {
       "word": "clothest",
@@ -76337,16 +76221,6 @@
       "id": 5232
     },
     {
-      "word": "madman",
-      "count": 1,
-      "rank": 5234,
-      "sentence_ids": [],
-      "ipa_pronunciation": "/ˈmædmən/",
-      "korean_pronunciation": "매드맨",
-      "definition_korean": "미친 사람",
-      "id": 5233
-    },
-    {
       "word": "skippedst",
       "count": 1,
       "rank": 5235,
@@ -76357,16 +76231,6 @@
       "korean_pronunciation": "스키피드스트",
       "definition_korean": "건너뛰다 (옛영어)",
       "id": 5234
-    },
-    {
-      "word": "clip",
-      "count": 1,
-      "rank": 5236,
-      "sentence_ids": [],
-      "ipa_pronunciation": "/klɪp/",
-      "korean_pronunciation": "클립",
-      "definition_korean": "깎다; 자르다; 집게",
-      "id": 5235
     },
     {
       "word": "gloriest",
@@ -76928,7 +76792,9 @@
       "word": "sighest",
       "count": 1,
       "rank": 5283,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "ezekiel-21-7"
+      ],
       "ipa_pronunciation": "[ˈsaɪɪst]",
       "korean_pronunciation": "사이스트",
       "definition_korean": "한숨을 쉬다 (구약 영어)",
@@ -77374,7 +77240,9 @@
       "word": "voluntarily",
       "count": 1,
       "rank": 5320,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "ezekiel-46-12"
+      ],
       "ipa_pronunciation": "[ˈvɑː.lən.ter.ə.li]",
       "korean_pronunciation": "볼런테릴리",
       "definition_korean": "자발적으로",
@@ -77492,7 +77360,9 @@
       "word": "appointeth",
       "count": 1,
       "rank": 5330,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "daniel-5-21"
+      ],
       "ipa_pronunciation": "[əˈpɔɪn.tɪθ]",
       "korean_pronunciation": "어포인티스",
       "definition_korean": "정하다 (고대 영어)",
@@ -78424,7 +78294,9 @@
       "word": "swearer",
       "count": 1,
       "rank": 5407,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "malachi-3-5"
+      ],
       "ipa_pronunciation": "[ˈswɛərər]",
       "korean_pronunciation": "스웨어러",
       "definition_korean": "맹세하는 사람",
@@ -78767,16 +78639,6 @@
       "id": 5434
     },
     {
-      "word": "omit",
-      "count": 1,
-      "rank": 5436,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[oʊˈmɪt]",
-      "korean_pronunciation": "오미트",
-      "definition_korean": "빼다, 생략하다",
-      "id": 5435
-    },
-    {
       "word": "weightier",
       "count": 1,
       "rank": 5437,
@@ -78945,16 +78807,6 @@
       "id": 5449
     },
     {
-      "word": "outgo",
-      "count": 1,
-      "rank": 5451,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈaʊtɡoʊ]",
-      "korean_pronunciation": "아웃고",
-      "definition_korean": "외출, 나가기",
-      "id": 5450
-    },
-    {
       "word": "impediment",
       "count": 1,
       "rank": 5452,
@@ -79085,26 +78937,6 @@
       "korean_pronunciation": "리니에지",
       "definition_korean": "계통, 혈통",
       "id": 5461
-    },
-    {
-      "word": "fisherman",
-      "count": 1,
-      "rank": 5463,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[ˈfɪʃərmən]",
-      "korean_pronunciation": "피셔먼",
-      "definition_korean": "어부, 고기잡이",
-      "id": 5462
-    },
-    {
-      "word": "rub",
-      "count": 1,
-      "rank": 5464,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[rʌb]",
-      "korean_pronunciation": "럽",
-      "definition_korean": "문지르다, 마찰",
-      "id": 5463
     },
     {
       "word": "frankly",
@@ -79894,7 +79726,9 @@
       "word": "din",
       "count": 1,
       "rank": 5530,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "john-21-15"
+      ],
       "ipa_pronunciation": "/dɪn/",
       "korean_pronunciation": "딘",
       "definition_korean": "시끄러운 소음, 요란한 소리",
@@ -81713,16 +81547,6 @@
       "id": 5680
     },
     {
-      "word": "transfer",
-      "count": 1,
-      "rank": 5682,
-      "sentence_ids": [],
-      "ipa_pronunciation": "[trænsˈfɜr]",
-      "korean_pronunciation": "트랜스퍼",
-      "definition_korean": "옮기다, 이동",
-      "id": 5681
-    },
-    {
       "word": "spectacle",
       "count": 1,
       "rank": 5683,
@@ -83154,7 +82978,9 @@
       "word": "prophesyings",
       "count": 1,
       "rank": 5801,
-      "sentence_ids": [],
+      "sentence_ids": [
+        "1-thessalonians-5-20"
+      ],
       "ipa_pronunciation": "[ˈprɑfəˌsaɪɪŋz]",
       "korean_pronunciation": "프로펫사이잉즈",
       "definition_korean": "예언, 영감으로 말씀을 전함",

@@ -1,0 +1,12 @@
+{
+  "version": "easy",
+  "name": "Easy Bible",
+  "language": "en",
+  "source_file": "Easy_Bible.json",
+  "data_dir": "easy",
+  "stopwords_file": "stopwords.txt",
+  "protected_words_file": "protected_words.txt",
+  "proper_nouns_file": "proper_nouns.txt",
+  "min_word_length": 2,
+  "min_frequency": 1
+}

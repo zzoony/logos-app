@@ -47,6 +47,45 @@ def generate_sentence_id(book: str, chapter: str, verse: str) -> str:
     return f"{book_short}-{chapter}-{verse}"
 
 
+# Irregular verb forms: base -> [past, past_participle, present_participle, ...]
+IRREGULAR_VERBS = {
+    "ride": ["rode", "ridden", "riding"],
+    "hide": ["hid", "hidden", "hiding"],
+    "bite": ["bit", "bitten", "biting"],
+    "write": ["wrote", "written", "writing"],
+    "drive": ["drove", "driven", "driving"],
+    "rise": ["rose", "risen", "rising"],
+    "choose": ["chose", "chosen", "choosing"],
+    "freeze": ["froze", "frozen", "freezing"],
+    "speak": ["spoke", "spoken", "speaking"],
+    "steal": ["stole", "stolen", "stealing"],
+    "break": ["broke", "broken", "breaking"],
+    "wake": ["woke", "woken", "waking"],
+    "forget": ["forgot", "forgotten", "forgetting"],
+    "get": ["got", "gotten", "getting"],
+    "begin": ["began", "begun", "beginning"],
+    "sing": ["sang", "sung", "singing"],
+    "ring": ["rang", "rung", "ringing"],
+    "drink": ["drank", "drunk", "drinking"],
+    "swim": ["swam", "swum", "swimming"],
+    "sink": ["sank", "sunk", "sinking"],
+    "shrink": ["shrank", "shrunk", "shrinking"],
+    "stink": ["stank", "stunk", "stinking"],
+    "spring": ["sprang", "sprung", "springing"],
+    "string": ["strung", "stringing"],
+    "wring": ["wrung", "wringing"],
+    "cling": ["clung", "clinging"],
+    "fling": ["flung", "flinging"],
+    "sling": ["slung", "slinging"],
+    "swing": ["swung", "swinging"],
+    "hang": ["hung", "hanging"],
+    "bind": ["bound", "binding"],
+    "find": ["found", "finding"],
+    "wind": ["wound", "winding"],
+    "ground": ["grounds", "grounded", "grounding"],  # ground as noun/verb (not grind)
+}
+
+
 def get_word_variants(word: str) -> set:
     """Generate common word variants (plurals, verb forms, etc.).
 
@@ -57,6 +96,10 @@ def get_word_variants(word: str) -> set:
     # Skip very short words
     if len(word) < 2:
         return variants
+
+    # Add irregular verb forms if applicable
+    if word in IRREGULAR_VERBS:
+        variants.update(IRREGULAR_VERBS[word])
 
     # Plural forms (improved rules)
     # Handle words ending in s, x, z, ch, sh -> add "es"

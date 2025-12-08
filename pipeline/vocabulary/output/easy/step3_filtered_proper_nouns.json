@@ -1,0 +1,8387 @@
+{
+  "metadata": {
+    "step": "filtered_proper_nouns",
+    "total_unique_words": 2094,
+    "total_occurrences": 952434,
+    "stopwords_removed": 172,
+    "proper_nouns_removed": 2534
+  },
+  "words": [
+    {
+      "word": "people",
+      "count": 12463
+    },
+    {
+      "word": "god",
+      "count": 10036
+    },
+    {
+      "word": "lord",
+      "count": 7783
+    },
+    {
+      "word": "king",
+      "count": 4134
+    },
+    {
+      "word": "give",
+      "count": 3808
+    },
+    {
+      "word": "like",
+      "count": 3528
+    },
+    {
+      "word": "tell",
+      "count": 3073
+    },
+    {
+      "word": "son",
+      "count": 2998
+    },
+    {
+      "word": "live",
+      "count": 2935
+    },
+    {
+      "word": "also",
+      "count": 2345
+    },
+    {
+      "word": "man",
+      "count": 2267
+    },
+    {
+      "word": "want",
+      "count": 2204
+    },
+    {
+      "word": "know",
+      "count": 2178
+    },
+    {
+      "word": "away",
+      "count": 2043
+    },
+    {
+      "word": "land",
+      "count": 1963
+    },
+    {
+      "word": "help",
+      "count": 1902
+    },
+    {
+      "word": "place",
+      "count": 1837
+    },
+    {
+      "word": "bring",
+      "count": 1772
+    },
+    {
+      "word": "speak",
+      "count": 1723
+    },
+    {
+      "word": "good",
+      "count": 1680
+    },
+    {
+      "word": "city",
+      "count": 1663
+    },
+    {
+      "word": "message",
+      "count": 1646
+    },
+    {
+      "word": "happen",
+      "count": 1525
+    },
+    {
+      "word": "die",
+      "count": 1519
+    },
+    {
+      "word": "person",
+      "count": 1466
+    },
+    {
+      "word": "send",
+      "count": 1445
+    },
+    {
+      "word": "kill",
+      "count": 1441
+    },
+    {
+      "word": "ask",
+      "count": 1373
+    },
+    {
+      "word": "rule",
+      "count": 1340
+    },
+    {
+      "word": "bad",
+      "count": 1327
+    },
+    {
+      "word": "cause",
+      "count": 1282
+    },
+    {
+      "word": "against",
+      "count": 1271
+    },
+    {
+      "word": "priest",
+      "count": 1266
+    },
+    {
+      "word": "obey",
+      "count": 1240
+    },
+    {
+      "word": "show",
+      "count": 1229
+    },
+    {
+      "word": "work",
+      "count": 1216
+    },
+    {
+      "word": "soldier",
+      "count": 1202
+    },
+    {
+      "word": "father",
+      "count": 1183
+    },
+    {
+      "word": "right",
+      "count": 1178
+    },
+    {
+      "word": "destroy",
+      "count": 1151
+    },
+    {
+      "word": "great",
+      "count": 1120
+    },
+    {
+      "word": "life",
+      "count": 1117
+    },
+    {
+      "word": "hear",
+      "count": 1116
+    },
+    {
+      "word": "strong",
+      "count": 1112
+    },
+    {
+      "word": "servant",
+      "count": 1107
+    },
+    {
+      "word": "belong",
+      "count": 1071
+    },
+    {
+      "word": "woman",
+      "count": 1059
+    },
+    {
+      "word": "call",
+      "count": 1027
+    },
+    {
+      "word": "animal",
+      "count": 1024
+    },
+    {
+      "word": "temple",
+      "count": 1008
+    },
+    {
+      "word": "enemy",
+      "count": 1003
+    },
+    {
+      "word": "choose",
+      "count": 972
+    },
+    {
+      "word": "look",
+      "count": 971
+    },
+    {
+      "word": "back",
+      "count": 961
+    },
+    {
+      "word": "everything",
+      "count": 948
+    },
+    {
+      "word": "offer",
+      "count": 944
+    },
+    {
+      "word": "family",
+      "count": 939
+    },
+    {
+      "word": "happy",
+      "count": 923
+    },
+    {
+      "word": "food",
+      "count": 922
+    },
+    {
+      "word": "doe",
+      "count": 920
+    },
+    {
+      "word": "water",
+      "count": 918
+    },
+    {
+      "word": "christ",
+      "count": 912
+    },
+    {
+      "word": "attack",
+      "count": 900
+    },
+    {
+      "word": "listen",
+      "count": 894
+    },
+    {
+      "word": "body",
+      "count": 874
+    },
+    {
+      "word": "child",
+      "count": 869
+    },
+    {
+      "word": "leave",
+      "count": 869
+    },
+    {
+      "word": "house",
+      "count": 864
+    },
+    {
+      "word": "special",
+      "count": 859
+    },
+    {
+      "word": "true",
+      "count": 834
+    },
+    {
+      "word": "nation",
+      "count": 825
+    },
+    {
+      "word": "wrong",
+      "count": 825
+    },
+    {
+      "word": "turn",
+      "count": 819
+    },
+    {
+      "word": "sin",
+      "count": 806
+    },
+    {
+      "word": "same",
+      "count": 801
+    },
+    {
+      "word": "descendant",
+      "count": 799
+    },
+    {
+      "word": "please",
+      "count": 797
+    },
+    {
+      "word": "stand",
+      "count": 794
+    },
+    {
+      "word": "kind",
+      "count": 788
+    },
+    {
+      "word": "town",
+      "count": 786
+    },
+    {
+      "word": "power",
+      "count": 778
+    },
+    {
+      "word": "pray",
+      "count": 775
+    },
+    {
+      "word": "love",
+      "count": 775
+    },
+    {
+      "word": "law",
+      "count": 775
+    },
+    {
+      "word": "holy",
+      "count": 762
+    },
+    {
+      "word": "burn",
+      "count": 760
+    },
+    {
+      "word": "tribe",
+      "count": 759
+    },
+    {
+      "word": "teach",
+      "count": 751
+    },
+    {
+      "word": "believe",
+      "count": 747
+    },
+    {
+      "word": "worship",
+      "count": 740
+    },
+    {
+      "word": "name",
+      "count": 730
+    },
+    {
+      "word": "stop",
+      "count": 726
+    },
+    {
+      "word": "spirit",
+      "count": 725
+    },
+    {
+      "word": "earth",
+      "count": 724
+    },
+    {
+      "word": "someone",
+      "count": 722
+    },
+    {
+      "word": "serve",
+      "count": 712
+    },
+    {
+      "word": "afraid",
+      "count": 710
+    },
+    {
+      "word": "everyone",
+      "count": 697
+    },
+    {
+      "word": "officer",
+      "count": 692
+    },
+    {
+      "word": "build",
+      "count": 669
+    },
+    {
+      "word": "prophet",
+      "count": 667
+    },
+    {
+      "word": "keep",
+      "count": 664
+    },
+    {
+      "word": "almighty",
+      "count": 662
+    },
+    {
+      "word": "grind",
+      "count": 660
+    },
+    {
+      "word": "receive",
+      "count": 660
+    },
+    {
+      "word": "home",
+      "count": 657
+    },
+    {
+      "word": "angry",
+      "count": 656
+    },
+    {
+      "word": "wife",
+      "count": 655
+    },
+    {
+      "word": "young",
+      "count": 651
+    },
+    {
+      "word": "anyone",
+      "count": 647
+    },
+    {
+      "word": "authority",
+      "count": 642
+    },
+    {
+      "word": "decide",
+      "count": 637
+    },
+    {
+      "word": "among",
+      "count": 637
+    },
+    {
+      "word": "friend",
+      "count": 636
+    },
+    {
+      "word": "cannot",
+      "count": 634
+    },
+    {
+      "word": "return",
+      "count": 630
+    },
+    {
+      "word": "stone",
+      "count": 625
+    },
+    {
+      "word": "country",
+      "count": 624
+    },
+    {
+      "word": "drink",
+      "count": 609
+    },
+    {
+      "word": "altar",
+      "count": 607
+    },
+    {
+      "word": "gift",
+      "count": 603
+    },
+    {
+      "word": "fire",
+      "count": 600
+    },
+    {
+      "word": "side",
+      "count": 597
+    },
+    {
+      "word": "front",
+      "count": 594
+    },
+    {
+      "word": "write",
+      "count": 581
+    },
+    {
+      "word": "sheep",
+      "count": 577
+    },
+    {
+      "word": "sacrifice",
+      "count": 572
+    },
+    {
+      "word": "command",
+      "count": 571
+    },
+    {
+      "word": "word",
+      "count": 567
+    },
+    {
+      "word": "run",
+      "count": 556
+    },
+    {
+      "word": "gold",
+      "count": 552
+    },
+    {
+      "word": "find",
+      "count": 552
+    },
+    {
+      "word": "hand",
+      "count": 548
+    },
+    {
+      "word": "dead",
+      "count": 541
+    },
+    {
+      "word": "long",
+      "count": 538
+    },
+    {
+      "word": "brother",
+      "count": 538
+    },
+    {
+      "word": "river",
+      "count": 530
+    },
+    {
+      "word": "part",
+      "count": 527
+    },
+    {
+      "word": "important",
+      "count": 526
+    },
+    {
+      "word": "remember",
+      "count": 525
+    },
+    {
+      "word": "clothe",
+      "count": 519
+    },
+    {
+      "word": "wicked",
+      "count": 513
+    },
+    {
+      "word": "money",
+      "count": 505
+    },
+    {
+      "word": "accept",
+      "count": 501
+    },
+    {
+      "word": "stay",
+      "count": 498
+    },
+    {
+      "word": "ancestor",
+      "count": 497
+    },
+    {
+      "word": "really",
+      "count": 491
+    },
+    {
+      "word": "save",
+      "count": 491
+    },
+    {
+      "word": "wall",
+      "count": 490
+    },
+    {
+      "word": "piece",
+      "count": 489
+    },
+    {
+      "word": "sea",
+      "count": 487
+    },
+    {
+      "word": "alive",
+      "count": 487
+    },
+    {
+      "word": "field",
+      "count": 487
+    },
+    {
+      "word": "death",
+      "count": 477
+    },
+    {
+      "word": "need",
+      "count": 469
+    },
+    {
+      "word": "disciple",
+      "count": 464
+    },
+    {
+      "word": "grow",
+      "count": 463
+    },
+    {
+      "word": "refuse",
+      "count": 460
+    },
+    {
+      "word": "hold",
+      "count": 459
+    },
+    {
+      "word": "world",
+      "count": 457
+    },
+    {
+      "word": "answer",
+      "count": 457
+    },
+    {
+      "word": "completely",
+      "count": 452
+    },
+    {
+      "word": "try",
+      "count": 449
+    },
+    {
+      "word": "ready",
+      "count": 444
+    },
+    {
+      "word": "angel",
+      "count": 444
+    },
+    {
+      "word": "trust",
+      "count": 437
+    },
+    {
+      "word": "three",
+      "count": 436
+    },
+    {
+      "word": "reply",
+      "count": 434
+    },
+    {
+      "word": "gate",
+      "count": 431
+    },
+    {
+      "word": "whole",
+      "count": 430
+    },
+    {
+      "word": "heaven",
+      "count": 428
+    },
+    {
+      "word": "longer",
+      "count": 421
+    },
+    {
+      "word": "idol",
+      "count": 421
+    },
+    {
+      "word": "daughter",
+      "count": 414
+    },
+    {
+      "word": "shout",
+      "count": 411
+    },
+    {
+      "word": "mountain",
+      "count": 411
+    },
+    {
+      "word": "master",
+      "count": 408
+    },
+    {
+      "word": "arrive",
+      "count": 404
+    },
+    {
+      "word": "care",
+      "count": 403
+    },
+    {
+      "word": "travel",
+      "count": 403
+    },
+    {
+      "word": "beautiful",
+      "count": 402
+    },
+    {
+      "word": "bless",
+      "count": 398
+    },
+    {
+      "word": "hill",
+      "count": 396
+    },
+    {
+      "word": "clan",
+      "count": 396
+    },
+    {
+      "word": "clean",
+      "count": 395
+    },
+    {
+      "word": "believer",
+      "count": 394
+    },
+    {
+      "word": "judge",
+      "count": 390
+    },
+    {
+      "word": "cut",
+      "count": 383
+    },
+    {
+      "word": "kingdom",
+      "count": 379
+    },
+    {
+      "word": "head",
+      "count": 379
+    },
+    {
+      "word": "throw",
+      "count": 376
+    },
+    {
+      "word": "male",
+      "count": 374
+    },
+    {
+      "word": "through",
+      "count": 371
+    },
+    {
+      "word": "valuable",
+      "count": 371
+    },
+    {
+      "word": "jew",
+      "count": 371
+    },
+    {
+      "word": "silver",
+      "count": 370
+    },
+    {
+      "word": "sit",
+      "count": 369
+    },
+    {
+      "word": "covenant",
+      "count": 368
+    },
+    {
+      "word": "seven",
+      "count": 361
+    },
+    {
+      "word": "plant",
+      "count": 358
+    },
+    {
+      "word": "offering",
+      "count": 358
+    },
+    {
+      "word": "carry",
+      "count": 357
+    },
+    {
+      "word": "mother",
+      "count": 354
+    },
+    {
+      "word": "sky",
+      "count": 348
+    },
+    {
+      "word": "walk",
+      "count": 348
+    },
+    {
+      "word": "battle",
+      "count": 348
+    },
+    {
+      "word": "ruler",
+      "count": 346
+    },
+    {
+      "word": "lead",
+      "count": 342
+    },
+    {
+      "word": "fall",
+      "count": 341
+    },
+    {
+      "word": "marry",
+      "count": 338
+    },
+    {
+      "word": "lot",
+      "count": 333
+    },
+    {
+      "word": "night",
+      "count": 328
+    },
+    {
+      "word": "far",
+      "count": 325
+    },
+    {
+      "word": "hurt",
+      "count": 324
+    },
+    {
+      "word": "slave",
+      "count": 321
+    },
+    {
+      "word": "result",
+      "count": 320
+    },
+    {
+      "word": "praise",
+      "count": 320
+    },
+    {
+      "word": "000",
+      "count": 320
+    },
+    {
+      "word": "carefully",
+      "count": 320
+    },
+    {
+      "word": "sad",
+      "count": 319
+    },
+    {
+      "word": "wine",
+      "count": 317
+    },
+    {
+      "word": "begin",
+      "count": 315
+    },
+    {
+      "word": "blood",
+      "count": 314
+    },
+    {
+      "word": "start",
+      "count": 313
+    },
+    {
+      "word": "able",
+      "count": 309
+    },
+    {
+      "word": "weak",
+      "count": 309
+    },
+    {
+      "word": "light",
+      "count": 308
+    },
+    {
+      "word": "prepare",
+      "count": 306
+    },
+    {
+      "word": "forgive",
+      "count": 306
+    },
+    {
+      "word": "enough",
+      "count": 305
+    },
+    {
+      "word": "bread",
+      "count": 303
+    },
+    {
+      "word": "horse",
+      "count": 303
+    },
+    {
+      "word": "remove",
+      "count": 301
+    },
+    {
+      "word": "guilty",
+      "count": 301
+    },
+    {
+      "word": "today",
+      "count": 300
+    },
+    {
+      "word": "sex",
+      "count": 299
+    },
+    {
+      "word": "desert",
+      "count": 299
+    },
+    {
+      "word": "win",
+      "count": 297
+    },
+    {
+      "word": "mind",
+      "count": 297
+    },
+    {
+      "word": "cover",
+      "count": 296
+    },
+    {
+      "word": "wood",
+      "count": 294
+    },
+    {
+      "word": "hide",
+      "count": 291
+    },
+    {
+      "word": "oil",
+      "count": 291
+    },
+    {
+      "word": "ashamed",
+      "count": 289
+    },
+    {
+      "word": "mean",
+      "count": 286
+    },
+    {
+      "word": "end",
+      "count": 285
+    },
+    {
+      "word": "rich",
+      "count": 284
+    },
+    {
+      "word": "break",
+      "count": 282
+    },
+    {
+      "word": "better",
+      "count": 282
+    },
+    {
+      "word": "quickly",
+      "count": 277
+    },
+    {
+      "word": "birth",
+      "count": 276
+    },
+    {
+      "word": "pain",
+      "count": 276
+    },
+    {
+      "word": "chase",
+      "count": 274
+    },
+    {
+      "word": "inside",
+      "count": 273
+    },
+    {
+      "word": "remain",
+      "count": 273
+    },
+    {
+      "word": "book",
+      "count": 271
+    },
+    {
+      "word": "month",
+      "count": 269
+    },
+    {
+      "word": "grain",
+      "count": 269
+    },
+    {
+      "word": "proud",
+      "count": 268
+    },
+    {
+      "word": "weep",
+      "count": 266
+    },
+    {
+      "word": "north",
+      "count": 265
+    },
+    {
+      "word": "wear",
+      "count": 264
+    },
+    {
+      "word": "bear",
+      "count": 263
+    },
+    {
+      "word": "move",
+      "count": 262
+    },
+    {
+      "word": "1",
+      "count": 258
+    },
+    {
+      "word": "next",
+      "count": 257
+    },
+    {
+      "word": "wild",
+      "count": 256
+    },
+    {
+      "word": "crowd",
+      "count": 253
+    },
+    {
+      "word": "valley",
+      "count": 251
+    },
+    {
+      "word": "door",
+      "count": 250
+    },
+    {
+      "word": "buy",
+      "count": 250
+    },
+    {
+      "word": "rest",
+      "count": 249
+    },
+    {
+      "word": "cruel",
+      "count": 245
+    },
+    {
+      "word": "foot",
+      "count": 244
+    },
+    {
+      "word": "wait",
+      "count": 240
+    },
+    {
+      "word": "watch",
+      "count": 237
+    },
+    {
+      "word": "punishment",
+      "count": 236
+    },
+    {
+      "word": "high",
+      "count": 236
+    },
+    {
+      "word": "poor",
+      "count": 235
+    },
+    {
+      "word": "talk",
+      "count": 234
+    },
+    {
+      "word": "fruit",
+      "count": 232
+    },
+    {
+      "word": "rock",
+      "count": 232
+    },
+    {
+      "word": "teacher",
+      "count": 232
+    },
+    {
+      "word": "across",
+      "count": 231
+    },
+    {
+      "word": "husband",
+      "count": 231
+    },
+    {
+      "word": "guard",
+      "count": 231
+    },
+    {
+      "word": "east",
+      "count": 229
+    },
+    {
+      "word": "south",
+      "count": 229
+    },
+    {
+      "word": "camp",
+      "count": 229
+    },
+    {
+      "word": "dark",
+      "count": 228
+    },
+    {
+      "word": "meal",
+      "count": 228
+    },
+    {
+      "word": "bury",
+      "count": 228
+    },
+    {
+      "word": "noise",
+      "count": 227
+    },
+    {
+      "word": "honour",
+      "count": 227
+    },
+    {
+      "word": "sword",
+      "count": 224
+    },
+    {
+      "word": "hole",
+      "count": 224
+    },
+    {
+      "word": "yard",
+      "count": 223
+    },
+    {
+      "word": "small",
+      "count": 222
+    },
+    {
+      "word": "metre",
+      "count": 222
+    },
+    {
+      "word": "include",
+      "count": 220
+    },
+    {
+      "word": "hard",
+      "count": 219
+    },
+    {
+      "word": "face",
+      "count": 219
+    },
+    {
+      "word": "pour",
+      "count": 219
+    },
+    {
+      "word": "palace",
+      "count": 219
+    },
+    {
+      "word": "peace",
+      "count": 218
+    },
+    {
+      "word": "wind",
+      "count": 216
+    },
+    {
+      "word": "12",
+      "count": 216
+    },
+    {
+      "word": "unclean",
+      "count": 215
+    },
+    {
+      "word": "open",
+      "count": 215
+    },
+    {
+      "word": "insult",
+      "count": 215
+    },
+    {
+      "word": "surely",
+      "count": 215
+    },
+    {
+      "word": "war",
+      "count": 215
+    },
+    {
+      "word": "careful",
+      "count": 214
+    },
+    {
+      "word": "donkey",
+      "count": 213
+    },
+    {
+      "word": "morning",
+      "count": 212
+    },
+    {
+      "word": "else",
+      "count": 212
+    },
+    {
+      "word": "useless",
+      "count": 211
+    },
+    {
+      "word": "region",
+      "count": 210
+    },
+    {
+      "word": "outside",
+      "count": 208
+    },
+    {
+      "word": "large",
+      "count": 208
+    },
+    {
+      "word": "road",
+      "count": 208
+    },
+    {
+      "word": "lamb",
+      "count": 207
+    },
+    {
+      "word": "meat",
+      "count": 207
+    },
+    {
+      "word": "prisoner",
+      "count": 205
+    },
+    {
+      "word": "four",
+      "count": 204
+    },
+    {
+      "word": "upset",
+      "count": 204
+    },
+    {
+      "word": "cow",
+      "count": 203
+    },
+    {
+      "word": "seem",
+      "count": 203
+    },
+    {
+      "word": "bull",
+      "count": 203
+    },
+    {
+      "word": "seed",
+      "count": 202
+    },
+    {
+      "word": "rain",
+      "count": 202
+    },
+    {
+      "word": "rescue",
+      "count": 201
+    },
+    {
+      "word": "top",
+      "count": 200
+    },
+    {
+      "word": "enjoy",
+      "count": 200
+    },
+    {
+      "word": "dry",
+      "count": 199
+    },
+    {
+      "word": "eye",
+      "count": 197
+    },
+    {
+      "word": "behalf",
+      "count": 196
+    },
+    {
+      "word": "wash",
+      "count": 195
+    },
+    {
+      "word": "voice",
+      "count": 194
+    },
+    {
+      "word": "shake",
+      "count": 194
+    },
+    {
+      "word": "2",
+      "count": 194
+    },
+    {
+      "word": "cloud",
+      "count": 192
+    },
+    {
+      "word": "cross",
+      "count": 192
+    },
+    {
+      "word": "sing",
+      "count": 192
+    },
+    {
+      "word": "disease",
+      "count": 190
+    },
+    {
+      "word": "bronze",
+      "count": 189
+    },
+    {
+      "word": "chariot",
+      "count": 188
+    },
+    {
+      "word": "beside",
+      "count": 185
+    },
+    {
+      "word": "bird",
+      "count": 183
+    },
+    {
+      "word": "faithful",
+      "count": 183
+    },
+    {
+      "word": "ship",
+      "count": 182
+    },
+    {
+      "word": "letter",
+      "count": 182
+    },
+    {
+      "word": "touch",
+      "count": 181
+    },
+    {
+      "word": "prison",
+      "count": 179
+    },
+    {
+      "word": "human",
+      "count": 178
+    },
+    {
+      "word": "forget",
+      "count": 177
+    },
+    {
+      "word": "clearly",
+      "count": 176
+    },
+    {
+      "word": "deserve",
+      "count": 176
+    },
+    {
+      "word": "ago",
+      "count": 176
+    },
+    {
+      "word": "round",
+      "count": 175
+    },
+    {
+      "word": "stick",
+      "count": 175
+    },
+    {
+      "word": "sell",
+      "count": 174
+    },
+    {
+      "word": "olive",
+      "count": 173
+    },
+    {
+      "word": "sure",
+      "count": 173
+    },
+    {
+      "word": "branch",
+      "count": 173
+    },
+    {
+      "word": "sleep",
+      "count": 171
+    },
+    {
+      "word": "worker",
+      "count": 171
+    },
+    {
+      "word": "deceive",
+      "count": 168
+    },
+    {
+      "word": "best",
+      "count": 168
+    },
+    {
+      "word": "lion",
+      "count": 168
+    },
+    {
+      "word": "perhaps",
+      "count": 166
+    },
+    {
+      "word": "cry",
+      "count": 164
+    },
+    {
+      "word": "skin",
+      "count": 161
+    },
+    {
+      "word": "baby",
+      "count": 161
+    },
+    {
+      "word": "five",
+      "count": 160
+    },
+    {
+      "word": "safely",
+      "count": 159
+    },
+    {
+      "word": "thought",
+      "count": 159
+    },
+    {
+      "word": "curse",
+      "count": 156
+    },
+    {
+      "word": "sister",
+      "count": 156
+    },
+    {
+      "word": "3",
+      "count": 156
+    },
+    {
+      "word": "apostle",
+      "count": 156
+    },
+    {
+      "word": "disgust",
+      "count": 155
+    },
+    {
+      "word": "curtain",
+      "count": 154
+    },
+    {
+      "word": "ten",
+      "count": 153
+    },
+    {
+      "word": "tie",
+      "count": 152
+    },
+    {
+      "word": "visit",
+      "count": 152
+    },
+    {
+      "word": "hate",
+      "count": 152
+    },
+    {
+      "word": "wisdom",
+      "count": 152
+    },
+    {
+      "word": "west",
+      "count": 151
+    },
+    {
+      "word": "separate",
+      "count": 150
+    },
+    {
+      "word": "entrance",
+      "count": 150
+    },
+    {
+      "word": "appear",
+      "count": 148
+    },
+    {
+      "word": "full",
+      "count": 148
+    },
+    {
+      "word": "follow",
+      "count": 148
+    },
+    {
+      "word": "dream",
+      "count": 148
+    },
+    {
+      "word": "lift",
+      "count": 146
+    },
+    {
+      "word": "boy",
+      "count": 146
+    },
+    {
+      "word": "hair",
+      "count": 146
+    },
+    {
+      "word": "feel",
+      "count": 145
+    },
+    {
+      "word": "cloth",
+      "count": 145
+    },
+    {
+      "word": "agreement",
+      "count": 145
+    },
+    {
+      "word": "song",
+      "count": 145
+    },
+    {
+      "word": "shine",
+      "count": 144
+    },
+    {
+      "word": "count",
+      "count": 143
+    },
+    {
+      "word": "incense",
+      "count": 143
+    },
+    {
+      "word": "crop",
+      "count": 142
+    },
+    {
+      "word": "little",
+      "count": 142
+    },
+    {
+      "word": "hungry",
+      "count": 142
+    },
+    {
+      "word": "shepherd",
+      "count": 141
+    },
+    {
+      "word": "pot",
+      "count": 140
+    },
+    {
+      "word": "laugh",
+      "count": 140
+    },
+    {
+      "word": "lose",
+      "count": 140
+    },
+    {
+      "word": "read",
+      "count": 138
+    },
+    {
+      "word": "hope",
+      "count": 137
+    },
+    {
+      "word": "trumpet",
+      "count": 136
+    },
+    {
+      "word": "bright",
+      "count": 135
+    },
+    {
+      "word": "heap",
+      "count": 135
+    },
+    {
+      "word": "idea",
+      "count": 134
+    },
+    {
+      "word": "store",
+      "count": 133
+    },
+    {
+      "word": "immediately",
+      "count": 133
+    },
+    {
+      "word": "fix",
+      "count": 133
+    },
+    {
+      "word": "pick",
+      "count": 133
+    },
+    {
+      "word": "sun",
+      "count": 132
+    },
+    {
+      "word": "fair",
+      "count": 132
+    },
+    {
+      "word": "middle",
+      "count": 131
+    },
+    {
+      "word": "edge",
+      "count": 131
+    },
+    {
+      "word": "surprise",
+      "count": 131
+    },
+    {
+      "word": "chronicle",
+      "count": 130
+    },
+    {
+      "word": "red",
+      "count": 129
+    },
+    {
+      "word": "arrow",
+      "count": 129
+    },
+    {
+      "word": "farmer",
+      "count": 128
+    },
+    {
+      "word": "pole",
+      "count": 128
+    },
+    {
+      "word": "journey",
+      "count": 127
+    },
+    {
+      "word": "weapon",
+      "count": 127
+    },
+    {
+      "word": "realize",
+      "count": 126
+    },
+    {
+      "word": "fill",
+      "count": 125
+    },
+    {
+      "word": "third",
+      "count": 125
+    },
+    {
+      "word": "strength",
+      "count": 125
+    },
+    {
+      "word": "border",
+      "count": 125
+    },
+    {
+      "word": "half",
+      "count": 124
+    },
+    {
+      "word": "flour",
+      "count": 124
+    },
+    {
+      "word": "festival",
+      "count": 123
+    },
+    {
+      "word": "none",
+      "count": 122
+    },
+    {
+      "word": "10",
+      "count": 122
+    },
+    {
+      "word": "village",
+      "count": 122
+    },
+    {
+      "word": "fool",
+      "count": 122
+    },
+    {
+      "word": "difficult",
+      "count": 121
+    },
+    {
+      "word": "relative",
+      "count": 121
+    },
+    {
+      "word": "garden",
+      "count": 119
+    },
+    {
+      "word": "honest",
+      "count": 119
+    },
+    {
+      "word": "vision",
+      "count": 119
+    },
+    {
+      "word": "mount",
+      "count": 119
+    },
+    {
+      "word": "explain",
+      "count": 119
+    },
+    {
+      "word": "sound",
+      "count": 118
+    },
+    {
+      "word": "smell",
+      "count": 118
+    },
+    {
+      "word": "reach",
+      "count": 118
+    },
+    {
+      "word": "mark",
+      "count": 118
+    },
+    {
+      "word": "plenty",
+      "count": 117
+    },
+    {
+      "word": "fear",
+      "count": 117
+    },
+    {
+      "word": "reason",
+      "count": 117
+    },
+    {
+      "word": "loud",
+      "count": 117
+    },
+    {
+      "word": "female",
+      "count": 116
+    },
+    {
+      "word": "future",
+      "count": 116
+    },
+    {
+      "word": "wilderness",
+      "count": 115
+    },
+    {
+      "word": "ring",
+      "count": 115
+    },
+    {
+      "word": "righteous",
+      "count": 115
+    },
+    {
+      "word": "fat",
+      "count": 114
+    },
+    {
+      "word": "fell",
+      "count": 114
+    },
+    {
+      "word": "vine",
+      "count": 114
+    },
+    {
+      "word": "few",
+      "count": 114
+    },
+    {
+      "word": "pure",
+      "count": 114
+    },
+    {
+      "word": "suffer",
+      "count": 114
+    },
+    {
+      "word": "wide",
+      "count": 113
+    },
+    {
+      "word": "linen",
+      "count": 113
+    },
+    {
+      "word": "picture",
+      "count": 113
+    },
+    {
+      "word": "seventh",
+      "count": 112
+    },
+    {
+      "word": "grape",
+      "count": 112
+    },
+    {
+      "word": "language",
+      "count": 112
+    },
+    {
+      "word": "low",
+      "count": 112
+    },
+    {
+      "word": "star",
+      "count": 111
+    },
+    {
+      "word": "harvest",
+      "count": 111
+    },
+    {
+      "word": "hot",
+      "count": 111
+    },
+    {
+      "word": "kilogram",
+      "count": 111
+    },
+    {
+      "word": "mouth",
+      "count": 110
+    },
+    {
+      "word": "tear",
+      "count": 110
+    },
+    {
+      "word": "throne",
+      "count": 110
+    },
+    {
+      "word": "messiah",
+      "count": 110
+    },
+    {
+      "word": "list",
+      "count": 109
+    },
+    {
+      "word": "aloud",
+      "count": 109
+    },
+    {
+      "word": "storm",
+      "count": 109
+    },
+    {
+      "word": "sabbath",
+      "count": 109
+    },
+    {
+      "word": "tabernacle",
+      "count": 109
+    },
+    {
+      "word": "coat",
+      "count": 108
+    },
+    {
+      "word": "weigh",
+      "count": 108
+    },
+    {
+      "word": "empty",
+      "count": 107
+    },
+    {
+      "word": "number",
+      "count": 107
+    },
+    {
+      "word": "bowl",
+      "count": 107
+    },
+    {
+      "word": "strongly",
+      "count": 107
+    },
+    {
+      "word": "whatever",
+      "count": 106
+    },
+    {
+      "word": "snake",
+      "count": 106
+    },
+    {
+      "word": "iron",
+      "count": 106
+    },
+    {
+      "word": "20",
+      "count": 106
+    },
+    {
+      "word": "loudly",
+      "count": 106
+    },
+    {
+      "word": "disappear",
+      "count": 106
+    },
+    {
+      "word": "fly",
+      "count": 105
+    },
+    {
+      "word": "horn",
+      "count": 105
+    },
+    {
+      "word": "measure",
+      "count": 105
+    },
+    {
+      "word": "40",
+      "count": 104
+    },
+    {
+      "word": "firstborn",
+      "count": 104
+    },
+    {
+      "word": "foolish",
+      "count": 104
+    },
+    {
+      "word": "50",
+      "count": 103
+    },
+    {
+      "word": "7",
+      "count": 103
+    },
+    {
+      "word": "lover",
+      "count": 103
+    },
+    {
+      "word": "rise",
+      "count": 102
+    },
+    {
+      "word": "circumcise",
+      "count": 101
+    },
+    {
+      "word": "blind",
+      "count": 101
+    },
+    {
+      "word": "5",
+      "count": 101
+    },
+    {
+      "word": "music",
+      "count": 100
+    },
+    {
+      "word": "miracle",
+      "count": 100
+    },
+    {
+      "word": "rob",
+      "count": 100
+    },
+    {
+      "word": "famine",
+      "count": 99
+    },
+    {
+      "word": "image",
+      "count": 99
+    },
+    {
+      "word": "4",
+      "count": 99
+    },
+    {
+      "word": "coin",
+      "count": 98
+    },
+    {
+      "word": "30",
+      "count": 97
+    },
+    {
+      "word": "past",
+      "count": 97
+    },
+    {
+      "word": "proper",
+      "count": 97
+    },
+    {
+      "word": "ride",
+      "count": 97
+    },
+    {
+      "word": "story",
+      "count": 97
+    },
+    {
+      "word": "passover",
+      "count": 97
+    },
+    {
+      "word": "fish",
+      "count": 96
+    },
+    {
+      "word": "wake",
+      "count": 96
+    },
+    {
+      "word": "sir",
+      "count": 96
+    },
+    {
+      "word": "white",
+      "count": 96
+    },
+    {
+      "word": "sick",
+      "count": 96
+    },
+    {
+      "word": "clever",
+      "count": 95
+    },
+    {
+      "word": "sorry",
+      "count": 95
+    },
+    {
+      "word": "six",
+      "count": 95
+    },
+    {
+      "word": "cup",
+      "count": 95
+    },
+    {
+      "word": "joy",
+      "count": 95
+    },
+    {
+      "word": "6",
+      "count": 94
+    },
+    {
+      "word": "question",
+      "count": 94
+    },
+    {
+      "word": "short",
+      "count": 94
+    },
+    {
+      "word": "jewel",
+      "count": 94
+    },
+    {
+      "word": "leg",
+      "count": 93
+    },
+    {
+      "word": "anger",
+      "count": 93
+    },
+    {
+      "word": "street",
+      "count": 93
+    },
+    {
+      "word": "arm",
+      "count": 92
+    },
+    {
+      "word": "argue",
+      "count": 92
+    },
+    {
+      "word": "heavy",
+      "count": 92
+    },
+    {
+      "word": "8",
+      "count": 92
+    },
+    {
+      "word": "table",
+      "count": 91
+    },
+    {
+      "word": "murder",
+      "count": 91
+    },
+    {
+      "word": "purpose",
+      "count": 91
+    },
+    {
+      "word": "grave",
+      "count": 90
+    },
+    {
+      "word": "ill",
+      "count": 89
+    },
+    {
+      "word": "bed",
+      "count": 89
+    },
+    {
+      "word": "vineyard",
+      "count": 89
+    },
+    {
+      "word": "widow",
+      "count": 88
+    },
+    {
+      "word": "secret",
+      "count": 88
+    },
+    {
+      "word": "satan",
+      "count": 88
+    },
+    {
+      "word": "shape",
+      "count": 87
+    },
+    {
+      "word": "cherub",
+      "count": 86
+    },
+    {
+      "word": "camel",
+      "count": 86
+    },
+    {
+      "word": "patient",
+      "count": 86
+    },
+    {
+      "word": "quiet",
+      "count": 85
+    },
+    {
+      "word": "stronger",
+      "count": 84
+    },
+    {
+      "word": "dirt",
+      "count": 84
+    },
+    {
+      "word": "tire",
+      "count": 83
+    },
+    {
+      "word": "baptize",
+      "count": 83
+    },
+    {
+      "word": "share",
+      "count": 82
+    },
+    {
+      "word": "grandson",
+      "count": 82
+    },
+    {
+      "word": "100",
+      "count": 82
+    },
+    {
+      "word": "sweet",
+      "count": 82
+    },
+    {
+      "word": "danger",
+      "count": 81
+    },
+    {
+      "word": "properly",
+      "count": 81
+    },
+    {
+      "word": "boat",
+      "count": 81
+    },
+    {
+      "word": "greater",
+      "count": 80
+    },
+    {
+      "word": "glory",
+      "count": 80
+    },
+    {
+      "word": "15",
+      "count": 79
+    },
+    {
+      "word": "spring",
+      "count": 79
+    },
+    {
+      "word": "problem",
+      "count": 79
+    },
+    {
+      "word": "sharp",
+      "count": 79
+    },
+    {
+      "word": "raise",
+      "count": 79
+    },
+    {
+      "word": "prayer",
+      "count": 79
+    },
+    {
+      "word": "trader",
+      "count": 78
+    },
+    {
+      "word": "hang",
+      "count": 78
+    },
+    {
+      "word": "9",
+      "count": 78
+    },
+    {
+      "word": "bone",
+      "count": 77
+    },
+    {
+      "word": "last",
+      "count": 77
+    },
+    {
+      "word": "shekel",
+      "count": 76
+    },
+    {
+      "word": "flower",
+      "count": 76
+    },
+    {
+      "word": "spear",
+      "count": 76
+    },
+    {
+      "word": "singer",
+      "count": 76
+    },
+    {
+      "word": "bush",
+      "count": 74
+    },
+    {
+      "word": "wing",
+      "count": 74
+    },
+    {
+      "word": "leaf",
+      "count": 73
+    },
+    {
+      "word": "push",
+      "count": 73
+    },
+    {
+      "word": "parent",
+      "count": 73
+    },
+    {
+      "word": "mix",
+      "count": 73
+    },
+    {
+      "word": "faithfully",
+      "count": 73
+    },
+    {
+      "word": "shield",
+      "count": 73
+    },
+    {
+      "word": "early",
+      "count": 72
+    },
+    {
+      "word": "justice",
+      "count": 72
+    },
+    {
+      "word": "sail",
+      "count": 72
+    },
+    {
+      "word": "repair",
+      "count": 72
+    },
+    {
+      "word": "tool",
+      "count": 71
+    },
+    {
+      "word": "roof",
+      "count": 71
+    },
+    {
+      "word": "suddenly",
+      "count": 71
+    },
+    {
+      "word": "truth",
+      "count": 71
+    },
+    {
+      "word": "lamp",
+      "count": 71
+    },
+    {
+      "word": "cedar",
+      "count": 71
+    },
+    {
+      "word": "fig",
+      "count": 70
+    },
+    {
+      "word": "cook",
+      "count": 70
+    },
+    {
+      "word": "shore",
+      "count": 70
+    },
+    {
+      "word": "bag",
+      "count": 70
+    },
+    {
+      "word": "report",
+      "count": 69
+    },
+    {
+      "word": "tower",
+      "count": 69
+    },
+    {
+      "word": "yeast",
+      "count": 69
+    },
+    {
+      "word": "rope",
+      "count": 69
+    },
+    {
+      "word": "forest",
+      "count": 69
+    },
+    {
+      "word": "queen",
+      "count": 69
+    },
+    {
+      "word": "spoil",
+      "count": 68
+    },
+    {
+      "word": "14",
+      "count": 68
+    },
+    {
+      "word": "11",
+      "count": 67
+    },
+    {
+      "word": "others",
+      "count": 67
+    },
+    {
+      "word": "cart",
+      "count": 67
+    },
+    {
+      "word": "ox",
+      "count": 67
+    },
+    {
+      "word": "friendship",
+      "count": 67
+    },
+    {
+      "word": "path",
+      "count": 67
+    },
+    {
+      "word": "tax",
+      "count": 67
+    },
+    {
+      "word": "pregnant",
+      "count": 66
+    },
+    {
+      "word": "dangerous",
+      "count": 66
+    },
+    {
+      "word": "corner",
+      "count": 66
+    },
+    {
+      "word": "fast",
+      "count": 66
+    },
+    {
+      "word": "girl",
+      "count": 65
+    },
+    {
+      "word": "cheat",
+      "count": 65
+    },
+    {
+      "word": "wheat",
+      "count": 65
+    },
+    {
+      "word": "frighten",
+      "count": 65
+    },
+    {
+      "word": "metal",
+      "count": 65
+    },
+    {
+      "word": "often",
+      "count": 65
+    },
+    {
+      "word": "worse",
+      "count": 64
+    },
+    {
+      "word": "party",
+      "count": 64
+    },
+    {
+      "word": "moon",
+      "count": 64
+    },
+    {
+      "word": "skill",
+      "count": 64
+    },
+    {
+      "word": "trap",
+      "count": 64
+    },
+    {
+      "word": "knee",
+      "count": 63
+    },
+    {
+      "word": "lake",
+      "count": 63
+    },
+    {
+      "word": "tomorrow",
+      "count": 63
+    },
+    {
+      "word": "board",
+      "count": 63
+    },
+    {
+      "word": "22",
+      "count": 63
+    },
+    {
+      "word": "corinthian",
+      "count": 63
+    },
+    {
+      "word": "devil",
+      "count": 63
+    },
+    {
+      "word": "cave",
+      "count": 62
+    },
+    {
+      "word": "create",
+      "count": 62
+    },
+    {
+      "word": "root",
+      "count": 62
+    },
+    {
+      "word": "wave",
+      "count": 62
+    },
+    {
+      "word": "juda",
+      "count": 62
+    },
+    {
+      "word": "70",
+      "count": 61
+    },
+    {
+      "word": "certain",
+      "count": 61
+    },
+    {
+      "word": "silly",
+      "count": 61
+    },
+    {
+      "word": "less",
+      "count": 60
+    },
+    {
+      "word": "thorn",
+      "count": 60
+    },
+    {
+      "word": "secretly",
+      "count": 60
+    },
+    {
+      "word": "ear",
+      "count": 60
+    },
+    {
+      "word": "bite",
+      "count": 60
+    },
+    {
+      "word": "either",
+      "count": 60
+    },
+    {
+      "word": "fourth",
+      "count": 59
+    },
+    {
+      "word": "base",
+      "count": 59
+    },
+    {
+      "word": "chain",
+      "count": 58
+    },
+    {
+      "word": "material",
+      "count": 58
+    },
+    {
+      "word": "jar",
+      "count": 57
+    },
+    {
+      "word": "spice",
+      "count": 57
+    },
+    {
+      "word": "16",
+      "count": 57
+    },
+    {
+      "word": "allow",
+      "count": 57
+    },
+    {
+      "word": "neighbour",
+      "count": 57
+    },
+    {
+      "word": "ephod",
+      "count": 57
+    },
+    {
+      "word": "crown",
+      "count": 57
+    },
+    {
+      "word": "royal",
+      "count": 57
+    },
+    {
+      "word": "smoke",
+      "count": 56
+    },
+    {
+      "word": "fee",
+      "count": 56
+    },
+    {
+      "word": "straight",
+      "count": 56
+    },
+    {
+      "word": "shame",
+      "count": 56
+    },
+    {
+      "word": "recognize",
+      "count": 56
+    },
+    {
+      "word": "blue",
+      "count": 56
+    },
+    {
+      "word": "foundation",
+      "count": 56
+    },
+    {
+      "word": "history",
+      "count": 56
+    },
+    {
+      "word": "ash",
+      "count": 55
+    },
+    {
+      "word": "neck",
+      "count": 55
+    },
+    {
+      "word": "foreigner",
+      "count": 55
+    },
+    {
+      "word": "18",
+      "count": 55
+    },
+    {
+      "word": "basket",
+      "count": 54
+    },
+    {
+      "word": "direction",
+      "count": 54
+    },
+    {
+      "word": "belt",
+      "count": 54
+    },
+    {
+      "word": "19",
+      "count": 54
+    },
+    {
+      "word": "advice",
+      "count": 54
+    },
+    {
+      "word": "tenth",
+      "count": 53
+    },
+    {
+      "word": "dust",
+      "count": 53
+    },
+    {
+      "word": "sign",
+      "count": 53
+    },
+    {
+      "word": "dish",
+      "count": 53
+    },
+    {
+      "word": "locust",
+      "count": 53
+    },
+    {
+      "word": "loaf",
+      "count": 53
+    },
+    {
+      "word": "example",
+      "count": 53
+    },
+    {
+      "word": "boast",
+      "count": 53
+    },
+    {
+      "word": "belief",
+      "count": 52
+    },
+    {
+      "word": "harp",
+      "count": 51
+    },
+    {
+      "word": "13",
+      "count": 51
+    },
+    {
+      "word": "jealous",
+      "count": 51
+    },
+    {
+      "word": "control",
+      "count": 51
+    },
+    {
+      "word": "17",
+      "count": 51
+    },
+    {
+      "word": "lightning",
+      "count": 51
+    },
+    {
+      "word": "anywhere",
+      "count": 50
+    },
+    {
+      "word": "wheel",
+      "count": 50
+    },
+    {
+      "word": "eagle",
+      "count": 50
+    },
+    {
+      "word": "plate",
+      "count": 50
+    },
+    {
+      "word": "25",
+      "count": 49
+    },
+    {
+      "word": "200",
+      "count": 49
+    },
+    {
+      "word": "quarrel",
+      "count": 49
+    },
+    {
+      "word": "hurry",
+      "count": 49
+    },
+    {
+      "word": "complain",
+      "count": 49
+    },
+    {
+      "word": "magic",
+      "count": 49
+    },
+    {
+      "word": "truly",
+      "count": 49
+    },
+    {
+      "word": "soil",
+      "count": 48
+    },
+    {
+      "word": "shut",
+      "count": 48
+    },
+    {
+      "word": "milk",
+      "count": 48
+    },
+    {
+      "word": "robber",
+      "count": 48
+    },
+    {
+      "word": "chance",
+      "count": 48
+    },
+    {
+      "word": "purple",
+      "count": 48
+    },
+    {
+      "word": "floor",
+      "count": 47
+    },
+    {
+      "word": "weight",
+      "count": 47
+    },
+    {
+      "word": "bow",
+      "count": 47
+    },
+    {
+      "word": "lend",
+      "count": 47
+    },
+    {
+      "word": "beat",
+      "count": 47
+    },
+    {
+      "word": "prophesy",
+      "count": 47
+    },
+    {
+      "word": "thirsty",
+      "count": 47
+    },
+    {
+      "word": "wet",
+      "count": 46
+    },
+    {
+      "word": "tall",
+      "count": 46
+    },
+    {
+      "word": "worry",
+      "count": 46
+    },
+    {
+      "word": "24",
+      "count": 46
+    },
+    {
+      "word": "debt",
+      "count": 46
+    },
+    {
+      "word": "flood",
+      "count": 46
+    },
+    {
+      "word": "lay",
+      "count": 45
+    },
+    {
+      "word": "confuse",
+      "count": 45
+    },
+    {
+      "word": "stranger",
+      "count": 45
+    },
+    {
+      "word": "price",
+      "count": 45
+    },
+    {
+      "word": "step",
+      "count": 45
+    },
+    {
+      "word": "plan",
+      "count": 45
+    },
+    {
+      "word": "record",
+      "count": 45
+    },
+    {
+      "word": "fail",
+      "count": 45
+    },
+    {
+      "word": "study",
+      "count": 45
+    },
+    {
+      "word": "shoulder",
+      "count": 44
+    },
+    {
+      "word": "visitor",
+      "count": 44
+    },
+    {
+      "word": "humble",
+      "count": 44
+    },
+    {
+      "word": "dear",
+      "count": 44
+    },
+    {
+      "word": "centimetre",
+      "count": 43
+    },
+    {
+      "word": "dawn",
+      "count": 43
+    },
+    {
+      "word": "week",
+      "count": 43
+    },
+    {
+      "word": "fifth",
+      "count": 43
+    },
+    {
+      "word": "thin",
+      "count": 43
+    },
+    {
+      "word": "thunder",
+      "count": 43
+    },
+    {
+      "word": "moment",
+      "count": 43
+    },
+    {
+      "word": "faith",
+      "count": 43
+    },
+    {
+      "word": "500",
+      "count": 42
+    },
+    {
+      "word": "famous",
+      "count": 42
+    },
+    {
+      "word": "sand",
+      "count": 42
+    },
+    {
+      "word": "wool",
+      "count": 42
+    },
+    {
+      "word": "breath",
+      "count": 42
+    },
+    {
+      "word": "barley",
+      "count": 42
+    },
+    {
+      "word": "test",
+      "count": 42
+    },
+    {
+      "word": "court",
+      "count": 42
+    },
+    {
+      "word": "23",
+      "count": 42
+    },
+    {
+      "word": "easily",
+      "count": 42
+    },
+    {
+      "word": "ordinary",
+      "count": 42
+    },
+    {
+      "word": "air",
+      "count": 41
+    },
+    {
+      "word": "300",
+      "count": 41
+    },
+    {
+      "word": "window",
+      "count": 41
+    },
+    {
+      "word": "knife",
+      "count": 41
+    },
+    {
+      "word": "felt",
+      "count": 41
+    },
+    {
+      "word": "except",
+      "count": 41
+    },
+    {
+      "word": "finger",
+      "count": 41
+    },
+    {
+      "word": "33",
+      "count": 41
+    },
+    {
+      "word": "nearly",
+      "count": 41
+    },
+    {
+      "word": "sailor",
+      "count": 41
+    },
+    {
+      "word": "salt",
+      "count": 40
+    },
+    {
+      "word": "discover",
+      "count": 40
+    },
+    {
+      "word": "mule",
+      "count": 40
+    },
+    {
+      "word": "32",
+      "count": 39
+    },
+    {
+      "word": "younger",
+      "count": 39
+    },
+    {
+      "word": "kiss",
+      "count": 39
+    },
+    {
+      "word": "hut",
+      "count": 39
+    },
+    {
+      "word": "whoever",
+      "count": 39
+    },
+    {
+      "word": "pool",
+      "count": 39
+    },
+    {
+      "word": "illness",
+      "count": 39
+    },
+    {
+      "word": "clear",
+      "count": 39
+    },
+    {
+      "word": "nice",
+      "count": 38
+    },
+    {
+      "word": "mistake",
+      "count": 38
+    },
+    {
+      "word": "teeth",
+      "count": 38
+    },
+    {
+      "word": "litre",
+      "count": 38
+    },
+    {
+      "word": "copy",
+      "count": 38
+    },
+    {
+      "word": "size",
+      "count": 38
+    },
+    {
+      "word": "bar",
+      "count": 38
+    },
+    {
+      "word": "coast",
+      "count": 38
+    },
+    {
+      "word": "helpless",
+      "count": 38
+    },
+    {
+      "word": "expensive",
+      "count": 38
+    },
+    {
+      "word": "pass",
+      "count": 37
+    },
+    {
+      "word": "shoe",
+      "count": 37
+    },
+    {
+      "word": "400",
+      "count": 37
+    },
+    {
+      "word": "strange",
+      "count": 37
+    },
+    {
+      "word": "palm",
+      "count": 37
+    },
+    {
+      "word": "murderer",
+      "count": 37
+    },
+    {
+      "word": "perfect",
+      "count": 37
+    },
+    {
+      "word": "advisor",
+      "count": 37
+    },
+    {
+      "word": "verse",
+      "count": 37
+    },
+    {
+      "word": "eight",
+      "count": 36
+    },
+    {
+      "word": "honey",
+      "count": 36
+    },
+    {
+      "word": "lazy",
+      "count": 36
+    },
+    {
+      "word": "jump",
+      "count": 36
+    },
+    {
+      "word": "dance",
+      "count": 36
+    },
+    {
+      "word": "value",
+      "count": 36
+    },
+    {
+      "word": "warm",
+      "count": 36
+    },
+    {
+      "word": "lampstand",
+      "count": 36
+    },
+    {
+      "word": "row",
+      "count": 36
+    },
+    {
+      "word": "brightly",
+      "count": 36
+    },
+    {
+      "word": "seal",
+      "count": 36
+    },
+    {
+      "word": "nose",
+      "count": 35
+    },
+    {
+      "word": "bigger",
+      "count": 35
+    },
+    {
+      "word": "string",
+      "count": 35
+    },
+    {
+      "word": "worth",
+      "count": 35
+    },
+    {
+      "word": "deer",
+      "count": 35
+    },
+    {
+      "word": "climb",
+      "count": 35
+    },
+    {
+      "word": "accuse",
+      "count": 35
+    },
+    {
+      "word": "leather",
+      "count": 35
+    },
+    {
+      "word": "net",
+      "count": 35
+    },
+    {
+      "word": "stomach",
+      "count": 35
+    },
+    {
+      "word": "clay",
+      "count": 35
+    },
+    {
+      "word": "island",
+      "count": 35
+    },
+    {
+      "word": "crazy",
+      "count": 35
+    },
+    {
+      "word": "funeral",
+      "count": 35
+    },
+    {
+      "word": "ought",
+      "count": 35
+    },
+    {
+      "word": "twice",
+      "count": 34
+    },
+    {
+      "word": "hail",
+      "count": 34
+    },
+    {
+      "word": "dog",
+      "count": 34
+    },
+    {
+      "word": "point",
+      "count": 34
+    },
+    {
+      "word": "lid",
+      "count": 34
+    },
+    {
+      "word": "bottom",
+      "count": 34
+    },
+    {
+      "word": "atonement",
+      "count": 34
+    },
+    {
+      "word": "21",
+      "count": 34
+    },
+    {
+      "word": "stupid",
+      "count": 34
+    },
+    {
+      "word": "possible",
+      "count": 34
+    },
+    {
+      "word": "knowledge",
+      "count": 33
+    },
+    {
+      "word": "close",
+      "count": 33
+    },
+    {
+      "word": "guide",
+      "count": 33
+    },
+    {
+      "word": "quietly",
+      "count": 33
+    },
+    {
+      "word": "bitter",
+      "count": 33
+    },
+    {
+      "word": "pleasure",
+      "count": 33
+    },
+    {
+      "word": "matter",
+      "count": 33
+    },
+    {
+      "word": "provide",
+      "count": 33
+    },
+    {
+      "word": "bit",
+      "count": 33
+    },
+    {
+      "word": "play",
+      "count": 33
+    },
+    {
+      "word": "31",
+      "count": 33
+    },
+    {
+      "word": "kilometre",
+      "count": 33
+    },
+    {
+      "word": "600",
+      "count": 32
+    },
+    {
+      "word": "magician",
+      "count": 32
+    },
+    {
+      "word": "almost",
+      "count": 32
+    },
+    {
+      "word": "thousand",
+      "count": 32
+    },
+    {
+      "word": "taste",
+      "count": 32
+    },
+    {
+      "word": "plough",
+      "count": 32
+    },
+    {
+      "word": "paper",
+      "count": 32
+    },
+    {
+      "word": "proverb",
+      "count": 32
+    },
+    {
+      "word": "serious",
+      "count": 31
+    },
+    {
+      "word": "amount",
+      "count": 31
+    },
+    {
+      "word": "calf",
+      "count": 31
+    },
+    {
+      "word": "dove",
+      "count": 31
+    },
+    {
+      "word": "psalm",
+      "count": 31
+    },
+    {
+      "word": "black",
+      "count": 30
+    },
+    {
+      "word": "seat",
+      "count": 30
+    },
+    {
+      "word": "rid",
+      "count": 30
+    },
+    {
+      "word": "straw",
+      "count": 30
+    },
+    {
+      "word": "bribe",
+      "count": 30
+    },
+    {
+      "word": "acacia",
+      "count": 30
+    },
+    {
+      "word": "peg",
+      "count": 30
+    },
+    {
+      "word": "tithe",
+      "count": 30
+    },
+    {
+      "word": "shadow",
+      "count": 30
+    },
+    {
+      "word": "redeemer",
+      "count": 30
+    },
+    {
+      "word": "nature",
+      "count": 30
+    },
+    {
+      "word": "farm",
+      "count": 29
+    },
+    {
+      "word": "fresh",
+      "count": 29
+    },
+    {
+      "word": "breast",
+      "count": 29
+    },
+    {
+      "word": "line",
+      "count": 29
+    },
+    {
+      "word": "extra",
+      "count": 29
+    },
+    {
+      "word": "complete",
+      "count": 29
+    },
+    {
+      "word": "flag",
+      "count": 29
+    },
+    {
+      "word": "heart",
+      "count": 29
+    },
+    {
+      "word": "pig",
+      "count": 29
+    },
+    {
+      "word": "poison",
+      "count": 29
+    },
+    {
+      "word": "weed",
+      "count": 29
+    },
+    {
+      "word": "dirty",
+      "count": 29
+    },
+    {
+      "word": "thresh",
+      "count": 28
+    },
+    {
+      "word": "robe",
+      "count": 28
+    },
+    {
+      "word": "hammer",
+      "count": 28
+    },
+    {
+      "word": "wooden",
+      "count": 28
+    },
+    {
+      "word": "27",
+      "count": 28
+    },
+    {
+      "word": "pomegranate",
+      "count": 28
+    },
+    {
+      "word": "shirt",
+      "count": 28
+    },
+    {
+      "word": "asleep",
+      "count": 28
+    },
+    {
+      "word": "flame",
+      "count": 28
+    },
+    {
+      "word": "beam",
+      "count": 28
+    },
+    {
+      "word": "whip",
+      "count": 28
+    },
+    {
+      "word": "unite",
+      "count": 28
+    },
+    {
+      "word": "green",
+      "count": 27
+    },
+    {
+      "word": "youngest",
+      "count": 27
+    },
+    {
+      "word": "60",
+      "count": 27
+    },
+    {
+      "word": "marriage",
+      "count": 27
+    },
+    {
+      "word": "grandchild",
+      "count": 27
+    },
+    {
+      "word": "contain",
+      "count": 27
+    },
+    {
+      "word": "snow",
+      "count": 27
+    },
+    {
+      "word": "boil",
+      "count": 27
+    },
+    {
+      "word": "perfume",
+      "count": 27
+    },
+    {
+      "word": "secretary",
+      "count": 27
+    },
+    {
+      "word": "wound",
+      "count": 27
+    },
+    {
+      "word": "stamp",
+      "count": 27
+    },
+    {
+      "word": "hour",
+      "count": 27
+    },
+    {
+      "word": "breathe",
+      "count": 26
+    },
+    {
+      "word": "oldest",
+      "count": 26
+    },
+    {
+      "word": "myrrh",
+      "count": 26
+    },
+    {
+      "word": "hook",
+      "count": 26
+    },
+    {
+      "word": "serf",
+      "count": 26
+    },
+    {
+      "word": "bleed",
+      "count": 26
+    },
+    {
+      "word": "drop",
+      "count": 26
+    },
+    {
+      "word": "jubilee",
+      "count": 26
+    },
+    {
+      "word": "musician",
+      "count": 26
+    },
+    {
+      "word": "space",
+      "count": 25
+    },
+    {
+      "word": "sixth",
+      "count": 25
+    },
+    {
+      "word": "handsome",
+      "count": 25
+    },
+    {
+      "word": "splash",
+      "count": 25
+    },
+    {
+      "word": "42",
+      "count": 25
+    },
+    {
+      "word": "healthy",
+      "count": 25
+    },
+    {
+      "word": "nebat",
+      "count": 25
+    },
+    {
+      "word": "dragon",
+      "count": 25
+    },
+    {
+      "word": "opposite",
+      "count": 24
+    },
+    {
+      "word": "rider",
+      "count": 24
+    },
+    {
+      "word": "pas",
+      "count": 24
+    },
+    {
+      "word": "cake",
+      "count": 24
+    },
+    {
+      "word": "armour",
+      "count": 24
+    },
+    {
+      "word": "roar",
+      "count": 24
+    },
+    {
+      "word": "difference",
+      "count": 23
+    },
+    {
+      "word": "worm",
+      "count": 23
+    },
+    {
+      "word": "eighth",
+      "count": 23
+    },
+    {
+      "word": "ostrich",
+      "count": 23
+    },
+    {
+      "word": "probably",
+      "count": 23
+    },
+    {
+      "word": "hypocrite",
+      "count": 23
+    },
+    {
+      "word": "pair",
+      "count": 22
+    },
+    {
+      "word": "tail",
+      "count": 22
+    },
+    {
+      "word": "argument",
+      "count": 22
+    },
+    {
+      "word": "square",
+      "count": 22
+    },
+    {
+      "word": "breastpiece",
+      "count": 22
+    },
+    {
+      "word": "38",
+      "count": 22
+    },
+    {
+      "word": "expect",
+      "count": 22
+    },
+    {
+      "word": "forward",
+      "count": 22
+    },
+    {
+      "word": "28",
+      "count": 22
+    },
+    {
+      "word": "level",
+      "count": 22
+    },
+    {
+      "word": "statue",
+      "count": 22
+    },
+    {
+      "word": "summer",
+      "count": 22
+    },
+    {
+      "word": "monster",
+      "count": 22
+    },
+    {
+      "word": "patiently",
+      "count": 22
+    },
+    {
+      "word": "winter",
+      "count": 22
+    },
+    {
+      "word": "dive",
+      "count": 21
+    },
+    {
+      "word": "34",
+      "count": 21
+    },
+    {
+      "word": "though",
+      "count": 21
+    },
+    {
+      "word": "colour",
+      "count": 21
+    },
+    {
+      "word": "protect",
+      "count": 21
+    },
+    {
+      "word": "drive",
+      "count": 21
+    },
+    {
+      "word": "lower",
+      "count": 21
+    },
+    {
+      "word": "highest",
+      "count": 21
+    },
+    {
+      "word": "demon",
+      "count": 21
+    },
+    {
+      "word": "exile",
+      "count": 21
+    },
+    {
+      "word": "greatest",
+      "count": 21
+    },
+    {
+      "word": "mat",
+      "count": 21
+    },
+    {
+      "word": "lovely",
+      "count": 21
+    },
+    {
+      "word": "sadducee",
+      "count": 21
+    },
+    {
+      "word": "spiritual",
+      "count": 21
+    },
+    {
+      "word": "brick",
+      "count": 20
+    },
+    {
+      "word": "coal",
+      "count": 20
+    },
+    {
+      "word": "least",
+      "count": 20
+    },
+    {
+      "word": "medicine",
+      "count": 20
+    },
+    {
+      "word": "tambourine",
+      "count": 20
+    },
+    {
+      "word": "feed",
+      "count": 20
+    },
+    {
+      "word": "insect",
+      "count": 20
+    },
+    {
+      "word": "mildew",
+      "count": 20
+    },
+    {
+      "word": "mend",
+      "count": 20
+    },
+    {
+      "word": "explore",
+      "count": 20
+    },
+    {
+      "word": "ish",
+      "count": 20
+    },
+    {
+      "word": "bosheth",
+      "count": 20
+    },
+    {
+      "word": "supply",
+      "count": 20
+    },
+    {
+      "word": "hall",
+      "count": 20
+    },
+    {
+      "word": "successful",
+      "count": 20
+    },
+    {
+      "word": "45",
+      "count": 19
+    },
+    {
+      "word": "29",
+      "count": 19
+    },
+    {
+      "word": "bake",
+      "count": 19
+    },
+    {
+      "word": "happily",
+      "count": 19
+    },
+    {
+      "word": "oven",
+      "count": 19
+    },
+    {
+      "word": "manna",
+      "count": 19
+    },
+    {
+      "word": "single",
+      "count": 19
+    },
+    {
+      "word": "regular",
+      "count": 19
+    },
+    {
+      "word": "anoint",
+      "count": 19
+    },
+    {
+      "word": "39",
+      "count": 19
+    },
+    {
+      "word": "easy",
+      "count": 19
+    },
+    {
+      "word": "lyre",
+      "count": 19
+    },
+    {
+      "word": "cost",
+      "count": 19
+    },
+    {
+      "word": "rough",
+      "count": 19
+    },
+    {
+      "word": "capital",
+      "count": 19
+    },
+    {
+      "word": "ice",
+      "count": 19
+    },
+    {
+      "word": "lesson",
+      "count": 19
+    },
+    {
+      "word": "cockerel",
+      "count": 19
+    },
+    {
+      "word": "apollo",
+      "count": 19
+    },
+    {
+      "word": "14th",
+      "count": 18
+    },
+    {
+      "word": "cold",
+      "count": 18
+    },
+    {
+      "word": "strongest",
+      "count": 18
+    },
+    {
+      "word": "load",
+      "count": 18
+    },
+    {
+      "word": "deaf",
+      "count": 18
+    },
+    {
+      "word": "yoke",
+      "count": 18
+    },
+    {
+      "word": "act",
+      "count": 18
+    },
+    {
+      "word": "government",
+      "count": 18
+    },
+    {
+      "word": "245",
+      "count": 18
+    },
+    {
+      "word": "12½",
+      "count": 18
+    },
+    {
+      "word": "130",
+      "count": 17
+    },
+    {
+      "word": "owner",
+      "count": 17
+    },
+    {
+      "word": "busy",
+      "count": 17
+    },
+    {
+      "word": "bucket",
+      "count": 17
+    },
+    {
+      "word": "dew",
+      "count": 17
+    },
+    {
+      "word": "dung",
+      "count": 17
+    },
+    {
+      "word": "fox",
+      "count": 17
+    },
+    {
+      "word": "lip",
+      "count": 17
+    },
+    {
+      "word": "wiser",
+      "count": 17
+    },
+    {
+      "word": "ban",
+      "count": 17
+    },
+    {
+      "word": "necessary",
+      "count": 17
+    },
+    {
+      "word": "game",
+      "count": 17
+    },
+    {
+      "word": "mud",
+      "count": 17
+    },
+    {
+      "word": "wonderful",
+      "count": 17
+    },
+    {
+      "word": "bride",
+      "count": 17
+    },
+    {
+      "word": "passage",
+      "count": 17
+    },
+    {
+      "word": "impossible",
+      "count": 17
+    },
+    {
+      "word": "hell",
+      "count": 17
+    },
+    {
+      "word": "flute",
+      "count": 16
+    },
+    {
+      "word": "80",
+      "count": 16
+    },
+    {
+      "word": "15th",
+      "count": 16
+    },
+    {
+      "word": "draw",
+      "count": 16
+    },
+    {
+      "word": "necklace",
+      "count": 16
+    },
+    {
+      "word": "neither",
+      "count": 16
+    },
+    {
+      "word": "41",
+      "count": 16
+    },
+    {
+      "word": "250",
+      "count": 16
+    },
+    {
+      "word": "36",
+      "count": 16
+    },
+    {
+      "word": "killer",
+      "count": 16
+    },
+    {
+      "word": "darkness",
+      "count": 16
+    },
+    {
+      "word": "nest",
+      "count": 16
+    },
+    {
+      "word": "midday",
+      "count": 16
+    },
+    {
+      "word": "pretend",
+      "count": 16
+    },
+    {
+      "word": "2½",
+      "count": 16
+    },
+    {
+      "word": "cymbal",
+      "count": 16
+    },
+    {
+      "word": "ton",
+      "count": 16
+    },
+    {
+      "word": "12th",
+      "count": 16
+    },
+    {
+      "word": "eunuch",
+      "count": 16
+    },
+    {
+      "word": "gazelle",
+      "count": 16
+    },
+    {
+      "word": "righteousness",
+      "count": 16
+    },
+    {
+      "word": "51",
+      "count": 16
+    },
+    {
+      "word": "thessalonian",
+      "count": 16
+    },
+    {
+      "word": "generation",
+      "count": 15
+    },
+    {
+      "word": "public",
+      "count": 15
+    },
+    {
+      "word": "bottle",
+      "count": 15
+    },
+    {
+      "word": "health",
+      "count": 15
+    },
+    {
+      "word": "nearer",
+      "count": 15
+    },
+    {
+      "word": "usual",
+      "count": 15
+    },
+    {
+      "word": "paint",
+      "count": 15
+    },
+    {
+      "word": "frog",
+      "count": 15
+    },
+    {
+      "word": "add",
+      "count": 15
+    },
+    {
+      "word": "scale",
+      "count": 15
+    },
+    {
+      "word": "vulture",
+      "count": 15
+    },
+    {
+      "word": "smaller",
+      "count": 15
+    },
+    {
+      "word": "ninth",
+      "count": 15
+    },
+    {
+      "word": "700",
+      "count": 15
+    },
+    {
+      "word": "usually",
+      "count": 15
+    },
+    {
+      "word": "swim",
+      "count": 15
+    },
+    {
+      "word": "axe",
+      "count": 15
+    },
+    {
+      "word": "tongue",
+      "count": 15
+    },
+    {
+      "word": "several",
+      "count": 15
+    },
+    {
+      "word": "bedroom",
+      "count": 15
+    },
+    {
+      "word": "traveller",
+      "count": 14
+    },
+    {
+      "word": "120",
+      "count": 14
+    },
+    {
+      "word": "35",
+      "count": 14
+    },
+    {
+      "word": "shade",
+      "count": 14
+    },
+    {
+      "word": "somewhere",
+      "count": 14
+    },
+    {
+      "word": "slowly",
+      "count": 14
+    },
+    {
+      "word": "beard",
+      "count": 14
+    },
+    {
+      "word": "drown",
+      "count": 14
+    },
+    {
+      "word": "sunset",
+      "count": 14
+    },
+    {
+      "word": "liver",
+      "count": 14
+    },
+    {
+      "word": "toe",
+      "count": 14
+    },
+    {
+      "word": "cousin",
+      "count": 14
+    },
+    {
+      "word": "lowest",
+      "count": 14
+    },
+    {
+      "word": "46",
+      "count": 14
+    },
+    {
+      "word": "lampstands",
+      "count": 14
+    },
+    {
+      "word": "smile",
+      "count": 14
+    },
+    {
+      "word": "26",
+      "count": 14
+    },
+    {
+      "word": "337",
+      "count": 14
+    },
+    {
+      "word": "upstairs",
+      "count": 14
+    },
+    {
+      "word": "pine",
+      "count": 14
+    },
+    {
+      "word": "ivory",
+      "count": 14
+    },
+    {
+      "word": "medium",
+      "count": 14
+    },
+    {
+      "word": "earlier",
+      "count": 14
+    },
+    {
+      "word": "police",
+      "count": 14
+    },
+    {
+      "word": "baptism",
+      "count": 14
+    },
+    {
+      "word": "rib",
+      "count": 13
+    },
+    {
+      "word": "raven",
+      "count": 13
+    },
+    {
+      "word": "75",
+      "count": 13
+    },
+    {
+      "word": "sulphur",
+      "count": 13
+    },
+    {
+      "word": "rather",
+      "count": 13
+    },
+    {
+      "word": "check",
+      "count": 13
+    },
+    {
+      "word": "narrow",
+      "count": 13
+    },
+    {
+      "word": "seriously",
+      "count": 13
+    },
+    {
+      "word": "52",
+      "count": 13
+    },
+    {
+      "word": "360",
+      "count": 13
+    },
+    {
+      "word": "bare",
+      "count": 13
+    },
+    {
+      "word": "lily",
+      "count": 13
+    },
+    {
+      "word": "bath",
+      "count": 13
+    },
+    {
+      "word": "builder",
+      "count": 13
+    },
+    {
+      "word": "37",
+      "count": 13
+    },
+    {
+      "word": "universe",
+      "count": 13
+    },
+    {
+      "word": "dice",
+      "count": 13
+    },
+    {
+      "word": "awake",
+      "count": 13
+    },
+    {
+      "word": "race",
+      "count": 13
+    },
+    {
+      "word": "wineskin",
+      "count": 13
+    },
+    {
+      "word": "fighter",
+      "count": 12
+    },
+    {
+      "word": "uncle",
+      "count": 12
+    },
+    {
+      "word": "scream",
+      "count": 12
+    },
+    {
+      "word": "cupbearer",
+      "count": 12
+    },
+    {
+      "word": "reed",
+      "count": 12
+    },
+    {
+      "word": "sweep",
+      "count": 12
+    },
+    {
+      "word": "tooth",
+      "count": 12
+    },
+    {
+      "word": "sapphire",
+      "count": 12
+    },
+    {
+      "word": "shin",
+      "count": 12
+    },
+    {
+      "word": "guilt",
+      "count": 12
+    },
+    {
+      "word": "nine",
+      "count": 12
+    },
+    {
+      "word": "hazar",
+      "count": 12
+    },
+    {
+      "word": "11th",
+      "count": 12
+    },
+    {
+      "word": "roll",
+      "count": 12
+    },
+    {
+      "word": "skull",
+      "count": 12
+    },
+    {
+      "word": "fairly",
+      "count": 12
+    },
+    {
+      "word": "suggest",
+      "count": 12
+    },
+    {
+      "word": "remaliah",
+      "count": 12
+    },
+    {
+      "word": "736",
+      "count": 12
+    },
+    {
+      "word": "67",
+      "count": 12
+    },
+    {
+      "word": "435",
+      "count": 12
+    },
+    {
+      "word": "720",
+      "count": 12
+    },
+    {
+      "word": "170",
+      "count": 12
+    },
+    {
+      "word": "event",
+      "count": 12
+    },
+    {
+      "word": "maker",
+      "count": 12
+    },
+    {
+      "word": "faster",
+      "count": 12
+    },
+    {
+      "word": "violence",
+      "count": 12
+    },
+    {
+      "word": "adulteress",
+      "count": 12
+    },
+    {
+      "word": "proudly",
+      "count": 12
+    },
+    {
+      "word": "potter",
+      "count": 12
+    },
+    {
+      "word": "real",
+      "count": 12
+    },
+    {
+      "word": "oclock",
+      "count": 12
+    },
+    {
+      "word": "65",
+      "count": 11
+    },
+    {
+      "word": "hunter",
+      "count": 11
+    },
+    {
+      "word": "pigeon",
+      "count": 11
+    },
+    {
+      "word": "soup",
+      "count": 11
+    },
+    {
+      "word": "noon",
+      "count": 11
+    },
+    {
+      "word": "easier",
+      "count": 11
+    },
+    {
+      "word": "kidney",
+      "count": 11
+    },
+    {
+      "word": "exactly",
+      "count": 11
+    },
+    {
+      "word": "atone",
+      "count": 11
+    },
+    {
+      "word": "bravely",
+      "count": 11
+    },
+    {
+      "word": "butter",
+      "count": 11
+    },
+    {
+      "word": "sling",
+      "count": 11
+    },
+    {
+      "word": "greedy",
+      "count": 11
+    },
+    {
+      "word": "violent",
+      "count": 11
+    },
+    {
+      "word": "earthquake",
+      "count": 11
+    },
+    {
+      "word": "instrument",
+      "count": 11
+    },
+    {
+      "word": "success",
+      "count": 11
+    },
+    {
+      "word": "chaff",
+      "count": 11
+    },
+    {
+      "word": "waste",
+      "count": 11
+    },
+    {
+      "word": "brighter",
+      "count": 10
+    },
+    {
+      "word": "correct",
+      "count": 10
+    },
+    {
+      "word": "luggage",
+      "count": 10
+    },
+    {
+      "word": "mandrake",
+      "count": 10
+    },
+    {
+      "word": "hyssop",
+      "count": 10
+    },
+    {
+      "word": "pocket",
+      "count": 10
+    },
+    {
+      "word": "bell",
+      "count": 10
+    },
+    {
+      "word": "badger",
+      "count": 10
+    },
+    {
+      "word": "vegetable",
+      "count": 10
+    },
+    {
+      "word": "larger",
+      "count": 10
+    },
+    {
+      "word": "egg",
+      "count": 10
+    },
+    {
+      "word": "weaker",
+      "count": 10
+    },
+    {
+      "word": "lo",
+      "count": 10
+    },
+    {
+      "word": "musical",
+      "count": 10
+    },
+    {
+      "word": "pokereth",
+      "count": 10
+    },
+    {
+      "word": "hazzebaim",
+      "count": 10
+    },
+    {
+      "word": "392",
+      "count": 10
+    },
+    {
+      "word": "prince",
+      "count": 10
+    },
+    {
+      "word": "disappoint",
+      "count": 10
+    },
+    {
+      "word": "weather",
+      "count": 10
+    },
+    {
+      "word": "painful",
+      "count": 10
+    },
+    {
+      "word": "leopard",
+      "count": 10
+    },
+    {
+      "word": "soul",
+      "count": 10
+    },
+    {
+      "word": "cypress",
+      "count": 9
+    },
+    {
+      "word": "unable",
+      "count": 9
+    },
+    {
+      "word": "heat",
+      "count": 9
+    },
+    {
+      "word": "comfortable",
+      "count": 9
+    },
+    {
+      "word": "louder",
+      "count": 9
+    },
+    {
+      "word": "stair",
+      "count": 9
+    },
+    {
+      "word": "guarantee",
+      "count": 9
+    },
+    {
+      "word": "fork",
+      "count": 9
+    },
+    {
+      "word": "alcohol",
+      "count": 9
+    },
+    {
+      "word": "spit",
+      "count": 9
+    },
+    {
+      "word": "raisin",
+      "count": 9
+    },
+    {
+      "word": "spat",
+      "count": 9
+    },
+    {
+      "word": "barnea",
+      "count": 9
+    },
+    {
+      "word": "48",
+      "count": 9
+    },
+    {
+      "word": "diviner",
+      "count": 9
+    },
+    {
+      "word": "key",
+      "count": 9
+    },
+    {
+      "word": "winepress",
+      "count": 9
+    },
+    {
+      "word": "afternoon",
+      "count": 9
+    },
+    {
+      "word": "seer",
+      "count": 9
+    },
+    {
+      "word": "bravest",
+      "count": 9
+    },
+    {
+      "word": "citizen",
+      "count": 9
+    },
+    {
+      "word": "deliver",
+      "count": 9
+    },
+    {
+      "word": "rush",
+      "count": 9
+    },
+    {
+      "word": "glass",
+      "count": 9
+    },
+    {
+      "word": "final",
+      "count": 9
+    },
+    {
+      "word": "hyena",
+      "count": 9
+    },
+    {
+      "word": "prize",
+      "count": 9
+    },
+    {
+      "word": "salty",
+      "count": 9
+    },
+    {
+      "word": "age",
+      "count": 8
+    },
+    {
+      "word": "grandfather",
+      "count": 8
+    },
+    {
+      "word": "loss",
+      "count": 8
+    },
+    {
+      "word": "baker",
+      "count": 8
+    },
+    {
+      "word": "equal",
+      "count": 8
+    },
+    {
+      "word": "wolf",
+      "count": 8
+    },
+    {
+      "word": "biscuit",
+      "count": 8
+    },
+    {
+      "word": "thumb",
+      "count": 8
+    },
+    {
+      "word": "mirror",
+      "count": 8
+    },
+    {
+      "word": "jasper",
+      "count": 8
+    },
+    {
+      "word": "hawk",
+      "count": 8
+    },
+    {
+      "word": "lizard",
+      "count": 8
+    },
+    {
+      "word": "450",
+      "count": 8
+    },
+    {
+      "word": "53",
+      "count": 8
+    },
+    {
+      "word": "scorpion",
+      "count": 8
+    },
+    {
+      "word": "duty",
+      "count": 8
+    },
+    {
+      "word": "tumour",
+      "count": 8
+    },
+    {
+      "word": "divide",
+      "count": 8
+    },
+    {
+      "word": "area",
+      "count": 8
+    },
+    {
+      "word": "happier",
+      "count": 8
+    },
+    {
+      "word": "blanket",
+      "count": 8
+    },
+    {
+      "word": "honestly",
+      "count": 8
+    },
+    {
+      "word": "notice",
+      "count": 8
+    },
+    {
+      "word": "carpenter",
+      "count": 8
+    },
+    {
+      "word": "nail",
+      "count": 8
+    },
+    {
+      "word": "harem",
+      "count": 8
+    },
+    {
+      "word": "runner",
+      "count": 8
+    },
+    {
+      "word": "soap",
+      "count": 8
+    },
+    {
+      "word": "ant",
+      "count": 8
+    },
+    {
+      "word": "redeem",
+      "count": 8
+    },
+    {
+      "word": "kareah",
+      "count": 8
+    },
+    {
+      "word": "thebe",
+      "count": 8
+    },
+    {
+      "word": "800",
+      "count": 7
+    },
+    {
+      "word": "rainbow",
+      "count": 7
+    },
+    {
+      "word": "smallest",
+      "count": 7
+    },
+    {
+      "word": "granddaughter",
+      "count": 7
+    },
+    {
+      "word": "hip",
+      "count": 7
+    },
+    {
+      "word": "180",
+      "count": 7
+    },
+    {
+      "word": "semen",
+      "count": 7
+    },
+    {
+      "word": "mighty",
+      "count": 7
+    },
+    {
+      "word": "blessing",
+      "count": 7
+    },
+    {
+      "word": "melt",
+      "count": 7
+    },
+    {
+      "word": "repeat",
+      "count": 7
+    },
+    {
+      "word": "demand",
+      "count": 7
+    },
+    {
+      "word": "sunrise",
+      "count": 7
+    },
+    {
+      "word": "centre",
+      "count": 7
+    },
+    {
+      "word": "spade",
+      "count": 7
+    },
+    {
+      "word": "gram",
+      "count": 7
+    },
+    {
+      "word": "grasshopper",
+      "count": 7
+    },
+    {
+      "word": "pu",
+      "count": 7
+    },
+    {
+      "word": "74",
+      "count": 7
+    },
+    {
+      "word": "lebo",
+      "count": 7
+    },
+    {
+      "word": "ezion",
+      "count": 7
+    },
+    {
+      "word": "handle",
+      "count": 7
+    },
+    {
+      "word": "post",
+      "count": 7
+    },
+    {
+      "word": "ram",
+      "count": 7
+    },
+    {
+      "word": "ax",
+      "count": 7
+    },
+    {
+      "word": "holiday",
+      "count": 7
+    },
+    {
+      "word": "sore",
+      "count": 7
+    },
+    {
+      "word": "personal",
+      "count": 7
+    },
+    {
+      "word": "student",
+      "count": 7
+    },
+    {
+      "word": "652",
+      "count": 7
+    },
+    {
+      "word": "pahath",
+      "count": 7
+    },
+    {
+      "word": "fountain",
+      "count": 7
+    },
+    {
+      "word": "nowhere",
+      "count": 7
+    },
+    {
+      "word": "sinner",
+      "count": 7
+    },
+    {
+      "word": "leech",
+      "count": 7
+    },
+    {
+      "word": "walnut",
+      "count": 7
+    },
+    {
+      "word": "spend",
+      "count": 7
+    },
+    {
+      "word": "sink",
+      "count": 7
+    },
+    {
+      "word": "enchanter",
+      "count": 7
+    },
+    {
+      "word": "supper",
+      "count": 7
+    },
+    {
+      "word": "pearl",
+      "count": 7
+    },
+    {
+      "word": "season",
+      "count": 6
+    },
+    {
+      "word": "tar",
+      "count": 6
+    },
+    {
+      "word": "150",
+      "count": 6
+    },
+    {
+      "word": "quick",
+      "count": 6
+    },
+    {
+      "word": "fewer",
+      "count": 6
+    },
+    {
+      "word": "nurse",
+      "count": 6
+    },
+    {
+      "word": "almond",
+      "count": 6
+    },
+    {
+      "word": "hug",
+      "count": 6
+    },
+    {
+      "word": "bundle",
+      "count": 6
+    },
+    {
+      "word": "110",
+      "count": 6
+    },
+    {
+      "word": "leprosy",
+      "count": 6
+    },
+    {
+      "word": "midnight",
+      "count": 6
+    },
+    {
+      "word": "ruby",
+      "count": 6
+    },
+    {
+      "word": "owl",
+      "count": 6
+    },
+    {
+      "word": "rat",
+      "count": 6
+    },
+    {
+      "word": "chair",
+      "count": 6
+    },
+    {
+      "word": "hin",
+      "count": 6
+    },
+    {
+      "word": "59",
+      "count": 6
+    },
+    {
+      "word": "62",
+      "count": 6
+    },
+    {
+      "word": "differently",
+      "count": 6
+    },
+    {
+      "word": "tassel",
+      "count": 6
+    },
+    {
+      "word": "friendly",
+      "count": 6
+    },
+    {
+      "word": "adoni",
+      "count": 6
+    },
+    {
+      "word": "badly",
+      "count": 6
+    },
+    {
+      "word": "bicri",
+      "count": 6
+    },
+    {
+      "word": "ira",
+      "count": 6
+    },
+    {
+      "word": "tiglath",
+      "count": 6
+    },
+    {
+      "word": "pileser",
+      "count": 6
+    },
+    {
+      "word": "unimportant",
+      "count": 6
+    },
+    {
+      "word": "185",
+      "count": 6
+    },
+    {
+      "word": "baladan",
+      "count": 6
+    },
+    {
+      "word": "merodach",
+      "count": 6
+    },
+    {
+      "word": "55",
+      "count": 6
+    },
+    {
+      "word": "poorest",
+      "count": 6
+    },
+    {
+      "word": "128",
+      "count": 6
+    },
+    {
+      "word": "642",
+      "count": 6
+    },
+    {
+      "word": "69",
+      "count": 6
+    },
+    {
+      "word": "530",
+      "count": 6
+    },
+    {
+      "word": "24th",
+      "count": 6
+    },
+    {
+      "word": "slow",
+      "count": 6
+    },
+    {
+      "word": "13th",
+      "count": 6
+    },
+    {
+      "word": "fact",
+      "count": 6
+    },
+    {
+      "word": "fever",
+      "count": 6
+    },
+    {
+      "word": "further",
+      "count": 6
+    },
+    {
+      "word": "writer",
+      "count": 6
+    },
+    {
+      "word": "nard",
+      "count": 6
+    },
+    {
+      "word": "late",
+      "count": 6
+    },
+    {
+      "word": "terror",
+      "count": 6
+    },
+    {
+      "word": "powerfully",
+      "count": 6
+    },
+    {
+      "word": "dill",
+      "count": 6
+    },
+    {
+      "word": "cummin",
+      "count": 6
+    },
+    {
+      "word": "sale",
+      "count": 6
+    },
+    {
+      "word": "wrongly",
+      "count": 6
+    },
+    {
+      "word": "pound",
+      "count": 6
+    },
+    {
+      "word": "anchor",
+      "count": 6
+    },
+    {
+      "word": "deacon",
+      "count": 6
+    },
+    {
+      "word": "144",
+      "count": 6
+    },
+    {
+      "word": "cool",
+      "count": 5
+    },
+    {
+      "word": "430",
+      "count": 5
+    },
+    {
+      "word": "ripe",
+      "count": 5
+    },
+    {
+      "word": "squeeze",
+      "count": 5
+    },
+    {
+      "word": "juice",
+      "count": 5
+    },
+    {
+      "word": "biggest",
+      "count": 5
+    },
+    {
+      "word": "66",
+      "count": 5
+    },
+    {
+      "word": "sceptre",
+      "count": 5
+    },
+    {
+      "word": "foreskin",
+      "count": 5
+    },
+    {
+      "word": "gnat",
+      "count": 5
+    },
+    {
+      "word": "worst",
+      "count": 5
+    },
+    {
+      "word": "frost",
+      "count": 5
+    },
+    {
+      "word": "frankincense",
+      "count": 5
+    },
+    {
+      "word": "powder",
+      "count": 5
+    },
+    {
+      "word": "topaz",
+      "count": 5
+    },
+    {
+      "word": "careless",
+      "count": 5
+    },
+    {
+      "word": "fin",
+      "count": 5
+    },
+    {
+      "word": "mouse",
+      "count": 5
+    },
+    {
+      "word": "yellow",
+      "count": 5
+    },
+    {
+      "word": "220",
+      "count": 5
+    },
+    {
+      "word": "57",
+      "count": 5
+    },
+    {
+      "word": "kibroth",
+      "count": 5
+    },
+    {
+      "word": "hattaavah",
+      "count": 5
+    },
+    {
+      "word": "61",
+      "count": 5
+    },
+    {
+      "word": "44",
+      "count": 5
+    },
+    {
+      "word": "diblathaim",
+      "count": 5
+    },
+    {
+      "word": "toilet",
+      "count": 5
+    },
+    {
+      "word": "correctly",
+      "count": 5
+    },
+    {
+      "word": "prophetess",
+      "count": 5
+    },
+    {
+      "word": "custom",
+      "count": 5
+    },
+    {
+      "word": "grey",
+      "count": 5
+    },
+    {
+      "word": "malki",
+      "count": 5
+    },
+    {
+      "word": "helmet",
+      "count": 5
+    },
+    {
+      "word": "yesterday",
+      "count": 5
+    },
+    {
+      "word": "date",
+      "count": 5
+    },
+    {
+      "word": "axle",
+      "count": 5
+    },
+    {
+      "word": "10th",
+      "count": 5
+    },
+    {
+      "word": "present",
+      "count": 5
+    },
+    {
+      "word": "052",
+      "count": 5
+    },
+    {
+      "word": "247",
+      "count": 5
+    },
+    {
+      "word": "017",
+      "count": 5
+    },
+    {
+      "word": "dedicate",
+      "count": 5
+    },
+    {
+      "word": "deepest",
+      "count": 5
+    },
+    {
+      "word": "excuse",
+      "count": 5
+    },
+    {
+      "word": "steal",
+      "count": 5
+    },
+    {
+      "word": "pride",
+      "count": 5
+    },
+    {
+      "word": "ankle",
+      "count": 5
+    },
+    {
+      "word": "beauty",
+      "count": 5
+    },
+    {
+      "word": "seraph",
+      "count": 5
+    },
+    {
+      "word": "slip",
+      "count": 5
+    },
+    {
+      "word": "grace",
+      "count": 5
+    },
+    {
+      "word": "fisherman",
+      "count": 5
+    },
+    {
+      "word": "messenger",
+      "count": 5
+    },
+    {
+      "word": "prophecy",
+      "count": 5
+    },
+    {
+      "word": "slap",
+      "count": 5
+    },
+    {
+      "word": "purse",
+      "count": 5
+    },
+    {
+      "word": "gardener",
+      "count": 5
+    },
+    {
+      "word": "90",
+      "count": 4
+    },
+    {
+      "word": "nephew",
+      "count": 4
+    },
+    {
+      "word": "circumcision",
+      "count": 4
+    },
+    {
+      "word": "cream",
+      "count": 4
+    },
+    {
+      "word": "127",
+      "count": 4
+    },
+    {
+      "word": "birthright",
+      "count": 4
+    },
+    {
+      "word": "poplar",
+      "count": 4
+    },
+    {
+      "word": "bedad",
+      "count": 4
+    },
+    {
+      "word": "akbor",
+      "count": 4
+    },
+    {
+      "word": "circle",
+      "count": 4
+    },
+    {
+      "word": "nut",
+      "count": 4
+    },
+    {
+      "word": "freely",
+      "count": 4
+    },
+    {
+      "word": "pi",
+      "count": 4
+    },
+    {
+      "word": "hahiroth",
+      "count": 4
+    },
+    {
+      "word": "fist",
+      "count": 4
+    },
+    {
+      "word": "550",
+      "count": 4
+    },
+    {
+      "word": "soft",
+      "count": 4
+    },
+    {
+      "word": "bat",
+      "count": 4
+    },
+    {
+      "word": "homer",
+      "count": 4
+    },
+    {
+      "word": "model",
+      "count": 4
+    },
+    {
+      "word": "quarter",
+      "count": 4
+    },
+    {
+      "word": "43",
+      "count": 4
+    },
+    {
+      "word": "72",
+      "count": 4
+    },
+    {
+      "word": "taller",
+      "count": 4
+    },
+    {
+      "word": "largest",
+      "count": 4
+    },
+    {
+      "word": "autumn",
+      "count": 4
+    },
+    {
+      "word": "generous",
+      "count": 4
+    },
+    {
+      "word": "nearest",
+      "count": 4
+    },
+    {
+      "word": "cheese",
+      "count": 4
+    },
+    {
+      "word": "block",
+      "count": 4
+    },
+    {
+      "word": "daytime",
+      "count": 4
+    },
+    {
+      "word": "ahead",
+      "count": 4
+    },
+    {
+      "word": "hundred",
+      "count": 4
+    },
+    {
+      "word": "richer",
+      "count": 4
+    },
+    {
+      "word": "grandmother",
+      "count": 4
+    },
+    {
+      "word": "isnt",
+      "count": 4
+    },
+    {
+      "word": "imlah",
+      "count": 4
+    },
+    {
+      "word": "7th",
+      "count": 4
+    },
+    {
+      "word": "260",
+      "count": 4
+    },
+    {
+      "word": "973",
+      "count": 4
+    },
+    {
+      "word": "bozenai",
+      "count": 4
+    },
+    {
+      "word": "148",
+      "count": 4
+    },
+    {
+      "word": "138",
+      "count": 4
+    },
+    {
+      "word": "myrtle",
+      "count": 4
+    },
+    {
+      "word": "hoshaiah",
+      "count": 4
+    },
+    {
+      "word": "note",
+      "count": 4
+    },
+    {
+      "word": "web",
+      "count": 4
+    },
+    {
+      "word": "thread",
+      "count": 4
+    },
+    {
+      "word": "aloe",
+      "count": 4
+    },
+    {
+      "word": "cinnamon",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 4
+    },
+    {
+      "word": "angrily",
+      "count": 4
+    },
+    {
+      "word": "brush",
+      "count": 4
+    },
+    {
+      "word": "crush",
+      "count": 4
+    },
+    {
+      "word": "sieve",
+      "count": 4
+    },
+    {
+      "word": "salvation",
+      "count": 4
+    },
+    {
+      "word": "pharoah",
+      "count": 4
+    },
+    {
+      "word": "strangle",
+      "count": 4
+    },
+    {
+      "word": "office",
+      "count": 4
+    },
+    {
+      "word": "cheap",
+      "count": 4
+    },
+    {
+      "word": "drunk",
+      "count": 4
+    },
+    {
+      "word": "polite",
+      "count": 4
+    },
+    {
+      "word": "930",
+      "count": 3
+    },
+    {
+      "word": "deeper",
+      "count": 3
+    },
+    {
+      "word": "601",
+      "count": 3
+    },
+    {
+      "word": "99",
+      "count": 3
+    },
+    {
+      "word": "tamarisk",
+      "count": 3
+    },
+    {
+      "word": "137",
+      "count": 3
+    },
+    {
+      "word": "veil",
+      "count": 3
+    },
+    {
+      "word": "birthday",
+      "count": 3
+    },
+    {
+      "word": "49",
+      "count": 3
+    },
+    {
+      "word": "flax",
+      "count": 3
+    },
+    {
+      "word": "herb",
+      "count": 3
+    },
+    {
+      "word": "trouser",
+      "count": 3
+    },
+    {
+      "word": "603",
+      "count": 3
+    },
+    {
+      "word": "emerald",
+      "count": 3
+    },
+    {
+      "word": "rabbit",
+      "count": 3
+    },
+    {
+      "word": "273",
+      "count": 3
+    },
+    {
+      "word": "gerahs",
+      "count": 3
+    },
+    {
+      "word": "20th",
+      "count": 3
+    },
+    {
+      "word": "main",
+      "count": 3
+    },
+    {
+      "word": "iye",
+      "count": 3
+    },
+    {
+      "word": "730",
+      "count": 3
+    },
+    {
+      "word": "123",
+      "count": 3
+    },
+    {
+      "word": "bee",
+      "count": 3
+    },
+    {
+      "word": "stork",
+      "count": 3
+    },
+    {
+      "word": "zedek",
+      "count": 3
+    },
+    {
+      "word": "maim",
+      "count": 3
+    },
+    {
+      "word": "cushan",
+      "count": 3
+    },
+    {
+      "word": "abinoam",
+      "count": 3
+    },
+    {
+      "word": "lady",
+      "count": 3
+    },
+    {
+      "word": "77",
+      "count": 3
+    },
+    {
+      "word": "berith",
+      "count": 3
+    },
+    {
+      "word": "lame",
+      "count": 3
+    },
+    {
+      "word": "ahilud",
+      "count": 3
+    },
+    {
+      "word": "debar",
+      "count": 3
+    },
+    {
+      "word": "bean",
+      "count": 3
+    },
+    {
+      "word": "3½",
+      "count": 3
+    },
+    {
+      "word": "dodai",
+      "count": 3
+    },
+    {
+      "word": "abi",
+      "count": 3
+    },
+    {
+      "word": "ceiling",
+      "count": 3
+    },
+    {
+      "word": "7½",
+      "count": 3
+    },
+    {
+      "word": "driver",
+      "count": 3
+    },
+    {
+      "word": "18th",
+      "count": 3
+    },
+    {
+      "word": "kelub",
+      "count": 3
+    },
+    {
+      "word": "benefit",
+      "count": 3
+    },
+    {
+      "word": "760",
+      "count": 3
+    },
+    {
+      "word": "meshelemiah",
+      "count": 3
+    },
+    {
+      "word": "maharai",
+      "count": 3
+    },
+    {
+      "word": "23rd",
+      "count": 3
+    },
+    {
+      "word": "million",
+      "count": 3
+    },
+    {
+      "word": "139",
+      "count": 3
+    },
+    {
+      "word": "translate",
+      "count": 3
+    },
+    {
+      "word": "broad",
+      "count": 3
+    },
+    {
+      "word": "254",
+      "count": 3
+    },
+    {
+      "word": "moth",
+      "count": 3
+    },
+    {
+      "word": "wider",
+      "count": 3
+    },
+    {
+      "word": "adulterer",
+      "count": 3
+    },
+    {
+      "word": "joke",
+      "count": 3
+    },
+    {
+      "word": "barakel",
+      "count": 3
+    },
+    {
+      "word": "willow",
+      "count": 3
+    },
+    {
+      "word": "apart",
+      "count": 3
+    },
+    {
+      "word": "140",
+      "count": 3
+    },
+    {
+      "word": "chapter",
+      "count": 3
+    },
+    {
+      "word": "saffron",
+      "count": 3
+    },
+    {
+      "word": "calamus",
+      "count": 3
+    },
+    {
+      "word": "bunch",
+      "count": 3
+    },
+    {
+      "word": "maher",
+      "count": 3
+    },
+    {
+      "word": "shalal",
+      "count": 3
+    },
+    {
+      "word": "hash",
+      "count": 3
+    },
+    {
+      "word": "baz",
+      "count": 3
+    },
+    {
+      "word": "eglath",
+      "count": 3
+    },
+    {
+      "word": "shelishiyah",
+      "count": 3
+    },
+    {
+      "word": "carpet",
+      "count": 3
+    },
+    {
+      "word": "89",
+      "count": 3
+    },
+    {
+      "word": "weakness",
+      "count": 3
+    },
+    {
+      "word": "claim",
+      "count": 3
+    },
+    {
+      "word": "force",
+      "count": 3
+    },
+    {
+      "word": "cushi",
+      "count": 3
+    },
+    {
+      "word": "section",
+      "count": 3
+    },
+    {
+      "word": "gamul",
+      "count": 3
+    },
+    {
+      "word": "southern",
+      "count": 3
+    },
+    {
+      "word": "pen",
+      "count": 3
+    },
+    {
+      "word": "feather",
+      "count": 3
+    },
+    {
+      "word": "oar",
+      "count": 3
+    },
+    {
+      "word": "claw",
+      "count": 3
+    },
+    {
+      "word": "mustard",
+      "count": 3
+    },
+    {
+      "word": "needle",
+      "count": 3
+    },
+    {
+      "word": "bank",
+      "count": 3
+    },
+    {
+      "word": "hotel",
+      "count": 3
+    },
+    {
+      "word": "school",
+      "count": 3
+    },
+    {
+      "word": "porch",
+      "count": 3
+    },
+    {
+      "word": "tanner",
+      "count": 3
+    },
+    {
+      "word": "365",
+      "count": 2
+    },
+    {
+      "word": "17th",
+      "count": 2
+    },
+    {
+      "word": "27th",
+      "count": 2
+    },
+    {
+      "word": "350",
+      "count": 2
+    },
+    {
+      "word": "pathrusites",
+      "count": 2
+    },
+    {
+      "word": "arvadites",
+      "count": 2
+    },
+    {
+      "word": "403",
+      "count": 2
+    },
+    {
+      "word": "monthly",
+      "count": 2
+    },
+    {
+      "word": "zahab",
+      "count": 2
+    },
+    {
+      "word": "magdiel",
+      "count": 2
+    },
+    {
+      "word": "atad",
+      "count": 2
+    },
+    {
+      "word": "mortar",
+      "count": 2
+    },
+    {
+      "word": "21st",
+      "count": 2
+    },
+    {
+      "word": "drum",
+      "count": 2
+    },
+    {
+      "word": "quail",
+      "count": 2
+    },
+    {
+      "word": "coriander",
+      "count": 2
+    },
+    {
+      "word": "omer",
+      "count": 2
+    },
+    {
+      "word": "omers",
+      "count": 2
+    },
+    {
+      "word": "bruise",
+      "count": 2
+    },
+    {
+      "word": "spoon",
+      "count": 2
+    },
+    {
+      "word": "fit",
+      "count": 2
+    },
+    {
+      "word": "beryl",
+      "count": 2
+    },
+    {
+      "word": "turquoise",
+      "count": 2
+    },
+    {
+      "word": "chrysolite",
+      "count": 2
+    },
+    {
+      "word": "buzzard",
+      "count": 2
+    },
+    {
+      "word": "kite",
+      "count": 2
+    },
+    {
+      "word": "seagull",
+      "count": 2
+    },
+    {
+      "word": "cormorant",
+      "count": 2
+    },
+    {
+      "word": "heron",
+      "count": 2
+    },
+    {
+      "word": "hoopoe",
+      "count": 2
+    },
+    {
+      "word": "aunt",
+      "count": 2
+    },
+    {
+      "word": "testicle",
+      "count": 2
+    },
+    {
+      "word": "50th",
+      "count": 2
+    },
+    {
+      "word": "pack",
+      "count": 2
+    },
+    {
+      "word": "750",
+      "count": 2
+    },
+    {
+      "word": "vinegar",
+      "count": 2
+    },
+    {
+      "word": "64",
+      "count": 2
+    },
+    {
+      "word": "shuham",
+      "count": 2
+    },
+    {
+      "word": "675",
+      "count": 2
+    },
+    {
+      "word": "atroth",
+      "count": 2
+    },
+    {
+      "word": "havvoth",
+      "count": 2
+    },
+    {
+      "word": "haggidgad",
+      "count": 2
+    },
+    {
+      "word": "40th",
+      "count": 2
+    },
+    {
+      "word": "double",
+      "count": 2
+    },
+    {
+      "word": "kindest",
+      "count": 2
+    },
+    {
+      "word": "85",
+      "count": 2
+    },
+    {
+      "word": "rishathaim",
+      "count": 2
+    },
+    {
+      "word": "900",
+      "count": 2
+    },
+    {
+      "word": "weakest",
+      "count": 2
+    },
+    {
+      "word": "jerub",
+      "count": 2
+    },
+    {
+      "word": "loom",
+      "count": 2
+    },
+    {
+      "word": "salmon",
+      "count": 2
+    },
+    {
+      "word": "98",
+      "count": 2
+    },
+    {
+      "word": "hoe",
+      "count": 2
+    },
+    {
+      "word": "pillow",
+      "count": 2
+    },
+    {
+      "word": "ephods",
+      "count": 2
+    },
+    {
+      "word": "ahoh",
+      "count": 2
+    },
+    {
+      "word": "hezro",
+      "count": 2
+    },
+    {
+      "word": "zelek",
+      "count": 2
+    },
+    {
+      "word": "hesed",
+      "count": 2
+    },
+    {
+      "word": "gourd",
+      "count": 2
+    },
+    {
+      "word": "ape",
+      "count": 2
+    },
+    {
+      "word": "monkey",
+      "count": 2
+    },
+    {
+      "word": "thicker",
+      "count": 2
+    },
+    {
+      "word": "harder",
+      "count": 2
+    },
+    {
+      "word": "rubbish",
+      "count": 2
+    },
+    {
+      "word": "gadi",
+      "count": 2
+    },
+    {
+      "word": "urine",
+      "count": 2
+    },
+    {
+      "word": "9th",
+      "count": 2
+    },
+    {
+      "word": "5th",
+      "count": 2
+    },
+    {
+      "word": "huri",
+      "count": 2
+    },
+    {
+      "word": "jaroah",
+      "count": 2
+    },
+    {
+      "word": "jeshishai",
+      "count": 2
+    },
+    {
+      "word": "jahdo",
+      "count": 2
+    },
+    {
+      "word": "toah",
+      "count": 2
+    },
+    {
+      "word": "baaseiah",
+      "count": 2
+    },
+    {
+      "word": "ethni",
+      "count": 2
+    },
+    {
+      "word": "kishi",
+      "count": 2
+    },
+    {
+      "word": "amzi",
+      "count": 2
+    },
+    {
+      "word": "87",
+      "count": 2
+    },
+    {
+      "word": "esh",
+      "count": 2
+    },
+    {
+      "word": "112",
+      "count": 2
+    },
+    {
+      "word": "68",
+      "count": 2
+    },
+    {
+      "word": "shitrai",
+      "count": 2
+    },
+    {
+      "word": "obil",
+      "count": 2
+    },
+    {
+      "word": "jaziz",
+      "count": 2
+    },
+    {
+      "word": "153",
+      "count": 2
+    },
+    {
+      "word": "cubit",
+      "count": 2
+    },
+    {
+      "word": "280",
+      "count": 2
+    },
+    {
+      "word": "kilolitre",
+      "count": 2
+    },
+    {
+      "word": "library",
+      "count": 2
+    },
+    {
+      "word": "96",
+      "count": 2
+    },
+    {
+      "word": "hallohesh",
+      "count": 2
+    },
+    {
+      "word": "col",
+      "count": 2
+    },
+    {
+      "word": "hozeh",
+      "count": 2
+    },
+    {
+      "word": "henadad",
+      "count": 2
+    },
+    {
+      "word": "32nd",
+      "count": 2
+    },
+    {
+      "word": "25th",
+      "count": 2
+    },
+    {
+      "word": "743",
+      "count": 2
+    },
+    {
+      "word": "621",
+      "count": 2
+    },
+    {
+      "word": "122",
+      "count": 2
+    },
+    {
+      "word": "320",
+      "count": 2
+    },
+    {
+      "word": "345",
+      "count": 2
+    },
+    {
+      "word": "721",
+      "count": 2
+    },
+    {
+      "word": "senaah",
+      "count": 2
+    },
+    {
+      "word": "zicri",
+      "count": 2
+    },
+    {
+      "word": "ge",
+      "count": 2
+    },
+    {
+      "word": "harashim",
+      "count": 2
+    },
+    {
+      "word": "jezrahiah",
+      "count": 2
+    },
+    {
+      "word": "fastest",
+      "count": 2
+    },
+    {
+      "word": "spider",
+      "count": 2
+    },
+    {
+      "word": "hippopotamus",
+      "count": 2
+    },
+    {
+      "word": "pretty",
+      "count": 2
+    },
+    {
+      "word": "interest",
+      "count": 2
+    },
+    {
+      "word": "hareseth",
+      "count": 2
+    },
+    {
+      "word": "ball",
+      "count": 2
+    },
+    {
+      "word": "bang",
+      "count": 2
+    },
+    {
+      "word": "swallow",
+      "count": 2
+    },
+    {
+      "word": "fir",
+      "count": 2
+    },
+    {
+      "word": "groan",
+      "count": 2
+    },
+    {
+      "word": "bridegroom",
+      "count": 2
+    },
+    {
+      "word": "encourage",
+      "count": 2
+    },
+    {
+      "word": "ink",
+      "count": 2
+    },
+    {
+      "word": "390",
+      "count": 2
+    },
+    {
+      "word": "useful",
+      "count": 2
+    },
+    {
+      "word": "1½",
+      "count": 2
+    },
+    {
+      "word": "sweat",
+      "count": 2
+    },
+    {
+      "word": "persian",
+      "count": 2
+    },
+    {
+      "word": "evening",
+      "count": 2
+    },
+    {
+      "word": "adultery",
+      "count": 2
+    },
+    {
+      "word": "pipe",
+      "count": 2
+    },
+    {
+      "word": "lema",
+      "count": 2
+    },
+    {
+      "word": "sabachthani",
+      "count": 2
+    },
+    {
+      "word": "barrel",
+      "count": 2
+    },
+    {
+      "word": "paradise",
+      "count": 2
+    },
+    {
+      "word": "downstairs",
+      "count": 2
+    },
+    {
+      "word": "lawyer",
+      "count": 2
+    },
+    {
+      "word": "117",
+      "count": 2
+    },
+    {
+      "word": "winner",
+      "count": 2
+    },
+    {
+      "word": "hymenaeus",
+      "count": 2
+    },
+    {
+      "word": "wisely",
+      "count": 2
+    },
+    {
+      "word": "135",
+      "count": 2
+    },
+    {
+      "word": "bdellium",
+      "count": 1
+    },
+    {
+      "word": "thistle",
+      "count": 1
+    },
+    {
+      "word": "105",
+      "count": 1
+    },
+    {
+      "word": "807",
+      "count": 1
+    },
+    {
+      "word": "912",
+      "count": 1
+    },
+    {
+      "word": "815",
+      "count": 1
+    },
+    {
+      "word": "905",
+      "count": 1
+    },
+    {
+      "word": "840",
+      "count": 1
+    },
+    {
+      "word": "910",
+      "count": 1
+    },
+    {
+      "word": "830",
+      "count": 1
+    },
+    {
+      "word": "895",
+      "count": 1
+    },
+    {
+      "word": "162",
+      "count": 1
+    },
+    {
+      "word": "962",
+      "count": 1
+    },
+    {
+      "word": "187",
+      "count": 1
+    },
+    {
+      "word": "782",
+      "count": 1
+    },
+    {
+      "word": "969",
+      "count": 1
+    },
+    {
+      "word": "182",
+      "count": 1
+    },
+    {
+      "word": "595",
+      "count": 1
+    },
+    {
+      "word": "777",
+      "count": 1
+    },
+    {
+      "word": "950",
+      "count": 1
+    },
+    {
+      "word": "cement",
+      "count": 1
+    },
+    {
+      "word": "209",
+      "count": 1
+    },
+    {
+      "word": "207",
+      "count": 1
+    },
+    {
+      "word": "119",
+      "count": 1
+    },
+    {
+      "word": "205",
+      "count": 1
+    },
+    {
+      "word": "318",
+      "count": 1
+    },
+    {
+      "word": "86",
+      "count": 1
+    },
+    {
+      "word": "175",
+      "count": 1
+    },
+    {
+      "word": "plane",
+      "count": 1
+    },
+    {
+      "word": "strip",
+      "count": 1
+    },
+    {
+      "word": "eleven",
+      "count": 1
+    },
+    {
+      "word": "oni",
+      "count": 1
+    },
+    {
+      "word": "responsible",
+      "count": 1
+    },
+    {
+      "word": "zaphenath",
+      "count": 1
+    },
+    {
+      "word": "paneah",
+      "count": 1
+    },
+    {
+      "word": "147",
+      "count": 1
+    },
+    {
+      "word": "difficulty",
+      "count": 1
+    },
+    {
+      "word": "133",
+      "count": 1
+    },
+    {
+      "word": "putiel",
+      "count": 1
+    },
+    {
+      "word": "83",
+      "count": 1
+    },
+    {
+      "word": "2¼",
+      "count": 1
+    },
+    {
+      "word": "gum",
+      "count": 1
+    },
+    {
+      "word": "resin",
+      "count": 1
+    },
+    {
+      "word": "onycha",
+      "count": 1
+    },
+    {
+      "word": "galbanum",
+      "count": 1
+    },
+    {
+      "word": "425",
+      "count": 1
+    },
+    {
+      "word": "jacinth",
+      "count": 1
+    },
+    {
+      "word": "agate",
+      "count": 1
+    },
+    {
+      "word": "amethyst",
+      "count": 1
+    },
+    {
+      "word": "osprey",
+      "count": 1
+    },
+    {
+      "word": "cricket",
+      "count": 1
+    },
+    {
+      "word": "paw",
+      "count": 1
+    },
+    {
+      "word": "weasel",
+      "count": 1
+    },
+    {
+      "word": "length",
+      "count": 1
+    },
+    {
+      "word": "¼",
+      "count": 1
+    },
+    {
+      "word": "seller",
+      "count": 1
+    },
+    {
+      "word": "54",
+      "count": 1
+    },
+    {
+      "word": "186",
+      "count": 1
+    },
+    {
+      "word": "650",
+      "count": 1
+    },
+    {
+      "word": "151",
+      "count": 1
+    },
+    {
+      "word": "108",
+      "count": 1
+    },
+    {
+      "word": "157",
+      "count": 1
+    },
+    {
+      "word": "630",
+      "count": 1
+    },
+    {
+      "word": "580",
+      "count": 1
+    },
+    {
+      "word": "cucumber",
+      "count": 1
+    },
+    {
+      "word": "leek",
+      "count": 1
+    },
+    {
+      "word": "onion",
+      "count": 1
+    },
+    {
+      "word": "garlic",
+      "count": 1
+    },
+    {
+      "word": "melon",
+      "count": 1
+    },
+    {
+      "word": "huzoth",
+      "count": 1
+    },
+    {
+      "word": "ozni",
+      "count": 1
+    },
+    {
+      "word": "arod",
+      "count": 1
+    },
+    {
+      "word": "76",
+      "count": 1
+    },
+    {
+      "word": "iezer",
+      "count": 1
+    },
+    {
+      "word": "eran",
+      "count": 1
+    },
+    {
+      "word": "ahiram",
+      "count": 1
+    },
+    {
+      "word": "shupham",
+      "count": 1
+    },
+    {
+      "word": "hupham",
+      "count": 1
+    },
+    {
+      "word": "jahzeel",
+      "count": 1
+    },
+    {
+      "word": "shophan",
+      "count": 1
+    },
+    {
+      "word": "shemuel",
+      "count": 1
+    },
+    {
+      "word": "elidad",
+      "count": 1
+    },
+    {
+      "word": "pedahel",
+      "count": 1
+    },
+    {
+      "word": "copper",
+      "count": 1
+    },
+    {
+      "word": "antelope",
+      "count": 1
+    },
+    {
+      "word": "falcon",
+      "count": 1
+    },
+    {
+      "word": "pelican",
+      "count": 1
+    },
+    {
+      "word": "borrow",
+      "count": 1
+    },
+    {
+      "word": "fingernail",
+      "count": 1
+    },
+    {
+      "word": "afterbirth",
+      "count": 1
+    },
+    {
+      "word": "9½",
+      "count": 1
+    },
+    {
+      "word": "kinah",
+      "count": 1
+    },
+    {
+      "word": "amam",
+      "count": 1
+    },
+    {
+      "word": "gaddah",
+      "count": 1
+    },
+    {
+      "word": "dilean",
+      "count": 1
+    },
+    {
+      "word": "cabbon",
+      "count": 1
+    },
+    {
+      "word": "dannah",
+      "count": 1
+    },
+    {
+      "word": "janim",
+      "count": 1
+    },
+    {
+      "word": "humtah",
+      "count": 1
+    },
+    {
+      "word": "kain",
+      "count": 1
+    },
+    {
+      "word": "maarath",
+      "count": 1
+    },
+    {
+      "word": "nibshan",
+      "count": 1
+    },
+    {
+      "word": "avvim",
+      "count": 1
+    },
+    {
+      "word": "kephar",
+      "count": 1
+    },
+    {
+      "word": "zelah",
+      "count": 1
+    },
+    {
+      "word": "susah",
+      "count": 1
+    },
+    {
+      "word": "hapharaim",
+      "count": 1
+    },
+    {
+      "word": "rabbith",
+      "count": 1
+    },
+    {
+      "word": "remeth",
+      "count": 1
+    },
+    {
+      "word": "allammelech",
+      "count": 1
+    },
+    {
+      "word": "ummah",
+      "count": 1
+    },
+    {
+      "word": "adamah",
+      "count": 1
+    },
+    {
+      "word": "shaalabbin",
+      "count": 1
+    },
+    {
+      "word": "jehud",
+      "count": 1
+    },
+    {
+      "word": "kibzaim",
+      "count": 1
+    },
+    {
+      "word": "dimnah",
+      "count": 1
+    },
+    {
+      "word": "lappidoth",
+      "count": 1
+    },
+    {
+      "word": "hillel",
+      "count": 1
+    },
+    {
+      "word": "cotton",
+      "count": 1
+    },
+    {
+      "word": "sleeve",
+      "count": 1
+    },
+    {
+      "word": "kar",
+      "count": 1
+    },
+    {
+      "word": "goad",
+      "count": 1
+    },
+    {
+      "word": "e",
+      "count": 1
+    },
+    {
+      "word": "ight",
+      "count": 1
+    },
+    {
+      "word": "maoch",
+      "count": 1
+    },
+    {
+      "word": "racal",
+      "count": 1
+    },
+    {
+      "word": "tunnel",
+      "count": 1
+    },
+    {
+      "word": "shaker",
+      "count": 1
+    },
+    {
+      "word": "nacon",
+      "count": 1
+    },
+    {
+      "word": "eliam",
+      "count": 1
+    },
+    {
+      "word": "besheth",
+      "count": 1
+    },
+    {
+      "word": "lentil",
+      "count": 1
+    },
+    {
+      "word": "ishbi",
+      "count": 1
+    },
+    {
+      "word": "benob",
+      "count": 1
+    },
+    {
+      "word": "jaare",
+      "count": 1
+    },
+    {
+      "word": "oregim",
+      "count": 1
+    },
+    {
+      "word": "heleb",
+      "count": 1
+    },
+    {
+      "word": "albon",
+      "count": 1
+    },
+    {
+      "word": "eliahba",
+      "count": 1
+    },
+    {
+      "word": "ahasbai",
+      "count": 1
+    },
+    {
+      "word": "shisha",
+      "count": 1
+    },
+    {
+      "word": "ahishar",
+      "count": 1
+    },
+    {
+      "word": "deker",
+      "count": 1
+    },
+    {
+      "word": "paruah",
+      "count": 1
+    },
+    {
+      "word": "ela",
+      "count": 1
+    },
+    {
+      "word": "005",
+      "count": 1
+    },
+    {
+      "word": "480",
+      "count": 1
+    },
+    {
+      "word": "ginath",
+      "count": 1
+    },
+    {
+      "word": "shapat",
+      "count": 1
+    },
+    {
+      "word": "232",
+      "count": 1
+    },
+    {
+      "word": "sneeze",
+      "count": 1
+    },
+    {
+      "word": "decision",
+      "count": 1
+    },
+    {
+      "word": "benoth",
+      "count": 1
+    },
+    {
+      "word": "4th",
+      "count": 1
+    },
+    {
+      "word": "abishur",
+      "count": 1
+    },
+    {
+      "word": "jahdai",
+      "count": 1
+    },
+    {
+      "word": "malkiram",
+      "count": 1
+    },
+    {
+      "word": "jushab",
+      "count": 1
+    },
+    {
+      "word": "harum",
+      "count": 1
+    },
+    {
+      "word": "shuhah",
+      "count": 1
+    },
+    {
+      "word": "meonothai",
+      "count": 1
+    },
+    {
+      "word": "jehallelel",
+      "count": 1
+    },
+    {
+      "word": "ezrah",
+      "count": 1
+    },
+    {
+      "word": "naham",
+      "count": 1
+    },
+    {
+      "word": "shimon",
+      "count": 1
+    },
+    {
+      "word": "jashubi",
+      "count": 1
+    },
+    {
+      "word": "ashbea",
+      "count": 1
+    },
+    {
+      "word": "susim",
+      "count": 1
+    },
+    {
+      "word": "biri",
+      "count": 1
+    },
+    {
+      "word": "shapham",
+      "count": 1
+    },
+    {
+      "word": "janai",
+      "count": 1
+    },
+    {
+      "word": "hilen",
+      "count": 1
+    },
+    {
+      "word": "hukok",
+      "count": 1
+    },
+    {
+      "word": "034",
+      "count": 1
+    },
+    {
+      "word": "hammoleketh",
+      "count": 1
+    },
+    {
+      "word": "uzzen",
+      "count": 1
+    },
+    {
+      "word": "birzaith",
+      "count": 1
+    },
+    {
+      "word": "ulla",
+      "count": 1
+    },
+    {
+      "word": "aharah",
+      "count": 1
+    },
+    {
+      "word": "nohah",
+      "count": 1
+    },
+    {
+      "word": "ishmerai",
+      "count": 1
+    },
+    {
+      "word": "elienai",
+      "count": 1
+    },
+    {
+      "word": "iphdeiah",
+      "count": 1
+    },
+    {
+      "word": "jaareshiah",
+      "count": 1
+    },
+    {
+      "word": "hassenuah",
+      "count": 1
+    },
+    {
+      "word": "mikri",
+      "count": 1
+    },
+    {
+      "word": "ibnijah",
+      "count": 1
+    },
+    {
+      "word": "956",
+      "count": 1
+    },
+    {
+      "word": "212",
+      "count": 1
+    },
+    {
+      "word": "shammoth",
+      "count": 1
+    },
+    {
+      "word": "sibbekai",
+      "count": 1
+    },
+    {
+      "word": "ithai",
+      "count": 1
+    },
+    {
+      "word": "ribai",
+      "count": 1
+    },
+    {
+      "word": "hurai",
+      "count": 1
+    },
+    {
+      "word": "hashem",
+      "count": 1
+    },
+    {
+      "word": "shiza",
+      "count": 1
+    },
+    {
+      "word": "uzzia",
+      "count": 1
+    },
+    {
+      "word": "eluzai",
+      "count": 1
+    },
+    {
+      "word": "joelah",
+      "count": 1
+    },
+    {
+      "word": "mishmannah",
+      "count": 1
+    },
+    {
+      "word": "kidon",
+      "count": 1
+    },
+    {
+      "word": "kushaiah",
+      "count": 1
+    },
+    {
+      "word": "shavsha",
+      "count": 1
+    },
+    {
+      "word": "maacah",
+      "count": 1
+    },
+    {
+      "word": "470",
+      "count": 1
+    },
+    {
+      "word": "romamti",
+      "count": 1
+    },
+    {
+      "word": "288",
+      "count": 1
+    },
+    {
+      "word": "rebaiah",
+      "count": 1
+    },
+    {
+      "word": "zabdiel",
+      "count": 1
+    },
+    {
+      "word": "shamhuth",
+      "count": 1
+    },
+    {
+      "word": "izrah",
+      "count": 1
+    },
+    {
+      "word": "pelon",
+      "count": 1
+    },
+    {
+      "word": "adlai",
+      "count": 1
+    },
+    {
+      "word": "jehdeiah",
+      "count": 1
+    },
+    {
+      "word": "hakmoni",
+      "count": 1
+    },
+    {
+      "word": "antimony",
+      "count": 1
+    },
+    {
+      "word": "marble",
+      "count": 1
+    },
+    {
+      "word": "4½",
+      "count": 1
+    },
+    {
+      "word": "stage",
+      "count": 1
+    },
+    {
+      "word": "adoraim",
+      "count": 1
+    },
+    {
+      "word": "dodavahu",
+      "count": 1
+    },
+    {
+      "word": "307",
+      "count": 1
+    },
+    {
+      "word": "machine",
+      "count": 1
+    },
+    {
+      "word": "meshillemoth",
+      "count": 1
+    },
+    {
+      "word": "hadlai",
+      "count": 1
+    },
+    {
+      "word": "8th",
+      "count": 1
+    },
+    {
+      "word": "16th",
+      "count": 1
+    },
+    {
+      "word": "pan",
+      "count": 1
+    },
+    {
+      "word": "elamite",
+      "count": 1
+    },
+    {
+      "word": "218",
+      "count": 1
+    },
+    {
+      "word": "josiphiah",
+      "count": 1
+    },
+    {
+      "word": "160",
+      "count": 1
+    },
+    {
+      "word": "hakkatan",
+      "count": 1
+    },
+    {
+      "word": "uthai",
+      "count": 1
+    },
+    {
+      "word": "hacaliah",
+      "count": 1
+    },
+    {
+      "word": "imri",
+      "count": 1
+    },
+    {
+      "word": "besodeiah",
+      "count": 1
+    },
+    {
+      "word": "harhaiah",
+      "count": 1
+    },
+    {
+      "word": "harumaph",
+      "count": 1
+    },
+    {
+      "word": "azbuk",
+      "count": 1
+    },
+    {
+      "word": "uzai",
+      "count": 1
+    },
+    {
+      "word": "172",
+      "count": 1
+    },
+    {
+      "word": "372",
+      "count": 1
+    },
+    {
+      "word": "818",
+      "count": 1
+    },
+    {
+      "word": "845",
+      "count": 1
+    },
+    {
+      "word": "648",
+      "count": 1
+    },
+    {
+      "word": "628",
+      "count": 1
+    },
+    {
+      "word": "322",
+      "count": 1
+    },
+    {
+      "word": "667",
+      "count": 1
+    },
+    {
+      "word": "067",
+      "count": 1
+    },
+    {
+      "word": "655",
+      "count": 1
+    },
+    {
+      "word": "328",
+      "count": 1
+    },
+    {
+      "word": "324",
+      "count": 1
+    },
+    {
+      "word": "95",
+      "count": 1
+    },
+    {
+      "word": "188",
+      "count": 1
+    },
+    {
+      "word": "maaziah",
+      "count": 1
+    },
+    {
+      "word": "magpiash",
+      "count": 1
+    },
+    {
+      "word": "ahiah",
+      "count": 1
+    },
+    {
+      "word": "468",
+      "count": 1
+    },
+    {
+      "word": "928",
+      "count": 1
+    },
+    {
+      "word": "822",
+      "count": 1
+    },
+    {
+      "word": "242",
+      "count": 1
+    },
+    {
+      "word": "kallai",
+      "count": 1
+    },
+    {
+      "word": "mere",
+      "count": 1
+    },
+    {
+      "word": "poratha",
+      "count": 1
+    },
+    {
+      "word": "parmashta",
+      "count": 1
+    },
+    {
+      "word": "richest",
+      "count": 1
+    },
+    {
+      "word": "heavier",
+      "count": 1
+    },
+    {
+      "word": "funny",
+      "count": 1
+    },
+    {
+      "word": "perfectly",
+      "count": 1
+    },
+    {
+      "word": "nicely",
+      "count": 1
+    },
+    {
+      "word": "keren",
+      "count": 1
+    },
+    {
+      "word": "happuch",
+      "count": 1
+    },
+    {
+      "word": "wage",
+      "count": 1
+    },
+    {
+      "word": "jakeh",
+      "count": 1
+    },
+    {
+      "word": "speaker",
+      "count": 1
+    },
+    {
+      "word": "happiest",
+      "count": 1
+    },
+    {
+      "word": "honeycomb",
+      "count": 1
+    },
+    {
+      "word": "sandal",
+      "count": 1
+    },
+    {
+      "word": "navel",
+      "count": 1
+    },
+    {
+      "word": "stain",
+      "count": 1
+    },
+    {
+      "word": "shear",
+      "count": 1
+    },
+    {
+      "word": "cliff",
+      "count": 1
+    },
+    {
+      "word": "jeberekiah",
+      "count": 1
+    },
+    {
+      "word": "hunger",
+      "count": 1
+    },
+    {
+      "word": "stump",
+      "count": 1
+    },
+    {
+      "word": "maggot",
+      "count": 1
+    },
+    {
+      "word": "mist",
+      "count": 1
+    },
+    {
+      "word": "chalk",
+      "count": 1
+    },
+    {
+      "word": "hedgehog",
+      "count": 1
+    },
+    {
+      "word": "kindly",
+      "count": 1
+    },
+    {
+      "word": "deed",
+      "count": 1
+    },
+    {
+      "word": "silent",
+      "count": 1
+    },
+    {
+      "word": "fate",
+      "count": 1
+    },
+    {
+      "word": "increase",
+      "count": 1
+    },
+    {
+      "word": "kolaiah",
+      "count": 1
+    },
+    {
+      "word": "wedding",
+      "count": 1
+    },
+    {
+      "word": "abdeel",
+      "count": 1
+    },
+    {
+      "word": "sarsekim",
+      "count": 1
+    },
+    {
+      "word": "canal",
+      "count": 1
+    },
+    {
+      "word": "832",
+      "count": 1
+    },
+    {
+      "word": "745",
+      "count": 1
+    },
+    {
+      "word": "lonely",
+      "count": 1
+    },
+    {
+      "word": "quicker",
+      "count": 1
+    },
+    {
+      "word": "30th",
+      "count": 1
+    },
+    {
+      "word": "cord",
+      "count": 1
+    },
+    {
+      "word": "ohalah",
+      "count": 1
+    },
+    {
+      "word": "violently",
+      "count": 1
+    },
+    {
+      "word": "mile",
+      "count": 1
+    },
+    {
+      "word": "3rd",
+      "count": 1
+    },
+    {
+      "word": "6½",
+      "count": 1
+    },
+    {
+      "word": "½",
+      "count": 1
+    },
+    {
+      "word": "47",
+      "count": 1
+    },
+    {
+      "word": "mina",
+      "count": 1
+    },
+    {
+      "word": "kitchen",
+      "count": 1
+    },
+    {
+      "word": "eglaim",
+      "count": 1
+    },
+    {
+      "word": "hazer",
+      "count": 1
+    },
+    {
+      "word": "hattikon",
+      "count": 1
+    },
+    {
+      "word": "125",
+      "count": 1
+    },
+    {
+      "word": "fatter",
+      "count": 1
+    },
+    {
+      "word": "hotter",
+      "count": 1
+    },
+    {
+      "word": "whiter",
+      "count": 1
+    },
+    {
+      "word": "tekel",
+      "count": 1
+    },
+    {
+      "word": "peres",
+      "count": 1
+    },
+    {
+      "word": "shorter",
+      "count": 1
+    },
+    {
+      "word": "290",
+      "count": 1
+    },
+    {
+      "word": "335",
+      "count": 1
+    },
+    {
+      "word": "trip",
+      "count": 1
+    },
+    {
+      "word": "shalman",
+      "count": 1
+    },
+    {
+      "word": "butcher",
+      "count": 1
+    },
+    {
+      "word": "fertile",
+      "count": 1
+    },
+    {
+      "word": "skirt",
+      "count": 1
+    },
+    {
+      "word": "brown",
+      "count": 1
+    },
+    {
+      "word": "pierce",
+      "count": 1
+    },
+    {
+      "word": "460",
+      "count": 1
+    },
+    {
+      "word": "azor",
+      "count": 1
+    },
+    {
+      "word": "eliud",
+      "count": 1
+    },
+    {
+      "word": "samaritan",
+      "count": 1
+    },
+    {
+      "word": "business",
+      "count": 1
+    },
+    {
+      "word": "koum",
+      "count": 1
+    },
+    {
+      "word": "quirinius",
+      "count": 1
+    },
+    {
+      "word": "84",
+      "count": 1
+    },
+    {
+      "word": "lysanias",
+      "count": 1
+    },
+    {
+      "word": "heli",
+      "count": 1
+    },
+    {
+      "word": "naggai",
+      "count": 1
+    },
+    {
+      "word": "joda",
+      "count": 1
+    },
+    {
+      "word": "neri",
+      "count": 1
+    },
+    {
+      "word": "rub",
+      "count": 1
+    },
+    {
+      "word": "rabbi",
+      "count": 1
+    },
+    {
+      "word": "cheaper",
+      "count": 1
+    },
+    {
+      "word": "breakfast",
+      "count": 1
+    },
+    {
+      "word": "salami",
+      "count": 1
+    },
+    {
+      "word": "epicurean",
+      "count": 1
+    },
+    {
+      "word": "stoic",
+      "count": 1
+    },
+    {
+      "word": "sceva",
+      "count": 1
+    },
+    {
+      "word": "co",
+      "count": 1
+    },
+    {
+      "word": "beach",
+      "count": 1
+    },
+    {
+      "word": "nazarene",
+      "count": 1
+    },
+    {
+      "word": "kick",
+      "count": 1
+    },
+    {
+      "word": "276",
+      "count": 1
+    },
+    {
+      "word": "rudder",
+      "count": 1
+    },
+    {
+      "word": "angrier",
+      "count": 1
+    },
+    {
+      "word": "aristobulus",
+      "count": 1
+    },
+    {
+      "word": "narcissus",
+      "count": 1
+    },
+    {
+      "word": "chloe",
+      "count": 1
+    },
+    {
+      "word": "ephesian",
+      "count": 1
+    },
+    {
+      "word": "colossian",
+      "count": 1
+    },
+    {
+      "word": "character",
+      "count": 1
+    },
+    {
+      "word": "grandparent",
+      "count": 1
+    },
+    {
+      "word": "athlete",
+      "count": 1
+    },
+    {
+      "word": "crescens",
+      "count": 1
+    },
+    {
+      "word": "eubulus",
+      "count": 1
+    },
+    {
+      "word": "housewife",
+      "count": 1
+    },
+    {
+      "word": "clearer",
+      "count": 1
+    },
+    {
+      "word": "kinder",
+      "count": 1
+    },
+    {
+      "word": "118",
+      "count": 1
+    },
+    {
+      "word": "darkest",
+      "count": 1
+    },
+    {
+      "word": "666",
+      "count": 1
+    },
+    {
+      "word": "stadium",
+      "count": 1
+    }
+  ]
+}

@@ -48,7 +48,7 @@ FAILED_WORDS_PATH = VERSION_OUTPUT_DIR / "failed_words.json"
 
 # Processing configuration
 BATCH_SIZE = 50  # Words per request
-MAX_WORKERS_CLI = 10  # Parallel requests for CLI
+MAX_WORKERS_CLI = 40  # Parallel requests for CLI (M4 16GB 기준)
 MAX_WORKERS_API = 5   # Optimal for API (server-side bottleneck with more)
 DEFAULT_CLI = "droid"
 DEFAULT_MODEL = "glm-4.6"
@@ -57,7 +57,7 @@ CLI_TIMEOUT = 300  # seconds (increased for Claude CLI)
 # Global variables for CLI configuration (set by main)
 CLI_TOOL = DEFAULT_CLI
 CLI_MODEL = DEFAULT_MODEL
-USE_API = False  # Use API instead of CLI
+USE_API = False  # Default: CLI (droid), set True with --api option
 
 # API Configuration (from environment)
 API_BASE = os.environ.get("ZAI_API_BASE", "https://api.z.ai/api/coding/paas/v4")
@@ -88,22 +88,16 @@ def log(message: str, level: str = "INFO") -> None:
     print(f"[{timestamp}] [{level}] {message}")
 
 
-def get_cli_command(prompt: str = None) -> list[str]:
+def get_cli_command() -> list[str]:
     """Get CLI command based on the tool type.
 
-    Args:
-        prompt: The prompt text (required for droid exec which takes prompt as argument)
+    Both droid and claude read prompt from stdin.
     """
     if CLI_TOOL == "droid":
-        # droid exec: takes prompt as argument, needs --skip-permissions-unsafe for non-interactive use
-        cmd = ["droid", "exec", "--skip-permissions-unsafe"]
-        if CLI_MODEL:
-            cmd.extend(["-m", CLI_MODEL])
-        if prompt:
-            cmd.append(prompt)
-        return cmd
+        # droid exec: stdin으로 프롬프트 전달 (sentence 파이프라인과 동일)
+        return ["droid", "exec", "-o", "text"]
     else:
-        # Default: claude CLI (reads prompt from stdin)
+        # claude CLI: reads prompt from stdin
         return [CLI_TOOL, "--model", CLI_MODEL, "--print"]
 
 
@@ -179,23 +173,14 @@ def process_batch(batch_info: tuple) -> tuple[int, list, list]:
     prompt = create_prompt(words)
 
     try:
-        if CLI_TOOL == "droid":
-            # droid exec: prompt is passed as argument
-            result = subprocess.run(
-                get_cli_command(prompt),
-                capture_output=True,
-                text=True,
-                timeout=CLI_TIMEOUT
-            )
-        else:
-            # claude CLI: prompt is passed via stdin
-            result = subprocess.run(
-                get_cli_command(),
-                input=prompt,
-                capture_output=True,
-                text=True,
-                timeout=CLI_TIMEOUT
-            )
+        # Both droid and claude: prompt is passed via stdin
+        result = subprocess.run(
+            get_cli_command(),
+            input=prompt,
+            capture_output=True,
+            text=True,
+            timeout=CLI_TIMEOUT
+        )
 
         if result.returncode != 0:
             return (batch_index, [], words)
@@ -565,8 +550,7 @@ def main():
     parser.add_argument(
         "--api",
         action="store_true",
-        default=True,
-        help="Use Z.AI API (default, requires .env with API credentials)"
+        help="Use Z.AI API instead of CLI (requires .env with API credentials)"
     )
     parser.add_argument(
         "--cli",
@@ -583,8 +567,11 @@ def main():
     args = parser.parse_args()
 
     # Set global configuration
-    # If --cli is specified, use CLI mode; otherwise use API (default)
-    if args.cli:
+    # Default: droid CLI, use --api for API mode, --cli claude for Claude CLI
+    if args.api:
+        USE_API = True
+        CLI_MODEL = args.model
+    elif args.cli:
         CLI_TOOL = args.cli
         USE_API = False
         # Use haiku by default for claude CLI (faster and cheaper)
@@ -593,8 +580,9 @@ def main():
         else:
             CLI_MODEL = args.model
     else:
+        # Default: droid CLI
         CLI_TOOL = DEFAULT_CLI
-        USE_API = True
+        USE_API = False
         CLI_MODEL = args.model
 
     # Validate API credentials if using API mode

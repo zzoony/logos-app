@@ -73,13 +73,22 @@ function loadEnv() {
   }
 }
 
+// 버전명 → 파일명 매핑
+const BIBLE_FILE_MAP = {
+  'ESV': 'ESV_Bible.json',
+  'NIV': 'NIV_Bible.json',
+  'KJV': 'KJV_Bible.json',
+  'Easy': 'Easy_Bible.json',
+  'Hebrew': 'Hebrew_Bible.json'
+};
+
 /**
  * 성경 데이터 로드
  */
 function loadBibleData(version) {
   if (bibleDataCache[version]) return bibleDataCache[version];
 
-  const fileName = `${version.toUpperCase()}_Bible.json`;
+  const fileName = BIBLE_FILE_MAP[version] || `${version}_Bible.json`;
   const filePath = path.join(SOURCE_DATA_DIR, fileName);
   bibleDataCache[version] = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   return bibleDataCache[version];
