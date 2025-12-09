@@ -8,34 +8,16 @@ const path = require('path');
 const https = require('https');
 const { spawn } = require('child_process');
 const config = require('./config');
+const { log, toFilename, loadEnv: loadEnvFile } = require('./utils');
+const { PATHS, BIBLE_FILE_MAP } = require('./constants');
 
 // 현재 분석 방법 (런타임에 변경 가능)
 let currentAnalysisMethod = config.ANALYSIS_METHOD || 'api';
 
-/**
- * 타임스탬프와 함께 로그 출력
- */
-function log(...args) {
-  const now = new Date();
-  const timestamp = now.toLocaleTimeString('ko-KR', {
-    hour: '2-digit',
-    minute: '2-digit',
-    second: '2-digit',
-    hour12: false
-  });
-  console.log(`[${timestamp}]`, ...args);
-}
-
-// 경로 설정
-const SOURCE_DATA_DIR = path.join(__dirname, '../../source-data');
-const VOCABULARY_DIR = path.join(__dirname, '../../vocabulary/output');
-const OUTPUT_DIR = path.join(__dirname, '../output');
-const ENV_PATH = path.join(__dirname, '../../vocabulary/.env');
-
 // API 설정
 let API_KEY = '';
-let API_BASE = 'https://api.z.ai/api/coding/paas/v4';
-let API_MODEL = 'glm-4.6';
+let API_BASE = config.DEFAULT_API_BASE;
+let API_MODEL = config.DEFAULT_API_MODEL;
 
 // 캐시
 let bibleDataCache = {};
@@ -47,40 +29,14 @@ let isAnalyzing = false;
 let shouldStop = false;
 
 /**
- * 책 이름을 파일명 형식으로 변환 (공백 제거)
- * 예: "1 Thessalonians" -> "1Thessalonians"
- */
-function toFilename(bookName) {
-  return bookName.replace(/\s+/g, '');
-}
-
-/**
- * 환경 변수 로드
+ * 환경 변수 로드 (API 키 설정)
  */
 function loadEnv() {
-  if (fs.existsSync(ENV_PATH)) {
-    const content = fs.readFileSync(ENV_PATH, 'utf-8');
-    content.split('\n').forEach(line => {
-      line = line.trim();
-      if (line && !line.startsWith('#') && line.includes('=')) {
-        const [key, ...valueParts] = line.split('=');
-        const value = valueParts.join('=').trim();
-        if (key.trim() === 'ZAI_API_KEY') API_KEY = value;
-        if (key.trim() === 'ZAI_API_BASE') API_BASE = value;
-        if (key.trim() === 'ZAI_MODEL') API_MODEL = value;
-      }
-    });
-  }
+  const env = loadEnvFile(PATHS.ENV);
+  if (env.ZAI_API_KEY) API_KEY = env.ZAI_API_KEY;
+  if (env.ZAI_API_BASE) API_BASE = env.ZAI_API_BASE;
+  if (env.ZAI_MODEL) API_MODEL = env.ZAI_MODEL;
 }
-
-// 버전명 → 파일명 매핑
-const BIBLE_FILE_MAP = {
-  'ESV': 'ESV_Bible.json',
-  'NIV': 'NIV_Bible.json',
-  'KJV': 'KJV_Bible.json',
-  'Easy': 'Easy_Bible.json',
-  'Hebrew': 'Hebrew_Bible.json'
-};
 
 /**
  * 성경 데이터 로드
@@ -89,7 +45,7 @@ function loadBibleData(version) {
   if (bibleDataCache[version]) return bibleDataCache[version];
 
   const fileName = BIBLE_FILE_MAP[version] || `${version}_Bible.json`;
-  const filePath = path.join(SOURCE_DATA_DIR, fileName);
+  const filePath = path.join(PATHS.SOURCE_DATA, fileName);
   bibleDataCache[version] = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   return bibleDataCache[version];
 }
@@ -100,7 +56,7 @@ function loadBibleData(version) {
 function loadKoreanBible() {
   if (koreanBibleCache) return koreanBibleCache;
 
-  const filePath = path.join(SOURCE_DATA_DIR, 'Korean_Bible.json');
+  const filePath = path.join(PATHS.SOURCE_DATA, 'Korean_Bible.json');
   koreanBibleCache = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   return koreanBibleCache;
 }
@@ -111,7 +67,7 @@ function loadKoreanBible() {
 function loadVocabulary(version) {
   if (vocabularyCache[version]) return vocabularyCache[version];
 
-  const filePath = path.join(VOCABULARY_DIR, version.toLowerCase(), `final_vocabulary_${version.toLowerCase()}.json`);
+  const filePath = path.join(PATHS.VOCABULARY, version.toLowerCase(), `final_vocabulary_${version.toLowerCase()}.json`);
   const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
   // word -> id 매핑 생성
@@ -525,7 +481,7 @@ async function analyzeBook(bookName, version, progressCallback) {
 
   // 출력 디렉토리 확인 (파일명에서 공백 제거)
   const bookFilename = toFilename(bookName);
-  const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
+  const outputPath = path.join(PATHS.OUTPUT, version.toLowerCase(), bookFilename);
   if (!fs.existsSync(outputPath)) {
     fs.mkdirSync(outputPath, { recursive: true });
   }
@@ -658,7 +614,7 @@ async function analyzeBooks(bookNames, version, progressCallback) {
     }
 
     const bookFilename = toFilename(bookName);
-    const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
+    const outputPath = path.join(PATHS.OUTPUT, version.toLowerCase(), bookFilename);
     if (!fs.existsSync(outputPath)) {
       fs.mkdirSync(outputPath, { recursive: true });
     }
@@ -857,7 +813,7 @@ async function reanalyzeVerse(book, chapter, verse, version) {
 
   // 파일 경로 (공백 제거)
   const bookFilename = toFilename(book);
-  const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
+  const outputPath = path.join(PATHS.OUTPUT, version.toLowerCase(), bookFilename);
   const fileName = `${bookFilename}_${chapter}_${verse}.json`;
   const filePath = path.join(outputPath, fileName);
 
@@ -910,7 +866,7 @@ async function reanalyzeBatch(verses, version, progressCallback) {
   // 각 구절 처리 함수
   const processor = async ({ book, chapter, verse }) => {
     const bookFilename = toFilename(book);
-    const outputPath = path.join(OUTPUT_DIR, version.toLowerCase(), bookFilename);
+    const outputPath = path.join(PATHS.OUTPUT, version.toLowerCase(), bookFilename);
     const fileName = `${bookFilename}_${chapter}_${verse}.json`;
     const filePath = path.join(outputPath, fileName);
 

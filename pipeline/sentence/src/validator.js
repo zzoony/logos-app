@@ -5,18 +5,8 @@
 
 const fs = require('fs');
 const path = require('path');
-
-/**
- * 책 이름을 파일명 형식으로 변환 (공백 제거)
- * 예: "1 Thessalonians" -> "1Thessalonians"
- */
-function toFilename(bookName) {
-  return bookName.replace(/\s+/g, '');
-}
-
-// 경로 설정
-const SOURCE_DATA_DIR = path.join(__dirname, '../../source-data');
-const OUTPUT_DIR = path.join(__dirname, '../output');
+const { toFilename, normalizeText, extractWords } = require('./utils');
+const { PATHS, BIBLE_FILE_MAP } = require('./constants');
 
 // 캐시
 let bibleDataCache = {};
@@ -27,34 +17,13 @@ let bibleDataCache = {};
 function loadBibleData(version) {
   if (bibleDataCache[version]) return bibleDataCache[version];
 
-  const fileName = `${version.toUpperCase()}_Bible.json`;
-  const filePath = path.join(SOURCE_DATA_DIR, fileName);
+  const fileName = BIBLE_FILE_MAP[version] || `${version}_Bible.json`;
+  const filePath = path.join(PATHS.SOURCE_DATA, fileName);
   if (!fs.existsSync(filePath)) {
     throw new Error(`Bible data not found: ${filePath}`);
   }
   bibleDataCache[version] = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   return bibleDataCache[version];
-}
-
-/**
- * 텍스트 정규화 (비교용)
- */
-function normalizeText(text) {
-  return text
-    .replace(/\s+/g, ' ')  // 연속 공백 -> 단일 공백
-    .replace(/\n/g, ' ')   // 줄바꿈 -> 공백
-    .trim();
-}
-
-/**
- * 텍스트에서 단어 추출 (구두점 제거, em dash 분리)
- */
-function extractWords(text) {
-  return text
-    .replace(/[—–-]+/g, ' ')  // em dash, en dash, hyphen -> 공백
-    .split(/\s+/)
-    .map(w => w.replace(/^[^\w]+|[^\w]+$/g, '').toLowerCase())
-    .filter(w => w.length > 0);
 }
 
 /**
@@ -285,7 +254,7 @@ function validateVerse(verseData, sourceVerse) {
  */
 function validateBook(bookName, version, progressCallback) {
   const bibleData = loadBibleData(version);
-  const bookPath = path.join(OUTPUT_DIR, version.toLowerCase(), toFilename(bookName));
+  const bookPath = path.join(PATHS.OUTPUT, version.toLowerCase(), toFilename(bookName));
 
   if (!fs.existsSync(bookPath)) {
     return { error: `Output folder not found: ${bookPath}` };
