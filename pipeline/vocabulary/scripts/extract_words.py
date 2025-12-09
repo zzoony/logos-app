@@ -1,83 +1,20 @@
-"""Step 1: Extract words from NIV Bible JSON."""
+"""Step 1: Extract words from Bible JSON.
+
+Extracts and lemmatizes words from Bible text, counting frequencies.
+"""
+
+from __future__ import annotations
 
 import json
 import re
 from collections import Counter
-from pathlib import Path
 
-import nltk
 from nltk.stem import WordNetLemmatizer
 
 from config import BIBLE_JSON_PATH, RAW_WORDS_PATH, VERSION_OUTPUT_DIR
+from word_forms import get_base_form
 
-# Initialize lemmatizer
 lemmatizer = WordNetLemmatizer()
-
-# Lemmatization exceptions: words that are frequently mislemmatized
-# Format: {word: correct_lemma}
-# These are words where WordNet's context-free lemmatization gives wrong results
-LEMMA_EXCEPTIONS = {
-    # "ground" as noun (earth/dirt) should not become "grind"
-    "ground": "ground",
-    # Irregular verb forms that should use correct base
-    "riding": "ride",
-    "ridden": "ride",
-    "rode": "ride",
-    "hidden": "hide",
-    "hid": "hide",
-    "bitten": "bite",
-    "bit": "bite",
-    "written": "write",
-    "wrote": "write",
-    "driven": "drive",
-    "drove": "drive",
-    "risen": "rise",
-    "rose": "rise",
-    "chosen": "choose",
-    "chose": "choose",
-    "frozen": "freeze",
-    "froze": "freeze",
-    "spoken": "speak",
-    "spoke": "speak",
-    "stolen": "steal",
-    "stole": "steal",
-    "broken": "break",
-    "broke": "break",
-    "woken": "wake",
-    "woke": "wake",
-    "forgotten": "forget",
-    "forgot": "forget",
-    "gotten": "get",
-    "begun": "begin",
-    "began": "begin",
-    "sung": "sing",
-    "sang": "sing",
-    "rung": "ring",
-    "rang": "ring",
-    "drunk": "drink",
-    "drank": "drink",
-    "swum": "swim",
-    "swam": "swim",
-    "sunk": "sink",
-    "sank": "sink",
-    "shrunk": "shrink",
-    "shrank": "shrink",
-    "stunk": "stink",
-    "stank": "stink",
-    "sprung": "spring",
-    "sprang": "spring",
-    "strung": "string",
-    "strung": "string",
-    "wrung": "wring",
-    "clung": "cling",
-    "flung": "fling",
-    "slung": "sling",
-    "swung": "swing",
-    "hung": "hang",
-    "bound": "bind",
-    "found": "find",
-    "wound": "wind",  # as in "wind the clock"
-}
 
 
 def load_bible() -> dict:
@@ -131,24 +68,25 @@ def is_numeric_word(word: str) -> bool:
 
 
 def lemmatize_word(word: str) -> str:
-    """Convert word to its base form (lemma)."""
-    # Check exception list first
-    if word in LEMMA_EXCEPTIONS:
-        return LEMMA_EXCEPTIONS[word]
+    """Convert word to its base form (lemma).
 
-    # Get both noun and verb lemmas
+    Uses irregular verb lookup first, then WordNet lemmatizer.
+    """
+    # Check irregular verbs first (from word_forms module)
+    base = get_base_form(word)
+    if base:
+        return base
+
+    # Get both noun and verb lemmas from WordNet
     noun_lemma = lemmatizer.lemmatize(word, pos='n')
     verb_lemma = lemmatizer.lemmatize(word, pos='v')
 
-    # Prefer verb lemma for common irregular verbs (was->be, has->have)
-    # These produce nonsense noun lemmas (wa, ha)
+    # Prefer verb lemma for irregular verbs (was->be, has->have)
     if verb_lemma != word and len(verb_lemma) > 1:
-        # Verb lemma is valid and different
         if noun_lemma == word or len(noun_lemma) <= 2:
-            # Noun lemma unchanged or too short (likely wrong)
             return verb_lemma
 
-    # Otherwise prefer noun lemma for plurals (sons->son, kings->king)
+    # Otherwise prefer noun lemma for plurals (sons->son)
     if noun_lemma != word:
         return noun_lemma
 
