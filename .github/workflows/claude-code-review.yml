@@ -1,0 +1,81 @@
+name: Claude Code Auto Review
+
+on:
+  # CodeRabbit 리뷰 제출 시
+  pull_request_review:
+    types: [submitted]
+  # PR 코멘트 시 (@claude 멘션)
+  issue_comment:
+    types: [created]
+  pull_request_review_comment:
+    types: [created]
+
+jobs:
+  # CodeRabbit이 수정 요청하면 Claude가 자동 수정
+  fix-coderabbit-review:
+    if: |
+      github.event_name == 'pull_request_review' &&
+      github.event.review.user.login == 'coderabbitai[bot]' &&
+      github.event.review.state == 'changes_requested'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    steps:
+      - name: Fix CodeRabbit issues
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            CodeRabbit이 이 PR에 수정을 요청했습니다.
+
+            1. PR의 CodeRabbit 리뷰 코멘트를 확인하세요
+            2. 지적된 이슈들을 수정하세요
+            3. 수정 후 커밋하고 푸시하세요
+
+            단, 데이터 소스 특성으로 인한 이슈(예: KJV 철자)는 무시해도 됩니다.
+          allowed_tools: |
+            Edit
+            Write
+            Read
+            Bash(git add:*,git commit:*,git push:*)
+          track_progress: true
+
+  # CodeRabbit이 approve하면 자동 머지
+  auto-merge:
+    if: |
+      github.event_name == 'pull_request_review' &&
+      github.event.review.user.login == 'coderabbitai[bot]' &&
+      github.event.review.state == 'approved'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Auto merge PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge ${{ github.event.pull_request.number }} \
+            --repo ${{ github.repository }} \
+            --squash \
+            --delete-branch
+
+  # @claude 멘션에 응답
+  respond-to-mention:
+    if: |
+      (github.event_name == 'issue_comment' || github.event_name == 'pull_request_review_comment') &&
+      contains(github.event.comment.body, '@claude')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    steps:
+      - name: Respond to mention
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          trigger_phrase: "@claude"
+          track_progress: true
