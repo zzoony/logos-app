@@ -1,0 +1,35 @@
+{
+  "verse_reference": "2 Peter 2:17",
+  "version": "KJV",
+  "original_text": "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.",
+  "korean_text": "이 사람들은 물 없는 샘이요 광풍에 밀려 가는 안개니 그들을 위하여 캄캄한 어둠이 예비되어 있나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These are wells without water",
+      "korean_translation": "이것들은 물이 없는 우물들이며",
+      "word_indices": [
+        32,
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "clouds that are carried with a tempest",
+      "korean_translation": "폭풍에 이끌리는 구름들이라",
+      "word_indices": [
+        214,
+        1340
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to whom the mist of darkness is reserved for ever",
+      "korean_translation": "그들에게는 흑암의 안개가 영원히 예비되어 있느니라",
+      "word_indices": [
+        54,
+        3161
+      ]
+    }
+  ]
+}

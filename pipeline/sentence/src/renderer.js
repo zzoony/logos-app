@@ -22,8 +22,8 @@ const CONFIG = {
   },
   ANALYSIS_METHODS: {
     api: { name: 'Z.AI API', poolSize: 4 },
-    claude: { name: 'Claude CLI', poolSize: 40 },
-    droid: { name: 'Droid Exec', poolSize: 40 }
+    claude: { name: 'Claude CLI', poolSize: 30 },
+    droid: { name: 'Droid Exec', poolSize: 30 }
   }
 };
 
@@ -430,6 +430,9 @@ async function startAnalysis(selectedCards) {
   const books = Array.from(selectedCards).map(card => card.dataset.bookName);
   const version = currentSettings.bibleVersion;
 
+  // 분석 완료 이벤트 중복 방지 플래그 초기화
+  analysisCompleteHandled = false;
+
   console.log(`Starting analysis for ${books.length} books (${version})`);
   console.log('Books:', books);
 
@@ -722,11 +725,21 @@ function updateProcessingList() {
   processingList.innerHTML = items.join('');
 }
 
+// 분석 완료 이벤트 중복 방지 플래그
+let analysisCompleteHandled = false;
+
 /**
  * 분석 완료 이벤트 핸들러
  */
 async function handleAnalysisComplete(result) {
   console.log('Analysis complete:', result);
+
+  // 이미 처리된 완료 이벤트는 무시 (늦게 도착한 프로세스 응답 등)
+  if (analysisCompleteHandled) {
+    console.log('Analysis complete event already handled, ignoring duplicate');
+    return;
+  }
+  analysisCompleteHandled = true;
 
   const { totalCompleted, totalVerses, totalFailed, retrySessionsUsed, maxRetrySessions, stopped } = result;
 

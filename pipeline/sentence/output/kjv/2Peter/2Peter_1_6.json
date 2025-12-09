@@ -1,0 +1,34 @@
+{
+  "verse_reference": "2 Peter 1:6",
+  "version": "KJV",
+  "original_text": "And to knowledge temperance; and to temperance patience; and to patience godliness;",
+  "korean_text": "지식에 절제를, 절제에 인내를, 인내에 경건을,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And to knowledge temperance",
+      "korean_translation": "그리고 지식에는 절제가",
+      "word_indices": [
+        186,
+        3139
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and to temperance patience",
+      "korean_translation": "절제에는 인내가",
+      "word_indices": [
+        885,
+        3139
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to patience godliness",
+      "korean_translation": "인내에는 경건이",
+      "word_indices": [
+        885
+      ]
+    }
+  ]
+}

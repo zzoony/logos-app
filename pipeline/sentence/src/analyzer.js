@@ -28,6 +28,9 @@ let vocabularyCache = {};
 let isAnalyzing = false;
 let shouldStop = false;
 
+// 활성 child process 추적 (중단 시 종료용)
+const activeProcesses = new Set();
+
 /**
  * 환경 변수 로드 (API 키 설정)
  */
@@ -201,6 +204,9 @@ function callClaude(prompt) {
       stdio: ['pipe', 'pipe', 'pipe']
     });
 
+    // 활성 프로세스 추적
+    activeProcesses.add(child);
+
     let stdout = '';
     let stderr = '';
     let timeoutId;
@@ -215,6 +221,7 @@ function callClaude(prompt) {
 
     child.on('close', (code) => {
       clearTimeout(timeoutId);
+      activeProcesses.delete(child);
       if (code === 0) {
         resolve(stdout);
       } else {
@@ -224,11 +231,13 @@ function callClaude(prompt) {
 
     child.on('error', (err) => {
       clearTimeout(timeoutId);
+      activeProcesses.delete(child);
       reject(new Error(`Claude CLI error: ${err.message}`));
     });
 
     // 타임아웃 설정
     timeoutId = setTimeout(() => {
+      activeProcesses.delete(child);
       child.kill('SIGTERM');
       reject(new Error('Claude CLI timeout'));
     }, timeout);
@@ -250,6 +259,9 @@ function callDroid(prompt) {
       stdio: ['pipe', 'pipe', 'pipe']
     });
 
+    // 활성 프로세스 추적
+    activeProcesses.add(child);
+
     let stdout = '';
     let stderr = '';
     let timeoutId;
@@ -264,6 +276,7 @@ function callDroid(prompt) {
 
     child.on('close', (code) => {
       clearTimeout(timeoutId);
+      activeProcesses.delete(child);
       if (code === 0) {
         resolve(stdout);
       } else {
@@ -273,11 +286,13 @@ function callDroid(prompt) {
 
     child.on('error', (err) => {
       clearTimeout(timeoutId);
+      activeProcesses.delete(child);
       reject(new Error(`Droid exec error: ${err.message}`));
     });
 
     // 타임아웃 설정
     timeoutId = setTimeout(() => {
+      activeProcesses.delete(child);
       child.kill('SIGTERM');
       reject(new Error('Droid exec timeout'));
     }, timeout);
@@ -876,6 +891,19 @@ async function analyzeBooks(bookNames, version, progressCallback) {
 function stopAnalysis() {
   shouldStop = true;
   log('[STOP] Stop requested...');
+
+  // 모든 활성 child process 종료
+  if (activeProcesses.size > 0) {
+    log(`[STOP] Killing ${activeProcesses.size} active processes...`);
+    for (const child of activeProcesses) {
+      try {
+        child.kill('SIGTERM');
+      } catch (e) {
+        // 이미 종료된 프로세스일 수 있음
+      }
+    }
+    activeProcesses.clear();
+  }
 }
 
 /**
