@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:isar/isar.dart';
-import '../data/models/app_settings_model.dart';
-import 'database_provider.dart';
+import '../data/repositories/repository_providers.dart';
 
 final themeModeProvider =
     StateNotifierProvider<ThemeModeNotifier, ThemeMode>((ref) {
@@ -18,14 +16,11 @@ class ThemeModeNotifier extends StateNotifier<ThemeMode> {
 
   Future<void> _loadTheme() async {
     try {
-      final isar = await _ref.read(isarProvider.future);
-      final setting = await isar.appSettingsModels
-          .filter()
-          .keyEqualTo(SettingsKeys.themeMode)
-          .findFirst();
+      final settingsRepo = await _ref.read(settingsRepositoryProvider.future);
+      final themeValue = await settingsRepo.getThemeMode();
 
-      if (setting?.stringValue != null) {
-        state = _parseThemeMode(setting!.stringValue!);
+      if (themeValue != null) {
+        state = _parseThemeMode(themeValue);
       }
     } catch (e) {
       // Use default on error
@@ -36,19 +31,8 @@ class ThemeModeNotifier extends StateNotifier<ThemeMode> {
     state = mode;
 
     try {
-      final isar = await _ref.read(isarProvider.future);
-      await isar.writeTxn(() async {
-        var setting = await isar.appSettingsModels
-            .filter()
-            .keyEqualTo(SettingsKeys.themeMode)
-            .findFirst();
-
-        if (setting == null) {
-          setting = AppSettingsModel()..key = SettingsKeys.themeMode;
-        }
-        setting.stringValue = _themeModeToString(mode);
-        await isar.appSettingsModels.put(setting);
-      });
+      final settingsRepo = await _ref.read(settingsRepositoryProvider.future);
+      await settingsRepo.saveThemeMode(_themeModeToString(mode));
     } catch (e) {
       // Ignore save errors
     }

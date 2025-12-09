@@ -1,11 +1,8 @@
 import 'dart:math';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:isar/isar.dart';
 import '../data/models/word_model.dart';
 import '../data/models/sentence_model.dart';
-import '../data/models/user_progress_model.dart';
-import '../data/models/app_settings_model.dart';
-import 'database_provider.dart';
+import '../data/repositories/repository_providers.dart';
 import 'word_providers.dart';
 
 class LearningSessionState {
@@ -77,12 +74,8 @@ class LearningSessionNotifier extends StateNotifier<LearningSessionState> {
 
   Future<int> _getLastPosition() async {
     try {
-      final isar = await _ref.read(isarProvider.future);
-      final setting = await isar.appSettingsModels
-          .filter()
-          .keyEqualTo(SettingsKeys.lastWordRank)
-          .findFirst();
-      return setting?.intValue ?? 0;
+      final settingsRepo = await _ref.read(settingsRepositoryProvider.future);
+      return await settingsRepo.getLastWordPosition();
     } catch (e) {
       return 0;
     }
@@ -90,18 +83,8 @@ class LearningSessionNotifier extends StateNotifier<LearningSessionState> {
 
   Future<void> _savePosition() async {
     try {
-      final isar = await _ref.read(isarProvider.future);
-      await isar.writeTxn(() async {
-        var setting = await isar.appSettingsModels
-            .filter()
-            .keyEqualTo(SettingsKeys.lastWordRank)
-            .findFirst();
-        if (setting == null) {
-          setting = AppSettingsModel()..key = SettingsKeys.lastWordRank;
-        }
-        setting.intValue = state.currentIndex;
-        await isar.appSettingsModels.put(setting);
-      });
+      final settingsRepo = await _ref.read(settingsRepositoryProvider.future);
+      await settingsRepo.saveLastWordPosition(state.currentIndex);
     } catch (e) {
       // Ignore errors
     }
@@ -151,25 +134,8 @@ class LearningSessionNotifier extends StateNotifier<LearningSessionState> {
     if (word == null) return;
 
     try {
-      final isar = await _ref.read(isarProvider.future);
-      await isar.writeTxn(() async {
-        var progress = await isar.userProgressModels
-            .filter()
-            .wordEqualTo(word.word)
-            .findFirst();
-
-        if (progress == null) {
-          progress = UserProgressModel()
-            ..word = word.word
-            ..isSaved = false
-            ..viewCount = 0
-            ..lastViewedAt = DateTime.now();
-        }
-
-        progress.status = WordStatus.known;
-        progress.masteredAt = DateTime.now();
-        await isar.userProgressModels.put(progress);
-      });
+      final progressRepo = await _ref.read(progressRepositoryProvider.future);
+      await progressRepo.markWordAsKnown(word.word);
 
       // Remove from current list and move to next
       final newWords = List<WordModel>.from(state.words);
@@ -195,24 +161,8 @@ class LearningSessionNotifier extends StateNotifier<LearningSessionState> {
     if (word == null) return;
 
     try {
-      final isar = await _ref.read(isarProvider.future);
-      await isar.writeTxn(() async {
-        var progress = await isar.userProgressModels
-            .filter()
-            .wordEqualTo(word.word)
-            .findFirst();
-
-        if (progress == null) {
-          progress = UserProgressModel()
-            ..word = word.word
-            ..status = WordStatus.unknown
-            ..viewCount = 0
-            ..lastViewedAt = DateTime.now();
-        }
-
-        progress.isSaved = true;
-        await isar.userProgressModels.put(progress);
-      });
+      final progressRepo = await _ref.read(progressRepositoryProvider.future);
+      await progressRepo.saveWordToVocabulary(word.word);
 
       state = state.copyWith(savedCount: state.savedCount + 1);
     } catch (e) {
@@ -225,30 +175,8 @@ class LearningSessionNotifier extends StateNotifier<LearningSessionState> {
     if (word == null) return;
 
     try {
-      final isar = await _ref.read(isarProvider.future);
-      await isar.writeTxn(() async {
-        var progress = await isar.userProgressModels
-            .filter()
-            .wordEqualTo(word.word)
-            .findFirst();
-
-        if (progress == null) {
-          progress = UserProgressModel()
-            ..word = word.word
-            ..status = WordStatus.unknown
-            ..isSaved = false
-            ..viewCount = 0;
-        }
-
-        progress.viewCount++;
-        progress.lastViewedAt = DateTime.now();
-
-        if (progress.status == WordStatus.unknown) {
-          progress.status = WordStatus.learning;
-        }
-
-        await isar.userProgressModels.put(progress);
-      });
+      final progressRepo = await _ref.read(progressRepositoryProvider.future);
+      await progressRepo.recordWordView(word.word);
     } catch (e) {
       // Ignore errors
     }
