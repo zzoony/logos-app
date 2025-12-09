@@ -11,7 +11,10 @@ const CONFIG = {
   DEFAULT_ANALYSIS_METHOD: 'api',
   BIBLE_FILES: {
     ESV: 'ESV_Bible.json',
-    NIV: 'NIV_Bible.json'
+    NIV: 'NIV_Bible.json',
+    KJV: 'KJV_Bible.json',
+    Easy: 'Easy_Bible.json',
+    Hebrew: 'Hebrew_Bible.json'
   },
   EDITORS: {
     cursor: 'Cursor',
