@@ -50,12 +50,16 @@ def filter_stopwords(data: dict, stopwords: set) -> list:
 
 def save_output(filtered_words: list, original_metadata: dict) -> None:
     """Save filtered words to JSON."""
+    # Recalculate total_occurrences from actual word counts
+    total_occurrences = sum(item["count"] for item in filtered_words)
+
     output = {
         "metadata": {
             **original_metadata,
             "step": "filtered_stopwords",
             "stopwords_removed": original_metadata["total_unique_words"] - len(filtered_words),
             "total_unique_words": len(filtered_words),
+            "total_occurrences": total_occurrences,
         },
         "words": filtered_words,
     }

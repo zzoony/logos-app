@@ -1,230 +1,34 @@
 {
   "metadata": {
     "step": "filtered_stopwords",
-    "total_unique_words": 9864,
-    "total_occurrences": 789648,
-    "stopwords_removed": 0
+    "total_unique_words": 9658,
+    "total_occurrences": 278668,
+    "stopwords_removed": 205
   },
   "words": [
     {
-      "word": "the",
-      "count": 63922
-    },
-    {
-      "word": "and",
-      "count": 51697
-    },
-    {
-      "word": "of",
-      "count": 34615
-    },
-    {
-      "word": "be",
-      "count": 25743
-    },
-    {
-      "word": "to",
-      "count": 13561
-    },
-    {
-      "word": "that",
-      "count": 12913
-    },
-    {
-      "word": "in",
-      "count": 12668
-    },
-    {
-      "word": "a",
-      "count": 11697
-    },
-    {
-      "word": "he",
-      "count": 10420
-    },
-    {
-      "word": "shall",
-      "count": 9838
-    },
-    {
-      "word": "unto",
-      "count": 8997
-    },
-    {
-      "word": "for",
-      "count": 8971
-    },
-    {
-      "word": "i",
-      "count": 8854
-    },
-    {
-      "word": "his",
-      "count": 8473
-    },
-    {
       "word": "lord",
       "count": 8006
-    },
-    {
-      "word": "they",
-      "count": 7376
-    },
-    {
-      "word": "him",
-      "count": 6659
-    },
-    {
-      "word": "not",
-      "count": 6596
-    },
-    {
-      "word": "say",
-      "count": 6500
-    },
-    {
-      "word": "them",
-      "count": 6430
-    },
-    {
-      "word": "it",
-      "count": 6130
-    },
-    {
-      "word": "have",
-      "count": 6124
-    },
-    {
-      "word": "with",
-      "count": 6012
-    },
-    {
-      "word": "all",
-      "count": 5620
-    },
-    {
-      "word": "thou",
-      "count": 5474
     },
     {
       "word": "god",
       "count": 4716
     },
     {
-      "word": "thy",
-      "count": 4601
-    },
-    {
-      "word": "which",
-      "count": 4413
-    },
-    {
-      "word": "my",
-      "count": 4368
-    },
-    {
-      "word": "come",
-      "count": 4164
-    },
-    {
-      "word": "me",
-      "count": 4096
-    },
-    {
-      "word": "but",
-      "count": 3992
-    },
-    {
-      "word": "ye",
-      "count": 3982
-    },
-    {
-      "word": "their",
-      "count": 3945
-    },
-    {
-      "word": "will",
-      "count": 3868
-    },
-    {
-      "word": "thee",
-      "count": 3827
-    },
-    {
-      "word": "from",
-      "count": 3642
-    },
-    {
       "word": "son",
       "count": 3486
-    },
-    {
-      "word": "go",
-      "count": 3197
-    },
-    {
-      "word": "do",
-      "count": 2978
     },
     {
       "word": "king",
       "count": 2874
     },
     {
-      "word": "when",
-      "count": 2834
-    },
-    {
-      "word": "this",
-      "count": 2785
-    },
-    {
-      "word": "out",
-      "count": 2775
-    },
-    {
-      "word": "upon",
-      "count": 2748
-    },
-    {
       "word": "man",
       "count": 2735
     },
     {
-      "word": "by",
-      "count": 2624
-    },
-    {
-      "word": "you",
-      "count": 2617
-    },
-    {
-      "word": "day",
-      "count": 2609
-    },
-    {
       "word": "israel",
       "count": 2575
-    },
-    {
-      "word": "make",
-      "count": 2491
-    },
-    {
-      "word": "up",
-      "count": 2380
-    },
-    {
-      "word": "there",
-      "count": 2299
-    },
-    {
-      "word": "hath",
-      "count": 2264
-    },
-    {
-      "word": "then",
-      "count": 2168
     },
     {
       "word": "house",
@@ -235,28 +39,8 @@
       "count": 2145
     },
     {
-      "word": "one",
-      "count": 2046
-    },
-    {
       "word": "child",
       "count": 2026
-    },
-    {
-      "word": "into",
-      "count": 2015
-    },
-    {
-      "word": "on",
-      "count": 2011
-    },
-    {
-      "word": "her",
-      "count": 1995
-    },
-    {
-      "word": "take",
-      "count": 1983
     },
     {
       "word": "hand",
@@ -267,40 +51,12 @@
       "count": 1872
     },
     {
-      "word": "we",
-      "count": 1844
-    },
-    {
-      "word": "before",
-      "count": 1796
-    },
-    {
-      "word": "your",
-      "count": 1782
-    },
-    {
       "word": "also",
       "count": 1769
     },
     {
       "word": "land",
       "count": 1767
-    },
-    {
-      "word": "thing",
-      "count": 1704
-    },
-    {
-      "word": "an",
-      "count": 1699
-    },
-    {
-      "word": "so",
-      "count": 1689
-    },
-    {
-      "word": "men",
-      "count": 1677
     },
     {
       "word": "father",
@@ -311,52 +67,12 @@
       "count": 1667
     },
     {
-      "word": "shalt",
-      "count": 1616
-    },
-    {
       "word": "bring",
       "count": 1612
     },
     {
-      "word": "if",
-      "count": 1595
-    },
-    {
-      "word": "at",
-      "count": 1570
-    },
-    {
-      "word": "let",
-      "count": 1512
-    },
-    {
-      "word": "even",
-      "count": 1453
-    },
-    {
-      "word": "u",
-      "count": 1451
-    },
-    {
-      "word": "behold",
-      "count": 1394
-    },
-    {
-      "word": "no",
-      "count": 1394
-    },
-    {
-      "word": "now",
-      "count": 1356
-    },
-    {
       "word": "city",
       "count": 1316
-    },
-    {
-      "word": "saith",
-      "count": 1262
     },
     {
       "word": "word",
@@ -367,40 +83,12 @@
       "count": 1237
     },
     {
-      "word": "every",
-      "count": 1236
-    },
-    {
       "word": "hear",
       "count": 1230
     },
     {
-      "word": "these",
-      "count": 1225
-    },
-    {
-      "word": "because",
-      "count": 1209
-    },
-    {
       "word": "know",
       "count": 1205
-    },
-    {
-      "word": "after",
-      "count": 1179
-    },
-    {
-      "word": "our",
-      "count": 1170
-    },
-    {
-      "word": "down",
-      "count": 1125
-    },
-    {
-      "word": "or",
-      "count": 1121
     },
     {
       "word": "name",
@@ -411,10 +99,6 @@
       "count": 1103
     },
     {
-      "word": "hast",
-      "count": 1070
-    },
-    {
       "word": "o",
       "count": 1065
     },
@@ -423,40 +107,16 @@
       "count": 1064
     },
     {
-      "word": "may",
-      "count": 1027
-    },
-    {
-      "word": "over",
-      "count": 1008
-    },
-    {
-      "word": "see",
-      "count": 990
-    },
-    {
       "word": "earth",
       "count": 987
-    },
-    {
-      "word": "what",
-      "count": 985
     },
     {
       "word": "jesus",
       "count": 983
     },
     {
-      "word": "she",
-      "count": 982
-    },
-    {
       "word": "servant",
       "count": 978
-    },
-    {
-      "word": "who",
-      "count": 968
     },
     {
       "word": "brother",
@@ -479,16 +139,8 @@
       "count": 944
     },
     {
-      "word": "thine",
-      "count": 938
-    },
-    {
       "word": "send",
       "count": 933
-    },
-    {
-      "word": "put",
-      "count": 928
     },
     {
       "word": "among",
@@ -497,14 +149,6 @@
     {
       "word": "away",
       "count": 915
-    },
-    {
-      "word": "any",
-      "count": 912
-    },
-    {
-      "word": "year",
-      "count": 908
     },
     {
       "word": "thereof",
@@ -519,10 +163,6 @@
       "count": 879
     },
     {
-      "word": "way",
-      "count": 869
-    },
-    {
       "word": "speak",
       "count": 862
     },
@@ -533,10 +173,6 @@
     {
       "word": "call",
       "count": 844
-    },
-    {
-      "word": "two",
-      "count": 837
     },
     {
       "word": "pas",
@@ -559,28 +195,12 @@
       "count": 790
     },
     {
-      "word": "should",
-      "count": 783
-    },
-    {
       "word": "work",
       "count": 777
     },
     {
-      "word": "time",
-      "count": 769
-    },
-    {
-      "word": "whom",
-      "count": 763
-    },
-    {
       "word": "good",
       "count": 762
-    },
-    {
-      "word": "nor",
-      "count": 755
     },
     {
       "word": "sin",
@@ -595,24 +215,8 @@
       "count": 716
     },
     {
-      "word": "set",
-      "count": 698
-    },
-    {
       "word": "water",
       "count": 697
-    },
-    {
-      "word": "more",
-      "count": 686
-    },
-    {
-      "word": "yet",
-      "count": 683
-    },
-    {
-      "word": "again",
-      "count": 672
     },
     {
       "word": "like",
@@ -629,14 +233,6 @@
     {
       "word": "answer",
       "count": 657
-    },
-    {
-      "word": "mine",
-      "count": 649
-    },
-    {
-      "word": "about",
-      "count": 632
     },
     {
       "word": "evil",
@@ -663,8 +259,8 @@
       "count": 611
     },
     {
-      "word": "own",
-      "count": 596
+      "word": "fall",
+      "count": 589
     },
     {
       "word": "deliver",
@@ -695,14 +291,6 @@
       "count": 568
     },
     {
-      "word": "many",
-      "count": 556
-    },
-    {
-      "word": "saw",
-      "count": 553
-    },
-    {
       "word": "spirit",
       "count": 551
     },
@@ -727,10 +315,6 @@
       "count": 543
     },
     {
-      "word": "how",
-      "count": 543
-    },
-    {
       "word": "wife",
       "count": 540
     },
@@ -747,20 +331,12 @@
       "count": 528
     },
     {
-      "word": "himself",
-      "count": 527
-    },
-    {
       "word": "voice",
       "count": 522
     },
     {
       "word": "cast",
       "count": 522
-    },
-    {
-      "word": "off",
-      "count": 507
     },
     {
       "word": "tell",
@@ -787,6 +363,10 @@
       "count": 489
     },
     {
+      "word": "leave",
+      "count": 488
+    },
+    {
       "word": "fear",
       "count": 486
     },
@@ -797,10 +377,6 @@
     {
       "word": "together",
       "count": 484
-    },
-    {
-      "word": "than",
-      "count": 482
     },
     {
       "word": "prophet",
@@ -815,20 +391,8 @@
       "count": 478
     },
     {
-      "word": "ever",
-      "count": 476
-    },
-    {
-      "word": "might",
-      "count": 475
-    },
-    {
       "word": "head",
       "count": 474
-    },
-    {
-      "word": "leave",
-      "count": 469
     },
     {
       "word": "write",
@@ -839,28 +403,12 @@
       "count": 465
     },
     {
-      "word": "those",
-      "count": 465
-    },
-    {
-      "word": "other",
-      "count": 464
-    },
-    {
       "word": "through",
       "count": 463
     },
     {
-      "word": "another",
-      "count": 453
-    },
-    {
       "word": "live",
       "count": 452
-    },
-    {
-      "word": "would",
-      "count": 451
     },
     {
       "word": "return",
@@ -891,10 +439,6 @@
       "count": 440
     },
     {
-      "word": "first",
-      "count": 434
-    },
-    {
       "word": "cause",
       "count": 433
     },
@@ -909,10 +453,6 @@
     {
       "word": "bear",
       "count": 428
-    },
-    {
-      "word": "without",
-      "count": 426
     },
     {
       "word": "sea",
@@ -959,16 +499,8 @@
       "count": 412
     },
     {
-      "word": "themselves",
-      "count": 409
-    },
-    {
       "word": "glory",
       "count": 406
-    },
-    {
-      "word": "where",
-      "count": 401
     },
     {
       "word": "kingdom",
@@ -983,19 +515,11 @@
       "count": 393
     },
     {
-      "word": "under",
-      "count": 392
-    },
-    {
       "word": "seek",
       "count": 384
     },
     {
       "word": "end",
-      "count": 380
-    },
-    {
-      "word": "old",
       "count": 380
     },
     {
@@ -1023,10 +547,6 @@
       "count": 367
     },
     {
-      "word": "until",
-      "count": 366
-    },
-    {
       "word": "midst",
       "count": 364
     },
@@ -1041,10 +561,6 @@
     {
       "word": "rise",
       "count": 363
-    },
-    {
-      "word": "both",
-      "count": 361
     },
     {
       "word": "bread",
@@ -1091,10 +607,6 @@
       "count": 349
     },
     {
-      "word": "wherefore",
-      "count": 348
-    },
-    {
       "word": "sit",
       "count": 348
     },
@@ -1104,10 +616,6 @@
     },
     {
       "word": "toward",
-      "count": 346
-    },
-    {
-      "word": "fall",
       "count": 346
     },
     {
@@ -1129,10 +637,6 @@
     {
       "word": "receive",
       "count": 343
-    },
-    {
-      "word": "yea",
-      "count": 340
     },
     {
       "word": "beast",
@@ -1193,10 +697,6 @@
     {
       "word": "mercy",
       "count": 320
-    },
-    {
-      "word": "whose",
-      "count": 314
     },
     {
       "word": "mountain",
@@ -1303,10 +803,6 @@
       "count": 287
     },
     {
-      "word": "much",
-      "count": 287
-    },
-    {
       "word": "power",
       "count": 286
     },
@@ -1325,18 +821,6 @@
     {
       "word": "chief",
       "count": 283
-    },
-    {
-      "word": "why",
-      "count": 282
-    },
-    {
-      "word": "cometh",
-      "count": 282
-    },
-    {
-      "word": "well",
-      "count": 275
     },
     {
       "word": "pharaoh",
@@ -1407,10 +891,6 @@
       "count": 258
     },
     {
-      "word": "very",
-      "count": 257
-    },
-    {
       "word": "river",
       "count": 256
     },
@@ -1421,10 +901,6 @@
     {
       "word": "flee",
       "count": 254
-    },
-    {
-      "word": "only",
-      "count": 253
     },
     {
       "word": "ten",
@@ -1451,10 +927,6 @@
       "count": 250
     },
     {
-      "word": "such",
-      "count": 249
-    },
-    {
       "word": "wall",
       "count": 249
     },
@@ -1465,14 +937,6 @@
     {
       "word": "faith",
       "count": 247
-    },
-    {
-      "word": "fell",
-      "count": 245
-    },
-    {
-      "word": "wilt",
-      "count": 245
     },
     {
       "word": "concern",
@@ -1519,10 +983,6 @@
       "count": 235
     },
     {
-      "word": "can",
-      "count": 235
-    },
-    {
       "word": "inhabitant",
       "count": 235
     },
@@ -1555,14 +1015,6 @@
       "count": 233
     },
     {
-      "word": "between",
-      "count": 232
-    },
-    {
-      "word": "some",
-      "count": 232
-    },
-    {
       "word": "ark",
       "count": 230
     },
@@ -1583,28 +1035,12 @@
       "count": 225
     },
     {
-      "word": "nothing",
-      "count": 225
-    },
-    {
       "word": "long",
       "count": 225
     },
     {
-      "word": "while",
-      "count": 224
-    },
-    {
-      "word": "above",
-      "count": 223
-    },
-    {
       "word": "joshua",
       "count": 216
-    },
-    {
-      "word": "thyself",
-      "count": 215
     },
     {
       "word": "teach",
@@ -1623,10 +1059,6 @@
       "count": 211
     },
     {
-      "word": "near",
-      "count": 211
-    },
-    {
       "word": "stranger",
       "count": 211
     },
@@ -1637,10 +1069,6 @@
     {
       "word": "body",
       "count": 208
-    },
-    {
-      "word": "doth",
-      "count": 207
     },
     {
       "word": "remember",
@@ -1731,10 +1159,6 @@
       "count": 191
     },
     {
-      "word": "yourselves",
-      "count": 191
-    },
-    {
       "word": "draw",
       "count": 191
     },
@@ -1757,10 +1181,6 @@
     {
       "word": "lamb",
       "count": 188
-    },
-    {
-      "word": "within",
-      "count": 186
     },
     {
       "word": "bare",
@@ -1859,14 +1279,6 @@
       "count": 172
     },
     {
-      "word": "till",
-      "count": 171
-    },
-    {
-      "word": "whether",
-      "count": 171
-    },
-    {
       "word": "sabbath",
       "count": 171
     },
@@ -1879,20 +1291,12 @@
       "count": 170
     },
     {
-      "word": "second",
-      "count": 169
-    },
-    {
       "word": "commit",
       "count": 169
     },
     {
       "word": "moab",
       "count": 168
-    },
-    {
-      "word": "wherein",
-      "count": 167
     },
     {
       "word": "appoint",
@@ -1912,10 +1316,6 @@
     },
     {
       "word": "ox",
-      "count": 166
-    },
-    {
-      "word": "could",
       "count": 166
     },
     {
@@ -1961,10 +1361,6 @@
     {
       "word": "trust",
       "count": 164
-    },
-    {
-      "word": "here",
-      "count": 163
     },
     {
       "word": "feast",
@@ -2013,10 +1409,6 @@
     {
       "word": "forsake",
       "count": 160
-    },
-    {
-      "word": "lo",
-      "count": 159
     },
     {
       "word": "counsel",
@@ -2071,10 +1463,6 @@
       "count": 153
     },
     {
-      "word": "get",
-      "count": 153
-    },
-    {
       "word": "zion",
       "count": 153
     },
@@ -2092,10 +1480,6 @@
     },
     {
       "word": "lion",
-      "count": 150
-    },
-    {
-      "word": "new",
       "count": 150
     },
     {
@@ -2153,10 +1537,6 @@
     {
       "word": "prophesy",
       "count": 146
-    },
-    {
-      "word": "thence",
-      "count": 145
     },
     {
       "word": "husband",
@@ -2251,15 +1631,7 @@
       "count": 136
     },
     {
-      "word": "goeth",
-      "count": 135
-    },
-    {
       "word": "sister",
-      "count": 135
-    },
-    {
-      "word": "most",
       "count": 135
     },
     {
@@ -2292,10 +1664,6 @@
     },
     {
       "word": "goat",
-      "count": 132
-    },
-    {
-      "word": "must",
       "count": 132
     },
     {
@@ -2403,10 +1771,6 @@
       "count": 125
     },
     {
-      "word": "whither",
-      "count": 124
-    },
-    {
       "word": "samaria",
       "count": 124
     },
@@ -2456,10 +1820,6 @@
     },
     {
       "word": "bone",
-      "count": 118
-    },
-    {
-      "word": "myself",
       "count": 118
     },
     {
@@ -2627,10 +1987,6 @@
       "count": 110
     },
     {
-      "word": "wherewith",
-      "count": 110
-    },
-    {
       "word": "defile",
       "count": 110
     },
@@ -2709,10 +2065,6 @@
     {
       "word": "gospel",
       "count": 104
-    },
-    {
-      "word": "still",
-      "count": 103
     },
     {
       "word": "vision",
@@ -2891,16 +2243,8 @@
       "count": 96
     },
     {
-      "word": "thither",
-      "count": 95
-    },
-    {
       "word": "stead",
       "count": 95
-    },
-    {
-      "word": "just",
-      "count": 94
     },
     {
       "word": "pit",
@@ -2952,10 +2296,6 @@
     },
     {
       "word": "afflict",
-      "count": 90
-    },
-    {
-      "word": "as",
       "count": 90
     },
     {
@@ -3040,10 +2380,6 @@
     },
     {
       "word": "edom",
-      "count": 86
-    },
-    {
-      "word": "never",
       "count": 86
     },
     {
@@ -3291,10 +2627,6 @@
       "count": 75
     },
     {
-      "word": "behind",
-      "count": 74
-    },
-    {
       "word": "reuben",
       "count": 74
     },
@@ -3363,10 +2695,6 @@
       "count": 72
     },
     {
-      "word": "whence",
-      "count": 72
-    },
-    {
       "word": "youth",
       "count": 72
     },
@@ -3420,10 +2748,6 @@
     },
     {
       "word": "fury",
-      "count": 70
-    },
-    {
-      "word": "since",
       "count": 70
     },
     {
@@ -3523,15 +2847,7 @@
       "count": 68
     },
     {
-      "word": "always",
-      "count": 67
-    },
-    {
       "word": "count",
-      "count": 67
-    },
-    {
-      "word": "hither",
       "count": 67
     },
     {
@@ -3700,10 +3016,6 @@
     },
     {
       "word": "yoke",
-      "count": 64
-    },
-    {
-      "word": "hat",
       "count": 64
     },
     {
@@ -3916,10 +3228,6 @@
     },
     {
       "word": "awake",
-      "count": 59
-    },
-    {
-      "word": "once",
       "count": 59
     },
     {
@@ -4151,19 +3459,11 @@
       "count": 55
     },
     {
-      "word": "nay",
-      "count": 55
-    },
-    {
       "word": "haste",
       "count": 55
     },
     {
       "word": "laban",
-      "count": 55
-    },
-    {
-      "word": "dost",
       "count": 55
     },
     {
@@ -4208,10 +3508,6 @@
     },
     {
       "word": "brook",
-      "count": 54
-    },
-    {
-      "word": "beyond",
       "count": 54
     },
     {
@@ -4367,15 +3663,7 @@
       "count": 51
     },
     {
-      "word": "each",
-      "count": 51
-    },
-    {
       "word": "circumcise",
-      "count": 51
-    },
-    {
-      "word": "too",
       "count": 51
     },
     {
@@ -4392,10 +3680,6 @@
     },
     {
       "word": "wheat",
-      "count": 51
-    },
-    {
-      "word": "ourselves",
       "count": 51
     },
     {
@@ -4425,10 +3709,6 @@
     {
       "word": "doings",
       "count": 51
-    },
-    {
-      "word": "itself",
-      "count": 50
     },
     {
       "word": "belly",
@@ -4731,6 +4011,10 @@
       "count": 46
     },
     {
+      "word": "ride",
+      "count": 46
+    },
+    {
       "word": "tidings",
       "count": 46
     },
@@ -4752,10 +4036,6 @@
     },
     {
       "word": "yield",
-      "count": 45
-    },
-    {
-      "word": "doest",
       "count": 45
     },
     {
@@ -4955,10 +4235,6 @@
       "count": 42
     },
     {
-      "word": "herself",
-      "count": 42
-    },
-    {
       "word": "fellow",
       "count": 42
     },
@@ -5024,10 +4300,6 @@
     },
     {
       "word": "juda",
-      "count": 42
-    },
-    {
-      "word": "jam",
       "count": 42
     },
     {
@@ -5175,10 +4447,6 @@
       "count": 40
     },
     {
-      "word": "sayest",
-      "count": 40
-    },
-    {
       "word": "oblation",
       "count": 40
     },
@@ -5224,10 +4492,6 @@
     },
     {
       "word": "bowel",
-      "count": 39
-    },
-    {
-      "word": "whereby",
       "count": 39
     },
     {
@@ -5591,10 +4855,6 @@
       "count": 36
     },
     {
-      "word": "ride",
-      "count": 36
-    },
-    {
       "word": "nought",
       "count": 36
     },
@@ -5855,10 +5115,6 @@
       "count": 33
     },
     {
-      "word": "whereas",
-      "count": 33
-    },
-    {
       "word": "shiloh",
       "count": 33
     },
@@ -6051,10 +5307,6 @@
       "count": 31
     },
     {
-      "word": "already",
-      "count": 31
-    },
-    {
       "word": "heritage",
       "count": 31
     },
@@ -6076,10 +5328,6 @@
     },
     {
       "word": "pertain",
-      "count": 31
-    },
-    {
-      "word": "saying",
       "count": 31
     },
     {
@@ -6127,10 +5375,6 @@
       "count": 31
     },
     {
-      "word": "leaf",
-      "count": 30
-    },
-    {
       "word": "heir",
       "count": 30
     },
@@ -6151,19 +5395,11 @@
       "count": 30
     },
     {
-      "word": "hence",
-      "count": 30
-    },
-    {
       "word": "mention",
       "count": 30
     },
     {
       "word": "double",
-      "count": 30
-    },
-    {
-      "word": "along",
       "count": 30
     },
     {
@@ -6716,10 +5952,6 @@
     },
     {
       "word": "confusion",
-      "count": 26
-    },
-    {
-      "word": "going",
       "count": 26
     },
     {
@@ -8691,10 +7923,6 @@
       "count": 16
     },
     {
-      "word": "rid",
-      "count": 16
-    },
-    {
       "word": "content",
       "count": 16
     },
@@ -9947,10 +9175,6 @@
       "count": 13
     },
     {
-      "word": "spar",
-      "count": 13
-    },
-    {
       "word": "answereth",
       "count": 13
     },
@@ -10008,10 +9232,6 @@
     },
     {
       "word": "joppa",
-      "count": 13
-    },
-    {
-      "word": "hop",
       "count": 13
     },
     {
@@ -10488,6 +9708,10 @@
     },
     {
       "word": "japheth",
+      "count": 11
+    },
+    {
+      "word": "leaf",
       "count": 11
     },
     {
@@ -11739,10 +10963,6 @@
       "count": 9
     },
     {
-      "word": "wont",
-      "count": 9
-    },
-    {
       "word": "unrighteous",
       "count": 9
     },
@@ -12387,19 +11607,11 @@
       "count": 8
     },
     {
-      "word": "theirs",
-      "count": 8
-    },
-    {
       "word": "kenites",
       "count": 8
     },
     {
       "word": "hardly",
-      "count": 8
-    },
-    {
-      "word": "besides",
       "count": 8
     },
     {
@@ -12619,10 +11831,6 @@
       "count": 8
     },
     {
-      "word": "unless",
-      "count": 8
-    },
-    {
       "word": "relieve",
       "count": 8
     },
@@ -12684,10 +11892,6 @@
     },
     {
       "word": "destroyeth",
-      "count": 8
-    },
-    {
-      "word": "yours",
       "count": 8
     },
     {
@@ -12816,10 +12020,6 @@
     },
     {
       "word": "slip",
-      "count": 8
-    },
-    {
-      "word": "something",
       "count": 8
     },
     {
@@ -13300,10 +12500,6 @@
     },
     {
       "word": "hundredfold",
-      "count": 7
-    },
-    {
-      "word": "ours",
       "count": 7
     },
     {
@@ -14019,10 +13215,6 @@
       "count": 7
     },
     {
-      "word": "wed",
-      "count": 7
-    },
-    {
       "word": "crow",
       "count": 7
     },
@@ -14196,6 +13388,10 @@
     },
     {
       "word": "dreamer",
+      "count": 6
+    },
+    {
+      "word": "rid",
       "count": 6
     },
     {
@@ -15396,10 +14592,6 @@
     },
     {
       "word": "knead",
-      "count": 5
-    },
-    {
-      "word": "anything",
       "count": 5
     },
     {
@@ -17039,10 +16231,6 @@
       "count": 4
     },
     {
-      "word": "sham",
-      "count": 4
-    },
-    {
       "word": "interpreter",
       "count": 4
     },
@@ -18611,10 +17799,6 @@
       "count": 4
     },
     {
-      "word": "yes",
-      "count": 4
-    },
-    {
       "word": "owe",
       "count": 4
     },
@@ -19452,10 +18636,6 @@
     },
     {
       "word": "employ",
-      "count": 3
-    },
-    {
-      "word": "hers",
       "count": 3
     },
     {
@@ -23596,6 +22776,10 @@
     },
     {
       "word": "situation",
+      "count": 2
+    },
+    {
+      "word": "fell",
       "count": 2
     },
     {
@@ -35823,10 +35007,6 @@
       "count": 1
     },
     {
-      "word": "coming",
-      "count": 1
-    },
-    {
       "word": "maneh",
       "count": 1
     },
@@ -39040,10 +38220,6 @@
     },
     {
       "word": "unskilful",
-      "count": 1
-    },
-    {
-      "word": "sens",
       "count": 1
     },
     {

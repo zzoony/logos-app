@@ -1,9 +1,9 @@
 {
   "metadata": {
     "step": "filtered_stopwords",
-    "total_unique_words": 4628,
-    "total_occurrences": 952434,
-    "stopwords_removed": 172
+    "total_unique_words": 4366,
+    "total_occurrences": 360159,
+    "stopwords_removed": 171
   },
   "words": [
     {
@@ -295,6 +295,10 @@
       "count": 941
     },
     {
+      "word": "leave",
+      "count": 939
+    },
+    {
       "word": "family",
       "count": 939
     },
@@ -305,10 +309,6 @@
     {
       "word": "food",
       "count": 922
-    },
-    {
-      "word": "doe",
-      "count": 920
     },
     {
       "word": "water",
@@ -340,10 +340,6 @@
     },
     {
       "word": "child",
-      "count": 869
-    },
-    {
-      "word": "leave",
       "count": 869
     },
     {
@@ -779,6 +775,10 @@
       "count": 457
     },
     {
+      "word": "fall",
+      "count": 455
+    },
+    {
       "word": "completely",
       "count": 452
     },
@@ -1019,10 +1019,6 @@
       "count": 342
     },
     {
-      "word": "fall",
-      "count": 341
-    },
-    {
       "word": "marry",
       "count": 338
     },
@@ -1064,10 +1060,6 @@
     },
     {
       "word": "praise",
-      "count": 320
-    },
-    {
-      "word": "000",
       "count": 320
     },
     {
@@ -1299,10 +1291,6 @@
       "count": 262
     },
     {
-      "word": "1",
-      "count": 258
-    },
-    {
       "word": "next",
       "count": 257
     },
@@ -1527,10 +1515,6 @@
       "count": 216
     },
     {
-      "word": "12",
-      "count": 216
-    },
-    {
       "word": "warn",
       "count": 216
     },
@@ -1676,10 +1660,6 @@
     },
     {
       "word": "shake",
-      "count": 194
-    },
-    {
-      "word": "2",
       "count": 194
     },
     {
@@ -1900,10 +1880,6 @@
     },
     {
       "word": "sister",
-      "count": 156
-    },
-    {
-      "word": "3",
       "count": 156
     },
     {
@@ -2171,6 +2147,10 @@
       "count": 127
     },
     {
+      "word": "ride",
+      "count": 127
+    },
+    {
       "word": "weapon",
       "count": 127
     },
@@ -2232,10 +2212,6 @@
     },
     {
       "word": "none",
-      "count": 122
-    },
-    {
-      "word": "10",
       "count": 122
     },
     {
@@ -2336,10 +2312,6 @@
     },
     {
       "word": "fat",
-      "count": 114
-    },
-    {
-      "word": "fell",
       "count": 114
     },
     {
@@ -2503,10 +2475,6 @@
       "count": 106
     },
     {
-      "word": "20",
-      "count": 106
-    },
-    {
       "word": "loudly",
       "count": 106
     },
@@ -2535,24 +2503,12 @@
       "count": 104
     },
     {
-      "word": "40",
-      "count": 104
-    },
-    {
       "word": "firstborn",
       "count": 104
     },
     {
       "word": "foolish",
       "count": 104
-    },
-    {
-      "word": "50",
-      "count": 103
-    },
-    {
-      "word": "7",
-      "count": 103
     },
     {
       "word": "daniel",
@@ -2572,10 +2528,6 @@
     },
     {
       "word": "blind",
-      "count": 101
-    },
-    {
-      "word": "5",
       "count": 101
     },
     {
@@ -2603,10 +2555,6 @@
       "count": 99
     },
     {
-      "word": "4",
-      "count": 99
-    },
-    {
       "word": "dan",
       "count": 98
     },
@@ -2623,19 +2571,11 @@
       "count": 97
     },
     {
-      "word": "30",
-      "count": 97
-    },
-    {
       "word": "past",
       "count": 97
     },
     {
       "word": "proper",
-      "count": 97
-    },
-    {
-      "word": "ride",
       "count": 97
     },
     {
@@ -2695,10 +2635,6 @@
       "count": 95
     },
     {
-      "word": "6",
-      "count": 94
-    },
-    {
       "word": "question",
       "count": 94
     },
@@ -2740,10 +2676,6 @@
     },
     {
       "word": "heavy",
-      "count": 92
-    },
-    {
-      "word": "8",
       "count": 92
     },
     {
@@ -2879,10 +2811,6 @@
       "count": 82
     },
     {
-      "word": "100",
-      "count": 82
-    },
-    {
       "word": "sweet",
       "count": 82
     },
@@ -2912,10 +2840,6 @@
     },
     {
       "word": "noah",
-      "count": 79
-    },
-    {
-      "word": "15",
       "count": 79
     },
     {
@@ -2956,10 +2880,6 @@
     },
     {
       "word": "hang",
-      "count": 78
-    },
-    {
-      "word": "9",
       "count": 78
     },
     {
@@ -3037,10 +2957,6 @@
     {
       "word": "rehoboam",
       "count": 74
-    },
-    {
-      "word": "leaf",
-      "count": 73
     },
     {
       "word": "shechem",
@@ -3175,16 +3091,8 @@
       "count": 68
     },
     {
-      "word": "14",
-      "count": 68
-    },
-    {
       "word": "captain",
       "count": 68
-    },
-    {
-      "word": "11",
-      "count": 67
     },
     {
       "word": "others",
@@ -3327,10 +3235,6 @@
       "count": 63
     },
     {
-      "word": "22",
-      "count": 63
-    },
-    {
       "word": "bashan",
       "count": 63
     },
@@ -3369,10 +3273,6 @@
     {
       "word": "juda",
       "count": 62
-    },
-    {
-      "word": "70",
-      "count": 61
     },
     {
       "word": "certain",
@@ -3479,10 +3379,6 @@
       "count": 57
     },
     {
-      "word": "16",
-      "count": 57
-    },
-    {
       "word": "allow",
       "count": 57
     },
@@ -3563,10 +3459,6 @@
       "count": 55
     },
     {
-      "word": "18",
-      "count": 55
-    },
-    {
       "word": "ahaziah",
       "count": 55
     },
@@ -3592,10 +3484,6 @@
     },
     {
       "word": "belt",
-      "count": 54
-    },
-    {
-      "word": "19",
       "count": 54
     },
     {
@@ -3671,19 +3559,11 @@
       "count": 51
     },
     {
-      "word": "13",
-      "count": 51
-    },
-    {
       "word": "jealous",
       "count": 51
     },
     {
       "word": "control",
-      "count": 51
-    },
-    {
-      "word": "17",
       "count": 51
     },
     {
@@ -3725,14 +3605,6 @@
     {
       "word": "benaiah",
       "count": 50
-    },
-    {
-      "word": "25",
-      "count": 49
-    },
-    {
-      "word": "200",
-      "count": 49
     },
     {
       "word": "quarrel",
@@ -3860,10 +3732,6 @@
     },
     {
       "word": "dress",
-      "count": 46
-    },
-    {
-      "word": "24",
       "count": 46
     },
     {
@@ -4019,10 +3887,6 @@
       "count": 43
     },
     {
-      "word": "500",
-      "count": 42
-    },
-    {
       "word": "famous",
       "count": 42
     },
@@ -4052,10 +3916,6 @@
     },
     {
       "word": "court",
-      "count": 42
-    },
-    {
-      "word": "23",
       "count": 42
     },
     {
@@ -4091,10 +3951,6 @@
       "count": 41
     },
     {
-      "word": "300",
-      "count": 41
-    },
-    {
       "word": "window",
       "count": 41
     },
@@ -4112,10 +3968,6 @@
     },
     {
       "word": "finger",
-      "count": 41
-    },
-    {
-      "word": "33",
       "count": 41
     },
     {
@@ -4157,10 +4009,6 @@
     {
       "word": "asaph",
       "count": 40
-    },
-    {
-      "word": "32",
-      "count": 39
     },
     {
       "word": "younger",
@@ -4268,10 +4116,6 @@
     },
     {
       "word": "shoe",
-      "count": 37
-    },
-    {
-      "word": "400",
       "count": 37
     },
     {
@@ -4499,10 +4343,6 @@
       "count": 34
     },
     {
-      "word": "21",
-      "count": 34
-    },
-    {
       "word": "nebo",
       "count": 34
     },
@@ -4579,20 +4419,12 @@
       "count": 33
     },
     {
-      "word": "31",
-      "count": 33
-    },
-    {
       "word": "baruch",
       "count": 33
     },
     {
       "word": "kilometre",
       "count": 33
-    },
-    {
-      "word": "600",
-      "count": 32
     },
     {
       "word": "kadesh",
@@ -4720,10 +4552,6 @@
     },
     {
       "word": "zerah",
-      "count": 30
-    },
-    {
-      "word": "rid",
       "count": 30
     },
     {
@@ -4883,10 +4711,6 @@
       "count": 28
     },
     {
-      "word": "27",
-      "count": 28
-    },
-    {
       "word": "pomegranate",
       "count": 28
     },
@@ -4956,10 +4780,6 @@
     },
     {
       "word": "en",
-      "count": 27
-    },
-    {
-      "word": "60",
       "count": 27
     },
     {
@@ -5140,10 +4960,6 @@
     },
     {
       "word": "og",
-      "count": 25
-    },
-    {
-      "word": "42",
       "count": 25
     },
     {
@@ -5339,10 +5155,6 @@
       "count": 22
     },
     {
-      "word": "38",
-      "count": 22
-    },
-    {
       "word": "lock",
       "count": 22
     },
@@ -5368,10 +5180,6 @@
     },
     {
       "word": "kish",
-      "count": 22
-    },
-    {
-      "word": "28",
       "count": 22
     },
     {
@@ -5420,10 +5228,6 @@
     },
     {
       "word": "dive",
-      "count": 21
-    },
-    {
-      "word": "34",
       "count": 21
     },
     {
@@ -5651,14 +5455,6 @@
       "count": 19
     },
     {
-      "word": "45",
-      "count": 19
-    },
-    {
-      "word": "29",
-      "count": 19
-    },
-    {
       "word": "bake",
       "count": 19
     },
@@ -5700,10 +5496,6 @@
     },
     {
       "word": "anoint",
-      "count": 19
-    },
-    {
-      "word": "39",
       "count": 19
     },
     {
@@ -5811,10 +5603,6 @@
       "count": 18
     },
     {
-      "word": "14th",
-      "count": 18
-    },
-    {
       "word": "melchizedek",
       "count": 18
     },
@@ -5883,19 +5671,11 @@
       "count": 18
     },
     {
-      "word": "245",
-      "count": 18
-    },
-    {
       "word": "welcome",
       "count": 18
     },
     {
       "word": "northern",
-      "count": 18
-    },
-    {
-      "word": "12½",
       "count": 18
     },
     {
@@ -5916,10 +5696,6 @@
     },
     {
       "word": "enoch",
-      "count": 17
-    },
-    {
-      "word": "130",
       "count": 17
     },
     {
@@ -6071,14 +5847,6 @@
       "count": 16
     },
     {
-      "word": "80",
-      "count": 16
-    },
-    {
-      "word": "15th",
-      "count": 16
-    },
-    {
       "word": "draw",
       "count": 16
     },
@@ -6095,23 +5863,11 @@
       "count": 16
     },
     {
-      "word": "41",
-      "count": 16
-    },
-    {
       "word": "nazirite",
       "count": 16
     },
     {
       "word": "jephunneh",
-      "count": 16
-    },
-    {
-      "word": "250",
-      "count": 16
-    },
-    {
-      "word": "36",
       "count": 16
     },
     {
@@ -6139,10 +5895,6 @@
       "count": 16
     },
     {
-      "word": "2½",
-      "count": 16
-    },
-    {
       "word": "ahimaaz",
       "count": 16
     },
@@ -6160,10 +5912,6 @@
     },
     {
       "word": "ton",
-      "count": 16
-    },
-    {
-      "word": "12th",
       "count": 16
     },
     {
@@ -6204,10 +5952,6 @@
     },
     {
       "word": "righteousness",
-      "count": 16
-    },
-    {
-      "word": "51",
       "count": 16
     },
     {
@@ -6315,10 +6059,6 @@
       "count": 15
     },
     {
-      "word": "700",
-      "count": 15
-    },
-    {
       "word": "zin",
       "count": 15
     },
@@ -6415,19 +6155,11 @@
       "count": 14
     },
     {
-      "word": "120",
-      "count": 14
-    },
-    {
       "word": "gerar",
       "count": 14
     },
     {
       "word": "eber",
-      "count": 14
-    },
-    {
-      "word": "35",
       "count": 14
     },
     {
@@ -6487,23 +6219,11 @@
       "count": 14
     },
     {
-      "word": "46",
-      "count": 14
-    },
-    {
       "word": "lampstands",
       "count": 14
     },
     {
       "word": "smile",
-      "count": 14
-    },
-    {
-      "word": "26",
-      "count": 14
-    },
-    {
-      "word": "337",
       "count": 14
     },
     {
@@ -6611,10 +6331,6 @@
       "count": 13
     },
     {
-      "word": "75",
-      "count": 13
-    },
-    {
       "word": "rephaites",
       "count": 13
     },
@@ -6655,10 +6371,6 @@
       "count": 13
     },
     {
-      "word": "52",
-      "count": 13
-    },
-    {
       "word": "hermon",
       "count": 13
     },
@@ -6680,10 +6392,6 @@
     },
     {
       "word": "zobah",
-      "count": 13
-    },
-    {
-      "word": "360",
       "count": 13
     },
     {
@@ -6712,10 +6420,6 @@
     },
     {
       "word": "builder",
-      "count": 13
-    },
-    {
-      "word": "37",
       "count": 13
     },
     {
@@ -6843,10 +6547,6 @@
       "count": 12
     },
     {
-      "word": "11th",
-      "count": 12
-    },
-    {
       "word": "crete",
       "count": 12
     },
@@ -6939,26 +6639,6 @@
       "count": 12
     },
     {
-      "word": "736",
-      "count": 12
-    },
-    {
-      "word": "67",
-      "count": 12
-    },
-    {
-      "word": "435",
-      "count": 12
-    },
-    {
-      "word": "720",
-      "count": 12
-    },
-    {
-      "word": "170",
-      "count": 12
-    },
-    {
       "word": "vashti",
       "count": 12
     },
@@ -7012,10 +6692,6 @@
     },
     {
       "word": "lamech",
-      "count": 11
-    },
-    {
-      "word": "65",
       "count": 11
     },
     {
@@ -7395,10 +7071,6 @@
       "count": 10
     },
     {
-      "word": "392",
-      "count": 10
-    },
-    {
       "word": "adar",
       "count": 10
     },
@@ -7584,10 +7256,6 @@
     },
     {
       "word": "geber",
-      "count": 9
-    },
-    {
-      "word": "48",
       "count": 9
     },
     {
@@ -7912,14 +7580,6 @@
     },
     {
       "word": "enan",
-      "count": 8
-    },
-    {
-      "word": "450",
-      "count": 8
-    },
-    {
-      "word": "53",
       "count": 8
     },
     {
@@ -8251,10 +7911,6 @@
       "count": 7
     },
     {
-      "word": "800",
-      "count": 7
-    },
-    {
       "word": "methuselah",
       "count": 7
     },
@@ -8308,10 +7964,6 @@
     },
     {
       "word": "hip",
-      "count": 7
-    },
-    {
-      "word": "180",
       "count": 7
     },
     {
@@ -8376,10 +8028,6 @@
     },
     {
       "word": "pu",
-      "count": 7
-    },
-    {
-      "word": "74",
       "count": 7
     },
     {
@@ -8559,10 +8207,6 @@
       "count": 7
     },
     {
-      "word": "652",
-      "count": 7
-    },
-    {
       "word": "shealtiel",
       "count": 7
     },
@@ -8703,10 +8347,6 @@
       "count": 6
     },
     {
-      "word": "150",
-      "count": 6
-    },
-    {
       "word": "arphaxad",
       "count": 6
     },
@@ -8795,10 +8435,6 @@
       "count": 6
     },
     {
-      "word": "110",
-      "count": 6
-    },
-    {
       "word": "leprosy",
       "count": 6
     },
@@ -8840,14 +8476,6 @@
     },
     {
       "word": "eliasaph",
-      "count": 6
-    },
-    {
-      "word": "59",
-      "count": 6
-    },
-    {
-      "word": "62",
       "count": 6
     },
     {
@@ -8995,19 +8623,11 @@
       "count": 6
     },
     {
-      "word": "185",
-      "count": 6
-    },
-    {
       "word": "baladan",
       "count": 6
     },
     {
       "word": "merodach",
-      "count": 6
-    },
-    {
-      "word": "55",
       "count": 6
     },
     {
@@ -9055,10 +8675,6 @@
       "count": 6
     },
     {
-      "word": "128",
-      "count": 6
-    },
-    {
       "word": "hasupha",
       "count": 6
     },
@@ -9083,27 +8699,7 @@
       "count": 6
     },
     {
-      "word": "642",
-      "count": 6
-    },
-    {
-      "word": "69",
-      "count": 6
-    },
-    {
-      "word": "530",
-      "count": 6
-    },
-    {
-      "word": "24th",
-      "count": 6
-    },
-    {
       "word": "slow",
-      "count": 6
-    },
-    {
-      "word": "13th",
       "count": 6
     },
     {
@@ -9207,10 +8803,6 @@
       "count": 6
     },
     {
-      "word": "144",
-      "count": 6
-    },
-    {
       "word": "cool",
       "count": 5
     },
@@ -9248,10 +8840,6 @@
     },
     {
       "word": "mesha",
-      "count": 5
-    },
-    {
-      "word": "430",
       "count": 5
     },
     {
@@ -9335,10 +8923,6 @@
       "count": 5
     },
     {
-      "word": "66",
-      "count": 5
-    },
-    {
       "word": "rameses",
       "count": 5
     },
@@ -9411,10 +8995,6 @@
       "count": 5
     },
     {
-      "word": "220",
-      "count": 5
-    },
-    {
       "word": "shelumiel",
       "count": 5
     },
@@ -9459,10 +9039,6 @@
       "count": 5
     },
     {
-      "word": "57",
-      "count": 5
-    },
-    {
       "word": "kibroth",
       "count": 5
     },
@@ -9492,14 +9068,6 @@
     },
     {
       "word": "shuthelah",
-      "count": 5
-    },
-    {
-      "word": "61",
-      "count": 5
-    },
-    {
-      "word": "44",
       "count": 5
     },
     {
@@ -9699,10 +9267,6 @@
       "count": 5
     },
     {
-      "word": "10th",
-      "count": 5
-    },
-    {
       "word": "jabez",
       "count": 5
     },
@@ -9772,18 +9336,6 @@
     },
     {
       "word": "bigvai",
-      "count": 5
-    },
-    {
-      "word": "052",
-      "count": 5
-    },
-    {
-      "word": "247",
-      "count": 5
-    },
-    {
-      "word": "017",
       "count": 5
     },
     {
@@ -9943,10 +9495,6 @@
       "count": 5
     },
     {
-      "word": "90",
-      "count": 4
-    },
-    {
       "word": "nephilites",
       "count": 4
     },
@@ -10000,10 +9548,6 @@
     },
     {
       "word": "phicol",
-      "count": 4
-    },
-    {
-      "word": "127",
       "count": 4
     },
     {
@@ -10127,10 +9671,6 @@
       "count": 4
     },
     {
-      "word": "550",
-      "count": 4
-    },
-    {
       "word": "soft",
       "count": 4
     },
@@ -10204,14 +9744,6 @@
     },
     {
       "word": "shittim",
-      "count": 4
-    },
-    {
-      "word": "43",
-      "count": 4
-    },
-    {
-      "word": "72",
       "count": 4
     },
     {
@@ -10435,10 +9967,6 @@
       "count": 4
     },
     {
-      "word": "7th",
-      "count": 4
-    },
-    {
       "word": "ashhur",
       "count": 4
     },
@@ -10519,15 +10047,7 @@
       "count": 4
     },
     {
-      "word": "260",
-      "count": 4
-    },
-    {
       "word": "sheshbazzar",
-      "count": 4
-    },
-    {
-      "word": "973",
       "count": 4
     },
     {
@@ -10584,14 +10104,6 @@
     },
     {
       "word": "hadid",
-      "count": 4
-    },
-    {
-      "word": "148",
-      "count": 4
-    },
-    {
-      "word": "138",
       "count": 4
     },
     {
@@ -10799,15 +10311,11 @@
       "count": 3
     },
     {
-      "word": "930",
-      "count": 3
-    },
-    {
       "word": "deeper",
       "count": 3
     },
     {
-      "word": "601",
+      "word": "leaf",
       "count": 3
     },
     {
@@ -10844,10 +10352,6 @@
     },
     {
       "word": "bered",
-      "count": 3
-    },
-    {
-      "word": "99",
       "count": 3
     },
     {
@@ -10896,10 +10400,6 @@
     },
     {
       "word": "naphish",
-      "count": 3
-    },
-    {
-      "word": "137",
       "count": 3
     },
     {
@@ -10983,10 +10483,6 @@
       "count": 3
     },
     {
-      "word": "49",
-      "count": 3
-    },
-    {
       "word": "elzaphan",
       "count": 3
     },
@@ -11003,10 +10499,6 @@
       "count": 3
     },
     {
-      "word": "603",
-      "count": 3
-    },
-    {
       "word": "emerald",
       "count": 3
     },
@@ -11019,15 +10511,7 @@
       "count": 3
     },
     {
-      "word": "273",
-      "count": 3
-    },
-    {
       "word": "gerahs",
-      "count": 3
-    },
-    {
-      "word": "20th",
       "count": 3
     },
     {
@@ -11048,10 +10532,6 @@
     },
     {
       "word": "iye",
-      "count": 3
-    },
-    {
-      "word": "730",
       "count": 3
     },
     {
@@ -11084,10 +10564,6 @@
     },
     {
       "word": "jotbathah",
-      "count": 3
-    },
-    {
-      "word": "123",
       "count": 3
     },
     {
@@ -11215,10 +10691,6 @@
       "count": 3
     },
     {
-      "word": "77",
-      "count": 3
-    },
-    {
       "word": "berith",
       "count": 3
     },
@@ -11295,10 +10767,6 @@
       "count": 3
     },
     {
-      "word": "3½",
-      "count": 3
-    },
-    {
       "word": "dodai",
       "count": 3
     },
@@ -11316,10 +10784,6 @@
     },
     {
       "word": "ceiling",
-      "count": 3
-    },
-    {
-      "word": "7½",
       "count": 3
     },
     {
@@ -11379,10 +10843,6 @@
       "count": 3
     },
     {
-      "word": "18th",
-      "count": 3
-    },
-    {
       "word": "hamutal",
       "count": 3
     },
@@ -11420,10 +10880,6 @@
     },
     {
       "word": "benefit",
-      "count": 3
-    },
-    {
-      "word": "760",
       "count": 3
     },
     {
@@ -11499,10 +10955,6 @@
       "count": 3
     },
     {
-      "word": "23rd",
-      "count": 3
-    },
-    {
       "word": "jeshanah",
       "count": 3
     },
@@ -11528,10 +10980,6 @@
     },
     {
       "word": "mithredath",
-      "count": 3
-    },
-    {
-      "word": "139",
       "count": 3
     },
     {
@@ -11611,10 +11059,6 @@
       "count": 3
     },
     {
-      "word": "254",
-      "count": 3
-    },
-    {
       "word": "azzur",
       "count": 3
     },
@@ -11664,10 +11108,6 @@
     },
     {
       "word": "apart",
-      "count": 3
-    },
-    {
-      "word": "140",
       "count": 3
     },
     {
@@ -11724,10 +11164,6 @@
     },
     {
       "word": "carpet",
-      "count": 3
-    },
-    {
-      "word": "89",
       "count": 3
     },
     {
@@ -11955,22 +11391,6 @@
       "count": 2
     },
     {
-      "word": "365",
-      "count": 2
-    },
-    {
-      "word": "17th",
-      "count": 2
-    },
-    {
-      "word": "27th",
-      "count": 2
-    },
-    {
-      "word": "350",
-      "count": 2
-    },
-    {
       "word": "madai",
       "count": 2
     },
@@ -12080,10 +11500,6 @@
     },
     {
       "word": "abimael",
-      "count": 2
-    },
-    {
-      "word": "403",
       "count": 2
     },
     {
@@ -12283,10 +11699,6 @@
       "count": 2
     },
     {
-      "word": "21st",
-      "count": 2
-    },
-    {
       "word": "drum",
       "count": 2
     },
@@ -12367,15 +11779,7 @@
       "count": 2
     },
     {
-      "word": "50th",
-      "count": 2
-    },
-    {
       "word": "pack",
-      "count": 2
-    },
-    {
-      "word": "750",
       "count": 2
     },
     {
@@ -12415,10 +11819,6 @@
       "count": 2
     },
     {
-      "word": "64",
-      "count": 2
-    },
-    {
       "word": "helek",
       "count": 2
     },
@@ -12432,10 +11832,6 @@
     },
     {
       "word": "reba",
-      "count": 2
-    },
-    {
-      "word": "675",
       "count": 2
     },
     {
@@ -12504,10 +11900,6 @@
     },
     {
       "word": "abronah",
-      "count": 2
-    },
-    {
-      "word": "40th",
       "count": 2
     },
     {
@@ -12584,10 +11976,6 @@
     },
     {
       "word": "kenizzite",
-      "count": 2
-    },
-    {
-      "word": "85",
       "count": 2
     },
     {
@@ -12715,10 +12103,6 @@
       "count": 2
     },
     {
-      "word": "900",
-      "count": 2
-    },
-    {
       "word": "weakest",
       "count": 2
     },
@@ -12764,10 +12148,6 @@
     },
     {
       "word": "tohu",
-      "count": 2
-    },
-    {
-      "word": "98",
       "count": 2
     },
     {
@@ -13023,14 +12403,6 @@
       "count": 2
     },
     {
-      "word": "9th",
-      "count": 2
-    },
-    {
-      "word": "5th",
-      "count": 2
-    },
-    {
       "word": "arpachshad",
       "count": 2
     },
@@ -13195,10 +12567,6 @@
       "count": 2
     },
     {
-      "word": "87",
-      "count": 2
-    },
-    {
       "word": "peresh",
       "count": 2
     },
@@ -13307,19 +12675,11 @@
       "count": 2
     },
     {
-      "word": "112",
-      "count": 2
-    },
-    {
       "word": "eliphelehu",
       "count": 2
     },
     {
       "word": "mikneiah",
-      "count": 2
-    },
-    {
-      "word": "68",
       "count": 2
     },
     {
@@ -13379,15 +12739,7 @@
       "count": 2
     },
     {
-      "word": "153",
-      "count": 2
-    },
-    {
       "word": "cubit",
-      "count": 2
-    },
-    {
-      "word": "280",
       "count": 2
     },
     {
@@ -13428,10 +12780,6 @@
     },
     {
       "word": "noadiah",
-      "count": 2
-    },
-    {
-      "word": "96",
       "count": 2
     },
     {
@@ -13515,39 +12863,7 @@
       "count": 2
     },
     {
-      "word": "32nd",
-      "count": 2
-    },
-    {
-      "word": "25th",
-      "count": 2
-    },
-    {
       "word": "bezai",
-      "count": 2
-    },
-    {
-      "word": "743",
-      "count": 2
-    },
-    {
-      "word": "621",
-      "count": 2
-    },
-    {
-      "word": "122",
-      "count": 2
-    },
-    {
-      "word": "320",
-      "count": 2
-    },
-    {
-      "word": "345",
-      "count": 2
-    },
-    {
-      "word": "721",
       "count": 2
     },
     {
@@ -13715,10 +13031,6 @@
       "count": 2
     },
     {
-      "word": "390",
-      "count": 2
-    },
-    {
       "word": "useful",
       "count": 2
     },
@@ -13740,10 +13052,6 @@
     },
     {
       "word": "kilmad",
-      "count": 2
-    },
-    {
-      "word": "1½",
       "count": 2
     },
     {
@@ -13951,10 +13259,6 @@
       "count": 2
     },
     {
-      "word": "117",
-      "count": 2
-    },
-    {
       "word": "winner",
       "count": 2
     },
@@ -13983,10 +13287,6 @@
       "count": 2
     },
     {
-      "word": "135",
-      "count": 2
-    },
-    {
       "word": "diotrephes",
       "count": 2
     },
@@ -14012,78 +13312,6 @@
     },
     {
       "word": "nod",
-      "count": 1
-    },
-    {
-      "word": "105",
-      "count": 1
-    },
-    {
-      "word": "807",
-      "count": 1
-    },
-    {
-      "word": "912",
-      "count": 1
-    },
-    {
-      "word": "815",
-      "count": 1
-    },
-    {
-      "word": "905",
-      "count": 1
-    },
-    {
-      "word": "840",
-      "count": 1
-    },
-    {
-      "word": "910",
-      "count": 1
-    },
-    {
-      "word": "830",
-      "count": 1
-    },
-    {
-      "word": "895",
-      "count": 1
-    },
-    {
-      "word": "162",
-      "count": 1
-    },
-    {
-      "word": "962",
-      "count": 1
-    },
-    {
-      "word": "187",
-      "count": 1
-    },
-    {
-      "word": "782",
-      "count": 1
-    },
-    {
-      "word": "969",
-      "count": 1
-    },
-    {
-      "word": "182",
-      "count": 1
-    },
-    {
-      "word": "595",
-      "count": 1
-    },
-    {
-      "word": "777",
-      "count": 1
-    },
-    {
-      "word": "950",
       "count": 1
     },
     {
@@ -14123,23 +13351,7 @@
       "count": 1
     },
     {
-      "word": "209",
-      "count": 1
-    },
-    {
-      "word": "207",
-      "count": 1
-    },
-    {
-      "word": "119",
-      "count": 1
-    },
-    {
       "word": "iscah",
-      "count": 1
-    },
-    {
-      "word": "205",
       "count": 1
     },
     {
@@ -14171,19 +13383,11 @@
       "count": 1
     },
     {
-      "word": "318",
-      "count": 1
-    },
-    {
       "word": "kenizzites",
       "count": 1
     },
     {
       "word": "kadmonites",
-      "count": 1
-    },
-    {
-      "word": "86",
       "count": 1
     },
     {
@@ -14224,10 +13428,6 @@
     },
     {
       "word": "leummites",
-      "count": 1
-    },
-    {
-      "word": "175",
       "count": 1
     },
     {
@@ -14347,10 +13547,6 @@
       "count": 1
     },
     {
-      "word": "147",
-      "count": 1
-    },
-    {
       "word": "pithom",
       "count": 1
     },
@@ -14363,10 +13559,6 @@
       "count": 1
     },
     {
-      "word": "133",
-      "count": 1
-    },
-    {
       "word": "sithri",
       "count": 1
     },
@@ -14376,14 +13568,6 @@
     },
     {
       "word": "putiel",
-      "count": 1
-    },
-    {
-      "word": "83",
-      "count": 1
-    },
-    {
-      "word": "2¼",
       "count": 1
     },
     {
@@ -14400,10 +13584,6 @@
     },
     {
       "word": "galbanum",
-      "count": 1
-    },
-    {
-      "word": "425",
       "count": 1
     },
     {
@@ -14451,43 +13631,11 @@
       "count": 1
     },
     {
-      "word": "54",
-      "count": 1
-    },
-    {
-      "word": "186",
-      "count": 1
-    },
-    {
-      "word": "650",
-      "count": 1
-    },
-    {
-      "word": "151",
-      "count": 1
-    },
-    {
-      "word": "108",
-      "count": 1
-    },
-    {
-      "word": "157",
-      "count": 1
-    },
-    {
       "word": "lael",
       "count": 1
     },
     {
       "word": "zuriel",
-      "count": 1
-    },
-    {
-      "word": "630",
-      "count": 1
-    },
-    {
-      "word": "580",
       "count": 1
     },
     {
@@ -14588,10 +13736,6 @@
     },
     {
       "word": "arod",
-      "count": 1
-    },
-    {
-      "word": "76",
       "count": 1
     },
     {
@@ -14776,10 +13920,6 @@
     },
     {
       "word": "haram",
-      "count": 1
-    },
-    {
-      "word": "9½",
       "count": 1
     },
     {
@@ -15615,14 +14755,6 @@
       "count": 1
     },
     {
-      "word": "005",
-      "count": 1
-    },
-    {
-      "word": "480",
-      "count": 1
-    },
-    {
       "word": "bul",
       "count": 1
     },
@@ -15660,10 +14792,6 @@
     },
     {
       "word": "shapat",
-      "count": 1
-    },
-    {
-      "word": "232",
       "count": 1
     },
     {
@@ -15764,10 +14892,6 @@
     },
     {
       "word": "nehushta",
-      "count": 1
-    },
-    {
-      "word": "4th",
       "count": 1
     },
     {
@@ -16235,10 +15359,6 @@
       "count": 1
     },
     {
-      "word": "034",
-      "count": 1
-    },
-    {
       "word": "zemirah",
       "count": 1
     },
@@ -16523,10 +15643,6 @@
       "count": 1
     },
     {
-      "word": "956",
-      "count": 1
-    },
-    {
       "word": "jehoiarib",
       "count": 1
     },
@@ -16540,10 +15656,6 @@
     },
     {
       "word": "heresh",
-      "count": 1
-    },
-    {
-      "word": "212",
       "count": 1
     },
     {
@@ -16691,10 +15803,6 @@
       "count": 1
     },
     {
-      "word": "470",
-      "count": 1
-    },
-    {
       "word": "haziel",
       "count": 1
     },
@@ -16748,10 +15856,6 @@
     },
     {
       "word": "mahazioth",
-      "count": 1
-    },
-    {
-      "word": "288",
       "count": 1
     },
     {
@@ -16835,10 +15939,6 @@
       "count": 1
     },
     {
-      "word": "4½",
-      "count": 1
-    },
-    {
       "word": "stage",
       "count": 1
     },
@@ -16899,10 +15999,6 @@
       "count": 1
     },
     {
-      "word": "307",
-      "count": 1
-    },
-    {
       "word": "machine",
       "count": 1
     },
@@ -16916,14 +16012,6 @@
     },
     {
       "word": "hadlai",
-      "count": 1
-    },
-    {
-      "word": "8th",
-      "count": 1
-    },
-    {
-      "word": "16th",
       "count": 1
     },
     {
@@ -16967,15 +16055,7 @@
       "count": 1
     },
     {
-      "word": "218",
-      "count": 1
-    },
-    {
       "word": "josiphiah",
-      "count": 1
-    },
-    {
-      "word": "160",
       "count": 1
     },
     {
@@ -17071,63 +16151,7 @@
       "count": 1
     },
     {
-      "word": "172",
-      "count": 1
-    },
-    {
-      "word": "372",
-      "count": 1
-    },
-    {
-      "word": "818",
-      "count": 1
-    },
-    {
-      "word": "845",
-      "count": 1
-    },
-    {
       "word": "zaccai",
-      "count": 1
-    },
-    {
-      "word": "648",
-      "count": 1
-    },
-    {
-      "word": "628",
-      "count": 1
-    },
-    {
-      "word": "322",
-      "count": 1
-    },
-    {
-      "word": "667",
-      "count": 1
-    },
-    {
-      "word": "067",
-      "count": 1
-    },
-    {
-      "word": "655",
-      "count": 1
-    },
-    {
-      "word": "328",
-      "count": 1
-    },
-    {
-      "word": "324",
-      "count": 1
-    },
-    {
-      "word": "95",
-      "count": 1
-    },
-    {
-      "word": "188",
       "count": 1
     },
     {
@@ -17187,27 +16211,11 @@
       "count": 1
     },
     {
-      "word": "468",
-      "count": 1
-    },
-    {
       "word": "gabbai",
       "count": 1
     },
     {
       "word": "sallai",
-      "count": 1
-    },
-    {
-      "word": "928",
-      "count": 1
-    },
-    {
-      "word": "822",
-      "count": 1
-    },
-    {
-      "word": "242",
       "count": 1
     },
     {
@@ -17563,23 +16571,11 @@
       "count": 1
     },
     {
-      "word": "832",
-      "count": 1
-    },
-    {
-      "word": "745",
-      "count": 1
-    },
-    {
       "word": "lonely",
       "count": 1
     },
     {
       "word": "quicker",
-      "count": 1
-    },
-    {
-      "word": "30th",
       "count": 1
     },
     {
@@ -17635,23 +16631,11 @@
       "count": 1
     },
     {
-      "word": "3rd",
-      "count": 1
-    },
-    {
       "word": "hamonah",
       "count": 1
     },
     {
-      "word": "6½",
-      "count": 1
-    },
-    {
       "word": "½",
-      "count": 1
-    },
-    {
-      "word": "47",
       "count": 1
     },
     {
@@ -17680,10 +16664,6 @@
     },
     {
       "word": "hattikon",
-      "count": 1
-    },
-    {
-      "word": "125",
       "count": 1
     },
     {
@@ -17716,14 +16696,6 @@
     },
     {
       "word": "shorter",
-      "count": 1
-    },
-    {
-      "word": "290",
-      "count": 1
-    },
-    {
-      "word": "335",
       "count": 1
     },
     {
@@ -17803,10 +16775,6 @@
       "count": 1
     },
     {
-      "word": "460",
-      "count": 1
-    },
-    {
       "word": "abiud",
       "count": 1
     },
@@ -17876,10 +16844,6 @@
     },
     {
       "word": "phanuel",
-      "count": 1
-    },
-    {
-      "word": "84",
       "count": 1
     },
     {
@@ -18211,10 +17175,6 @@
       "count": 1
     },
     {
-      "word": "276",
-      "count": 1
-    },
-    {
       "word": "rudder",
       "count": 1
     },
@@ -18467,10 +17427,6 @@
       "count": 1
     },
     {
-      "word": "118",
-      "count": 1
-    },
-    {
       "word": "darkest",
       "count": 1
     },
@@ -18504,10 +17460,6 @@
     },
     {
       "word": "apollyon",
-      "count": 1
-    },
-    {
-      "word": "666",
       "count": 1
     },
     {

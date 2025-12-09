@@ -1,4 +1,9 @@
-"""Step 5: Extract example sentences for each word."""
+"""Step 5: Extract example sentences for each word.
+
+Finds Bible verses containing vocabulary words for example usage.
+"""
+
+from __future__ import annotations
 
 import json
 import re
@@ -11,126 +16,31 @@ from config import (
     STEP5_SENTENCES_PATH,
     VERSION_NAME,
 )
+from word_forms import get_word_variants
 
-# Configuration
-MIN_SENTENCES_PER_WORD = 1  # 1개만 있어도 포함
+# Sentence selection parameters
+MIN_SENTENCES_PER_WORD = 1
 MAX_SENTENCES_PER_WORD = 5
-MAX_SENTENCE_LENGTH = 300  # Skip very long verses (increased from 200)
-MIN_SENTENCE_LENGTH = 30   # Skip very short verses
+MAX_SENTENCE_LENGTH = 300
+MIN_SENTENCE_LENGTH = 30
 
 
 def load_bible() -> dict:
-    """Load NIV Bible JSON file."""
-    try:
-        with open(BIBLE_JSON_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        raise FileNotFoundError(f"Bible file not found: {BIBLE_JSON_PATH}")
-    except json.JSONDecodeError as e:
-        raise ValueError(f"Invalid JSON in Bible file: {e}")
+    """Load Bible JSON file."""
+    with open(BIBLE_JSON_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
 def load_vocabulary() -> dict:
-    """Load processed vocabulary."""
-    try:
-        with open(STEP4_VOCABULARY_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        raise FileNotFoundError(f"Vocabulary file not found: {STEP4_VOCABULARY_PATH}")
-    except json.JSONDecodeError as e:
-        raise ValueError(f"Invalid JSON in vocabulary file: {e}")
+    """Load processed vocabulary from step 4."""
+    with open(STEP4_VOCABULARY_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
 def generate_sentence_id(book: str, chapter: str, verse: str) -> str:
     """Generate a unique sentence ID."""
     book_short = book.lower().replace(" ", "-")
     return f"{book_short}-{chapter}-{verse}"
-
-
-# Irregular verb forms: base -> [past, past_participle, present_participle, ...]
-IRREGULAR_VERBS = {
-    "ride": ["rode", "ridden", "riding"],
-    "hide": ["hid", "hidden", "hiding"],
-    "bite": ["bit", "bitten", "biting"],
-    "write": ["wrote", "written", "writing"],
-    "drive": ["drove", "driven", "driving"],
-    "rise": ["rose", "risen", "rising"],
-    "choose": ["chose", "chosen", "choosing"],
-    "freeze": ["froze", "frozen", "freezing"],
-    "speak": ["spoke", "spoken", "speaking"],
-    "steal": ["stole", "stolen", "stealing"],
-    "break": ["broke", "broken", "breaking"],
-    "wake": ["woke", "woken", "waking"],
-    "forget": ["forgot", "forgotten", "forgetting"],
-    "get": ["got", "gotten", "getting"],
-    "begin": ["began", "begun", "beginning"],
-    "sing": ["sang", "sung", "singing"],
-    "ring": ["rang", "rung", "ringing"],
-    "drink": ["drank", "drunk", "drinking"],
-    "swim": ["swam", "swum", "swimming"],
-    "sink": ["sank", "sunk", "sinking"],
-    "shrink": ["shrank", "shrunk", "shrinking"],
-    "stink": ["stank", "stunk", "stinking"],
-    "spring": ["sprang", "sprung", "springing"],
-    "string": ["strung", "stringing"],
-    "wring": ["wrung", "wringing"],
-    "cling": ["clung", "clinging"],
-    "fling": ["flung", "flinging"],
-    "sling": ["slung", "slinging"],
-    "swing": ["swung", "swinging"],
-    "hang": ["hung", "hanging"],
-    "bind": ["bound", "binding"],
-    "find": ["found", "finding"],
-    "wind": ["wound", "winding"],
-    "ground": ["grounds", "grounded", "grounding"],  # ground as noun/verb (not grind)
-}
-
-
-def get_word_variants(word: str) -> set:
-    """Generate common word variants (plurals, verb forms, etc.).
-
-    Uses improved English morphology rules to avoid invalid forms.
-    """
-    variants = {word}
-
-    # Skip very short words
-    if len(word) < 2:
-        return variants
-
-    # Add irregular verb forms if applicable
-    if word in IRREGULAR_VERBS:
-        variants.update(IRREGULAR_VERBS[word])
-
-    # Plural forms (improved rules)
-    # Handle words ending in s, x, z, ch, sh -> add "es"
-    if word.endswith(("s", "x", "z", "ch", "sh")):
-        variants.add(word + "es")
-    elif word.endswith("y") and len(word) > 1 and word[-2] not in "aeiou":
-        variants.add(word[:-1] + "ies")
-    else:
-        variants.add(word + "s")
-
-    # Past tense (-ed) forms
-    if not word.endswith("ed"):
-        if word.endswith("e"):
-            variants.add(word + "d")
-        elif word.endswith("y") and len(word) > 1 and word[-2] not in "aeiou":
-            variants.add(word[:-1] + "ied")
-        else:
-            variants.add(word + "ed")
-
-    # Progressive (-ing) forms
-    if word.endswith("e") and not word.endswith("ee"):
-        variants.add(word[:-1] + "ing")
-    elif word.endswith("ie"):
-        variants.add(word[:-2] + "ying")
-    elif not word.endswith("ing"):
-        variants.add(word + "ing")
-    else:
-        # Words ending in -ing (e.g., "fling" -> "flinging")
-        variants.add(word + "ing")
-
-    return variants
 
 
 def extract_words_from_text(text: str) -> set:
