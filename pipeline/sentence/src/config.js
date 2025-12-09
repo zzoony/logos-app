@@ -29,5 +29,9 @@ module.exports = {
   CLAUDE_MODEL: 'haiku',
 
   // Droid exec 설정
-  DROID_MODEL: 'glm-4.6'
+  DROID_MODEL: 'glm-4.6',
+
+  // 재시도 설정
+  // 전체 세션 완료 후 실패한 구절들을 재시도하는 최대 횟수
+  MAX_RETRY_SESSIONS: 5
 };

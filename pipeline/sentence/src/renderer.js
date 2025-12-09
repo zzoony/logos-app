@@ -11,7 +11,10 @@ const CONFIG = {
   DEFAULT_ANALYSIS_METHOD: 'api',
   BIBLE_FILES: {
     ESV: 'ESV_Bible.json',
-    NIV: 'NIV_Bible.json'
+    NIV: 'NIV_Bible.json',
+    KJV: 'KJV_Bible.json',
+    Easy: 'Easy_Bible.json',
+    Hebrew: 'Hebrew_Bible.json'
   },
   EDITORS: {
     cursor: 'Cursor',
@@ -35,6 +38,9 @@ let currentSettings = {
 let bibleData = null;
 
 document.addEventListener('DOMContentLoaded', async () => {
+  // 앱 버전 표시 (package.json에서 가져옴)
+  await loadAppVersion();
+
   initSettings();
   initTabs();
   initFilters();
@@ -46,6 +52,22 @@ document.addEventListener('DOMContentLoaded', async () => {
   window.electronAPI.onAnalysisProgress(handleAnalysisProgress);
   window.electronAPI.onAnalysisComplete(handleAnalysisComplete);
 });
+
+/**
+ * 앱 버전 로드 및 표시
+ * package.json의 버전을 가져와서 UI에 표시
+ */
+async function loadAppVersion() {
+  try {
+    const version = await window.electronAPI.getAppVersion();
+    const versionEl = document.getElementById('appVersion');
+    if (versionEl && version) {
+      versionEl.textContent = `v${version}`;
+    }
+  } catch (error) {
+    console.warn('Failed to load app version:', error);
+  }
+}
 
 /**
  * 탭 네비게이션 초기화
@@ -528,7 +550,7 @@ let processingTasks = new Map();
  * 분석 진행상황 이벤트 핸들러
  */
 function handleAnalysisProgress(progress) {
-  const { book, chapter, verse, completed, processed, total, status, currentBook, totalBooks, bookIndex, bookCompleted, bookTotal, sessionCompleted, toAnalyze, error } = progress;
+  const { book, chapter, verse, completed, processed, total, status, currentBook, totalBooks, bookIndex, bookCompleted, bookTotal, sessionCompleted, toAnalyze, retrySession, maxRetrySessions, failedCount, error } = progress;
 
   // 진행률 계산 (처리된 수 기준)
   const processedCount = processed || completed;  // 이전 버전 호환
@@ -552,6 +574,17 @@ function handleAnalysisProgress(progress) {
     return `${yyyy}-${mm}-${dd} ${hh}:${mi}:${ss}`;
   };
 
+  // 재시도 세션 시작 처리
+  if (status === 'retry_starting' || status === 'retry_init') {
+    const retryStatusEl = document.getElementById('retrySessionStatus');
+    if (retryStatusEl) {
+      retryStatusEl.classList.remove('hidden');
+      retryStatusEl.innerHTML = `<span class="retry-badge">재시도 ${retrySession}/${maxRetrySessions}</span> 실패 ${failedCount || 0}개 구절 재시도 중...`;
+    }
+    console.log(`[${getTimestamp()}] 🔄 재시도 세션 ${retrySession}/${maxRetrySessions} 시작 - ${failedCount || 0}개 구절`);
+    return;
+  }
+
   // 진행중 목록 관리 및 로그 출력
   if (status === 'processing') {
     processingTasks.set(taskKey, {
@@ -560,18 +593,21 @@ function handleAnalysisProgress(progress) {
       verse,
       startTime: Date.now()
     });
-    // 시작 로그
-    console.log(`[${getTimestamp()}] 🚀 시작: ${book} ${chapter}:${verse}`);
+    // 시작 로그 (재시도 세션 표시)
+    const retryPrefix = retrySession > 0 ? `[재시도 ${retrySession}] ` : '';
+    console.log(`[${getTimestamp()}] 🚀 ${retryPrefix}시작: ${book} ${chapter}:${verse}`);
   } else if (status === 'completed') {
     const task = processingTasks.get(taskKey);
     const elapsed = task ? ((Date.now() - task.startTime) / 1000).toFixed(1) : '?';
     processingTasks.delete(taskKey);
-    // 완료 로그
-    console.log(`[${getTimestamp()}] ✅ 완료: ${book} ${chapter}:${verse} (${elapsed}s) | 진행: ${completed}/${total} (${percent}%)`);
+    // 완료 로그 (재시도 세션 표시)
+    const retryPrefix = retrySession > 0 ? `[재시도 ${retrySession}] ` : '';
+    console.log(`[${getTimestamp()}] ✅ ${retryPrefix}완료: ${book} ${chapter}:${verse} (${elapsed}s) | 진행: ${completed}/${total} (${percent}%)`);
   } else if (status === 'error') {
     processingTasks.delete(taskKey);
-    // 에러 로그
-    console.error(`[${getTimestamp()}] ❌ 실패: ${book} ${chapter}:${verse} - ${error || 'Unknown error'}`);
+    // 에러 로그 (재시도 세션 표시)
+    const retryPrefix = retrySession > 0 ? `[재시도 ${retrySession}] ` : '';
+    console.error(`[${getTimestamp()}] ❌ ${retryPrefix}실패: ${book} ${chapter}:${verse} - ${error || 'Unknown error'}`);
   }
 
   // 현재 진행중 목록 UI 업데이트
@@ -579,9 +615,22 @@ function handleAnalysisProgress(progress) {
 
   // 상태 메시지 업데이트 (완료/에러 시에만)
   if (status === 'completed' || status === 'error') {
-    // UI 상태 메시지 (간결하게)
-    const statusMessage = `[${bookIndex || 1}/${totalBooks || 1}] ${book} ${chapter}:${verse} (${completed}/${total}) - ${percent}%`;
+    // UI 상태 메시지 (재시도 세션 정보 포함)
+    const retryInfo = retrySession > 0 ? `[재시도 ${retrySession}/${maxRetrySessions}] ` : '';
+    const statusMessage = `${retryInfo}[${bookIndex || 1}/${totalBooks || 1}] ${book} ${chapter}:${verse} (${completed}/${total}) - ${percent}%`;
     updateAnalysisStatus(statusMessage, false);  // 콘솔에는 출력하지 않음
+  }
+
+  // 재시도 세션 상태 UI 업데이트
+  const retryStatusEl = document.getElementById('retrySessionStatus');
+  if (retryStatusEl) {
+    if (retrySession > 0) {
+      retryStatusEl.classList.remove('hidden');
+      const currentFailed = failedCount || 0;
+      retryStatusEl.innerHTML = `<span class="retry-badge">재시도 ${retrySession}/${maxRetrySessions}</span> 진행 중... (실패: ${currentFailed}개)`;
+    } else {
+      retryStatusEl.classList.add('hidden');
+    }
   }
 
   // 진행률 바 업데이트
@@ -679,12 +728,28 @@ function updateProcessingList() {
 async function handleAnalysisComplete(result) {
   console.log('Analysis complete:', result);
 
-  const { totalCompleted, totalVerses, stopped } = result;
-  const message = stopped
-    ? `분석 중단됨: ${totalCompleted}/${totalVerses} 구절`
-    : `분석 완료: ${totalCompleted}/${totalVerses} 구절`;
+  const { totalCompleted, totalVerses, totalFailed, retrySessionsUsed, maxRetrySessions, stopped } = result;
+
+  // 재시도 세션 정보 포함 메시지
+  let message;
+  if (stopped) {
+    message = `분석 중단됨: ${totalCompleted}/${totalVerses} 구절`;
+  } else if (totalFailed > 0) {
+    message = `분석 완료: ${totalCompleted}/${totalVerses} 구절 (실패 ${totalFailed}개, 재시도 ${retrySessionsUsed || 0}회)`;
+  } else {
+    message = `분석 완료: ${totalCompleted}/${totalVerses} 구절`;
+    if (retrySessionsUsed > 0) {
+      message += ` (재시도 ${retrySessionsUsed}회로 모두 성공)`;
+    }
+  }
 
   updateAnalysisStatus(message);
+
+  // 재시도 상태 UI 숨기기
+  const retryStatusEl = document.getElementById('retrySessionStatus');
+  if (retryStatusEl) {
+    retryStatusEl.classList.add('hidden');
+  }
 
   // UI 상태 복원
   const analysisPanel = document.getElementById('analysisPanel');
@@ -705,10 +770,19 @@ async function handleAnalysisComplete(result) {
   // 데이터 새로고침
   await loadBibleData();
 
-  // 완료 팝업 표시
-  const alertMessage = stopped
-    ? `분석이 중단되었습니다.\n\n처리된 구절: ${totalCompleted}/${totalVerses}`
-    : `분석이 완료되었습니다!\n\n처리된 구절: ${totalCompleted}/${totalVerses}`;
+  // 완료 팝업 표시 (재시도 정보 포함)
+  let alertMessage;
+  if (stopped) {
+    alertMessage = `분석이 중단되었습니다.\n\n처리된 구절: ${totalCompleted}/${totalVerses}`;
+  } else {
+    alertMessage = `분석이 완료되었습니다!\n\n처리된 구절: ${totalCompleted}/${totalVerses}`;
+    if (retrySessionsUsed > 0) {
+      alertMessage += `\n재시도 세션: ${retrySessionsUsed}/${maxRetrySessions}회 사용`;
+    }
+    if (totalFailed > 0) {
+      alertMessage += `\n최종 실패: ${totalFailed}개 구절`;
+    }
+  }
   alert(alertMessage);
 }
 

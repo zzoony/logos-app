@@ -1415,3 +1415,46 @@ button, input, select, textarea, a, .book-card, .books-grid {
 .book-card .validation-badge.warning {
   background: var(--color-warning);
 }
+
+/* ===================================
+   Retry Session Status
+   =================================== */
+.retry-session-status {
+  background: linear-gradient(135deg, rgba(255, 134, 46, 0.15), rgba(247, 52, 99, 0.1));
+  border: 1px solid var(--color-warning);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+  color: var(--text-primary);
+  animation: pulse-border 2s ease-in-out infinite;
+}
+
+.retry-session-status.hidden {
+  display: none;
+}
+
+@keyframes pulse-border {
+  0%, 100% {
+    border-color: var(--color-warning);
+    box-shadow: 0 0 5px rgba(255, 134, 46, 0.3);
+  }
+  50% {
+    border-color: var(--color-danger);
+    box-shadow: 0 0 10px rgba(247, 52, 99, 0.4);
+  }
+}
+
+.retry-badge {
+  background: linear-gradient(135deg, var(--color-warning), var(--color-danger));
+  color: white;
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}

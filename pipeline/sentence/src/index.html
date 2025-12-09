@@ -10,7 +10,7 @@
   <div class="container">
     <!-- 헤더 -->
     <header class="header">
-      <h1>Sentence Analysis Dashboard <span class="version-badge">v0.1.0</span></h1>
+      <h1>Sentence Analysis Dashboard <span class="version-badge" id="appVersion">v0.0.0</span></h1>
       <div class="header-status">
         <span class="status-badge" id="headerBibleVersion">ESV</span>
         <span class="status-badge method" id="headerAnalysisMethod">API</span>
@@ -139,6 +139,11 @@
       <div class="card hidden" id="analysisPanel">
         <div class="analysis-panel">
           <h3>분석 진행 중...</h3>
+
+          <!-- 재시도 세션 상태 표시 -->
+          <div class="retry-session-status hidden" id="retrySessionStatus">
+            <span class="retry-badge">재시도 0/5</span> 준비 중...
+          </div>
 
           <div class="current-batch">
             <p id="analysisStatus">준비 중...</p>
