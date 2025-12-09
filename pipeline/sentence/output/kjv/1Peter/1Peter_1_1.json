@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Peter 1:1",
+  "version": "KJV",
+  "original_text": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+  "korean_text": "예수 그리스도의 사도 베드로는 본도, 갈라디아, 갑바도기아, 아시아와 비두니아에 흩어진 나그네",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter, an apostle of Jesus Christ,",
+      "korean_translation": "예수 그리스도의 사도 베드로는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the strangers scattered",
+      "korean_translation": "흩어져 있는 나그네들에게,",
+      "word_indices": [
+        151,
+        303
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "throughout Pontus, Galatia,",
+      "korean_translation": "본도와 갈라디아와,",
+      "word_indices": [
+        206
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Cappadocia, Asia, and Bithynia,",
+      "korean_translation": "갑바도기아와 아시아와 비두니아에",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Peter 2:10",
+  "version": "KJV",
+  "original_text": "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.",
+  "korean_text": "너희가 전에는 백성이 아니더니 이제는 하나님의 백성이요 전에는 긍휼을 얻지 못하였더니 이제는 긍휼을 얻은 자니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Which in time past were not a people",
+      "korean_translation": "과거에는 백성이 아니었으나",
+      "word_indices": [
+        5,
+        30,
+        623
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but are now the people of God",
+      "korean_translation": "이제는 하나님의 백성이 되었고",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which had not obtained mercy",
+      "korean_translation": "긍휼을 얻지 못했으나",
+      "word_indices": [
+        700
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but now have obtained mercy",
+      "korean_translation": "이제는 긍휼을 얻었느니라",
+      "word_indices": [
+        700
+      ]
+    }
+  ]
+}
