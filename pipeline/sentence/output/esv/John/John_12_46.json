@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 12:46",
+  "version": "ESV",
+  "original_text": "I have come into the world as light, so that whoever believes in me may not remain in darkness.",
+  "korean_text": "나는 빛으로 세상에 왔나니 무릇 나를 믿는 자로 어둠에 거하지 않게 하려 함이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have come into the world as light",
+      "korean_translation": "나는 빛으로 세상에 왔으니",
+      "word_indices": [
+        177,
+        183
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that whoever believes in me",
+      "korean_translation": "나를 믿는 사람은",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "may not remain in darkness.",
+      "korean_translation": "어둠에 머물지 않게 하려 함이라",
+      "word_indices": []
+    }
+  ]
+}

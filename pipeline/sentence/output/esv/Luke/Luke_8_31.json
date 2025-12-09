@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Luke 8:31",
+  "version": "ESV",
+  "original_text": "And they begged him not to command them to depart into the abyss.",
+  "korean_text": "무저갱으로 들어가라 하지 마시기를 간구하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they begged him",
+      "korean_translation": "그들이 그에게 간구하니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "not to command them",
+      "korean_translation": "그들에게 명령하지 말라고",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to depart into the abyss.",
+      "korean_translation": "무저갱으로 떠나라고",
+      "word_indices": [
+        266
+      ]
+    }
+  ]
+}

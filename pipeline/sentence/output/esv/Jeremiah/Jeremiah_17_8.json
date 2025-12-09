@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Jeremiah 17:8",
+  "version": "ESV",
+  "original_text": "He is like a tree planted by water,\n    that sends out its roots by the stream,\nand does not fear when heat comes,\n    for its leaves remain green,\nand is not anxious in the year of drought,\n    for it does not cease to bear fruit.”",
+  "korean_text": "그는 물 가에 심어진 나무가 그 뿌리를 강변에 뻗치고 더위가 올지라도 두려워하지 아니하며 그 잎이 청청하며 가무는 해에도 걱정이 없고 결실이 그치지 아니함 같으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He is like a tree planted by water",
+      "korean_translation": "그는 물가에 심긴 나무와 같으니",
+      "word_indices": [
+        14,
+        42,
+        143,
+        403
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that sends out its roots by the stream",
+      "korean_translation": "시냇가에 그 뿌리를 뻗으니",
+      "word_indices": [
+        24,
+        663,
+        821
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and does not fear when heat comes",
+      "korean_translation": "더위가 올 때 두려워하지 아니하니",
+      "word_indices": [
+        80,
+        1050
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for its leaves remain green",
+      "korean_translation": "그 잎사귀가 푸르러서",
+      "word_indices": [
+        1088
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and is not anxious in the year of drought",
+      "korean_translation": "가물 해에도 근심하지 아니하니",
+      "word_indices": [
+        2271
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for it does not cease to bear fruit.",
+      "korean_translation": "열매를 그치지 아니함이라",
+      "word_indices": [
+        73,
+        203,
+        562
+      ]
+    }
+  ]
+}

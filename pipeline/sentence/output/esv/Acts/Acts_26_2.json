@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Acts 26:2",
+  "version": "ESV",
+  "original_text": "“I consider myself fortunate that it is before you, King Agrippa, I am going to make my defense today against all the accusations of the Jews,",
+  "korean_text": "아그립바 왕이여 유대인이 고발하는 모든 일을 오늘 당신 앞에서 변명하게 된 것을 다행히 여기나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I consider myself fortunate",
+      "korean_translation": "저는 다행이라고 생각합니다",
+      "word_indices": [
+        500,
+        4320
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I am going to make my defense today",
+      "korean_translation": "오늘 제가 변명하게 될 것이라는 점이",
+      "word_indices": [
+        275,
+        1439
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "before you, King Agrippa,",
+      "korean_translation": "아그립바 왕 당신 앞에서",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "against all the accusations of the Jews",
+      "korean_translation": "유대인들의 모든 고발에 대해",
+      "word_indices": [
+        12,
+        180,
+        3017
+      ]
+    }
+  ]
+}

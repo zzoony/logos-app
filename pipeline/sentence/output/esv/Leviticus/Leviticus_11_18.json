@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Leviticus 11:18",
+  "version": "ESV",
+  "original_text": "the barn owl, the tawny owl, the carrion vulture,",
+  "korean_text": "흰 올빼미와 사다새와 너새와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the barn owl",
+      "korean_translation": "부엉이",
+      "word_indices": [
+        1853,
+        2042
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the tawny owl",
+      "korean_translation": "올빼미",
+      "word_indices": [
+        1853,
+        3974
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the carrion vulture",
+      "korean_translation": "대머리수리",
+      "word_indices": [
+        2135,
+        3975
+      ]
+    }
+  ]
+}

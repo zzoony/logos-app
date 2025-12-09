@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 11:55",
+  "version": "ESV",
+  "original_text": "Now the Passover of the Jews was at hand, and many went up from the country to Jerusalem before the Passover to purify themselves.",
+  "korean_text": "유대인의 유월절이 가까우매 많은 사람이 자기를 성결하게 하기 위하여 유월절 전에 시골에서 예루살렘으로 올라갔더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the Passover of the Jews was at hand",
+      "korean_translation": "유대인의 유월절이 가까웠고",
+      "word_indices": [
+        10,
+        180,
+        577
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and many went up from the country",
+      "korean_translation": "많은 사람들이 지방에서 올라갔으니",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Jerusalem before the Passover",
+      "korean_translation": "유월절 전에 예루살렘으로",
+      "word_indices": [
+        577
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to purify themselves",
+      "korean_translation": "자신들을 정결하게 하려 함이라",
+      "word_indices": [
+        978
+      ]
+    }
+  ]
+}

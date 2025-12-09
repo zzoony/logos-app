@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Matthew 12:35",
+  "version": "ESV",
+  "original_text": "The good person out of his good treasure brings forth good, and the evil person out of his evil treasure brings forth evil.",
+  "korean_text": "선한 사람은 그 쌓은 선에서 선한 것을 내고 악한 사람은 그 쌓은 악에서 악한 것을 내느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The good person out of his good treasure",
+      "korean_translation": "선한 사람은 그의 선한 보물에서부터",
+      "word_indices": [
+        37,
+        214,
+        551
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "brings forth good",
+      "korean_translation": "선한 것을 내놓고",
+      "word_indices": [
+        11,
+        37,
+        342
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the evil person out of his evil treasure",
+      "korean_translation": "악한 사람은 그의 악한 보물에서부터",
+      "word_indices": [
+        63,
+        214,
+        551
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "brings forth evil",
+      "korean_translation": "악한 것을 내놓습니다",
+      "word_indices": [
+        11,
+        63,
+        342
+      ]
+    }
+  ]
+}

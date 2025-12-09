@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 5:44",
+  "version": "ESV",
+  "original_text": "But I say to you, Love your enemies and pray for those who persecute you,",
+  "korean_text": "나는 너희에게 이르노니 너희 원수를 사랑하며 너희를 박해하는 자를 위하여 기도하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I say to you,",
+      "korean_translation": "하지만 나는 너희에게 이르노니,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Love your enemies",
+      "korean_translation": "너희 원수를 사랑하라",
+      "word_indices": [
+        35,
+        122
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and pray for those who persecute you,",
+      "korean_translation": "그리고 너희를 박해하는 자들을 위하여 기도하라",
+      "word_indices": [
+        262,
+        1011
+      ]
+    }
+  ]
+}

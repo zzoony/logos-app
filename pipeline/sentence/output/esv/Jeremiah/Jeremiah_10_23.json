@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Jeremiah 10:23",
+  "version": "ESV",
+  "original_text": "I know, O Lord, that the way of man is not in himself,\n    that it is not in man who walks to direct his steps.",
+  "korean_text": "여호와여 내가 알거니와 사람의 길이 자신에게 있지 아니하니 걸음을 지도함이 걷는 자에게 있지 아니하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know, O Lord,",
+      "korean_translation": "주여, 내가 아오니",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the way of man is not in himself,",
+      "korean_translation": "사람의 길이 자기에게 있지 아니하며",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that it is not in man who walks to direct his steps.",
+      "korean_translation": "걷는 사람이 그 걸음을 정하지 못함이니이다",
+      "word_indices": [
+        6,
+        111,
+        647,
+        998
+      ]
+    }
+  ]
+}

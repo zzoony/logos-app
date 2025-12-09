@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Jeremiah 50:17",
+  "version": "ESV",
+  "original_text": "“Israel is a hunted sheep driven away by lions. First the king of Assyria devoured him, and now at last Nebuchadnezzar king of Babylon has gnawed his bones.",
+  "korean_text": "이스라엘은 흩어진 양이라 사자들이 그를 따르도다 처음에는 앗수르 왕이 먹었고 다음에는 바벨론의 느부갓네살 왕이 그의 뼈를 꺾도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Israel is a hunted sheep driven away by lions.",
+      "korean_translation": "이스라엘은 사냥당하는 양으로 사자들에게 쫓겨났습니다.",
+      "word_indices": [
+        29,
+        235,
+        348,
+        1406
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "First the king of Assyria devoured him,",
+      "korean_translation": "먼저 앗수르 왕이 그를 삼켰고,",
+      "word_indices": [
+        4,
+        371
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and now at last Nebuchadnezzar king of Babylon has gnawed his bones.",
+      "korean_translation": "이제 마침내 바벨론 왕 느부갓네살이 그의 뼈를 갉아먹었습니다.",
+      "word_indices": [
+        4,
+        427,
+        3033
+      ]
+    }
+  ]
+}

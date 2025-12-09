@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Proverbs 24:13",
+  "version": "ESV",
+  "original_text": "My son, eat honey, for it is good,\n    and the drippings of the honeycomb are sweet to your taste.",
+  "korean_text": "내 아들아 꿀을 먹으라 이것이 좋으니라 송이꿀을 먹으라 이것이 네 입에 다니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My son,",
+      "korean_translation": "내 아들아,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "eat honey,",
+      "korean_translation": "꿀을 먹으라,",
+      "word_indices": [
+        750
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for it is good,",
+      "korean_translation": "그것은 좋으니,",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the drippings of the honeycomb are sweet to your taste.",
+      "korean_translation": "꿀송이의 방울은 네 입에 다니,",
+      "word_indices": [
+        989,
+        1082,
+        2975,
+        4246
+      ]
+    }
+  ]
+}

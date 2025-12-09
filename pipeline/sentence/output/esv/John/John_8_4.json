@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 8:4",
+  "version": "ESV",
+  "original_text": "they said to him, “Teacher, this woman has been caught in the act of adultery.",
+  "korean_text": "예수께 말하되 선생이여 이 여자가 간음하다가 현장에서 잡혔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "they said to him",
+      "korean_translation": "그들이 그에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Teacher",
+      "korean_translation": "선생님",
+      "word_indices": [
+        640
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "this woman has been caught in the act of adultery.",
+      "korean_translation": "이 여자는 간음하다가 현장에서 잡혔습니다",
+      "word_indices": [
+        53,
+        309,
+        948
+      ]
+    }
+  ]
+}

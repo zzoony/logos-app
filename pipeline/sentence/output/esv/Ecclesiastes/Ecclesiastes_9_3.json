@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Ecclesiastes 9:3",
+  "version": "ESV",
+  "original_text": "This is an evil in all that is done under the sun, that the same event happens to all. Also, the hearts of the children of man are full of evil, and madness is in their hearts while they live, and after that they go to the dead.",
+  "korean_text": "모든 사람의 결국은 일반이라 이것은 해 아래에서 행해지는 모든 일 중의 악한 것이니 곧 인생의 마음에는 악이 가득하여 그들의 평생에 미친 마음을 품고 있다가 후에는 죽은 자들에게로 돌아가는 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is an evil in all that is done under the sun",
+      "korean_translation": "해 아래서 행해지는 모든 일에 이것은 악입니다",
+      "word_indices": [
+        63,
+        321
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the same event happens to all.",
+      "korean_translation": "모든 사람에게 똑같은 일이 일어난다는 것입니다",
+      "word_indices": [
+        228,
+        464,
+        3066
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Also, the hearts of the children of man are full of evil",
+      "korean_translation": "또한, 사람들의 마음은 악으로 가득 차 있습니다",
+      "word_indices": [
+        6,
+        23,
+        26,
+        63,
+        165
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and madness is in their hearts while they live",
+      "korean_translation": "그리고 그들이 사는 동안 그 마음에는 미침이 있습니다",
+      "word_indices": [
+        26,
+        33
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and after that they go to the dead.",
+      "korean_translation": "그리고 그 후에 그들은 죽은 자들에게로 갑니다",
+      "word_indices": [
+        141
+      ]
+    }
+  ]
+}

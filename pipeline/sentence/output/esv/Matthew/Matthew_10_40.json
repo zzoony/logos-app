@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Matthew 10:40",
+  "version": "ESV",
+  "original_text": "“Whoever receives you receives me, and whoever receives me receives him who sent me.",
+  "korean_text": "너희를 영접하는 자는 나를 영접하는 것이요 나를 영접하는 자는 나를 보내신 이를 영접하는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever receives you receives me",
+      "korean_translation": "너희를 영접하는 자는 나를 영접하는 것이다.",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever receives me receives him",
+      "korean_translation": "나를 영접하는 자는 그를 영접하는 것이다.",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who sent me",
+      "korean_translation": "나를 보내신 분",
+      "word_indices": []
+    }
+  ]
+}

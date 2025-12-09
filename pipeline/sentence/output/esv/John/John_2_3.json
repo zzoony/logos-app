@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 2:3",
+  "version": "ESV",
+  "original_text": "When the wine ran out, the mother of Jesus said to him, “They have no wine.”",
+  "korean_text": "포도주가 떨어진지라 예수의 어머니가 예수에게 이르되 저들에게 포도주가 없다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the wine ran out",
+      "korean_translation": "포도주가 떨어졌을 때에",
+      "word_indices": [
+        194
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the mother of Jesus said to him",
+      "korean_translation": "예수의 어머니가 그에게 말씀하셨다",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“They have no wine.”",
+      "korean_translation": "“포도주가 없다.”",
+      "word_indices": [
+        194
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 42:8",
+  "version": "ESV",
+  "original_text": "I am the Lord; that is my name;\n    my glory I give to no other,\n    nor my praise to carved idols.",
+  "korean_text": "나는 여호와이니 이는 내 이름이라 나는 내 영광을 다른 자에게, 내 찬송을 우상에게 주지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that is my name",
+      "korean_translation": "그것이 나의 이름이다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my glory I give to no other",
+      "korean_translation": "나는 나의 영광을 다른 이에게 주지 않는다",
+      "word_indices": [
+        5,
+        112
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor my praise to carved idols",
+      "korean_translation": "새긴 우상에게는 나의 찬양을 주지도 않는다",
+      "word_indices": [
+        160,
+        355
+      ]
+    }
+  ]
+}

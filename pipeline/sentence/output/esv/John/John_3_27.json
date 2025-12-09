@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 3:27",
+  "version": "ESV",
+  "original_text": "John answered, “A person cannot receive even one thing unless it is given him from heaven.",
+  "korean_text": "요한이 대답하여 이르되 만일 하늘에서 주신 바 아니면 사람이 아무 것도 받을 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John answered,",
+      "korean_translation": "요한이 대답하여,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A person cannot receive even one thing",
+      "korean_translation": "사람은 한 가지 것도 받을 수 없고",
+      "word_indices": [
+        137,
+        214,
+        215
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "unless it is given him from heaven.",
+      "korean_translation": "그것이 하늘로부터 그에게 주어지지 않으면 안 됩니다.",
+      "word_indices": [
+        5,
+        40
+      ]
+    }
+  ]
+}

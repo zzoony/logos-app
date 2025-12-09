@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Acts 1:5",
+  "version": "ESV",
+  "original_text": "for John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”",
+  "korean_text": "요한은 물로 세례를 베풀었으나 너희는 몇 날이 못되어 성령으로 세례를 받으리라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for John baptized with water",
+      "korean_translation": "요한은 물로 세례를 베풀었으니",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you will be baptized with the Holy Spirit",
+      "korean_translation": "너희는 성령으로 세례를 받을 것이나",
+      "word_indices": [
+        44,
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not many days from now",
+      "korean_translation": "며칠 안으로",
+      "word_indices": []
+    }
+  ]
+}

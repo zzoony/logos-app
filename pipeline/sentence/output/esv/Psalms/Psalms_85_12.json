@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 85:12",
+  "version": "ESV",
+  "original_text": "Yes, the Lord will give what is good,\n    and our land will yield its increase.",
+  "korean_text": "여호와께서 좋은 것을 주시리니 우리 땅이 그 산물을 내리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yes,",
+      "korean_translation": "네,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Lord will give what is good,",
+      "korean_translation": "주께서 좋은 것을 주실 것이며,",
+      "word_indices": [
+        5,
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and our land will yield its increase.",
+      "korean_translation": "우리의 땅은 그 소산을 낼 것입니다.",
+      "word_indices": [
+        8,
+        516,
+        741
+      ]
+    }
+  ]
+}

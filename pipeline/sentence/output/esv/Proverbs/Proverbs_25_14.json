@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Proverbs 25:14",
+  "version": "ESV",
+  "original_text": "Like clouds and wind without rain\n    is a man who boasts of a gift he does not give.",
+  "korean_text": "선물한다고 거짓 자랑하는 자는 비 없는 구름과 바람 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Like clouds and wind without rain",
+      "korean_translation": "비 없는 구름과 바람과 같으니",
+      "word_indices": [
+        14,
+        259,
+        307,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is a man who boasts of a gift",
+      "korean_translation": "선물을 자랑하는 사람이 있다",
+      "word_indices": [
+        6,
+        379,
+        512
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he does not give.",
+      "korean_translation": "그가 주지 않는 말이다",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

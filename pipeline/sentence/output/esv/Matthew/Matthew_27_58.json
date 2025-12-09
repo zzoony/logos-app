@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 27:58",
+  "version": "ESV",
+  "original_text": "He went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him.",
+  "korean_text": "빌라도에게 가서 예수의 시체를 달라 하니 이에 빌라도가 내주라 명령하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He went to Pilate",
+      "korean_translation": "그는 빌라도에게 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and asked for the body of Jesus",
+      "korean_translation": "그리고 예수의 시체를 구했습니다",
+      "word_indices": [
+        126,
+        150
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then Pilate ordered it to be given to him",
+      "korean_translation": "그러자 빌라도는 그것을 그에게 내어주라고 명령했습니다",
+      "word_indices": [
+        5,
+        253
+      ]
+    }
+  ]
+}

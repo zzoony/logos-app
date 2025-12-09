@@ -1,0 +1,32 @@
+{
+  "verse_reference": "2 Samuel 22:41",
+  "version": "ESV",
+  "original_text": "You made my enemies turn their backs to me,\n    those who hated me, and I destroyed them.",
+  "korean_text": "주께서 또 내 원수들이 등을 내게로 향하게 하시고 내게 나를 미워하는 자를 끊어 버리게 하셨음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You made my enemies turn their backs to me",
+      "korean_translation": "주께서 내 원수들이 내게서 등을 돌리게 하셨습니다.",
+      "word_indices": [
+        45,
+        90,
+        122
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "those who hated me",
+      "korean_translation": "나를 미워하는 자들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I destroyed them.",
+      "korean_translation": "내가 그들을 멸망시켰습니다.",
+      "word_indices": [
+        99
+      ]
+    }
+  ]
+}

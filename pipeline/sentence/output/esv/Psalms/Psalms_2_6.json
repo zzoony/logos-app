@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 2:6",
+  "version": "ESV",
+  "original_text": "“As for me, I have set my King\n    on Zion, my holy hill.”",
+  "korean_text": "내가 나의 왕을 내 거룩한 산 시온에 세웠다 하시리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As for me,",
+      "korean_translation": "나는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have set my King",
+      "korean_translation": "내 왕을 세웠다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on Zion,",
+      "korean_translation": "시온에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my holy hill.",
+      "korean_translation": "나의 거룩한 산",
+      "word_indices": [
+        44,
+        216
+      ]
+    }
+  ]
+}

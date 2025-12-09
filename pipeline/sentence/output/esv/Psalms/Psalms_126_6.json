@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 126:6",
+  "version": "ESV",
+  "original_text": "He who goes out weeping,\n    bearing the seed for sowing,\nshall come home with shouts of joy,\n    bringing his sheaves with him.",
+  "korean_text": "울며 씨를 뿌리러 나가는 자는 반드시 기쁨으로 그 곡식 단을 가지고 돌아오리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He who goes out weeping,",
+      "korean_translation": "울며 밖으로 나가는 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "bearing the seed for sowing,",
+      "korean_translation": "뿌릴 씨를 가지고",
+      "word_indices": [
+        73,
+        458
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall come home with shouts of joy,",
+      "korean_translation": "기쁨의 외침을 지르며 돌아오리라",
+      "word_indices": [
+        265,
+        365,
+        447
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bringing his sheaves with him.",
+      "korean_translation": "자기 곡식 단을 가지고 오리라",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

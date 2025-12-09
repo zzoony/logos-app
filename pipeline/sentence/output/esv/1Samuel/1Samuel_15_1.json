@@ -1,0 +1,47 @@
+{
+  "verse_reference": "1 Samuel 15:1",
+  "version": "ESV",
+  "original_text": "And Samuel said to Saul, “The Lord sent me to anoint you king over his people Israel; now therefore listen to the words of the Lord.",
+  "korean_text": "사무엘이 사울에게 이르되 여호와께서 나를 보내어 왕에게 기름을 부어 그의 백성 이스라엘 위에 왕으로 삼으셨은즉 이제 왕은 여호와의 말씀을 들으소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Samuel said to Saul,",
+      "korean_translation": "사무엘이 사울에게 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Lord sent me",
+      "korean_translation": "주께서 나를 보내셨으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to anoint you king over his people Israel",
+      "korean_translation": "그의 백성 이스라엘 위에 너를 왕으로 삼으려 함이라",
+      "word_indices": [
+        3,
+        4,
+        301
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "now therefore",
+      "korean_translation": "그러므로 이제",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "listen to the words of the Lord.",
+      "korean_translation": "주의 말씀을 들으라.",
+      "word_indices": [
+        15,
+        159
+      ]
+    }
+  ]
+}

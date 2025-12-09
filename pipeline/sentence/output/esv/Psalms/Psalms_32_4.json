@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 32:4",
+  "version": "ESV",
+  "original_text": "For day and night your hand was heavy upon me;\n    my strength was dried up as by the heat of summer. Selah",
+  "korean_text": "주의 손이 주야로 나를 누르시오니 내 진액이 빠져서 여름 가뭄에 마름 같이 되었나이다 (셀라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For day and night your hand was heavy upon me",
+      "korean_translation": "주야로 주의 손이 나를 무겁게 눌렀습니다",
+      "word_indices": [
+        10,
+        130,
+        900
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my strength was dried up as by the heat of summer",
+      "korean_translation": "여름 더위처럼 나의 힘이 마르었습니다",
+      "word_indices": [
+        1050,
+        1275
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Selah",
+      "korean_translation": "셀라",
+      "word_indices": []
+    }
+  ]
+}

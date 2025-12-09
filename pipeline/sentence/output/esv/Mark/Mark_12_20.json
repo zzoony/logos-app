@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 12:20",
+  "version": "ESV",
+  "original_text": "There were seven brothers; the first took a wife, and when he died left no offspring.",
+  "korean_text": "칠 형제가 있었는데 맏이가 아내를 취하였다가 상속자가 없이 죽고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There were seven brothers",
+      "korean_translation": "일곱 형제가 있었습니다",
+      "word_indices": [
+        28,
+        102
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the first took a wife",
+      "korean_translation": "첫째가 아내를 맞이했고",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when he died",
+      "korean_translation": "그가 죽었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "left no offspring",
+      "korean_translation": "자식을 남기지 못했습니다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Obadiah 1:8",
+  "version": "ESV",
+  "original_text": "Will I not on that day, declares the Lord,\n    destroy the wise men out of Edom,\n    and understanding out of Mount Esau?",
+  "korean_text": "여호와의 말씀이니라 그 날에 내가 에돔에서 지혜 있는 자를 멸하며 에서의 산에서 지각 있는 자를 멸하지 아니하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Will I not on that day,",
+      "korean_translation": "내가 그 날에 ...하지 않겠느냐,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "declares the Lord,",
+      "korean_translation": "주께서 말씀하시느니라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "destroy the wise men out of Edom,",
+      "korean_translation": "에돔에서 지혜로운 자들을 멸하며,",
+      "word_indices": [
+        99,
+        252
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and understanding out of Mount Esau?",
+      "korean_translation": "에사우 산에서 명철을 멸하겠느냐?",
+      "word_indices": [
+        274
+      ]
+    }
+  ]
+}

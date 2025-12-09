@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 5:22",
+  "version": "ESV",
+  "original_text": "Then Moses turned to the Lord and said, “O Lord, why have you done evil to this people? Why did you ever send me?",
+  "korean_text": "모세가 여호와께 돌아와서 아뢰되 주여 어찌하여 이 백성이 학대를 당하게 하셨나이까 어찌하여 나를 보내셨나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Moses turned to the Lord and said",
+      "korean_translation": "이에 모세가 주께로 돌이켜 말씀하였습니다,",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "why have you done evil to this people?",
+      "korean_translation": "어찌하여 주께서 이 백성에게 악을 행하셨나이까?",
+      "word_indices": [
+        3,
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why did you ever send me?",
+      "korean_translation": "어찌하여 나를 보내셨나이까?",
+      "word_indices": [
+        24
+      ]
+    }
+  ]
+}

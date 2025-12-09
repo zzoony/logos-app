@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 104:18",
+  "version": "ESV",
+  "original_text": "The high mountains are for the wild goats;\n    the rocks are a refuge for the rock badgers.",
+  "korean_text": "높은 산들은 산양을 위함이여 바위는 너구리의 피난처로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The high mountains are for the wild goats",
+      "korean_translation": "높은 산은 들염소를 위한 것입니다.",
+      "word_indices": [
+        107,
+        123,
+        312,
+        692
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the rocks are a refuge for the rock badgers.",
+      "korean_translation": "바위는 바위너구리를 위한 피난처입니다.",
+      "word_indices": [
+        335,
+        496,
+        3187
+      ]
+    }
+  ]
+}

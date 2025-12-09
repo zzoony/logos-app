@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 89:20",
+  "version": "ESV",
+  "original_text": "I have found David, my servant;\n    with my holy oil I have anointed him,",
+  "korean_text": "내가 내 종 다윗을 찾아내어 나의 거룩한 기름을 그에게 부었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have found David",
+      "korean_translation": "내가 다윗을 찾았으니",
+      "word_indices": [
+        1942
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my servant",
+      "korean_translation": "그는 나의 종이니",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with my holy oil",
+      "korean_translation": "나의 거룩한 기름으로",
+      "word_indices": [
+        44,
+        222
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have anointed him",
+      "korean_translation": "내가 그에게 기름을 부었노라",
+      "word_indices": [
+        301
+      ]
+    }
+  ]
+}

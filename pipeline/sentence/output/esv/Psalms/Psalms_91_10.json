@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 91:10",
+  "version": "ESV",
+  "original_text": "no evil shall be allowed to befall you,\n    no plague come near your tent.",
+  "korean_text": "화가 네게 미치지 못하며 재앙이 네 장막에 가까이 오지 못하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "no evil shall be allowed to befall you",
+      "korean_translation": "재앙이 너에게 닥치지 못하리라",
+      "word_indices": [
+        63,
+        1039,
+        2234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "no plague come near your tent",
+      "korean_translation": "전염병이 네 장막에 가까이 오지 못하리라",
+      "word_indices": [
+        109,
+        733
+      ]
+    }
+  ]
+}

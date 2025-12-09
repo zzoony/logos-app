@@ -1,0 +1,52 @@
+{
+  "verse_reference": "John 18:15",
+  "version": "ESV",
+  "original_text": "Simon Peter followed Jesus, and so did another disciple. Since that disciple was known to the high priest, he entered with Jesus into the courtyard of the high priest,",
+  "korean_text": "시몬 베드로와 또 다른 제자 한 사람이 예수를 따르니 이 제자는 대제사장과 아는 사람이라 예수와 함께 대제사장의 집 뜰에 들어가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon Peter followed Jesus",
+      "korean_translation": "시몬 베드로는 예수를 따랐습니다",
+      "word_indices": [
+        155
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and so did another disciple",
+      "korean_translation": "다른 제자 한 사람도 그렇게 했습니다",
+      "word_indices": [
+        171
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Since that disciple was known to the high priest",
+      "korean_translation": "그 제자는 대제사장에게 알려진 사람이었기 때문에",
+      "word_indices": [
+        25,
+        107,
+        171
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he entered with Jesus",
+      "korean_translation": "그는 예수와 함께 들어갔습니다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "into the courtyard of the high priest",
+      "korean_translation": "대제사장의 뜰로",
+      "word_indices": [
+        25,
+        107,
+        2358
+      ]
+    }
+  ]
+}

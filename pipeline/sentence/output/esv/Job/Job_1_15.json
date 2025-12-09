@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 1:15",
+  "version": "ESV",
+  "original_text": "and the Sabeans fell upon them and took them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.”",
+  "korean_text": "스바 사람이 갑자기 이르러 그것들을 빼앗고 칼로 종들을 죽였나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and the Sabeans fell upon them",
+      "korean_translation": "그리고 스바 사람들이 그들에게 달려들어",
+      "word_indices": [
+        212
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and took them",
+      "korean_translation": "그들을 빼앗고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and struck down the servants with the edge of the sword",
+      "korean_translation": "칼날로 종들을 쳐죽였으며",
+      "word_indices": [
+        22,
+        74,
+        600
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I alone have escaped to tell you.”",
+      "korean_translation": "나 혼자만 겨우 도망와서 당신께 이 말을 전합니다.",
+      "word_indices": [
+        36,
+        367
+      ]
+    }
+  ]
+}

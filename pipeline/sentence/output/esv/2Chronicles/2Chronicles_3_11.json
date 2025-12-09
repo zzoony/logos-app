@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Chronicles 3:11",
+  "version": "ESV",
+  "original_text": "The wings of the cherubim together extended twenty cubits: one wing of the one, of five cubits, touched the wall of the house, and its other wing, of five cubits, touched the wing of the other cherub;",
+  "korean_text": "두 그룹의 날개 길이가 모두 이십 규빗이라 왼쪽 그룹의 한 날개는 다섯 규빗이니 성전 벽에 닿았고 그 다른 날개도 다섯 규빗이니 오른쪽 그룹의 날개에 닿았으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wings of the cherubim together extended twenty cubits:",
+      "korean_translation": "그룹들의 날개가 함께 이십 규빗을 뻗었으니",
+      "word_indices": [
+        120,
+        156,
+        234,
+        468,
+        1339
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "one wing of the one, of five cubits, touched the wall of the house,",
+      "korean_translation": "한 그룹의 한 날개는 다섯 규빗으로 성전 벽에 닿았고",
+      "word_indices": [
+        7,
+        156,
+        191,
+        201,
+        468
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and its other wing, of five cubits, touched the wing of the other cherub;",
+      "korean_translation": "그 다른 날개도 다섯 규빗으로 다른 그룹의 날개에 닿았으니",
+      "word_indices": [
+        156,
+        201,
+        468
+      ]
+    }
+  ]
+}

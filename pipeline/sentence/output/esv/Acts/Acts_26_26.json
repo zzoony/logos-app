@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Acts 26:26",
+  "version": "ESV",
+  "original_text": "For the king knows about these things, and to him I speak boldly. For I am persuaded that none of these things has escaped his notice, for this has not been done in a corner.",
+  "korean_text": "왕께서는 이 일을 아시기로 내가 왕께 담대히 말하노니 이 일에 하나라도 아시지 못함이 없는 줄 믿나이다 이 일은 한쪽 구석에서 행한 것이 아니니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the king knows about these things",
+      "korean_translation": "왕께서는 이 모든 일을 아십니다",
+      "word_indices": [
+        4,
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and to him I speak boldly",
+      "korean_translation": "그리고 나는 그에게 담대히 말합니다",
+      "word_indices": [
+        18,
+        2203
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For I am persuaded",
+      "korean_translation": "내가 확신하는 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that none of these things has escaped his notice",
+      "korean_translation": "이 모든 일 중 그의 눈을 피한 것은 하나도 없다는 것입니다",
+      "word_indices": [
+        175,
+        2063
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for this has not been done in a corner",
+      "korean_translation": "이것이 구석에서 행해진 것이 아니기 때문입니다",
+      "word_indices": [
+        709
+      ]
+    }
+  ]
+}

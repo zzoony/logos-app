@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 5:2",
+  "version": "ESV",
+  "original_text": "Now there is in Jerusalem by the Sheep Gate a pool, in Aramaic called Bethesda, which has five roofed colonnades.",
+  "korean_text": "예루살렘에 있는 양문 곁에 히브리 말로 베데스다라 하는 못이 있는데 거기 행각 다섯이 있고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now there is in Jerusalem by the Sheep Gate a pool",
+      "korean_translation": "그때 예루살렘에 양문 곁에 못이 있었는데",
+      "word_indices": [
+        98,
+        235,
+        1109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Aramaic called Bethesda",
+      "korean_translation": "아람어로는 베데스다라고 불렀고",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which has five roofed colonnades.",
+      "korean_translation": "그곳에는 다섯 개의 지붕 있는 행각이 있었다",
+      "word_indices": [
+        201,
+        1033
+      ]
+    }
+  ]
+}

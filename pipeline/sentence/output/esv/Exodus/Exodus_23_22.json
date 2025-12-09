@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 23:22",
+  "version": "ESV",
+  "original_text": "“But if you carefully obey his voice and do all that I say, then I will be an enemy to your enemies and an adversary to your adversaries.",
+  "korean_text": "네가 그의 목소리를 잘 청종하고 내 모든 말대로 행하면 내가 네 원수에게 원수가 되고 네 대적에게 대적이 될지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if you carefully obey his voice",
+      "korean_translation": "그러나 너희가 그의 목소리를 주의 깊게 듣고",
+      "word_indices": [
+        86,
+        285,
+        2350
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and do all that I say,",
+      "korean_translation": "내가 말하는 모든 것을 행하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then I will be an enemy to your enemies",
+      "korean_translation": "내가 너희의 원수에게 원수가 되고",
+      "word_indices": [
+        122
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and an adversary to your adversaries.",
+      "korean_translation": "너희의 대적에게 대적이 될 것이다.",
+      "word_indices": [
+        761
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 56:12",
+  "version": "ESV",
+  "original_text": "“Come,” they say, “let me get wine;\n    let us fill ourselves with strong drink;\nand tomorrow will be like this day,\n    great beyond measure.”",
+  "korean_text": "오라 내가 포도주를 가져오리라 우리가 독주를 잔뜩 마시자 내일도 오늘 같이 크게 넘치리라 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"Come,\" they say,",
+      "korean_translation": "\"오라\" 그들이 말하며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"let me get wine;",
+      "korean_translation": "\"내가 포도주를 가져오게 하고,",
+      "word_indices": [
+        194
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us fill ourselves with strong drink;",
+      "korean_translation": "우리가 독한 술로 채우고,",
+      "word_indices": [
+        70,
+        207,
+        227
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and tomorrow will be like this day,",
+      "korean_translation": "내일도 오늘과 같으리니,",
+      "word_indices": [
+        14,
+        779
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "great beyond measure.\"",
+      "korean_translation": "크고 한이 없으리라.\"",
+      "word_indices": [
+        30,
+        345
+      ]
+    }
+  ]
+}

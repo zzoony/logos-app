@@ -1,0 +1,51 @@
+{
+  "verse_reference": "2 Corinthians 5:15",
+  "version": "ESV",
+  "original_text": "and he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised.",
+  "korean_text": "그가 모든 사람을 대신하여 죽으심은 살아 있는 자들로 하여금 다시는 그들 자신을 위하여 살지 않고 오직 그들을 대신하여 죽었다가 다시 살아나신 이를 위하여 살게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and he died for all",
+      "korean_translation": "그는 모든 사람을 위해 죽으셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that those who live",
+      "korean_translation": "살아있는 사람들이",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "might no longer live for themselves",
+      "korean_translation": "더 이상 자신을 위해 살지 않고",
+      "word_indices": [
+        33,
+        398
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but for him",
+      "korean_translation": "그분을 위해 살기 위함입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who for their sake died",
+      "korean_translation": "그들을 위해 죽으시고",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and was raised",
+      "korean_translation": "부활하신 그분",
+      "word_indices": []
+    }
+  ]
+}

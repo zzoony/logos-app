@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Timothy 2:14",
+  "version": "ESV",
+  "original_text": "and Adam was not deceived, but the woman was deceived and became a transgressor.",
+  "korean_text": "아담이 속은 것이 아니고 여자가 속아 죄에 빠졌음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Adam was not deceived",
+      "korean_translation": "아담은 속지 않았으나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but the woman was deceived",
+      "korean_translation": "여자는 속았습니다",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and became a transgressor",
+      "korean_translation": "그리고 범법자가 되었습니다",
+      "word_indices": [
+        1998
+      ]
+    }
+  ]
+}

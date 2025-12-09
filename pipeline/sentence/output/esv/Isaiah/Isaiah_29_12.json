@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Isaiah 29:12",
+  "version": "ESV",
+  "original_text": "And when they give the book to one who cannot read, saying, “Read this,” he says, “I cannot read.”",
+  "korean_text": "또 그 책을 글 모르는 자에게 주며 이르기를 그대에게 청하노니 이를 읽으라 하면 그가 대답하기를 나는 글을 모른다 할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when they give the book",
+      "korean_translation": "그리고 그들이 그 책을 줄 때",
+      "word_indices": [
+        5,
+        292
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to one who cannot read,",
+      "korean_translation": "읽을 수 없는 한 사람에게,",
+      "word_indices": [
+        215,
+        520
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying, “Read this,”",
+      "korean_translation": "“이것을 읽으라”고 말하며,",
+      "word_indices": [
+        520
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he says,",
+      "korean_translation": "그가 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“I cannot read.”",
+      "korean_translation": "“내가 읽을 수 없노라.”",
+      "word_indices": [
+        215,
+        520
+      ]
+    }
+  ]
+}

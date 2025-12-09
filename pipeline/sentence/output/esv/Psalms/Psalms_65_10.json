@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 65:10",
+  "version": "ESV",
+  "original_text": "You water its furrows abundantly,\n    settling its ridges,\nsoftening it with showers,\n    and blessing its growth.",
+  "korean_text": "주께서 밭고랑에 물을 넉넉히 대사 그 이랑을 평평하게 하시며 또 단비로 부드럽게 하시고 그 싹에 복을 주시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You water its furrows abundantly",
+      "korean_translation": "당신은 그 고랑을 풍성하게 물을 주시고",
+      "word_indices": [
+        42,
+        1532,
+        2547
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "settling its ridges",
+      "korean_translation": "그 이랑을 굳히시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "softening it with showers",
+      "korean_translation": "비로 부드럽게 하시고",
+      "word_indices": [
+        1971,
+        4266
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and blessing its growth",
+      "korean_translation": "그 성장을 축복하시나이다",
+      "word_indices": [
+        64,
+        2600
+      ]
+    }
+  ]
+}

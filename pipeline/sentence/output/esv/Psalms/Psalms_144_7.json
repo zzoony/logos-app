@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 144:7",
+  "version": "ESV",
+  "original_text": "Stretch out your hand from on high;\n    rescue me and deliver me from the many waters,\n    from the hand of foreigners,",
+  "korean_text": "위에서부터 주의 손을 펴사 나를 큰 물과 이방인의 손에서 구하여 건지소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Stretch out your hand from on high",
+      "korean_translation": "높은 곳에서 손을 뻗으시고",
+      "word_indices": [
+        10,
+        107,
+        412
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rescue me",
+      "korean_translation": "나를 구원하시고",
+      "word_indices": [
+        749
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "deliver me from the many waters",
+      "korean_translation": "많은 물에서 나를 건지시고",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the hand of foreigners",
+      "korean_translation": "이방인의 손에서",
+      "word_indices": [
+        10,
+        722
+      ]
+    }
+  ]
+}

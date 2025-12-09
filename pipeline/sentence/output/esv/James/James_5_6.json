@@ -1,0 +1,34 @@
+{
+  "verse_reference": "James 5:6",
+  "version": "ESV",
+  "original_text": "You have condemned and murdered the righteous person. He does not resist you.",
+  "korean_text": "너희는 의인을 정죄하고 죽였으나 그는 너희에게 대항하지 아니하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have condemned the righteous person.",
+      "korean_translation": "너희는 의로운 자를 정죄하였다.",
+      "word_indices": [
+        214,
+        780
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have murdered the righteous person.",
+      "korean_translation": "너희는 의로운 자를 살해하였다.",
+      "word_indices": [
+        214,
+        1083
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He does not resist you.",
+      "korean_translation": "그는 너희를 대항하지 않는다.",
+      "word_indices": [
+        2198
+      ]
+    }
+  ]
+}

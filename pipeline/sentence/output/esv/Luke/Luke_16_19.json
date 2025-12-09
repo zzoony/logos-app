@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 16:19",
+  "version": "ESV",
+  "original_text": "“There was a rich man who was clothed in purple and fine linen and who feasted sumptuously every day.",
+  "korean_text": "한 부자가 있어 자색 옷과 고운 베옷을 입고 날마다 호화롭게 즐기더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "“There was a rich man",
+      "korean_translation": "“한 부자가 있었습니다",
+      "word_indices": [
+        6,
+        297
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who was clothed in purple and fine linen",
+      "korean_translation": "그는 자색 옷과 고운 베옷을 입었습니다",
+      "word_indices": [
+        363,
+        454,
+        798,
+        1187
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and who feasted sumptuously every day.”",
+      "korean_translation": "그리고 매일 호화로운 연회를 베풀었습니다.”",
+      "word_indices": [
+        5668
+      ]
+    }
+  ]
+}

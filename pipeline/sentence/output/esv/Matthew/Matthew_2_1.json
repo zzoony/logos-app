@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 2:1",
+  "version": "ESV",
+  "original_text": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem,",
+  "korean_text": "헤롯 왕 때에 예수께서 유대 베들레헴에서 나시매 동방으로부터 박사들이 예루살렘에 이르러 말하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now after Jesus was born",
+      "korean_translation": "예수님께서 태어나신 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Bethlehem of Judea",
+      "korean_translation": "유대 베들레헴에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the days of Herod the king",
+      "korean_translation": "헤롯 왕 때에",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "wise men from the east came to Jerusalem",
+      "korean_translation": "동방에서 박사들이 예루살렘에 이르렀으니",
+      "word_indices": [
+        252,
+        255
+      ]
+    }
+  ]
+}

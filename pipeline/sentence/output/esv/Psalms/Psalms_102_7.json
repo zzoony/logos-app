@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Psalms 102:7",
+  "version": "ESV",
+  "original_text": "I lie awake;\n    I am like a lonely sparrow on the housetop.",
+  "korean_text": "내가 밤을 새우니 지붕 위의 외로운 참새 같으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I lie awake",
+      "korean_translation": "내가 잠을 이루지 못하고 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am like a lonely sparrow on the housetop",
+      "korean_translation": "나는 지붕 위에 외로운 참새 같다",
+      "word_indices": [
+        14,
+        1736,
+        2602,
+        3723
+      ]
+    }
+  ]
+}

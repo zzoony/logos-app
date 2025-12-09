@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 6:35",
+  "version": "ESV",
+  "original_text": "Jesus said to them, “I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.",
+  "korean_text": "예수께서 이르시되 나는 생명의 떡이니 내게 오는 자는 결코 주리지 아니할 터이요 나를 믿는 자는 영원히 목마르지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them,",
+      "korean_translation": "예수께서 그들에게 말씀하셨다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am the bread of life;",
+      "korean_translation": "나는 생명의 떡이니",
+      "word_indices": [
+        41,
+        129
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whoever comes to me shall not hunger,",
+      "korean_translation": "내게로 오는 자는 결코 주리지 아니할 것이요,",
+      "word_indices": [
+        117,
+        1255
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whoever believes in me shall never thirst.",
+      "korean_translation": "나를 믿는 자는 영원히 목마르지 아니하리라.",
+      "word_indices": [
+        117,
+        1112
+      ]
+    }
+  ]
+}

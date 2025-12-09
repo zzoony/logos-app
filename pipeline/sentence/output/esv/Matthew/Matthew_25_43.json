@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 25:43",
+  "version": "ESV",
+  "original_text": "I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.’",
+  "korean_text": "나그네 되었을 때에 영접하지 아니하였고 헐벗었을 때에 옷 입히지 아니하였고 병들었을 때와 옥에 갇혔을 때에 돌보지 아니하였느니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I was a stranger",
+      "korean_translation": "나는 이방인이었고",
+      "word_indices": [
+        676
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you did not welcome me",
+      "korean_translation": "너희는 나를 영접하지 않았다",
+      "word_indices": [
+        1398
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "naked",
+      "korean_translation": "벌거벗었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you did not clothe me",
+      "korean_translation": "너희는 나를 입혀주지 않았다",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "sick and in prison",
+      "korean_translation": "병들었고 감옥에 있었는데",
+      "word_indices": [
+        608,
+        696
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and you did not visit me.’",
+      "korean_translation": "너희는 나를 찾아오지 않았다.’",
+      "word_indices": [
+        820
+      ]
+    }
+  ]
+}

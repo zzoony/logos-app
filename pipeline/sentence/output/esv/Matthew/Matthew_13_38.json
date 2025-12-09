@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 13:38",
+  "version": "ESV",
+  "original_text": "The field is the world, and the good seed is the sons of the kingdom. The weeds are the sons of the evil one,",
+  "korean_text": "밭은 세상이요 좋은 씨는 천국의 아들들이요 가라지는 악한 자의 아들들이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The field is the world",
+      "korean_translation": "밭은 세상입니다",
+      "word_indices": [
+        133,
+        183
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the good seed is the sons of the kingdom",
+      "korean_translation": "그리고 좋은 씨는 천국의 아들들입니다",
+      "word_indices": [
+        2,
+        37,
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The weeds are the sons of the evil one",
+      "korean_translation": "가라지는 악한 자의 아들들입니다",
+      "word_indices": [
+        2,
+        63,
+        2088
+      ]
+    }
+  ]
+}

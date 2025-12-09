@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Jeremiah 51:22",
+  "version": "ESV",
+  "original_text": "with you I break in pieces man and woman;\n    with you I break in pieces the old man and the youth;\nwith you I break in pieces the young man and the young woman;",
+  "korean_text": "네가 남자와 여자를 분쇄하며 네가 노년과 유년을 분쇄하며 네가 청년과 처녀를 분쇄하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "with you I break in pieces man and woman;",
+      "korean_translation": "내가 너와 함께 남자와 여자를 부수며",
+      "word_indices": [
+        6,
+        53,
+        85
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with you I break in pieces the old man and the youth;",
+      "korean_translation": "내가 너와 함께 노인과 청년을 부수며",
+      "word_indices": [
+        6,
+        85,
+        545
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with you I break in pieces the young man and the young woman;",
+      "korean_translation": "내가 너와 함께 청년과 소녀를 부수며",
+      "word_indices": [
+        6,
+        53,
+        85,
+        131
+      ]
+    }
+  ]
+}

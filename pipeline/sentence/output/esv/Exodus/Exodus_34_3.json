@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 34:3",
+  "version": "ESV",
+  "original_text": "No one shall come up with you, and let no one be seen throughout all the mountain. Let no flocks or herds graze opposite that mountain.”",
+  "korean_text": "아무도 너와 함께 오르지 말며 온 산에 아무도 나타나지 못하게 하고 양과 소도 산 앞에서 먹지 못하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one shall come up with you",
+      "korean_translation": "너와 함께 아무도 오르지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let no one be seen throughout all the mountain",
+      "korean_translation": "그 산 전체에 아무도 보이지 않게 하라",
+      "word_indices": [
+        123,
+        358
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Let no flocks or herds graze opposite that mountain",
+      "korean_translation": "그 산 맞은편에서 양 떼나 소 떼가 풀을 뜯지 못하게 하라",
+      "word_indices": [
+        123,
+        247,
+        469,
+        623,
+        1710
+      ]
+    }
+  ]
+}

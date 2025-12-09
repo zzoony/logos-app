@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 15:6",
+  "version": "ESV",
+  "original_text": "the waters of Nimrim\n    are a desolation;\nthe grass is withered, the vegetation fails,\n    the greenery is no more.",
+  "korean_text": "니므림 물이 마르고 풀이 시들었으며 연한 풀이 말라 청청한 것이 없음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the waters of Nimrim are a desolation",
+      "korean_translation": "님림의 물들은 황폐해졌습니다",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the grass is withered",
+      "korean_translation": "풀은 시들었습니다",
+      "word_indices": [
+        872
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the vegetation fails",
+      "korean_translation": "초목은 사라졌습니다",
+      "word_indices": [
+        686,
+        2330
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the greenery is no more",
+      "korean_translation": "푸른 경치는 더 이상 없습니다",
+      "word_indices": [
+        5341
+      ]
+    }
+  ]
+}

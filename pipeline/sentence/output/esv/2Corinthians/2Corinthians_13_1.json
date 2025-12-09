@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Corinthians 13:1",
+  "version": "ESV",
+  "original_text": "This is the third time I am coming to you. Every charge must be established by the evidence of two or three witnesses.",
+  "korean_text": "내가 이제 세 번째 너희에게 가리니 두세 증인의 입으로 말마다 확정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the third time",
+      "korean_translation": "이것이 세 번째이다",
+      "word_indices": [
+        244
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am coming to you.",
+      "korean_translation": "내가 너희에게 가는 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Every charge must be established",
+      "korean_translation": "모든 고발은 세워져야 한다",
+      "word_indices": [
+        263,
+        331
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by the evidence of two or three witnesses.",
+      "korean_translation": "두세 증인의 증거로 말미암아야 한다",
+      "word_indices": [
+        97,
+        267,
+        1599
+      ]
+    }
+  ]
+}

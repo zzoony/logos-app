@@ -1,0 +1,23 @@
+{
+  "verse_reference": "Genesis 6:22",
+  "version": "ESV",
+  "original_text": "Noah did this; he did all that God commanded him.",
+  "korean_text": "노아가 그와 같이 하여 하나님이 자기에게 명하신 대로 다 준행하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Noah did this",
+      "korean_translation": "노아는 그렇게 했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he did all that God commanded him",
+      "korean_translation": "그는 하나님께서 명령하신 모든 것을 했습니다.",
+      "word_indices": [
+        1,
+        51
+      ]
+    }
+  ]
+}

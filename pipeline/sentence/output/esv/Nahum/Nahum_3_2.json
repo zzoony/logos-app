@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Nahum 3:2",
+  "version": "ESV",
+  "original_text": "The crack of the whip, and rumble of the wheel,\n    galloping horse and bounding chariot!",
+  "korean_text": "휙휙 하는 채찍 소리, 윙윙 하는 병거 바퀴 소리, 뛰는 말, 달리는 병거,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The crack of the whip",
+      "korean_translation": "채찍이 터지는 소리",
+      "word_indices": [
+        1868,
+        5584
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rumble of the wheel",
+      "korean_translation": "바퀴의 굴러가는 소리",
+      "word_indices": [
+        927,
+        3345
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "galloping horse",
+      "korean_translation": "질주하는 말",
+      "word_indices": [
+        313,
+        3578
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bounding chariot!",
+      "korean_translation": "날뛰는 전차!",
+      "word_indices": [
+        289,
+        3390
+      ]
+    }
+  ]
+}

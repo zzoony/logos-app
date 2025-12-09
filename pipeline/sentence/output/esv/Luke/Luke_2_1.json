@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 2:1",
+  "version": "ESV",
+  "original_text": "In those days a decree went out from Caesar Augustus that all the world should be registered.",
+  "korean_text": "그 때에 가이사 아구스도가 영을 내려 천하로 다 호적하라 하였으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In those days",
+      "korean_translation": "그때는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a decree went out from Caesar Augustus",
+      "korean_translation": "가이사 아구스도가 칙령을 내렸습니다",
+      "word_indices": [
+        661
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that all the world should be registered",
+      "korean_translation": "온 세상이 호적을 등록해야 했습니다",
+      "word_indices": [
+        183,
+        2254
+      ]
+    }
+  ]
+}

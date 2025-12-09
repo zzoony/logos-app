@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Corinthians 1:19",
+  "version": "ESV",
+  "original_text": "For it is written,\n“I will destroy the wisdom of the wise,\n    and the discernment of the discerning I will thwart.”",
+  "korean_text": "기록된 바 내가 지혜 있는 자들의 지혜를 멸하고 총명한 자들의 총명을 폐하리라 하였으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For it is written,",
+      "korean_translation": "기록된 바,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will destroy the wisdom of the wise,",
+      "korean_translation": "내가 지혜 있는 자의 지혜를 멸하리라,",
+      "word_indices": [
+        99,
+        224,
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the discernment of the discerning I will thwart.”",
+      "korean_translation": "분별 있는 자의 분별을 또한 폐하리라.”",
+      "word_indices": [
+        1179,
+        2587,
+        3719
+      ]
+    }
+  ]
+}

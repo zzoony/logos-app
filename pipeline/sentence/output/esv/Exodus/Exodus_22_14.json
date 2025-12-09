@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 22:14",
+  "version": "ESV",
+  "original_text": "“If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution.",
+  "korean_text": "만일 이웃에게 빌려온 것이 그 임자가 함께 있지 아니할 때에 상하거나 죽으면 반드시 배상하려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a man borrows anything of his neighbor,",
+      "korean_translation": "만약 한 사람이 이웃의 무언가를 빌렸는데,",
+      "word_indices": [
+        6,
+        314,
+        2239
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and it is injured or dies,",
+      "korean_translation": "그것이 상하거나 죽었을 경우,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the owner not being with it,",
+      "korean_translation": "주인이 그것과 함께 있지 않았으면,",
+      "word_indices": [
+        1184
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he shall make full restitution.",
+      "korean_translation": "그는 온전히 배상해야 합니다.",
+      "word_indices": [
+        165,
+        2032
+      ]
+    }
+  ]
+}

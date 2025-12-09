@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Job 21:3",
+  "version": "ESV",
+  "original_text": "Bear with me, and I will speak,\n    and after I have spoken, mock on.",
+  "korean_text": "나를 용납하여 말하게 하라 내가 말한 후에 너희가 조롱할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bear with me",
+      "korean_translation": "저를 참아 주세요",
+      "word_indices": [
+        73
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will speak",
+      "korean_translation": "제가 말하겠습니다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "after I have spoken",
+      "korean_translation": "제가 말한 후에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "mock on.",
+      "korean_translation": "비웃어 보세요",
+      "word_indices": [
+        847
+      ]
+    }
+  ]
+}

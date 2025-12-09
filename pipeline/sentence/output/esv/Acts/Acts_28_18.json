@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Acts 28:18",
+  "version": "ESV",
+  "original_text": "When they had examined me, they wished to set me at liberty, because there was no reason for the death penalty in my case.",
+  "korean_text": "로마인은 나를 심문하여 죽일 죄목이 없으므로 석방하려 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they had examined me",
+      "korean_translation": "그들이 나를 심문했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they wished to set me at liberty",
+      "korean_translation": "그들은 나를 석방하기를 원했습니다",
+      "word_indices": [
+        799,
+        1785
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because there was no reason for the death penalty in my case",
+      "korean_translation": "내 사건에는 사형에 처할 이유가 없었기 때문입니다",
+      "word_indices": [
+        76,
+        669,
+        725,
+        2829
+      ]
+    }
+  ]
+}

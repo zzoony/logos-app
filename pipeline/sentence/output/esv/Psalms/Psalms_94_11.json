@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 94:11",
+  "version": "ESV",
+  "original_text": "the Lord—knows the thoughts of man,\n    that they are but a breath.",
+  "korean_text": "여호와께서는 사람의 생각이 허무함을 아시느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the Lord",
+      "korean_translation": "주께서는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "knows the thoughts of man",
+      "korean_translation": "사람의 생각을 아시나니",
+      "word_indices": [
+        6,
+        13,
+        829
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that they are but a breath.",
+      "korean_translation": "그것들이 헛것임을",
+      "word_indices": [
+        649
+      ]
+    }
+  ]
+}

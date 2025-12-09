@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Isaiah 1:18",
+  "version": "ESV",
+  "original_text": "“Come now, let us reason together, says the Lord:\nthough your sins are like scarlet,\n    they shall be as white as snow;\nthough they are red like crimson,\n    they shall become like wool.",
+  "korean_text": "여호와께서 말씀하시되 오라 우리가 서로 변론하자 너희의 죄가 주홍 같을지라도 눈과 같이 희어질 것이요 진홍 같이 붉을지라도 양털 같이 희게 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come now,",
+      "korean_translation": "이제 오라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let us reason together,",
+      "korean_translation": "우리가 함께 의논하자,",
+      "word_indices": [
+        120,
+        725
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "says the Lord:",
+      "korean_translation": "주께서 말씀하시되:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "though your sins are like scarlet,",
+      "korean_translation": "너희 죄가 주홍 같을지라도,",
+      "word_indices": [
+        14,
+        34,
+        182,
+        849
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they shall be as white as snow;",
+      "korean_translation": "눈과 같이 희어질 것이요,",
+      "word_indices": [
+        693,
+        1314
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "though they are red like crimson,",
+      "korean_translation": "진홍 같이 붉을지라도,",
+      "word_indices": [
+        14,
+        182,
+        942,
+        3009
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "they shall become like wool.",
+      "korean_translation": "양털 같이 되리라.",
+      "word_indices": [
+        14,
+        1552
+      ]
+    }
+  ]
+}

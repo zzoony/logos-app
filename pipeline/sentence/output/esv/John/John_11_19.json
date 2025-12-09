@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 11:19",
+  "version": "ESV",
+  "original_text": "and many of the Jews had come to Martha and Mary to console them concerning their brother.",
+  "korean_text": "많은 유대인이 마르다와 마리아에게 그 오라비의 일로 위문하러 왔더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and many of the Jews had come",
+      "korean_translation": "그리고 많은 유대인들이 왔었습니다",
+      "word_indices": [
+        180
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to Martha and Mary",
+      "korean_translation": "마르다와 마리아에게로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to console them",
+      "korean_translation": "그들을 위로하기 위해",
+      "word_indices": [
+        2292
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "concerning their brother",
+      "korean_translation": "그들의 오라버니 때문에",
+      "word_indices": [
+        28,
+        209
+      ]
+    }
+  ]
+}

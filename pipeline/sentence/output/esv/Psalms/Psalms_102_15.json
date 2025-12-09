@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 102:15",
+  "version": "ESV",
+  "original_text": "Nations will fear the name of the Lord,\n    and all the kings of the earth will fear your glory.",
+  "korean_text": "이에 뭇 나라가 여호와의 이름을 경외하며 이 땅의 모든 왕들이 주의 영광을 경외하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nations will fear the name of the Lord",
+      "korean_translation": "열방이 주의 이름을 경외할 것입니다",
+      "word_indices": [
+        20,
+        47,
+        80
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all the kings of the earth",
+      "korean_translation": "그리고 땅의 모든 왕들은",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will fear your glory.",
+      "korean_translation": "주의 영광을 경외할 것입니다.",
+      "word_indices": [
+        80,
+        112
+      ]
+    }
+  ]
+}

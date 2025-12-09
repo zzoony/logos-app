@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 109:7",
+  "version": "ESV",
+  "original_text": "When he is tried, let him come forth guilty;\n    let his prayer be counted as sin!",
+  "korean_text": "그가 심판을 받을 때에 죄인이 되어 나오게 하시며 그의 기도가 죄로 변하게 하시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he is tried",
+      "korean_translation": "그가 재판을 받을 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let him come forth guilty",
+      "korean_translation": "그는 죄 있는 자로 나오게 하라",
+      "word_indices": [
+        342,
+        1022
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let his prayer be counted as sin",
+      "korean_translation": "그의 기도가 죄로 여김을 받게 하라",
+      "word_indices": [
+        34,
+        364,
+        473
+      ]
+    }
+  ]
+}

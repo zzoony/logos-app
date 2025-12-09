@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Luke 10:4",
+  "version": "ESV",
+  "original_text": "Carry no moneybag, no knapsack, no sandals, and greet no one on the road.",
+  "korean_text": "전대나 배낭이나 신발을 가지지 말며 길에서 아무에게도 문안하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Carry no moneybag, no knapsack, and no sandals.",
+      "korean_translation": "돈주머니도, 가방도, 신발도 가지지 말라.",
+      "word_indices": [
+        152,
+        1151,
+        2855,
+        3846
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Greet no one on the road.",
+      "korean_translation": "길에서 아무에게도 문안 인사하지 말라.",
+      "word_indices": [
+        639,
+        786
+      ]
+    }
+  ]
+}

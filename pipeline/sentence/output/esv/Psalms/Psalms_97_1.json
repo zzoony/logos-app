@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 97:1",
+  "version": "ESV",
+  "original_text": "The Lord reigns, let the earth rejoice;\n    let the many coastlands be glad!",
+  "korean_text": "여호와께서 다스리시나니 땅은 즐거워하며 허다한 섬은 기뻐할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord reigns",
+      "korean_translation": "주께서 다스리신다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let the earth rejoice",
+      "korean_translation": "땅은 즐거워할지어다",
+      "word_indices": [
+        198
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let the many coastlands be glad",
+      "korean_translation": "많은 섬들도 기뻐할지어다",
+      "word_indices": [
+        494,
+        1170
+      ]
+    }
+  ]
+}

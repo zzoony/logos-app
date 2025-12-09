@@ -1,0 +1,71 @@
+{
+  "verse_reference": "John 10:12",
+  "version": "ESV",
+  "original_text": "He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them.",
+  "korean_text": "삯꾼은 목자가 아니요 양도 제 양이 아니라 이리가 오는 것을 보면 양을 버리고 달아나나니 이리가 양을 물어 가고 또 헤치느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He who is a hired hand",
+      "korean_translation": "그는 삯꾼이라",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and not a shepherd",
+      "korean_translation": "목자가 아니라",
+      "word_indices": [
+        411
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who does not own the sheep",
+      "korean_translation": "양의 주인이 아니라",
+      "word_indices": [
+        235
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "sees the wolf coming",
+      "korean_translation": "이리가 오는 것을 보고",
+      "word_indices": [
+        1836
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and leaves the sheep",
+      "korean_translation": "양을 버리고",
+      "word_indices": [
+        235
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and flees",
+      "korean_translation": "도망가며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and the wolf snatches them",
+      "korean_translation": "이리가 양을 낚아채고",
+      "word_indices": [
+        1802,
+        1836
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and scatters them",
+      "korean_translation": "흩어지게 한다",
+      "word_indices": [
+        415
+      ]
+    }
+  ]
+}

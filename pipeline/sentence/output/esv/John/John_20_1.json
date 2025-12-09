@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 20:1",
+  "version": "ESV",
+  "original_text": "Now on the first day of the week Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.",
+  "korean_text": "안식 후 첫날 일찍이 아직 어두울 때에 막달라 마리아가 무덤에 와서 돌이 무덤에서 옮겨진 것을 보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now on the first day of the week",
+      "korean_translation": "주의 첫날에",
+      "word_indices": [
+        1133
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Mary Magdalene came to the tomb early",
+      "korean_translation": "막달라 마리아가 일찍 무덤에 와서",
+      "word_indices": [
+        510,
+        643
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "while it was still dark",
+      "korean_translation": "아직 어두울 때에",
+      "word_indices": [
+        1091
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and saw that the stone had been taken away",
+      "korean_translation": "돌이 옮겨진 것을 보았으니",
+      "word_indices": [
+        29,
+        106
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from the tomb",
+      "korean_translation": "무덤에서",
+      "word_indices": [
+        510
+      ]
+    }
+  ]
+}

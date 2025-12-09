@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Mark 2:11",
+  "version": "ESV",
+  "original_text": "“I say to you, rise, pick up your bed, and go home.”",
+  "korean_text": "내가 네게 이르노니 일어나 네 상을 가지고 집으로 가라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I say to you",
+      "korean_translation": "내가 너에게 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rise",
+      "korean_translation": "일어나라",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "pick up your bed",
+      "korean_translation": "네 침상을 들어라",
+      "word_indices": [
+        477,
+        1432
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and go home",
+      "korean_translation": "그리고 집으로 가라",
+      "word_indices": [
+        365
+      ]
+    }
+  ]
+}

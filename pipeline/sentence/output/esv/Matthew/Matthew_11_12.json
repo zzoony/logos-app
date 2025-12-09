@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 11:12",
+  "version": "ESV",
+  "original_text": "From the days of John the Baptist until now the kingdom of heaven has suffered violence, and the violent take it by force.",
+  "korean_text": "세례 요한의 때부터 지금까지 천국은 침노를 당하나니 침노하는 자는 빼앗느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From the days of John the Baptist until now",
+      "korean_translation": "세례 요한 때로부터 지금까지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the kingdom of heaven has suffered violence",
+      "korean_translation": "하늘 나라가 폭력을 당해 왔습니다",
+      "word_indices": [
+        40,
+        101,
+        448,
+        672
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the violent take it by force",
+      "korean_translation": "폭력적인 자들이 그것을 힘으로 빼앗습니다",
+      "word_indices": [
+        629,
+        1730
+      ]
+    }
+  ]
+}

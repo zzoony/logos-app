@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 17:15",
+  "version": "ESV",
+  "original_text": "And God said to Abraham, “As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name.",
+  "korean_text": "하나님이 또 아브라함에게 이르시되 네 아내 사래는 이름을 사래라 하지 말고 사라라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And God said to Abraham,",
+      "korean_translation": "하나님이 아브라함에게 말씀하시되,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "As for Sarai your wife,",
+      "korean_translation": "네 아내 사래는,",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you shall not call her name Sarai,",
+      "korean_translation": "그녀의 이름을 사래라고 부르지 말고,",
+      "word_indices": [
+        20,
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but Sarah shall be her name.",
+      "korean_translation": "그 이름은 사라라 하라.",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Amos 7:5",
+  "version": "ESV",
+  "original_text": "Then I said,\n“O Lord God, please cease!\n    How can Jacob stand?\n    He is so small!”",
+  "korean_text": "이에 내가 이르되 주 여호와여 청하건대 그치소서 야곱이 미약하오니 어떻게 서리이까 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then I said,",
+      "korean_translation": "그때 내가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord God, please cease!",
+      "korean_translation": "오 주 하나님이여, 그만하십시오!",
+      "word_indices": [
+        1,
+        149,
+        562
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How can Jacob stand?",
+      "korean_translation": "야곱이 어떻게 견디겠습니까?",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He is so small!”",
+      "korean_translation": "그는 너무 작습니다!",
+      "word_indices": [
+        529
+      ]
+    }
+  ]
+}

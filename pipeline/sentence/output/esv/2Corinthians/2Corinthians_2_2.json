@@ -1,0 +1,33 @@
+{
+  "verse_reference": "2 Corinthians 2:2",
+  "version": "ESV",
+  "original_text": "For if I cause you pain, who is there to make me glad but the one whom I have pained?",
+  "korean_text": "내가 너희를 근심하게 한다면 내가 근심하게 한 자밖에 나를 기쁘게 할 자가 누구냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For if I cause you pain,",
+      "korean_translation": "만약 내가 너희를 슬프게 한다면,",
+      "word_indices": [
+        272,
+        803
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who is there to make me glad",
+      "korean_translation": "나를 기쁘게 할 사람이 누구 있겠습니까",
+      "word_indices": [
+        494
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the one whom I have pained?",
+      "korean_translation": "내가 슬프게 했던 그 사람입니까?",
+      "word_indices": [
+        803
+      ]
+    }
+  ]
+}

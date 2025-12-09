@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 128:5",
+  "version": "ESV",
+  "original_text": "The Lord bless you from Zion!\n    May you see the prosperity of Jerusalem\n    all the days of your life!",
+  "korean_text": "여호와께서 시온에서 네게 복을 주실지어다 너는 평생에 예루살렘의 번영을 보며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord bless you from Zion!",
+      "korean_translation": "주께서 시온에서 당신을 축복하시기를!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "May you see the prosperity of Jerusalem",
+      "korean_translation": "당신이 예루살렘의 번영을 보시기를!",
+      "word_indices": [
+        1291
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all the days of your life!",
+      "korean_translation": "당신의 평생 동안!",
+      "word_indices": [
+        41
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Samuel 23:4",
+  "version": "ESV",
+  "original_text": "he dawns on them like the morning light,\n    like the sun shining forth on a cloudless morning,\n    like rain that makes grass to sprout from the earth.",
+  "korean_text": "그는 돋는 해의 아침 빛 같고 구름 없는 아침 같고 비 내린 후의 광선으로 땅에서 움이 돋는 새 풀 같으니라 하시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "he dawns on them",
+      "korean_translation": "그는 그들 위에 떠오르며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like the morning light",
+      "korean_translation": "새벽 빛과 같고",
+      "word_indices": [
+        14,
+        177
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like the sun shining forth on a cloudless morning",
+      "korean_translation": "구름 없는 아침의 햇살처럼",
+      "word_indices": [
+        14,
+        321,
+        342,
+        1851
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like rain that makes grass to sprout from the earth",
+      "korean_translation": "땅에서 풀이 돋아나게 하는 비와 같으니",
+      "word_indices": [
+        14,
+        413,
+        1337
+      ]
+    }
+  ]
+}

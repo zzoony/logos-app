@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 4:13",
+  "version": "ESV",
+  "original_text": "Jesus said to her, “Everyone who drinks of this water will be thirsty again,",
+  "korean_text": "예수께서 대답하여 이르시되 이 물을 마시는 자마다 다시 목마르려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to her,",
+      "korean_translation": "예수님께서 그녀에게 말씀하셨습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Everyone who drinks of this water",
+      "korean_translation": "이 물을 마시는 모든 사람은",
+      "word_indices": [
+        42,
+        70,
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will be thirsty again,",
+      "korean_translation": "다시 목마를 것입니다,",
+      "word_indices": [
+        1232
+      ]
+    }
+  ]
+}

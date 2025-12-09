@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Ecclesiastes 11:3",
+  "version": "ESV",
+  "original_text": "If the clouds are full of rain,\n    they empty themselves on the earth,\nand if a tree falls to the south or to the north,\n    in the place where the tree falls, there it will lie.",
+  "korean_text": "구름에 비가 가득하면 땅에 쏟아지며 나무가 남으로나 북으로나 쓰러지면 그 쓰러진 곳에 그냥 있으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If the clouds are full of rain,",
+      "korean_translation": "만약 구름이 비로 가득 차면,",
+      "word_indices": [
+        165,
+        307,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they empty themselves on the earth,",
+      "korean_translation": "그것들은 땅에 비를 쏟아냅니다.",
+      "word_indices": [
+        655
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and if a tree falls to the south or to the north,",
+      "korean_translation": "그리고 만약 나무가 남쪽이나 북쪽으로 쓰러지면,",
+      "word_indices": [
+        100,
+        143,
+        328,
+        410
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the place where the tree falls,",
+      "korean_translation": "나무가 쓰러진 그곳에서,",
+      "word_indices": [
+        21,
+        100,
+        143
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "there it will lie.",
+      "korean_translation": "그곳에 그대로 눕게 됩니다.",
+      "word_indices": []
+    }
+  ]
+}

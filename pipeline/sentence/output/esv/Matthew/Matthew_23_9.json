@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 23:9",
+  "version": "ESV",
+  "original_text": "And call no man your father on earth, for you have one Father, who is in heaven.",
+  "korean_text": "땅에 있는 자를 아버지라 하지 말라 너희의 아버지는 한 분이시니 곧 하늘에 계신 이시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And call no man your father on earth",
+      "korean_translation": "땅에서는 누구도 너희 아버지라 부르지 말라",
+      "word_indices": [
+        6,
+        9,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for you have one Father",
+      "korean_translation": "너희에게는 아버지가 한 분 있으니",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is in heaven",
+      "korean_translation": "그분은 하늘에 계시다",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

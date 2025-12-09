@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 17:9",
+  "version": "ESV",
+  "original_text": "I am praying for them. I am not praying for the world but for those whom you have given me, for they are yours.",
+  "korean_text": "내가 그들을 위하여 비옵나니 내가 비옵는 것은 세상을 위함이 아니요 내게 주신 자들을 위함이니이다 그들은 아버지의 것이로소이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am praying for them.",
+      "korean_translation": "나는 그들을 위해 기도하고 있습니다.",
+      "word_indices": [
+        262
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am not praying for the world",
+      "korean_translation": "나는 세상을 위해 기도하는 것이 아니라",
+      "word_indices": [
+        183,
+        262
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but for those whom you have given me",
+      "korean_translation": "아버지께서 나에게 주신 자들을 위해 기도합니다.",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for they are yours",
+      "korean_translation": "이는 그들이 아버지의 것이기 때문입니다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Daniel 5:1",
+  "version": "ESV",
+  "original_text": "King Belshazzar made a great feast for a thousand of his lords and drank wine in front of the thousand.",
+  "korean_text": "벨사살 왕이 그의 귀족 천 명을 위하여 큰 잔치를 베풀고 그 천 명 앞에서 술을 마시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Belshazzar made a great feast for a thousand of his lords",
+      "korean_translation": "벨사살 왕은 그의 천 명의 귀족들을 위해 큰 잔치를 열었습니다.",
+      "word_indices": [
+        4,
+        30,
+        248
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drank wine in front of the thousand",
+      "korean_translation": "그리고 그 천 명 앞에서 포도주를 마셨습니다.",
+      "word_indices": [
+        194,
+        248,
+        508
+      ]
+    }
+  ]
+}

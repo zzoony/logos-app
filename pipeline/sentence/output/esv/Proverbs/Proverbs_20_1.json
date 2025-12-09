@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Proverbs 20:1",
+  "version": "ESV",
+  "original_text": "Wine is a mocker, strong drink a brawler,\n    and whoever is led astray by it is not wise.",
+  "korean_text": "포도주는 거만하게 하는 것이요 독주는 떠들게 하는 것이라 이에 미혹되는 자마다 지혜가 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wine is a mocker",
+      "korean_translation": "포도주는 조롱꾼이다.",
+      "word_indices": [
+        194,
+        3333
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "strong drink a brawler",
+      "korean_translation": "독한 술은 싸움꾼이다.",
+      "word_indices": [
+        70,
+        227,
+        5257
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and whoever is led astray by it",
+      "korean_translation": "그리고 그것에 이끌려 미혹되는 사람은",
+      "word_indices": [
+        117,
+        739
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is not wise.",
+      "korean_translation": "지혜롭지 못하다.",
+      "word_indices": [
+        252
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 15:23",
+  "version": "ESV",
+  "original_text": "He wanders abroad for bread, saying, ‘Where is it?’\n    He knows that a day of darkness is ready at his hand;",
+  "korean_text": "그는 헤매며 음식을 구하여 이르기를 어디 있느냐 하며 흑암의 날이 가까운 줄을 스스로 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He wanders abroad for bread",
+      "korean_translation": "그는 빵을 얻으려 헤맨다",
+      "word_indices": [
+        129,
+        939,
+        1446
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, ‘Where is it?’",
+      "korean_translation": "‘그것이 어디 있나?’라고 말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He knows",
+      "korean_translation": "그는 안다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that a day of darkness is ready at his hand",
+      "korean_translation": "어두운 날이 그의 손에 준비되었다는 것을",
+      "word_indices": [
+        10,
+        534
+      ]
+    }
+  ]
+}

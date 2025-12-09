@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Lamentations 2:11",
+  "version": "ESV",
+  "original_text": "My eyes are spent with weeping;\n    my stomach churns;\nmy bile is poured out to the ground\n    because of the destruction of the daughter of my people,\nbecause infants and babies faint\n    in the streets of the city.",
+  "korean_text": "내 눈이 눈물에 상하며 내 창자가 끊어지며 내 간이 땅에 쏟아졌으니 이는 딸 내 백성이 패망하여 어린 자녀와 젖 먹는 아이들이 성읍 길거리에 기절함이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My eyes are spent with weeping",
+      "korean_translation": "내 눈은 울어서 지쳤습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my stomach churns",
+      "korean_translation": "내 창자가 뒤틀립니다",
+      "word_indices": [
+        1430,
+        4392
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my bile is poured out to the ground",
+      "korean_translation": "내 담즙이 땅에 쏟아집니다",
+      "word_indices": [
+        5460,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because of the destruction of the daughter of my people",
+      "korean_translation": "내 백성의 딸이 파멸당했기 때문입니다",
+      "word_indices": [
+        3,
+        58,
+        338
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because infants and babies faint",
+      "korean_translation": "유아와 젖먹이들이 기절하기 때문입니다",
+      "word_indices": [
+        913,
+        1360,
+        2229
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in the streets of the city",
+      "korean_translation": "성읍 거리에서",
+      "word_indices": [
+        16,
+        553
+      ]
+    }
+  ]
+}

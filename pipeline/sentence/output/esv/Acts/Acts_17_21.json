@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Acts 17:21",
+  "version": "ESV",
+  "original_text": "Now all the Athenians and the foreigners who lived there would spend their time in nothing except telling or hearing something new.",
+  "korean_text": "모든 아덴 사람과 거기서 나그네 된 외국인들이 가장 새로운 것을 말하고 듣는 것 이외에는 달리 시간을 쓰지 않음이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now all the Athenians and the foreigners",
+      "korean_translation": "그때에 모든 아테네 사람들과 외국인들은",
+      "word_indices": [
+        722,
+        5732
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who lived there",
+      "korean_translation": "그곳에 살고 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "would spend their time in nothing",
+      "korean_translation": "아무것도 하지 않고 시간을 보냈습니다",
+      "word_indices": [
+        654
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "except telling or hearing something new",
+      "korean_translation": "새로운 무언가를 말하거나 듣는 것만 빼고요",
+      "word_indices": [
+        17,
+        36,
+        524
+      ]
+    }
+  ]
+}

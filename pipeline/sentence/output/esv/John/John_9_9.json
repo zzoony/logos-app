@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 9:9",
+  "version": "ESV",
+  "original_text": "Some said, “It is he.” Others said, “No, but he is like him.” He kept saying, “I am the man.”",
+  "korean_text": "어떤 사람은 그 사람이라 하며 어떤 사람은 아니라 그와 비슷하다 하거늘 자기 말은 내가 그라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some said, “It is he.”",
+      "korean_translation": "어떤 사람들은 말했다, '그가 그 사람이다.'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Others said, “No, but he is like him.”",
+      "korean_translation": "다른 사람들은 말했다, '아니, 그는 그와 비슷해.'",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He kept saying, “I am the man.”",
+      "korean_translation": "그는 계속 말했다, '내가 그 사람이다.'",
+      "word_indices": [
+        6
+      ]
+    }
+  ]
+}

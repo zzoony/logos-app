@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 65:17",
+  "version": "ESV",
+  "original_text": "“For behold, I create new heavens\n    and a new earth,\nand the former things shall not be remembered\n    or come into mind.",
+  "korean_text": "보라 내가 새 하늘과 새 땅을 창조하나니 이전 것은 기억되거나 마음에 생각나지 아니할 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For behold,",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I create new heavens and a new earth,",
+      "korean_translation": "내가 새 하늘과 새 땅을 만드니",
+      "word_indices": [
+        40,
+        703
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the former things shall not be remembered",
+      "korean_translation": "그리고 이전의 것들은 기억나지 아니하며",
+      "word_indices": [
+        193,
+        785
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or come into mind.",
+      "korean_translation": "마음에 떠오르지도 아니하리라",
+      "word_indices": [
+        344
+      ]
+    }
+  ]
+}

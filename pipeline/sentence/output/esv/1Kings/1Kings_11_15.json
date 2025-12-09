@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Kings 11:15",
+  "version": "ESV",
+  "original_text": "For when David was in Edom, and Joab the commander of the army went up to bury the slain, he struck down every male in Edom",
+  "korean_text": "전에 다윗이 에돔에 있을 때에 군대 지휘관 요압이 가서 죽임을 당한 자들을 장사하고 에돔의 남자를 다 쳐서 죽였는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For when David was in Edom",
+      "korean_translation": "이는 다윗이 에돔에 있었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Joab the commander of the army went up",
+      "korean_translation": "군대 사령관 요압이 올라갔고",
+      "word_indices": [
+        230,
+        385
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to bury the slain",
+      "korean_translation": "죽은 자들을 묻으러",
+      "word_indices": [
+        322
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he struck down every male in Edom",
+      "korean_translation": "그가 에돔의 모든 남자를 쳐죽였다",
+      "word_indices": [
+        196
+      ]
+    }
+  ]
+}

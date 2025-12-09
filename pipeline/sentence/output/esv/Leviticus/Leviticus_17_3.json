@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Leviticus 17:3",
+  "version": "ESV",
+  "original_text": "If any one of the house of Israel kills an ox or a lamb or a goat in the camp, or kills it outside the camp,",
+  "korean_text": "이스라엘 집의 모든 사람이 소나 어린 양이나 염소를 진영 안에서 잡든지 진영 밖에서 잡든지",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If any one of the house of Israel",
+      "korean_translation": "만일 이스라엘 집안의 누구든지",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "kills an ox or a lamb or a goat",
+      "korean_translation": "소나 어린 양이나 염소를 죽이면",
+      "word_indices": [
+        92,
+        240,
+        293,
+        312
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the camp,",
+      "korean_translation": "진 안에서,",
+      "word_indices": [
+        186
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or kills it outside the camp,",
+      "korean_translation": "또는 진 밖에서 그것을 죽이면,",
+      "word_indices": [
+        92,
+        186,
+        405
+      ]
+    }
+  ]
+}

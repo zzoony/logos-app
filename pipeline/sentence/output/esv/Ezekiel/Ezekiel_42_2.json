@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ezekiel 42:2",
+  "version": "ESV",
+  "original_text": "The length of the building whose door faced north was a hundred cubits, and the breadth fifty cubits.",
+  "korean_text": "그 방들의 자리의 길이는 백 척이요 너비는 쉰 척이며 그 문은 북쪽을 향하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The length of the building",
+      "korean_translation": "그 건물의 길이는",
+      "word_indices": [
+        87,
+        602
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose door faced north",
+      "korean_translation": "그 문이 북쪽을 향한",
+      "word_indices": [
+        295,
+        328
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was a hundred cubits",
+      "korean_translation": "백 규빗이었으며",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the breadth fifty cubits",
+      "korean_translation": "너비는 오십 규빗이었습니다",
+      "word_indices": [
+        156,
+        492,
+        682
+      ]
+    }
+  ]
+}

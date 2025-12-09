@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 12:2",
+  "version": "ESV",
+  "original_text": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.",
+  "korean_text": "내가 너로 큰 민족을 이루고 네게 복을 주어 네 이름을 창대하게 하리니 너는 복이 될지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will make of you a great nation",
+      "korean_translation": "그리고 내가 너를 위대한 나라로 만들겠다",
+      "word_indices": [
+        30,
+        47
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will bless you",
+      "korean_translation": "그리고 내가 너를 축복할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and make your name great",
+      "korean_translation": "그리고 네 이름을 위대하게 만들 것이다",
+      "word_indices": [
+        20,
+        30
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that you will be a blessing",
+      "korean_translation": "그리하여 너는 복이 될 것이다",
+      "word_indices": [
+        64
+      ]
+    }
+  ]
+}

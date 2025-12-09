@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Corinthians 11:25",
+  "version": "ESV",
+  "original_text": "Three times I was beaten with rods. Once I was stoned. Three times I was shipwrecked; a night and a day I was adrift at sea;",
+  "korean_text": "세 번 태장으로 맞고 한 번 돌로 맞고 세 번 파선하고 일 주야를 깊은 바다에서 지냈으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Three times I was beaten with rods.",
+      "korean_translation": "세 번 막대로 맞았습니다.",
+      "word_indices": [
+        97,
+        928
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Once I was stoned.",
+      "korean_translation": "한 번 돌에 맞았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Three times I was shipwrecked",
+      "korean_translation": "세 번 파선을 당했습니다.",
+      "word_indices": [
+        97,
+        4566
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a night and a day I was adrift at sea",
+      "korean_translation": "밤낮 하루를 바다에서 표류했습니다.",
+      "word_indices": [
+        84,
+        130,
+        5902
+      ]
+    }
+  ]
+}

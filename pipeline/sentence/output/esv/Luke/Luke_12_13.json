@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 12:13",
+  "version": "ESV",
+  "original_text": "Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.”",
+  "korean_text": "무리 중에 한 사람이 이르되 선생님 내 형을 명하여 유산을 나와 나누게 하소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Someone in the crowd said to him",
+      "korean_translation": "무리 중의 어떤 사람이 그에게 말했습니다",
+      "word_indices": [
+        339,
+        727
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Teacher,",
+      "korean_translation": "“선생님,",
+      "word_indices": [
+        640
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "tell my brother",
+      "korean_translation": "제 형에게 말하라고",
+      "word_indices": [
+        28,
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to divide the inheritance with me.”",
+      "korean_translation": "나와 유산을 나누라고.”",
+      "word_indices": [
+        223
+      ]
+    }
+  ]
+}

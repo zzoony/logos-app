@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Mark 7:21",
+  "version": "ESV",
+  "original_text": "For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery,",
+  "korean_text": "속에서 곧 사람의 마음에서 나오는 것은 악한 생각 곧 음란과 도둑질과 살인과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For from within,",
+      "korean_translation": "속에서부터,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "out of the heart of man,",
+      "korean_translation": "사람의 마음에서,",
+      "word_indices": [
+        6,
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "come evil thoughts,",
+      "korean_translation": "악한 생각들이 나오고,",
+      "word_indices": [
+        63,
+        829
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "sexual immorality,",
+      "korean_translation": "음행,",
+      "word_indices": [
+        1077,
+        1124
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "theft,",
+      "korean_translation": "도둑질,",
+      "word_indices": [
+        3165
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "murder,",
+      "korean_translation": "살인,",
+      "word_indices": [
+        1083
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "adultery,",
+      "korean_translation": "간음,",
+      "word_indices": [
+        948
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 10:23",
+  "version": "ESV",
+  "original_text": "and Jesus was walking in the temple, in the colonnade of Solomon.",
+  "korean_text": "예수께서 성전 안 솔로몬 행각에서 거니시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Jesus was walking",
+      "korean_translation": "그리고 예수께서 걸어 다니고 계셨다",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the temple",
+      "korean_translation": "성전 안에서",
+      "word_indices": [
+        170
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the colonnade of Solomon",
+      "korean_translation": "솔로몬의 행각에서",
+      "word_indices": [
+        3300
+      ]
+    }
+  ]
+}

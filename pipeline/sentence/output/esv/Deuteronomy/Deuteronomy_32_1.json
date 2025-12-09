@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 32:1",
+  "version": "ESV",
+  "original_text": "“Give ear, O heavens, and I will speak,\n    and let the earth hear the words of my mouth.",
+  "korean_text": "하늘이여 귀를 기울이라 내가 말하리라 땅은 내 입의 말을 들을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give ear, O heavens,",
+      "korean_translation": "하늘이여, 귀를 기울여라",
+      "word_indices": [
+        5,
+        40,
+        202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will speak,",
+      "korean_translation": "내가 말하리라",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let the earth hear",
+      "korean_translation": "땅은 들을지어다",
+      "word_indices": [
+        17
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the words of my mouth.",
+      "korean_translation": "내 입의 말",
+      "word_indices": [
+        15,
+        95
+      ]
+    }
+  ]
+}

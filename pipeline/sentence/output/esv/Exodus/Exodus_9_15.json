@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Exodus 9:15",
+  "version": "ESV",
+  "original_text": "For by now I could have put out my hand and struck you and your people with pestilence, and you would have been cut off from the earth.",
+  "korean_text": "내가 손을 펴서 돌림병으로 너와 네 백성을 쳤더라면 네가 세상에서 끊어졌을 것이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For by now I could have put out my hand",
+      "korean_translation": "내가 이미 손을 뻗었을 수도 있었다.",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and struck you and your people with pestilence",
+      "korean_translation": "너와 네 백성을 전염병으로 쳤을 것이다.",
+      "word_indices": [
+        3,
+        777
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you would have been cut off from the earth.",
+      "korean_translation": "그러면 너는 땅에서 끊겼을 것이다.",
+      "word_indices": [
+        124
+      ]
+    }
+  ]
+}

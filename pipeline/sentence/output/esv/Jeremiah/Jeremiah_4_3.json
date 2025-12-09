@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 4:3",
+  "version": "ESV",
+  "original_text": "For thus says the Lord to the men of Judah and Jerusalem:\n“Break up your fallow ground,\n    and sow not among thorns.",
+  "korean_text": "여호와께서 유다와 예루살렘 사람에게 이와 같이 이르노라 너희 묵은 땅을 갈고 가시덤불에 파종하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For thus says the Lord",
+      "korean_translation": "주께서 이처럼 말씀하신다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the men of Judah and Jerusalem:",
+      "korean_translation": "유다와 예루살렘 사람들에게:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Break up your fallow ground,",
+      "korean_translation": "너희의 진 땅을 갈라라,",
+      "word_indices": [
+        85,
+        3167,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sow not among thorns.",
+      "korean_translation": "그리고 가시덤불 속에는 씨를 뿌리지 말라.",
+      "word_indices": [
+        27,
+        458,
+        804
+      ]
+    }
+  ]
+}

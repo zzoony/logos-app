@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 John 4:18",
+  "version": "ESV",
+  "original_text": "There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and whoever fears has not been perfected in love.",
+  "korean_text": "사랑 안에 두려움이 없고 온전한 사랑이 두려움을 내쫓나니 두려움에는 형벌이 있음이라 두려워하는 자는 사랑 안에서 온전히 이루지 못하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is no fear in love",
+      "korean_translation": "사랑 안에는 두려움이 없습니다",
+      "word_indices": [
+        35,
+        80
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but perfect love casts out fear",
+      "korean_translation": "온전한 사랑은 두려움을 내쫓습니다",
+      "word_indices": [
+        35,
+        80,
+        166,
+        888
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For fear has to do with punishment",
+      "korean_translation": "두려움은 형벌과 관련이 있기 때문입니다",
+      "word_indices": [
+        80,
+        730
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and whoever fears has not been perfected in love",
+      "korean_translation": "두려워하는 사람은 사랑이 온전하지 못합니다",
+      "word_indices": [
+        35,
+        80,
+        117,
+        888
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Timothy 4:10",
+  "version": "ESV",
+  "original_text": "For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, Titus to Dalmatia.",
+  "korean_text": "데마는 이 세상을 사랑하여 나를 버리고 데살로니가로 갔고 그레스게는 갈라디아로, 디도는 달마디아로 갔고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For Demas, in love with this present world",
+      "korean_translation": "이 현재 세상을 사랑하는 데마는",
+      "word_indices": [
+        35,
+        183,
+        288
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "has deserted me",
+      "korean_translation": "나를 버렸습니다",
+      "word_indices": [
+        560
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and gone to Thessalonica",
+      "korean_translation": "데살로니가로 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Crescens has gone to Galatia",
+      "korean_translation": "그레스겐은 갈라디아로 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Titus to Dalmatia",
+      "korean_translation": "디도는 달마티아로 갔습니다",
+      "word_indices": []
+    }
+  ]
+}

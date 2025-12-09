@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Deuteronomy 1:2",
+  "version": "ESV",
+  "original_text": "It is eleven days' journey from Horeb by the way of Mount Seir to Kadesh-barnea.",
+  "korean_text": "호렙 산에서 세일 산을 지나 가데스 바네아까지 열 하룻길이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is eleven days' journey.",
+      "korean_translation": "그것은 열하루 걸리는 여정입니다.",
+      "word_indices": [
+        546,
+        1451
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The journey is from Horeb.",
+      "korean_translation": "그 여정은 호렙에서부터입니다.",
+      "word_indices": [
+        546
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It goes by the way of Mount Seir.",
+      "korean_translation": "그것은 세일 산 길을 따라 갑니다.",
+      "word_indices": [
+        274
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The destination is Kadesh-barnea.",
+      "korean_translation": "목적지는 가데스 바네아입니다.",
+      "word_indices": [
+        2148
+      ]
+    }
+  ]
+}

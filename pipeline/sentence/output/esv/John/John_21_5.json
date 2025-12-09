@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 21:5",
+  "version": "ESV",
+  "original_text": "Jesus said to them, “Children, do you have any fish?” They answered him, “No.”",
+  "korean_text": "예수께서 이르시되 얘들아 너희에게 고기가 있느냐 대답하되 없나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them,",
+      "korean_translation": "예수님께서 그들에게 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Children,",
+      "korean_translation": "“얘들아,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do you have any fish?”",
+      "korean_translation": "고기가 있느냐?”",
+      "word_indices": [
+        681
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They answered him,",
+      "korean_translation": "그들이 대답하되,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“No.”",
+      "korean_translation": "“없다.”",
+      "word_indices": []
+    }
+  ]
+}

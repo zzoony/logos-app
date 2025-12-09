@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Isaiah 32:19",
+  "version": "ESV",
+  "original_text": "And it will hail when the forest falls down,\n    and the city will be utterly laid low.",
+  "korean_text": "그 숲은 우박에 상하고 성읍은 파괴되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it will hail",
+      "korean_translation": "그리고 우박이 내릴 것입니다",
+      "word_indices": [
+        1061
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the forest falls down",
+      "korean_translation": "숲이 쓰러질 때",
+      "word_indices": [
+        100,
+        772
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the city will be utterly laid low",
+      "korean_translation": "그리고 그 성읍은 완전히 무너질 것입니다",
+      "word_indices": [
+        16,
+        762,
+        770
+      ]
+    }
+  ]
+}

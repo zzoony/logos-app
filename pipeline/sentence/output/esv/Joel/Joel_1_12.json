@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Joel 1:12",
+  "version": "ESV",
+  "original_text": "The vine dries up;\n    the fig tree languishes.\nPomegranate, palm, and apple,\n    all the trees of the field are dried up,\nand gladness dries up\n    from the children of man.",
+  "korean_text": "포도나무가 시들었고 무화과나무가 말랐으며 석류나무와 대추나무와 사과나무와 밭의 모든 나무가 다 시들었으니 이러므로 사람의 즐거움이 말랐도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The vine dries up;",
+      "korean_translation": "포도나무가 마릅니다;",
+      "word_indices": [
+        425,
+        635
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the fig tree languishes.",
+      "korean_translation": "무화과나무가 시듭니다.",
+      "word_indices": [
+        143,
+        651,
+        1593
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Pomegranate, palm, and apple,",
+      "korean_translation": "석류, 종려나무, 사과는,",
+      "word_indices": [
+        911,
+        1116,
+        2155
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all the trees of the field are dried up,",
+      "korean_translation": "밭의 모든 나무가 마릅니다,",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and gladness dries up from the children of man.",
+      "korean_translation": "기쁨도 인간의 자손에게서 마릅니다.",
+      "word_indices": [
+        6,
+        425
+      ]
+    }
+  ]
+}

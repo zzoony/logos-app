@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 20:29",
+  "version": "ESV",
+  "original_text": "Jesus said to him, “Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.”",
+  "korean_text": "예수께서 이르시되 너는 나를 본 고로 믿느냐 보지 못하고 믿는 자들은 복되도다 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him,",
+      "korean_translation": "예수께서 그에게 이르시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Have you believed because you have seen me?",
+      "korean_translation": "네가 나를 보았으므로 믿느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Blessed are those",
+      "korean_translation": "복 있는 사람들은",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who have not seen",
+      "korean_translation": "보지 못하고서도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and yet have believed.",
+      "korean_translation": "믿는 자들이니라.",
+      "word_indices": []
+    }
+  ]
+}

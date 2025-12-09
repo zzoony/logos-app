@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Corinthians 13:8",
+  "version": "ESV",
+  "original_text": "Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.",
+  "korean_text": "사랑은 언제까지나 떨어지지 아니하되 예언도 폐하고 방언도 그치고 지식도 폐하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Love never ends.",
+      "korean_translation": "사랑은 결코 끝나지 않습니다.",
+      "word_indices": [
+        35,
+        104
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "As for prophecies, they will pass away",
+      "korean_translation": "예언은 사라질 것이고,",
+      "word_indices": [
+        29,
+        231,
+        1477
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as for tongues, they will cease",
+      "korean_translation": "방언은 그치고,",
+      "word_indices": [
+        562
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as for knowledge, it will pass away.",
+      "korean_translation": "지식은 사라질 것입니다.",
+      "word_indices": [
+        29,
+        231,
+        300
+      ]
+    }
+  ]
+}

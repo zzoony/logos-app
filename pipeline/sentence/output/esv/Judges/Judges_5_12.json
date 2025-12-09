@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Judges 5:12",
+  "version": "ESV",
+  "original_text": "“Awake, awake, Deborah!\n    Awake, awake, break out in a song!\nArise, Barak, lead away your captives,\n    O son of Abinoam.",
+  "korean_text": "깰지어다 깰지어다 드보라여 깰지어다 깰지어다 너는 노래할지어다 일어날지어다 바락이여 아비노암의 아들이여 네가 사로잡은 자를 끌고 갈지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Awake, awake, Deborah!",
+      "korean_translation": "깨어나라, 깨어나라, 드보라야!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Awake, awake,",
+      "korean_translation": "깨어나라, 깨어나라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "break out in a song!",
+      "korean_translation": "노래를 불러라!",
+      "word_indices": [
+        85,
+        539
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Arise, Barak,",
+      "korean_translation": "일어나라, 바락아,",
+      "word_indices": [
+        168
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "lead away your captives,",
+      "korean_translation": "네 사로잡은 자들을 이끌고,",
+      "word_indices": [
+        29,
+        195
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "O son of Abinoam.",
+      "korean_translation": "아비노암의 아들이여.",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

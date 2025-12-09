@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 21:33",
+  "version": "ESV",
+  "original_text": "“When a man opens a pit, or when a man digs a pit and does not cover it, and an ox or a donkey falls into it,",
+  "korean_text": "사람이 구덩이를 열어두거나 구덩이를 파고 덮지 아니하므로 소나 나귀가 거기에 빠지면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When a man opens a pit,",
+      "korean_translation": "어떤 사람이 구덩이를 열 때,",
+      "word_indices": [
+        6,
+        115,
+        491
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or when a man digs a pit and does not cover it,",
+      "korean_translation": "또는 어떤 사람이 구덩이를 파고 덮지 않을 때에,",
+      "word_indices": [
+        6,
+        208,
+        491,
+        920
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and an ox or a donkey falls into it,",
+      "korean_translation": "그리고 소나 나귀가 그 안에 빠지면,",
+      "word_indices": [
+        100,
+        293,
+        316
+      ]
+    }
+  ]
+}

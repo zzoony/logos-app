@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Psalms 11:2",
+  "version": "ESV",
+  "original_text": "for behold, the wicked bend the bow;\n    they have fitted their arrow to the string\n    to shoot in the dark at the upright in heart;",
+  "korean_text": "악인이 활을 당기고 화살을 시위에 먹임이여 마음이 바른 자를 어두운 데서 쏘려 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for behold,",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the wicked bend the bow;",
+      "korean_translation": "악인들이 활을 당기고",
+      "word_indices": [
+        238,
+        1166,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they have fitted their arrow to the string",
+      "korean_translation": "그들은 화살을 시위에 먹였으며",
+      "word_indices": [
+        702
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to shoot in the dark",
+      "korean_translation": "어둠 속에서 쏘려고",
+      "word_indices": [
+        1091
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "at the upright in heart;",
+      "korean_translation": "마음이 정직한 자를 향하여",
+      "word_indices": [
+        26,
+        667
+      ]
+    }
+  ]
+}

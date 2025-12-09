@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 13:17",
+  "version": "ESV",
+  "original_text": "If you know these things, blessed are you if you do them.",
+  "korean_text": "너희가 이것을 알고 행하면 복이 있으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you know these things",
+      "korean_translation": "만일 너희가 이것들을 알면",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "blessed are you",
+      "korean_translation": "너희는 복이 있나니",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if you do them",
+      "korean_translation": "너희가 그것들을 행하면",
+      "word_indices": []
+    }
+  ]
+}

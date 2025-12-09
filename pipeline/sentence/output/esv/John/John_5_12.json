@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 5:12",
+  "version": "ESV",
+  "original_text": "They asked him, “Who is the man who said to you, ‘Take up your bed and walk’?”",
+  "korean_text": "그들이 묻되 너에게 자리를 들고 걸어가라 한 사람이 누구냐 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They asked him",
+      "korean_translation": "그들이 그에게 물었습니다",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Who is the man",
+      "korean_translation": "그 사람이 누구냐",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who said to you, ‘Take up your bed and walk’?””",
+      "korean_translation": "네게 ‘네 침상을 들고 걸어가라’고 말한 사람이냐?”",
+      "word_indices": [
+        111,
+        477
+      ]
+    }
+  ]
+}

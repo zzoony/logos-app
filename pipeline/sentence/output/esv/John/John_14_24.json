@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 14:24",
+  "version": "ESV",
+  "original_text": "Whoever does not love me does not keep my words. And the word that you hear is not mine but the Father's who sent me.",
+  "korean_text": "나를 사랑하지 아니하는 자는 내 말을 지키지 아니하나니 너희가 듣는 말은 내 말이 아니요 나를 보내신 아버지의 말씀이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever does not love me",
+      "korean_translation": "나를 사랑하지 않는 자는",
+      "word_indices": [
+        35,
+        117
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "does not keep my words.",
+      "korean_translation": "내 말을 지키지 않느니라.",
+      "word_indices": [
+        15,
+        46
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the word that you hear",
+      "korean_translation": "너희가 듣는 말씀은",
+      "word_indices": [
+        15,
+        17
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is not mine",
+      "korean_translation": "내 것이 아니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but the Father's who sent me.",
+      "korean_translation": "나를 보내신 아버지의 것이니라.",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 8:19",
+  "version": "ESV",
+  "original_text": "When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you take up?” They said to him, “Twelve.”",
+  "korean_text": "내가 떡 다섯 개를 오천 명에게 떼어 줄 때에 조각 몇 바구니를 거두었더냐 이르되 열둘이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I broke the five loaves for the five thousand,",
+      "korean_translation": "내가 오천 명을 위해 다섯 개의 떡을 떼어 주었을 때,",
+      "word_indices": [
+        201,
+        248
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "how many baskets full of broken pieces did you take up?”",
+      "korean_translation": "너희가 남은 조각으로 가득 찬 바구니를 몇 개나 거두었느냐?”",
+      "word_indices": [
+        165,
+        850
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They said to him,",
+      "korean_translation": "그들이 그에게 대답하여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Twelve.”",
+      "korean_translation": "“열둘.”",
+      "word_indices": [
+        302
+      ]
+    }
+  ]
+}

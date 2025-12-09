@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Chronicles 35:11",
+  "version": "ESV",
+  "original_text": "And they slaughtered the Passover lamb, and the priests threw the blood that they received from them while the Levites flayed the sacrifices.",
+  "korean_text": "유월절 양을 잡으니 제사장들은 그들의 손에서 피를 받아 뿌리고 또 레위 사람들은 잡은 짐승의 가죽을 벗기고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they slaughtered the Passover lamb",
+      "korean_translation": "그들이 유월절 어린 양을 잡았고",
+      "word_indices": [
+        240,
+        538,
+        577
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the priests threw the blood",
+      "korean_translation": "제사장들은 피를 뿌렸고",
+      "word_indices": [
+        25,
+        83
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that they received from them",
+      "korean_translation": "그들이 그들에게서 받은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while the Levites flayed the sacrifices",
+      "korean_translation": "레위 사람들이 제물의 가죽을 벗기는 동안",
+      "word_indices": [
+        3182
+      ]
+    }
+  ]
+}

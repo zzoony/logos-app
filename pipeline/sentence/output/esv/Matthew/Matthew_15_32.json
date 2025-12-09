@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Matthew 15:32",
+  "version": "ESV",
+  "original_text": "Then Jesus called his disciples to him and said, “I have compassion on the crowd because they have been with me now three days and have nothing to eat. And I am unwilling to send them away hungry, lest they faint on the way.”",
+  "korean_text": "예수께서 제자들을 불러 이르시되 내가 무리를 불쌍히 여기노라 그들이 나와 함께 있은 지 이미 사흘이매 먹을 것이 없도다 길에서 기진할까 하여 굶겨 보내지 못하겠노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus called his disciples to him and said, “",
+      "korean_translation": "그때 예수께서 제자들을 불러 말씀하셨다, “",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have compassion on the crowd",
+      "korean_translation": "내가 이 무리를 불쌍히 여기는 것은",
+      "word_indices": [
+        339,
+        822
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they have been with me now three days",
+      "korean_translation": "그들이 나와 함께 사흘을 있었기 때문이다",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and have nothing to eat.",
+      "korean_translation": "먹을 것이 아무것도 없기 때문이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And I am unwilling to send them away hungry,",
+      "korean_translation": "내가 그들을 굶겨서 돌려보내고 싶지 않으니,",
+      "word_indices": [
+        24,
+        29,
+        854
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "lest they faint on the way.”",
+      "korean_translation": "길에서 기진하여 쓰러질까 하여서이다.”",
+      "word_indices": [
+        913
+      ]
+    }
+  ]
+}

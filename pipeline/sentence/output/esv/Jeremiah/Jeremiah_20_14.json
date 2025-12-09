@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Jeremiah 20:14",
+  "version": "ESV",
+  "original_text": "Cursed be the day\n    on which I was born!\nThe day when my mother bore me,\n    let it not be blessed!",
+  "korean_text": "내 생일이 저주를 받았더면, 나의 어머니가 나를 낳던 날이 복이 없었더면,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be the day on which I was born!",
+      "korean_translation": "내가 태어난 날은 저주를 받을지어다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The day when my mother bore me",
+      "korean_translation": "내 어머니가 나를 낳은 날은",
+      "word_indices": [
+        128,
+        336
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let it not be blessed!",
+      "korean_translation": "복을 받지 못할지어다!",
+      "word_indices": [
+        64
+      ]
+    }
+  ]
+}

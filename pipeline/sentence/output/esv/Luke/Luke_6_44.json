@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 6:44",
+  "version": "ESV",
+  "original_text": "for each tree is known by its own fruit. For figs are not gathered from thornbushes, nor are grapes picked from a bramble bush.",
+  "korean_text": "나무는 각각 그 열매로 아나니 가시나무에서 무화과를, 또는 찔레에서 포도를 따지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for each tree is known by its own fruit.",
+      "korean_translation": "이는 각 나무가 그 열매로 알려지기 때문입니다.",
+      "word_indices": [
+        143,
+        203
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For figs are not gathered from thornbushes",
+      "korean_translation": "무화과는 가시덤불에서 거두어지지 않으며",
+      "word_indices": [
+        93,
+        651
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor are grapes picked from a bramble bush.",
+      "korean_translation": "포도도 찔레덩굴에서 따이지 않습니다.",
+      "word_indices": [
+        1432,
+        1689,
+        2965
+      ]
+    }
+  ]
+}

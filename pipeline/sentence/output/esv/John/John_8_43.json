@@ -1,0 +1,25 @@
+{
+  "verse_reference": "John 8:43",
+  "version": "ESV",
+  "original_text": "Why do you not understand what I say? It is because you cannot bear to hear my word.",
+  "korean_text": "어찌하여 내 말을 깨닫지 못하느냐 이는 내 말을 들을 줄 알지 못함이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why do you not understand what I say?",
+      "korean_translation": "너희가 어찌 내 말을 알아듣지 못하느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is because you cannot bear to hear my word.",
+      "korean_translation": "이는 너희가 내 말을 견디지 못하기 때문이다.",
+      "word_indices": [
+        15,
+        17,
+        73,
+        215
+      ]
+    }
+  ]
+}

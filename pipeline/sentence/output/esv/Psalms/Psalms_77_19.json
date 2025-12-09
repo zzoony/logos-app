@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 77:19",
+  "version": "ESV",
+  "original_text": "Your way was through the sea,\n    your path through the great waters;\n    yet your footprints were unseen.",
+  "korean_text": "주의 길이 바다에 있었고 주의 곧은 길이 큰 물에 있었으나 주의 발자취를 알 수 없었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your way was through the sea",
+      "korean_translation": "당신의 길은 바다를 통해였습니다",
+      "word_indices": [
+        60,
+        84
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your path through the great waters",
+      "korean_translation": "당신의 경로는 큰 물들을 통해였습니다",
+      "word_indices": [
+        30,
+        42,
+        60,
+        575
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yet your footprints were unseen.",
+      "korean_translation": "그러나 당신의 발자국은 보이지 않았습니다",
+      "word_indices": [
+        3366,
+        5203
+      ]
+    }
+  ]
+}

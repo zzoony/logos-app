@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 8:3",
+  "version": "ESV",
+  "original_text": "When I look at your heavens, the work of your fingers,\n    the moon and the stars, which you have set in place,",
+  "korean_text": "주의 손가락으로 만드신 주의 하늘과 주께서 베풀어 두신 달과 별들을 내가 보오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I look at your heavens",
+      "korean_translation": "내가 주의 하늘을 볼 때",
+      "word_indices": [
+        40,
+        91
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the work of your fingers",
+      "korean_translation": "주의 손가락으로 만드신 것",
+      "word_indices": [
+        52,
+        946
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the moon and the stars",
+      "korean_translation": "달과 별들을",
+      "word_indices": [
+        641,
+        646
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which you have set in place",
+      "korean_translation": "주께서 배치하신 것",
+      "word_indices": [
+        21
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 80:9",
+  "version": "ESV",
+  "original_text": "You cleared the ground for it;\n    it took deep root and filled the land.",
+  "korean_text": "주께서 그 앞서 가꾸셨으므로 그 뿌리가 깊이 박혀서 땅에 가득하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You cleared the ground for it",
+      "korean_translation": "주께서 그것을 위해 땅을 정비하셨습니다",
+      "word_indices": [
+        1000,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it took deep root",
+      "korean_translation": "그것은 깊이 뿌리를 내렸습니다",
+      "word_indices": [
+        479,
+        663
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it filled the land",
+      "korean_translation": "그것이 땅을 가득 채웠습니다",
+      "word_indices": [
+        8,
+        207
+      ]
+    }
+  ]
+}

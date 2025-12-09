@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 52:2",
+  "version": "ESV",
+  "original_text": "Your tongue plots destruction,\n    like a sharp razor, you worker of deceit.",
+  "korean_text": "네 혀가 심한 악을 꾀하여 날카로운 삭도 같이 간사를 행하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your tongue plots destruction",
+      "korean_translation": "네 혀는 멸망을 꾀하고",
+      "word_indices": [
+        338,
+        354,
+        994
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like a sharp razor",
+      "korean_translation": "날카로운 면도날처럼",
+      "word_indices": [
+        14,
+        1526,
+        2387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you worker of deceit",
+      "korean_translation": "너 기만하는 자여",
+      "word_indices": [
+        856,
+        1071
+      ]
+    }
+  ]
+}

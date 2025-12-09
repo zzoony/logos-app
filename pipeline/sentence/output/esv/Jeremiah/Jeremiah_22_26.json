@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 22:26",
+  "version": "ESV",
+  "original_text": "I will hurl you and the mother who bore you into another country, where you were not born, and there you shall die.",
+  "korean_text": "내가 너와 너를 낳은 어머니를 너희가 나지 아니한 다른 지방으로 쫓아내리니 너희가 거기에서 죽으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will hurl you and the mother who bore you",
+      "korean_translation": "내가 너와 너를 낳은 네 어미를",
+      "word_indices": [
+        128,
+        336,
+        1788
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into another country",
+      "korean_translation": "다른 나라에 던지리라",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where you were not born",
+      "korean_translation": "그곳은 네가 나지 않은 땅이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and there you shall die",
+      "korean_translation": "그리고 네가 그곳에서 죽으리라",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

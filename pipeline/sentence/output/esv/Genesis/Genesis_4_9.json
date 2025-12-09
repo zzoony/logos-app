@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 4:9",
+  "version": "ESV",
+  "original_text": "Then the Lord said to Cain, “Where is Abel your brother?” He said, “I do not know; am I my brother's keeper?”",
+  "korean_text": "여호와께서 가인에게 이르시되 네 아우 아벨이 어디 있느냐 그가 이르되 내가 알지 못하나이다 내가 내 아우를 지키는 자니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Cain,",
+      "korean_translation": "그때 주께서 가인에게 말씀하시기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Where is Abel your brother?”",
+      "korean_translation": "네 아우 아벨이 어디 있느냐?",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said,",
+      "korean_translation": "그가 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“I do not know;",
+      "korean_translation": "내가 알지 못하노라;",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "am I my brother's keeper?”",
+      "korean_translation": "내가 내 아우의 지키는 자이냐?",
+      "word_indices": [
+        28,
+        1148
+      ]
+    }
+  ]
+}

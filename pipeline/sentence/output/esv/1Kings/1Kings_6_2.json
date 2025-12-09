@@ -1,0 +1,47 @@
+{
+  "verse_reference": "1 Kings 6:2",
+  "version": "ESV",
+  "original_text": "The house that King Solomon built for the Lord was sixty cubits long, twenty cubits wide, and thirty cubits high.",
+  "korean_text": "솔로몬 왕이 여호와를 위하여 건축한 성전은 길이가 육십 규빗이요 너비가 이십 규빗이요 높이가 삼십 규빗이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The house that King Solomon built for the Lord",
+      "korean_translation": "주를 위해 솔로몬 왕이 지은 집은",
+      "word_indices": [
+        4,
+        7
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was sixty cubits long",
+      "korean_translation": "길이가 60 규빗이었습니다",
+      "word_indices": [
+        127,
+        156,
+        1055
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "twenty cubits wide",
+      "korean_translation": "너비는 20 규빗",
+      "word_indices": [
+        156,
+        234,
+        1139
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and thirty cubits high",
+      "korean_translation": "그리고 높이는 30 규빗이었��니다",
+      "word_indices": [
+        107,
+        156,
+        423
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 50:20",
+  "version": "ESV",
+  "original_text": "You sit and speak against your brother;\n    you slander your own mother's son.",
+  "korean_text": "앉아서 네 형제를 공박하며 네 어머니의 아들을 비방하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You sit",
+      "korean_translation": "네가 앉아서",
+      "word_indices": [
+        118
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and speak against your brother",
+      "korean_translation": "네 형제를 험담하며",
+      "word_indices": [
+        12,
+        18,
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you slander your own mother's son.",
+      "korean_translation": "네 어머니의 아들을 험담하느니라",
+      "word_indices": [
+        2,
+        128,
+        1395
+      ]
+    }
+  ]
+}

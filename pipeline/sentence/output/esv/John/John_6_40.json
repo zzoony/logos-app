@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 6:40",
+  "version": "ESV",
+  "original_text": "For this is the will of my Father, that everyone who looks on the Son and believes in him should have eternal life, and I will raise him up on the last day.”",
+  "korean_text": "내 아버지의 뜻은 아들을 보고 믿는 자마다 영생을 얻는 이것이니 마지막 날에 내가 이를 다시 살리리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For this is the will of my Father,",
+      "korean_translation": "이것은 내 아버지의 뜻이니,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that everyone who looks on the Son and believes in him",
+      "korean_translation": "아들을 보고 그를 믿는 모든 사람은",
+      "word_indices": [
+        2,
+        91,
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "should have eternal life,",
+      "korean_translation": "영생을 얻게 하려는 것이며,",
+      "word_indices": [
+        41,
+        614
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I will raise him up on the last day.”",
+      "korean_translation": "내가 마지막 날에 그를 다시 살리리라.”",
+      "word_indices": [
+        217,
+        427
+      ]
+    }
+  ]
+}

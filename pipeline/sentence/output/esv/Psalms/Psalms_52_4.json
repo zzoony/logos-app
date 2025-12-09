@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 52:4",
+  "version": "ESV",
+  "original_text": "You love all words that devour,\n    O deceitful tongue.",
+  "korean_text": "간사한 혀여 너는 남을 해치는 모든 말을 좋아하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You love all words",
+      "korean_translation": "너는 모든 말을 사랑한다",
+      "word_indices": [
+        15,
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that devour",
+      "korean_translation": "삼키는",
+      "word_indices": [
+        371
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O deceitful tongue.",
+      "korean_translation": "오, 간사한 혀여",
+      "word_indices": [
+        354,
+        1481
+      ]
+    }
+  ]
+}

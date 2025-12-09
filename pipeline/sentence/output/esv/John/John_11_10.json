@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 11:10",
+  "version": "ESV",
+  "original_text": "But if anyone walks in the night, he stumbles, because the light is not in him.”",
+  "korean_text": "밤에 다니면 빛이 그 사람 안에 없는 고로 실족하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if anyone walks in the night",
+      "korean_translation": "하지만 누구든지 밤에 걷다면",
+      "word_indices": [
+        111,
+        130,
+        181
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he stumbles",
+      "korean_translation": "그는 걸려 넘어집니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because the light is not in him",
+      "korean_translation": "그 안에 빛이 없기 때문입니다",
+      "word_indices": [
+        177
+      ]
+    }
+  ]
+}

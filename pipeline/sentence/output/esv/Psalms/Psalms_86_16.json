@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 86:16",
+  "version": "ESV",
+  "original_text": "Turn to me and be gracious to me;\n    give your strength to your servant,\n    and save the son of your maidservant.",
+  "korean_text": "내게로 돌이키사 내게 은혜를 베푸소서 주의 종에게 힘을 주시고 주의 여종의 아들을 구원하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Turn to me",
+      "korean_translation": "내게로 돌아오소서",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and be gracious to me",
+      "korean_translation": "내게 은혜를 베푸소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "give your strength to your servant",
+      "korean_translation": "주의 종에게 힘을 주소서",
+      "word_indices": [
+        5,
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and save the son of your maidservant",
+      "korean_translation": "주의 여종의 아들을 구원하소서",
+      "word_indices": [
+        2,
+        145,
+        2797
+      ]
+    }
+  ]
+}

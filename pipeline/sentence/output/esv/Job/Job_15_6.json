@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Job 15:6",
+  "version": "ESV",
+  "original_text": "Your own mouth condemns you, and not I;\n    your own lips testify against you.",
+  "korean_text": "너를 정죄한 것은 내가 아니요 네 입이라 네 입술이 네게 불리하게 증언하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your own mouth condemns you",
+      "korean_translation": "네 입이 너를 정죄하느니라",
+      "word_indices": [
+        95,
+        780
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and not I",
+      "korean_translation": "내가 아니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your own lips testify against you",
+      "korean_translation": "네 입술이 너를 반증하느니라",
+      "word_indices": [
+        12,
+        420,
+        824
+      ]
+    }
+  ]
+}

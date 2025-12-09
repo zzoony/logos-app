@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Romans 1:1",
+  "version": "ESV",
+  "original_text": "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God,",
+  "korean_text": "예수 그리스도의 종 바울은 사도로 부르심을 받아 하나님의 복음을 위하여 택정함을 입었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Paul, a servant of Christ Jesus,",
+      "korean_translation": "바울은 그리스도 예수의 종이요,",
+      "word_indices": [
+        22,
+        61
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "called to be an apostle,",
+      "korean_translation": "사도로 부르심을 받은 자라,",
+      "word_indices": [
+        31,
+        585
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "set apart for the gospel of God,",
+      "korean_translation": "하나님의 복음으로 택정함을 입은 자라,",
+      "word_indices": [
+        1,
+        478,
+        735
+      ]
+    }
+  ]
+}

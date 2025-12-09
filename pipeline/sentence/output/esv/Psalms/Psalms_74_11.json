@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 74:11",
+  "version": "ESV",
+  "original_text": "Why do you hold back your hand, your right hand?\n    Take it from the fold of your garment and destroy them!",
+  "korean_text": "주께서 어찌하여 주의 손 곧 주의 오른손을 거두시나이까 주의 품에서 손을 빼내시어 그들을 멸하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why do you hold back your hand?",
+      "korean_translation": "어찌하여 당신의 손을 거두십니까?",
+      "word_indices": [
+        10,
+        90,
+        184
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your right hand?",
+      "korean_translation": "당신의 오른손을 말입니까?",
+      "word_indices": [
+        10,
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Take it from the fold of your garment",
+      "korean_translation": "당신의 옷자락에서 그것을 꺼내십시오.",
+      "word_indices": [
+        218,
+        1267
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and destroy them!",
+      "korean_translation": "그리고 그들을 멸하십시오!",
+      "word_indices": [
+        99
+      ]
+    }
+  ]
+}

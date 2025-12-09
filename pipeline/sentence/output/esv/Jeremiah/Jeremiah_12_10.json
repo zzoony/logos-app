@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Jeremiah 12:10",
+  "version": "ESV",
+  "original_text": "Many shepherds have destroyed my vineyard;\n    they have trampled down my portion;\nthey have made my pleasant portion\n    a desolate wilderness.",
+  "korean_text": "많은 목자가 내 포도원을 헐며 내 몫을 짓밟아서 내가 기뻐하는 땅을 황무지로 만들었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many shepherds have destroyed my vineyard",
+      "korean_translation": "많은 목자들이 내 포도원을 망쳤습니다.",
+      "word_indices": [
+        99,
+        411,
+        417
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they have trampled down my portion",
+      "korean_translation": "그들이 내 기업을 짓밟았습니다.",
+      "word_indices": [
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they have made my pleasant portion a desolate wilderness.",
+      "korean_translation": "그들이 내 즐거운 기업을 황무지로 만들었습니다.",
+      "word_indices": [
+        337,
+        503,
+        1127
+      ]
+    }
+  ]
+}

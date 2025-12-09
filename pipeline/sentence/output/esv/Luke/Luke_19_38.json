@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 19:38",
+  "version": "ESV",
+  "original_text": "saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”",
+  "korean_text": "이르되 찬송하리로다 주의 이름으로 오시는 왕이여 하늘에는 평화요 가장 높은 곳에는 영광이로다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "saying,",
+      "korean_translation": "말하며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Blessed is the King",
+      "korean_translation": "복되시도다 왕이여",
+      "word_indices": [
+        4,
+        64
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who comes in the name of the Lord!",
+      "korean_translation": "주의 이름으로 오시는 이여!",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Peace in heaven",
+      "korean_translation": "하늘에는 평화",
+      "word_indices": [
+        40,
+        105
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and glory in the highest!",
+      "korean_translation": "가장 높은 곳에는 영광",
+      "word_indices": [
+        112,
+        1625
+      ]
+    }
+  ]
+}

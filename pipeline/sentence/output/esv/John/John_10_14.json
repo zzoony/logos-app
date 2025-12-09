@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 10:14",
+  "version": "ESV",
+  "original_text": "I am the good shepherd. I know my own and my own know me,",
+  "korean_text": "나는 선한 목자라 나는 내 양을 알고 양도 나를 아는 것이",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the good shepherd.",
+      "korean_translation": "나는 선한 목자입니다.",
+      "word_indices": [
+        37,
+        411
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I know my own",
+      "korean_translation": "나는 내 양을 압니다.",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and my own know me,",
+      "korean_translation": "내 양도 나를 압니다.",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

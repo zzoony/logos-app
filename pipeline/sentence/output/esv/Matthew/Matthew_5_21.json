@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 5:21",
+  "version": "ESV",
+  "original_text": "“You have heard that it was said to those of old, ‘You shall not murder; and whoever murders will be liable to judgment.’",
+  "korean_text": "옛 사람에게 말한 바 살인하지 말라 누구든지 살인하면 심판을 받게 되리라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have heard",
+      "korean_translation": "너희는 들었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it was said",
+      "korean_translation": "말하여진 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to those of old",
+      "korean_translation": "옛 사람들에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You shall not murder",
+      "korean_translation": "살인하지 말라 하였고",
+      "word_indices": [
+        1083
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and whoever murders",
+      "korean_translation": "살인하는 자는",
+      "word_indices": [
+        117,
+        1083
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will be liable to judgment",
+      "korean_translation": "심판을 받게 될 것이라",
+      "word_indices": [
+        2669
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Ezra 1:10",
+  "version": "ESV",
+  "original_text": "30 bowls of gold, 410 bowls of silver, and 1,000 other vessels;",
+  "korean_text": "금 대접이 서른 개요 그보다 못한 은 대접이 사백열 개요 그밖의 그릇이 천 개이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "30 bowls of gold",
+      "korean_translation": "금 대접 30개",
+      "word_indices": [
+        89,
+        885
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "410 bowls of silver",
+      "korean_translation": "은 대접 410개",
+      "word_indices": [
+        135,
+        885
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and 1,000 other vessels",
+      "korean_translation": "그리고 다른 그릇 1,000개",
+      "word_indices": [
+        360
+      ]
+    }
+  ]
+}

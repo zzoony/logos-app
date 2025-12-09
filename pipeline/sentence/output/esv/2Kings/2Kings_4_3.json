@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Kings 4:3",
+  "version": "ESV",
+  "original_text": "Then he said, “Go outside, borrow vessels from all your neighbors, empty vessels and not too few.",
+  "korean_text": "이르되 너는 밖에 나가서 모든 이웃에게 그릇을 빌리라 빈 그릇을 빌리되 조금 빌리지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he said,",
+      "korean_translation": "그가 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Go outside,",
+      "korean_translation": "밖으로 나가서,",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "borrow vessels from all your neighbors,",
+      "korean_translation": "네 모든 이웃에게서 그릇을 빌리고,",
+      "word_indices": [
+        314,
+        360,
+        2239
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "empty vessels",
+      "korean_translation": "빈 그릇들을",
+      "word_indices": [
+        360,
+        655
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and not too few.",
+      "korean_translation": "그리고 너무 적지 않게.",
+      "word_indices": [
+        724
+      ]
+    }
+  ]
+}

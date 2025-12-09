@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Corinthians 14:15",
+  "version": "ESV",
+  "original_text": "What am I to do? I will pray with my spirit, but I will pray with my mind also; I will sing praise with my spirit, but I will sing with my mind also.",
+  "korean_text": "그러면 어떻게 할까 내가 영으로 기도하고 또 마음으로 기도하며 내가 영으로 찬송하고 또 마음으로 찬송하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What am I to do?",
+      "korean_translation": "내가 무엇을 해야 합니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will pray with my spirit,",
+      "korean_translation": "나는 내 영으로 기도할 것이요,",
+      "word_indices": [
+        55,
+        262
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but I will pray with my mind also;",
+      "korean_translation": "하지만 내 마음으로도 기도할 것입니다.",
+      "word_indices": [
+        23,
+        262,
+        344
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will sing praise with my spirit,",
+      "korean_translation": "나는 내 영으로 찬송할 것이요,",
+      "word_indices": [
+        55,
+        160,
+        284
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but I will sing with my mind also.",
+      "korean_translation": "하지만 내 마음으로도 찬송할 것입니다.",
+      "word_indices": [
+        23,
+        284,
+        344
+      ]
+    }
+  ]
+}

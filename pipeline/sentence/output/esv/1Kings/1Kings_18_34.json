@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Kings 18:34",
+  "version": "ESV",
+  "original_text": "And he said, “Do it a second time.” And they did it a second time. And he said, “Do it a third time.” And they did it a third time.",
+  "korean_text": "또 이르되 다시 그리하라 하여 다시 그리하니 또 이르되 세 번째로 그리하라 하여 세 번째로 그리하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그리고 그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Do it a second time.”",
+      "korean_translation": "두 번째로 하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And they did it a second time.",
+      "korean_translation": "그리고 그들이 두 번째로 그렇게 했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And he said",
+      "korean_translation": "그리고 그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“Do it a third time.”",
+      "korean_translation": "세 번째로 하라",
+      "word_indices": [
+        244
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And they did it a third time.",
+      "korean_translation": "그리고 그들이 세 번째로 그렇게 했다",
+      "word_indices": [
+        244
+      ]
+    }
+  ]
+}

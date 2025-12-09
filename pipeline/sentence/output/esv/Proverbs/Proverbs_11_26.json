@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Proverbs 11:26",
+  "version": "ESV",
+  "original_text": "The people curse him who holds back grain,\n    but a blessing is on the head of him who sells it.",
+  "korean_text": "곡식을 내놓지 아니하는 자는 백성에게 저주를 받을 것이나 파는 자는 그의 머리에 복이 임하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people curse him",
+      "korean_translation": "사람들은 그를 저주합니다",
+      "word_indices": [
+        3,
+        241
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who holds back grain",
+      "korean_translation": "곡식을 아끼는 사람을",
+      "word_indices": [
+        90,
+        176,
+        184
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but a blessing is on the head",
+      "korean_translation": "하지만 축복이 머리에 있습니다",
+      "word_indices": [
+        62,
+        64
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of him who sells it",
+      "korean_translation": "그것을 파는 사람의",
+      "word_indices": [
+        396
+      ]
+    }
+  ]
+}

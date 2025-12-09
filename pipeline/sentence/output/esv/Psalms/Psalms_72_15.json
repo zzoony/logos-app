@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 72:15",
+  "version": "ESV",
+  "original_text": "Long may he live;\n    may gold of Sheba be given to him!\nMay prayer be made for him continually,\n    and blessings invoked for him all the day!",
+  "korean_text": "그들이 생존하여 스바의 금을 그에게 드리며 사람들이 그를 위하여 항상 기도하고 종일 찬송하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Long may he live",
+      "korean_translation": "그가 오래 살기를",
+      "word_indices": [
+        33,
+        127
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "may gold of Sheba be given to him",
+      "korean_translation": "스바의 금이 그에게 주어지기를",
+      "word_indices": [
+        5,
+        89
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "May prayer be made for him continually",
+      "korean_translation": "그를 위해 기도가 항상 올려지기를",
+      "word_indices": [
+        364,
+        754
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and blessings invoked for him all the day",
+      "korean_translation": "��에게 복이 종일토록 선포되기를",
+      "word_indices": [
+        1498
+      ]
+    }
+  ]
+}

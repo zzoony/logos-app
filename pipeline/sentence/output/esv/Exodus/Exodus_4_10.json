@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Exodus 4:10",
+  "version": "ESV",
+  "original_text": "But Moses said to the Lord, “Oh, my Lord, I am not eloquent, either in the past or since you have spoken to your servant, but I am slow of speech and of tongue.”",
+  "korean_text": "모세가 여호와께 아뢰되 오 주여 나는 본래 말을 잘 하지 못하는 자니이다 주께서 주의 종에게 명령하신 후에도 역시 그러하니 나는 입이 뻣뻣하고 혀가 둔한 자니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Moses said to the Lord,",
+      "korean_translation": "하지만 모세가 주께 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Oh, my Lord,",
+      "korean_translation": "오, 나의 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am not eloquent,",
+      "korean_translation": "저는 웅변을 못합니다,",
+      "word_indices": [
+        3500
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "either in the past",
+      "korean_translation": "과거에도 그렇지 않았고,",
+      "word_indices": [
+        715,
+        1108
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or since you have spoken to your servant,",
+      "korean_translation": "주께서 이 종에게 말씀하신 후에도 그렇지 않습니다,",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but I am slow of speech and of tongue.”",
+      "korean_translation": "하지만 저는 말과 혀가 둔합니다.”",
+      "word_indices": [
+        354,
+        816,
+        1458
+      ]
+    }
+  ]
+}

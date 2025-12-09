@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Matthew 1:18",
+  "version": "ESV",
+  "original_text": "Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit.",
+  "korean_text": "예수 그리스도의 나심은 이러하니라 그의 어머니 마리아가 요셉과 약혼하고 동거하기 전에 성령으로 잉태된 것이 나타났더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the birth of Jesus Christ took place in this way.",
+      "korean_translation": "이제 예수 그리스도의 탄생은 다음과 같이 이루어졌습니다.",
+      "word_indices": [
+        21,
+        61,
+        619
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When his mother Mary had been betrothed to Joseph,",
+      "korean_translation": "그의 어머니 마리아가 요셉과 약혼했을 때,",
+      "word_indices": [
+        128,
+        1460
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "before they came together",
+      "korean_translation": "그들이 함께 살기 전에",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she was found to be with child",
+      "korean_translation": "그녀가 임신한 것으로 발견되었습니다",
+      "word_indices": [
+        43,
+        1942
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from the Holy Spirit.",
+      "korean_translation": "성령으로 말미암아",
+      "word_indices": [
+        44,
+        55
+      ]
+    }
+  ]
+}

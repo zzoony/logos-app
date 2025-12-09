@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 John 1:9",
+  "version": "ESV",
+  "original_text": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+  "korean_text": "만일 우리가 우리 죄를 자백하면 그는 미쁘시고 의로우사 우리 죄를 사하시며 우리를 모든 불의에서 깨끗하게 하실 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If we confess our sins",
+      "korean_translation": "만약 우리가 우리의 죄를 자백하면",
+      "word_indices": [
+        34
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he is faithful and just",
+      "korean_translation": "그는 미쁘시고 의로우사",
+      "word_indices": [
+        543
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to forgive us our sins",
+      "korean_translation": "우리 죄를 용서하시고",
+      "word_indices": [
+        34,
+        416
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to cleanse us from all unrighteousness",
+      "korean_translation": "모든 불의에서 우��를 깨끗하게 하실 것입니다",
+      "word_indices": [
+        521
+      ]
+    }
+  ]
+}

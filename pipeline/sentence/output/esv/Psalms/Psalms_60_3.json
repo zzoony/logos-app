@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 60:3",
+  "version": "ESV",
+  "original_text": "You have made your people see hard things;\n    you have given us wine to drink that made us stagger.",
+  "korean_text": "주께서 주의 백성에게 어려움을 보이시고 비틀거리게 하는 포도주를 우리에게 마시게 하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have made your people see hard things;",
+      "korean_translation": "주께서 주의 백성에게 어려운 것을 보게 하셨습니다.",
+      "word_indices": [
+        3,
+        631
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you have given us wine to drink",
+      "korean_translation": "주께서 우리에게 마실 포도주를 주셨습니다.",
+      "word_indices": [
+        5,
+        70,
+        194
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that made us stagger.",
+      "korean_translation": "그것은 우리로 비틀거리게 하였습니다.",
+      "word_indices": [
+        1682
+      ]
+    }
+  ]
+}

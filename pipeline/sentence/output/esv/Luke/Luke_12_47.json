@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 12:47",
+  "version": "ESV",
+  "original_text": "And that servant who knew his master's will but did not get ready or act according to his will, will receive a severe beating.",
+  "korean_text": "주인의 뜻을 알고도 준비하지 아니하고 그 뜻대로 행하지 아니한 종은 많이 맞을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And that servant who knew his master's will",
+      "korean_translation": "주인의 뜻을 안 그 종은",
+      "word_indices": [
+        22,
+        242
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but did not get ready or act according to his will",
+      "korean_translation": "하지만 준비하지 않거나 그 뜻대로 행하지 않으면",
+      "word_indices": [
+        49,
+        309,
+        534
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will receive a severe beating.",
+      "korean_translation": "심한 매를 맞을 것이다",
+      "word_indices": [
+        137,
+        525,
+        1276
+      ]
+    }
+  ]
+}

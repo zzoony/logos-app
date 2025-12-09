@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 13:3",
+  "version": "ESV",
+  "original_text": "Jesus, knowing that the Father had given all things into his hands, and that he had come from God and was going back to God,",
+  "korean_text": "저녁 먹는 중 예수는 아버지께서 모든 것을 자기 손에 맡기신 것과 또 자기가 하나님께로부터 오셨다가 하나님께로 돌아가실 것을 아시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus, knowing that the Father had given all things into his hands,",
+      "korean_translation": "예수님은 아버지께서 만물을 자기 손에 주신 것을 아시고,",
+      "word_indices": [
+        5,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and that he had come from God",
+      "korean_translation": "자기가 하나님께로부터 왔다는 것과",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and was going back to God,",
+      "korean_translation": "하나님께로 돌아가신다는 것을,",
+      "word_indices": [
+        1,
+        90
+      ]
+    }
+  ]
+}

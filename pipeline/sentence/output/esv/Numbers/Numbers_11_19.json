@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Numbers 11:19",
+  "version": "ESV",
+  "original_text": "You shall not eat just one day, or two days, or five days, or ten days, or twenty days,",
+  "korean_text": "하루나 이틀이나 닷새나 열흘이나 스무 날만 먹을 뿐 아니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not eat just one day,",
+      "korean_translation": "너희는 단 하루만 먹지 않고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or two days,",
+      "korean_translation": "이틀도 아니고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or five days,",
+      "korean_translation": "닷새도 아니고,",
+      "word_indices": [
+        201
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or ten days,",
+      "korean_translation": "열흘도 아니고,",
+      "word_indices": [
+        257
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or twenty days,",
+      "korean_translation": "스무 날도 아니고,",
+      "word_indices": [
+        234
+      ]
+    }
+  ]
+}

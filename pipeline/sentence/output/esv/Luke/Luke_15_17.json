@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 15:17",
+  "version": "ESV",
+  "original_text": "“But when he came to himself, he said, ‘How many of my father's hired servants have more than enough bread, but I perish here with hunger!",
+  "korean_text": "이에 스스로 돌이켜 이르되 내 아버지에게는 양식이 풍족한 품꾼이 얼마나 많은가 나는 여기서 주려 죽는구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when he came to himself,",
+      "korean_translation": "그러나 그가 제정신으로 돌아왔을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said,",
+      "korean_translation": "그가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘How many of my father's hired servants have more than enough bread,",
+      "korean_translation": "‘내 아버지의 품꾼들이 양식이 넉넉하거늘,",
+      "word_indices": [
+        9,
+        22,
+        129,
+        699
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but I perish here with hunger!",
+      "korean_translation": "나는 여기서 굶주려 죽는구나!’",
+      "word_indices": [
+        310,
+        1255
+      ]
+    }
+  ]
+}

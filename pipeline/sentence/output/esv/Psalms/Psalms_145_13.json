@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 145:13",
+  "version": "ESV",
+  "original_text": "Your kingdom is an everlasting kingdom,\n    and your dominion endures throughout all generations.\n[The Lord is faithful in all his words\n    and kind in all his works.]",
+  "korean_text": "주의 나라는 영원한 나라이니 주의 통치는 대대에 이르리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your kingdom is an everlasting kingdom",
+      "korean_translation": "주의 나라는 영원한 나라입니다",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and your dominion endures throughout all generations",
+      "korean_translation": "주의 통치는 대대에 영원하리이다",
+      "word_indices": [
+        225,
+        358,
+        916
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Lord is faithful in all his words",
+      "korean_translation": "여호와는 그 모든 말씀에 신실하십니다",
+      "word_indices": [
+        15,
+        543
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and kind in all his works",
+      "korean_translation": "그 모든 행사에 자비하시도다",
+      "word_indices": [
+        52,
+        397
+      ]
+    }
+  ]
+}

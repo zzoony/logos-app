@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 81:2",
+  "version": "ESV",
+  "original_text": "Raise a song; sound the tambourine,\n    the sweet lyre with the harp.",
+  "korean_text": "시를 읊으며 소고를 치고 아름다운 수금에 비파를 아우를지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Raise a song;",
+      "korean_translation": "노래를 불러라",
+      "word_indices": [
+        217,
+        539
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sound the tambourine,",
+      "korean_translation": "탬버린을 치고",
+      "word_indices": [
+        291,
+        1591
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the sweet lyre with the harp.",
+      "korean_translation": "달콤한 수금과 하프를",
+      "word_indices": [
+        880,
+        989,
+        1046
+      ]
+    }
+  ]
+}

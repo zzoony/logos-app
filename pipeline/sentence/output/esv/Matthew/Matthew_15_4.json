@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 15:4",
+  "version": "ESV",
+  "original_text": "For God commanded, ‘Honor your father and your mother,’ and, ‘Whoever reviles father or mother must surely die.’",
+  "korean_text": "하나님이 이르셨으되 네 부모를 공경하라 하시고 또 아버지나 어머니를 비방하는 자는 반드시 죽임을 당하리라 하셨거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For God commanded",
+      "korean_translation": "이는 하나님께서 명령하신 것이니",
+      "word_indices": [
+        1,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "‘Honor your father and your mother’",
+      "korean_translation": "'네 아버지와 어머니를 공경하라'",
+      "word_indices": [
+        9,
+        128,
+        276
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ‘Whoever reviles father or mother must surely die.’",
+      "korean_translation": "그리고 '아버지나 어머니를 욕하는 자는 반드시 죽으리라'",
+      "word_indices": [
+        9,
+        57,
+        117,
+        128,
+        232
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 6:10",
+  "version": "ESV",
+  "original_text": "The men did so, and took two milk cows and yoked them to the cart and shut up their calves at home.",
+  "korean_text": "그 사람들이 그같이 하여 젖 나는 소 둘을 끌어다가 수레를 메우고 송아지들은 집에 가두고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The men did so",
+      "korean_translation": "그 사람들은 그대로 했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and took two milk cows",
+      "korean_translation": "젖소 두 마리를 가져왔고",
+      "word_indices": [
+        832,
+        1308
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and yoked them to the cart",
+      "korean_translation": "그것들을 수레에 멍에를 메웠고",
+      "word_indices": [
+        1728
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and shut up their calves at home",
+      "korean_translation": "그 송아지들은 집에 가두었더라",
+      "word_indices": [
+        365,
+        505
+      ]
+    }
+  ]
+}

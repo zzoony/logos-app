@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Luke 10:30",
+  "version": "ESV",
+  "original_text": "Jesus replied, “A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him and departed, leaving him half dead.",
+  "korean_text": "예수께서 대답하여 이르시되 어떤 사람이 예루살렘에서 여리고로 내려가다가 강도를 만나매 강도들이 그 옷을 벗기고 때려 거의 죽은 것을 버리고 갔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied,",
+      "korean_translation": "예수께서 대답하셨다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A man was going down from Jerusalem to Jericho,",
+      "korean_translation": "어떤 사람이 예루살렘에서 여리고로 내려가다가,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he fell among robbers,",
+      "korean_translation": "강도들을 만났는데,",
+      "word_indices": [
+        27,
+        212,
+        1401
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who stripped him",
+      "korean_translation": "그들이 그의 옷을 벗기고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and beat him",
+      "korean_translation": "때리고",
+      "word_indices": [
+        525
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and departed,",
+      "korean_translation": "떠나가서,",
+      "word_indices": [
+        266
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "leaving him half dead.",
+      "korean_translation": "그를 반쯤 죽게 내버려두었다.",
+      "word_indices": [
+        141,
+        333
+      ]
+    }
+  ]
+}

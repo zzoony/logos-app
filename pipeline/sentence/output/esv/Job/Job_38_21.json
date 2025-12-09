@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Job 38:21",
+  "version": "ESV",
+  "original_text": "You know, for you were born then,\n    and the number of your days is great!",
+  "korean_text": "네가 아마도 알리라 네가 그 때에 태어났으리니 너의 햇수가 많음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know,",
+      "korean_translation": "당신은 압니다,",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for you were born then,",
+      "korean_translation": "이는 당신이 그때 태어났기 때문입니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the number of your days is great!",
+      "korean_translation": "그리고 당신의 날 수가 많습니다!",
+      "word_indices": [
+        30,
+        236
+      ]
+    }
+  ]
+}

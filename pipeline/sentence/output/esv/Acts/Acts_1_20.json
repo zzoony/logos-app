@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Acts 1:20",
+  "version": "ESV",
+  "original_text": "“For it is written in the Book of Psalms,\n“‘May his camp become desolate,\n    and let there be no one to dwell in it’;\nand\n“‘Let another take his office.’",
+  "korean_text": "시편에 기록하였으되 그의 거처를 황폐하게 하시며 거기 거하는 자가 없게 하소서 하였고 또 일렀으되 그의 직분을 타인이 취하게 하소서 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For it is written in the Book of Psalms,",
+      "korean_translation": "이는 시편에 기록된 바",
+      "word_indices": [
+        292,
+        2447
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“‘May his camp become desolate,",
+      "korean_translation": "그의 거처가 황폐하게 되기를",
+      "word_indices": [
+        186,
+        503
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let there be no one to dwell in it’;",
+      "korean_translation": "그곳에 거주할 자가 없게 되며",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and",
+      "korean_translation": "또한",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“‘Let another take his office.’",
+      "korean_translation": "다른 이가 그의 직분을 맡게 하라",
+      "word_indices": [
+        1650
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Proverbs 4:12",
+  "version": "ESV",
+  "original_text": "When you walk, your step will not be hampered,\n    and if you run, you will not stumble.",
+  "korean_text": "다닐 때에 네 걸음이 곤고하지 아니하겠고 달려갈 때에 실족하지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you walk,",
+      "korean_translation": "네가 걸을 때에,",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your step will not be hampered,",
+      "korean_translation": "네 걸음이 방해받지 않을 것이며,",
+      "word_indices": [
+        647,
+        5234
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and if you run,",
+      "korean_translation": "네가 달릴 때에,",
+      "word_indices": [
+        308
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you will not stumble.",
+      "korean_translation": "넘어지지 않을 것이다.",
+      "word_indices": [
+        559
+      ]
+    }
+  ]
+}

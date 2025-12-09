@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 31:9",
+  "version": "ESV",
+  "original_text": "Be gracious to me, O Lord, for I am in distress;\n    my eye is wasted from grief;\n    my soul and my body also.",
+  "korean_text": "여호와여 내가 고통 중에 있사오니 내게 은혜를 베푸소서 내가 근심 때문에 눈과 영혼과 몸이 쇠하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Be gracious to me, O Lord,",
+      "korean_translation": "주여, 내게 은혜를 베풀소서.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I am in distress;",
+      "korean_translation": "이는 내가 곤고함이니이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my eye is wasted from grief;",
+      "korean_translation": "내 눈이 근심으로 쇠하였나이다.",
+      "word_indices": [
+        50,
+        1620
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my soul and my body also.",
+      "korean_translation": "나의 영혼과 몸도 그러하나이다.",
+      "word_indices": [
+        23,
+        150
+      ]
+    }
+  ]
+}

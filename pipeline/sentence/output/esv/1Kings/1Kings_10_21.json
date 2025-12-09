@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Kings 10:21",
+  "version": "ESV",
+  "original_text": "All King Solomon's drinking vessels were of gold, and all the vessels of the House of the Forest of Lebanon were of pure gold. None were of silver; silver was not considered as anything in the days of Solomon.",
+  "korean_text": "솔로몬 왕이 마시는 그릇은 다 금이요 레바논 나무 궁의 그릇들도 다 정금이라 은 기물이 없으니 솔로몬의 시대에 은을 귀히 여기지 아니함은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All King Solomon's drinking vessels were of gold",
+      "korean_translation": "솔로몬 왕의 모든 마시는 그릇은 금이었으며",
+      "word_indices": [
+        4,
+        70,
+        89,
+        360
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all the vessels of the House of the Forest of Lebanon were of pure gold",
+      "korean_translation": "레바논 나무 궁의 모든 그릇들은 순금이었습니다",
+      "word_indices": [
+        7,
+        89,
+        360,
+        471,
+        772
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "None were of silver",
+      "korean_translation": "은그릇은 하나도 없었고",
+      "word_indices": [
+        135,
+        175
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "silver was not considered as anything in the days of Solomon",
+      "korean_translation": "솔로몬 시대에는 은이 아무것도 여겨지지 않았습니다",
+      "word_indices": [
+        135,
+        500
+      ]
+    }
+  ]
+}

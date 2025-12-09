@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 John 3:11",
+  "version": "ESV",
+  "original_text": "For this is the message that you have heard from the beginning, that we should love one another.",
+  "korean_text": "우리는 서로 사랑할지니 이는 너희가 처음부터 들은 소식이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For this is the message",
+      "korean_translation": "이것이 바로 그 메시지입니다",
+      "word_indices": [
+        1225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you have heard from the beginning",
+      "korean_translation": "너희가 처음부터 들은 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that we should love one another",
+      "korean_translation": "우리가 서로 사랑해야 한다는 것",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

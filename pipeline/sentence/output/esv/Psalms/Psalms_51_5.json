@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 51:5",
+  "version": "ESV",
+  "original_text": "Behold, I was brought forth in iniquity,\n    and in sin did my mother conceive me.",
+  "korean_text": "내가 죄악 중에서 출생하였음이여 어머니가 죄 중에서 나를 잉태하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I was brought forth in iniquity,",
+      "korean_translation": "나는 불의 중에서 나왔으며,",
+      "word_indices": [
+        219,
+        342
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in sin did my mother conceive me.",
+      "korean_translation": "죄 중에서 어머니가 나를 잉태하였습니다.",
+      "word_indices": [
+        34,
+        128,
+        774
+      ]
+    }
+  ]
+}

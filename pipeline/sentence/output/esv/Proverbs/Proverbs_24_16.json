@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Proverbs 24:16",
+  "version": "ESV",
+  "original_text": "for the righteous falls seven times and rises again,\n    but the wicked stumble in times of calamity.",
+  "korean_text": "대저 의인은 일곱 번 넘어질지라도 다시 일어나려니와 악인은 재앙으로 말미암아 엎드러지느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for the righteous falls seven times",
+      "korean_translation": "의인은 일곱 번 넘어지지만",
+      "word_indices": [
+        100,
+        102
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and rises again",
+      "korean_translation": "다시 일어납니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the wicked stumble",
+      "korean_translation": "그러나 악인은 비틀거립니다",
+      "word_indices": [
+        559,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in times of calamity",
+      "korean_translation": "재앙의 때에",
+      "word_indices": [
+        865
+      ]
+    }
+  ]
+}

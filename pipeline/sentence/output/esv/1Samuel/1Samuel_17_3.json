@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Samuel 17:3",
+  "version": "ESV",
+  "original_text": "And the Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side, with a valley between them.",
+  "korean_text": "블레셋 사람들은 이쪽 산에 섰고 이스라엘은 저쪽 산에 섰고 그 사이에는 골짜기가 있었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Philistines stood on the mountain on the one side",
+      "korean_translation": "블레셋 사람들은 한쪽 산에 서 있었습니다.",
+      "word_indices": [
+        103,
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Israel stood on the mountain on the other side",
+      "korean_translation": "이스라엘은 다른 쪽 산에 서 있었습니다.",
+      "word_indices": [
+        103,
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with a valley between them.",
+      "korean_translation": "그들 사이에는 골짜기가 있었습니다.",
+      "word_indices": [
+        251
+      ]
+    }
+  ]
+}

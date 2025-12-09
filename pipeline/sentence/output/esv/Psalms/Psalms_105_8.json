@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 105:8",
+  "version": "ESV",
+  "original_text": "He remembers his covenant forever,\n    the word that he commanded, for a thousand generations,",
+  "korean_text": "그는 그의 언약 곧 천 대에 걸쳐 명령하신 말씀을 영원히 기억하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He remembers his covenant forever",
+      "korean_translation": "그는 영원히 그의 언약을 기억하시며",
+      "word_indices": [
+        96,
+        132,
+        193
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the word that he commanded",
+      "korean_translation": "그가 명령하신 말씀을",
+      "word_indices": [
+        15,
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for a thousand generations",
+      "korean_translation": "천 대에 이르도록 기억하시는도다",
+      "word_indices": [
+        225,
+        248
+      ]
+    }
+  ]
+}

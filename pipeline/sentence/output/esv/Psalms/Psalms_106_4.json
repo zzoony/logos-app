@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 106:4",
+  "version": "ESV",
+  "original_text": "Remember me, O Lord, when you show favor to your people;\n    help me when you save them,",
+  "korean_text": "여호와여 주의 백성에게 베푸시는 은혜로 나를 기억하시며 주의 구원으로 나를 돌보사",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember me, O Lord,",
+      "korean_translation": "오 주여, 나를 기억하소서",
+      "word_indices": [
+        193
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when you show favor to your people;",
+      "korean_translation": "주께서 주의 백성에게 은혜 베푬 때에",
+      "word_indices": [
+        3,
+        153,
+        368
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "help me",
+      "korean_translation": "나를 도우소서",
+      "word_indices": [
+        246
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when you save them,",
+      "korean_translation": "주께서 그들을 구원하실 때에",
+      "word_indices": [
+        145
+      ]
+    }
+  ]
+}

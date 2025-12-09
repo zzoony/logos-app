@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Isaiah 1:5",
+  "version": "ESV",
+  "original_text": "Why will you still be struck down?\n    Why will you continue to rebel?\nThe whole head is sick,\n    and the whole heart faint.",
+  "korean_text": "너희가 어찌하여 매를 더 맞으려고 패역을 거듭하느냐 온 머리는 병들었고 온 마음은 피곤하였으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why will you still be struck down?",
+      "korean_translation": "너희는 어찌하여 계속 맞을 것인가?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why will you continue to rebel?",
+      "korean_translation": "너희는 어찌하여 계속 패역할 것인가?",
+      "word_indices": [
+        568,
+        642
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The whole head is sick,",
+      "korean_translation": "온 머리가 병들었고,",
+      "word_indices": [
+        62,
+        151,
+        696
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the whole heart faint.",
+      "korean_translation": "온 마음이 기진하였다.",
+      "word_indices": [
+        26,
+        151,
+        913
+      ]
+    }
+  ]
+}

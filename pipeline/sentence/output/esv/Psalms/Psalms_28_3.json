@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 28:3",
+  "version": "ESV",
+  "original_text": "Do not drag me off with the wicked,\n    with the workers of evil,\nwho speak peace with their neighbors\n    while evil is in their hearts.",
+  "korean_text": "악인과 악을 행하는 자들과 함께 나를 끌어내지 마옵소서 그들은 그 이웃에게 화평을 말하나 그들의 마음에는 악독이 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not drag me off with the wicked",
+      "korean_translation": "악인들과 함께 나를 끌어가지 마옵소서.",
+      "word_indices": [
+        1521,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with the workers of evil",
+      "korean_translation": "악을 행하는 자들과 함께",
+      "word_indices": [
+        63,
+        856
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who speak peace with their neighbors",
+      "korean_translation": "이웃에게 평화를 말하면서",
+      "word_indices": [
+        18,
+        105,
+        314
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while evil is in their hearts.",
+      "korean_translation": "그 마음에는 악이 있습니다.",
+      "word_indices": [
+        26,
+        63
+      ]
+    }
+  ]
+}

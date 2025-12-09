@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 91:13",
+  "version": "ESV",
+  "original_text": "You will tread on the lion and the adder;\n    the young lion and the serpent you will trample underfoot.",
+  "korean_text": "네가 사자와 독사를 밟으며 젊은 사자와 뱀을 발로 누르리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will tread on the lion and the adder",
+      "korean_translation": "네가 사자와 독사를 밟고",
+      "word_indices": [
+        348,
+        781,
+        2448
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the young lion and the serpent you will trample underfoot.",
+      "korean_translation": "어린 사자와 뱀을 네가 짓밟으리라",
+      "word_indices": [
+        131,
+        348,
+        782,
+        891,
+        1816
+      ]
+    }
+  ]
+}

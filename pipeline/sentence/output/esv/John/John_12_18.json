@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 12:18",
+  "version": "ESV",
+  "original_text": "The reason why the crowd went to meet him was that they heard he had done this sign.",
+  "korean_text": "이에 무리가 예수를 맞음은 이 표적 행하심을 들었음이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The crowd went to meet him.",
+      "korean_translation": "무리가 그를 만나러 갔습니다.",
+      "word_indices": [
+        119,
+        339
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The reason was that they heard",
+      "korean_translation": "그 이유는 그들이 들었기 때문입니다.",
+      "word_indices": [
+        725
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he had done this sign.",
+      "korean_translation": "그가 이 표적을 행했습니다.",
+      "word_indices": [
+        258
+      ]
+    }
+  ]
+}

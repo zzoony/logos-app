@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Hosea 10:3",
+  "version": "ESV",
+  "original_text": "For now they will say:\n    “We have no king,\nfor we do not fear the Lord;\n    and a king—what could he do for us?”",
+  "korean_text": "그들이 이제 이르기를 우리가 여호와를 두려워하지 아니하므로 우리에게 왕이 없거니와 왕이 우리를 위하여 무엇을 하리요 하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For now they will say:",
+      "korean_translation": "이제 그들이 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We have no king,",
+      "korean_translation": "우리에게는 왕이 없고,",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for we do not fear the Lord;",
+      "korean_translation": "우리가 주를 두려워하지 않기 때문이며,",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a king—",
+      "korean_translation": "왕이 우리에게 무엇을 해줄 수 있으랴.",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

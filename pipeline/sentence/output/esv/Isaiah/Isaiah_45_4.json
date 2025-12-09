@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Isaiah 45:4",
+  "version": "ESV",
+  "original_text": "For the sake of my servant Jacob,\n    and Israel my chosen,\nI call you by your name,\n    I name you, though you do not know me.",
+  "korean_text": "내가 나의 종 야곱, 내가 택한 자 이스라엘 곧 너를 위하여 네 이름을 불러 너는 나를 알지 못하였을지라도 네게 칭호를 주었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the sake of my servant Jacob,",
+      "korean_translation": "나의 종 야곱을 위하여,",
+      "word_indices": [
+        22,
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Israel my chosen,",
+      "korean_translation": "그리고 내가 택한 이스라엘을 위하여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I call you by your name,",
+      "korean_translation": "내가 너를 이름으로 부르며,",
+      "word_indices": [
+        20,
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I name you,",
+      "korean_translation": "너를 지명하노라,",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "though you do not know me.",
+      "korean_translation": "네가 나를 알지 못하였으나.",
+      "word_indices": [
+        13,
+        182
+      ]
+    }
+  ]
+}

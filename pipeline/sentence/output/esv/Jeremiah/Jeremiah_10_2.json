@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 10:2",
+  "version": "ESV",
+  "original_text": "Thus says the Lord:\n“Learn not the way of the nations,\n    nor be dismayed at the signs of the heavens\n    because the nations are dismayed at them,",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 여러 나라의 길을 배우지 말라 이방 사람들은 하늘의 징조를 두려워하거니와 너희는 그것을 두려워하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus says the Lord:",
+      "korean_translation": "주께서 이와 같이 말씀하시니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Learn not the way of the nations,",
+      "korean_translation": "열국의 길을 배우지 말며",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor be dismayed at the signs of the heavens",
+      "korean_translation": "하늘의 징조로 인해 두려워하지 말라",
+      "word_indices": [
+        40,
+        258,
+        776
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because the nations are dismayed at them,",
+      "korean_translation": "이는 열국이 그것들로 인해 두려워하기 때문이라",
+      "word_indices": [
+        47,
+        776
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Matthew 28:11",
+  "version": "ESV",
+  "original_text": "While they were going, behold, some of the guard went into the city and told the chief priests all that had taken place.",
+  "korean_text": "여자들이 갈 때 경비병 중 몇이 성에 들어가 모든 된 일을 대제사장들에게 알리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While they were going,",
+      "korean_translation": "그들이 가는 동안에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "some of the guard went into the city",
+      "korean_translation": "파수꾼 중 몇 사람이 성으로 들어가서",
+      "word_indices": [
+        16,
+        287
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and told the chief priests",
+      "korean_translation": "대제사장들에게 일렀고",
+      "word_indices": [
+        25,
+        164
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "all that had taken place.",
+      "korean_translation": "일어난 모든 일을",
+      "word_indices": [
+        21
+      ]
+    }
+  ]
+}

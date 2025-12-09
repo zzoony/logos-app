@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Corinthians 10:17",
+  "version": "ESV",
+  "original_text": "Because there is one bread, we who are many are one body, for we all partake of the one bread.",
+  "korean_text": "떡이 하나요 많은 우리가 한 몸이니 이는 우리가 다 한 떡에 참여함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because there is one bread,",
+      "korean_translation": "한 떡이 있기 때문���,",
+      "word_indices": [
+        129
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we who are many are one body,",
+      "korean_translation": "우리는 여럿이지만 한 몸이며,",
+      "word_indices": [
+        150
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for we all partake of the one bread.",
+      "korean_translation": "우리는 모두 그 한 떡에 참여하기 때문입니다.",
+      "word_indices": [
+        129,
+        2785
+      ]
+    }
+  ]
+}

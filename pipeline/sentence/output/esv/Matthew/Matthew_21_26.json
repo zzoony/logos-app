@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 21:26",
+  "version": "ESV",
+  "original_text": "But if we say, ‘From man,’ we are afraid of the crowd, for they all hold that John was a prophet.”",
+  "korean_text": "만일 사람으로부터라 하면 모든 사람이 요한을 선지자로 여기니 백성이 무섭다 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if we say",
+      "korean_translation": "하지만 만약 우리가 말한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "‘From man,’",
+      "korean_translation": "‘사람에게서라고,’",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we are afraid of the crowd",
+      "korean_translation": "우리는 무리를 두려워하나니",
+      "word_indices": [
+        286,
+        339
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for they all hold",
+      "korean_translation": "이는 그들이 모두 믿고 있기 때문이니",
+      "word_indices": [
+        184
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that John was a prophet.”",
+      "korean_translation": "요한은 선지자였다고.”",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

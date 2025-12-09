@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 134:1",
+  "version": "ESV",
+  "original_text": "Come, bless the Lord, all you servants of the Lord,\n    who stand by night in the house of the Lord!",
+  "korean_text": "보라 밤에 여호와의 성전에 서 있는 여호와의 모든 종들아 여호와를 송축하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come,",
+      "korean_translation": "오라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "bless the Lord,",
+      "korean_translation": "주를 송축하라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all you servants of the Lord,",
+      "korean_translation": "주의 종들아,",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who stand by night in the house of the Lord!",
+      "korean_translation": "밤에 주의 집에 서 있는 자들아!",
+      "word_indices": [
+        7,
+        38,
+        130
+      ]
+    }
+  ]
+}

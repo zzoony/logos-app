@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 18:48",
+  "version": "ESV",
+  "original_text": "who rescued me from my enemies;\n    yes, you exalted me above those who rose against me;\n    you delivered me from the man of violence.",
+  "korean_text": "주께서 나를 내 원수들에게서 구조하시니 주께서 나를 대적하는 자들의 위에 나를 높이 드시고 나를 포악한 자에게서 건지시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "who rescued me from my enemies",
+      "korean_translation": "내 원수들에게서 나를 구원하신 분이",
+      "word_indices": [
+        122
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yes",
+      "korean_translation": "네",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you exalted me above those who rose against me",
+      "korean_translation": "당신은 나를 대적하여 일어난 자들보다 높이셨다",
+      "word_indices": [
+        12,
+        483
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you delivered me from the man of violence",
+      "korean_translation": "당신은 폭력적인 사람에게서 나를 건지셨다",
+      "word_indices": [
+        6,
+        672
+      ]
+    }
+  ]
+}

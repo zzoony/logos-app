@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Psalms 116:16",
+  "version": "ESV",
+  "original_text": "O Lord, I am your servant;\n    I am your servant, the son of your maidservant.\n    You have loosed my bonds.",
+  "korean_text": "여호와여 나는 진실로 주의 종이요 주의 여종의 아들 곧 주의 종이라 주께서 나의 결박을 푸셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am your servant;",
+      "korean_translation": "저는 주의 종입니다.",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am your servant,",
+      "korean_translation": "저는 주의 종이며,",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the son of your maidservant.",
+      "korean_translation": "주의 여종의 아들입니다.",
+      "word_indices": [
+        2,
+        2797
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You have loosed my bonds.",
+      "korean_translation": "주께서 나의 결박을 풀어 주셨습니다.",
+      "word_indices": [
+        1268,
+        5100
+      ]
+    }
+  ]
+}

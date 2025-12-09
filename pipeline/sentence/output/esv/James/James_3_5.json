@@ -1,0 +1,54 @@
+{
+  "verse_reference": "James 3:5",
+  "version": "ESV",
+  "original_text": "So also the tongue is a small member, yet it boasts of great things.\nHow great a forest is set ablaze by such a small fire!",
+  "korean_text": "이와 같이 혀도 작은 지체로되 큰 것을 자랑하도다 보라 얼마나 작은 불이 얼마나 많은 나무를 태우는가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So also",
+      "korean_translation": "이와 같이",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the tongue is a small member",
+      "korean_translation": "혀는 작은 지체입니다",
+      "word_indices": [
+        354,
+        529,
+        969
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yet it boasts of great things",
+      "korean_translation": "그러나 그것은 큰 것을 자랑합니다",
+      "word_indices": [
+        30,
+        512
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "How great a forest is set ablaze",
+      "korean_translation": "얼마나 큰 숲이 불타는지",
+      "word_indices": [
+        30,
+        772,
+        3363
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "by such a small fire!",
+      "korean_translation": "그렇게 작은 불로 말입니다!",
+      "word_indices": [
+        72,
+        529
+      ]
+    }
+  ]
+}

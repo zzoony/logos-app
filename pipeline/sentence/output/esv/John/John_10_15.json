@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 10:15",
+  "version": "ESV",
+  "original_text": "just as the Father knows me and I know the Father; and I lay down my life for the sheep.",
+  "korean_text": "아버지께서 나를 아시고 내가 아버지를 아는 것 같으니 나는 양을 위하여 목숨을 버리노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "just as the Father knows me",
+      "korean_translation": "아버지께서 나를 아신 것처럼",
+      "word_indices": [
+        9,
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I know the Father",
+      "korean_translation": "나도 아버지를 아나이다",
+      "word_indices": [
+        9,
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I lay down my life for the sheep",
+      "korean_translation": "나는 양들을 위하여 내 목숨을 버립니다",
+      "word_indices": [
+        41,
+        235
+      ]
+    }
+  ]
+}

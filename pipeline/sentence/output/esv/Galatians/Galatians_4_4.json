@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Galatians 4:4",
+  "version": "ESV",
+  "original_text": "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law,",
+  "korean_text": "때가 차매 하나님이 그 아들을 보내사 여자에게서 나게 하시고 율법 아래에 나게 하신 것은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But",
+      "korean_translation": "그러나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the fullness of time had come",
+      "korean_translation": "때가 가득 찼을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God sent forth his Son",
+      "korean_translation": "하나님은 그의 아들을 보내셨습니다",
+      "word_indices": [
+        1,
+        2,
+        342
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "born of woman",
+      "korean_translation": "여자에게서 나서",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "born under the law",
+      "korean_translation": "율법 아래에서 나서",
+      "word_indices": [
+        66
+      ]
+    }
+  ]
+}

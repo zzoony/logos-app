@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 10:31",
+  "version": "ESV",
+  "original_text": "Now by chance a priest was going down that road, and when he saw him he passed by on the other side.",
+  "korean_text": "마침 한 제사장이 그 길로 내려가다가 그를 보고 피하여 지나가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now by chance a priest was going down that road",
+      "korean_translation": "마침 한 제사장이 그 길을 내려가고 있었는데",
+      "word_indices": [
+        25,
+        786,
+        2980
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and when he saw him",
+      "korean_translation": "그리고 그를 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he passed by on the other side",
+      "korean_translation": "그는 반대편으로 지나갔습니다",
+      "word_indices": [
+        103,
+        239
+      ]
+    }
+  ]
+}

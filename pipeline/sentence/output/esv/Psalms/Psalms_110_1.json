@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 110:1",
+  "version": "ESV",
+  "original_text": "The Lord says to my Lord:\n    “Sit at my right hand,\nuntil I make your enemies your footstool.”",
+  "korean_text": "여호와께서 내 주에게 말씀하시기를 내가 네 원수들로 네 발판이 되게 하기까지 너는 내 오른쪽에 앉아 있으라 하셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord says to my Lord:",
+      "korean_translation": "주께서 내 주께 말씀하시기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Sit at my right hand,",
+      "korean_translation": "내 오른편에 앉으라",
+      "word_indices": [
+        10,
+        88,
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until I make your enemies your footstool.”",
+      "korean_translation": "내가 네 원수들을 네 발판으로 삼을 때까지",
+      "word_indices": [
+        122,
+        1890
+      ]
+    }
+  ]
+}

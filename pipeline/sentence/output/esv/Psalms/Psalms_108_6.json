@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 108:6",
+  "version": "ESV",
+  "original_text": "That your beloved ones may be delivered,\n    give salvation by your right hand and answer me!",
+  "korean_text": "주께서 사랑하시는 자들을 건지시기 위하여 우리에게 응답하사 오른손으로 구원하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That your beloved ones may be delivered",
+      "korean_translation": "주께서 사랑하시는 자들이 건지게 하시려고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "give salvation by your right hand",
+      "korean_translation": "주의 오른손으로 구원을 베푸시고",
+      "word_indices": [
+        5,
+        10,
+        88,
+        281
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and answer me!",
+      "korean_translation": "내게 응답하소서!",
+      "word_indices": [
+        54
+      ]
+    }
+  ]
+}

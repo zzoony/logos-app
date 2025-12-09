@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 7:18",
+  "version": "ESV",
+  "original_text": "A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit.",
+  "korean_text": "좋은 나무가 나쁜 열매를 맺을 수 없고 못된 나무가 아름다운 열매를 맺을 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A healthy tree cannot bear bad fruit",
+      "korean_translation": "건강한 나무는 나쁜 열매를 맺을 수 없습니다.",
+      "word_indices": [
+        73,
+        143,
+        203,
+        215,
+        845,
+        2621
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor can a diseased tree bear good fruit",
+      "korean_translation": "병든 나무도 좋은 열매를 맺을 수 없습니다.",
+      "word_indices": [
+        37,
+        73,
+        143,
+        203
+      ]
+    }
+  ]
+}

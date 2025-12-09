@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Timothy 3:8",
+  "version": "ESV",
+  "original_text": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith.",
+  "korean_text": "얀네와 얌브레가 모세를 대적한 것 같이 그들도 진리를 대적하니 이 사람들은 그 마음이 부패한 자요 믿음에 관하여는 버림 받은 자들이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Just as Jannes and Jambres opposed Moses",
+      "korean_translation": "얀네스와 얌브레스가 모세를 대적했던 것처럼",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so these men also oppose the truth",
+      "korean_translation": "이 사람들도 진리를 대적하니",
+      "word_indices": [
+        23,
+        346,
+        1329
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "men corrupted in mind",
+      "korean_translation": "마음이 부패한 자들이라",
+      "word_indices": [
+        344,
+        1274
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and disqualified regarding the faith.",
+      "korean_translation": "믿음에 관하여는 자격이 없는 자들입니다.",
+      "word_indices": [
+        158,
+        567
+      ]
+    }
+  ]
+}

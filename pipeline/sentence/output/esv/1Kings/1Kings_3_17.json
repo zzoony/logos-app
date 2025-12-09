@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Kings 3:17",
+  "version": "ESV",
+  "original_text": "The one woman said, “Oh, my lord, this woman and I live in the same house, and I gave birth to a child while she was in the house.",
+  "korean_text": "한 여자는 말하되 내 주여 나와 이 여자가 한집에서 사는데 내가 그와 함께 집에 있으며 해산하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one woman said,",
+      "korean_translation": "한 여자가 말하기를,",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Oh, my lord,",
+      "korean_translation": "오, 나의 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "this woman and I live in the same house,",
+      "korean_translation": "이 여자와 저는 같은 집에 삽니다,",
+      "word_indices": [
+        7,
+        33,
+        53,
+        228
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I gave birth to a child",
+      "korean_translation": "그리고 제가 아기를 낳았을 때,",
+      "word_indices": [
+        5,
+        43,
+        619
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "she was in the house.",
+      "korean_translation": "그 여자는 집에 있었습니다.",
+      "word_indices": [
+        7
+      ]
+    }
+  ]
+}

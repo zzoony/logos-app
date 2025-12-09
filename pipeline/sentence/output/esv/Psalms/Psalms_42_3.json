@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Psalms 42:3",
+  "version": "ESV",
+  "original_text": "My tears have been my food\n    day and night,\nwhile they say to me all the day long,\n    “Where is your God?”",
+  "korean_text": "사람들이 종일 내게 하는 말이 네 하나님이 어디 있느뇨 하오니 내 눈물이 주야로 내 음식이 되었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My tears have been my food",
+      "korean_translation": "내 눈물이 내 음식이 되었고",
+      "word_indices": [
+        138,
+        254
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "day and night",
+      "korean_translation": "낮과 밤으로",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "while they say to me",
+      "korean_translation": "사람들이 나에게 말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all the day long",
+      "korean_translation": "종일토록",
+      "word_indices": [
+        127
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“Where is your God?”",
+      "korean_translation": "네 하나님은 어디 있느냐?",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Acts 16:27",
+  "version": "ESV",
+  "original_text": "When the jailer woke and saw that the prison doors were open, he drew his sword and was about to kill himself, supposing that the prisoners had escaped.",
+  "korean_text": "간수가 자다가 깨어 옥문들이 열린 것을 보고 죄수들이 도망한 줄 생각하고 칼을 빼어 자결하려 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the jailer woke",
+      "korean_translation": "간수가 잠에서 깨어났을 때",
+      "word_indices": [
+        3099
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and saw that the prison doors were open",
+      "korean_translation": "감옥 문들이 열려 있는 것을 보았습니다",
+      "word_indices": [
+        115,
+        295,
+        608
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he drew his sword",
+      "korean_translation": "그는 칼을 뽑았습니다",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and was about to kill himself",
+      "korean_translation": "그리고 자살하려고 했습니다",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "supposing that the prisoners had escaped",
+      "korean_translation": "그는 죄수들이 도망했다고 생각했습니다",
+      "word_indices": [
+        1020
+      ]
+    }
+  ]
+}

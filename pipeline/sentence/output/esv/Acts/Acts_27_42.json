@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Acts 27:42",
+  "version": "ESV",
+  "original_text": "The soldiers' plan was to kill the prisoners, lest any should swim away and escape.",
+  "korean_text": "군인들은 죄수가 헤엄쳐서 도망할까 하여 그들을 죽이는 것이 좋다 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The soldiers' plan was to kill the prisoners",
+      "korean_translation": "군인들의 계획은 죄수들을 죽이는 것이었다",
+      "word_indices": [
+        92,
+        611,
+        711,
+        1020
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "lest any should swim away and escape.",
+      "korean_translation": "혹시 누군가 헤엄쳐 도망갈까 봐였다",
+      "word_indices": [
+        29,
+        3400
+      ]
+    }
+  ]
+}

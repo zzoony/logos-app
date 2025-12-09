@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Kings 11:35",
+  "version": "ESV",
+  "original_text": "But I will take the kingdom out of his son's hand and will give it to you, ten tribes.",
+  "korean_text": "내가 그의 아들의 손에서 나라를 빼앗아 그 열 지파를 네게 줄 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I will take the kingdom out of his son's hand",
+      "korean_translation": "그러나 내가 그 아들의 손에서 나라를 빼앗을 것이요",
+      "word_indices": [
+        2,
+        10,
+        101
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and will give it to you",
+      "korean_translation": "그것을 너희에게 주리라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ten tribes.",
+      "korean_translation": "너희는 열 지파다.",
+      "word_indices": [
+        257
+      ]
+    }
+  ]
+}

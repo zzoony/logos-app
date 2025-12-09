@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Leviticus 19:13",
+  "version": "ESV",
+  "original_text": "“You shall not oppress your neighbor or rob him. The wages of a hired worker shall not remain with you all night until the morning.",
+  "korean_text": "너는 네 이웃을 억압하지 말며 착취하지 말며 품꾼의 삯을 아침까지 밤새도록 네게 두지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not oppress your neighbor",
+      "korean_translation": "네 이웃을 억압하지 말라",
+      "word_indices": [
+        314
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or rob him.",
+      "korean_translation": "그를 강탈하지 말라",
+      "word_indices": [
+        1261
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The wages of a hired worker",
+      "korean_translation": "고용된 품꾼의 삯은",
+      "word_indices": [
+        856,
+        1808
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall not remain with you all night until the morning.",
+      "korean_translation": "아침까지 밤새도록 네게 두지 말라.",
+      "word_indices": [
+        130
+      ]
+    }
+  ]
+}

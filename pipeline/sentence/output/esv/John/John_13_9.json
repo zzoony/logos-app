@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 13:9",
+  "version": "ESV",
+  "original_text": "Simon Peter said to him, “Lord, not my feet only but also my hands and my head!”",
+  "korean_text": "시몬 베드로가 이르되 주여 내 발뿐 아니라 손과 머리도 씻어 주옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon Peter said to him,",
+      "korean_translation": "시몬 베드로가 그에게 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Lord,",
+      "korean_translation": "주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not my feet only",
+      "korean_translation": "내 발만 아니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but also my hands and my head!”",
+      "korean_translation": "내 손과 머리도!”",
+      "word_indices": [
+        10,
+        23,
+        62
+      ]
+    }
+  ]
+}

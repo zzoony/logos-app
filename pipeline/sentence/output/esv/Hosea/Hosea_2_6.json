@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Hosea 2:6",
+  "version": "ESV",
+  "original_text": "Therefore I will hedge up her way with thorns,\n    and I will build a wall against her,\n    so that she cannot find her paths.",
+  "korean_text": "그러므로 내가 가시로 그 길을 막으며 담을 쌓아 그로 그 길을 찾지 못하게 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore I will hedge up her way with thorns",
+      "korean_translation": "그러므로 내가 그녀의 길을 가시로 막으리라",
+      "word_indices": [
+        32,
+        804,
+        2438
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will build a wall against her",
+      "korean_translation": "그리고 내가 그녀를 향하여 담을 쌓으리라",
+      "word_indices": [
+        12,
+        87,
+        191
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that she cannot find her paths",
+      "korean_translation": "이는 그녀가 자기의 길을 찾지 못하게 하려 함이라",
+      "word_indices": [
+        56,
+        215,
+        575
+      ]
+    }
+  ]
+}

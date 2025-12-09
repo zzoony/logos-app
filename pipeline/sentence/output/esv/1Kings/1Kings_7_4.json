@@ -1,0 +1,29 @@
+{
+  "verse_reference": "1 Kings 7:4",
+  "version": "ESV",
+  "original_text": "There were window frames in three rows, and window opposite window in three tiers.",
+  "korean_text": "또 창틀이 세 줄로 있는데 창과 창이 세 층으로 서로 마주 대하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There were window frames in three rows",
+      "korean_translation": "창틀이 세 줄로 있었다",
+      "word_indices": [
+        97,
+        844,
+        1141
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and window opposite window in three tiers.",
+      "korean_translation": "마주 보는 창들이 삼층으로 있었다",
+      "word_indices": [
+        97,
+        623,
+        844,
+        4108
+      ]
+    }
+  ]
+}

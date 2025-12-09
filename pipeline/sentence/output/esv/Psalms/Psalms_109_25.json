@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 109:25",
+  "version": "ESV",
+  "original_text": "I am an object of scorn to my accusers;\n    when they see me, they wag their heads.",
+  "korean_text": "나는 또 그들의 비방 거리라 그들이 나를 보면 머리를 흔드나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am an object of scorn to my accusers",
+      "korean_translation": "나는 나를 고발하는 자들에게 조롱거리입니다",
+      "word_indices": [
+        1433,
+        1657,
+        1813
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when they see me",
+      "korean_translation": "그들이 나를 볼 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they wag their heads",
+      "korean_translation": "그들은 머리를 흔듭니다",
+      "word_indices": [
+        62,
+        1808
+      ]
+    }
+  ]
+}

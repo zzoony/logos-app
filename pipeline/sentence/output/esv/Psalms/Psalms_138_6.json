@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 138:6",
+  "version": "ESV",
+  "original_text": "For though the Lord is high, he regards the lowly,\n    but the haughty he knows from afar.",
+  "korean_text": "여호와께서는 높이 계셔도 낮은 자를 굽어살피시며 멀리서도 교만한 자를 아심이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For though the Lord is high,",
+      "korean_translation": "비록 주께서 높으시지만,",
+      "word_indices": [
+        107,
+        182
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he regards the lowly,",
+      "korean_translation": "그는 낮은 자를 돌보시며,",
+      "word_indices": [
+        567,
+        1681
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the haughty he knows from afar.",
+      "korean_translation": "교만한 자는 멀리서 아시나니",
+      "word_indices": [
+        13,
+        1343,
+        1523
+      ]
+    }
+  ]
+}

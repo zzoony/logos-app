@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Habakkuk 3:10",
+  "version": "ESV",
+  "original_text": "The mountains saw you and writhed;\n    the raging waters swept on;\nthe deep gave forth its voice;\n    it lifted its hands on high.",
+  "korean_text": "산들이 주를 보고 흔들리며 창수가 넘치고 바다가 소리를 지르며 손을 높이 들었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The mountains saw you",
+      "korean_translation": "산들이 당신을 보았다",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and writhed",
+      "korean_translation": "그리고 뒤틀렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the raging waters swept on",
+      "korean_translation": "성난 물결이 휩쓸고 지나갔다",
+      "word_indices": [
+        42,
+        1737
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the deep gave forth its voice",
+      "korean_translation": "깊음이 그 소리를 냈다",
+      "word_indices": [
+        5,
+        86,
+        342,
+        479
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "it lifted its hands on high",
+      "korean_translation": "그것이 높이 손을 들었다",
+      "word_indices": [
+        10,
+        107,
+        200
+      ]
+    }
+  ]
+}

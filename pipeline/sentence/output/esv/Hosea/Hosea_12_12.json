@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Hosea 12:12",
+  "version": "ESV",
+  "original_text": "Jacob fled to the land of Aram;\n    there Israel served for a wife,\n    and for a wife he guarded sheep.",
+  "korean_text": "야곱이 아람의 들로 도망하였으며 이스라엘이 아내를 얻기 위하여 사람을 섬기며 아내를 얻기 위하여 양을 쳤고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob fled to the land of Aram",
+      "korean_translation": "야곱은 아람 땅으로 도망쳤으며",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there Israel served for a wife",
+      "korean_translation": "그곳에서 이스라엘은 아내를 얻기 위해 종으로 일했고",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and for a wife he guarded sheep",
+      "korean_translation": "아내를 얻기 위해 양을 지켰다",
+      "word_indices": [
+        68,
+        235,
+        287
+      ]
+    }
+  ]
+}

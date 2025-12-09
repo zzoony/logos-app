@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Mark 4:4",
+  "version": "ESV",
+  "original_text": "And as he sowed, some seed fell along the path, and the birds came and devoured it.",
+  "korean_text": "뿌릴새 더러는 길 가에 떨어지매 새들이 와서 먹어 버렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as he sowed",
+      "korean_translation": "그가 씨를 뿌릴 때에",
+      "word_indices": [
+        458
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some seed fell along the path",
+      "korean_translation": "어떤 씨가 길가에 떨어졌고",
+      "word_indices": [
+        212,
+        575
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the birds came",
+      "korean_translation": "새들이 와서",
+      "word_indices": [
+        356
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and devoured it",
+      "korean_translation": "그것을 먹어버렸다",
+      "word_indices": [
+        371
+      ]
+    }
+  ]
+}

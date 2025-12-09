@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 107:10",
+  "version": "ESV",
+  "original_text": "Some sat in darkness and in the shadow of death,\n    prisoners in affliction and in irons,",
+  "korean_text": "사람이 흑암과 사망의 그늘에 앉으며 곤고와 쇠사슬에 매임은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some sat in darkness",
+      "korean_translation": "어떤 이들은 흑암에 앉았으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and in the shadow of death",
+      "korean_translation": "사망의 그늘에 있었습니다",
+      "word_indices": [
+        76,
+        841
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "prisoners in affliction",
+      "korean_translation": "고통 속의 죄수들이었고",
+      "word_indices": [
+        592,
+        1020
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and in irons",
+      "korean_translation": "쇠사슬에 묶여 있었습니다",
+      "word_indices": [
+        472
+      ]
+    }
+  ]
+}

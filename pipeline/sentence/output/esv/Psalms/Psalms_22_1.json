@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Psalms 22:1",
+  "version": "ESV",
+  "original_text": "My God, my God, why have you forsaken me?\n    Why are you so far from saving me, from the words of my groaning?",
+  "korean_text": "내 하나님이여 내 하나님이여 어찌 나를 버리셨나이까 어찌 나를 멀리 하여 돕지 아니하시오며 내 신음 소리를 듣지 아니하시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My God,",
+      "korean_translation": "나의 하나님,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my God,",
+      "korean_translation": "나의 하나님,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "why have you forsaken me?",
+      "korean_translation": "어찌하여 나를 버리셨나이까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why are you so far from saving me?",
+      "korean_translation": "어찌하여 나를 구원하심에 멀리 계시나이까?",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Why are you so far from the words of my groaning?",
+      "korean_translation": "어찌하여 나의 신음 소리에서 멀리 계시나이까?",
+      "word_indices": [
+        15,
+        147,
+        987
+      ]
+    }
+  ]
+}

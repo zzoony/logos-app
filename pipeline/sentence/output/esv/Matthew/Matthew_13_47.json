@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 13:47",
+  "version": "ESV",
+  "original_text": "“Again, the kingdom of heaven is like a net that was thrown into the sea and gathered fish of every kind.",
+  "korean_text": "또 천국은 마치 바다에 치고 각종 물고기를 모는 그물과 같으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Again,",
+      "korean_translation": "또,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the kingdom of heaven is like a net",
+      "korean_translation": "천국은 어떤 그물과 같으니",
+      "word_indices": [
+        14,
+        40,
+        101,
+        853
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that was thrown into the sea",
+      "korean_translation": "그것이 바다에 던져져서",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and gathered fish of every kind.",
+      "korean_translation": "각종 물고기를 모았느니라.",
+      "word_indices": [
+        93,
+        397,
+        681
+      ]
+    }
+  ]
+}

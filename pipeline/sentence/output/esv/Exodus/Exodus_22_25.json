@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 22:25",
+  "version": "ESV",
+  "original_text": "“If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him.",
+  "korean_text": "네가 만일 너와 함께 한 내 백성 중에서 가난한 자에게 돈을 꾸어 주면 너는 그에게 채권자 같이 하지 말며 이자를 받지 말 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you lend money to any of my people with you",
+      "korean_translation": "네가 너와 함께 있는 내 백성 중 누구에게 돈을 빌려줄 때에",
+      "word_indices": [
+        3,
+        351,
+        1379
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who is poor,",
+      "korean_translation": "그가 가난하면,",
+      "word_indices": [
+        268
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you shall not be like a moneylender to him,",
+      "korean_translation": "너는 그에게 채주 같이 되지 말고",
+      "word_indices": [
+        14,
+        3953
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you shall not exact interest from him.",
+      "korean_translation": "그에게서 이자를 받지 말라.",
+      "word_indices": [
+        1316,
+        1600
+      ]
+    }
+  ]
+}

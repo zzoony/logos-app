@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 1:7",
+  "version": "ESV",
+  "original_text": "He came as a witness, to bear witness about the light, that all might believe through him.",
+  "korean_text": "그가 증언하러 왔으니 곧 빛에 대하여 증언하고 모든 사람이 자기로 말미암아 믿게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He came as a witness",
+      "korean_translation": "그는 증인으로 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to bear witness about the light",
+      "korean_translation": "빛에 대해 증언하기 위함입니다",
+      "word_indices": [
+        73,
+        177
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that all might believe through him",
+      "korean_translation": "모든 사람이 그를 통해 믿게 하려 함입니다",
+      "word_indices": [
+        60,
+        190
+      ]
+    }
+  ]
+}

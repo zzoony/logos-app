@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Jeremiah 6:17",
+  "version": "ESV",
+  "original_text": "I set watchmen over you, saying,\n    ‘Pay attention to the sound of the trumpet!’\nBut they said, ‘We will not pay attention.’",
+  "korean_text": "내가 또 너희 위에 파수꾼을 세웠으니 나팔 소리를 들으라 하나 그들의 대답이 우리는 듣지 않겠노라 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I set watchmen over you",
+      "korean_translation": "내가 너희 위에 파수꾼을 세웠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying,",
+      "korean_translation": "일렀으니,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘Pay attention to the sound of the trumpet!’",
+      "korean_translation": "‘나팔 소리에 주의를 기울여라!’",
+      "word_indices": [
+        291,
+        408,
+        768
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But they said,",
+      "korean_translation": "하지만 그들은 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "‘We will not pay attention.’",
+      "korean_translation": "‘우리는 주의하지 않겠다.’",
+      "word_indices": [
+        768
+      ]
+    }
+  ]
+}

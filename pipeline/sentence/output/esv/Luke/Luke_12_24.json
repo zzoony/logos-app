@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 12:24",
+  "version": "ESV",
+  "original_text": "Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and yet God feeds them. Of how much more value are you than the birds!",
+  "korean_text": "까마귀를 생각하라 심지도 아니하고 거두지도 아니하며 골방도 없고 창고도 없으되 하나님이 기르시나니 너희는 새보다 얼마나 더 귀하냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Consider the ravens",
+      "korean_translation": "까마귀를 생각해 보라",
+      "word_indices": [
+        500,
+        1823
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they neither sow nor reap",
+      "korean_translation": "그들은 심지도 않고 거두지도 않으며",
+      "word_indices": [
+        278,
+        458,
+        922
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they have neither storehouse nor barn",
+      "korean_translation": "그들은 곳간도 창고도 없지만",
+      "word_indices": [
+        278,
+        1455,
+        2042
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and yet God feeds them",
+      "korean_translation": "하나님은 그들을 먹이신다",
+      "word_indices": [
+        1,
+        986
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Of how much more value are you than the birds!",
+      "korean_translation": "너희가 새보다 얼마나 더 귀하냐!",
+      "word_indices": [
+        356,
+        1260
+      ]
+    }
+  ]
+}

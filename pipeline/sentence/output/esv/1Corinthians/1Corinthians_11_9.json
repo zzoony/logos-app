@@ -1,0 +1,27 @@
+{
+  "verse_reference": "1 Corinthians 11:9",
+  "version": "ESV",
+  "original_text": "Neither was man created for woman, but woman for man.",
+  "korean_text": "또 남자가 여자를 위하여 지음을 받지 아니하고 여자가 남자를 위하여 지음을 받은 것이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither was man created for woman",
+      "korean_translation": "남자가 여자를 위해 창조된 것은 아닙니다",
+      "word_indices": [
+        6,
+        53,
+        278
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but woman for man.",
+      "korean_translation": "하지만 여자는 남자를 위해 창조된 것입니다",
+      "word_indices": [
+        6,
+        53
+      ]
+    }
+  ]
+}

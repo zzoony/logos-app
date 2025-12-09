@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 8:45",
+  "version": "ESV",
+  "original_text": "But because I tell the truth, you do not believe me.",
+  "korean_text": "내가 진리를 말하므로 너희가 나를 믿지 아니하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But",
+      "korean_translation": "하지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because I tell the truth",
+      "korean_translation": "내가 진리를 말하기 때문에",
+      "word_indices": [
+        36,
+        346
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you do not believe me.",
+      "korean_translation": "너희는 나를 믿지 않느니라",
+      "word_indices": [
+        190
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Isaiah 59:8",
+  "version": "ESV",
+  "original_text": "The way of peace they do not know,\n    and there is no justice in their paths;\nthey have made their roads crooked;\n    no one who treads on them knows peace.",
+  "korean_text": "그들은 평강의 길을 알지 못하며 그들이 행하는 곳에는 정의가 없으며 굽은 길을 스스로 만드나니 무릇 이 길을 밟는 자는 평강을 알지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The way of peace they do not know",
+      "korean_translation": "그들은 평강의 길을 알지 못하며",
+      "word_indices": [
+        13,
+        105
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there is no justice in their paths",
+      "korean_translation": "그들의 길에는 공의가 없으며",
+      "word_indices": [
+        353,
+        575
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they have made their roads crooked",
+      "korean_translation": "그들은 자기 길을 굽게 만들었고",
+      "word_indices": [
+        786,
+        1292
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "no one who treads on them knows peace",
+      "korean_translation": "그 길을 밟는 자는 평강을 알지 못한다",
+      "word_indices": [
+        13,
+        105,
+        781
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 28:6",
+  "version": "ESV",
+  "original_text": "Blessed be the Lord!\n    For he has heard the voice of my pleas for mercy.",
+  "korean_text": "여호와를 찬송함이여 내 간구하는 소리를 들으심이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed be the Lord!",
+      "korean_translation": "주를 찬송하리로다!",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For he has heard",
+      "korean_translation": "이는 그가 들으셨음이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the voice of my pleas for mercy.",
+      "korean_translation": "나의 긍휼히 구하는 소리를.",
+      "word_indices": [
+        86,
+        269,
+        866
+      ]
+    }
+  ]
+}

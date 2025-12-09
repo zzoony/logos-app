@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 75:1",
+  "version": "ESV",
+  "original_text": "We give thanks to you, O God;\n    we give thanks, for your name is near.\nWe recount your wondrous deeds.",
+  "korean_text": "하나님이여 우리가 주께 감사하고 감사함은 주의 이름이 가까움이라 사람들이 주의 기이한 일들을 전파하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We give thanks to you, O God",
+      "korean_translation": "하나님이시여, 우리가 주께 감사합니다",
+      "word_indices": [
+        1,
+        5,
+        376
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we give thanks",
+      "korean_translation": "우리가 감사합니다",
+      "word_indices": [
+        5,
+        376
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for your name is near",
+      "korean_translation": "이는 주의 이름이 가까우심이라",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We recount your wondrous deeds",
+      "korean_translation": "우리가 주의 기이한 행적을 전하나이다",
+      "word_indices": [
+        261,
+        2277
+      ]
+    }
+  ]
+}

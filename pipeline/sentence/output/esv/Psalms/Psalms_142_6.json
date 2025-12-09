@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 142:6",
+  "version": "ESV",
+  "original_text": "Attend to my cry,\n    for I am brought very low!\nDeliver me from my persecutors,\n    for they are too strong for me!",
+  "korean_text": "나의 부르짖음을 들으소서 나는 심히 비천하니이다 나를 핍박하는 자들에게서 나를 건지소서 그들은 나보다 강하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Attend to my cry",
+      "korean_translation": "나의 부르짖음에 귀를 기울여 주소서",
+      "word_indices": [
+        114,
+        1280
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I am brought very low!",
+      "korean_translation": "내가 매우 낮아졌기 때문입니다!",
+      "word_indices": [
+        762
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Deliver me from my persecutors",
+      "korean_translation": "나를 나의 핍박자들에게서 건져 주소서",
+      "word_indices": [
+        2597
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for they are too strong for me!",
+      "korean_translation": "그들이 나에게 너무 강하기 때문입니다!",
+      "word_indices": [
+        227
+      ]
+    }
+  ]
+}

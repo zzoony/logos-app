@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Genesis 20:11",
+  "version": "ESV",
+  "original_text": "Abraham said, “I did it because I thought, ‘There is no fear of God at all in this place, and they will kill me because of my wife.’",
+  "korean_text": "아브라함이 이르되 이 곳에서는 하나님을 두려워함이 없으니 내 아내로 말미암아 사람들이 나를 죽일까 생각하였음이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham said,",
+      "korean_translation": "아브라함이 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I did it",
+      "korean_translation": "내가 그렇게 했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because I thought,",
+      "korean_translation": "내가 생각했기 때문이다",
+      "word_indices": [
+        829
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "There is no fear of God at all in this place,",
+      "korean_translation": "이곳에는 하나님을 경외하는 마음이 전혀 없고",
+      "word_indices": [
+        1,
+        21,
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they will kill me",
+      "korean_translation": "그들이 나를 죽일 것이다",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because of my wife.",
+      "korean_translation": "내 아내 때문에.",
+      "word_indices": [
+        68
+      ]
+    }
+  ]
+}

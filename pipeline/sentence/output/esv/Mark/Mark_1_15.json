@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Mark 1:15",
+  "version": "ESV",
+  "original_text": "and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”",
+  "korean_text": "이르시되 때가 찼고 하나님의 나라가 가까이 왔으니 회개하고 복음을 믿으라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and saying,",
+      "korean_translation": "그리고 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“The time is fulfilled,",
+      "korean_translation": "때가 차서,",
+      "word_indices": [
+        904
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the kingdom of God is at hand;",
+      "korean_translation": "하나님의 나라가 가까왔으니,",
+      "word_indices": [
+        1,
+        10,
+        101
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "repent",
+      "korean_translation": "회개하고,",
+      "word_indices": [
+        855
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and believe in the gospel.”",
+      "korean_translation": "복음을 믿으라.”",
+      "word_indices": [
+        190,
+        478
+      ]
+    }
+  ]
+}

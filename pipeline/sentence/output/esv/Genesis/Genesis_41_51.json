@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Genesis 41:51",
+  "version": "ESV",
+  "original_text": "Joseph called the name of the firstborn Manasseh. “For,” he said, “God has made me forget all my hardship and all my father's house.”",
+  "korean_text": "요셉이 그의 장남의 이름을 므낫세라 하였으니 하나님이 내게 내 모든 고난과 내 아버지의 온 집 일을 잊어버리게 하셨다 함이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph called the name of the firstborn Manasseh",
+      "korean_translation": "요셉이 첫째 아들의 이름을 므낫세라고 불렀다",
+      "word_indices": [
+        20,
+        31,
+        349
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For",
+      "korean_translation": "이는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he said",
+      "korean_translation": "그가 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God has made me forget",
+      "korean_translation": "하나님이 나로 잊게 하셨다",
+      "word_indices": [
+        1,
+        418
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "all my hardship",
+      "korean_translation": "나의 모든 고난을",
+      "word_indices": [
+        2348
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and all my father's house",
+      "korean_translation": "그리고 내 아버지의 집 모든 것을",
+      "word_indices": [
+        7,
+        9
+      ]
+    }
+  ]
+}

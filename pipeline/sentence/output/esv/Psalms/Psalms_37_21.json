@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 37:21",
+  "version": "ESV",
+  "original_text": "The wicked borrows but does not pay back,\n    but the righteous is generous and gives;",
+  "korean_text": "악인은 꾸고 갚지 아니하나 의인은 은혜를 베풀고 주는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wicked borrows",
+      "korean_translation": "악인은 빌리고",
+      "word_indices": [
+        2239,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but does not pay back",
+      "korean_translation": "갚지 아니하되",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the righteous is generous",
+      "korean_translation": "의인은 베풀고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and gives",
+      "korean_translation": "주느니라",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

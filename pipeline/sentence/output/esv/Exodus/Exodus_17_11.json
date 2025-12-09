@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 17:11",
+  "version": "ESV",
+  "original_text": "Whenever Moses held up his hand, Israel prevailed, and whenever he lowered his hand, Amalek prevailed.",
+  "korean_text": "모세가 손을 들면 이스라엘이 이기고 손을 내리면 아말렉이 이기더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whenever Moses held up his hand",
+      "korean_translation": "모세가 손을 들 때마다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Israel prevailed",
+      "korean_translation": "이스라엘이 이겼습니다",
+      "word_indices": [
+        907
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and whenever he lowered his hand",
+      "korean_translation": "그리고 그가 손을 내릴 때마다",
+      "word_indices": [
+        10,
+        1149
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Amalek prevailed",
+      "korean_translation": "아말렉이 이겼습니다",
+      "word_indices": [
+        907
+      ]
+    }
+  ]
+}

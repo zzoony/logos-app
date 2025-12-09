@@ -1,0 +1,56 @@
+{
+  "verse_reference": "1 Kings 2:36",
+  "version": "ESV",
+  "original_text": "Then the king sent and summoned Shimei and said to him, “Build yourself a house in Jerusalem and dwell there, and do not go out from there to any place whatever.",
+  "korean_text": "왕이 사람을 보내어 시므이를 불러서 이르되 너는 예루살렘에서 너를 위하여 집을 짓고 거기서 살고 어디든지 나가지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the king sent",
+      "korean_translation": "그때 왕이 보내어",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and summoned Shimei",
+      "korean_translation": "시므이를 불렀습니다",
+      "word_indices": [
+        726
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said to him,",
+      "korean_translation": "그에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Build yourself a house in Jerusalem",
+      "korean_translation": "예루살렘에 집을 지으라",
+      "word_indices": [
+        7,
+        87
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and dwell there,",
+      "korean_translation": "거기에 거하며,",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and do not go out from there to any place whatever.",
+      "korean_translation": "거기서 어디든지 밖으로 나가지 말라.",
+      "word_indices": [
+        21,
+        298
+      ]
+    }
+  ]
+}

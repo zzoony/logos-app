@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Kings 4:19",
+  "version": "ESV",
+  "original_text": "And he said to his father, “Oh, my head, my head!” The father said to his servant, “Carry him to his mother.”",
+  "korean_text": "그의 아버지에게 이르되 내 머리야 내 머리야 하는지라 그의 아버지가 사환에게 말하여 그의 어머니에게로 데려가라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said to his father",
+      "korean_translation": "그가 그의 아버지에게 말하기를",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Oh, my head, my head!”",
+      "korean_translation": "아, 내 머리야, 내 머리야!",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The father said to his servant",
+      "korean_translation": "그 아버지가 종에게 말하기를",
+      "word_indices": [
+        9,
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Carry him to his mother.”",
+      "korean_translation": "그를 그 어머니에게로 데려가라.",
+      "word_indices": [
+        128,
+        152
+      ]
+    }
+  ]
+}

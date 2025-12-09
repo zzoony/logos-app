@@ -1,0 +1,57 @@
+{
+  "verse_reference": "2 Kings 9:34",
+  "version": "ESV",
+  "original_text": "Then he went in and ate and drank. And he said, “See now to this cursed woman and bury her, for she is a king's daughter.”",
+  "korean_text": "예후가 들어가서 먹고 마시고 이르되 가서 이 저주 받은 여자를 찾아 장사하라 그는 왕의 딸이니라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he went in",
+      "korean_translation": "그가 안으로 들어가니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ate",
+      "korean_translation": "먹고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and drank.",
+      "korean_translation": "마셨다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And he said,",
+      "korean_translation": "그가 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“See now to this cursed woman",
+      "korean_translation": "‘이 저주받은 여자를 처리하여",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and bury her,",
+      "korean_translation": "그녀를 장사 지내라.",
+      "word_indices": [
+        322
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "for she is a king's daughter.”",
+      "korean_translation": "이는 그가 왕의 딸이기 때문이라.’",
+      "word_indices": [
+        4,
+        58
+      ]
+    }
+  ]
+}

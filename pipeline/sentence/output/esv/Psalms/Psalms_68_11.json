@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 68:11",
+  "version": "ESV",
+  "original_text": "The Lord gives the word;\n    the women who announce the news are a great host:",
+  "korean_text": "주께서 말씀을 주시니 소식을 공포하는 여자들은 큰 무리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord gives the word;",
+      "korean_translation": "주님께서 말씀을 주시고",
+      "word_indices": [
+        5,
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the women who announce the news",
+      "korean_translation": "소식을 전파하는 여인들은",
+      "word_indices": [
+        1878
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are a great host:",
+      "korean_translation": "큰 무리입니다",
+      "word_indices": [
+        30,
+        113
+      ]
+    }
+  ]
+}

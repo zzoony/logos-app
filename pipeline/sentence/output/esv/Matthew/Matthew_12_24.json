@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Matthew 12:24",
+  "version": "ESV",
+  "original_text": "But when the Pharisees heard it, they said, “It is only by Beelzebul, the prince of demons, that this man casts out demons.”",
+  "korean_text": "바리새인들은 듣고 이르되 이가 귀신의 왕 바알세불을 힘입지 않고는 귀신을 쫓아내지 못하느니라 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when the Pharisees heard it,",
+      "korean_translation": "그러나 바리새인들이 그 말을 듣고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they said,",
+      "korean_translation": "그들이 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“It is only by Beelzebul,",
+      "korean_translation": "오직 바알세불에 의해서만,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the prince of demons,",
+      "korean_translation": "귀신의 왕,",
+      "word_indices": [
+        243,
+        583
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that this man casts out demons.”",
+      "korean_translation": "이 사람이 귀신을 쫓아내는 것이다.”",
+      "word_indices": [
+        6,
+        166,
+        583
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 3:17",
+  "version": "ESV",
+  "original_text": "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.",
+  "korean_text": "하나님이 그 아들을 세상에 보내신 것은 세상을 심판하려 하심이 아니요 그로 말미암아 세상이 구원을 받게 하려 하심이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For God did not send his Son into the world",
+      "korean_translation": "하나님께서 그 아��을 세상에 보내심은",
+      "word_indices": [
+        1,
+        2,
+        24,
+        183
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to condemn the world",
+      "korean_translation": "세상을 정죄하려 함이 아니라",
+      "word_indices": [
+        183,
+        780
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but in order that the world might be saved",
+      "korean_translation": "세상이 구원받게 하려는 것입니다",
+      "word_indices": [
+        183,
+        253
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "through him",
+      "korean_translation": "그것은 그를 통해서입니다",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

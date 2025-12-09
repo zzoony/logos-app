@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 139:10",
+  "version": "ESV",
+  "original_text": "even there your hand shall lead me,\n    and your right hand shall hold me.",
+  "korean_text": "거기서도 주의 손이 나를 인도하시며 주의 오른손이 나를 붙드시리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "even there your hand shall lead me",
+      "korean_translation": "거기서도 주의 손이 나를 인도하리라",
+      "word_indices": [
+        10,
+        195
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and your right hand shall hold me",
+      "korean_translation": "주의 오른손이 나를 붙드시리라",
+      "word_indices": [
+        10,
+        88,
+        184
+      ]
+    }
+  ]
+}

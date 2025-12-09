@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 23:8",
+  "version": "ESV",
+  "original_text": "And you shall take no bribe, for a bribe blinds the clear-sighted and subverts the cause of those who are in the right.",
+  "korean_text": "너는 뇌물을 받지 말라 뇌물은 밝은 자의 눈을 어둡게 하고 의로운 자의 말을 굽게 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And you shall take no bribe",
+      "korean_translation": "너는 뇌물을 받지 말라",
+      "word_indices": [
+        1228
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for a bribe blinds the clear-sighted",
+      "korean_translation": "뇌물은 명철한 자의 눈을 멀게 하니",
+      "word_indices": [
+        148,
+        519,
+        1000,
+        1228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and subverts the cause of those who are in the right",
+      "korean_translation": "의로운 자의 사건을 뒤엎느니라",
+      "word_indices": [
+        88,
+        272,
+        3513
+      ]
+    }
+  ]
+}

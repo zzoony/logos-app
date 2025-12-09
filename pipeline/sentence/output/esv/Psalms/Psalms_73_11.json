@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 73:11",
+  "version": "ESV",
+  "original_text": "And they say, “How can God know?\n    Is there knowledge in the Most High?”",
+  "korean_text": "말하기를 하나님이 어찌 알랴 지존자에게 지식이 있으랴 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they say,",
+      "korean_translation": "그들이 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How can God know?",
+      "korean_translation": "하나님이 어떻게 알 수 있겠는가?",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Is there knowledge in the Most High?”",
+      "korean_translation": "지존하신 이에게 지식이 있겠는가?",
+      "word_indices": [
+        107,
+        300
+      ]
+    }
+  ]
+}

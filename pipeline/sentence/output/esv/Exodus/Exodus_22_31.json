@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 22:31",
+  "version": "ESV",
+  "original_text": "“You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs.",
+  "korean_text": "너희는 내게 거룩한 사람이 될지니 들에서 짐승에게 찢긴 동물의 고기를 먹지 말고 그것을 개에게 던질지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall be consecrated to me.",
+      "korean_translation": "너희는 나에게 성별되어야 한다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Therefore you shall not eat any flesh",
+      "korean_translation": "그러므로 너희는 어떤 고기도 먹어서는 안 된다.",
+      "word_indices": [
+        32,
+        136
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is torn by beasts in the field",
+      "korean_translation": "들에서 짐승에게 찢겨진",
+      "word_indices": [
+        133,
+        185
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you shall throw it to the dogs.",
+      "korean_translation": "너희는 그것을 개들에게 던져라.",
+      "word_indices": [
+        250,
+        947
+      ]
+    }
+  ]
+}

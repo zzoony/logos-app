@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Isaiah 29:1",
+  "version": "ESV",
+  "original_text": "Ah, Ariel, Ariel,\n    the city where David encamped!\nAdd year to year;\n    let the feasts run their round.",
+  "korean_text": "슬프다 아리엘이여 아리엘이여 다윗이 진 친 성읍이여 해마다 절기가 돌아오려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ah, Ariel, Ariel,",
+      "korean_translation": "아, 아리엘, 아리엘,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the city where David encamped!",
+      "korean_translation": "다윗이 진을 치던 도시여!",
+      "word_indices": [
+        16,
+        756
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Add year to year;",
+      "korean_translation": "해를 더하여 해를 이으라;",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "let the feasts run their round.",
+      "korean_translation": "절기가 순환하게 하라.",
+      "word_indices": [
+        308,
+        2046
+      ]
+    }
+  ]
+}

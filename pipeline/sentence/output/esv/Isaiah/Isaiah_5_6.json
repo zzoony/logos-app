@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 5:6",
+  "version": "ESV",
+  "original_text": "I will make it a waste;\n    it shall not be pruned or hoed,\n    and briers and thorns shall grow up;\nI will also command the clouds\n    that they rain no rain upon it.",
+  "korean_text": "내가 그것을 황폐하게 하리니 다시는 가지를 자름이나 북을 돋우지 못하여 찔레와 가시가 날 것이며 내가 또 구름에게 명하여 그 위에 비를 내리지 못하게 하리라 하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will make it a waste",
+      "korean_translation": "나는 그것을 황무지로 만들 것이다",
+      "word_indices": [
+        383
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it shall not be pruned or hoed",
+      "korean_translation": "그것은 가지치기되거나 김을 맬 수 없을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and briers and thorns shall grow up",
+      "korean_translation": "그리고 가시와 덩굴이 자라날 것이다",
+      "word_indices": [
+        283,
+        804,
+        1801
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will also command the clouds",
+      "korean_translation": "나는 또한 구름에게 명령할 것이다",
+      "word_indices": [
+        23,
+        51,
+        307
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that they rain no rain upon it",
+      "korean_translation": "그들이 그것 위에 비를 내리지 않도록",
+      "word_indices": [
+        413
+      ]
+    }
+  ]
+}

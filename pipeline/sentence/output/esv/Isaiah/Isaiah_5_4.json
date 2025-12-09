@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 5:4",
+  "version": "ESV",
+  "original_text": "What more was there to do for my vineyard,\n    that I have not done in it?\nWhen I looked for it to yield grapes,\n    why did it yield wild grapes?",
+  "korean_text": "내가 내 포도원을 위하여 행한 것 외에 무엇을 더할 것이 있으랴 내가 좋은 포도 맺기를 기다렸거늘 들포도를 맺음은 어찌 됨인고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What more was there to do for my vineyard",
+      "korean_translation": "내 포도원을 위해 더 무엇을 할 수 있었을까",
+      "word_indices": [
+        417
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I have not done in it?",
+      "korean_translation": "내가 그 안에서 하지 않은 일이 무엇이었을까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When I looked for it to yield grapes",
+      "korean_translation": "내가 그것이 포도를 맺기를 기대했을 때",
+      "word_indices": [
+        91,
+        741
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "why did it yield wild grapes?",
+      "korean_translation": "어째서 그것은 들포도를 맺었는가?",
+      "word_indices": [
+        692,
+        741
+      ]
+    }
+  ]
+}

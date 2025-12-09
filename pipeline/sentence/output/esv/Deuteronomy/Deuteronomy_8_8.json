@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Deuteronomy 8:8",
+  "version": "ESV",
+  "original_text": "a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive trees and honey,",
+  "korean_text": "밀과 보리의 소산지요 포도와 무화과와 석류와 감람나무와 꿀의 소산지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a land of wheat and barley",
+      "korean_translation": "밀과 보리가 나는 땅",
+      "word_indices": [
+        8,
+        870,
+        1038
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of vines and fig trees and pomegranates",
+      "korean_translation": "포도나무와 무화과나무와 석류가 있는 땅",
+      "word_indices": [
+        651
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a land of olive trees and honey",
+      "korean_translation": "올리브나무와 꿀이 있는 땅",
+      "word_indices": [
+        8,
+        750,
+        755
+      ]
+    }
+  ]
+}

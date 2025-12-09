@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Ecclesiastes 12:6",
+  "version": "ESV",
+  "original_text": "before the silver cord is snapped, or the golden bowl is broken, or the pitcher is shattered at the fountain, or the wheel broken at the cistern,",
+  "korean_text": "은 줄이 풀리고 금 그릇이 깨지고 항아리가 샘 곁에서 깨지고 바퀴가 우물 위에서 깨지고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "before the silver cord is snapped",
+      "korean_translation": "은줄이 끊어지기 전에",
+      "word_indices": [
+        135,
+        836
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or the golden bowl is broken",
+      "korean_translation": "또는 금 그릇이 깨지기 전에",
+      "word_indices": [
+        589,
+        885
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or the pitcher is shattered at the fountain",
+      "korean_translation": "또는 샘에서 물동이가 깨지기 전에",
+      "word_indices": [
+        1168,
+        1349,
+        4325
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or the wheel broken at the cistern",
+      "korean_translation": "또는 물통에서 수레바퀴가 부서지기 전에",
+      "word_indices": [
+        927,
+        1322
+      ]
+    }
+  ]
+}

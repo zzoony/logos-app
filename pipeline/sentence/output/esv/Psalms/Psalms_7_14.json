@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 7:14",
+  "version": "ESV",
+  "original_text": "Behold, the wicked man conceives evil\n    and is pregnant with mischief\n    and gives birth to lies.",
+  "korean_text": "악인이 죄악을 낳음이여 재앙을 배어 거짓을 낳았도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold,",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the wicked man conceives evil",
+      "korean_translation": "악인은 악을 품고",
+      "word_indices": [
+        6,
+        63,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is pregnant with mischief",
+      "korean_translation": "재앙을 잉태하며",
+      "word_indices": [
+        1447,
+        2595
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and gives birth to lies.",
+      "korean_translation": "거짓을 낳는다",
+      "word_indices": [
+        5,
+        619
+      ]
+    }
+  ]
+}

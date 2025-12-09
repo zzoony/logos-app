@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 7:7",
+  "version": "ESV",
+  "original_text": "The world cannot hate you, but it hates me because I testify about it that its works are evil.",
+  "korean_text": "세상이 너희를 미워하지 아니하되 나를 미워하나니 이는 내가 세상의 일들을 악하다고 증언함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The world cannot hate you",
+      "korean_translation": "세상은 너희를 미워할 수 없다",
+      "word_indices": [
+        183,
+        215,
+        375
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but it hates me",
+      "korean_translation": "하지만 그것은 나를 미워한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because I testify about it",
+      "korean_translation": "내가 그것에 대해 증언하기 때문이다",
+      "word_indices": [
+        824
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that its works are evil",
+      "korean_translation": "그것의 행위들이 악하다는 것을",
+      "word_indices": [
+        52,
+        63
+      ]
+    }
+  ]
+}

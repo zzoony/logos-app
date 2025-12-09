@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 12:43",
+  "version": "ESV",
+  "original_text": "for they loved the glory that comes from man more than the glory that comes from God.",
+  "korean_text": "그들은 사람의 영광을 하나님의 영광보다 더 사랑하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for they loved",
+      "korean_translation": "그들은 사랑했으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the glory that comes from man",
+      "korean_translation": "사람에게서 오는 영광을",
+      "word_indices": [
+        6,
+        112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "more than",
+      "korean_translation": "...보다 더",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the glory that comes from God.",
+      "korean_translation": "하나님께로부터 오는 영광",
+      "word_indices": [
+        1,
+        112
+      ]
+    }
+  ]
+}

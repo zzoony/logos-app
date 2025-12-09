@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 115:4",
+  "version": "ESV",
+  "original_text": "Their idols are silver and gold,\n    the work of human hands.",
+  "korean_text": "그들의 우상들은 은과 금이요 사람이 손으로 만든 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Their idols are silver and gold",
+      "korean_translation": "그들의 우상은 은과 금입니다",
+      "word_indices": [
+        89,
+        135,
+        355
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the work of human hands",
+      "korean_translation": "사람의 손으로 만든 것입니다",
+      "word_indices": [
+        10,
+        52,
+        695
+      ]
+    }
+  ]
+}

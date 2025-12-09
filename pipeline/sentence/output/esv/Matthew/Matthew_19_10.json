@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 19:10",
+  "version": "ESV",
+  "original_text": "The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.”",
+  "korean_text": "제자들이 이르되 만일 사람이 아내에게 이같이 할진대 장가 들지 않는 것이 좋겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The disciples said to him,",
+      "korean_translation": "제자들이 그에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If such is the case of a man with his wife,",
+      "korean_translation": "만일 남편과 아내의 관계가 그렇다면,",
+      "word_indices": [
+        6,
+        68,
+        669
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it is better not to marry.”",
+      "korean_translation": "결혼하지 않는 것이 더 낫습니다.”",
+      "word_indices": [
+        393,
+        603
+      ]
+    }
+  ]
+}

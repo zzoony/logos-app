@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Jeremiah 18:14",
+  "version": "ESV",
+  "original_text": "Does the snow of Lebanon leave\n    the crags of Sirion?\nDo the mountain waters run dry,\n    the cold flowing streams?",
+  "korean_text": "레바논의 눈이 어찌 들의 바위를 떠나겠으며 먼 곳에서 흘러내리는 찬물이 어찌 마르겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Does the snow of Lebanon leave",
+      "korean_translation": "레바논의 눈이 떠나갑니까",
+      "word_indices": [
+        65,
+        1314
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the crags of Sirion?",
+      "korean_translation": "시리온의 바위에서요?",
+      "word_indices": [
+        2520
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do the mountain waters run dry,",
+      "korean_translation": "산물이 마릅니까",
+      "word_indices": [
+        42,
+        123,
+        308,
+        425
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the cold flowing streams?",
+      "korean_translation": "차가운 흐르는 시내들이요?",
+      "word_indices": [
+        596,
+        821,
+        1487
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 20:18",
+  "version": "ESV",
+  "original_text": "Then Jonathan said to him, “Tomorrow is the new moon, and you will be missed, because your seat will be empty.",
+  "korean_text": "요나단이 다윗에게 이르되 내일은 초하루인즉 네 자리가 비므로 네가 없음을 자세히 물으실 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jonathan said to him,",
+      "korean_translation": "그때 요나단이 그에게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tomorrow is the new moon,",
+      "korean_translation": "내일은 월삭(초하룻날)이고,",
+      "word_indices": [
+        646,
+        779
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you will be missed,",
+      "korean_translation": "당신은 보이지 않을 것이므로,",
+      "word_indices": [
+        1508
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because your seat will be empty.",
+      "korean_translation": "당신의 자리가 비어 있을 것이기 때문입니다.",
+      "word_indices": [
+        451,
+        655
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Isaiah 5:20",
+  "version": "ESV",
+  "original_text": "Woe to those who call evil good\n    and good evil,\nwho put darkness for light\n    and light for darkness,\nwho put bitter for sweet\n    and sweet for bitter!",
+  "korean_text": "악을 선하다 하며 선을 악하다 하며 흑암으로 광명을 삼으며 광명으로 흑암을 삼으며 쓴 것으로 단 것을 삼으며 단 것으로 쓴 것을 삼는 자들은 화 있을진저",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to those",
+      "korean_translation": "그 사람들에게 화가 있을진저",
+      "word_indices": [
+        485
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who call evil good",
+      "korean_translation": "악한 것을 선하다 하고",
+      "word_indices": [
+        31,
+        37,
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and good evil",
+      "korean_translation": "선한 것을 악하다 하니",
+      "word_indices": [
+        37,
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who put darkness for light",
+      "korean_translation": "어두움을 빛 대신 두고",
+      "word_indices": [
+        177
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and light for darkness",
+      "korean_translation": "빛을 어두움 대신 두니",
+      "word_indices": [
+        177
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who put bitter for sweet",
+      "korean_translation": "쓴 것을 달다 하고",
+      "word_indices": [
+        869,
+        989
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and sweet for bitter!",
+      "korean_translation": "단 것을 쓰다 하니라!",
+      "word_indices": [
+        869,
+        989
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 17:44",
+  "version": "ESV",
+  "original_text": "The Philistine said to David, “Come to me, and I will give your flesh to the birds of the air and to the beasts of the field.”",
+  "korean_text": "그 블레셋 사람이 또 다윗에게 이르되 내게로 오라 내가 네 살을 공중의 새들과 들짐승들에게 주리라 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Philistine said to David,",
+      "korean_translation": "블레셋 사람이 다윗에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Come to me,",
+      "korean_translation": "내게로 오너라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will give your flesh to the birds of the air",
+      "korean_translation": "내가 네 살을 공중의 새들에게 주겠고",
+      "word_indices": [
+        5,
+        136,
+        356,
+        1037
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to the beasts of the field.”",
+      "korean_translation": "들짐승들에게도 주리라.”",
+      "word_indices": [
+        133,
+        185
+      ]
+    }
+  ]
+}

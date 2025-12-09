@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 49:27",
+  "version": "ESV",
+  "original_text": "“Benjamin is a ravenous wolf,\n    in the morning devouring the prey\n    and at evening dividing the spoil.”",
+  "korean_text": "베냐민은 물어뜯는 이리라 아침에는 빼앗은 것을 먹고 저녁에는 움킨 것을 나누리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Benjamin is a ravenous wolf,",
+      "korean_translation": "베냐민은 사나운 이리라",
+      "word_indices": [
+        1836
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the morning devouring the prey",
+      "korean_translation": "아침에는 먹이를 움키고",
+      "word_indices": [
+        371,
+        807
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and at evening dividing the spoil.",
+      "korean_translation": "저녁에는 노략물을 나누리라",
+      "word_indices": [
+        535
+      ]
+    }
+  ]
+}

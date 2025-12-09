@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Isaiah 60:8",
+  "version": "ESV",
+  "original_text": "Who are these that fly like a cloud,\n    and like doves to their windows?",
+  "korean_text": "저 구름 같이, 비둘기들이 그 보금자리로 날아가는 것 같이 날아오는 자들이 누구냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who are these",
+      "korean_translation": "이들은 누구입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that fly like a cloud,",
+      "korean_translation": "구름과 같이 나는",
+      "word_indices": [
+        14,
+        307,
+        933
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and like doves to their windows?",
+      "korean_translation": "그리고 비둘기처럼 자기 창문으로 날아가는가?",
+      "word_indices": [
+        14,
+        844
+      ]
+    }
+  ]
+}

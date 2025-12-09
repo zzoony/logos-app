@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 6:9",
+  "version": "ESV",
+  "original_text": "“There is a boy here who has five barley loaves and two fish, but what are they for so many?”",
+  "korean_text": "여기 한 아이가 있어 보리떡 다섯 개와 물고기 두 마리를 가지고 있나이다 그러나 그것이 이 많은 사람에게 얼마나 되겠사옵나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is a boy here",
+      "korean_translation": "여기 한 소년이 있나이다",
+      "word_indices": [
+        747
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who has five barley loaves and two fish",
+      "korean_translation": "그에게 보리떡 다섯 개와 물고기 두 마리가 있나이다",
+      "word_indices": [
+        201,
+        681,
+        1038
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but what are they for so many?",
+      "korean_translation": "그것들이 이렇게 많은 사람에게 어찌 족하겠나이까?",
+      "word_indices": []
+    }
+  ]
+}

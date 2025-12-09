@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 78:13",
+  "version": "ESV",
+  "original_text": "He divided the sea and let them pass through it,\n    and made the waters stand like a heap.",
+  "korean_text": "그가 바다를 갈라 물을 무더기 같이 서게 하시고 그들을 지나가게 하셨으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He divided the sea",
+      "korean_translation": "그가 바다를 가르셨다",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and let them pass through it",
+      "korean_translation": "그리고 그들이 그것을 지나가게 하셨다",
+      "word_indices": [
+        60,
+        231
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and made the waters stand like a heap.",
+      "korean_translation": "그리고 물을 더미처럼 서게 하셨다",
+      "word_indices": [
+        14,
+        38,
+        42,
+        685
+      ]
+    }
+  ]
+}

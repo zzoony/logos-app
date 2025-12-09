@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 35:3",
+  "version": "ESV",
+  "original_text": "Draw the spear and javelin\n    against my pursuers!\nSay to my soul,\n    “I am your salvation!”",
+  "korean_text": "창을 빼사 나를 쫓는 자의 길을 막으시고 또 내 영혼에게 나는 네 구원이라 이르소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Draw the spear and javelin",
+      "korean_translation": "창과 단창을 뽑아라",
+      "word_indices": [
+        220,
+        670,
+        2060
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "against my pursuers!",
+      "korean_translation": "나를 쫓는 자들을 향하여!",
+      "word_indices": [
+        12,
+        1797
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Say to my soul",
+      "korean_translation": "내 영혼에게 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“I am your salvation!”",
+      "korean_translation": "“내가 너의 구원이라!”",
+      "word_indices": [
+        281
+      ]
+    }
+  ]
+}

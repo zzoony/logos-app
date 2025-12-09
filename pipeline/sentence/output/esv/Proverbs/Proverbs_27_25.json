@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Proverbs 27:25",
+  "version": "ESV",
+  "original_text": "When the grass is gone and the new growth appears\n    and the vegetation of the mountains is gathered,",
+  "korean_text": "풀을 벤 후에는 새로 움이 돋나니 산에서 꼴을 거둘 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the grass is gone",
+      "korean_translation": "풀이 없어질 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the new growth appears",
+      "korean_translation": "새싹이 돋아날 때",
+      "word_indices": [
+        2600
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the vegetation of the mountains is gathered",
+      "korean_translation": "산의 풀들이 거두어질 때",
+      "word_indices": [
+        93,
+        123,
+        2330
+      ]
+    }
+  ]
+}

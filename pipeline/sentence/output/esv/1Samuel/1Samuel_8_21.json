@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 8:21",
+  "version": "ESV",
+  "original_text": "And when Samuel had heard all the words of the people, he repeated them in the ears of the Lord.",
+  "korean_text": "사무엘이 백성의 말을 다 듣고 여호와께 아뢰매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when Samuel had heard",
+      "korean_translation": "그리고 사무엘이 들었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the words of the people",
+      "korean_translation": "백성의 모든 말을",
+      "word_indices": [
+        3,
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he repeated them",
+      "korean_translation": "그는 그것을 반복해서 말했다",
+      "word_indices": [
+        2406
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the ears of the Lord",
+      "korean_translation": "주님의 귀에",
+      "word_indices": [
+        202
+      ]
+    }
+  ]
+}

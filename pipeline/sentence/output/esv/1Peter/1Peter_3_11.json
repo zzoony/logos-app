@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Peter 3:11",
+  "version": "ESV",
+  "original_text": "let him turn away from evil and do good;\n    let him seek peace and pursue it.",
+  "korean_text": "악에서 떠나 선을 행하고 화평을 구하며 그것을 따르라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "let him turn away from evil",
+      "korean_translation": "악에서 돌이키고",
+      "word_indices": [
+        29,
+        45,
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do good",
+      "korean_translation": "선을 행하라",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let him seek peace",
+      "korean_translation": "평화를 추구하고",
+      "word_indices": [
+        82,
+        105
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "pursue it",
+      "korean_translation": "그것을 좇으라",
+      "word_indices": [
+        436
+      ]
+    }
+  ]
+}

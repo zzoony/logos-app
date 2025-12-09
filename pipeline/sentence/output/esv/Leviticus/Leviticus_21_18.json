@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Leviticus 21:18",
+  "version": "ESV",
+  "original_text": "For no one who has a blemish shall draw near, a man blind or lame, or one who has a mutilated face or a limb too long,",
+  "korean_text": "누구든지 흠이 있는 자는 가까이 하지 못할지니 곧 맹인이나 다리 저는 자나 코가 불완전한 자나 지체가 더한 자나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For no one who has a blemish shall draw near",
+      "korean_translation": "흠이 있는 사람은 가까이 오지 못하리니",
+      "word_indices": [
+        220,
+        620
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a man blind or lame",
+      "korean_translation": "소경이나 절뚝발이",
+      "word_indices": [
+        6,
+        519,
+        1144
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or one who has a mutilated face",
+      "korean_translation": "얼굴에 상처가 있는 자",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or a limb too long",
+      "korean_translation": "팔다리가 너무 긴 자",
+      "word_indices": [
+        127,
+        2048
+      ]
+    }
+  ]
+}

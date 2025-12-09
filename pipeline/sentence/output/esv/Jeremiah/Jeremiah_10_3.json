@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Jeremiah 10:3",
+  "version": "ESV",
+  "original_text": "for the customs of the peoples are vanity.\nA tree from the forest is cut down\n    and worked with an axe by the hands of a craftsman.",
+  "korean_text": "여러 나라의 풍습은 헛된 것이니 삼림에서 벤 나무요 기술공의 두 손이 도끼로 만든 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for the customs of the peoples are vanity.",
+      "korean_translation": "이는 민족들의 풍속이 헛되기 때문이라.",
+      "word_indices": [
+        1031,
+        1142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A tree from the forest is cut down",
+      "korean_translation": "숲에서 나무가 베어지고",
+      "word_indices": [
+        124,
+        143,
+        772
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and worked with an axe",
+      "korean_translation": "도끼로 다듬어지며",
+      "word_indices": [
+        52,
+        2055
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by the hands of a craftsman.",
+      "korean_translation": "장인의 손으로 만들어진다.",
+      "word_indices": [
+        10,
+        1212
+      ]
+    }
+  ]
+}

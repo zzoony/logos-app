@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 9:29",
+  "version": "ESV",
+  "original_text": "We know that God has spoken to Moses, but as for this man, we do not know where he comes from.”",
+  "korean_text": "하나님이 모세에게는 말씀하신 줄을 우리가 알거니와 이 사람은 어디서 왔는지 알지 못하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We know that God has spoken to Moses",
+      "korean_translation": "우리는 하나님이 모세에게 말씀하셨다는 것을 압니다.",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but as for this man,",
+      "korean_translation": "하지만 이 사람은,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we do not know where he comes from.”",
+      "korean_translation": "우리는 그가 어디서 왔는지 알지 못합니다.”",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

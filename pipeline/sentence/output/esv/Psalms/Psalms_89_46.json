@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 89:46",
+  "version": "ESV",
+  "original_text": "How long, O Lord? Will you hide yourself forever?\n    How long will your wrath burn like fire?",
+  "korean_text": "여호와여 언제까지니이까 스스로 영원히 숨기시리이까 주의 노가 언제까지 불붙듯 하시겠나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How long, O Lord?",
+      "korean_translation": "오 주여, 언제까지니이까?",
+      "word_indices": [
+        127
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Will you hide yourself forever?",
+      "korean_translation": "주께서 영원히 자신을 숨기시겠나이까?",
+      "word_indices": [
+        96,
+        211
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How long will your wrath burn like fire?",
+      "korean_translation": "주의 진노가 불처럼 타오를 것이 언제까지니이까?",
+      "word_indices": [
+        14,
+        48,
+        72,
+        127,
+        226
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 9:10",
+  "version": "ESV",
+  "original_text": "At the end of twenty years, in which Solomon had built the two houses, the house of the Lord and the king's house,",
+  "korean_text": "솔로몬이 두 집 곧 여호와의 성전과 왕궁을 이십 년 만에 건축하기를 마치고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At the end of twenty years,",
+      "korean_translation": "스무 년이 끝날 때에,",
+      "word_indices": [
+        104,
+        234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in which Solomon had built the two houses,",
+      "korean_translation": "그 기간 동안 솔로몬이 두 집을 건축하였으니,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the house of the Lord",
+      "korean_translation": "곧 여호와의 집과",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the king's house,",
+      "korean_translation": "왕의 집이라",
+      "word_indices": [
+        4,
+        7
+      ]
+    }
+  ]
+}

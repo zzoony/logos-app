@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 17:1",
+  "version": "ESV",
+  "original_text": "An oracle concerning Damascus.\nBehold, Damascus will cease to be a city\n    and will become a heap of ruins.",
+  "korean_text": "다메섹에 관한 경고라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An oracle concerning Damascus.",
+      "korean_translation": "다메섹에 대한 경고.",
+      "word_indices": [
+        209,
+        1066
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Damascus will cease to be a city",
+      "korean_translation": "다메섹은 더 이상 도시가 되지 않을 것이며",
+      "word_indices": [
+        16,
+        562
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and will become a heap of ruins.",
+      "korean_translation": "폐허의 더미가 될 것이다.",
+      "word_indices": [
+        429,
+        685
+      ]
+    }
+  ]
+}

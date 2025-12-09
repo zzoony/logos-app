@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 81:3",
+  "version": "ESV",
+  "original_text": "Blow the trumpet at the new moon,\n    at the full moon, on our feast day.",
+  "korean_text": "초하루와 보름과 우리의 명절에 나팔을 불지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blow the trumpet at the new moon",
+      "korean_translation": "신월에 나팔을 불어라",
+      "word_indices": [
+        408,
+        646
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the full moon",
+      "korean_translation": "보름달에",
+      "word_indices": [
+        165,
+        646
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on our feast day",
+      "korean_translation": "우리의 절기에",
+      "word_indices": []
+    }
+  ]
+}

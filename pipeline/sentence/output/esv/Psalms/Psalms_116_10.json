@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 116:10",
+  "version": "ESV",
+  "original_text": "I believed, even when I spoke:\n    “I am greatly afflicted”;",
+  "korean_text": "내가 크게 고통을 당하였다고 말할 때에도 나는 믿었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I believed",
+      "korean_translation": "나는 믿었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even when I spoke",
+      "korean_translation": "내가 말할 때에도",
+      "word_indices": [
+        4112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am greatly afflicted",
+      "korean_translation": "나는 심히 고난을 받았다",
+      "word_indices": [
+        506,
+        547
+      ]
+    }
+  ]
+}

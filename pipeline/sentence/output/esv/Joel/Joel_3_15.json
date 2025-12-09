@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Joel 3:15",
+  "version": "ESV",
+  "original_text": "The sun and the moon are darkened,\n    and the stars withdraw their shining.",
+  "korean_text": "해와 달이 캄캄하며 별들이 그 빛을 거두도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun and the moon are darkened",
+      "korean_translation": "해와 달이 어두워지고",
+      "word_indices": [
+        321,
+        646,
+        1595
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the stars withdraw their shining.",
+      "korean_translation": "별들이 그 빛을 거둔다.",
+      "word_indices": [
+        641,
+        963,
+        1851
+      ]
+    }
+  ]
+}

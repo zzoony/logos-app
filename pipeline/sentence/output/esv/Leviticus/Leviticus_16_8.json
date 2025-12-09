@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Leviticus 16:8",
+  "version": "ESV",
+  "original_text": "And Aaron shall cast lots over the two goats, one lot for the Lord and the other lot for Azazel.",
+  "korean_text": "두 염소를 위하여 제비 뽑되 한 제비는 여호와를 위하고 한 제비는 아사셀을 위하여 할지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Aaron shall cast lots over the two goats",
+      "korean_translation": "아론은 두 염소에게 제비를 뽑을 것입니다",
+      "word_indices": [
+        166,
+        312,
+        390
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "one lot for the Lord",
+      "korean_translation": "한 제비는 주를 위한 것입니다",
+      "word_indices": [
+        390
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the other lot for Azazel",
+      "korean_translation": "그리고 다른 제비는 아사셀을 위한 것입니다",
+      "word_indices": [
+        390
+      ]
+    }
+  ]
+}

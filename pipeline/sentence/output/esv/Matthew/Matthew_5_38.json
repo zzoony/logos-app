@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Matthew 5:38",
+  "version": "ESV",
+  "original_text": "“You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’",
+  "korean_text": "또 눈은 눈으로, 이는 이로 갚으라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have heard that it was said,",
+      "korean_translation": "너희가 들었으니,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "‘An eye for an eye",
+      "korean_translation": "‘눈은 눈으로",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a tooth for a tooth.’",
+      "korean_translation": "그리고 이는 이로.’",
+      "word_indices": [
+        2031
+      ]
+    }
+  ]
+}

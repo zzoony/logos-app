@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 6:17",
+  "version": "ESV",
+  "original_text": "But when you fast, anoint your head and wash your face,",
+  "korean_text": "너는 금식할 때에 머리에 기름을 바르고 얼굴을 씻으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when you fast,",
+      "korean_translation": "하지만 너희가 금식할 때에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "anoint your head",
+      "korean_translation": "머리에 기름을 바르고",
+      "word_indices": [
+        62,
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and wash your face,",
+      "korean_translation": "얼굴을 씻으라",
+      "word_indices": [
+        69,
+        378
+      ]
+    }
+  ]
+}

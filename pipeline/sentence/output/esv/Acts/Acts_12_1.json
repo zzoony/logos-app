@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 12:1",
+  "version": "ESV",
+  "original_text": "About that time Herod the king laid violent hands on some who belonged to the church.",
+  "korean_text": "그 때에 헤롯 왕이 손을 들어 교회 중에서 몇 사람을 해하려 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "About that time",
+      "korean_translation": "그 때쯤에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Herod the king",
+      "korean_translation": "헤롯 왕은",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "laid violent hands on some",
+      "korean_translation": "몇 사람에게 폭력을 행사했다",
+      "word_indices": [
+        10,
+        1730
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who belonged to the church",
+      "korean_translation": "그들은 교회에 속한 사람들이었다",
+      "word_indices": [
+        296,
+        440
+      ]
+    }
+  ]
+}

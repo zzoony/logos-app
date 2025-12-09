@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 69:3",
+  "version": "ESV",
+  "original_text": "I am weary with my crying out;\n    my throat is parched.\nMy eyes grow dim\n    with waiting for my God.",
+  "korean_text": "내가 부르짖음으로 피곤하여 나의 목이 마르며 나의 하나님을 바라서 나의 눈이 쇠하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am weary with my crying out",
+      "korean_translation": "나는 부르짖음으로 지쳤습니다",
+      "word_indices": [
+        114,
+        760
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my throat is parched",
+      "korean_translation": "내 목은 마릅니다",
+      "word_indices": [
+        1556,
+        2594
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My eyes grow dim",
+      "korean_translation": "내 눈이 흐려집니다",
+      "word_indices": [
+        283,
+        2108
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with waiting for my God",
+      "korean_translation": "나의 하나님을 기다리므로",
+      "word_indices": [
+        1,
+        362
+      ]
+    }
+  ]
+}

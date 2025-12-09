@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Mark 15:33",
+  "version": "ESV",
+  "original_text": "And when the sixth hour had come, there was darkness over the whole land until the ninth hour.",
+  "korean_text": "제육시가 되매 온 땅에 어둠이 임하여 제구시까지 계속하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when the sixth hour had come,",
+      "korean_translation": "여섯 시가 되었을 때,",
+      "word_indices": [
+        467,
+        867
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was darkness over the whole land",
+      "korean_translation": "온 땅에 어둠이 덮였고",
+      "word_indices": [
+        8,
+        151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until the ninth hour.",
+      "korean_translation": "아홉 시까지 계속되었습니다.",
+      "word_indices": [
+        467,
+        1043
+      ]
+    }
+  ]
+}

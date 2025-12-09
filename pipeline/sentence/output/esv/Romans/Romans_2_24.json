@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Romans 2:24",
+  "version": "ESV",
+  "original_text": "For, as it is written, “The name of God is blasphemed among the Gentiles because of you.”",
+  "korean_text": "기록된 바와 같이 하나님의 이름이 너희 때문에 이방인 중에서 모독을 받는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For,",
+      "korean_translation": "이는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as it is written,",
+      "korean_translation": "기록된 바와 같이,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The name of God is blasphemed",
+      "korean_translation": "하나님의 이름이 모독을 받으니",
+      "word_indices": [
+        1,
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "among the Gentiles",
+      "korean_translation": "이방인 중에서",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because of you.",
+      "korean_translation": "너희 때문에.",
+      "word_indices": []
+    }
+  ]
+}

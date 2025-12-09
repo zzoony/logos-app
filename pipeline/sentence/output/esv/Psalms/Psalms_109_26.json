@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 109:26",
+  "version": "ESV",
+  "original_text": "Help me, O Lord my God!\n    Save me according to your steadfast love!",
+  "korean_text": "여호와 나의 하나님이여 나를 도우시며 주의 인자하심을 따라 나를 구원하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Help me",
+      "korean_translation": "나를 도우소서",
+      "word_indices": [
+        246
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord my God!",
+      "korean_translation": "오 주 나의 하나님이시여!",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Save me according to your steadfast love!",
+      "korean_translation": "주의 인자하심으로 나를 구원하소서",
+      "word_indices": [
+        35,
+        49,
+        145
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 John 4:8",
+  "version": "ESV",
+  "original_text": "Anyone who does not love does not know God, because God is love.",
+  "korean_text": "사랑하지 아니하는 자는 하나님을 알지 못하나니 이는 하나님은 사랑이심이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who does not love",
+      "korean_translation": "사랑하지 않는 사람은",
+      "word_indices": [
+        35,
+        181
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "does not know God",
+      "korean_translation": "하나님을 알지 못합니다",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because God is love",
+      "korean_translation": "하나님은 사랑이시기 때문입니다",
+      "word_indices": [
+        1,
+        35
+      ]
+    }
+  ]
+}

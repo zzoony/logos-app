@@ -1,0 +1,57 @@
+{
+  "verse_reference": "1 Samuel 20:25",
+  "version": "ESV",
+  "original_text": "The king sat on his seat, as at other times, on the seat by the wall. Jonathan sat opposite, and Abner sat by Saul's side, but David's place was empty.",
+  "korean_text": "왕은 평시와 같이 벽 곁 자기 자리에 앉아 있고 요나단은 서 있고 아브넬은 사울 곁에 앉아 있고 다윗의 자리는 비었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king sat on his seat",
+      "korean_translation": "왕은 그의 자리에 앉았다",
+      "word_indices": [
+        4,
+        451
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as at other times",
+      "korean_translation": "평소와 같이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the seat by the wall",
+      "korean_translation": "벽 옆 자리에",
+      "word_indices": [
+        191,
+        451
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jonathan sat opposite",
+      "korean_translation": "요나단은 맞은편에 앉았다",
+      "word_indices": [
+        623
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Abner sat by Saul's side",
+      "korean_translation": "아브너는 사울의 곁에 앉았다",
+      "word_indices": [
+        103
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "David's place was empty",
+      "korean_translation": "다윗의 자리는 비어 있었다",
+      "word_indices": [
+        21,
+        655
+      ]
+    }
+  ]
+}

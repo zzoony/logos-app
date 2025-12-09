@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Deuteronomy 4:2",
+  "version": "ESV",
+  "original_text": "You shall not add to the word that I command you, nor take from it, that you may keep the commandments of the Lord your God that I command you.",
+  "korean_text": "내가 너희에게 명령하는 말을 너희는 가감하지 말고 내가 너희에게 내리는 너희 하나님 여호와의 명령을 지키라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not add to the word that I command you",
+      "korean_translation": "내가 너에게 명하는 말에 더하지 말라",
+      "word_indices": [
+        15,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor take from it",
+      "korean_translation": "거기에서 빼지도 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you may keep the commandments of the Lord your God",
+      "korean_translation": "너희가 주 너의 하나님의 계명을 지키도록",
+      "word_indices": [
+        1,
+        46,
+        189
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I command you.",
+      "korean_translation": "내가 너희에게 명하는 것",
+      "word_indices": [
+        51
+      ]
+    }
+  ]
+}

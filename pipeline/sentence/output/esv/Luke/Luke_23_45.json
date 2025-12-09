@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Luke 23:45",
+  "version": "ESV",
+  "original_text": "while the sun's light failed. And the curtain of the temple was torn in two.",
+  "korean_text": "성소의 휘장이 한가운데가 찢어지더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "while the sun's light failed.",
+      "korean_translation": "햇빛이 사라졌을 때",
+      "word_indices": [
+        177,
+        321,
+        686
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And the curtain of the temple was torn in two.",
+      "korean_translation": "그리고 성전의 휘장이 둘로 찢어졌습니다",
+      "word_indices": [
+        170,
+        740
+      ]
+    }
+  ]
+}

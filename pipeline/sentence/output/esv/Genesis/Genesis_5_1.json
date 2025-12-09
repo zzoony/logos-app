@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 5:1",
+  "version": "ESV",
+  "original_text": "This is the book of the generations of Adam. When God created man, he made him in the likeness of God.",
+  "korean_text": "이것은 아담의 계보를 적은 책이니라 하나님이 사람을 창조하실 때에 하나님의 모양대로 지으시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the book of the generations of Adam.",
+      "korean_translation": "이것은 아담의 족보입니다.",
+      "word_indices": [
+        225,
+        292
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When God created man,",
+      "korean_translation": "하나님이 사람을 창조하셨을 때,",
+      "word_indices": [
+        1,
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he made him in the likeness of God.",
+      "korean_translation": "그를 하나님의 형상대로 만드셨습니다.",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

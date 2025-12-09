@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 51:12",
+  "version": "ESV",
+  "original_text": "“I, I am he who comforts you;\n    who are you that you are afraid of man who dies,\n    of the son of man who is made like grass,",
+  "korean_text": "이르시되 너희를 위로하는 자는 나 곧 나이니라 너는 어떠한 자이기에 죽을 사람을 두려워하며 풀 같이 될 사람의 아들을 두려워하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, I am he who comforts you;",
+      "korean_translation": "나는, 바로 내가 너를 위로하는 자라;",
+      "word_indices": [
+        523
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who are you",
+      "korean_translation": "네가 누구기에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you are afraid of man who dies,",
+      "korean_translation": "죽는 사람을 두려워하느냐,",
+      "word_indices": [
+        6,
+        286
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the son of man who is made like grass,\"",
+      "korean_translation": "풀과 같이 만들어진 인자를,\"",
+      "word_indices": [
+        2,
+        6,
+        14
+      ]
+    }
+  ]
+}

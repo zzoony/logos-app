@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Leviticus 19:23",
+  "version": "ESV",
+  "original_text": "“When you come into the land and plant any kind of tree for food, then you shall regard its fruit as forbidden. Three years it shall be forbidden to you; it must not be eaten.",
+  "korean_text": "너희가 그 땅에 들어가 각종 과목을 심거든 그 열매는 아직 할례 받지 못한 것으로 여기되 곧 삼 년 동안 너희는 그것을 할례 받지 못한 것으로 여겨 먹지 말 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you come into the land",
+      "korean_translation": "너희가 그 땅에 들어갈 때에",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and plant any kind of tree for food",
+      "korean_translation": "먹기 위해 어떤 종류의 나무를 심거든",
+      "word_indices": [
+        138,
+        143,
+        397,
+        403
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then you shall regard its fruit as forbidden.",
+      "korean_translation": "너희는 그 열매를 금지된 것으로 여기라.",
+      "word_indices": [
+        203,
+        567
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Three years it shall be forbidden to you",
+      "korean_translation": "삼 년 동안 그것은 너희에게 금지되리라",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "it must not be eaten.",
+      "korean_translation": "그것은 먹어서는 안 된다.",
+      "word_indices": []
+    }
+  ]
+}

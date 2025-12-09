@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Revelation 21:16",
+  "version": "ESV",
+  "original_text": "The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal.",
+  "korean_text": "그 성은 네모가 반듯하여 길이와 너비가 같은지라 그 갈대 자로 그 성을 측량하니 만 이천 스다디온이요 길이와 너비와 높이가 같더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The city lies foursquare",
+      "korean_translation": "그 성은 정사각형으로 되어 있습니다.",
+      "word_indices": [
+        16,
+        6102
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "its length the same as its width",
+      "korean_translation": "그 길이와 너비가 같습니다.",
+      "word_indices": [
+        228,
+        602,
+        2564
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he measured the city with his rod",
+      "korean_translation": "그는 자신의 막대로 성을 측량했습니다.",
+      "word_indices": [
+        16,
+        928
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "12,000 stadia",
+      "korean_translation": "12,000 스타디온입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Its length and width and height are equal",
+      "korean_translation": "그 길이와 너비와 높이가 같습니다.",
+      "word_indices": [
+        515,
+        602,
+        1541,
+        2564
+      ]
+    }
+  ]
+}

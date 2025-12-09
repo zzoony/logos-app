@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Ezekiel 7:15",
+  "version": "ESV",
+  "original_text": "The sword is without; pestilence and famine are within. He who is in the field dies by the sword, and him who is in the city famine and pestilence devour.",
+  "korean_text": "밖에는 칼이 있고 안에는 전염병과 기근이 있어서 밭에 있는 자는 칼에 죽을 것이요 성읍에 있는 자는 기근과 전염병에 망할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sword is without",
+      "korean_translation": "검은 바깥에 있다",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "pestilence and famine are within.",
+      "korean_translation": "전염병과 기근은 안에 있다.",
+      "word_indices": [
+        446,
+        777
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He who is in the field dies by the sword",
+      "korean_translation": "들에 있는 자는 검으로 죽고",
+      "word_indices": [
+        74,
+        133
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and him who is in the city famine and pestilence devour.",
+      "korean_translation": "성에 있는 자는 기근과 전염병이 삼킨다.",
+      "word_indices": [
+        16,
+        371,
+        446,
+        777
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 5:43",
+  "version": "ESV",
+  "original_text": "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’",
+  "korean_text": "또 네 이웃을 사랑하고 네 원수를 미워하라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have heard",
+      "korean_translation": "너희는 들었으리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it was said,",
+      "korean_translation": "그것이 말하여졌다고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘You shall love your neighbor",
+      "korean_translation": "'네 이웃을 사랑하고",
+      "word_indices": [
+        35,
+        314
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and hate your enemy.’",
+      "korean_translation": "네 원수를 미워하라.'",
+      "word_indices": [
+        122,
+        375
+      ]
+    }
+  ]
+}

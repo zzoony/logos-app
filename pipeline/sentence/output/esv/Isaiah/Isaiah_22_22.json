@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 22:22",
+  "version": "ESV",
+  "original_text": "And I will place on his shoulder the key of the house of David. He shall open, and none shall shut; and he shall shut, and none shall open.",
+  "korean_text": "내가 또 다윗의 집의 열쇠를 그의 어깨에 두리니 그가 열면 닫을 자가 없겠고 닫으면 열 자가 없으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will place on his shoulder the key of the house of David.",
+      "korean_translation": "내가 그의 어깨에 다윗 집의 열쇠를 두리라.",
+      "word_indices": [
+        7,
+        21,
+        704,
+        2404
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He shall open",
+      "korean_translation": "그가 열면",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and none shall shut",
+      "korean_translation": "닫을 자가 없을 것이요",
+      "word_indices": [
+        175,
+        505
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he shall shut",
+      "korean_translation": "그가 닫으면",
+      "word_indices": [
+        505
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and none shall open.",
+      "korean_translation": "열 자가 없으리라.",
+      "word_indices": [
+        115,
+        175
+      ]
+    }
+  ]
+}

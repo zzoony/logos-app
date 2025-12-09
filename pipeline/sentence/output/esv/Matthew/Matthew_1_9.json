@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:9",
+  "version": "ESV",
+  "original_text": "and Uzziah the father of Jotham, and Jotham the father of Ahaz, and Ahaz the father of Hezekiah,",
+  "korean_text": "웃시야는 요담을 낳고 요담은 아하스를 낳고 아하스는 히스기야를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Uzziah the father of Jotham,",
+      "korean_translation": "웃시야는 요담의 아버지이며,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Jotham the father of Ahaz,",
+      "korean_translation": "요담은 아하스의 아버지이며,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Ahaz the father of Hezekiah,",
+      "korean_translation": "아하스는 히스기야의 아버지이며,",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

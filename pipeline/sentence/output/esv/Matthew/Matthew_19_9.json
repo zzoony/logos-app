@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 19:9",
+  "version": "ESV",
+  "original_text": "And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”",
+  "korean_text": "내가 너희에게 말하노니 누구든지 음행한 이유 외에 아내를 버리고 다른 데 장가 드는 자는 간음함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I say to you:",
+      "korean_translation": "그리고 내가 너희에게 말하노니:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever divorces his wife,",
+      "korean_translation": "누구든지 자기 아내를 버리면",
+      "word_indices": [
+        68,
+        117
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "except for sexual immorality,",
+      "korean_translation": "음행한 경우를 제외하고는",
+      "word_indices": [
+        524,
+        1077,
+        1124
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and marries another,",
+      "korean_translation": "다른 여자와 결혼하면",
+      "word_indices": [
+        603
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "commits adultery.",
+      "korean_translation": "간음하는 것이라",
+      "word_indices": [
+        299,
+        948
+      ]
+    }
+  ]
+}

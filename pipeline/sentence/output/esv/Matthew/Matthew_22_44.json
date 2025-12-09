@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 22:44",
+  "version": "ESV",
+  "original_text": "“‘The Lord said to my Lord,\n“Sit at my right hand,\n    until I put your enemies under your feet”’?",
+  "korean_text": "주께서 내 주께 이르시되 내가 네 원수를 네 발 아래에 둘 때까지 내 우편에 앉아 있으라 하셨도다 하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "“‘The Lord said to my Lord,",
+      "korean_translation": "주께서 내 주께 말씀하시기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Sit at my right hand,",
+      "korean_translation": "내 오른편에 앉으라",
+      "word_indices": [
+        10,
+        88,
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until I put your enemies under your feet”’?”",
+      "korean_translation": "내가 네 원수들을 네 발 아래 둘 때까지”’?”",
+      "word_indices": [
+        122
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 2:21",
+  "version": "ESV",
+  "original_text": "And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb.",
+  "korean_text": "할례할 팔 일이 되매 그 이름을 예수라 하니 곧 잉태하기 전에 천사가 일컬은 바러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And at the end of eight days",
+      "korean_translation": "그리고 팔 일이 끝났을 때",
+      "word_indices": [
+        104,
+        918
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he was circumcised",
+      "korean_translation": "그가 할례를 받았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he was called Jesus",
+      "korean_translation": "그는 예수라 불렸다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the name given by the angel",
+      "korean_translation": "천사가 주신 이름",
+      "word_indices": [
+        5,
+        20,
+        146
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before he was conceived in the womb",
+      "korean_translation": "그가 태중에 잉태되기 전에",
+      "word_indices": [
+        550
+      ]
+    }
+  ]
+}

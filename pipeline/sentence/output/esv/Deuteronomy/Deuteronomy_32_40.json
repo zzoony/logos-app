@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Deuteronomy 32:40",
+  "version": "ESV",
+  "original_text": "For I lift up my hand to heaven\n    and swear, As I live forever,",
+  "korean_text": "이는 내가 하늘을 향하여 내 손을 들고 말하기를 내가 영원히 살리라 하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I lift up my hand to heaven",
+      "korean_translation": "이는 내가 하늘을 향하여 손을 들고",
+      "word_indices": [
+        10,
+        40,
+        200
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and swear",
+      "korean_translation": "맹세하노라",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As I live forever,",
+      "korean_translation": "내가 영원히 삶으로",
+      "word_indices": [
+        33,
+        96
+      ]
+    }
+  ]
+}

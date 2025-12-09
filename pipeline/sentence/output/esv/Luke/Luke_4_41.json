@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Luke 4:41",
+  "version": "ESV",
+  "original_text": "And demons also came out of many, crying, “You are the Son of God!” But he rebuked them and would not allow them to speak, because they knew that he was the Christ.",
+  "korean_text": "여러 사람에게서 귀신들이 나가며 소리 질러 이르되 당신은 하나님의 아들이니이다 예수께서 꾸짖으사 그들이 말함을 허락하지 아니하시니 이는 자기를 그리스도인 줄 앎이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And demons also came out of many",
+      "korean_translation": "또 귀신들도 많은 사람에게서 나오며",
+      "word_indices": [
+        23,
+        583
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "crying out",
+      "korean_translation": "소리 지르며",
+      "word_indices": [
+        114
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“You are the Son of God!”",
+      "korean_translation": "‘당신은 하나님의 아들이십니다!’라고 외쳤다",
+      "word_indices": [
+        1,
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But he rebuked them",
+      "korean_translation": "그러나 예수님께서는 그들을 꾸짖으시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and would not allow them to speak",
+      "korean_translation": "그들이 말하는 것을 허락하지 않으셨다",
+      "word_indices": [
+        18,
+        1039
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because they knew",
+      "korean_translation": "이는 그들이 알았기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that he was the Christ.",
+      "korean_translation": "그분이 그리스도이심을",
+      "word_indices": [
+        61
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 26:8",
+  "version": "ESV",
+  "original_text": "The length of each curtain shall be thirty cubits, and the breadth of each curtain four cubits. The eleven curtains shall be the same size.",
+  "korean_text": "각 폭의 길이는 서른 규빗, 너비는 네 규빗으로 열한 폭의 길이를 같게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The length of each curtain shall be thirty cubits",
+      "korean_translation": "각 휘장의 길이는 삼십 규빗이며",
+      "word_indices": [
+        156,
+        423,
+        602,
+        740
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the breadth of each curtain four cubits",
+      "korean_translation": "너비는 네 규빗입니다",
+      "word_indices": [
+        156,
+        682,
+        740
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The eleven curtains shall be the same size",
+      "korean_translation": "열한 개의 휘장은 모두 같은 크기입니다",
+      "word_indices": [
+        228,
+        740,
+        1451,
+        1546
+      ]
+    }
+  ]
+}

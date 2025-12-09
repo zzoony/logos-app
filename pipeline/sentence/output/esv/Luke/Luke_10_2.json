@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Luke 10:2",
+  "version": "ESV",
+  "original_text": "And he said to them, “The harvest is plentiful, but the laborers are few. Therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.",
+  "korean_text": "이르시되 추수할 것은 많되 일꾼이 적으니 그러므로 추수하는 주인에게 청하여 추수할 일꾼들을 보내 주소서 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said to them,",
+      "korean_translation": "그가 그들에게 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The harvest is plentiful,",
+      "korean_translation": "추수할 것은 많으나,",
+      "word_indices": [
+        587,
+        2114
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the laborers are few.",
+      "korean_translation": "일꾼은 적으니,",
+      "word_indices": [
+        724,
+        1904
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Therefore pray earnestly",
+      "korean_translation": "그러므로 추수의 주인께 구하라",
+      "word_indices": [
+        32,
+        262,
+        1361
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to send out laborers",
+      "korean_translation": "일꾼들을 보내시도록",
+      "word_indices": [
+        24,
+        1904
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "into his harvest.",
+      "korean_translation": "그의 추수밭으로.",
+      "word_indices": [
+        587
+      ]
+    }
+  ]
+}

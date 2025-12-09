@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Job 23:9",
+  "version": "ESV",
+  "original_text": "on the left hand when he is working, I do not behold him;\n    he turns to the right hand, but I do not see him.",
+  "korean_text": "그가 왼쪽에서 일하시나 내가 만날 수 없고 그가 오른쪽으로 돌이키시나 뵈올 수 없구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "on the left hand when he is working",
+      "korean_translation": "그가 일할 때 왼쪽에서는",
+      "word_indices": [
+        10,
+        52
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I do not behold him",
+      "korean_translation": "내가 그를 보지 못하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he turns to the right hand",
+      "korean_translation": "그가 오른편으로 돌아서도",
+      "word_indices": [
+        10,
+        45,
+        88
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but I do not see him",
+      "korean_translation": "나는 그를 보지 못하겠노라",
+      "word_indices": []
+    }
+  ]
+}

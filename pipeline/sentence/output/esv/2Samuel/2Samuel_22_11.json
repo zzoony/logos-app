@@ -1,0 +1,35 @@
+{
+  "verse_reference": "2 Samuel 22:11",
+  "version": "ESV",
+  "original_text": "He rode on a cherub and flew;\n    he was seen on the wings of the wind.",
+  "korean_text": "그룹을 타고 날으심이여 바람 날개 위에 나타나셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He rode on a cherub",
+      "korean_translation": "그는 그룹을 탔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and flew",
+      "korean_translation": "날아갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he was seen",
+      "korean_translation": "그가 보였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the wings of the wind",
+      "korean_translation": "바람의 날개 위에",
+      "word_indices": [
+        259,
+        468
+      ]
+    }
+  ]
+}

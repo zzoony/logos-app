@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 4:7",
+  "version": "ESV",
+  "original_text": "You have put more joy in my heart\n    than they have when their grain and wine abound.",
+  "korean_text": "주께서 내 마음에 두신 기쁨은 그들의 곡식과 새 포도주가 풍성할 때보다 더하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have put more joy in my heart",
+      "korean_translation": "주께서 내 마음에 두신 기쁨은",
+      "word_indices": [
+        26,
+        265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than they have",
+      "korean_translation": "그들이 가진 것보다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when their grain and wine abound",
+      "korean_translation": "그들의 곡식과 포도주가 풍부할 때",
+      "word_indices": [
+        176,
+        194,
+        1259
+      ]
+    }
+  ]
+}

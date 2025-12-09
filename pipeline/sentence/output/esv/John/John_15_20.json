@@ -1,0 +1,59 @@
+{
+  "verse_reference": "John 15:20",
+  "version": "ESV",
+  "original_text": "Remember the word that I said to you: ‘A servant is not greater than his master.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.",
+  "korean_text": "내가 너희에게 종이 주인보다 더 크지 못하다 한 말을 기억하라 사람들이 나를 박해하였은즉 너희도 박해할 것이요 내 말을 지켰은즉 너희 말도 지킬 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember the word that I said to you:",
+      "korean_translation": "내가 너희에게 말한 말을 기억하라",
+      "word_indices": [
+        15,
+        193
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "‘A servant is not greater than his master.’",
+      "korean_translation": "종이 주인보다 크지 않다",
+      "word_indices": [
+        22,
+        242,
+        555
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If they persecuted me,",
+      "korean_translation": "그들이 나를 박해하였으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they will also persecute you.",
+      "korean_translation": "너희도 박해할 것이다",
+      "word_indices": [
+        23,
+        1011
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If they kept my word,",
+      "korean_translation": "그들이 내 말을 지켰으면",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "they will also keep yours.",
+      "korean_translation": "너희의 말도 지킬 것이다",
+      "word_indices": [
+        23,
+        46
+      ]
+    }
+  ]
+}

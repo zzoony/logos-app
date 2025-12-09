@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 102:4",
+  "version": "ESV",
+  "original_text": "My heart is struck down like grass and has withered;\n    I forget to eat my bread.",
+  "korean_text": "내가 음식 먹기도 잊었으므로 내 마음이 풀 같이 시들고 말라 버렸사오며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My heart is struck down like grass",
+      "korean_translation": "내 마음은 풀처럼 쓰러졌으며",
+      "word_indices": [
+        14,
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and has withered",
+      "korean_translation": "시들었습니다",
+      "word_indices": [
+        872
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I forget to eat my bread.",
+      "korean_translation": "내 떡을 먹는 것도 잊었나이다",
+      "word_indices": [
+        129,
+        418
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Deuteronomy 5:32",
+  "version": "ESV",
+  "original_text": "You shall be careful therefore to do as the Lord your God has commanded you. You shall not turn aside to the right hand or to the left.",
+  "korean_text": "그런즉 너희 하나님 여호와께서 너희에게 명령하신 대로 너희는 삼가 행하여 좌로나 우로나 치우치지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall be careful therefore",
+      "korean_translation": "그러므로 너희는 삼가라",
+      "word_indices": [
+        32,
+        796
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to do as the Lord your God has commanded you.",
+      "korean_translation": "너희의 하나님 여호와께서 명령하신 대로 행하라",
+      "word_indices": [
+        1,
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You shall not turn aside",
+      "korean_translation": "너희는 치우치지 말라",
+      "word_indices": [
+        45,
+        450
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to the right hand or to the left.",
+      "korean_translation": "오른쪽으로나 왼쪽으로나",
+      "word_indices": [
+        10,
+        88
+      ]
+    }
+  ]
+}

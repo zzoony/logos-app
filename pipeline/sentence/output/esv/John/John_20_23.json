@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 20:23",
+  "version": "ESV",
+  "original_text": "If you forgive the sins of any, they are forgiven them; if you withhold forgiveness from any, it is withheld.”",
+  "korean_text": "너희가 누구의 죄든지 사하면 사하여질 것이요 누구의 죄든지 그대로 두면 그대로 있으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you forgive the sins of any",
+      "korean_translation": "너희가 누구의 죄든지 용서하면",
+      "word_indices": [
+        34,
+        416
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they are forgiven them",
+      "korean_translation": "그것은 그들에게 용서된 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if you withhold forgiveness from any",
+      "korean_translation": "너희가 누구에게든지 용서하지 않으면",
+      "word_indices": [
+        1131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it is withheld",
+      "korean_translation": "그것은 용서되지 않는 것입니다",
+      "word_indices": []
+    }
+  ]
+}

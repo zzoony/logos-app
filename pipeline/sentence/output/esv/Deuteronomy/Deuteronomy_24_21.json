@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Deuteronomy 24:21",
+  "version": "ESV",
+  "original_text": "When you gather the grapes of your vineyard, you shall not strip it afterward. It shall be for the sojourner, the fatherless, and the widow.",
+  "korean_text": "네가 네 포도원의 포도를 딴 후에 그 남은 것을 다시 따지 말고 객과 고아와 과부를 위하여 남겨두라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you gather the grapes of your vineyard,",
+      "korean_translation": "네 포도원의 포도를 딸 때에,",
+      "word_indices": [
+        93,
+        417
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you shall not strip it afterward.",
+      "korean_translation": "그것을 뒤에 다 따서는 안 된다.",
+      "word_indices": [
+        652,
+        775
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It shall be for the sojourner,",
+      "korean_translation": "그것은 나그네를 위한 것이며,",
+      "word_indices": [
+        610
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the fatherless,",
+      "korean_translation": "아버지 없는 자를 위한 것이며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the widow.",
+      "korean_translation": "과부를 위한 것이다.",
+      "word_indices": [
+        493
+      ]
+    }
+  ]
+}

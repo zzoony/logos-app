@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 11:27",
+  "version": "ESV",
+  "original_text": "As he said these things, a woman in the crowd raised her voice and said to him, “Blessed is the womb that bore you, and the breasts at which you nursed!”",
+  "korean_text": "이 말씀을 하실 때에 무리 중에서 한 여자가 음성을 높여 이르되 당신을 밴 태와 당신을 먹인 젖이 복이 있나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As he said these things,",
+      "korean_translation": "그가 이런 말씀을 하고 있을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a woman in the crowd",
+      "korean_translation": "무리 가운데 한 여자가",
+      "word_indices": [
+        53,
+        339
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "raised her voice",
+      "korean_translation": "목소리를 높여",
+      "word_indices": [
+        86
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and said to him,",
+      "korean_translation": "그에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“Blessed is the womb that bore you,",
+      "korean_translation": "당신을 밴 배는 복이 있고,",
+      "word_indices": [
+        64,
+        336,
+        550
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the breasts at which you nursed!”",
+      "korean_translation": "당신이 먹인 젖가슴도 복이 있습니다!”",
+      "word_indices": [
+        884
+      ]
+    }
+  ]
+}

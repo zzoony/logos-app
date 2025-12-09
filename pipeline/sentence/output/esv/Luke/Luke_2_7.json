@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 2:7",
+  "version": "ESV",
+  "original_text": "And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.",
+  "korean_text": "첫아들을 낳아 강보로 싸서 구유에 뉘었으니 이는 여관에 있을 곳이 없음이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And she gave birth to her firstborn son",
+      "korean_translation": "그리고 그녀는 첫아들을 낳았습니다",
+      "word_indices": [
+        2,
+        5,
+        349,
+        619
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and wrapped him in swaddling cloths",
+      "korean_translation": "그리고 그를 포대기에 싸매었습니다",
+      "word_indices": [
+        1187
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and laid him in a manger",
+      "korean_translation": "그리고 그를 구유에 눕혔습니다",
+      "word_indices": [
+        2807
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because there was no place for them in the inn",
+      "korean_translation": "여관에 그들을 위한 자리가 없었기 때문입니다",
+      "word_indices": [
+        21,
+        4470
+      ]
+    }
+  ]
+}

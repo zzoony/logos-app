@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Joshua 6:2",
+  "version": "ESV",
+  "original_text": "And the Lord said to Joshua, “See, I have given Jericho into your hand, with its king and mighty men of valor.",
+  "korean_text": "여호와께서 여호수아에게 이르시되 보라 내가 여리고와 그 왕과 용사들을 네 손에 넘겨 주었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said to Joshua",
+      "korean_translation": "그리고 주께서 여호수아에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "See,",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have given Jericho into your hand",
+      "korean_translation": "내가 여리고를 네 손에 주었노라",
+      "word_indices": [
+        5,
+        10
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with its king and mighty men of valor.",
+      "korean_translation": "그 왕과 용맹한 용사들과 함께",
+      "word_indices": [
+        4,
+        173,
+        1215
+      ]
+    }
+  ]
+}

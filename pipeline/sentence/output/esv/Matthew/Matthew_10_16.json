@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 10:16",
+  "version": "ESV",
+  "original_text": "“Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves.",
+  "korean_text": "보라 내가 너희를 보냄이 양을 이리 가운데로 보냄과 같도다 그러므로 너희는 뱀 같이 지혜롭고 비둘기 같이 순결하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am sending you out as sheep in the midst of wolves,",
+      "korean_translation": "내가 너희를 이리 가운데에 양처럼 보내노니,",
+      "word_indices": [
+        24,
+        172,
+        235
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so be wise as serpents",
+      "korean_translation": "그러므로 뱀처럼 지혜로우라",
+      "word_indices": [
+        252,
+        782
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and innocent as doves.",
+      "korean_translation": "비둘기처럼 순수하라.",
+      "word_indices": [
+        833
+      ]
+    }
+  ]
+}

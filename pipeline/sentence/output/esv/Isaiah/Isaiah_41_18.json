@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Isaiah 41:18",
+  "version": "ESV",
+  "original_text": "I will open rivers on the bare heights,\n    and fountains in the midst of the valleys.\nI will make the wilderness a pool of water,\n    and the dry land springs of water.",
+  "korean_text": "내가 헐벗은 산에 강을 내며 골짜기 가운데에 샘이 나게 하며 광야가 못이 되게 하며 마른 땅이 샘 근원이 되게 할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will open rivers on the bare heights",
+      "korean_translation": "내가 높은 메마른 곳에 강을 열겠다",
+      "word_indices": [
+        115,
+        357,
+        515,
+        1042
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and fountains in the midst of the valleys",
+      "korean_translation": "골짜기 한가운데에 샘을 솟아나게 하겠다",
+      "word_indices": [
+        172,
+        251,
+        1168
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will make the wilderness a pool of water",
+      "korean_translation": "내가 광야를 웅덩이가 되게 하겠다",
+      "word_indices": [
+        42,
+        1109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the dry land springs of water",
+      "korean_translation": "마른 땅에 샘물이 솟게 하겠다",
+      "word_indices": [
+        8,
+        42,
+        425,
+        480
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:7",
+  "version": "ESV",
+  "original_text": "and Solomon the father of Rehoboam, and Rehoboam the father of Abijah, and Abijah the father of Asaph,",
+  "korean_text": "솔로몬은 르호보암을 낳고 르호보암은 아비야를 낳고 아비야는 아사를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Solomon the father of Rehoboam,",
+      "korean_translation": "솔로몬은 르호보암의 아버지이며,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Rehoboam the father of Abijah,",
+      "korean_translation": "르호보암은 아비야의 아버지이며,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Abijah the father of Asaph,",
+      "korean_translation": "아비야는 아사프의 아버지였으며,",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

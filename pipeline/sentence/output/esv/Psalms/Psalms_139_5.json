@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 139:5",
+  "version": "ESV",
+  "original_text": "You hem me in, behind and before,\n    and lay your hand upon me.",
+  "korean_text": "주께서 나의 앞뒤를 둘러싸시고 내게 안수하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You hem me in",
+      "korean_translation": "주께서 나를 에워싸시고",
+      "word_indices": [
+        2371
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "behind and before",
+      "korean_translation": "뒤에서와 앞에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and lay your hand upon me",
+      "korean_translation": "당신의 손을 내게 얹으십니다",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

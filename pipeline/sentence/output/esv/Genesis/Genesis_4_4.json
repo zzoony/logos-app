@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 4:4",
+  "version": "ESV",
+  "original_text": "and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering,",
+  "korean_text": "아벨은 자기도 양의 첫 새끼와 그 기름으로 드렸더니 여호와께서 아벨과 그의 제물은 받으셨으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Abel also brought of the firstborn of his flock",
+      "korean_translation": "아벨도 또한 그의 양 떼의 첫새끼를 가져왔고",
+      "word_indices": [
+        23,
+        247,
+        349
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and of their fat portions.",
+      "korean_translation": "그 기름진 부분들도 가져왔습니다",
+      "word_indices": [
+        337,
+        435
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the Lord had regard for Abel",
+      "korean_translation": "여호와께서는 아벨을 돌아보셨고",
+      "word_indices": [
+        567
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his offering,",
+      "korean_translation": "그의 제물도 받으셨습니다",
+      "word_indices": [
+        19
+      ]
+    }
+  ]
+}

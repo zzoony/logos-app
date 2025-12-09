@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 14:21",
+  "version": "ESV",
+  "original_text": "Then Moses stretched out his hand over the sea, and the Lord drove the sea back by a strong east wind all night and made the sea dry land, and the waters were divided.",
+  "korean_text": "모세가 바다 위로 손을 내밀매 여호와께서 큰 동풍이 밤새도록 바닷물을 물러가게 하시니 물이 갈라져 바다가 마른 땅이 된지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Moses stretched out his hand over the sea",
+      "korean_translation": "그때 모세가 바다 위로 손을 뻗었습니다.",
+      "word_indices": [
+        10,
+        84,
+        412
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the Lord drove the sea back by a strong east wind all night",
+      "korean_translation": "그리고 주께서 밤새도록 강한 동풍으로 바다를 물리치셨습니다.",
+      "word_indices": [
+        84,
+        90,
+        130,
+        227,
+        255,
+        259,
+        3924
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and made the sea dry land",
+      "korean_translation": "바다를 마른 땅으로 만드셨습니다.",
+      "word_indices": [
+        8,
+        84,
+        425
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the waters were divided",
+      "korean_translation": "물들이 갈라졌습니다.",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

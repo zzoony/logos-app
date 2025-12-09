@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Proverbs 31:2",
+  "version": "ESV",
+  "original_text": "What are you doing, my son? What are you doing, son of my womb?\n    What are you doing, son of my vows?",
+  "korean_text": "내 아들아 내가 무엇을 말하랴 내 태에서 난 아들아 내가 무엇을 말하랴 서원대로 얻은 아들아 내가 무엇을 말하랴",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What are you doing, my son?",
+      "korean_translation": "내 아들아, 무엇을 하고 있느냐?",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What are you doing, son of my womb?",
+      "korean_translation": "내 태에서 난 아들아, 무엇을 하고 있느냐?",
+      "word_indices": [
+        2,
+        550
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What are you doing, son of my vows?",
+      "korean_translation": "내 서원으로 낳은 아들아, 무엇을 하고 있느냐?",
+      "word_indices": [
+        2,
+        495
+      ]
+    }
+  ]
+}

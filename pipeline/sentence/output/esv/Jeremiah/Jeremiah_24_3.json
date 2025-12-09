@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Jeremiah 24:3",
+  "version": "ESV",
+  "original_text": "And the Lord said to me, “What do you see, Jeremiah?” I said, “Figs, the good figs very good, and the bad figs very bad, so bad that they cannot be eaten.”",
+  "korean_text": "여호와께서 내게 이르시되 예레미야야 네가 무엇을 보느냐 하시매 내가 대답하되 무화과이온데 그 좋은 무화과는 극히 좋고 그 나쁜 것은 아주 나빠서 먹을 수 없게 나쁘니이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said to me,",
+      "korean_translation": "주께서 내게 이르시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“What do you see, Jeremiah?”",
+      "korean_translation": "네가 보는 것이 무엇이냐, 예레미야야?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I said,",
+      "korean_translation": "내가 대답하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Figs,",
+      "korean_translation": "무화과입니다,",
+      "word_indices": [
+        651
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the good figs very good,",
+      "korean_translation": "좋은 무화과는 매우 좋고,",
+      "word_indices": [
+        37,
+        651
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the bad figs very bad,",
+      "korean_translation": "나쁜 무화과는 매우 나빠서,",
+      "word_indices": [
+        651,
+        845
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "so bad that they cannot be eaten.”",
+      "korean_translation": "먹을 수 없을 정도로 나쁩니다.",
+      "word_indices": [
+        215,
+        845
+      ]
+    }
+  ]
+}

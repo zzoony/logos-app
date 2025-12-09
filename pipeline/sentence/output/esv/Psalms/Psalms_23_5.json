@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 23:5",
+  "version": "ESV",
+  "original_text": "You prepare a table before me\n    in the presence of my enemies;\nyou anoint my head with oil;\n    my cup overflows.",
+  "korean_text": "주께서 내 원수의 목전에서 내게 상을 차려 주시고 기름을 내 머리에 부으셨으니 내 잔이 넘치나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You prepare a table before me",
+      "korean_translation": "당신은 내 앞에 상을 차려주시고",
+      "word_indices": [
+        304,
+        438
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the presence of my enemies",
+      "korean_translation": "내 원수들이 보는 앞에서",
+      "word_indices": [
+        122,
+        270
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you anoint my head with oil",
+      "korean_translation": "내 머리에 기름을 부으시니",
+      "word_indices": [
+        62,
+        222,
+        301
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my cup overflows",
+      "korean_translation": "내 잔이 넘치나이다",
+      "word_indices": [
+        574,
+        1234
+      ]
+    }
+  ]
+}

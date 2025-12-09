@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 11:6",
+  "version": "ESV",
+  "original_text": "And the hare, because it chews the cud but does not part the hoof, is unclean to you.",
+  "korean_text": "토끼도 새김질은 하되 굽이 갈라지지 아니하였으므로 너희에게 부정하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the hare",
+      "korean_translation": "그리고 토끼는",
+      "word_indices": [
+        3968
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because it chews the cud",
+      "korean_translation": "그것은 되새김질을 하기 때문에",
+      "word_indices": [
+        2040,
+        2041
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but does not part the hoof",
+      "korean_translation": "하지만 발굽이 갈라지지 않으므로",
+      "word_indices": [
+        329,
+        1415
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is unclean to you",
+      "korean_translation": "너희에게 부정하니라",
+      "word_indices": [
+        206
+      ]
+    }
+  ]
+}

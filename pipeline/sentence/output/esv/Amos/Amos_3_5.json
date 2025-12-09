@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Amos 3:5",
+  "version": "ESV",
+  "original_text": "Does a bird fall in a snare on the earth,\n    when there is no trap for it?\nDoes a snare spring up from the ground,\n    when it has taken nothing?",
+  "korean_text": "덫을 땅에 놓지 않았는데 새가 어찌 거기 치이겠으며 잡힌 것이 없는데 덫이 어찌 땅에서 튀겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Does a bird fall in a snare on the earth,",
+      "korean_translation": "새가 땅 위의 올무에 걸리나요,",
+      "word_indices": [
+        100,
+        356,
+        751
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when there is no trap for it?",
+      "korean_translation": "그것을 위한 덫이 없을 때에요?",
+      "word_indices": [
+        1613
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Does a snare spring up from the ground,",
+      "korean_translation": "올무가 땅에서 솟아오르나요,",
+      "word_indices": [
+        751,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when it has taken nothing?",
+      "korean_translation": "그것이 아무것도 잡지 못했을 때에요?",
+      "word_indices": []
+    }
+  ]
+}

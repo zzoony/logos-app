@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 6:15",
+  "version": "ESV",
+  "original_text": "and Matthew, and Thomas, and James the son of Alphaeus, and Simon who was called the Zealot,",
+  "korean_text": "마태와 도마와 알패오의 아들 야고보와 셀롯이라는 시몬과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Matthew,",
+      "korean_translation": "그리고 마태",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Thomas,",
+      "korean_translation": "그리고 도마",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and James the son of Alphaeus,",
+      "korean_translation": "그리고 알패오의 아들 야고보",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and Simon,",
+      "korean_translation": "그리고 시몬",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who was called the Zealot,",
+      "korean_translation": "열심당이라 불리던 자",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

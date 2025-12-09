@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Deuteronomy 27:1",
+  "version": "ESV",
+  "original_text": "Now Moses and the elders of Israel commanded the people, saying, “Keep the whole commandment that I command you today.",
+  "korean_text": "모세와 이스라엘 장로들이 백성에게 명령하여 이르되 내가 오늘 너희에게 명령하는 이 명령을 너희는 다 지킬지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Moses and the elders of Israel commanded the people",
+      "korean_translation": "모세와 이스라엘 장로들이 백성에게 명령하여",
+      "word_indices": [
+        3,
+        51,
+        237
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying,",
+      "korean_translation": "이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Keep the whole commandment",
+      "korean_translation": "모든 명령을 지키라",
+      "word_indices": [
+        46,
+        151,
+        189
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I command you",
+      "korean_translation": "내가 너희에게 명하는",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "today.",
+      "korean_translation": "오늘",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

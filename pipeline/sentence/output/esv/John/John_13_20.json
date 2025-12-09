@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 13:20",
+  "version": "ESV",
+  "original_text": "Truly, truly, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me.”",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 내가 보낸 자를 영접하는 자는 나를 영접하는 것이요 나를 영접하는 자는 나를 보내신 이를 영접하는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Truly, truly, I say to you,",
+      "korean_translation": "진실로 진실로 너희에게 이르노니,",
+      "word_indices": [
+        343
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever receives the one I send",
+      "korean_translation": "내가 보내는 자를 받는 사람은",
+      "word_indices": [
+        24,
+        117
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "receives me,",
+      "korean_translation": "나를 받는 것이요,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and whoever receives me",
+      "korean_translation": "또 나를 받는 사람은",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "receives the one who sent me.”",
+      "korean_translation": "나를 보내신 이를 받느니라.",
+      "word_indices": []
+    }
+  ]
+}

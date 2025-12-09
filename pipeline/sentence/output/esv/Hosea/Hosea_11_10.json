@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Hosea 11:10",
+  "version": "ESV",
+  "original_text": "They shall go after the Lord;\n    he will roar like a lion;\nwhen he roars,\n    his children shall come trembling from the west;",
+  "korean_text": "그들은 사자처럼 소리를 내시는 여호와를 따를 것이라 여호와께서 소리를 내시면 자손들이 서쪽에서부터 떨며 오되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They shall go after the Lord;",
+      "korean_translation": "그들은 주를 따를 것이다;",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he will roar like a lion;",
+      "korean_translation": "그는 사자처럼 울부짖을 것이다;",
+      "word_indices": [
+        14,
+        348,
+        801
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when he roars,",
+      "korean_translation": "그가 울부짖을 때,",
+      "word_indices": [
+        801
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "his children shall come trembling from the west;",
+      "korean_translation": "그의 자녀들이 서쪽에서 떨며 올 것이다;",
+      "word_indices": [
+        557
+      ]
+    }
+  ]
+}

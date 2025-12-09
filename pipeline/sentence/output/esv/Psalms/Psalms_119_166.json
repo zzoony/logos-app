@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 119:166",
+  "version": "ESV",
+  "original_text": "I hope for your salvation, O Lord,\n    and I do your commandments.",
+  "korean_text": "여호와여 내가 주의 구원을 바라며 주의 계명들을 행하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I hope for your salvation",
+      "korean_translation": "나는 주님의 구원을 바랍니다",
+      "word_indices": [
+        281,
+        311
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I do your commandments",
+      "korean_translation": "그리고 나는 주님의 계명을 지킵니다",
+      "word_indices": [
+        189
+      ]
+    }
+  ]
+}

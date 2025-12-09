@@ -1,0 +1,32 @@
+{
+  "verse_reference": "James 4:16",
+  "version": "ESV",
+  "original_text": "As it is, you boast in your arrogance. All such boasting is evil.",
+  "korean_text": "이제도 너희가 허탄한 자랑을 하니 그러한 자랑은 다 악한 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As it is,",
+      "korean_translation": "실상은,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you boast in your arrogance.",
+      "korean_translation": "너희는 교만하여 자랑한다.",
+      "word_indices": [
+        512,
+        2415
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "All such boasting is evil.",
+      "korean_translation": "이러한 모든 자랑은 악한 것입니다.",
+      "word_indices": [
+        63,
+        512
+      ]
+    }
+  ]
+}

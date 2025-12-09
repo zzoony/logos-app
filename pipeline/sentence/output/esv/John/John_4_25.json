@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 4:25",
+  "version": "ESV",
+  "original_text": "The woman said to him, “I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things.”",
+  "korean_text": "여자가 이르되 메시야 곧 그리스도라 하는 이가 오실 줄을 내가 아노니 그가 오시면 모든 것을 우리에게 알려 주시리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman said to him,",
+      "korean_translation": "그 여자가 그에게 말했습니다,",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I know that Messiah is coming",
+      "korean_translation": "메시아가 오실 것을 압니다",
+      "word_indices": [
+        13,
+        4490
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "(he who is called Christ)",
+      "korean_translation": "(그리스도라고 불리는 분)",
+      "word_indices": [
+        31,
+        61
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When he comes,",
+      "korean_translation": "그가 오실 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he will tell us all things.”",
+      "korean_translation": "그가 우리에게 모든 것을 알려주실 것입니다.”",
+      "word_indices": [
+        36
+      ]
+    }
+  ]
+}

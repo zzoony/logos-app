@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 15:29",
+  "version": "ESV",
+  "original_text": "Jesus went on from there and walked beside the Sea of Galilee. And he went up on the mountain and sat down there.",
+  "korean_text": "예수께서 거기서 떠나사 갈릴리 호숫가에 이르러 산에 올라가 거기 앉으시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus went on from there",
+      "korean_translation": "예수께서 그곳을 떠나셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and walked beside the Sea of Galilee",
+      "korean_translation": "갈릴리 바다 곁으로 걸어가셨습니다",
+      "word_indices": [
+        84,
+        111,
+        389
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he went up on the mountain",
+      "korean_translation": "그리고 산으로 올라가셨습니다",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sat down there",
+      "korean_translation": "그리고 거기 앉으셨습니다",
+      "word_indices": []
+    }
+  ]
+}

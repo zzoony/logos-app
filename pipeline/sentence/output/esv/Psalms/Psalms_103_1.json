@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 103:1",
+  "version": "ESV",
+  "original_text": "Bless the Lord, O my soul,\n    and all that is within me,\n    bless his holy name!",
+  "korean_text": "내 영혼아 여호와를 송축하라 내 속에 있는 것들아 다 그의 거룩한 이름을 송축하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bless the Lord",
+      "korean_translation": "주를 송축하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O my soul",
+      "korean_translation": "나의 영혼아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all that is within me",
+      "korean_translation": "나의 속에 있는 모든 것도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bless his holy name!",
+      "korean_translation": "그의 거룩한 이름을 송축하라",
+      "word_indices": [
+        20,
+        44
+      ]
+    }
+  ]
+}

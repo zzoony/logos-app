@@ -1,0 +1,37 @@
+{
+  "verse_reference": "2 Samuel 16:7",
+  "version": "ESV",
+  "original_text": "And Shimei said as he cursed, “Get out, get out, you man of blood, you worthless man!",
+  "korean_text": "시므이가 저주하는 가운데 이와 같이 말하니라 피를 흘린 자여 사악한 자여 가거라 가거라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Shimei said as he cursed,",
+      "korean_translation": "그리고 시므이가 저주하면서 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Get out, get out,",
+      "korean_translation": "나가라, 나가라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you man of blood,",
+      "korean_translation": "너는 피를 흘리는 자여,",
+      "word_indices": [
+        6,
+        83
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you worthless man!",
+      "korean_translation": "너는 패역한 자야!",
+      "word_indices": [
+        6
+      ]
+    }
+  ]
+}

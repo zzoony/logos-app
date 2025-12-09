@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 89:52",
+  "version": "ESV",
+  "original_text": "Blessed be the Lord forever!\nAmen and Amen.",
+  "korean_text": "여호와를 영원히 찬송할지어다 아멘 아멘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed be the Lord forever!",
+      "korean_translation": "주님을 영원히 송축합니다",
+      "word_indices": [
+        64,
+        96
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Amen",
+      "korean_translation": "아멘",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Amen.",
+      "korean_translation": "그리고 아멘",
+      "word_indices": []
+    }
+  ]
+}

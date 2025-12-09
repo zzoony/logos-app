@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Isaiah 65:2",
+  "version": "ESV",
+  "original_text": "I spread out my hands all the day\n    to a rebellious people,\nwho walk in a way that is not good,\n    following their own devices;",
+  "korean_text": "내가 종일 손을 펴서 자기 생각을 따라 옳지 않은 길을 걸어가는 패역한 백성들을 불렀나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I spread out my hands all the day",
+      "korean_translation": "나는 종일 내 손을 펴며",
+      "word_indices": [
+        10,
+        326
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to a rebellious people",
+      "korean_translation": "패역한 백성을 향해",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who walk in a way that is not good",
+      "korean_translation": "그들은 좋지 않은 길로 행하며",
+      "word_indices": [
+        37,
+        111
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "following their own devices",
+      "korean_translation": "자기들의 생각대로 따르는도다",
+      "word_indices": [
+        155
+      ]
+    }
+  ]
+}

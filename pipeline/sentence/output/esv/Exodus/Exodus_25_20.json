@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 25:20",
+  "version": "ESV",
+  "original_text": "The cherubim shall spread out their wings above, overshadowing the mercy seat with their wings, their faces one to another; toward the mercy seat shall the faces of the cherubim be.",
+  "korean_text": "그룹들은 그 날개를 높이 펴서 그 날개로 속죄소를 덮으며 그 얼굴을 서로 대하여 속죄소를 향하게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The cherubim shall spread out their wings above",
+      "korean_translation": "그룹들은 그 날개를 위로 펼치고",
+      "word_indices": [
+        326,
+        468
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "overshadowing the mercy seat with their wings",
+      "korean_translation": "그 날개로 속죄소를 덮고",
+      "word_indices": [
+        269,
+        451,
+        468,
+        2366
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "their faces one to another",
+      "korean_translation": "그들의 얼굴은 서로 마주 보며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "toward the mercy seat shall the faces of the cherubim be",
+      "korean_translation": "그룹들의 얼굴은 속죄소를 향해야 하느니라",
+      "word_indices": [
+        213,
+        269,
+        451
+      ]
+    }
+  ]
+}

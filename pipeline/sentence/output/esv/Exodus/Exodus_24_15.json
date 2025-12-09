@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Exodus 24:15",
+  "version": "ESV",
+  "original_text": "Then Moses went up on the mountain, and the cloud covered the mountain.",
+  "korean_text": "모세가 산에 오르매 구름이 산을 가리며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Moses went up on the mountain",
+      "korean_translation": "그때 모세가 산으로 올라갔습니다.",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the cloud covered the mountain.",
+      "korean_translation": "구름이 산을 덮었습니다.",
+      "word_indices": [
+        123,
+        208,
+        307
+      ]
+    }
+  ]
+}

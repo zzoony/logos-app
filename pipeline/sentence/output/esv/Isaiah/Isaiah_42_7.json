@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Isaiah 42:7",
+  "version": "ESV",
+  "original_text": "to open the eyes that are blind,\nto bring out the prisoners from the dungeon,\n    from the prison those who sit in darkness.",
+  "korean_text": "네가 눈먼 자들의 눈을 밝히며 갇힌 자를 감옥에서 이끌어 내며 흑암에 앉은 자를 감방에서 나오게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "to open the eyes that are blind",
+      "korean_translation": "소경의 눈을 뜨게 하기 위해",
+      "word_indices": [
+        115,
+        519
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to bring out the prisoners from the dungeon",
+      "korean_translation": "갇힌 자들을 지하 감옥에서 이끌어내기 위해",
+      "word_indices": [
+        1020,
+        3505
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the prison those who sit in darkness",
+      "korean_translation": "어두움에 앉은 자들을 옥에서 이끌어내기 위해",
+      "word_indices": [
+        118,
+        608
+      ]
+    }
+  ]
+}

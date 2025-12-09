@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Exodus 21:28",
+  "version": "ESV",
+  "original_text": "“When an ox gores a man or a woman to death, the ox shall be stoned, and its flesh shall not be eaten, but the owner of the ox shall not be liable.",
+  "korean_text": "소가 남자나 여자를 받아서 죽이면 그 소는 반드시 돌로 쳐서 죽일 것이요 그 고기는 먹지 말 것이며 임자는 형벌을 면하려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When an ox gores a man or a woman to death",
+      "korean_translation": "소가 남자나 여자를 받아 죽일 때에",
+      "word_indices": [
+        6,
+        53,
+        76,
+        293
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the ox shall be stoned",
+      "korean_translation": "그 소는 돌로 쳐서 죽일 것이요",
+      "word_indices": [
+        293
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and its flesh shall not be eaten",
+      "korean_translation": "그 고기는 먹지 못할 것이며",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but the owner of the ox shall not be liable.",
+      "korean_translation": "소의 주인은 죄가 없으리라",
+      "word_indices": [
+        293,
+        1184,
+        2669
+      ]
+    }
+  ]
+}

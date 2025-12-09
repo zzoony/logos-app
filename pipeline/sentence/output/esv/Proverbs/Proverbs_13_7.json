@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Proverbs 13:7",
+  "version": "ESV",
+  "original_text": "One pretends to be rich, yet has nothing;\n    another pretends to be poor, yet has great wealth.",
+  "korean_text": "스스로 부1)한 체하여도 아무 것도 없는 자가 있고 스스로 가난1)한 체하여도 재물이 많은 자가 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One pretends to be rich",
+      "korean_translation": "한 사람은 부자인 체한다",
+      "word_indices": [
+        297,
+        2156
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet has nothing",
+      "korean_translation": "하지만 아무것도 가지고 있지 않다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "another pretends to be poor",
+      "korean_translation": "다른 한 사람은 가난한 체한다",
+      "word_indices": [
+        268,
+        2156
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yet has great wealth",
+      "korean_translation": "하지만 큰 부를 가지고 있다",
+      "word_indices": [
+        30,
+        572
+      ]
+    }
+  ]
+}

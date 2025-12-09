@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 32:2",
+  "version": "ESV",
+  "original_text": "Blessed is the man against whom the Lord counts no iniquity,\n    and in whose spirit there is no deceit.",
+  "korean_text": "마음에 간사함이 없고 여호와께 정죄를 당하지 아니하는 자는 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the man",
+      "korean_translation": "복 있는 사람은",
+      "word_indices": [
+        6,
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "against whom the Lord counts no iniquity",
+      "korean_translation": "주께서 그의 죄악을 헤아리지 아니하며",
+      "word_indices": [
+        12,
+        219,
+        473
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in whose spirit there is no deceit",
+      "korean_translation": "그의 영혼에 궤사가 없도다",
+      "word_indices": [
+        55,
+        1071
+      ]
+    }
+  ]
+}

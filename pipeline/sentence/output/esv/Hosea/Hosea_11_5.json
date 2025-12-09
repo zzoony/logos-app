@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Hosea 11:5",
+  "version": "ESV",
+  "original_text": "They shall not return to the land of Egypt,\n    but Assyria shall be their king,\n    because they have refused to return to me.",
+  "korean_text": "그들은 애굽 땅으로 되돌아 가지 못하겠거늘 내게 돌아 오기를 싫어하니 앗수르 사람이 그 임금이 될 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They shall not return to the land of Egypt",
+      "korean_translation": "그들은 애굽 땅으로 돌아가지 않을 것이다",
+      "word_indices": [
+        8,
+        78
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but Assyria shall be their king",
+      "korean_translation": "그러나 앗수르가 그들의 왕이 될 것이다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they have refused to return to me.",
+      "korean_translation": "이는 그들이 내게로 돌아오기를 거절했기 때문이다",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

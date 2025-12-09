@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 23:22",
+  "version": "ESV",
+  "original_text": "And whoever swears by heaven swears by the throne of God and by him who sits upon it.",
+  "korean_text": "또 하늘로 맹세하는 자는 하나님의 보좌와 그 위에 앉으신 이로 맹세함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And whoever swears by heaven",
+      "korean_translation": "또한 하늘을 두고 맹세하는 자는",
+      "word_indices": [
+        40,
+        117,
+        221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "swears by the throne of God",
+      "korean_translation": "하나님의 보좌를 두고 맹세하는 것이며",
+      "word_indices": [
+        1,
+        221,
+        249
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and by him who sits upon it.",
+      "korean_translation": "그 위에 앉으신 분을 두고 맹세하는 것이다.",
+      "word_indices": [
+        118
+      ]
+    }
+  ]
+}

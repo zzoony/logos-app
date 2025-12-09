@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 7:5",
+  "version": "ESV",
+  "original_text": "The Egyptians shall know that I am the Lord, when I stretch out my hand against Egypt and bring out the people of Israel from among them.”",
+  "korean_text": "내가 내 손을 애굽 위에 펴서 이스라엘 자손을 그 땅에서 인도하여 낼 때에야 애굽 사람이 나를 여호와인 줄 알리라 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Egyptians shall know",
+      "korean_translation": "애굽 사람들이 알게 되리라",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I am the Lord",
+      "korean_translation": "내가 여호와인 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when I stretch out my hand against Egypt",
+      "korean_translation": "내가 애굽을 향하여 내 손을 뻗을 때에",
+      "word_indices": [
+        10,
+        12,
+        412
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and bring out the people of Israel from among them.",
+      "korean_translation": "그들 중에서 이스라엘 백성을 이끌어낼 것이며",
+      "word_indices": [
+        3,
+        27
+      ]
+    }
+  ]
+}

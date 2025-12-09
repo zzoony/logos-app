@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Job 29:12",
+  "version": "ESV",
+  "original_text": "because I delivered the poor who cried for help,\n    and the fatherless who had none to help him.",
+  "korean_text": "이는 부르짖는 빈민과 도와 줄 자 없는 고아를 내가 건졌음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "because I delivered the poor",
+      "korean_translation": "내가 가난한 자를 건졌기 때문입니다",
+      "word_indices": [
+        268
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who cried for help",
+      "korean_translation": "도움을 부르짖는 자",
+      "word_indices": [
+        246
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the fatherless",
+      "korean_translation": "그리고 아버지 없는 자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who had none to help him",
+      "korean_translation": "그를 도와 줄 자가 없는",
+      "word_indices": [
+        175,
+        246
+      ]
+    }
+  ]
+}

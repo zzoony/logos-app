@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Isaiah 40:4",
+  "version": "ESV",
+  "original_text": "Every valley shall be lifted up,\n    and every mountain and hill be made low;\nthe uneven ground shall become level,\n    and the rough places a plain.",
+  "korean_text": "골짜기마다 돋우어지며 산마다, 언덕마다 낮아지며 고르지 아니한 곳이 평탄하게 되며 험한 곳이 평지가 될 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every valley shall be lifted up",
+      "korean_translation": "모든 골짜기가 솟아오를 것이요",
+      "word_indices": [
+        200,
+        251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and every mountain and hill be made low",
+      "korean_translation": "모든 산과 언덕이 낮아질 것이며",
+      "word_indices": [
+        123,
+        216,
+        762
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the uneven ground shall become level",
+      "korean_translation": "험한 곳이 평탄하게 될 것이요",
+      "word_indices": [
+        1815,
+        5384,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the rough places a plain",
+      "korean_translation": "거친 곳이 평원이 될 것입니다",
+      "word_indices": [
+        3406
+      ]
+    }
+  ]
+}

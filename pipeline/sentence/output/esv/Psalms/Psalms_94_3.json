@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 94:3",
+  "version": "ESV",
+  "original_text": "O Lord, how long shall the wicked,\n    how long shall the wicked exult?",
+  "korean_text": "여호와여 악인이 언제까지, 악인이 언제까지 개가를 부르리이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "how long shall the wicked,",
+      "korean_translation": "악인이 언제까지,",
+      "word_indices": [
+        127,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "how long shall the wicked exult?",
+      "korean_translation": "악인이 언제까지 기뻐하겠나이까?",
+      "word_indices": [
+        127,
+        1045,
+        3789
+      ]
+    }
+  ]
+}

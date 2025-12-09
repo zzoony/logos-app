@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 32:14",
+  "version": "ESV",
+  "original_text": "two hundred female goats and twenty male goats, two hundred ewes and twenty rams,",
+  "korean_text": "암염소가 이백이요 숫염소가 이십이요 암양이 이백이요 숫양이 이십이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "two hundred female goats",
+      "korean_translation": "이백 마리의 암염소",
+      "word_indices": [
+        312,
+        522
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and twenty male goats",
+      "korean_translation": "이십 마리의 수염소",
+      "word_indices": [
+        196,
+        234,
+        312
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "two hundred ewes",
+      "korean_translation": "이백 마리의 암양",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and twenty rams",
+      "korean_translation": "이십 마리의 숫양",
+      "word_indices": [
+        234,
+        273
+      ]
+    }
+  ]
+}

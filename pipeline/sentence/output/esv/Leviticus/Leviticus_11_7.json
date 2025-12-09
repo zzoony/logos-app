@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Leviticus 11:7",
+  "version": "ESV",
+  "original_text": "And the pig, because it parts the hoof and is cloven-footed but does not chew the cud, is unclean to you.",
+  "korean_text": "돼지는 굽이 갈라져 쪽발이로되 새김질을 못하므로 너희에게 부정하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the pig,",
+      "korean_translation": "그리고 돼지는,",
+      "word_indices": [
+        1549
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because it parts the hoof and is cloven-footed",
+      "korean_translation": "발굽이 갈라져 있고,",
+      "word_indices": [
+        121,
+        329,
+        1415
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but does not chew the cud,",
+      "korean_translation": "되새김질을 하지 않으므로,",
+      "word_indices": [
+        2040,
+        2041
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is unclean to you.",
+      "korean_translation": "너희에게 부정하다.",
+      "word_indices": [
+        206
+      ]
+    }
+  ]
+}

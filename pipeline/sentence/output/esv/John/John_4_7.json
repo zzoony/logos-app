@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 4:7",
+  "version": "ESV",
+  "original_text": "A woman from Samaria came to draw water. Jesus said to her, “Give me a drink.”",
+  "korean_text": "사마리아 여자 한 사람이 물을 길으러 왔으매 예수께서 물을 좀 달라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A woman from Samaria came to draw water.",
+      "korean_translation": "사마리아 여자가 물을 길으러 왔습니다.",
+      "word_indices": [
+        42,
+        53,
+        220
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said to her,",
+      "korean_translation": "예수님께서 그녀에게 말씀하셨습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“Give me a drink.”",
+      "korean_translation": "“저에게 물을 주세요.”",
+      "word_indices": [
+        5,
+        70
+      ]
+    }
+  ]
+}

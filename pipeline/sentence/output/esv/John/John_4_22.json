@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 4:22",
+  "version": "ESV",
+  "original_text": "You worship what you do not know; we worship what we know, for salvation is from the Jews.",
+  "korean_text": "너희는 알지 못하는 것을 예배하고 우리는 아는 것을 예배하노니 이는 구원이 유대인에게서 남이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You worship what you do not know",
+      "korean_translation": "너희는 알지 못하는 것을 예배합니다",
+      "word_indices": [
+        13,
+        271
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we worship what we know",
+      "korean_translation": "우리는 아는 것을 예배합니다",
+      "word_indices": [
+        13,
+        271
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for salvation is from the Jews",
+      "korean_translation": "이는 구원이 유대인에게서 나기 때문입니다",
+      "word_indices": [
+        180,
+        281
+      ]
+    }
+  ]
+}

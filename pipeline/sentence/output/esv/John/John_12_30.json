@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 12:30",
+  "version": "ESV",
+  "original_text": "Jesus answered, “This voice has come for your sake, not mine.",
+  "korean_text": "예수께서 대답하여 이르시되 이 소리가 난 것은 나를 위한 것이 아니요 너희를 위한 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered,",
+      "korean_translation": "예수께서 대답하셨습니다.",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This voice has come for your sake,",
+      "korean_translation": "이 소리는 너희들을 위해 온 것입니다.",
+      "word_indices": [
+        86,
+        315
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not mine.",
+      "korean_translation": "나를 위한 것이 아닙니다.",
+      "word_indices": []
+    }
+  ]
+}

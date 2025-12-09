@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Micah 6:6",
+  "version": "ESV",
+  "original_text": "“With what shall I come before the Lord,\n    and bow myself before God on high?\nShall I come before him with burnt offerings,\n    with calves a year old?",
+  "korean_text": "내가 무엇을 가지고 여호와 앞에 나아가며 높으신 하나님께 경배할까 내가 번제물로 일 년 된 송아지를 가지고 그 앞에 나아갈까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "With what shall I come before the Lord",
+      "korean_translation": "내가 무엇을 가지고 주 앞에 나아가며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bow myself before God on high?",
+      "korean_translation": "높으신 하나님께 경배할까",
+      "word_indices": [
+        1,
+        107,
+        238
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Shall I come before him with burnt offerings",
+      "korean_translation": "내가 번제물을 가지고 그 앞에 나아갈까",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with calves a year old?",
+      "korean_translation": "일 년 된 송아지를 가지고 나아갈까",
+      "word_indices": []
+    }
+  ]
+}

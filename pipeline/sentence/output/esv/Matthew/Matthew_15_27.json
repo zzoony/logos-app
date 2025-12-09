@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 15:27",
+  "version": "ESV",
+  "original_text": "She said, “Yes, Lord, yet even the dogs eat the crumbs that fall from their masters' table.”",
+  "korean_text": "여자가 이르되 주여 옳소이다마는 개들도 제 주인의 상에서 떨어지는 부스러기를 먹나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She said,",
+      "korean_translation": "그 여자가 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Yes, Lord,",
+      "korean_translation": "네, 주님,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yet even the dogs eat the crumbs",
+      "korean_translation": "하지만 개들도 부스러기를 먹나이다",
+      "word_indices": [
+        947,
+        3740
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that fall from their masters' table.”",
+      "korean_translation": "그것은 주인의 상에서 떨어지는 것입니다.",
+      "word_indices": [
+        100,
+        242,
+        438
+      ]
+    }
+  ]
+}

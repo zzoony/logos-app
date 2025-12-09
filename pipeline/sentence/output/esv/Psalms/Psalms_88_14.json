@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 88:14",
+  "version": "ESV",
+  "original_text": "O Lord, why do you cast my soul away?\n    Why do you hide your face from me?",
+  "korean_text": "여호와여 어찌하여 나의 영혼을 버리시며 어찌하여 주의 얼굴을 내게서 숨기시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "why do you cast my soul away?",
+      "korean_translation": "어찌하여 내 영혼을 버리시나이까?",
+      "word_indices": [
+        29,
+        166
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Why do you hide your face from me?",
+      "korean_translation": "어찌하여 주의 얼굴을 내게서 숨기시나이까?",
+      "word_indices": [
+        69,
+        211
+      ]
+    }
+  ]
+}

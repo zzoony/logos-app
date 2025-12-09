@@ -1,0 +1,46 @@
+{
+  "verse_reference": "1 Timothy 5:23",
+  "version": "ESV",
+  "original_text": "(No longer drink only water, but use a little wine for the sake of your stomach and your frequent ailments.)",
+  "korean_text": "이제부터는 물만 마시지 말고 네 위장과 자주 나는 병을 위하여는 포도주를 조금씩 쓰라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No longer drink only water",
+      "korean_translation": "이제 물만 마시지 말고",
+      "word_indices": [
+        42,
+        70,
+        398
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but use a little wine",
+      "korean_translation": "조금의 포도주를 사용하라",
+      "word_indices": [
+        194,
+        229,
+        392
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the sake of your stomach",
+      "korean_translation": "네 위장을 위하여",
+      "word_indices": [
+        315,
+        1430
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your frequent ailments",
+      "korean_translation": "그리고 자주 나는 네 병을 위함이라",
+      "word_indices": [
+        3600,
+        4571
+      ]
+    }
+  ]
+}

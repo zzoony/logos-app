@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 30:20",
+  "version": "ESV",
+  "original_text": "I cry to you for help and you do not answer me;\n    I stand, and you only look at me.",
+  "korean_text": "내가 주께 부르짖으나 주께서 대답하지 아니하시오며 내가 섰사오나 주께서 나를 돌아보지 아니하시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I cry to you for help",
+      "korean_translation": "나는 당신에게 도움을 구하며 외칩니다",
+      "word_indices": [
+        114,
+        246
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you do not answer me",
+      "korean_translation": "당신은 내게 대답하지 않으십니다",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I stand",
+      "korean_translation": "나는 서 있습니다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you only look at me",
+      "korean_translation": "당신은 나를 바라만 보십니다",
+      "word_indices": [
+        91
+      ]
+    }
+  ]
+}

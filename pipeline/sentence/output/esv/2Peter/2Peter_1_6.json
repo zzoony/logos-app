@@ -1,0 +1,33 @@
+{
+  "verse_reference": "2 Peter 1:6",
+  "version": "ESV",
+  "original_text": "and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness,",
+  "korean_text": "지식에 절제를, 절제에 인내를, 인내에 경건을,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and knowledge with self-control",
+      "korean_translation": "지식에 자제력을 더하고",
+      "word_indices": [
+        300,
+        990,
+        1249
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and self-control with steadfastness",
+      "korean_translation": "자제력에 인내를 더하고",
+      "word_indices": [
+        990,
+        1249
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and steadfastness with godliness",
+      "korean_translation": "인내에 경건을 더하고",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 93:3",
+  "version": "ESV",
+  "original_text": "The floods have lifted up, O Lord,\n    the floods have lifted up their voice;\n    the floods lift up their roaring.",
+  "korean_text": "여호와여 큰 물이 소리를 높였고 큰 물이 그 소리를 높였으니 큰 물이 그 물결을 높이나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The floods have lifted up",
+      "korean_translation": "홍수가 들이쳤나이다",
+      "word_indices": [
+        200,
+        937
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the floods have lifted up their voice",
+      "korean_translation": "홍수가 그 소리를 높였나이다",
+      "word_indices": [
+        86,
+        200,
+        937
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the floods lift up their roaring.",
+      "korean_translation": "홍수가 그 우레를 높이나이다",
+      "word_indices": [
+        200,
+        801,
+        937
+      ]
+    }
+  ]
+}

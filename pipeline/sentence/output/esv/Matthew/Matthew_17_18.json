@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 17:18",
+  "version": "ESV",
+  "original_text": "And Jesus rebuked the demon, and it came out of him, and the boy was healed instantly.",
+  "korean_text": "이에 예수께서 꾸짖으시니 귀신이 나가고 아이가 그 때부터 나으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus rebuked the demon",
+      "korean_translation": "예수님께서 귀신을 꾸짖으시고",
+      "word_indices": [
+        583
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and it came out of him",
+      "korean_translation": "그것이 그에게서 나오자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the boy was healed instantly",
+      "korean_translation": "그 소년은 즉시 나았습니다",
+      "word_indices": [
+        325,
+        747,
+        3833
+      ]
+    }
+  ]
+}

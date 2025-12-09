@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Matthew 10:35",
+  "version": "ESV",
+  "original_text": "For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.",
+  "korean_text": "내가 온 것은 사람이 그 아버지와, 딸이 어머니와, 며느리가 시어머니와 불화하게 하려 함이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I have come",
+      "korean_translation": "내가 왔으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to set a man against his father",
+      "korean_translation": "사람이 그 아버지를 대적하게 하려고",
+      "word_indices": [
+        6,
+        9,
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a daughter against her mother",
+      "korean_translation": "딸이 그 어머니를 대적하게 하려고",
+      "word_indices": [
+        12,
+        58,
+        128
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a daughter-in-law against her mother-in-law",
+      "korean_translation": "며느리가 그 시어머니를 대적하게 하려고",
+      "word_indices": [
+        12,
+        58,
+        66,
+        128
+      ]
+    }
+  ]
+}

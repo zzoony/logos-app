@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 27:40",
+  "version": "ESV",
+  "original_text": "and saying, “You who would destroy the temple and rebuild it in three days, save yourself! If you are the Son of God, come down from the cross.”",
+  "korean_text": "이르되 성전을 헐고 사흘에 짓는 자여 네가 만일 하나님의 아들이어든 자기를 구원하고 십자가에서 내려오라 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and saying,",
+      "korean_translation": "그리고 말하며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You who would destroy the temple",
+      "korean_translation": "성전을 헐고",
+      "word_indices": [
+        99,
+        170
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and rebuild it in three days,",
+      "korean_translation": "사흘에 다시 짓겠다 하는 너는",
+      "word_indices": [
+        97,
+        840
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "save yourself!",
+      "korean_translation": "네 자신을 구원하라!",
+      "word_indices": [
+        145
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If you are the Son of God,",
+      "korean_translation": "네가 하나님의 아들이라면,",
+      "word_indices": [
+        1,
+        2
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "come down from the cross.",
+      "korean_translation": "십자가에서 내려오라.",
+      "word_indices": []
+    }
+  ]
+}

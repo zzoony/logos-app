@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 127:1",
+  "version": "ESV",
+  "original_text": "Unless the Lord builds the house,\n    those who build it labor in vain.\nUnless the Lord watches over the city,\n    the watchman stays awake in vain.",
+  "korean_text": "여호와께서 집을 세우지 아니하시면 세우는 자의 수고가 헛되며 여호와께서 성을 지키지 아니하시면 파수꾼의 깨어 있음이 헛되도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Unless the Lord builds the house,",
+      "korean_translation": "여호와께서 집을 세우지 아니하시면,",
+      "word_indices": [
+        7,
+        87
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "those who build it labor in vain.",
+      "korean_translation": "세우는 자의 수고가 헛되도다",
+      "word_indices": [
+        87,
+        419,
+        701
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Unless the Lord watches over the city,",
+      "korean_translation": "여호와께서 성을 지키지 아니하시면,",
+      "word_indices": [
+        16,
+        460
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the watchman stays awake in vain.",
+      "korean_translation": "파수꾼의 깨는 것이 헛되도다",
+      "word_indices": [
+        421,
+        701,
+        1069
+      ]
+    }
+  ]
+}

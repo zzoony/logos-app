@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Amos 8:9",
+  "version": "ESV",
+  "original_text": "“And on that day,” declares the Lord God,\n    “I will make the sun go down at noon\n    and darken the earth in broad daylight.",
+  "korean_text": "주 여호와의 말씀이니라 그 날에 내가 해를 대낮에 지게 하여 백주에 땅을 캄캄하게 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And on that day,",
+      "korean_translation": "그 날에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "declares the Lord God,",
+      "korean_translation": "주 하나님이 말씀하시기를,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will make the sun go down at noon",
+      "korean_translation": "내가 정오에 해를 지게 하고",
+      "word_indices": [
+        321,
+        1700
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and darken the earth in broad daylight.",
+      "korean_translation": "대낮에 땅을 어둡게 하리라.",
+      "word_indices": [
+        1023,
+        1595,
+        5568
+      ]
+    }
+  ]
+}

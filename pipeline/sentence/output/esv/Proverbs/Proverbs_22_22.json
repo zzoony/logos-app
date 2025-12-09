@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 22:22",
+  "version": "ESV",
+  "original_text": "Do not rob the poor, because he is poor,\n    or crush the afflicted at the gate,",
+  "korean_text": "약한 자를 그가 약하다고 탈취하지 말며 곤고한 자를 성문에서 압제하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not rob the poor",
+      "korean_translation": "가난한 자를 약탈하지 말라",
+      "word_indices": [
+        268,
+        1261
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he is poor",
+      "korean_translation": "그가 가난하기 때문이다",
+      "word_indices": [
+        268
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or crush the afflicted at the gate",
+      "korean_translation": "또는 성문에서 곤고한 자를 짓밟지 말라",
+      "word_indices": [
+        98,
+        547,
+        688
+      ]
+    }
+  ]
+}

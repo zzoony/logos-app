@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 11:4",
+  "version": "ESV",
+  "original_text": "The Lord is in his holy temple;\n    the Lord's throne is in heaven;\n    his eyes see, his eyelids test the children of man.",
+  "korean_text": "여호와께서는 그의 성전에 계시고 여호와의 보좌는 하늘에 있음이여 그의 눈이 인생을 통촉하시고 그의 안목이 그들을 감찰하시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is in his holy temple",
+      "korean_translation": "주님은 그의 거룩한 성전에 계십니다.",
+      "word_indices": [
+        44,
+        170
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Lord's throne is in heaven",
+      "korean_translation": "주님의 보좌는 하늘에 있습니다.",
+      "word_indices": [
+        40,
+        249
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his eyes see",
+      "korean_translation": "그의 눈은 보십니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "his eyelids test the children of man",
+      "korean_translation": "그의 눈꺼풀은 인생들을 감찰하십니다.",
+      "word_indices": [
+        6,
+        456,
+        2306
+      ]
+    }
+  ]
+}

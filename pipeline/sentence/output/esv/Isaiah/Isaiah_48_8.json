@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Isaiah 48:8",
+  "version": "ESV",
+  "original_text": "You have never heard, you have never known,\n    from of old your ear has not been opened.\nFor I knew that you would surely deal treacherously,\n    and that from before birth you were called a rebel.",
+  "korean_text": "네가 과연 듣지도 못하였고 알지도 못하였으며 네 귀가 옛적부터 열리지 못하였나니 이는 네가 정녕 배신하여 모태에서부터 네가 배역한 자라 불린 줄을 내가 알았음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have never heard",
+      "korean_translation": "너는 결코 들은 적이 없다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you have never known",
+      "korean_translation": "너는 결코 알지 못했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from of old your ear has not been opened",
+      "korean_translation": "예로부터 네 귀는 열리지 않았다",
+      "word_indices": [
+        115,
+        202
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "For I knew",
+      "korean_translation": "이는 내가 알았기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you would surely deal treacherously",
+      "korean_translation": "네가 반드시 배신할 것이라는 것을",
+      "word_indices": [
+        232,
+        1965
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and that from before birth",
+      "korean_translation": "그리고 태어나기 전부터",
+      "word_indices": [
+        619
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "you were called a rebel",
+      "korean_translation": "너는 반역자라 불렸다는 것을",
+      "word_indices": [
+        31,
+        642
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Zechariah 13:8",
+  "version": "ESV",
+  "original_text": "In the whole land, declares the Lord,\n    two thirds shall be cut off and perish,\n    and one third shall be left alive.",
+  "korean_text": "여호와가 말하노라 이 온 땅에서 삼분의 이는 멸망하고 삼분의 일은 거기 남으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the whole land,",
+      "korean_translation": "온 땅에서,",
+      "word_indices": [
+        8,
+        151
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "declares the Lord,",
+      "korean_translation": "주께서 말씀하시기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "two thirds shall be cut off and perish,",
+      "korean_translation": "삼분의 이는 끊어져 멸망하고,",
+      "word_indices": [
+        124,
+        244,
+        310
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and one third shall be left alive.",
+      "korean_translation": "삼분의 일은 남으리라.",
+      "word_indices": [
+        244,
+        463
+      ]
+    }
+  ]
+}

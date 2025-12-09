@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 4:17",
+  "version": "ESV",
+  "original_text": "The woman answered him, “I have no husband.” Jesus said to her, “You are right in saying, ‘I have no husband’;",
+  "korean_text": "여자가 대답하여 이르되 나는 남편이 없나이다 예수께서 이르시되 네가 남편이 없다 하는 말이 옳도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman answered him,",
+      "korean_translation": "그 여자가 그에게 대답하여,",
+      "word_indices": [
+        53,
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have no husband.",
+      "korean_translation": "나는 남편이 없습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus said to her,",
+      "korean_translation": "예수께서 그녀에게 이르시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You are right in saying,",
+      "korean_translation": "네가 말하는 것이 옳으니,",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "‘I have no husband’;",
+      "korean_translation": "‘나는 남편이 없다’ 하니",
+      "word_indices": []
+    }
+  ]
+}

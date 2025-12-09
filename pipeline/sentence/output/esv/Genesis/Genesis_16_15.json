@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 16:15",
+  "version": "ESV",
+  "original_text": "And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.",
+  "korean_text": "하갈이 아브람의 아들을 낳으매 아브람이 하갈이 낳은 그 아들을 이름하여 이스마엘이라 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Hagar bore Abram a son",
+      "korean_translation": "하가가 아브람에게 아들을 낳았고",
+      "word_indices": [
+        2,
+        336
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Abram called the name of his son",
+      "korean_translation": "아브람은 그 아들의 이름을 불렀으니",
+      "word_indices": [
+        2,
+        20,
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whom Hagar bore",
+      "korean_translation": "그는 하가가 낳은 아들이며",
+      "word_indices": [
+        336
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Ishmael.",
+      "korean_translation": "이스마엘이라 하였더라",
+      "word_indices": []
+    }
+  ]
+}

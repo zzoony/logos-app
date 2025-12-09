@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 Corinthians 12:21",
+  "version": "ESV",
+  "original_text": "The eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.”",
+  "korean_text": "눈이 손더러 내가 너를 쓸 데가 없다 하거나 또한 머리가 발더러 내가 너를 쓸 데가 없다 하지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The eye cannot say to the hand,",
+      "korean_translation": "눈이 손에게 말할 수 없고,",
+      "word_indices": [
+        10,
+        50,
+        215
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“I have no need of you,”",
+      "korean_translation": "나는 네가 필요 없다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor again the head to the feet,",
+      "korean_translation": "또한 머리가 발에게,",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“I have no need of you.”",
+      "korean_translation": "나는 네가 필요 없다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 104:8",
+  "version": "ESV",
+  "original_text": "The mountains rose, the valleys sank down\n    to the place that you appointed for them.",
+  "korean_text": "주께서 그들을 위하여 정하여 주신 곳으로 흘러갔고 산은 오르고 골짜기는 내려갔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The mountains rose,",
+      "korean_translation": "산들이 솟아올랐고,",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the valleys sank down",
+      "korean_translation": "골짜기들은 내려앉았으니",
+      "word_indices": [
+        251
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the place that you appointed for them.",
+      "korean_translation": "당신이 그들을 위해 정하신 곳으로.",
+      "word_indices": [
+        21,
+        245
+      ]
+    }
+  ]
+}

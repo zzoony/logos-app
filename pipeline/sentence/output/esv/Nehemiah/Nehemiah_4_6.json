@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Nehemiah 4:6",
+  "version": "ESV",
+  "original_text": "So we built the wall. And all the wall was joined together to half its height, for the people had a mind to work.",
+  "korean_text": "이에 우리가 성을 건축하여 전부가 연결되고 높이가 절반에 이르렀으니 이는 백성이 마음 들여 일을 하였음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So we built the wall.",
+      "korean_translation": "그래서 우리는 성벽을 쌓았습니다.",
+      "word_indices": [
+        191
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And all the wall was joined together",
+      "korean_translation": "그리고 모든 성벽은 연결되었습니다",
+      "word_indices": [
+        120,
+        191,
+        720
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to half its height",
+      "korean_translation": "절반 높이까지",
+      "word_indices": [
+        333,
+        515
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the people had a mind to work",
+      "korean_translation": "왜냐하면 백성들은 일할 마음이 있었기 때문입니다",
+      "word_indices": [
+        3,
+        52,
+        344
+      ]
+    }
+  ]
+}

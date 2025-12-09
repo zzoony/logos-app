@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 89:25",
+  "version": "ESV",
+  "original_text": "I will set his hand on the sea\n    and his right hand on the rivers.",
+  "korean_text": "내가 또 그의 손을 바다 위에 놓으며 오른손을 강들 위에 놓으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will set his hand on the sea",
+      "korean_translation": "내가 그의 손을 바다 위에 놓으리니",
+      "word_indices": [
+        10,
+        84
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his right hand on the rivers",
+      "korean_translation": "그의 오른손을 강들 위에 놓으리니",
+      "word_indices": [
+        10,
+        88,
+        357
+      ]
+    }
+  ]
+}

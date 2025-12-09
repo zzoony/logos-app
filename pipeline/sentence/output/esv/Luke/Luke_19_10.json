@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 19:10",
+  "version": "ESV",
+  "original_text": "For the Son of Man came to seek and to save the lost.”",
+  "korean_text": "인자가 온 것은 잃어버린 자를 찾아 구원하려 함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the Son of Man came",
+      "korean_translation": "인자가 오셨으니",
+      "word_indices": [
+        2,
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to seek the lost",
+      "korean_translation": "잃어버린 자를 찾으시려 함이라",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to save the lost.",
+      "korean_translation": "잃어버린 자를 구원하시려 함이라",
+      "word_indices": [
+        145
+      ]
+    }
+  ]
+}

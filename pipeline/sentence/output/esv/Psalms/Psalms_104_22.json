@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 104:22",
+  "version": "ESV",
+  "original_text": "When the sun rises, they steal away\n    and lie down in their dens.",
+  "korean_text": "해가 돋으면 물러가서 그들의 굴 속에 눕고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the sun rises,",
+      "korean_translation": "해가 뜰 때,",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they steal away",
+      "korean_translation": "그들은 자취를 감추고",
+      "word_indices": [
+        29,
+        859
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and lie down in their dens.",
+      "korean_translation": "그들의 굴에 눕습니다.",
+      "word_indices": [
+        1295
+      ]
+    }
+  ]
+}

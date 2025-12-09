@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Samuel 11:13",
+  "version": "ESV",
+  "original_text": "But Saul said, “Not a man shall be put to death this day, for today the Lord has worked salvation in Israel.”",
+  "korean_text": "사울이 이르되 이 날에는 사람을 죽이지 못하리니 여호와께서 오늘 이스라엘 중에 구원을 베푸셨음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Saul said,",
+      "korean_translation": "그러나 사울이 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Not a man shall be put to death this day,",
+      "korean_translation": "오늘은 한 사람도 죽이지 말라,",
+      "word_indices": [
+        6,
+        76
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for today the Lord has worked salvation in Israel.”",
+      "korean_translation": "이는 오늘 여호와께서 이스라엘에 구원을 베푸셨기 때문이다.”",
+      "word_indices": [
+        52,
+        275,
+        281
+      ]
+    }
+  ]
+}

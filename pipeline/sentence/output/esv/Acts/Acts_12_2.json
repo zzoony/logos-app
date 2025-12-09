@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Acts 12:2",
+  "version": "ESV",
+  "original_text": "He killed James the brother of John with the sword,",
+  "korean_text": "요한의 형제 야고보를 칼로 죽이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He killed James",
+      "korean_translation": "그가 야고보를 죽였다",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the brother of John",
+      "korean_translation": "요한의 형제",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the sword",
+      "korean_translation": "칼로",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

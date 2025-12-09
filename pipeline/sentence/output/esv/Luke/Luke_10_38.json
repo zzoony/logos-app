@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 10:38",
+  "version": "ESV",
+  "original_text": "Now as they went on their way, Jesus entered a village. And a woman named Martha welcomed him into her house.",
+  "korean_text": "그들이 길 갈 때에 예수께서 한 마을에 들어가시매 마르다라 이름하는 한 여자가 자기 집으로 영접하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now as they went on their way,",
+      "korean_translation": "그들이 길을 가는데,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus entered a village.",
+      "korean_translation": "예수께서 한 마을에 들어가셨습니다.",
+      "word_indices": [
+        125,
+        409
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And a woman named Martha",
+      "korean_translation": "그리고 마르다라는 한 여자가",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "welcomed him into her house.",
+      "korean_translation": "그를 자기 집으로 맞이했습니다.",
+      "word_indices": [
+        7
+      ]
+    }
+  ]
+}

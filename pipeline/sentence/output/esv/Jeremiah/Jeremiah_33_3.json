@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Jeremiah 33:3",
+  "version": "ESV",
+  "original_text": "Call to me and I will answer you, and will tell you great and hidden things that you have not known.",
+  "korean_text": "너는 내게 부르짖으라 내가 네게 응답하겠고 네가 알지 못하는 크고 은밀한 일을 네게 보이리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Call to me",
+      "korean_translation": "나를 부르라",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will answer you",
+      "korean_translation": "내가 네게 응답하겠다",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and will tell you great and hidden things",
+      "korean_translation": "내가 네게 크고 숨겨진 것들을 알려주리라",
+      "word_indices": [
+        30,
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you have not known",
+      "korean_translation": "네가 알지 못하던 것들을",
+      "word_indices": []
+    }
+  ]
+}

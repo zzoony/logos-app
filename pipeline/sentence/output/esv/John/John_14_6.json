@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 14:6",
+  "version": "ESV",
+  "original_text": "Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.",
+  "korean_text": "예수께서 이르시되 내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him,",
+      "korean_translation": "예수께서 그에게 말씀하셨다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“I am the way,",
+      "korean_translation": "내가 곧 길이요,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the truth,",
+      "korean_translation": "진리요,",
+      "word_indices": [
+        346
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the life.",
+      "korean_translation": "생명이니라.",
+      "word_indices": [
+        41
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "No one comes to the Father except through me.",
+      "korean_translation": "나를 통하지 않고서는 아버지께 올 자가 없느니라.",
+      "word_indices": [
+        9,
+        60,
+        524
+      ]
+    }
+  ]
+}

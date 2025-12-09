@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Kings 13:17",
+  "version": "ESV",
+  "original_text": "for it was said to me by the word of the Lord, ‘You shall neither eat bread nor drink water there, nor return by the way that you came.’”",
+  "korean_text": "이는 여호와의 말씀이 내게 이르시기를 네가 거기서 떡도 먹지 말고 물도 마시지 말며 또 네가 오던 길로 되돌아가지도 말라 하셨음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for it was said to me by the word of the Lord,",
+      "korean_translation": "주의 말씀이 내게 이르기를,",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You shall neither eat bread nor drink water there,",
+      "korean_translation": "네가 그곳에서는 떡도 먹지 말고 물도 마시지 말며,",
+      "word_indices": [
+        42,
+        70,
+        129,
+        278
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor return by the way that you came.”",
+      "korean_translation": "네가 왔던 길로도 돌아가지 못하리라.”",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

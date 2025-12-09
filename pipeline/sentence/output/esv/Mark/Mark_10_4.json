@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Mark 10:4",
+  "version": "ESV",
+  "original_text": "They said, “Moses allowed a man to write a certificate of divorce and to send her away.”",
+  "korean_text": "이르되 모세는 이혼 증서를 써주어 버리기를 허락하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said,",
+      "korean_translation": "그들이 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Moses allowed a man to write a certificate of divorce",
+      "korean_translation": "모세가 한 남자가 이혼 증서를 쓰도록 허락했고,",
+      "word_indices": [
+        6,
+        79,
+        1039,
+        1143,
+        2716
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to send her away.",
+      "korean_translation": "그녀를 내보내도록 허락했습니다.",
+      "word_indices": [
+        24,
+        29
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 104:15",
+  "version": "ESV",
+  "original_text": "and wine to gladden the heart of man,\noil to make his face shine\n    and bread to strengthen man's heart.",
+  "korean_text": "사람의 마음을 기쁘게 하는 포도주와 사람의 얼굴을 윤택하게 하는 기름과 사람의 마음을 힘있게 하는 양식을 주셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "wine to gladden the heart of man",
+      "korean_translation": "사람의 마음을 기쁘게 하는 포도주",
+      "word_indices": [
+        6,
+        26,
+        194,
+        3735
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "oil to make his face shine",
+      "korean_translation": "그의 얼굴을 빛나게 하는 기름",
+      "word_indices": [
+        69,
+        222,
+        877
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bread to strengthen man's heart",
+      "korean_translation": "그리고 사람의 마음을 강건하게 하는 빵",
+      "word_indices": [
+        6,
+        26,
+        129,
+        710
+      ]
+    }
+  ]
+}

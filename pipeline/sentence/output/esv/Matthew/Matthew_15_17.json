@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 15:17",
+  "version": "ESV",
+  "original_text": "Do you not see that whatever goes into the mouth passes into the stomach and is expelled?",
+  "korean_text": "입으로 들어가는 모든 것은 배로 들어가서 뒤로 내버려지는 줄 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do you not see that",
+      "korean_translation": "너희가 그것을 알지 못하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whatever goes into the mouth",
+      "korean_translation": "입에 들어가는 모든 것은",
+      "word_indices": [
+        95,
+        298
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "passes into the stomach",
+      "korean_translation": "배로 들어가서",
+      "word_indices": [
+        239,
+        1430
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and is expelled?",
+      "korean_translation": "밖으로 나가느냐?",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse_reference": "Isaiah 22:13",
+  "version": "ESV",
+  "original_text": "and behold, joy and gladness,\n    killing oxen and slaughtering sheep,\n    eating flesh and drinking wine.\n“Let us eat and drink,\n    for tomorrow we die.”",
+  "korean_text": "너희가 기뻐하며 즐거워하여 소를 죽이고 양을 잡아 고기를 먹고 포도주를 마시면서 내일 죽으리니 먹고 마시자 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and behold,",
+      "korean_translation": "그리고 보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "joy and gladness,",
+      "korean_translation": "기쁨과 즐거움,",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "killing oxen",
+      "korean_translation": "소를 잡고,",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and slaughtering sheep,",
+      "korean_translation": "양을 도살하며,",
+      "word_indices": [
+        235,
+        538
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "eating flesh",
+      "korean_translation": "고기를 먹고,",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and drinking wine.",
+      "korean_translation": "포도주를 마시고 있다.",
+      "word_indices": [
+        70,
+        194
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "“Let us eat and drink,",
+      "korean_translation": "“우리가 먹고 마시자,",
+      "word_indices": [
+        70
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "for tomorrow we die.”",
+      "korean_translation": "내일이면 우리가 죽을 테니까.”",
+      "word_indices": [
+        57,
+        779
+      ]
+    }
+  ]
+}

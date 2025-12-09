@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 65:13",
+  "version": "ESV",
+  "original_text": "the meadows clothe themselves with flocks,\n    the valleys deck themselves with grain,\n    they shout and sing together for joy.",
+  "korean_text": "초장은 양 떼로 옷 입었고 골짜기는 곡식으로 덮였으매 그들이 다 즐거이 외치고 또 노래하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the meadows clothe themselves with flocks",
+      "korean_translation": "초원이 양 떼로 단장하고",
+      "word_indices": [
+        199,
+        247,
+        3731
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the valleys deck themselves with grain",
+      "korean_translation": "골짜기는 곡식으로 단장하고",
+      "word_indices": [
+        176,
+        251,
+        3131
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they shout and sing together for joy",
+      "korean_translation": "기쁨으로 함께 외치고 노래합니다",
+      "word_indices": [
+        120,
+        265,
+        284,
+        447
+      ]
+    }
+  ]
+}

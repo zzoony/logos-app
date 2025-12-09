@@ -1,0 +1,28 @@
+{
+  "verse_reference": "2 Chronicles 36:1",
+  "version": "ESV",
+  "original_text": "The people of the land took Jehoahaz the son of Josiah and made him king in his father's place in Jerusalem.",
+  "korean_text": "그 땅의 백성이 요시야의 아들 여호아하스를 세워 그의 아버지를 대신하여 예루살렘에서 왕으로 삼으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people of the land took Jehoahaz the son of Josiah",
+      "korean_translation": "그 땅의 백성이 요시야의 아들 여호아하스를 데려왔습니다",
+      "word_indices": [
+        2,
+        3,
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and made him king in his father's place in Jerusalem.",
+      "korean_translation": "그리고 예루살렘에서 그 아버지를 대신하여 그를 왕으로 삼았습니다",
+      "word_indices": [
+        4,
+        9,
+        21
+      ]
+    }
+  ]
+}

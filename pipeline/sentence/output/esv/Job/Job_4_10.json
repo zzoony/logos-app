@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Job 4:10",
+  "version": "ESV",
+  "original_text": "The roar of the lion, the voice of the fierce lion,\n    the teeth of the young lions are broken.",
+  "korean_text": "사자의 우는 소리와 젊은 사자의 소리가 그치고 어린 사자의 이가 부러지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The roar of the lion",
+      "korean_translation": "사자의 포효",
+      "word_indices": [
+        348,
+        801
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the voice of the fierce lion",
+      "korean_translation": "사나운 사자의 목소리",
+      "word_indices": [
+        86,
+        348,
+        985
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the teeth of the young lions are broken.",
+      "korean_translation": "어린 사자들의 이빨은 부러진다.",
+      "word_indices": [
+        131,
+        348,
+        899
+      ]
+    }
+  ]
+}

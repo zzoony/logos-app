@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 12:1",
+  "version": "ESV",
+  "original_text": "You will say in that day:\n“I will give thanks to you, O Lord,\n    for though you were angry with me,\nyour anger turned away,\n    that you might comfort me.",
+  "korean_text": "그 날에 네가 말하기를 여호와여 주께서 전에는 내게 노하셨사오나 이제는 주의 진노가 돌아섰고 또 주께서 나를 안위하시오니 내가 주께 감사하겠나이다 할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will say in that day:",
+      "korean_translation": "너는 그 날에 말하기를:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will give thanks to you, O Lord,",
+      "korean_translation": "주여, 내가 주께 감사하리니",
+      "word_indices": [
+        5,
+        376
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for though you were angry with me,",
+      "korean_translation": "비록 주께서 나에게 진노하셨으나",
+      "word_indices": [
+        182,
+        489
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your anger turned away,",
+      "korean_translation": "주의 진노가 돌이키셨고",
+      "word_indices": [
+        29,
+        45,
+        167
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you might comfort me.",
+      "korean_translation": "나를 위로하려 하심이라",
+      "word_indices": [
+        523
+      ]
+    }
+  ]
+}

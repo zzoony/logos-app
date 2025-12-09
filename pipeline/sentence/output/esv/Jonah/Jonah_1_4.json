@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Jonah 1:4",
+  "version": "ESV",
+  "original_text": "But the Lord hurled a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship threatened to break up.",
+  "korean_text": "여호와께서 큰 바람을 바다 위에 내리시매 바다 가운데에 큰 폭풍이 일어나 배가 거의 깨지게 된지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the Lord hurled a great wind upon the sea",
+      "korean_translation": "하지만 주께서 바다 위에 큰 바람을 일으키셨다",
+      "word_indices": [
+        30,
+        84,
+        259,
+        1788
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there was a mighty tempest on the sea",
+      "korean_translation": "그리고 바다에 거대한 폭풍이 일어났다",
+      "word_indices": [
+        84,
+        173,
+        1571
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that the ship threatened to break up",
+      "korean_translation": "그리하여 배가 부서질 위험이 있었다",
+      "word_indices": [
+        85,
+        694,
+        2816
+      ]
+    }
+  ]
+}

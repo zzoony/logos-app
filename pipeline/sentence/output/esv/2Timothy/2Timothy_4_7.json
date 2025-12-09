@@ -1,0 +1,33 @@
+{
+  "verse_reference": "2 Timothy 4:7",
+  "version": "ESV",
+  "original_text": "I have fought the good fight, I have finished the race, I have kept the faith.",
+  "korean_text": "나는 선한 싸움을 싸우고 나의 달려갈 길을 마치고 믿음을 지켰으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have fought the good fight",
+      "korean_translation": "나는 선한 싸움을 싸웠고",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have finished the race",
+      "korean_translation": "나는 달릴 길을 마쳤으며",
+      "word_indices": [
+        402,
+        2183
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have kept the faith",
+      "korean_translation": "나는 믿음을 지켰습니다",
+      "word_indices": [
+        158
+      ]
+    }
+  ]
+}

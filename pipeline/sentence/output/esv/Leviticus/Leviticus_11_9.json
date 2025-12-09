@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Leviticus 11:9",
+  "version": "ESV",
+  "original_text": "“These you may eat, of all that are in the waters. Everything in the waters that has fins and scales, whether in the seas or in the rivers, you may eat.",
+  "korean_text": "물에 있는 모든 것 중에서 너희가 먹을 만한 것은 이것이니 강과 바다와 다른 물에 있는 모든 것 중에서 지느러미와 비늘 있는 것은 너희가 먹되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These you may eat",
+      "korean_translation": "이것들은 먹어도 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of all that are in the waters.",
+      "korean_translation": "물에 있는 모든 것 중에서",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Everything in the waters that has fins and scales",
+      "korean_translation": "물에 있는 지느러미와 비늘이 있는 모든 것은",
+      "word_indices": [
+        42,
+        2495
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whether in the seas or in the rivers",
+      "korean_translation": "바다에 있든 강에 있든",
+      "word_indices": [
+        84,
+        357
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you may eat.",
+      "korean_translation": "너희는 먹을 수 있다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 9:20",
+  "version": "ESV",
+  "original_text": "His parents answered, “We know that this is our son and that he was born blind.",
+  "korean_text": "그 부모가 대답하여 이르되 이 사람이 우리 아들인 것과 맹인으로 난 것을 아나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "His parents answered,",
+      "korean_translation": "그의 부모가 대답하였으되,",
+      "word_indices": [
+        54,
+        1313
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“We know that this is our son",
+      "korean_translation": "우리는 이 사람이 우리 아들인 줄 압니다",
+      "word_indices": [
+        2,
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and that he was born blind.",
+      "korean_translation": "그리고 소경으로 난 것도 압니다.",
+      "word_indices": [
+        519
+      ]
+    }
+  ]
+}

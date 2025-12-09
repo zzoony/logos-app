@@ -1,0 +1,24 @@
+{
+  "verse_reference": "Psalms 145:2",
+  "version": "ESV",
+  "original_text": "Every day I will bless you\n    and praise your name forever and ever.",
+  "korean_text": "내가 날마다 주를 송축하며 영원히 주의 이름을 송축하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every day I will bless you",
+      "korean_translation": "나는 매일 당신을 축복하겠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and praise your name forever and ever.",
+      "korean_translation": "그리고 영원무궁히 당신의 이름을 찬양하겠습니다",
+      "word_indices": [
+        20,
+        96,
+        160
+      ]
+    }
+  ]
+}

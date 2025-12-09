@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 15:21",
+  "version": "ESV",
+  "original_text": "But all these things they will do to you on account of my name, because they do not know him who sent me.",
+  "korean_text": "그러나 사람들이 내 이름으로 말미암아 이 모든 일을 너희에게 하리니 이는 나를 보내신 이를 알지 못함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But all these things",
+      "korean_translation": "그러나 이 모든 일들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they will do to you",
+      "korean_translation": "그들이 너희에게 할 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on account of my name",
+      "korean_translation": "내 이름 때문에",
+      "word_indices": [
+        20,
+        674
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because they do not know him",
+      "korean_translation": "이는 그들이 그를 알지 못하기 때문입니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who sent me",
+      "korean_translation": "나를 보내신",
+      "word_indices": []
+    }
+  ]
+}

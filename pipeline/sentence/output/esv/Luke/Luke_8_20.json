@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 8:20",
+  "version": "ESV",
+  "original_text": "And he was told, “Your mother and your brothers are standing outside, desiring to see you.”",
+  "korean_text": "어떤 이가 알리되 당신의 어머니와 동생들이 당신을 보려고 밖에 서 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he was told",
+      "korean_translation": "그에게 말이 전해졌습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Your mother and your brothers are standing outside",
+      "korean_translation": "어머니와 형제들이 밖에 서 있습니다",
+      "word_indices": [
+        28,
+        38,
+        128,
+        405
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "desiring to see you.”",
+      "korean_translation": "당신을 뵙기를 원하고 있습니다",
+      "word_indices": []
+    }
+  ]
+}

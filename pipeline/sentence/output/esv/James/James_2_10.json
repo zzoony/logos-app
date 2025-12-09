@@ -1,0 +1,36 @@
+{
+  "verse_reference": "James 2:10",
+  "version": "ESV",
+  "original_text": "For whoever keeps the whole law but fails in one point has become guilty of all of it.",
+  "korean_text": "누구든지 온 율법을 지키다가 그 하나를 범하면 모두 범한 자가 되나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For whoever keeps the whole law",
+      "korean_translation": "누구든지 온 율법을 지키지만",
+      "word_indices": [
+        46,
+        66,
+        117,
+        151
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but fails in one point",
+      "korean_translation": "한 점에서 실패하면",
+      "word_indices": [
+        686,
+        1175
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "has become guilty of all of it.",
+      "korean_translation": "모든 것에 대하여 유죄가 됩니다.",
+      "word_indices": [
+        1022
+      ]
+    }
+  ]
+}

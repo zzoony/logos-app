@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 18:41",
+  "version": "ESV",
+  "original_text": "They cried for help, but there was none to save;\n    they cried to the Lord, but he did not answer them.",
+  "korean_text": "그들이 부르짖으나 구원할 자가 없었고 여호와께 부르짖어도 그들에게 대답하지 아니하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They cried for help",
+      "korean_translation": "그들은 구원을 부르짖었으나",
+      "word_indices": [
+        246
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but there was none to save",
+      "korean_translation": "구원하는 자가 없었고",
+      "word_indices": [
+        145,
+        175
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they cried to the Lord",
+      "korean_translation": "그들이 주께 부르짖었으나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he did not answer them",
+      "korean_translation": "그는 그들에게 응답하지 않으셨다",
+      "word_indices": [
+        54
+      ]
+    }
+  ]
+}

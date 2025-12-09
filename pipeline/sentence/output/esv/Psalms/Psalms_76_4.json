@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Psalms 76:4",
+  "version": "ESV",
+  "original_text": "Glorious are you, more majestic\n    than the mountains full of prey.",
+  "korean_text": "주는 약탈한 산에서 영화로우시며 존귀하시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Glorious are you",
+      "korean_translation": "주는 영광스럽습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "more majestic than the mountains full of prey",
+      "korean_translation": "먹이가 가득한 산들보다 더 위엄 있으십니다",
+      "word_indices": [
+        123,
+        165,
+        807,
+        1840
+      ]
+    }
+  ]
+}

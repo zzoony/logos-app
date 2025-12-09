@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 78:6",
+  "version": "ESV",
+  "original_text": "that the next generation might know them,\n    the children yet unborn,\nand arise and tell them to their children,",
+  "korean_text": "이는 그들로 후대 곧 태어날 자손에게 이를 알게 하고 그들은 일어나 그들의 자손에게 일러서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "that the next generation might know them",
+      "korean_translation": "다음 세대가 그것들을 알게 하려 함이라",
+      "word_indices": [
+        13,
+        225,
+        442
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the children yet unborn",
+      "korean_translation": "아직 태어나지 아니한 자녀들",
+      "word_indices": [
+        4248
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and arise and tell them to their children",
+      "korean_translation": "그리고 일어나 그것들을 자기 자녀들에게 전하게 하려 함이라",
+      "word_indices": [
+        36,
+        168
+      ]
+    }
+  ]
+}

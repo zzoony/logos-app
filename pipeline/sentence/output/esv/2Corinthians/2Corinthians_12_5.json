@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Corinthians 12:5",
+  "version": "ESV",
+  "original_text": "On behalf of this man I will boast, but on my own behalf I will not boast, except of my weaknesses—",
+  "korean_text": "내가 이런 사람을 위하여 자랑하겠으나 나를 위하여는 약한 것들 외에 자랑하지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On behalf of this man I will boast",
+      "korean_translation": "나는 이 사람을 위하여 자랑하겠습니다",
+      "word_indices": [
+        6,
+        512,
+        1057
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but on my own behalf I will not boast",
+      "korean_translation": "하지만 나 자신을 위해서는 자랑하지 않겠습니다",
+      "word_indices": [
+        512,
+        1057
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "except of my weaknesses",
+      "korean_translation": "나의 약점 외에는",
+      "word_indices": [
+        524,
+        1752
+      ]
+    }
+  ]
+}

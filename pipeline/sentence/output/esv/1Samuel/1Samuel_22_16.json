@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 22:16",
+  "version": "ESV",
+  "original_text": "And the king said, “You shall surely die, Ahimelech, you and all your father's house.”",
+  "korean_text": "왕이 이르되 아히멜렉아 네가 반드시 죽을 것이요 너와 네 아비의 온 집도 그러하리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the king said",
+      "korean_translation": "왕이 말하기를",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You shall surely die",
+      "korean_translation": "너는 반드시 죽으리라",
+      "word_indices": [
+        57,
+        232
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Ahimelech",
+      "korean_translation": "아히멜렉이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you and all your father's house.",
+      "korean_translation": "너와 네 아비의 온 집안이니라",
+      "word_indices": [
+        7,
+        9
+      ]
+    }
+  ]
+}

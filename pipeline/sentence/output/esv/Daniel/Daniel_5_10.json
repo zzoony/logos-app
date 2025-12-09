@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Daniel 5:10",
+  "version": "ESV",
+  "original_text": "The queen, because of the words of the king and his lords, came into the banqueting hall, and the queen declared, “O king, live forever! Let not your thoughts alarm you or your color change.",
+  "korean_text": "왕비가 왕과 그 귀족들의 말로 말미암아 잔치하는 궁에 들어왔더니 이에 말하여 이르되 왕이여 만수무강 하옵소서 왕의 생각을 번민하게 하지 말며 얼굴빛을 변할 것도 아니니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The queen came into the banqueting hall",
+      "korean_translation": "왕후가 연회장으로 들어왔습니다",
+      "word_indices": [
+        763,
+        2163,
+        2609
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because of the words of the king and his lords",
+      "korean_translation": "왕과 그 귀족들의 말 때문에",
+      "word_indices": [
+        4,
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the queen declared",
+      "korean_translation": "그리고 왕후가 말했습니다",
+      "word_indices": [
+        763
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“O king, live forever!",
+      "korean_translation": "“왕이여, 영원히 살아소서!",
+      "word_indices": [
+        4,
+        33,
+        96
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Let not your thoughts alarm you or your color change.",
+      "korean_translation": "당신의 생각으로 당신이 놀라거나 얼굴빛이 변하지 마소서",
+      "word_indices": [
+        675,
+        829,
+        1214,
+        1830
+      ]
+    }
+  ]
+}

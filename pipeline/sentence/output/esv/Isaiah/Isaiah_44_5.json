@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Isaiah 44:5",
+  "version": "ESV",
+  "original_text": "This one will say, ‘I am the Lord's,’\n    another will call on the name of Jacob,\nand another will write on his hand, ‘The Lord's,’\n    and name himself by the name of Israel.”",
+  "korean_text": "한 사람은 이르기를 나는 여호와께 속하였다 할 것이며 또 한 사람은 야곱의 이름으로 자기를 부를 것이며 또 다른 사람은 자기가 여호와께 속하였음을 그의 손으로 기록하고 이스라엘의 이름으로 존귀히 여김을 받으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This one will say,",
+      "korean_translation": "어떤 이는 말하리라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "‘I am the Lord's,’",
+      "korean_translation": "‘나는 주의 것이다’",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "another will call on the name of Jacob,",
+      "korean_translation": "다른 이는 야곱의 이름으로 부르겠고,",
+      "word_indices": [
+        20,
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and another will write on his hand,",
+      "korean_translation": "또 다른 이는 자기 손에 글을 쓰겠으며,",
+      "word_indices": [
+        10,
+        79
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "‘The Lord's,’",
+      "korean_translation": "‘주의 것이라’",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and name himself by the name of Israel.”",
+      "korean_translation": "이스라엘의 이름으로 자신을 이름하리라",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

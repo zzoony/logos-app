@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 69:7",
+  "version": "ESV",
+  "original_text": "For it is for your sake that I have borne reproach,\n    that dishonor has covered my face.",
+  "korean_text": "내가 주를 위하여 비방을 받았사오니 수치가 나의 얼굴에 덮였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For it is for your sake",
+      "korean_translation": "이는 너희를 위함이라",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I have borne reproach",
+      "korean_translation": "내가 비방을 받았음이라",
+      "word_indices": [
+        795
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that dishonor has covered my face",
+      "korean_translation": "수치가 내 얼굴을 덮었음이라",
+      "word_indices": [
+        69,
+        208,
+        1171
+      ]
+    }
+  ]
+}

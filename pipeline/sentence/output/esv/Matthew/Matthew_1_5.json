@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:5",
+  "version": "ESV",
+  "original_text": "and Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth, and Obed the father of Jesse,",
+  "korean_text": "살몬은 라합에게서 보아스를 낳고 보아스는 룻에게서 오벳을 낳고 오벳은 이새를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Salmon the father of Boaz by Rahab",
+      "korean_translation": "그리고 살몬은 라합에게서 보아스를 낳았고",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Boaz the father of Obed by Ruth",
+      "korean_translation": "보아스는 룻에게서 오벳을 낳았고",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Obed the father of Jesse",
+      "korean_translation": "오벳은 이새를 낳았으며",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

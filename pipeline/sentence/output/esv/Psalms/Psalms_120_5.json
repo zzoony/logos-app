@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 120:5",
+  "version": "ESV",
+  "original_text": "Woe to me, that I sojourn in Meshech,\n    that I dwell among the tents of Kedar!",
+  "korean_text": "메섹에 머물며 게달의 장막 중에 머무는 것이 내게 화로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to me",
+      "korean_translation": "나에게 화로다",
+      "word_indices": [
+        485
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I sojourn in Meshech",
+      "korean_translation": "내가 메섹에 유하는 것은",
+      "word_indices": [
+        783
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I dwell among the tents of Kedar",
+      "korean_translation": "내가 게달의 장막 중에 거주하는 것은",
+      "word_indices": [
+        27,
+        77,
+        109
+      ]
+    }
+  ]
+}

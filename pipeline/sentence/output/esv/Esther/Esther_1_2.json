@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Esther 1:2",
+  "version": "ESV",
+  "original_text": "in those days when King Ahasuerus sat on his royal throne in Susa, the citadel,",
+  "korean_text": "당시에 아하수에로 왕이 수산 궁에서 즉위하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "in those days",
+      "korean_translation": "그 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when King Ahasuerus sat on his royal throne",
+      "korean_translation": "아하수에로 왕이 그의 왕좌에 앉았을 때에",
+      "word_indices": [
+        4,
+        249,
+        737
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Susa",
+      "korean_translation": "수산에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the citadel",
+      "korean_translation": "그 성곽",
+      "word_indices": [
+        1627
+      ]
+    }
+  ]
+}

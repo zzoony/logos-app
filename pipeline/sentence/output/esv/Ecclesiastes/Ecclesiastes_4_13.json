@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Ecclesiastes 4:13",
+  "version": "ESV",
+  "original_text": "Better was a poor and wise youth than an old and foolish king who no longer knew how to take advice.",
+  "korean_text": "가난하여도 지혜로운 젊은이가 늙고 둔하여 경고를 더 받을 줄 모르는 왕보다 나으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Better was a poor and wise youth",
+      "korean_translation": "가난하고 지혜로운 청년이 더 나았다",
+      "word_indices": [
+        252,
+        268,
+        393,
+        545
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than an old and foolish king",
+      "korean_translation": "늙고 어리석은 왕보다",
+      "word_indices": [
+        4,
+        931
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who no longer knew how to take advice",
+      "korean_translation": "그는 더 이상 충고를 받는 법을 알지 못했다",
+      "word_indices": [
+        398,
+        2030
+      ]
+    }
+  ]
+}

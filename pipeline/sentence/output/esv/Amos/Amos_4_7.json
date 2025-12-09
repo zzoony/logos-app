@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Amos 4:7",
+  "version": "ESV",
+  "original_text": "“I also withheld the rain from you\n    when there were yet three months to the harvest;\nI would send rain on one city,\n    and send no rain on another city;\none field would have rain,\n    and the field on which it did not rain would wither;",
+  "korean_text": "또 추수하기 석 달 전에 내가 너희에게 비를 멈추게 하여 어떤 성읍에는 내리고 어떤 성읍에는 내리지 않게 하였더니 땅 한 부분은 비를 얻고 한 부분은 비를 얻지 못하여 말랐으매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I also withheld the rain from you",
+      "korean_translation": "나는 또한 너희에게 비를 내리지 않았다",
+      "word_indices": [
+        23,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when there were yet three months to the harvest",
+      "korean_translation": "아직 수확할 때까지 석 달이 남았을 때에",
+      "word_indices": [
+        97,
+        142,
+        587
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I would send rain on one city",
+      "korean_translation": "나는 한 성에는 비를 내리고",
+      "word_indices": [
+        16,
+        24,
+        413
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and send no rain on another city",
+      "korean_translation": "다른 성에는 비를 내리지 않았다",
+      "word_indices": [
+        16,
+        24,
+        413
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "one field would have rain",
+      "korean_translation": "한 밭에는 비가 내리고",
+      "word_indices": [
+        133,
+        413
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the field on which it did not rain would wither",
+      "korean_translation": "비가 내리지 않은 밭은 말라버렸다",
+      "word_indices": [
+        133,
+        413,
+        872
+      ]
+    }
+  ]
+}

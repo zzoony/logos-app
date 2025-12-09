@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Timothy 2:5",
+  "version": "ESV",
+  "original_text": "For there is one God, and there is one mediator between God and men, the man Christ Jesus,",
+  "korean_text": "하나님은 한 분이시요 또 하나님과 사람 사이에 중보자도 한 분이시니 곧 사람이신 그리스도 예수라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For there is one God,",
+      "korean_translation": "하나님은 한 분이시고,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there is one mediator between God and men,",
+      "korean_translation": "하나님과 사람 사이에 중보자도 한 분이시니,",
+      "word_indices": [
+        1,
+        3037
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the man Christ Jesus,",
+      "korean_translation": "그 사람은 그리스도 예수이십니다.",
+      "word_indices": [
+        6,
+        61
+      ]
+    }
+  ]
+}

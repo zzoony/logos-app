@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 38:4",
+  "version": "ESV",
+  "original_text": "For my iniquities have gone over my head;\n    like a heavy burden, they are too heavy for me.",
+  "korean_text": "내 죄악이 내 머리에 넘쳐서 무거운 짐 같으니 내가 감당할 수 없나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For my iniquities have gone over my head",
+      "korean_translation": "나의 죄악이 내 머리 위로 넘어갔으니",
+      "word_indices": [
+        62,
+        219
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like a heavy burden",
+      "korean_translation": "무거운 짐처럼",
+      "word_indices": [
+        14,
+        625,
+        900
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they are too heavy for me",
+      "korean_translation": "그것이 내게 너무 무겁습니다",
+      "word_indices": [
+        900
+      ]
+    }
+  ]
+}

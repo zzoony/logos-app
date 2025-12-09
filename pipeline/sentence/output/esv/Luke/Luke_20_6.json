@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 20:6",
+  "version": "ESV",
+  "original_text": "But if we say, ‘From man,’ all the people will stone us to death, for they are convinced that John was a prophet.”",
+  "korean_text": "만일 사람으로부터라 하면 백성이 요한을 선지자로 인정하니 그들이 다 우리를 돌로 칠 것이라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if we say, ‘From man,’",
+      "korean_translation": "그러나 만약 우리가 '사람에게서 왔다'고 말하면,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the people will stone us to death,",
+      "korean_translation": "모든 백성이 우리를 돌로 쳐서 죽일 것입니다,",
+      "word_indices": [
+        3,
+        76,
+        106
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for they are convinced",
+      "korean_translation": "왜냐하면 그들은 확신하고 있기 때문입니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that John was a prophet.”",
+      "korean_translation": "요한은 선지자였다고.",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

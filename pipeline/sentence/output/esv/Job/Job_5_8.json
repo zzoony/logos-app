@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Job 5:8",
+  "version": "ESV",
+  "original_text": "“As for me, I would seek God,\n    and to God would I commit my cause,",
+  "korean_text": "나라면 하나님을 찾겠고 내 일을 하나님께 의탁하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As for me",
+      "korean_translation": "나로 말하면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I would seek God",
+      "korean_translation": "나는 하나님을 찾겠고,",
+      "word_indices": [
+        1,
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to God would I commit my cause",
+      "korean_translation": "하나님께 내 사정을 맡기겠노라.",
+      "word_indices": [
+        1,
+        272,
+        299
+      ]
+    }
+  ]
+}

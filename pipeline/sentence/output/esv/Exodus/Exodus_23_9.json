@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 23:9",
+  "version": "ESV",
+  "original_text": "“You shall not oppress a sojourner. You know the heart of a sojourner, for you were sojourners in the land of Egypt.",
+  "korean_text": "너는 이방 나그네를 압제하지 말라 너희가 애굽 땅에서 나그네 되었었은즉 나그네의 사정을 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not oppress a sojourner.",
+      "korean_translation": "너는 나그네를 억압하지 말라.",
+      "word_indices": [
+        610
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You know the heart of a sojourner",
+      "korean_translation": "너는 나그네의 마음을 안다.",
+      "word_indices": [
+        13,
+        26,
+        610
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for you were sojourners in the land of Egypt.",
+      "korean_translation": "너는 이집트 땅에서 나그네였기 때문이다.",
+      "word_indices": [
+        8,
+        610
+      ]
+    }
+  ]
+}

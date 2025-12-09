@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Leviticus 21:5",
+  "version": "ESV",
+  "original_text": "They shall not make bald patches on their heads, nor shave off the edges of their beards, nor make any cuts on their body.",
+  "korean_text": "제사장들은 머리털을 깎아 대머리 같게 하지 말며 자기의 수염 양쪽을 깎지 말며 살을 베지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They shall not make bald patches on their heads",
+      "korean_translation": "그들은 머리에 대머리를 만들지 못한다",
+      "word_indices": [
+        62,
+        1782,
+        3192
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor shave off the edges of their beards",
+      "korean_translation": "수염의 가장자리를 밀지도 못한다",
+      "word_indices": [
+        1248,
+        1352
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor make any cuts on their body",
+      "korean_translation": "자기 몸에 어떤 상처도 내지 못한다",
+      "word_indices": [
+        124,
+        150
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 78:46",
+  "version": "ESV",
+  "original_text": "He gave their crops to the destroying locust\n    and the fruit of their labor to the locust.",
+  "korean_text": "그들의 토산물을 황충에게 주셨고 그들이 수고한 것을 메뚜기에게 주셨으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He gave their crops to the destroying locust",
+      "korean_translation": "그가 그들의 곡식을 파괴하는 메뚜기에게 주셨다",
+      "word_indices": [
+        5,
+        99,
+        926,
+        1658
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the fruit of their labor to the locust",
+      "korean_translation": "그리고 그들의 수고의 열매를 메뚜기에게 주셨다",
+      "word_indices": [
+        203,
+        419,
+        926
+      ]
+    }
+  ]
+}

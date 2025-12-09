@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 119:55",
+  "version": "ESV",
+  "original_text": "I remember your name in the night, O Lord,\n    and keep your law.",
+  "korean_text": "여호와여 내가 밤에 주의 이름을 기억하고 주의 법을 지켰나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I remember your name in the night,",
+      "korean_translation": "나는 밤에 주의 이름을 기억하고",
+      "word_indices": [
+        20,
+        130,
+        193
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and keep your law.",
+      "korean_translation": "주의 법을 지키나이다",
+      "word_indices": [
+        46,
+        66
+      ]
+    }
+  ]
+}

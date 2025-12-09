@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Genesis 4:18",
+  "version": "ESV",
+  "original_text": "To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.",
+  "korean_text": "에녹이 이랏을 낳고 이랏은 므후야엘을 낳고 므후야엘은 므드사엘을 낳고 므드사엘은 라멕을 낳았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To Enoch was born Irad",
+      "korean_translation": "에녹에게 이라드가 태어났다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Irad fathered Mehujael",
+      "korean_translation": "이라드가 므후야엘을 낳았다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Mehujael fathered Methushael",
+      "korean_translation": "므후야엘이 므두사엘을 낳았다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and Methushael fathered Lamech",
+      "korean_translation": "므두사엘이 라멕을 낳았다",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

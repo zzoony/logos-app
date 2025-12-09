@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Isaiah 1:25",
+  "version": "ESV",
+  "original_text": "I will turn my hand against you\n    and will smelt away your dross as with lye\n    and remove all your alloy.",
+  "korean_text": "내가 또 내 손을 네게 돌려 네 찌꺼기를 잿물로 씻듯이 녹여 청결하게 하며 네 혼잡물을 다 제하여 버리고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will turn my hand against you",
+      "korean_translation": "내가 내 손을 너에게 돌리리라",
+      "word_indices": [
+        10,
+        12,
+        45
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and will smelt away your dross as with lye",
+      "korean_translation": "잿물로 너의 찌꺼기를 씻어내고",
+      "word_indices": [
+        29,
+        3693,
+        4224
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and remove all your alloy",
+      "korean_translation": "너의 모든 잡금을 없애리라",
+      "word_indices": [
+        449,
+        5313
+      ]
+    }
+  ]
+}

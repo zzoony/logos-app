@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 17:12",
+  "version": "ESV",
+  "original_text": "And as he entered a village, he was met by ten lepers, who stood at a distance",
+  "korean_text": "한 마을에 들어가시니 나병환자 열 명이 예수를 만나 멀리 서서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as he entered a village,",
+      "korean_translation": "그리고 그가 한 마을에 들어갔을 때,",
+      "word_indices": [
+        125,
+        409
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he was met by ten lepers,",
+      "korean_translation": "문둥병자 열 사람이 그에게 다가왔는데,",
+      "word_indices": [
+        257,
+        1568
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who stood at a distance",
+      "korean_translation": "그들은 멀리 서 있었다.",
+      "word_indices": [
+        1342
+      ]
+    }
+  ]
+}

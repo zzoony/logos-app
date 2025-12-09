@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Exodus 36:21",
+  "version": "ESV",
+  "original_text": "Ten cubits was the length of a frame, and a cubit and a half the breadth of each frame.",
+  "korean_text": "각 판의 길이는 열 규빗, 너비는 한 규빗 반이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ten cubits was the length of a frame",
+      "korean_translation": "한 틀의 길이는 십 규빗이었습니다.",
+      "word_indices": [
+        156,
+        257,
+        602,
+        677
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a cubit and a half the breadth of each frame.",
+      "korean_translation": "각 틀의 너비는 한 규빗 반이었습니다.",
+      "word_indices": [
+        156,
+        333,
+        677,
+        682
+      ]
+    }
+  ]
+}

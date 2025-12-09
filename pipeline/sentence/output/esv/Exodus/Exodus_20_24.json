@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Exodus 20:24",
+  "version": "ESV",
+  "original_text": "An altar of earth you shall make for me and sacrifice on it your burnt offerings and your peace offerings, your sheep and your oxen. In every place where I cause my name to be remembered I will come to you and bless you.",
+  "korean_text": "내게 토단을 쌓고 그 위에 네 양과 소로 네 번제와 화목제를 드리라 내가 내 이름을 기념하게 하는 모든 곳에서 네게 임하여 복을 주리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An altar of earth you shall make for me",
+      "korean_translation": "너는 나를 위해 흙으로 제단을 만들라",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and sacrifice on it your burnt offerings",
+      "korean_translation": "그 위에 너의 번제물을 드리고",
+      "word_indices": [
+        110,
+        140
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and your peace offerings",
+      "korean_translation": "너의 화목제물도 드리라",
+      "word_indices": [
+        105,
+        110
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your sheep and your oxen",
+      "korean_translation": "너의 양과 소를",
+      "word_indices": [
+        235
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "In every place where I cause my name to be remembered",
+      "korean_translation": "내가 내 이름을 기억하게 하는 모든 곳에서",
+      "word_indices": [
+        20,
+        21,
+        193,
+        272
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will come to you",
+      "korean_translation": "내가 너에게 임하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and bless you",
+      "korean_translation": "너를 복 주리라",
+      "word_indices": []
+    }
+  ]
+}

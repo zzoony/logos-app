@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Isaiah 7:23",
+  "version": "ESV",
+  "original_text": "In that day every place where there used to be a thousand vines, worth a thousand shekels of silver, will become briers and thorns.",
+  "korean_text": "그 날에는 천 그루에 은 천 개의 가치가 있는 포도나무가 있던 곳마다 찔레와 가시가 날 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In that day",
+      "korean_translation": "그 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "every place where there used to be a thousand vines",
+      "korean_translation": "천 그루의 포도나무가 있던 모든 곳은",
+      "word_indices": [
+        21,
+        248
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "worth a thousand shekels of silver",
+      "korean_translation": "천 세겔의 은 가치가 있는",
+      "word_indices": [
+        135,
+        248,
+        350,
+        1763
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will become briers and thorns",
+      "korean_translation": "가시덩굴과 질경이가 될 것입니다",
+      "word_indices": [
+        804,
+        1801
+      ]
+    }
+  ]
+}

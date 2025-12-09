@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 71:6",
+  "version": "ESV",
+  "original_text": "Upon you I have leaned from before my birth;\n    you are he who took me from my mother's womb.\nMy praise is continually of you.",
+  "korean_text": "내가 모태에서부터 주를 의지하였으며 나의 어머니의 배에서부터 주께서 나를 택하셨사오니 나는 항상 주를 찬송하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Upon you I have leaned from before my birth",
+      "korean_translation": "저는 태어나기 전부터 당신께 의지했습니다.",
+      "word_indices": [
+        619,
+        1312
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you are he",
+      "korean_translation": "당신은 그분이십니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who took me from my mother's womb",
+      "korean_translation": "어머니의 태에서 나를 데려가신 분",
+      "word_indices": [
+        128,
+        550
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "My praise is continually of you.",
+      "korean_translation": "나의 찬양은 끊임없이 당신께 돌아갑니다.",
+      "word_indices": [
+        160,
+        754
+      ]
+    }
+  ]
+}

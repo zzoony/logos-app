@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Corinthians 11:23",
+  "version": "ESV",
+  "original_text": "For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread,",
+  "korean_text": "내가 너희에게 전한 것은 주께 받은 것이니 곧 주 예수께서 잡히시던 밤에 떡을 가지사",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I received from the Lord what I also delivered to you,",
+      "korean_translation": "내가 주께 받은 것은 너희에게 전해준 그것이니,",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the Lord Jesus",
+      "korean_translation": "주 예수께서는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the night when he was betrayed",
+      "korean_translation": "자신이 배신당하신 밤에",
+      "word_indices": [
+        130,
+        966
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "took bread,",
+      "korean_translation": "떡을 가져,",
+      "word_indices": [
+        129
+      ]
+    }
+  ]
+}

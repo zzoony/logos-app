@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 26:25",
+  "version": "ESV",
+  "original_text": "Judas, who would betray him, answered, “Is it I, Rabbi?” He said to him, “You have said so.”",
+  "korean_text": "예수를 파는 유다가 대답하여 이르되 랍비여 나는 아니지요 대답하시되 네가 말하였도다 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Judas, who would betray him, answered,",
+      "korean_translation": "자기를 배신할 유다가 대답하여,",
+      "word_indices": [
+        54,
+        966,
+        1125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Is it I,",
+      "korean_translation": "내가 그 사람입니까,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Rabbi?”",
+      "korean_translation": "랍비여?”",
+      "word_indices": [
+        1687
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He said to him,",
+      "korean_translation": "그가 그에게 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“You have said so.”",
+      "korean_translation": "네가 말하였느니라.”",
+      "word_indices": []
+    }
+  ]
+}

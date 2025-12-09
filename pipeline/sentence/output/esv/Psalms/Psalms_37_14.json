@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 37:14",
+  "version": "ESV",
+  "original_text": "The wicked draw the sword and bend their bows\n    to bring down the poor and needy,\n    to slay those whose way is upright;",
+  "korean_text": "악인이 칼을 빼고 활을 당겨 가난하고 궁핍한 자를 엎드러뜨리며 행위가 정직한 자를 죽이고자 하나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wicked draw the sword",
+      "korean_translation": "악인은 칼을 뽑고",
+      "word_indices": [
+        74,
+        220,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bend their bows",
+      "korean_translation": "활을 당깁니다",
+      "word_indices": [
+        238,
+        1166
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to bring down the poor and needy",
+      "korean_translation": "가난하고 궁핍한 자를 쓰러뜨리려고",
+      "word_indices": [
+        268,
+        788
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to slay those whose way is upright",
+      "korean_translation": "정직하게 사는 자들을 죽이려고",
+      "word_indices": [
+        482,
+        667
+      ]
+    }
+  ]
+}

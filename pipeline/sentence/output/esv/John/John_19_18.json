@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 19:18",
+  "version": "ESV",
+  "original_text": "There they crucified him, and with him two others, one on either side, and Jesus between them.",
+  "korean_text": "그들이 거기서 예수를 십자가에 못 박을새 다른 두 사람도 그와 함께 좌우편에 못 박으니 예수는 가운데 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There they crucified him",
+      "korean_translation": "그들이 거기서 그를 십자가에 못 박았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and with him two others",
+      "korean_translation": "그와 함께 다른 두 사람도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "one on either side",
+      "korean_translation": "양쪽에 한 명씩",
+      "word_indices": [
+        103,
+        715
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and Jesus between them",
+      "korean_translation": "그리고 예수님은 그들 사이에",
+      "word_indices": []
+    }
+  ]
+}

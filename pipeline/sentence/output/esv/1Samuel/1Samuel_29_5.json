@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 29:5",
+  "version": "ESV",
+  "original_text": "Is not this David, of whom they sing to one another in dances,\n‘Saul has struck down his thousands,\n    and David his ten thousands’?”",
+  "korean_text": "그들이 춤추며 노래하여 이르되 사울이 죽인 자는 천천이요 다윗은 만만이로다 하던 그 다윗이 아니니이까 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is not this David,",
+      "korean_translation": "이 사람이 다윗이 아니냐,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of whom they sing to one another in dances,",
+      "korean_translation": "사람들이 춤추며 서로 노래하는 그가,",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘Saul has struck down his thousands,",
+      "korean_translation": "‘사울은 수천 명을 쳤고,",
+      "word_indices": [
+        248
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and David his ten thousands’?”",
+      "korean_translation": "다윗은 만 명을 쳤다’는 말이냐?”",
+      "word_indices": [
+        248,
+        257
+      ]
+    }
+  ]
+}

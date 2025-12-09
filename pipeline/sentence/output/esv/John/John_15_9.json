@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 15:9",
+  "version": "ESV",
+  "original_text": "As the Father has loved me, so have I loved you. Abide in my love.",
+  "korean_text": "아버지께서 나를 사랑하신 것 같이 나도 너희를 사랑하였으니 나의 사랑 안에 거하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As the Father has loved me,",
+      "korean_translation": "아버지께서 나를 사랑하신 것 같이,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so have I loved you.",
+      "korean_translation": "나도 너희를 사랑하였느니라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Abide in my love.",
+      "korean_translation": "내 사랑 안에 거하라.",
+      "word_indices": [
+        35,
+        732
+      ]
+    }
+  ]
+}

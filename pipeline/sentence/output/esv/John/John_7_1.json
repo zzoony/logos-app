@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 7:1",
+  "version": "ESV",
+  "original_text": "After this Jesus went about in Galilee. He would not go about in Judea, because the Jews were seeking to kill him.",
+  "korean_text": "그 후에 예수께서 갈릴리에서 다니시고 유대에서 다니려 아니하심은 유대인들이 죽이려 함이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After this Jesus went about in Galilee.",
+      "korean_translation": "그 후에 예수님께서 갈릴리에 다니셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He would not go about in Judea,",
+      "korean_translation": "예수님께서는 유대에 다니지 않으셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because the Jews were seeking to kill him.",
+      "korean_translation": "이는 유대인들이 그를 죽이려고 했기 때문입니다.",
+      "word_indices": [
+        82,
+        92,
+        180
+      ]
+    }
+  ]
+}

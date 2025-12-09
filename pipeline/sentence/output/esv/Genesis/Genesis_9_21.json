@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 9:21",
+  "version": "ESV",
+  "original_text": "He drank of the wine and became drunk and lay uncovered in his tent.",
+  "korean_text": "포도주를 마시고 취하여 그 장막 안에서 벌거벗은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He drank of the wine",
+      "korean_translation": "그는 포도주를 마셨다.",
+      "word_indices": [
+        194
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and became drunk",
+      "korean_translation": "그리고 취하게 되었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and lay uncovered in his tent",
+      "korean_translation": "그리고 자기 장막에서 벌거벗은 채로 누웠다.",
+      "word_indices": [
+        109,
+        806
+      ]
+    }
+  ]
+}

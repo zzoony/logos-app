@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 2:7",
+  "version": "ESV",
+  "original_text": "Jesus said to the servants, “Fill the jars with water.” And they filled them up to the brim.",
+  "korean_text": "예수께서 그들에게 이르시되 항아리에 물을 채우라 하신즉 아귀까지 채우니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to the servants,",
+      "korean_translation": "예수님께서 종들에게 말씀하셨습니다,",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Fill the jars with water.”",
+      "korean_translation": "“항아리들에 물을 채우세요.”",
+      "word_indices": [
+        42,
+        207,
+        935
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And they filled them up to the brim.",
+      "korean_translation": "그들은 그것들을 아귀까지 채웠습니다.",
+      "word_indices": [
+        207,
+        2175
+      ]
+    }
+  ]
+}

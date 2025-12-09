@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Daniel 10:3",
+  "version": "ESV",
+  "original_text": "I ate no delicacies, no meat or wine entered my mouth, nor did I anoint myself at all, for the full three weeks.",
+  "korean_text": "세 이레가 차기까지 좋은 떡을 먹지 아니하며 고기와 포도주를 입에 대지 아니하며 또 기름을 바르지 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I ate no delicacies",
+      "korean_translation": "나는 별식을 먹지 않았습니다",
+      "word_indices": [
+        2354
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "no meat or wine entered my mouth",
+      "korean_translation": "고기나 포도주도 내 입에 들어가지 않았습니다",
+      "word_indices": [
+        95,
+        125,
+        194,
+        852
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor did I anoint myself at all",
+      "korean_translation": "또한 내 몸에 기름을 전혀 바르지도 않았습니다",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the full three weeks",
+      "korean_translation": "꼬박 삼 주 동안",
+      "word_indices": [
+        97,
+        165,
+        1133
+      ]
+    }
+  ]
+}

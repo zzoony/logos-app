@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 135:17",
+  "version": "ESV",
+  "original_text": "they have ears, but do not hear,\n    nor is there any breath in their mouths.",
+  "korean_text": "귀가 있어도 듣지 못하며 그들의 입에는 아무 호흡도 없나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "they have ears",
+      "korean_translation": "그들은 귀가 있습니다",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but do not hear",
+      "korean_translation": "그러나 듣지 못합니다",
+      "word_indices": [
+        17
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor is there any breath in their mouths",
+      "korean_translation": "그들의 입에는 어떤 숨결도 없습니다",
+      "word_indices": [
+        95,
+        649
+      ]
+    }
+  ]
+}

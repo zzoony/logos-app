@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 17:14",
+  "version": "ESV",
+  "original_text": "I have given them your word, and the world has hated them because they are not of the world, just as I am not of the world.",
+  "korean_text": "내가 아버지의 말씀을 그들에게 주었사오매 세상이 그들을 미워하였사오니 이는 내가 세상에 속하지 아니함 같이 그들도 세상에 속하지 아니함으로 인함이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have given them your word",
+      "korean_translation": "나는 그들에게 당신의 말씀을 주었습니다",
+      "word_indices": [
+        5,
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the world has hated them",
+      "korean_translation": "그리고 세상은 그들을 미워했습니다",
+      "word_indices": [
+        183
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they are not of the world",
+      "korean_translation": "이는 그들이 세상에 속하지 않기 때문입니다",
+      "word_indices": [
+        183
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "just as I am not of the world",
+      "korean_translation": "내가 세상에 속하지 않은 것과 같이",
+      "word_indices": [
+        183
+      ]
+    }
+  ]
+}

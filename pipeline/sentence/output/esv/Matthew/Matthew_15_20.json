@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 15:20",
+  "version": "ESV",
+  "original_text": "These are what defile a person. But to eat with unwashed hands does not defile anyone.”",
+  "korean_text": "이런 것들이 사람을 더럽게 하는 것이요 씻지 않은 손으로 먹는 것은 사람을 더럽게 하지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These are what defile a person.",
+      "korean_translation": "이것들이 사람을 더럽히는 것입니다.",
+      "word_indices": [
+        214,
+        461
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But to eat with unwashed hands",
+      "korean_translation": "그러나 씻지 않은 손으로 먹는 것은",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "does not defile anyone.",
+      "korean_translation": "아무도 더럽히지 않습니다.",
+      "word_indices": [
+        181,
+        461
+      ]
+    }
+  ]
+}

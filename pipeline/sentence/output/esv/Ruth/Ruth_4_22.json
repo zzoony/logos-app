@@ -1,0 +1,24 @@
+{
+  "verse_reference": "Ruth 4:22",
+  "version": "ESV",
+  "original_text": "Obed fathered Jesse, and Jesse fathered David.",
+  "korean_text": "오벳은 이새를 낳고 이새는 다윗을 낳았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Obed fathered Jesse",
+      "korean_translation": "오벳은 이새를 낳았다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Jesse fathered David",
+      "korean_translation": "이새는 다윗을 낳았다",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

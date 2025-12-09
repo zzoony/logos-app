@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Deuteronomy 32:26",
+  "version": "ESV",
+  "original_text": "I would have said, “I will cut them to pieces;\n    I will wipe them from human memory,”",
+  "korean_text": "내가 그들을 흩어서 사람들 사이에서 그들에 대한 기억이 끊어지게 하리라 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I would have said,",
+      "korean_translation": "내가 말했을 것이다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will cut them to pieces;",
+      "korean_translation": "내가 그들을 조각내겠다;",
+      "word_indices": [
+        124
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will wipe them from human memory,”",
+      "korean_translation": "내가 그들을 사람의 기억에서 지워버리겠다,”",
+      "word_indices": [
+        695,
+        1332,
+        2028
+      ]
+    }
+  ]
+}

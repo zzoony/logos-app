@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Job 33:27",
+  "version": "ESV",
+  "original_text": "He sings before men and says:\n‘I sinned and perverted what was right,\n    and it was not repaid to me.",
+  "korean_text": "그가 사람 앞에서 노래하여 이르기를 내가 범죄하여 옳은 것을 그르쳤으나 내게 무익하였구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He sings before men and says:",
+      "korean_translation": "그는 사람들 앞에서 노래하며 말하기를",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "‘I sinned",
+      "korean_translation": "내가 죄를 지었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and perverted what was right,",
+      "korean_translation": "바른 것을 굽혔으며",
+      "word_indices": [
+        88,
+        1502
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it was not repaid to me.",
+      "korean_translation": "그것이 내게 갚아지지 않았노라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Numbers 21:5",
+  "version": "ESV",
+  "original_text": "And the people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we loathe this worthless food.”",
+  "korean_text": "백성이 하나님과 모세를 향하여 원망하되 어찌하여 우리를 애굽에서 인도해 내어 이 광야에서 죽게 하는가 이 곳에는 먹을 것도 없고 물도 없도다 우리 마음이 이 하찮은 음식을 싫어하노라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the people spoke against God and against Moses,",
+      "korean_translation": "백성이 하나님과 모세를 원망하며",
+      "word_indices": [
+        1,
+        3,
+        12,
+        4112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Why have you brought us up out of Egypt",
+      "korean_translation": "“어찌하여 우리를 애굽에서 이끌어 내셨습니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to die in the wilderness?",
+      "korean_translation": "이 광야에서 죽게 하려고 하십니까?",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "For there is no food and no water,",
+      "korean_translation": "먹을 것이 없고 물도 없으니",
+      "word_indices": [
+        42,
+        138
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and we loathe this worthless food.”",
+      "korean_translation": "우리는 이 값없는 음식을 싫어합니다.”",
+      "word_indices": [
+        138,
+        1588
+      ]
+    }
+  ]
+}

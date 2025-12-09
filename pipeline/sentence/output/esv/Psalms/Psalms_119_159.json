@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 119:159",
+  "version": "ESV",
+  "original_text": "Consider how I love your precepts!\n    Give me life according to your steadfast love.",
+  "korean_text": "내가 주의 법도들을 사랑함을 보옵소서 여호와여 주의 인자하심을 따라 나를 살리소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Consider how I love your precepts!",
+      "korean_translation": "내가 주의 법도를 사랑하는 것을 보소서.",
+      "word_indices": [
+        35,
+        500,
+        1072
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Give me life according to your steadfast love.",
+      "korean_translation": "주의 인자하심대로 내게 생명을 주소서.",
+      "word_indices": [
+        5,
+        35,
+        41,
+        49
+      ]
+    }
+  ]
+}

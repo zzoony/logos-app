@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Jeremiah 25:22",
+  "version": "ESV",
+  "original_text": "all the kings of Tyre, all the kings of Sidon, and the kings of the coastland across the sea;",
+  "korean_text": "두로의 모든 왕과 시돈의 모든 왕과 바다 건너쪽 섬의 왕들과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "all the kings of Tyre",
+      "korean_translation": "두로의 모든 왕들",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the kings of Sidon",
+      "korean_translation": "시돈의 모든 왕들",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the kings of the coastland across the sea",
+      "korean_translation": "바다 건너 해안의 왕들",
+      "word_indices": [
+        4,
+        84,
+        1170
+      ]
+    }
+  ]
+}

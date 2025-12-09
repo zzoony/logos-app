@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 135:1",
+  "version": "ESV",
+  "original_text": "Praise the Lord!\nPraise the name of the Lord,\n    give praise, O servants of the Lord,",
+  "korean_text": "할렐루야 여호와의 이름을 찬송하라 여호와의 종들아 찬송하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise the Lord!",
+      "korean_translation": "여호와를 찬양하라!",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Praise the name of the Lord,",
+      "korean_translation": "여호와의 이름을 찬양하며,",
+      "word_indices": [
+        20,
+        160
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "give praise, O servants of the Lord,",
+      "korean_translation": "여호와의 종들아, 찬양하라,",
+      "word_indices": [
+        5,
+        22,
+        160
+      ]
+    }
+  ]
+}

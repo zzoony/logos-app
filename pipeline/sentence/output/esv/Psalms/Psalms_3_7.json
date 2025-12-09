@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 3:7",
+  "version": "ESV",
+  "original_text": "Arise, O Lord!\n    Save me, O my God!\nFor you strike all my enemies on the cheek;\n    you break the teeth of the wicked.",
+  "korean_text": "여호와여 일어나소서 나의 하나님이여 나를 구원하소서 주께서 나의 모든 원수의 뺨을 치시며 악인의 이를 꺾으셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Arise, O Lord!",
+      "korean_translation": "일어나소서, 주여!",
+      "word_indices": [
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Save me, O my God!",
+      "korean_translation": "나를 구원하소서, 나의 하나님이여!",
+      "word_indices": [
+        1,
+        145
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For you strike all my enemies on the cheek;",
+      "korean_translation": "이는 주께서 나의 모든 원수의 뺨을 치심이라",
+      "word_indices": [
+        81,
+        122,
+        1724
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you break the teeth of the wicked.",
+      "korean_translation": "악인들의 이를 부수심이니이다.",
+      "word_indices": [
+        85,
+        899,
+        3789
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Job 21:10",
+  "version": "ESV",
+  "original_text": "Their bull breeds without fail;\n    their cow calves and does not miscarry.",
+  "korean_text": "그들의 수소는 새끼를 배고 그들의 암소는 낙태하는 일이 없이 새끼를 낳는구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Their bull breeds without fail",
+      "korean_translation": "그들의 수소는 틀림없이 새끼를 친다.",
+      "word_indices": [
+        305,
+        686,
+        2016
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "their cow calves",
+      "korean_translation": "그들의 암소는 송아지를 낳고",
+      "word_indices": [
+        1308
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "does not miscarry",
+      "korean_translation": "유산하지 않는다.",
+      "word_indices": [
+        3146
+      ]
+    }
+  ]
+}

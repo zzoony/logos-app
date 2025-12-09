@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Numbers 11:8",
+  "version": "ESV",
+  "original_text": "The people went about and gathered it and ground it in handmills or beat it in mortars and boiled it in pots and made cakes of it. And the taste of it was like the taste of cakes baked with oil.",
+  "korean_text": "백성이 두루 다니며 그것을 거두어 맷돌에 갈기도 하며 절구에 찧기도 하고 가마에 삶기도 하여 과자를 만들었으니 그 맛이 기름 섞은 과자 맛 같았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people went about",
+      "korean_translation": "백성들이 두루 다니며",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and gathered it",
+      "korean_translation": "그것을 거두었고",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ground it in handmills or beat it in mortars",
+      "korean_translation": "맷돌에 갈거나 절구에 찧고",
+      "word_indices": [
+        525,
+        4668,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and boiled it in pots",
+      "korean_translation": "가마솥에 삶았으며",
+      "word_indices": [
+        953
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and made cakes of it.",
+      "korean_translation": "과자를 만들었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And the taste of it",
+      "korean_translation": "그것의 맛은",
+      "word_indices": [
+        1082
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "was like the taste of cakes baked with oil.",
+      "korean_translation": "기름에 반죽하여 만든 과자 맛과 같았다.",
+      "word_indices": [
+        14,
+        222,
+        1082
+      ]
+    }
+  ]
+}

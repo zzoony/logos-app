@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 4:15",
+  "version": "ESV",
+  "original_text": "You shall speak to him and put the words in his mouth, and I will be with your mouth and with his mouth and will teach you both what to do.",
+  "korean_text": "너는 그에게 말하고 그의 입에 할 말을 주라 내가 네 입과 그의 입에 함께 있어서 너희들이 행할 일을 가르치리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall speak to him",
+      "korean_translation": "너는 그에게 말하라",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and put the words in his mouth",
+      "korean_translation": "그의 입에 말씀을 넣어라",
+      "word_indices": [
+        15,
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will be with your mouth and with his mouth",
+      "korean_translation": "내가 네 입과 그의 입에 함께하리라",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and will teach you both what to do",
+      "korean_translation": "너희 둘에게 무엇을 해야 할지 가르쳐 주리라",
+      "word_indices": [
+        169
+      ]
+    }
+  ]
+}

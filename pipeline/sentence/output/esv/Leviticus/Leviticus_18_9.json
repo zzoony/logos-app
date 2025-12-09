@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Leviticus 18:9",
+  "version": "ESV",
+  "original_text": "You shall not uncover the nakedness of your sister, your father's daughter or your mother's daughter, whether brought up in the family or in another home.",
+  "korean_text": "너는 네 자매 곧 네 아버지의 딸이나 네 어머니의 딸이나 집에서나 다른 곳에서 출생하였음을 막론하고 그들의 하체를 범하지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not uncover the nakedness of your sister,",
+      "korean_translation": "너는 네 누이의 벌거벗은 몸을 드러내지 말라",
+      "word_indices": [
+        361,
+        806
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your father's daughter",
+      "korean_translation": "네 아버지의 딸",
+      "word_indices": [
+        9,
+        58
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or your mother's daughter,",
+      "korean_translation": "또는 네 어머니의 딸",
+      "word_indices": [
+        58,
+        128
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whether brought up in the family",
+      "korean_translation": "가정에서 길러졌든",
+      "word_indices": [
+        743
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or in another home.",
+      "korean_translation": "다른 집에서 길러졌든",
+      "word_indices": [
+        365
+      ]
+    }
+  ]
+}

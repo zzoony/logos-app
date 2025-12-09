@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Nahum 1:5",
+  "version": "ESV",
+  "original_text": "The mountains quake before him;\n    the hills melt;\nthe earth heaves before him,\n    the world and all who dwell in it.",
+  "korean_text": "그로 말미암아 산들이 진동하며 작은 산들이 녹고 그 앞에서는 땅 곧 세계와 그 가운데에 있는 모든 것들이 솟아오르는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The mountains quake before him;",
+      "korean_translation": "산들이 그의 앞에서 떨리며",
+      "word_indices": [
+        123,
+        1518
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the hills melt;",
+      "korean_translation": "작은 산들이 녹으며",
+      "word_indices": [
+        216,
+        959
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the earth heaves before him,",
+      "korean_translation": "땅이 그의 앞에서 들썩이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the world",
+      "korean_translation": "세상과",
+      "word_indices": [
+        183
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and all who dwell in it.",
+      "korean_translation": "그 가운데 거하는 모든 자가 그러하니",
+      "word_indices": [
+        77
+      ]
+    }
+  ]
+}

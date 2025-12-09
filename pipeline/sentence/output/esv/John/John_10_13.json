@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 10:13",
+  "version": "ESV",
+  "original_text": "He flees because he is a hired hand and cares nothing for the sheep.",
+  "korean_text": "달아나는 것은 그가 삯꾼인 까닭에 양을 돌보지 아니함이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He flees",
+      "korean_translation": "그는 도망합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he is a hired hand",
+      "korean_translation": "그는 삯꾼이기 때문입니다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cares nothing for the sheep",
+      "korean_translation": "그리고 양에 대해 전혀 관심이 없습니다",
+      "word_indices": [
+        235,
+        4877
+      ]
+    }
+  ]
+}

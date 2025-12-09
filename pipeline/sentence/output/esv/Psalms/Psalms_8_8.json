@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 8:8",
+  "version": "ESV",
+  "original_text": "the birds of the heavens, and the fish of the sea,\n    whatever passes along the paths of the seas.",
+  "korean_text": "공중의 새와 바다의 물고기와 바닷길에 다니는 것이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the birds of the heavens",
+      "korean_translation": "하늘의 새들",
+      "word_indices": [
+        40,
+        356
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the fish of the sea",
+      "korean_translation": "그리고 바다의 물고기",
+      "word_indices": [
+        84,
+        681
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whatever passes along the paths of the seas",
+      "korean_translation": "바다 길에 다니는 모든 것",
+      "word_indices": [
+        84,
+        239,
+        298,
+        575
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 77:13",
+  "version": "ESV",
+  "original_text": "Your way, O God, is holy.\n    What god is great like our God?",
+  "korean_text": "하나님이여 주의 도는 극히 거룩하시오니 하나님과 같이 위대하신 신이 누구오니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your way, O God",
+      "korean_translation": "하나님이시여, 주의 길은",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is holy",
+      "korean_translation": "거룩하십니다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What god is great like our God?",
+      "korean_translation": "우리 하나님과 같이 위대한 신이 누구입니까?",
+      "word_indices": [
+        1,
+        14,
+        30
+      ]
+    }
+  ]
+}

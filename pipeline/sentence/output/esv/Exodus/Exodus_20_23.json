@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Exodus 20:23",
+  "version": "ESV",
+  "original_text": "You shall not make gods of silver to be with me, nor shall you make for yourselves gods of gold.",
+  "korean_text": "너희는 나를 비겨서 은으로나 금으로나 너희를 위하여 신상을 만들지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not make gods of silver",
+      "korean_translation": "너는 은으로 신들을 만들지 말라",
+      "word_indices": [
+        1,
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to be with me",
+      "korean_translation": "나와 함께 있게 하려고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor shall you make for yourselves gods of gold",
+      "korean_translation": "너희를 위해 금으로 신들을 만들지도 말라",
+      "word_indices": [
+        1,
+        89
+      ]
+    }
+  ]
+}

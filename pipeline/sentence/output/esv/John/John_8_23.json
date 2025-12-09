@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 8:23",
+  "version": "ESV",
+  "original_text": "He said to them, “You are from below; I am from above. You are of this world; I am not of this world.",
+  "korean_text": "예수께서 이르시되 너희는 아래에서 났고 나는 위에서 났으며 너희는 이 세상에 속하였고 나는 이 세상에 속하지 아니하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to them,",
+      "korean_translation": "그가 그들에게 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are from below;",
+      "korean_translation": "너희는 아래에서 났고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am from above.",
+      "korean_translation": "나는 위에서 났다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You are of this world;",
+      "korean_translation": "너희는 이 세상에 속하였고,",
+      "word_indices": [
+        183
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am not of this world.",
+      "korean_translation": "나는 이 세상에 속하지 아니하다.",
+      "word_indices": [
+        183
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Lamentations 3:19",
+  "version": "ESV",
+  "original_text": "Remember my affliction and my wanderings,\n    the wormwood and the gall!",
+  "korean_text": "내 고초와 재난 곧 쑥과 담즙을 기억하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember my affliction",
+      "korean_translation": "나의 고통을 기억하소서",
+      "word_indices": [
+        193,
+        592
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and my wanderings",
+      "korean_translation": "나의 유랑을",
+      "word_indices": [
+        5463
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the wormwood",
+      "korean_translation": "쑥의 쓴 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the gall!",
+      "korean_translation": "그리고 쓴 쓸개",
+      "word_indices": [
+        3332
+      ]
+    }
+  ]
+}

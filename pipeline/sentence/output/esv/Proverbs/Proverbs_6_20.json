@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Proverbs 6:20",
+  "version": "ESV",
+  "original_text": "My son, keep your father's commandment,\n    and forsake not your mother's teaching.",
+  "korean_text": "내 아들아 네 아비의 명령을 지키며 네 어미의 법을 떠나지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My son,",
+      "korean_translation": "내 아들아,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "keep your father's commandment,",
+      "korean_translation": "네 아버지의 명령을 지키고,",
+      "word_indices": [
+        9,
+        46,
+        189
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and forsake not your mother's teaching.",
+      "korean_translation": "네 어머니의 가르침을 저버리지 말라.",
+      "word_indices": [
+        128,
+        169,
+        369
+      ]
+    }
+  ]
+}

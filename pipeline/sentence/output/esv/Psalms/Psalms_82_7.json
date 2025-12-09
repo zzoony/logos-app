@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 82:7",
+  "version": "ESV",
+  "original_text": "nevertheless, like men you shall die,\n    and fall like any prince.”",
+  "korean_text": "그러나 너희는 사람처럼 죽으며 고관의 하나 같이 넘어지리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "nevertheless",
+      "korean_translation": "그럼에도 불구하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like men you shall die",
+      "korean_translation": "너희는 사람처럼 죽을 것이요",
+      "word_indices": [
+        14,
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and fall like any prince",
+      "korean_translation": "어떤 통치자처럼 쓰러지리라",
+      "word_indices": [
+        14,
+        100,
+        243
+      ]
+    }
+  ]
+}

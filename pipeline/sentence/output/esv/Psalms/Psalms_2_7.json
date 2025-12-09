@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 2:7",
+  "version": "ESV",
+  "original_text": "I will tell of the decree:\nThe Lord said to me, “You are my Son;\n    today I have begotten you.",
+  "korean_text": "내가 여호와의 명령을 전하노라 여호와께서 내게 이르시되 너는 내 아들이라 오늘 내가 너를 낳았도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will tell of the decree",
+      "korean_translation": "나는 그 법령을 말하리라",
+      "word_indices": [
+        36,
+        661
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Lord said to me",
+      "korean_translation": "주께서 내게 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You are my Son",
+      "korean_translation": "너는 내 아들이라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "today I have begotten you",
+      "korean_translation": "오늘 내가 너를 낳았다",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

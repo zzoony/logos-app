@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 13:24",
+  "version": "ESV",
+  "original_text": "“Strive to enter through the narrow door. For many, I tell you, will seek to enter and will not be able.",
+  "korean_text": "좁은 문으로 들어가기를 힘쓰라 내가 너희에게 이르노니 들어가기를 구하여도 못하는 자가 많으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Strive to enter through the narrow door.",
+      "korean_translation": "좁은 문으로 들어가기를 힘쓰라.",
+      "word_indices": [
+        60,
+        125,
+        295,
+        1309,
+        1861
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For many, I tell you,",
+      "korean_translation": "많은 사람이, 내가 너희에게 이르노니,",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will seek to enter",
+      "korean_translation": "들어가기를 구하려 할 것이요",
+      "word_indices": [
+        82,
+        125
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and will not be able.",
+      "korean_translation": "능히 들어가지 못하리라.",
+      "word_indices": [
+        317
+      ]
+    }
+  ]
+}

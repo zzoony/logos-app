@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Kings 18:9",
+  "version": "ESV",
+  "original_text": "In the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah, king of Israel, Shalmaneser king of Assyria came up against Samaria and besieged it,",
+  "korean_text": "히스기야 왕 제사년 곧 이스라엘의 왕 엘라의 아들 호세아 제칠년에 앗수르의 왕 살만에셀이 사마리아로 올라와서 에워쌌더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the fourth year of King Hezekiah,",
+      "korean_translation": "히스기야 왕 제사년에,",
+      "word_indices": [
+        4,
+        528
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which was the seventh year of Hoshea son of Elah,",
+      "korean_translation": "이는 엘라의 아들 호세아의 제칠년이었는데,",
+      "word_indices": [
+        2,
+        384
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "king of Israel,",
+      "korean_translation": "이스라엘 왕,",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Shalmaneser king of Assyria came up against Samaria",
+      "korean_translation": "앗수르 왕 살만에셀이 사마리아를 치러 올라와서",
+      "word_indices": [
+        4,
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and besieged it,",
+      "korean_translation": "그것을 에워쌌더라",
+      "word_indices": []
+    }
+  ]
+}

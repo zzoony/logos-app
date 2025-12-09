@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 92:1",
+  "version": "ESV",
+  "original_text": "It is good to give thanks to the Lord,\n    to sing praises to your name, O Most High;",
+  "korean_text": "지존자여 여호와께 감사하며 주의 이름을 찬양함이 좋으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is good to give thanks to the Lord",
+      "korean_translation": "주께 감사드리는 것은 좋습니다.",
+      "word_indices": [
+        5,
+        37,
+        376
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to sing praises to your name",
+      "korean_translation": "당신의 이름을 찬양하는 것",
+      "word_indices": [
+        20,
+        284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O Most High",
+      "korean_translation": "지존하신 이여",
+      "word_indices": [
+        107
+      ]
+    }
+  ]
+}

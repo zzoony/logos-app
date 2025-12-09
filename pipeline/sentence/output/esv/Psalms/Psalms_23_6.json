@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 23:6",
+  "version": "ESV",
+  "original_text": "Surely goodness and mercy shall follow me\n    all the days of my life,\nand I shall dwell in the house of the Lord\n    forever.",
+  "korean_text": "내 평생에 선하심과 인자하심이 반드시 나를 따르리니 내가 여호와의 집에 영원히 살리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Surely goodness and mercy shall follow me",
+      "korean_translation": "참으로 선하심과 인자하심이 나를 따르리라",
+      "word_indices": [
+        155,
+        232,
+        269
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the days of my life",
+      "korean_translation": "내 평생에",
+      "word_indices": [
+        41
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I shall dwell in the house of the Lord",
+      "korean_translation": "내가 여호와의 집에 거하리라",
+      "word_indices": [
+        7,
+        77
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "forever.",
+      "korean_translation": "영원히.",
+      "word_indices": [
+        96
+      ]
+    }
+  ]
+}

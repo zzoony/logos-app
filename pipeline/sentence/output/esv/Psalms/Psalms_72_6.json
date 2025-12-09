@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 72:6",
+  "version": "ESV",
+  "original_text": "May he be like rain that falls on the mown grass,\n    like showers that water the earth!",
+  "korean_text": "그는 벤 풀 위에 내리는 비 같이, 땅을 적시는 소낙비 같이 내리리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May he be like rain",
+      "korean_translation": "그가 비와 같기를",
+      "word_indices": [
+        14,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that falls on the mown grass",
+      "korean_translation": "베어진 풀에 내리는",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like showers",
+      "korean_translation": "단비와 같이",
+      "word_indices": [
+        14,
+        1971
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that water the earth",
+      "korean_translation": "땅을 적시는",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

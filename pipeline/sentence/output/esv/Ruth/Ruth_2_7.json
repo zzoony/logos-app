@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Ruth 2:7",
+  "version": "ESV",
+  "original_text": "She said, ‘Please let me glean and gather among the sheaves after the reapers.’ So she came, and she has continued from early morning until now, except for a short rest.”",
+  "korean_text": "그의 말이 나로 베는 자를 따라 단 사이에서 이삭을 줍게 하소서 하였고 아침부터 와서는 잠시 집에서 쉰 외에 지금까지 계속하는 중이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She said,",
+      "korean_translation": "그녀가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Please let me glean and gather among the sheaves,",
+      "korean_translation": "제가 단 곡식 사이에서 이삭을 줍게 해주세요.",
+      "word_indices": [
+        27,
+        93,
+        149,
+        1519
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "after the reapers.",
+      "korean_translation": "거두는 자들의 뒤에서요.",
+      "word_indices": [
+        1803
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So she came,",
+      "korean_translation": "그래서 그녀가 왔는데,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and she has continued",
+      "korean_translation": "그녀는 계속해서 일했고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "from early morning until now,",
+      "korean_translation": "새벽부터 지금까지요.",
+      "word_indices": [
+        643
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "except for a short rest.",
+      "korean_translation": "짧은 휴식을 제외하고요.",
+      "word_indices": [
+        116,
+        524,
+        1375
+      ]
+    }
+  ]
+}

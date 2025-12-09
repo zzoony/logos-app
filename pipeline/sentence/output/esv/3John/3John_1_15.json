@@ -1,0 +1,35 @@
+{
+  "verse_reference": "3 John 1:15",
+  "version": "ESV",
+  "original_text": "Peace be to you. The friends greet you. Greet the friends, each by name.",
+  "korean_text": "평강이 네게 있을지어다 여러 친구가 네게 문안하느니라 너는 친구들의 이름을 들어 문안하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peace be to you.",
+      "korean_translation": "평강이 네게 있을지어다.",
+      "word_indices": [
+        105
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The friends greet you.",
+      "korean_translation": "친구들이 네게 문안하느니라.",
+      "word_indices": [
+        444,
+        639
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Greet the friends, each by name.",
+      "korean_translation": "친구들을 각각 이름을 불러 문안하라.",
+      "word_indices": [
+        20,
+        444,
+        639
+      ]
+    }
+  ]
+}

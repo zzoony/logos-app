@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 26:34",
+  "version": "ESV",
+  "original_text": "Jesus said to him, “Truly, I tell you, this very night, before the rooster crows, you will deny me three times.”",
+  "korean_text": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 밤 닭 울기 전에 네가 세 번 나를 부인하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him,",
+      "korean_translation": "예수께서 그에게 말씀하셨습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Truly,",
+      "korean_translation": "진실로,",
+      "word_indices": [
+        343
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I tell you,",
+      "korean_translation": "내가 네게 말하노니,",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "this very night,",
+      "korean_translation": "오늘 밤,",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before the rooster crows,",
+      "korean_translation": "닭이 울기 전에,",
+      "word_indices": [
+        1819,
+        1911
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you will deny me three times.”",
+      "korean_translation": "너는 나를 세 번 부인하리라.”",
+      "word_indices": [
+        97,
+        819
+      ]
+    }
+  ]
+}

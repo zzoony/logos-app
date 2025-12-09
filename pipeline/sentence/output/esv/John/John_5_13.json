@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 5:13",
+  "version": "ESV",
+  "original_text": "Now the man who had been healed did not know who it was, for Jesus had withdrawn, as there was a crowd in the place.",
+  "korean_text": "고침을 받은 사람은 그가 누구인지 알지 못하니 이는 거기 사람이 많으므로 예수께서 이미 피하셨음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the man who had been healed",
+      "korean_translation": "그때, 고침을 받은 그 사람은",
+      "word_indices": [
+        6,
+        325
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "did not know who it was",
+      "korean_translation": "그가 누구인지 알지 못했다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for Jesus had withdrawn",
+      "korean_translation": "왜냐하면 예수님께서는 물러가셨기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as there was a crowd in the place",
+      "korean_translation": "그곳에 사람들이 많이 모여 있었기 때문이다",
+      "word_indices": [
+        21,
+        339
+      ]
+    }
+  ]
+}

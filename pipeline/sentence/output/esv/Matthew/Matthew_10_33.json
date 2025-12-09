@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 10:33",
+  "version": "ESV",
+  "original_text": "but whoever denies me before men, I also will deny before my Father who is in heaven.",
+  "korean_text": "누구든지 사람 앞에서 나를 부인하면 나도 하늘에 계신 내 아버지 앞에서 그를 부인하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but whoever denies me before men",
+      "korean_translation": "그러나 누구든지 사람들 앞에서 나를 부인하면",
+      "word_indices": [
+        117,
+        819
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I also will deny before my Father",
+      "korean_translation": "나도 또한 내 아버지 앞에서 그를 부인할 것이다",
+      "word_indices": [
+        9,
+        23,
+        819
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is in heaven",
+      "korean_translation": "하늘에 계신",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

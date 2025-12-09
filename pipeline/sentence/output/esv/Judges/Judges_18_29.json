@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Judges 18:29",
+  "version": "ESV",
+  "original_text": "And they named the city Dan, after the name of Dan their ancestor, who was born to Israel; but the name of the city was Laish at the first.",
+  "korean_text": "이스라엘에게서 태어난 그들의 조상 단의 이름을 따라 그 성읍을 단이라 하니라 그 성읍의 본 이름은 라이스였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they named the city Dan",
+      "korean_translation": "그들은 그 도시를 단이라 불렀습니다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "after the name of Dan their ancestor",
+      "korean_translation": "그들의 조상인 단의 이름을 따라",
+      "word_indices": [
+        20,
+        3232
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who was born to Israel",
+      "korean_translation": "그는 이스라엘에게서 태어났습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but the name of the city was Laish at the first",
+      "korean_translation": "하지만 그 도시의 이름은 처음에는 라이스였습니다",
+      "word_indices": [
+        16,
+        20
+      ]
+    }
+  ]
+}

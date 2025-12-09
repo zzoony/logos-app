@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 18:22",
+  "version": "ESV",
+  "original_text": "Jesus said to him, “I do not say to you seven times, but seventy-seven times.",
+  "korean_text": "예수께서 이르시되 네게 이르노니 일곱 번뿐 아니라 일곱 번을 일흔 번까지라도 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him,",
+      "korean_translation": "예수께서 그에게 말씀하셨다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I do not say to you seven times,",
+      "korean_translation": "내가 너에게 일곱 번까지라고 말하는 것이 아니라,",
+      "word_indices": [
+        102
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but seventy-seven times.",
+      "korean_translation": "일흔일곱 번까지라고 말한다.",
+      "word_indices": [
+        102,
+        828
+      ]
+    }
+  ]
+}

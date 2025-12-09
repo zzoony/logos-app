@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 3:19",
+  "version": "ESV",
+  "original_text": "By the sweat of your face\n    you shall eat bread,\ntill you return to the ground,\n    for out of it you were taken;\nfor you are dust,\n    and to dust you shall return.”",
+  "korean_text": "네가 흙으로 돌아갈 때까지 얼굴에 땀을 흘려야 먹을 것을 먹으리니 네가 그것에서 취함을 입었음이라 너는 흙이니 흙으로 돌아갈 것이니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By the sweat of your face you shall eat bread",
+      "korean_translation": "네 얼굴의 땀으로 너는 빵을 먹을 것이다",
+      "word_indices": [
+        69,
+        129,
+        3466
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "till you return to the ground",
+      "korean_translation": "네가 땅으로 돌아갈 때까지",
+      "word_indices": [
+        78,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for out of it you were taken",
+      "korean_translation": "너는 그 땅에서 나왔기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for you are dust",
+      "korean_translation": "너는 흙이니",
+      "word_indices": [
+        434
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to dust you shall return",
+      "korean_translation": "그리고 너는 흙으로 돌아갈 것이다",
+      "word_indices": [
+        78,
+        434
+      ]
+    }
+  ]
+}

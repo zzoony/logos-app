@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Corinthians 11:7",
+  "version": "ESV",
+  "original_text": "For a man ought not to cover his head, since he is the image and glory of God, but woman is the glory of man.",
+  "korean_text": "남자는 하나님의 형상과 영광이니 그 머리를 마땅히 가리지 않거니와 여자는 남자의 영광이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For a man ought not to cover his head",
+      "korean_translation": "남자는 자기 머리를 가려서는 안 됩니다",
+      "word_indices": [
+        6,
+        62,
+        208,
+        784
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "since he is the image and glory of God",
+      "korean_translation": "왜냐하면 그는 하나님의 형상과 영광이기 때문입니다",
+      "word_indices": [
+        1,
+        112,
+        387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but woman is the glory of man",
+      "korean_translation": "하지만 여자는 남자의 영광입니다",
+      "word_indices": [
+        6,
+        53,
+        112
+      ]
+    }
+  ]
+}

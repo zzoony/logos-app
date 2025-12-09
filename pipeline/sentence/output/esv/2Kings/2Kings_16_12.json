@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Kings 16:12",
+  "version": "ESV",
+  "original_text": "And when the king came from Damascus, the king viewed the altar. Then the king drew near to the altar and went up on it",
+  "korean_text": "왕이 다메섹에서 돌아와 제단을 보고 제단 앞에 나아가 그 위에 제사를 드리되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when the king came from Damascus",
+      "korean_translation": "왕이 다메섹에서 돌아왔을 때",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king viewed the altar",
+      "korean_translation": "왕이 제단을 보았다",
+      "word_indices": [
+        4,
+        75,
+        2537
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the king drew near to the altar",
+      "korean_translation": "그때 왕이 제단에 가까이 다가갔다",
+      "word_indices": [
+        4,
+        75
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and went up on it",
+      "korean_translation": "그리고 그 위로 올라갔다",
+      "word_indices": []
+    }
+  ]
+}

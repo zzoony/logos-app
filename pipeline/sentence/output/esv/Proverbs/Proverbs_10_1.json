@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Proverbs 10:1",
+  "version": "ESV",
+  "original_text": "The proverbs of Solomon.\nA wise son makes a glad father,\n    but a foolish son is a sorrow to his mother.",
+  "korean_text": "솔로몬의 잠언이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The proverbs of Solomon.",
+      "korean_translation": "솔로몬의 잠언입니다.",
+      "word_indices": [
+        1331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A wise son makes a glad father,",
+      "korean_translation": "현명한 아들은 아버지를 기쁘게 하고,",
+      "word_indices": [
+        2,
+        9,
+        252,
+        494
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but a foolish son is a sorrow to his mother.",
+      "korean_translation": "어리석은 아들은 어머니의 근심거리가 됩니다.",
+      "word_indices": [
+        2,
+        128,
+        931,
+        957
+      ]
+    }
+  ]
+}

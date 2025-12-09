@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Proverbs 9:8",
+  "version": "ESV",
+  "original_text": "Do not reprove a scoffer, or he will hate you;\n    reprove a wise man, and he will love you.",
+  "korean_text": "거만한 자를 책망하지 말라 그가 너를 미워할까 두려우니라 지혜 있는 자를 책망하라 그가 너를 사랑하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not reprove a scoffer",
+      "korean_translation": "거만한 자를 책망하지 말라",
+      "word_indices": [
+        1448,
+        1527
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or he will hate you",
+      "korean_translation": "그러면 그가 너를 미워할 것이다",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "reprove a wise man",
+      "korean_translation": "지혜로운 사람을 책망하라",
+      "word_indices": [
+        6,
+        252,
+        1448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he will love you",
+      "korean_translation": "그러면 그가 너를 사랑할 것이다",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

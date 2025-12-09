@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 40:3",
+  "version": "ESV",
+  "original_text": "A voice cries:\n“In the wilderness prepare the way of the Lord;\n    make straight in the desert a highway for our God.",
+  "korean_text": "외치는 자의 소리여 이르되 너희는 광야에서 여호와의 길을 예비하라 사막에서 우리 하나님의 대로를 평탄하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A voice cries:",
+      "korean_translation": "한 소리가 외치니",
+      "word_indices": [
+        86,
+        114
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "In the wilderness prepare the way of the Lord;",
+      "korean_translation": "광야에서 여호와의 길을 예비하라",
+      "word_indices": [
+        304
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "make straight in the desert a highway for our God.",
+      "korean_translation": "사막에서 우리 하나님의 대로를 평탄하게 하라",
+      "word_indices": [
+        1,
+        560,
+        1030,
+        1191
+      ]
+    }
+  ]
+}

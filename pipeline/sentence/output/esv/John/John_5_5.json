@@ -1,0 +1,26 @@
+{
+  "verse_reference": "John 5:5",
+  "version": "ESV",
+  "original_text": "One man was there who had been an invalid for thirty-eight years.",
+  "korean_text": "거기 서른여덟 해 된 병자가 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One man was there",
+      "korean_translation": "한 사람이 거기 있었습니다.",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had been an invalid for thirty-eight years",
+      "korean_translation": "그는 서른여덟 해 동안 병자였습니다.",
+      "word_indices": [
+        423,
+        918,
+        4492
+      ]
+    }
+  ]
+}

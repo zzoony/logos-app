@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 6:6",
+  "version": "ESV",
+  "original_text": "I am weary with my moaning;\n    every night I flood my bed with tears;\n    I drench my couch with my weeping.",
+  "korean_text": "내가 탄식함으로 피곤하여 밤마다 눈물로 내 침상을 띄우며 내 요를 적시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am weary with my moaning",
+      "korean_translation": "나는 나의 탄식으로 지쳤습니다",
+      "word_indices": [
+        760,
+        1814
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "every night I flood my bed with tears",
+      "korean_translation": "매일 밤 나는 눈물로 내 침대를 적십니다",
+      "word_indices": [
+        130,
+        254,
+        477,
+        937
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I drench my couch with my weeping",
+      "korean_translation": "나는 나의 울음으로 내 침상을 적십니다",
+      "word_indices": [
+        1703,
+        3351
+      ]
+    }
+  ]
+}

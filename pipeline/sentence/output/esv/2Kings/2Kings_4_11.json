@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Kings 4:11",
+  "version": "ESV",
+  "original_text": "One day he came there, and he turned into the chamber and rested there.",
+  "korean_text": "하루는 엘리사가 거기에 이르러 그 방에 들어가 누웠더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day he came there",
+      "korean_translation": "어느 날 그는 그곳에 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he turned into the chamber",
+      "korean_translation": "그는 방으로 들어갔습니다",
+      "word_indices": [
+        45,
+        459
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and rested there",
+      "korean_translation": "그리고 그곳에서 쉬었습니다",
+      "word_indices": [
+        116
+      ]
+    }
+  ]
+}

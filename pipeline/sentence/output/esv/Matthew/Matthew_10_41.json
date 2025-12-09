@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Matthew 10:41",
+  "version": "ESV",
+  "original_text": "The one who receives a prophet because he is a prophet will receive a prophet's reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person's reward.",
+  "korean_text": "선지자의 이름으로 선지자를 영접하는 자는 선지자의 상을 받을 것이요 의인의 이름으로 의인을 영접하는 자는 의인의 상을 받을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one who receives a prophet",
+      "korean_translation": "선지자를 영접하는 자는",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he is a prophet",
+      "korean_translation": "그가 선지자이기 때문에",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will receive a prophet's reward",
+      "korean_translation": "선지자의 상을 받을 것이다",
+      "word_indices": [
+        71,
+        137,
+        691
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the one who receives a righteous person",
+      "korean_translation": "의인을 영접하는 자는",
+      "word_indices": [
+        214
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because he is a righteous person",
+      "korean_translation": "그가 의인이기 때문에",
+      "word_indices": [
+        214
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will receive a righteous person's reward",
+      "korean_translation": "의인의 상을 받을 것이다",
+      "word_indices": [
+        137,
+        214,
+        691
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 4:24",
+  "version": "ESV",
+  "original_text": "God is spirit, and those who worship him must worship in spirit and truth.”",
+  "korean_text": "하나님은 영이시니 예배하는 자가 영과 진리로 예배할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God is spirit",
+      "korean_translation": "하나님은 영이시다",
+      "word_indices": [
+        1,
+        55
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and those who worship him",
+      "korean_translation": "그리고 그분을 예배하는 사람들은",
+      "word_indices": [
+        271
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must worship in spirit and truth.”",
+      "korean_translation": "영과 진리 안에서 예배해야 합니다.",
+      "word_indices": [
+        55,
+        271,
+        346
+      ]
+    }
+  ]
+}

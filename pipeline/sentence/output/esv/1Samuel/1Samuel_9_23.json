@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 9:23",
+  "version": "ESV",
+  "original_text": "And Samuel said to the cook, “Bring the portion I gave you, of which I said to you, ‘Put it aside.’”",
+  "korean_text": "사무엘이 요리인에게 이르되 내가 네게 주며 네게 두라고 말한 그 부분을 가져오라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Samuel said to the cook",
+      "korean_translation": "사무엘이 요리사에게 말하기를",
+      "word_indices": [
+        2646
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Bring the portion I gave you,",
+      "korean_translation": "내가 너에게 준 그 부분을 가져오라",
+      "word_indices": [
+        5,
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of which I said to you,",
+      "korean_translation": "내가 너에게 말하였던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "‘Put it aside.’”",
+      "korean_translation": "‘이것을 따로 두라.’",
+      "word_indices": [
+        450
+      ]
+    }
+  ]
+}

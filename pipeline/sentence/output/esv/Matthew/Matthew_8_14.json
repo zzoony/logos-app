@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 8:14",
+  "version": "ESV",
+  "original_text": "And when Jesus entered Peter's house, he saw his mother-in-law lying sick with a fever.",
+  "korean_text": "예수께서 베드로의 집에 들어가사 그의 장모가 열병으로 앓아 누운 것을 보시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when Jesus entered Peter's house,",
+      "korean_translation": "예수께서 베드로의 집에 들어가셨을 때,",
+      "word_indices": [
+        7,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he saw his mother-in-law",
+      "korean_translation": "그는 장모를 보았는데,",
+      "word_indices": [
+        66,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lying sick with a fever.",
+      "korean_translation": "열병으로 앓아 누워 있었다.",
+      "word_indices": [
+        696,
+        2141
+      ]
+    }
+  ]
+}

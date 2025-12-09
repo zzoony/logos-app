@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ecclesiastes 2:18",
+  "version": "ESV",
+  "original_text": "I hated all my toil in which I toil under the sun, seeing that I must leave it to the man who will come after me,",
+  "korean_text": "내가 해 아래에서 내가 한 모든 수고를 미워하였노니 이는 내 뒤를 이을 이에게 남겨 주게 됨이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I hated all my toil",
+      "korean_translation": "���는 내 모든 수고를 미워하였다",
+      "word_indices": [
+        765
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in which I toil under the sun",
+      "korean_translation": "나는 해 아래에서 그것으로 수고하였다",
+      "word_indices": [
+        321,
+        765
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "seeing that I must leave it to the man",
+      "korean_translation": "나는 그것을 그 사람에게 남겨두어야만 하니",
+      "word_indices": [
+        6,
+        65
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who will come after me",
+      "korean_translation": "그는 내 뒤에 올 사람이다",
+      "word_indices": []
+    }
+  ]
+}

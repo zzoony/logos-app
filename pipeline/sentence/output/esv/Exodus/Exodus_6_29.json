@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 6:29",
+  "version": "ESV",
+  "original_text": "the Lord said to Moses, “I am the Lord; tell Pharaoh king of Egypt all that I say to you.”",
+  "korean_text": "여호와께서 모세에게 말씀하여 이르시되 나는 여호와라 내가 네게 이르는 바를 너는 애굽 왕 바로에게 다 말하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the Lord said to Moses",
+      "korean_translation": "주께서 모세에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "tell Pharaoh king of Egypt",
+      "korean_translation": "애굽 왕 바로에게 일러바라",
+      "word_indices": [
+        4,
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all that I say to you",
+      "korean_translation": "내가 네게 이르는 말을 모두",
+      "word_indices": []
+    }
+  ]
+}

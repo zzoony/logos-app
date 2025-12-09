@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 8:34",
+  "version": "ESV",
+  "original_text": "Jesus answered them, “Truly, truly, I say to you, everyone who practices sin is a slave to sin.",
+  "korean_text": "예수께서 대답하시되 진실로 진실로 너희에게 이르노니 죄를 범하는 자마다 죄의 종이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered them,",
+      "korean_translation": "예수께서 그들에게 대답하시되,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Truly, truly, I say to you,",
+      "korean_translation": "진실로, 진실로, 너희에게 말하노니,",
+      "word_indices": [
+        343
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "everyone who practices sin",
+      "korean_translation": "죄를 짓는 모든 사람은",
+      "word_indices": [
+        34,
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is a slave to sin.",
+      "korean_translation": "죄의 종이니라.",
+      "word_indices": [
+        34,
+        406
+      ]
+    }
+  ]
+}

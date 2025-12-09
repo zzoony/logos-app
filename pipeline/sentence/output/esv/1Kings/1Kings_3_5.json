@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 3:5",
+  "version": "ESV",
+  "original_text": "At Gibeon the Lord appeared to Solomon in a dream by night, and God said, “Ask what I shall give you.”",
+  "korean_text": "기브온에서 밤에 여호와께서 솔로몬의 꿈에 나타나시니라 하나님이 이르시되 내가 네게 무엇을 줄꼬 너는 구하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At Gibeon the Lord appeared to Solomon",
+      "korean_translation": "기브온에서 주께서 솔로몬에게 나타나사",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in a dream by night",
+      "korean_translation": "밤에 꿈에",
+      "word_indices": [
+        130,
+        426
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and God said",
+      "korean_translation": "하나님이 말씀하여 이르시되",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Ask what I shall give you.”",
+      "korean_translation": "“내가 네게 무엇을 줄까 구하라.”",
+      "word_indices": [
+        5,
+        126
+      ]
+    }
+  ]
+}

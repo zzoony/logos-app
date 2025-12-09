@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Joel 3:21",
+  "version": "ESV",
+  "original_text": "I will avenge their blood,\n    blood I have not avenged,\n    for the Lord dwells in Zion.”",
+  "korean_text": "내가 전에는 그들의 피흘림 당한 것을 갚아 주지 아니하였거니와 이제는 갚아 주리니 이는 여호와께서 시온에 거하심이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will avenge their blood",
+      "korean_translation": "내가 그들의 피를 갚으리라",
+      "word_indices": [
+        83,
+        1138
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "blood I have not avenged",
+      "korean_translation": "내가 아직 갚지 않은 피",
+      "word_indices": [
+        83
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the Lord dwells in Zion",
+      "korean_translation": "이는 주께서 시온에 계심이라",
+      "word_indices": [
+        77
+      ]
+    }
+  ]
+}

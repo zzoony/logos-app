@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Isaiah 59:3",
+  "version": "ESV",
+  "original_text": "For your hands are defiled with blood\n    and your fingers with iniquity;\nyour lips have spoken lies;\n    your tongue mutters wickedness.",
+  "korean_text": "이는 너희 손이 피에, 너희 손가락이 죄악에 더러워졌으며 너희 입술은 거짓을 말하며 너희 혀는 악독을 냄이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For your hands are defiled with blood",
+      "korean_translation": "이는 너희 손이 피로 더러워졌기 때문이며",
+      "word_indices": [
+        10,
+        83
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and your fingers with iniquity",
+      "korean_translation": "너희 손가락은 불의로 더러워졌다",
+      "word_indices": [
+        219,
+        946
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your lips have spoken lies",
+      "korean_translation": "너희 입술은 거짓을 말하였고",
+      "word_indices": [
+        420
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your tongue mutters wickedness.",
+      "korean_translation": "너희 혀는 악을 읊조린다",
+      "word_indices": [
+        354,
+        3393
+      ]
+    }
+  ]
+}

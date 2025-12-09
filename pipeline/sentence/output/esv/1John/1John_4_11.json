@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 John 4:11",
+  "version": "ESV",
+  "original_text": "Beloved, if God so loved us, we also ought to love one another.",
+  "korean_text": "사랑하는 자들아 하나님이 이같이 우리를 사랑하셨은즉 우리도 서로 사랑하는 것이 마땅하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Beloved",
+      "korean_translation": "사랑하는 자들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if God so loved us",
+      "korean_translation": "하나님이 이렇게 우리를 사랑하셨다면",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we also ought to love one another",
+      "korean_translation": "우리 또한 서로 사랑해야 합니다",
+      "word_indices": [
+        23,
+        35,
+        784
+      ]
+    }
+  ]
+}

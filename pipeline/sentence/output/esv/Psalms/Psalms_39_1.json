@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Psalms 39:1",
+  "version": "ESV",
+  "original_text": "I said, “I will guard my ways,\n    that I may not sin with my tongue;\nI will guard my mouth with a muzzle,\n    so long as the wicked are in my presence.”",
+  "korean_text": "내가 말하기를 나의 행위를 조심하여 내 혀로 범죄하지 아니하리니 악인이 내 앞에 있을 때에 내가 내 입에 재갈을 먹이리라 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I said,",
+      "korean_translation": "내가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will guard my ways,",
+      "korean_translation": "내 길을 지키리라.",
+      "word_indices": [
+        287
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I may not sin with my tongue;",
+      "korean_translation": "내 혀로 범죄하지 않으려 함이라.",
+      "word_indices": [
+        34,
+        354
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will guard my mouth with a muzzle,",
+      "korean_translation": "내 입을 굴레로 막으리라.",
+      "word_indices": [
+        95,
+        287,
+        3216
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so long as the wicked are in my presence.”",
+      "korean_translation": "악인이 내 앞에 있는 동안에는.",
+      "word_indices": [
+        127,
+        270,
+        3789
+      ]
+    }
+  ]
+}

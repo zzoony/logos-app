@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 137:5",
+  "version": "ESV",
+  "original_text": "If I forget you, O Jerusalem,\n    let my right hand forget its skill!",
+  "korean_text": "예루살렘아 내가 너를 잊을진대 내 오른손이 그의 재주를 잊을지로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I forget you",
+      "korean_translation": "만약 내가 너를 잊는다면",
+      "word_indices": [
+        418
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Jerusalem",
+      "korean_translation": "오, 예루살렘아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let my right hand forget its skill!",
+      "korean_translation": "내 오른손이 그 재주를 잊게 하라!",
+      "word_indices": [
+        10,
+        88,
+        418,
+        1777
+      ]
+    }
+  ]
+}

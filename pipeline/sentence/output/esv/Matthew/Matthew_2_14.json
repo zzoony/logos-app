@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 2:14",
+  "version": "ESV",
+  "original_text": "And he rose and took the child and his mother by night and departed to Egypt",
+  "korean_text": "요셉이 일어나서 밤에 아기와 그의 어머니를 데리고 애굽으로 떠나가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he rose",
+      "korean_translation": "그가 일어나서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and took the child and his mother by night",
+      "korean_translation": "밤에 아이와 그 어머니를 데리고",
+      "word_indices": [
+        43,
+        128,
+        130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and departed to Egypt",
+      "korean_translation": "애굽으로 떠났다",
+      "word_indices": [
+        266
+      ]
+    }
+  ]
+}

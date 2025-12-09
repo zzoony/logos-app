@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 41:4",
+  "version": "ESV",
+  "original_text": "And the ugly, thin cows ate up the seven attractive, plump cows. And Pharaoh awoke.",
+  "korean_text": "그 흉하고 파리한 소가 그 아름답고 살진 일곱 소를 먹은지라 바로가 곧 깨었다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the ugly, thin cows ate up",
+      "korean_translation": "그리고 추웠고 마른 암소들이 먹어 치웠고",
+      "word_indices": [
+        1308,
+        2223,
+        2655
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the seven attractive, plump cows.",
+      "korean_translation": "아름답고 살찐 일곱 암소들을",
+      "word_indices": [
+        102,
+        1308,
+        2637,
+        2654
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And Pharaoh awoke.",
+      "korean_translation": "그리고 바로가 깨어났다.",
+      "word_indices": []
+    }
+  ]
+}

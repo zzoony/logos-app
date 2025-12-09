@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 15:24",
+  "version": "ESV",
+  "original_text": "And they crucified him and divided his garments among them, casting lots for them, to decide what each should take.",
+  "korean_text": "십자가에 못 박고 그 옷을 나눌새 누가 어느 것을 가질까 하여 제비를 뽑더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they crucified him",
+      "korean_translation": "그들이 그를 십자가에 못 박았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and divided his garments among them",
+      "korean_translation": "그의 옷을 그들끼리 나누었으며",
+      "word_indices": [
+        27,
+        218
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "casting lots for them",
+      "korean_translation": "그것을 위해 제비를 뽑아",
+      "word_indices": [
+        166,
+        390
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to decide what each should take",
+      "korean_translation": "각자가 무엇을 가져갈지 결정하기 위해",
+      "word_indices": [
+        1076
+      ]
+    }
+  ]
+}

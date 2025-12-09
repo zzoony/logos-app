@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Joel 1:4",
+  "version": "ESV",
+  "original_text": "What the cutting locust left,\n    the swarming locust has eaten.\nWhat the swarming locust left,\n    the hopping locust has eaten,\nand what the hopping locust left,\n    the destroying locust has eaten.",
+  "korean_text": "팥중이가 남긴 것을 메뚜기가 먹고 메뚜기가 남긴 것을 느치가 먹고 느치가 남긴 것을 황충이 먹었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What the cutting locust left",
+      "korean_translation": "자르는 메뚜기가 남긴 것은",
+      "word_indices": [
+        926
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the swarming locust has eaten",
+      "korean_translation": "무리지어 다니는 메뚜기가 먹었다",
+      "word_indices": [
+        926,
+        1014
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What the swarming locust left",
+      "korean_translation": "무리지어 다니는 메뚜기가 남긴 것은",
+      "word_indices": [
+        926,
+        1014
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the hopping locust has eaten",
+      "korean_translation": "뛰어 다니는 메뚜기가 먹었다",
+      "word_indices": [
+        926
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and what the hopping locust left",
+      "korean_translation": "그리고 뛰어 다니는 메뚜기가 남긴 것은",
+      "word_indices": [
+        926
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the destroying locust has eaten",
+      "korean_translation": "파괴하는 메뚜기가 먹었다",
+      "word_indices": [
+        99,
+        926
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Kings 21:3",
+  "version": "ESV",
+  "original_text": "But Naboth said to Ahab, “The Lord forbid that I should give you the inheritance of my fathers.”",
+  "korean_text": "나봇이 아합에게 말하되 내 조상의 유산을 왕에게 주기를 여호와께서 금하실지로다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Naboth said to Ahab,",
+      "korean_translation": "하지만 나봇이 아합에게 말하였다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“The Lord forbid that I should give you",
+      "korean_translation": "주께서 내가 당신에게 주는 것을 금하시니,",
+      "word_indices": [
+        5,
+        1510
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the inheritance of my fathers.”",
+      "korean_translation": "내 조상의 유업을.”",
+      "word_indices": [
+        9,
+        223
+      ]
+    }
+  ]
+}

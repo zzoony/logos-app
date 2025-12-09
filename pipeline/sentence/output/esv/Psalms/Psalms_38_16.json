@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 38:16",
+  "version": "ESV",
+  "original_text": "For I said, “Only let them not rejoice over me,\n    who boast against me when my foot slips!”",
+  "korean_text": "내가 말하기를 두렵건대 그들이 나 때문에 기뻐하며 내가 실족할 때에 나를 향하여 스스로 교만할까 하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I said,",
+      "korean_translation": "내가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Only let them not rejoice over me,",
+      "korean_translation": "그들이 나를 인하여 기뻐하지만 않으면 좋겠다,",
+      "word_indices": [
+        198
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who boast against me",
+      "korean_translation": "그들이 나를 대하여 자랑하는 자들,",
+      "word_indices": [
+        12,
+        512
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when my foot slips!”",
+      "korean_translation": "내 발이 미끄러질 때에!",
+      "word_indices": [
+        121,
+        1792
+      ]
+    }
+  ]
+}

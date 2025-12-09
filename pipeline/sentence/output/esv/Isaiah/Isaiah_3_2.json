@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 3:2",
+  "version": "ESV",
+  "original_text": "the mighty man and the soldier,\n    the judge and the prophet,\n    the diviner and the elder,",
+  "korean_text": "용사와 전사와 재판관과 선지자와 복술자와 장로와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the mighty man and the soldier",
+      "korean_translation": "용사와 군사",
+      "word_indices": [
+        6,
+        173,
+        711
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the judge and the prophet",
+      "korean_translation": "재판관과 선지자",
+      "word_indices": [
+        71,
+        178
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the diviner and the elder",
+      "korean_translation": "복술가와 장로",
+      "word_indices": [
+        237,
+        2152
+      ]
+    }
+  ]
+}

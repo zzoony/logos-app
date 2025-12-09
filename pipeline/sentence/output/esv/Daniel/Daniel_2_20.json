@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Daniel 2:20",
+  "version": "ESV",
+  "original_text": "Daniel answered and said:\n“Blessed be the name of God forever and ever,\n    to whom belong wisdom and might.",
+  "korean_text": "다니엘이 말하여 이르되 영원부터 영원까지 하나님의 이름을 찬송할 것은 지혜와 능력이 그에게 있음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Daniel answered and said:",
+      "korean_translation": "다니엘이 대답하여 말하되",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Blessed be the name of God",
+      "korean_translation": "하나님의 이름은 복되시니",
+      "word_indices": [
+        1,
+        20,
+        64
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "forever and ever,",
+      "korean_translation": "영원무궁토록",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to whom belong wisdom and might.",
+      "korean_translation": "지혜와 권능이 그에게 속하도다",
+      "word_indices": [
+        224,
+        296
+      ]
+    }
+  ]
+}

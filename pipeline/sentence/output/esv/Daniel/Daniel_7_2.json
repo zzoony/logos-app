@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Daniel 7:2",
+  "version": "ESV",
+  "original_text": "Daniel declared, “I saw in my vision by night, and behold, the four winds of heaven were stirring up the great sea.",
+  "korean_text": "다니엘이 진술하여 이르되 내가 밤에 환상을 보았는데 하늘의 네 바람이 큰 바다로 몰려 불더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Daniel declared,",
+      "korean_translation": "다니엘이 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I saw in my vision by night,",
+      "korean_translation": "내가 밤에 이상 중에 보니,",
+      "word_indices": [
+        130,
+        428
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and behold,",
+      "korean_translation": "그런데 보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the four winds of heaven were stirring up the great sea.",
+      "korean_translation": "하늘의 네 바람이 큰 바다를 치고 있더라.",
+      "word_indices": [
+        30,
+        40,
+        84,
+        259
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Genesis 9:14",
+  "version": "ESV",
+  "original_text": "When I bring clouds over the earth and the bow is seen in the clouds,",
+  "korean_text": "내가 구름으로 땅을 덮을 때에 무지개가 구름 속에 나타나면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I bring clouds over the earth",
+      "korean_translation": "내가 구름을 땅 위로 가져올 때",
+      "word_indices": [
+        307
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the bow is seen in the clouds",
+      "korean_translation": "구름 속에 무지개가 보일 때",
+      "word_indices": [
+        238,
+        307
+      ]
+    }
+  ]
+}

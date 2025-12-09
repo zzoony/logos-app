@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Ruth 3:9",
+  "version": "ESV",
+  "original_text": "He said, “Who are you?” And she answered, “I am Ruth, your servant. Spread your wings over your servant, for you are a redeemer.”",
+  "korean_text": "이르되 네가 누구냐 하니 대답하되 나는 당신의 여종 룻이오니 당신의 옷자락을 펴 당신의 여종을 덮으소서 이는 당신이 기업을 무를 자가 됨이니이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said,",
+      "korean_translation": "그가 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who are you?",
+      "korean_translation": "당신은 누구십니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And she answered,",
+      "korean_translation": "그러자 그녀가 대답하길,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am Ruth, your servant.",
+      "korean_translation": "저는 룻이옵니다, 당신의 여종입니다.",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Spread your wings over your servant,",
+      "korean_translation": "당신의 여종 위에 당신의 날개를 펼쳐 주십시오.",
+      "word_indices": [
+        22,
+        326,
+        468
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for you are a redeemer.”",
+      "korean_translation": "당신은 구속자시기 때문입니다.",
+      "word_indices": [
+        1188
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 50:13",
+  "version": "ESV",
+  "original_text": "Do I eat the flesh of bulls\n    or drink the blood of goats?",
+  "korean_text": "내가 수소의 고기를 먹으며 염소의 피를 마시겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do I eat the flesh of bulls",
+      "korean_translation": "내가 황소의 고기를 먹는가?",
+      "word_indices": [
+        136,
+        305
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or drink the blood of goats?",
+      "korean_translation": "아니면 염소의 피를 마시는가?",
+      "word_indices": [
+        70,
+        83,
+        312
+      ]
+    }
+  ]
+}

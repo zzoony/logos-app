@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 45:2",
+  "version": "ESV",
+  "original_text": "“I will go before you\n    and level the exalted places,\nI will break in pieces the doors of bronze\n    and cut through the bars of iron,",
+  "korean_text": "내가 너보다 앞서 가서 험한 곳을 평탄하게 하며 놋문을 쳐서 부수며 쇠빗장을 꺾고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will go before you",
+      "korean_translation": "내가 네 앞서 가리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and level the exalted places",
+      "korean_translation": "높은 곳들을 평탄하게 하리라",
+      "word_indices": [
+        483,
+        1815
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will break in pieces the doors of bronze",
+      "korean_translation": "내가 놋문들을 부수리라",
+      "word_indices": [
+        85,
+        295,
+        320
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and cut through the bars of iron",
+      "korean_translation": "쇠빗장을 끊으리라",
+      "word_indices": [
+        60,
+        124,
+        472,
+        752
+      ]
+    }
+  ]
+}

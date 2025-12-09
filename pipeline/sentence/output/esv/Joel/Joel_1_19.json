@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Joel 1:19",
+  "version": "ESV",
+  "original_text": "To you, O Lord, I call.\nFor fire has devoured\n    the pastures of the wilderness,\nand flame has burned\n    all the trees of the field.",
+  "korean_text": "여호와여 내가 주께 부르짖으오니 불이 목장의 풀을 살랐고 불꽃이 들의 모든 나무를 살랐음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To you, O Lord, I call.",
+      "korean_translation": "오 주여, 내가 주께 부르짖나이다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For fire has devoured the pastures of the wilderness,",
+      "korean_translation": "이는 불이 광야의 초장을 삼켰음이라,",
+      "word_indices": [
+        72,
+        371
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and flame has burned all the trees of the field.",
+      "korean_translation": "또한 불꽃이 밭의 모든 나무를 태웠나이다.",
+      "word_indices": [
+        48,
+        133,
+        843
+      ]
+    }
+  ]
+}

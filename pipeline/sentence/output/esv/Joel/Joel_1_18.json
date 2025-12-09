@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Joel 1:18",
+  "version": "ESV",
+  "original_text": "How the beasts groan!\n    The herds of cattle are perplexed\nbecause there is no pasture for them;\n    even the flocks of sheep suffer.",
+  "korean_text": "가축이 울부짖고 소 떼가 소란하니 이는 꼴이 없음이라 양 떼도 피곤하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How the beasts groan!",
+      "korean_translation": "짐승들이 신음하도다!",
+      "word_indices": [
+        185,
+        987
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The herds of cattle are perplexed",
+      "korean_translation": "소 떼들이 어찌할 바를 모르니",
+      "word_indices": [
+        469,
+        988,
+        2197
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because there is no pasture for them",
+      "korean_translation": "그들에게 초목이 없기 때문이다",
+      "word_indices": [
+        736
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even the flocks of sheep suffer.",
+      "korean_translation": "심지어 양 떼들도 고통을 받는다",
+      "word_indices": [
+        235,
+        247,
+        448
+      ]
+    }
+  ]
+}

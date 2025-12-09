@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 19:23",
+  "version": "ESV",
+  "original_text": "And Jesus said to his disciples, “Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven.",
+  "korean_text": "예수께서 제자들에게 이르시되 내가 진실로 너희에게 이르노니 부자는 천국에 들어가기가 어려우니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said to his disciples,",
+      "korean_translation": "예수께서 제자들에게 말씀하셨다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Truly, I say to you,",
+      "korean_translation": "내가 진실로 너희에게 말하노니,",
+      "word_indices": [
+        343
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "only with difficulty will a rich person enter the kingdom of heaven.",
+      "korean_translation": "부자가 하늘 나라에 들어가는 것은 매우 어렵다.",
+      "word_indices": [
+        40,
+        101,
+        125,
+        214,
+        297,
+        3100
+      ]
+    }
+  ]
+}

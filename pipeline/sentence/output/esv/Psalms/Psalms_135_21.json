@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 135:21",
+  "version": "ESV",
+  "original_text": "Blessed be the Lord from Zion,\n    he who dwells in Jerusalem!\nPraise the Lord!",
+  "korean_text": "예루살렘에 계시는 여호와는 시온에서 찬송을 받으실지어다 할렐루야",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed be the Lord from Zion",
+      "korean_translation": "시온에서 여호와를 찬송할지어다",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he who dwells in Jerusalem",
+      "korean_translation": "예루살렘에 거하시는 분",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Praise the Lord",
+      "korean_translation": "여호와를 찬양하라",
+      "word_indices": [
+        160
+      ]
+    }
+  ]
+}

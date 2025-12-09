@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 11:18",
+  "version": "ESV",
+  "original_text": "For John came neither eating nor drinking, and they say, ‘He has a demon.’",
+  "korean_text": "요한이 와서 먹지도 않고 마시지도 아니하매 그들이 말하기를 귀신이 들렸다 하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For John came neither eating nor drinking",
+      "korean_translation": "요한은 먹지도 마시지도 않고 왔는데",
+      "word_indices": [
+        70,
+        278
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they say",
+      "korean_translation": "그리고 그들은 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘He has a demon.’",
+      "korean_translation": "‘그에게 귀신이 들렸다.’",
+      "word_indices": [
+        583
+      ]
+    }
+  ]
+}

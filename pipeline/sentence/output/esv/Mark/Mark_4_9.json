@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 4:9",
+  "version": "ESV",
+  "original_text": "And he said, “He who has ears to hear, let him hear.”",
+  "korean_text": "또 이르시되 들을 귀 있는 자는 들으라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그가 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He who has ears to hear",
+      "korean_translation": "들을 귀가 있는 자는",
+      "word_indices": [
+        17,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let him hear",
+      "korean_translation": "들으라",
+      "word_indices": [
+        17
+      ]
+    }
+  ]
+}

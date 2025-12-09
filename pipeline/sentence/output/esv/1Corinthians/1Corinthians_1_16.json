@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Corinthians 1:16",
+  "version": "ESV",
+  "original_text": "(I did baptize also the household of Stephanas. Beyond that, I do not know whether I baptized anyone else.)",
+  "korean_text": "내가 또한 스데바나 집 사람에게 세례를 베풀었고 그 외에는 다른 누구에게 세례를 베풀었는지 알지 못하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I did baptize also the household of Stephanas.",
+      "korean_translation": "나는 또한 스데바나의 집 사람들에게 세례를 주었었다.",
+      "word_indices": [
+        23,
+        377,
+        616
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Beyond that,",
+      "korean_translation": "그 외에는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I do not know whether I baptized anyone else.",
+      "korean_translation": "내가 다른 누구에게 세례를 주었는지는 모르겠다.",
+      "word_indices": [
+        13,
+        181,
+        1034
+      ]
+    }
+  ]
+}

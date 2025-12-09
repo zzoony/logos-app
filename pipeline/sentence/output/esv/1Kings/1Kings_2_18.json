@@ -1,0 +1,29 @@
+{
+  "verse_reference": "1 Kings 2:18",
+  "version": "ESV",
+  "original_text": "Bathsheba said, “Very well; I will speak for you to the king.”",
+  "korean_text": "밧세바가 이르되 좋다 내가 너를 위하여 왕께 말하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bathsheba said,",
+      "korean_translation": "밧세바가 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Very well;",
+      "korean_translation": "좋습니다;",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will speak for you to the king.”",
+      "korean_translation": "내가 당신을 위해 왕께 말하겠습니다.”",
+      "word_indices": [
+        4,
+        18
+      ]
+    }
+  ]
+}

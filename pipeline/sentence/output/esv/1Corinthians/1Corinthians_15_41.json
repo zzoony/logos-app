@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Corinthians 15:41",
+  "version": "ESV",
+  "original_text": "There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory.",
+  "korean_text": "해의 영광이 다르고 달의 영광이 다르며 별의 영광도 다른데 별과 별의 영광이 다르도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is one glory of the sun",
+      "korean_translation": "해의 영광은 하나입니다",
+      "word_indices": [
+        112,
+        321
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and another glory of the moon",
+      "korean_translation": "달의 영광은 또 하나입니다",
+      "word_indices": [
+        112,
+        646
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and another glory of the stars",
+      "korean_translation": "별들의 영광은 또 다릅니다",
+      "word_indices": [
+        112,
+        641
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for star differs from star in glory",
+      "korean_translation": "별은 별마다 영광이 다르기 때문입니다",
+      "word_indices": [
+        112,
+        641,
+        4540
+      ]
+    }
+  ]
+}

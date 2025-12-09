@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Judges 5:4",
+  "version": "ESV",
+  "original_text": "“Lord, when you went out from Seir,\n    when you marched from the region of Edom,\nthe earth trembled\n    and the heavens dropped,\n    yes, the clouds dropped water.",
+  "korean_text": "여호와여 주께서 세일에서부터 나오시고 에돔 들에서부터 진행하실 때에 땅이 진동하고 하늘이 물을 내리고 구름도 물을 내렸나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord,",
+      "korean_translation": "주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when you went out from Seir,",
+      "korean_translation": "주께서 세일에서 나오실 때에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when you marched from the region of Edom,",
+      "korean_translation": "에돔 땅에서 행진하실 때에,",
+      "word_indices": [
+        864,
+        902
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the earth trembled",
+      "korean_translation": "땅이 진동하였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the heavens dropped,",
+      "korean_translation": "하늘도 물을 쏟았으며",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "yes, the clouds dropped water.",
+      "korean_translation": "과연 구름이 물을 내렸도다.",
+      "word_indices": [
+        42,
+        307
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Kings 18:45",
+  "version": "ESV",
+  "original_text": "And in a little while the heavens grew black with clouds and wind, and there was a great rain. And Ahab rode and went to Jezreel.",
+  "korean_text": "조금 후에 구름과 바람이 일어나서 하늘이 캄캄해지며 큰 비가 내리는지라 아합이 마차를 타고 이스르엘로 가니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And in a little while",
+      "korean_translation": "그리고 잠시 후에",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the heavens grew black with clouds and wind",
+      "korean_translation": "하늘이 구름과 바람으로 캄캄해졌고",
+      "word_indices": [
+        40,
+        259,
+        307,
+        1589
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there was a great rain",
+      "korean_translation": "큰비가 내렸다",
+      "word_indices": [
+        30,
+        413
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And Ahab rode",
+      "korean_translation": "아합이 타고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and went to Jezreel",
+      "korean_translation": "이스르엘로 갔다",
+      "word_indices": []
+    }
+  ]
+}

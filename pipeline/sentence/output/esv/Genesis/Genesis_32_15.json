@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Genesis 32:15",
+  "version": "ESV",
+  "original_text": "thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys.",
+  "korean_text": "젖 나는 낙타 삼십과 그 새끼요 암소가 사십이요 황소가 열이요 암나귀가 이십이요 그 새끼 나귀가 열이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "thirty milking camels",
+      "korean_translation": "젖을 짜는 낙타 서른 마리",
+      "word_indices": [
+        423,
+        714,
+        832
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and their calves",
+      "korean_translation": "과 그 새끼들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "forty cows",
+      "korean_translation": "소 마흔 마리",
+      "word_indices": [
+        432,
+        1308
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ten bulls",
+      "korean_translation": "과 황소 열 마리",
+      "word_indices": [
+        257,
+        305
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "twenty female donkeys",
+      "korean_translation": "암나귀 스무 마리",
+      "word_indices": [
+        234,
+        316,
+        522
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and ten male donkeys",
+      "korean_translation": "과 수나귀 열 마리",
+      "word_indices": [
+        196,
+        257,
+        316
+      ]
+    }
+  ]
+}

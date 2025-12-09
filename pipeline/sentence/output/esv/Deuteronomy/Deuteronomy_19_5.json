@@ -1,0 +1,80 @@
+{
+  "verse_reference": "Deuteronomy 19:5",
+  "version": "ESV",
+  "original_text": "as when someone goes into the forest with his neighbor to cut wood, and his hand swings the axe to cut down a tree, and the head slips from the handle and strikes his neighbor so that he dies—he may flee to one of these cities and live,",
+  "korean_text": "가령 사람이 그 이웃과 함께 벌목하러 삼림에 들어가서 손에 도끼를 들고 벌목하려고 찍을 때에 도끼가 자루에서 빠져 그의 이웃을 맞춰 그를 죽게 함과 같은 것이라 이런 사람은 그 성읍 중 하나로 도피하여 생명을 보존할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "as when someone goes into the forest with his neighbor to cut wood",
+      "korean_translation": "이는 사람이 이웃과 함께 숲에 들어가 나무를 하려고 할 때와 같으니",
+      "word_indices": [
+        124,
+        314,
+        404,
+        727,
+        772
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his hand swings the axe",
+      "korean_translation": "그의 손이 도끼를 휘두르다가",
+      "word_indices": [
+        10,
+        2055,
+        2528
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to cut down a tree",
+      "korean_translation": "나무를 찍으려고",
+      "word_indices": [
+        124,
+        143
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the head slips from the handle",
+      "korean_translation": "그리고 도끼날이 자루에서 빠져나가",
+      "word_indices": [
+        62,
+        1725,
+        1792
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and strikes his neighbor",
+      "korean_translation": "그의 이웃을 쳐서",
+      "word_indices": [
+        314
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "so that he dies",
+      "korean_translation": "그가 죽게 되면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "he may flee to one of these cities",
+      "korean_translation": "그는 그 도시들 중 하나로 도망하여",
+      "word_indices": [
+        16,
+        179
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and live",
+      "korean_translation": "살 수 있으니라",
+      "word_indices": [
+        33
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Exodus 6:11",
+  "version": "ESV",
+  "original_text": "“Go in, tell Pharaoh king of Egypt to let the people of Israel go out of his land.”",
+  "korean_text": "들어가서 애굽 왕 바로에게 말하여 이스라엘 자손을 그 땅에서 내보내게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go in,",
+      "korean_translation": "들어가서,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "tell Pharaoh king of Egypt",
+      "korean_translation": "애굽 왕 바로에게 일러라",
+      "word_indices": [
+        4,
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to let the people of Israel go out of his land.",
+      "korean_translation": "이스라엘 백성을 그의 땅에서 보내라고.",
+      "word_indices": [
+        3,
+        8
+      ]
+    }
+  ]
+}

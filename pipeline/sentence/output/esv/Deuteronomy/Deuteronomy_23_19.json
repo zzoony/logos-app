@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Deuteronomy 23:19",
+  "version": "ESV",
+  "original_text": "“You shall not charge interest on loans to your brother, interest on money, interest on food, interest on anything that is lent for interest.",
+  "korean_text": "네가 형제에게 꾸어주거든 이자를 받지 말지니 곧 돈의 이자, 식물의 이자, 이자를 낼 만한 모든 것의 이자를 받지 말 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not charge interest on loans to your brother",
+      "korean_translation": "너는 네 형제에게 이자를 받지 말라",
+      "word_indices": [
+        28,
+        263,
+        1316,
+        3560
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "interest on money",
+      "korean_translation": "돈의 이자를",
+      "word_indices": [
+        351,
+        1316
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "interest on food",
+      "korean_translation": "음식의 이자를",
+      "word_indices": [
+        138,
+        1316
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "interest on anything",
+      "korean_translation": "어떤 것의 이자를",
+      "word_indices": [
+        1316
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that is lent for interest",
+      "korean_translation": "이자를 받고 빌려주는 것은",
+      "word_indices": [
+        1316
+      ]
+    }
+  ]
+}

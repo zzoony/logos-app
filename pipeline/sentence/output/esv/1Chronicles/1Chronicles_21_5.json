@@ -1,0 +1,47 @@
+{
+  "verse_reference": "1 Chronicles 21:5",
+  "version": "ESV",
+  "original_text": "And Joab gave the sum of the numbering of the people to David. In all Israel there were 1,100,000 men who drew the sword, and in Judah 470,000 who drew the sword.",
+  "korean_text": "요압이 백성의 수효를 다윗에게 보고하니 이스라엘 중에 칼을 뺄 만한 자가 백십만 명이요 유다 중에 칼을 뺄 만한 자가 사십칠만 명이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Joab gave the sum of the numbering of the people to David.",
+      "korean_translation": "요압이 백성의 계수 총계를 다윗에게 드렸습니다.",
+      "word_indices": [
+        3,
+        5,
+        236,
+        1986
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "In all Israel there were 1,100,000 men",
+      "korean_translation": "온 이스라엘에는 백십만 명의 남자가 있었는데,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who drew the sword",
+      "korean_translation": "그들은 칼을 잡은 자들이었습니다.",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and in Judah 470,000",
+      "korean_translation": "유다에는 사십칠만 명이 있었고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who drew the sword.",
+      "korean_translation": "그들도 칼을 잡은 자들이었습니다.",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

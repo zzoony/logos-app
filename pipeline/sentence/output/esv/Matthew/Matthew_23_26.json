@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 23:26",
+  "version": "ESV",
+  "original_text": "You blind Pharisee! First clean the inside of the cup and the plate, that the outside also may be clean.",
+  "korean_text": "눈 먼 바리새인이여 너는 먼저 안을 깨끗이 하라 그리하면 겉도 깨끗하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You blind Pharisee!",
+      "korean_translation": "소경된 바리새인이여!",
+      "word_indices": [
+        519
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "First clean the inside of the cup and the plate,",
+      "korean_translation": "먼저 잔과 접시의 안을 깨끗이 하라",
+      "word_indices": [
+        381,
+        574,
+        936,
+        1350
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the outside also may be clean.",
+      "korean_translation": "그리하면 겉도 깨끗하리라",
+      "word_indices": [
+        23,
+        381,
+        405
+      ]
+    }
+  ]
+}

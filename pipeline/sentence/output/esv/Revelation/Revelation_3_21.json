@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Revelation 3:21",
+  "version": "ESV",
+  "original_text": "The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.",
+  "korean_text": "이기는 그에게는 내가 내 보좌에 함께 앉게 하여 주기를 내가 이기고 아버지 보좌에 함께 앉은 것과 같이 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one who conquers",
+      "korean_translation": "이기는 자는",
+      "word_indices": [
+        1335
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will grant him to sit with me on my throne",
+      "korean_translation": "내가 그에게 내 보좌에 함께 앉도록 허락하리라",
+      "word_indices": [
+        118,
+        249,
+        549
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as I also conquered",
+      "korean_translation": "나도 이겼고",
+      "word_indices": [
+        23,
+        1335
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sat down with my Father on his throne",
+      "korean_translation": "내 아버지 보좌에 함께 앉은 것과 같이",
+      "word_indices": [
+        9,
+        249
+      ]
+    }
+  ]
+}

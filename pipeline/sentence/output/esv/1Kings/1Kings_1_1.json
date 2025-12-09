@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Kings 1:1",
+  "version": "ESV",
+  "original_text": "Now King David was old and advanced in years. And although they covered him with clothes, he could not get warm.",
+  "korean_text": "다윗 왕이 나이가 많아 늙으니 이불을 덮어도 따뜻하지 아니한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now King David was old and advanced in years.",
+      "korean_translation": "그때 다윗 왕은 늙고 나이가 많았더라.",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "although they covered him with clothes",
+      "korean_translation": "비록 그들이 옷으로 그를 덮었지만",
+      "word_indices": [
+        208,
+        944,
+        1187
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he could not get warm.",
+      "korean_translation": "그는 따뜻해지지 못했다.",
+      "word_indices": [
+        1411
+      ]
+    }
+  ]
+}

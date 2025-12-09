@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 16:6",
+  "version": "ESV",
+  "original_text": "Jesus said to them, “Watch and beware of the leaven of the Pharisees and Sadducees.”",
+  "korean_text": "예수께서 이르시되 삼가 바리새인과 사두개인들의 누룩을 주의하라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수께서 그들에게 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Watch",
+      "korean_translation": "주의하라",
+      "word_indices": [
+        460
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and beware of the leaven of the Pharisees and Sadducees.",
+      "korean_translation": "그리고 바리새인과 사두개인의 누룩을 경계하라",
+      "word_indices": [
+        1005,
+        1355
+      ]
+    }
+  ]
+}

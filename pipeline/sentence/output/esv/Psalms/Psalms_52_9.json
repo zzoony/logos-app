@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Psalms 52:9",
+  "version": "ESV",
+  "original_text": "I will thank you forever,\n    because you have done it.\nI will wait for your name, for it is good,\n    in the presence of the godly.",
+  "korean_text": "주께서 이를 행하셨으므로 내가 영원히 주께 감사하고 주의 이름이 선하시므로 주의 성도 앞에서 내가 주의 이름을 사모하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will thank you forever",
+      "korean_translation": "나는 영원히 당신을 감사하겠습니다.",
+      "word_indices": [
+        96,
+        376
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because you have done it.",
+      "korean_translation": "당신이 그것을 행하셨기 때문입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will wait for your name",
+      "korean_translation": "나는 당신의 이름을 기다리겠습니다.",
+      "word_indices": [
+        20,
+        362
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for it is good",
+      "korean_translation": "그것이 선하기 때문입니다.",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the presence of the godly.",
+      "korean_translation": "경건한 자들 앞에서입니다.",
+      "word_indices": [
+        270,
+        1470
+      ]
+    }
+  ]
+}

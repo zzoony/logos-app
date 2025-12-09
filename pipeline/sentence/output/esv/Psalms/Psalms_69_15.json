@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 69:15",
+  "version": "ESV",
+  "original_text": "Let not the flood sweep over me,\n    or the deep swallow me up,\n    or the pit close its mouth over me.",
+  "korean_text": "큰 물이 나를 휩쓸거나 깊음이 나를 삼키지 못하게 하시며 웅덩이가 내 위에 덮쳐 그것의 입을 닫지 못하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let not the flood sweep over me",
+      "korean_translation": "홍수가 나를 휩쓸지 마옵소서",
+      "word_indices": [
+        937,
+        970
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or the deep swallow me up",
+      "korean_translation": "또는 깊은 곳이 나를 삼키지 마옵소서",
+      "word_indices": [
+        479,
+        851
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or the pit close its mouth over me",
+      "korean_translation": "또는 구렁이 그 입으로 나를 덮지 마옵소서",
+      "word_indices": [
+        95,
+        491,
+        650
+      ]
+    }
+  ]
+}

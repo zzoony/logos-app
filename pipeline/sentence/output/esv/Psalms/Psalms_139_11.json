@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 139:11",
+  "version": "ESV",
+  "original_text": "If I say, “Surely the darkness shall cover me,\n    and the light about me be night,”",
+  "korean_text": "내가 혹시 말하기를 흑암이 반드시 나를 덮고 나를 두른 빛은 밤이 되리라 할지라도",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I say",
+      "korean_translation": "만약 내가 말한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Surely the darkness shall cover me",
+      "korean_translation": "정녕코 어둠이 나를 덮으리라",
+      "word_indices": [
+        208,
+        232
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the light about me be night",
+      "korean_translation": "그리고 나를 둘러싼 빛은 밤이 되리라",
+      "word_indices": [
+        130,
+        177
+      ]
+    }
+  ]
+}

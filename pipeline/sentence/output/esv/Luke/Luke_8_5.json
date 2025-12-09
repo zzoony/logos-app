@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Luke 8:5",
+  "version": "ESV",
+  "original_text": "“A sower went out to sow his seed. And as he sowed, some fell along the path and was trampled underfoot, and the birds of the air devoured it.",
+  "korean_text": "씨를 뿌리는 자가 그 씨를 뿌리러 나가서 뿌릴새 더러는 길 가에 떨어지매 밟히며 공중의 새들이 먹어버렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A sower went out to sow his seed.",
+      "korean_translation": "한 씨 뿌리는 자가 자기 씨를 뿌리러 나갔다.",
+      "word_indices": [
+        458,
+        2319
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And as he sowed,",
+      "korean_translation": "그가 뿌릴 때에,",
+      "word_indices": [
+        458
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "some fell along the path",
+      "korean_translation": "어떤 씨는 길가에 떨어졌는데,",
+      "word_indices": [
+        212,
+        575
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and was trampled underfoot,",
+      "korean_translation": "밟혔으며,",
+      "word_indices": [
+        1816
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the birds of the air devoured it.",
+      "korean_translation": "공중의 새들이 먹어버렸다.",
+      "word_indices": [
+        356,
+        371,
+        1037
+      ]
+    }
+  ]
+}

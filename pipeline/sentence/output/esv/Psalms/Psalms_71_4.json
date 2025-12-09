@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 71:4",
+  "version": "ESV",
+  "original_text": "Rescue me, O my God, from the hand of the wicked,\n    from the grasp of the unjust and cruel man.",
+  "korean_text": "나의 하나님이여 나를 악인의 손 곧 불의한 자와 흉악한 자의 장중에서 피하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Rescue me, O my God,",
+      "korean_translation": "나의 하나님이여, 나를 구원하소서",
+      "word_indices": [
+        1,
+        749
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the hand of the wicked,",
+      "korean_translation": "악인의 손에서",
+      "word_indices": [
+        10,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the grasp of the unjust and cruel man.",
+      "korean_translation": "불의하고 잔인한 자의 손아귀에서",
+      "word_indices": [
+        6,
+        1684,
+        1770,
+        2278
+      ]
+    }
+  ]
+}

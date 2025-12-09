@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 5:3",
+  "version": "ESV",
+  "original_text": "O Lord, in the morning you hear my voice;\n    in the morning I prepare a sacrifice for you and watch.",
+  "korean_text": "여호와여 아침에 주께서 나의 소리를 들으시리니 아침에 내가 주께 기도하고 바라리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the morning you hear my voice;",
+      "korean_translation": "아침에 주는 내 음성을 들으십니다.",
+      "word_indices": [
+        17,
+        86
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the morning I prepare a sacrifice for you",
+      "korean_translation": "아침에 나는 주를 위해 제물을 준비하고",
+      "word_indices": [
+        140,
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and watch.",
+      "korean_translation": "지켜봅니다.",
+      "word_indices": [
+        460
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 24:5",
+  "version": "ESV",
+  "original_text": "For many will come in my name, saying, ‘I am the Christ,’ and they will lead many astray.",
+  "korean_text": "많은 사람이 내 이름으로 와서 이르되 나는 그리스도라 하여 많은 사람을 미혹하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For many will come in my name",
+      "korean_translation": "내 이름으로 많은 사람이 올 것입니다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, ‘I am the Christ,’",
+      "korean_translation": "'내가 그리스도다'라고 말하며",
+      "word_indices": [
+        61
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they will lead many astray.",
+      "korean_translation": "그리고 그들은 많은 사람을 미혹할 것입니다",
+      "word_indices": [
+        195,
+        739
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Timothy 1:3",
+  "version": "ESV",
+  "original_text": "As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not to teach any different doctrine,",
+  "korean_text": "내가 마게도냐로 갈 때에 너를 권하여 에베소에 머물라 한 것은 어떤 사람들을 명하여 다른 교훈을 가르치지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As I urged you when I was going to Macedonia,",
+      "korean_translation": "내가 마게도냐로 갈 때 너를 권면한 것처럼,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "remain at Ephesus",
+      "korean_translation": "에베소에 머무르라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that you may charge certain persons",
+      "korean_translation": "이는 네가 어떤 사람들에게 명령하여",
+      "word_indices": [
+        214,
+        263,
+        808
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "not to teach any different doctrine,",
+      "korean_translation": "다른 교리를 가르치지 못하게 하려 함이라,",
+      "word_indices": [
+        169,
+        1465,
+        1899
+      ]
+    }
+  ]
+}

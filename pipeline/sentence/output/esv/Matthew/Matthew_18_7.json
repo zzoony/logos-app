@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 18:7",
+  "version": "ESV",
+  "original_text": "“Woe to the world for temptations to sin! For it is necessary that temptations come, but woe to the one by whom the temptation comes!",
+  "korean_text": "실족하게 하는 일들이 있음으로 말미암아 세상에 화가 있도다 실족하게 하는 일이 없을 수는 없으나 실족하게 하는 그 사람에게는 화가 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to the world for temptations to sin!",
+      "korean_translation": "세상에게는 죄 짓게 하는 유혹 때문에 화 있을진저!",
+      "word_indices": [
+        34,
+        183,
+        485,
+        1747
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For it is necessary that temptations come,",
+      "korean_translation": "유혹하는 일들이 오는 것은 불가피하니,",
+      "word_indices": [
+        1747,
+        1909
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but woe to the one by whom the temptation comes!",
+      "korean_translation": "그러나 그 유혹을 일으키는 사람에게는 화 있을진저!",
+      "word_indices": [
+        485,
+        1747
+      ]
+    }
+  ]
+}

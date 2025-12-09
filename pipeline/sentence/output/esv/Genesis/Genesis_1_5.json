@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 1:5",
+  "version": "ESV",
+  "original_text": "God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.",
+  "korean_text": "하나님이 빛을 낮이라 부르시고 어둠을 밤이라 부르시니라 저녁이 되고 아침이 되니 이는 첫째 날이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God called the light Day",
+      "korean_translation": "하나님은 빛을 낮이라 불렀습니다.",
+      "word_indices": [
+        1,
+        31,
+        177
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the darkness he called Night",
+      "korean_translation": "어둠을 밤이라 불렀습니다.",
+      "word_indices": [
+        31,
+        130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And there was evening",
+      "korean_translation": "그리고 저녁이 있었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and there was morning",
+      "korean_translation": "아침이 있었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the first day",
+      "korean_translation": "첫째 날이었습니다.",
+      "word_indices": []
+    }
+  ]
+}

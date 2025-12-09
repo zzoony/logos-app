@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Samuel 1:8",
+  "version": "ESV",
+  "original_text": "And Elkanah, her husband, said to her, “Hannah, why do you weep? And why do you not eat? And why is your heart sad? Am I not more to you than ten sons?”",
+  "korean_text": "그의 남편 엘가나가 그에게 이르되 한나여 어찌하여 울며 어찌하여 먹지 아니하며 어찌하여 그대의 마음이 슬프냐 내가 그대에게 열 아들보다 낫지 아니하냐 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Elkanah, her husband, said to her,",
+      "korean_translation": "그녀의 남편 엘가나가 그녀에게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Hannah, why do you weep?",
+      "korean_translation": "“한나야, 어찌하여 우느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And why do you not eat?",
+      "korean_translation": "어찌하여 음식을 먹지 않느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And why is your heart sad?",
+      "korean_translation": "어찌하여 네 마음이 슬프냐?",
+      "word_indices": [
+        26,
+        2280
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Am I not more to you than ten sons?”",
+      "korean_translation": "내가 열 아들보다 네게 더 좋지 않으냐?”",
+      "word_indices": [
+        2,
+        257
+      ]
+    }
+  ]
+}

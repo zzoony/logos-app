@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Psalms 51:1",
+  "version": "ESV",
+  "original_text": "Have mercy on me, O God,\n    according to your steadfast love;\naccording to your abundant mercy\n    blot out my transgressions.",
+  "korean_text": "하나님이여 주의 인자를 따라 내게 은혜를 베푸시며 주의 많은 긍휼을 따라 내 죄악을 지워 주소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Have mercy on me",
+      "korean_translation": "저를 불쌍히 여기소서",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O God",
+      "korean_translation": "오 하나님이시여",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "according to your steadfast love",
+      "korean_translation": "주의 인자하심을 따라",
+      "word_indices": [
+        35,
+        49
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "according to your abundant mercy",
+      "korean_translation": "주의 크신 긍휼을 따라",
+      "word_indices": [
+        49,
+        269,
+        1196
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "blot out my transgressions",
+      "korean_translation": "나의 죄악을 지워 주소서",
+      "word_indices": [
+        498,
+        1199
+      ]
+    }
+  ]
+}

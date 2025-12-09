@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 1:25",
+  "version": "ESV",
+  "original_text": "but knew her not until she had given birth to a son. And he called his name Jesus.",
+  "korean_text": "아들을 낳기까지 동침하지 아니하더니 낳으매 이름을 예수라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but knew her not",
+      "korean_translation": "그러나 그녀를 알지 못하다가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "until she had given birth to a son",
+      "korean_translation": "그녀가 아들을 낳을 때까지는",
+      "word_indices": [
+        2,
+        5,
+        619
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he called his name",
+      "korean_translation": "그리고 그의 이름을 불렀으니",
+      "word_indices": [
+        20,
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus.",
+      "korean_translation": "예수라",
+      "word_indices": []
+    }
+  ]
+}

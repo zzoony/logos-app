@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 10:3",
+  "version": "ESV",
+  "original_text": "Go your way; behold, I am sending you out as lambs in the midst of wolves.",
+  "korean_text": "갈지어다 내가 너희를 보냄이 어린 양을 이리 가운데로 보냄과 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go your way",
+      "korean_translation": "너희 길을 가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "behold",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am sending you out",
+      "korean_translation": "내가 너희를 보내노라",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as lambs in the midst of wolves",
+      "korean_translation": "이리들 가운데 어린 양 같이",
+      "word_indices": [
+        172,
+        240
+      ]
+    }
+  ]
+}

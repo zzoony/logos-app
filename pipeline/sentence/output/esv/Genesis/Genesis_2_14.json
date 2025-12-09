@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 2:14",
+  "version": "ESV",
+  "original_text": "And the name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates.",
+  "korean_text": "셋째 강의 이름은 힛데겔이라 앗수르 동쪽으로 흘렀으며 넷째 강은 유브라데더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the name of the third river is the Tigris",
+      "korean_translation": "그리고 세 번째 강의 이름은 티그리스강입니다.",
+      "word_indices": [
+        20,
+        244,
+        357
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which flows east of Assyria",
+      "korean_translation": "이 강은 앗시르의 동쪽으로 흐릅니다.",
+      "word_indices": [
+        255,
+        596
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the fourth river is the Euphrates",
+      "korean_translation": "그리고 네 번째 강은 유프라테스강입니다.",
+      "word_indices": [
+        357,
+        528
+      ]
+    }
+  ]
+}

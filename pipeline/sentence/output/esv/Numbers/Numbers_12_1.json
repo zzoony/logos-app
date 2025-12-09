@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Numbers 12:1",
+  "version": "ESV",
+  "original_text": "Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman.",
+  "korean_text": "모세가 구스 여자를 취하였더니 그 구스 여자를 취하였으므로 미리암과 아론이 모세를 비방하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Miriam and Aaron spoke against Moses",
+      "korean_translation": "미리암과 아론은 모세를 반대하여 말했습니다.",
+      "word_indices": [
+        12,
+        4112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because of the Cushite woman",
+      "korean_translation": "그 구스 여자 때문이었습니다.",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whom he had married",
+      "korean_translation": "그가 결혼했던 여자였습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for he had married a Cushite woman",
+      "korean_translation": "왜냐하면 그는 구스 여자와 결혼했기 때문입니다.",
+      "word_indices": [
+        53
+      ]
+    }
+  ]
+}

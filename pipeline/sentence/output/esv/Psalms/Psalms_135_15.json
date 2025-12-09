@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 135:15",
+  "version": "ESV",
+  "original_text": "The idols of the nations are silver and gold,\n    the work of human hands.",
+  "korean_text": "열국의 우상은 은금이요 사람의 손으로 만든 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The idols of the nations are silver and gold",
+      "korean_translation": "열방의 우상들은 은과 금입니다",
+      "word_indices": [
+        47,
+        89,
+        135,
+        355
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the work of human hands",
+      "korean_translation": "사람의 손으로 만든 것입니다",
+      "word_indices": [
+        10,
+        52,
+        695
+      ]
+    }
+  ]
+}

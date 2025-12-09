@@ -1,0 +1,42 @@
+{
+  "verse_reference": "James 3:12",
+  "version": "ESV",
+  "original_text": "Can a fig tree, my brothers, bear olives, or a grapevine produce figs? Neither can a salt pond yield fresh water.",
+  "korean_text": "내 형제들아 어찌 무화과나무가 감람 열매를, 포도나무가 무화과를 맺겠느냐 이와 같이 짠 물이 단 물을 내지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Can a fig tree, my brothers, bear olives,",
+      "korean_translation": "나의 형제들아, 무화과나무가 올리브를 맺을 수 있겠느냐,",
+      "word_indices": [
+        28,
+        73,
+        143,
+        651
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or a grapevine produce figs?",
+      "korean_translation": "또 포도나무가 무화과를 맺을 수 있겠느냐?",
+      "word_indices": [
+        651,
+        707,
+        3999
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Neither can a salt pond yield fresh water.",
+      "korean_translation": "짠 못에서 단물이 날 수도 없느니라.",
+      "word_indices": [
+        42,
+        278,
+        741,
+        881,
+        1103,
+        3942
+      ]
+    }
+  ]
+}

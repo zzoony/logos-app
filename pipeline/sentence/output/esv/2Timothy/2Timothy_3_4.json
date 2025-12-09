@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Timothy 3:4",
+  "version": "ESV",
+  "original_text": "treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God,",
+  "korean_text": "배신하며 조급하며 자만하며 쾌락을 사랑하기를 하나님 사랑하는 것보다 더하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "treacherous",
+      "korean_translation": "배신하는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "reckless",
+      "korean_translation": "경솔한",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "swollen with conceit",
+      "korean_translation": "교만하여 부푼",
+      "word_indices": [
+        2805
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "lovers of pleasure",
+      "korean_translation": "쾌락을 사랑하는",
+      "word_indices": [
+        868,
+        1197
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "rather than lovers of God",
+      "korean_translation": "하나님을 사랑하는 것보다",
+      "word_indices": [
+        1,
+        758,
+        1197
+      ]
+    }
+  ]
+}

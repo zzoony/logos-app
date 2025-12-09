@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Samuel 11:12",
+  "version": "ESV",
+  "original_text": "Then David said to Uriah, “Remain here today also, and tomorrow I will send you back.” So Uriah remained in Jerusalem that day and the next.",
+  "korean_text": "다윗이 우리아에게 이르되 오늘도 여기 있으라 내일은 내가 너를 보내리라 우리아가 그 날에 예루살렘에 머무니라 이튿날",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then David said to Uriah,",
+      "korean_translation": "그때 다윗이 우리아에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Remain here today also,",
+      "korean_translation": "오늘도 여기에 머물고,",
+      "word_indices": [
+        23,
+        275
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and tomorrow I will send you back.”",
+      "korean_translation": "내일 너를 돌려보내겠다.”",
+      "word_indices": [
+        24,
+        90,
+        779
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So Uriah remained in Jerusalem",
+      "korean_translation": "그래서 ���리아는 예루살렘에 머물렀고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that day and the next.",
+      "korean_translation": "그날과 다음 날도 그랬습니다.",
+      "word_indices": [
+        442
+      ]
+    }
+  ]
+}

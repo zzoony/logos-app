@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Leviticus 23:5",
+  "version": "ESV",
+  "original_text": "In the first month, on the fourteenth day of the month at twilight, is the Lord's Passover.",
+  "korean_text": "첫째 달 열나흗날 저녁은 여호와의 유월절이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the first month,",
+      "korean_translation": "첫째 달에,",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the fourteenth day of the month at twilight,",
+      "korean_translation": "그 달 열넷째 날 해 질 때에,",
+      "word_indices": [
+        142,
+        1277,
+        1501
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is the Lord's Passover.",
+      "korean_translation": "주님의 유월절입니다.",
+      "word_indices": [
+        577
+      ]
+    }
+  ]
+}

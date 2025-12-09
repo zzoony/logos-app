@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Matthew 6:10",
+  "version": "ESV",
+  "original_text": "Your kingdom come,\nyour will be done,\n    on earth as it is in heaven.",
+  "korean_text": "나라가 임하시오며 뜻이 하늘에서 이루어진 것 같이 땅에서도 이루어지이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your kingdom come",
+      "korean_translation": "나라가 임하시오소서",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your will be done",
+      "korean_translation": "주의 뜻이 이루어지소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on earth as it is in heaven.",
+      "korean_translation": "하늘에서와 같이 땅에서도",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 103:11",
+  "version": "ESV",
+  "original_text": "For as high as the heavens are above the earth,\n    so great is his steadfast love toward those who fear him;",
+  "korean_text": "이는 하늘이 땅에서 높음 같이 그를 경외하는 자에게 그의 인자하심이 크심이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For as high as the heavens are above the earth,",
+      "korean_translation": "하늘이 땅 위에 높음 같이",
+      "word_indices": [
+        40,
+        107
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so great is his steadfast love",
+      "korean_translation": "그의 인자하심이 그처럼 크니",
+      "word_indices": [
+        30,
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "toward those who fear him;",
+      "korean_translation": "그를 경외하는 자들에게",
+      "word_indices": [
+        80,
+        213
+      ]
+    }
+  ]
+}

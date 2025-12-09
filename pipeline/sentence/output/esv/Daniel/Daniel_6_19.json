@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Daniel 6:19",
+  "version": "ESV",
+  "original_text": "Then, at break of day, the king arose and went in haste to the den of lions.",
+  "korean_text": "이튿날에 왕이 새벽에 일어나 급히 사자 굴로 가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then, at break of day,",
+      "korean_translation": "그때 새벽이 되자,",
+      "word_indices": [
+        85
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king arose",
+      "korean_translation": "왕이 일어났습니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and went in haste to the den of lions.",
+      "korean_translation": "그리고 서둘러 사자 굴로 갔습니다",
+      "word_indices": [
+        348,
+        1080,
+        1295
+      ]
+    }
+  ]
+}

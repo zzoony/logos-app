@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 59:5",
+  "version": "ESV",
+  "original_text": "They hatch adders' eggs;\n    they weave the spider's web;\nhe who eats their eggs dies,\n    and from one that is crushed a viper is hatched.",
+  "korean_text": "독사의 알을 품으며 거미줄을 짜나니 그 알을 먹는 자는 죽을 것이요 그 알이 밟힌즉 터져서 독사가 나올 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They hatch adders' eggs",
+      "korean_translation": "그들은 독사의 알을 부화시키고",
+      "word_indices": [
+        2448,
+        2531,
+        3405
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they weave the spider's web",
+      "korean_translation": "그들은 거미줄을 짜고",
+      "word_indices": [
+        1462,
+        2727,
+        4211
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he who eats their eggs dies",
+      "korean_translation": "그들의 알을 먹는 자는 죽고",
+      "word_indices": [
+        2531
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from one that is crushed",
+      "korean_translation": "부서진 것으로부터",
+      "word_indices": [
+        688
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a viper is hatched",
+      "korean_translation": "독사가 부화된다",
+      "word_indices": [
+        2353,
+        3405
+      ]
+    }
+  ]
+}

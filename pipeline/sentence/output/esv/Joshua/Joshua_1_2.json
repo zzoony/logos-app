@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Joshua 1:2",
+  "version": "ESV",
+  "original_text": "“Moses my servant is dead. Now therefore arise, go over this Jordan, you and all this people, into the land that I am giving to them, to the people of Israel.",
+  "korean_text": "내 종 모세가 죽었으니 이제 너는 이 모든 백성과 더불어 일어나 이 요단을 건너 내가 그들 곧 이스라엘 자손에게 주는 그 땅으로 가라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses my servant is dead.",
+      "korean_translation": "나의 종 모세는 죽었느니라.",
+      "word_indices": [
+        22,
+        141
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now therefore arise,",
+      "korean_translation": "그러므로 이제 일어나라",
+      "word_indices": [
+        32,
+        168
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "go over this Jordan,",
+      "korean_translation": "이 요단을 건너라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you and all this people,",
+      "korean_translation": "너와 이 모든 백성과 함께",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "into the land that I am giving to them,",
+      "korean_translation": "내가 그들에게 주는 그 땅으로",
+      "word_indices": [
+        5,
+        8
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to the people of Israel.",
+      "korean_translation": "곧 이스라엘 백성에게.",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

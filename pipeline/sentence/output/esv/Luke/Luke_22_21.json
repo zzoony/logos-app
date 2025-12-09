@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 22:21",
+  "version": "ESV",
+  "original_text": "But behold, the hand of him who betrays me is with me on the table.",
+  "korean_text": "그러나 보라 나를 파는 자의 손이 나와 함께 상 위에 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But behold,",
+      "korean_translation": "그러나 보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the hand of him who betrays me",
+      "korean_translation": "나를 배신하는 자의 손이",
+      "word_indices": [
+        10,
+        966
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is with me on the table.",
+      "korean_translation": "나와 함께 상 위에 있다.",
+      "word_indices": [
+        438
+      ]
+    }
+  ]
+}

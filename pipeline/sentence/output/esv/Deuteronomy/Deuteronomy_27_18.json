@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Deuteronomy 27:18",
+  "version": "ESV",
+  "original_text": "“‘Cursed be anyone who misleads a blind man on the road.’ And all the people shall say, ‘Amen.’",
+  "korean_text": "맹인에게 길을 잃게 하는 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be anyone",
+      "korean_translation": "저주를 받을 자는",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who misleads a blind man on the road.",
+      "korean_translation": "길에서 소경을 잘못 인도하는 자",
+      "word_indices": [
+        6,
+        519,
+        786,
+        2056
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And all the people shall say,",
+      "korean_translation": "모든 백성은 말하기를",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "‘Amen.’",
+      "korean_translation": "‘아멘.’",
+      "word_indices": []
+    }
+  ]
+}

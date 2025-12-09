@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Psalms 144:3",
+  "version": "ESV",
+  "original_text": "O Lord, what is man that you regard him,\n    or the son of man that you think of him?",
+  "korean_text": "여호와여 사람이 무엇이기에 주께서 그를 알아 주시며 인생이 무엇이기에 그를 생각하시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what is man",
+      "korean_translation": "사람이 무엇이기에",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you regard him,",
+      "korean_translation": "주께서 그를 돌보시며",
+      "word_indices": [
+        567
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or the son of man",
+      "korean_translation": "또 인자가 무엇이기에",
+      "word_indices": [
+        2,
+        6
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you think of him?",
+      "korean_translation": "주께서 그를 생각하시나이까?",
+      "word_indices": [
+        334
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 7:17",
+  "version": "ESV",
+  "original_text": "So, every healthy tree bears good fruit, but the diseased tree bears bad fruit.",
+  "korean_text": "이와 같이 좋은 나무마다 아름다운 열매를 맺고 못된 나무가 나쁜 열매를 맺나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So, every healthy tree bears good fruit",
+      "korean_translation": "그러므로 모든 건강한 나무는 좋은 열매를 맺습니다.",
+      "word_indices": [
+        37,
+        73,
+        143,
+        203,
+        2621
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but the diseased tree bears bad fruit",
+      "korean_translation": "그러나 병든 나무는 나쁜 열매를 맺습니다.",
+      "word_indices": [
+        73,
+        143,
+        203,
+        845
+      ]
+    }
+  ]
+}

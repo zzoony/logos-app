@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Exodus 32:17",
+  "version": "ESV",
+  "original_text": "When Joshua heard the noise of the people as they shouted, he said to Moses, “There is a noise of war in the camp.”",
+  "korean_text": "여호수아가 백성들의 요란한 소리를 듣고 모세에게 말하되 진중에서 싸우는 소리가 나나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Joshua heard the noise of the people as they shouted",
+      "korean_translation": "여호수아가 백성들이 외치는 소리를 들었을 때",
+      "word_indices": [
+        3,
+        447,
+        1230
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said to Moses",
+      "korean_translation": "그가 모세에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“There is a noise of war in the camp.”",
+      "korean_translation": "진중에 전쟁의 소리가 있습니다.",
+      "word_indices": [
+        186,
+        204,
+        1230
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 5:5",
+  "version": "ESV",
+  "original_text": "And Simon answered, “Master, we toiled all night and took nothing! But at your word I will let down the nets.”",
+  "korean_text": "시몬이 대답하여 이르되 선생님 우리들이 밤이 새도록 수고하였으되 잡은 것이 없지마는 말씀에 의지하여 내가 그물을 내리리이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Simon answered,",
+      "korean_translation": "시몬이 대답하여,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Master,",
+      "korean_translation": "선생님,",
+      "word_indices": [
+        242
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we toiled all night",
+      "korean_translation": "우리가 밤새도록 수고했는데",
+      "word_indices": [
+        130,
+        765
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and took nothing!",
+      "korean_translation": "아무것도 잡지 못했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But at your word",
+      "korean_translation": "그러나 선생님의 말씀에",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will let down the nets.”",
+      "korean_translation": "그물을 내리겠습니다.”",
+      "word_indices": [
+        853
+      ]
+    }
+  ]
+}

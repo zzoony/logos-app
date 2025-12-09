@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Proverbs 4:4",
+  "version": "ESV",
+  "original_text": "he taught me and said to me,\n“Let your heart hold fast my words;\n    keep my commandments, and live.",
+  "korean_text": "아버지가 내게 가르쳐 이르기를 내 말을 네 마음에 두라 내 명령을 지키라 그리하면 살리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "he taught me",
+      "korean_translation": "그가 나를 가르쳤고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said to me",
+      "korean_translation": "내게 일렀다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Let your heart hold fast my words",
+      "korean_translation": "내 말을 네 마음에 굳게 지키라",
+      "word_indices": [
+        15,
+        26,
+        184
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "keep my commandments",
+      "korean_translation": "내 계명을 지키라",
+      "word_indices": [
+        46,
+        189
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and live",
+      "korean_translation": "그리하면 살리라",
+      "word_indices": [
+        33
+      ]
+    }
+  ]
+}

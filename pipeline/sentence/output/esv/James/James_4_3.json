@@ -1,0 +1,42 @@
+{
+  "verse_reference": "James 4:3",
+  "version": "ESV",
+  "original_text": "You ask and do not receive, because you ask wrongly, to spend it on your passions.",
+  "korean_text": "구하여도 받지 못함은 정욕으로 쓰려고 잘못 구하기 때문이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You ask",
+      "korean_translation": "너희가 구하되",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and do not receive",
+      "korean_translation": "받지 못하니",
+      "word_indices": [
+        137
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because you ask wrongly",
+      "korean_translation": "이는 너희가 잘못 구하여",
+      "word_indices": [
+        126,
+        6052
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to spend it on your passions",
+      "korean_translation": "너희의 정욕에 쓰려 함이라",
+      "word_indices": [
+        654,
+        1242
+      ]
+    }
+  ]
+}

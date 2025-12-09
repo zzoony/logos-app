@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 135:7",
+  "version": "ESV",
+  "original_text": "He it is who makes the clouds rise at the end of the earth,\n    who makes lightnings for the rain\n    and brings forth the wind from his storehouses.",
+  "korean_text": "안개를 땅 끝에서 일으키시며 비를 위하여 번개를 만드시며 바람을 그 곳간에서 내시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He it is who makes the clouds rise at the end of the earth",
+      "korean_translation": "그는 땅 끝에서 구름이 솟아오르게 하시는 분이시며",
+      "word_indices": [
+        94,
+        104,
+        307
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who makes lightnings for the rain",
+      "korean_translation": "비를 위해 번개를 만드시고",
+      "word_indices": [
+        413,
+        1062
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and brings forth the wind from his storehouses.",
+      "korean_translation": "그의 창고에서 바람을 내어보내시는 이시다.",
+      "word_indices": [
+        11,
+        259,
+        342
+      ]
+    }
+  ]
+}

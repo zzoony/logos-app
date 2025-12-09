@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Luke 4:11",
+  "version": "ESV",
+  "original_text": "and\n“‘On their hands they will bear you up,\n    lest you strike your foot against a stone.’”",
+  "korean_text": "또한 그들이 손으로 너를 받들어 네 발이 돌에 부딪치지 않게 하시리라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and On their hands they will bear you up",
+      "korean_translation": "그리고 그들이 너를 손으로 받쳐 주리니",
+      "word_indices": [
+        10,
+        73
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "lest you strike your foot against a stone",
+      "korean_translation": "네가 발을 돌에 부딪히지 않도록",
+      "word_indices": [
+        12,
+        81,
+        106,
+        121
+      ]
+    }
+  ]
+}

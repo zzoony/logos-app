@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Psalms 10:9",
+  "version": "ESV",
+  "original_text": "he lurks in ambush like a lion in his thicket;\nhe lurks that he may seize the poor;\n    he seizes the poor when he draws him into his net.",
+  "korean_text": "사자가 자기의 굴에 엎드림 같이 그가 은밀한 곳에 엎드려 가련한 자를 잡으려고 기다리며 자기 그물을 끌어당겨 가련한 자를 잡나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "he lurks in ambush like a lion in his thicket",
+      "korean_translation": "그는 자기 덤불 속의 사자처럼 매복하여 숨어 있습니다.",
+      "word_indices": [
+        14,
+        348,
+        1012,
+        2012,
+        2550
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he lurks",
+      "korean_translation": "그는 숨어 있습니다.",
+      "word_indices": [
+        2550
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he may seize the poor",
+      "korean_translation": "가난한 자를 잡으려고 합니다.",
+      "word_indices": [
+        268,
+        453
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he seizes the poor",
+      "korean_translation": "그는 가난한 자를 붙잡습니다.",
+      "word_indices": [
+        268
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "when he draws him into his net.",
+      "korean_translation": "그가 그를 그물로 끌어들일 때.",
+      "word_indices": [
+        220,
+        853
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Genesis 11:4",
+  "version": "ESV",
+  "original_text": "Then they said, “Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.”",
+  "korean_text": "또 말하되 자, 성읍과 탑을 건설하여 그 탑 꼭대기를 하늘에 닿게 하여 우리 이름을 내고 온 지면에 흩어짐을 면하자 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then they said,",
+      "korean_translation": "그들이 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Come,",
+      "korean_translation": "“오라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us build ourselves a city and a tower with its top in the heavens,",
+      "korean_translation": "우리가 성을 건축하고 하늘에 닿을 탑을 쌓아,",
+      "word_indices": [
+        16,
+        40,
+        87,
+        556,
+        713
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and let us make a name for ourselves,",
+      "korean_translation": "우리를 위하여 이름을 만들어,",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "lest we be dispersed over the face of the whole earth.”",
+      "korean_translation": "그렇지 않으면 온 땅에 흩어지지 말자.”",
+      "word_indices": [
+        69,
+        151
+      ]
+    }
+  ]
+}

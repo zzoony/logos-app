@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Psalms 115:7",
+  "version": "ESV",
+  "original_text": "They have hands, but do not feel;\n    feet, but do not walk;\n    and they do not make a sound in their throat.",
+  "korean_text": "손이 있어도 만지지 못하며 발이 있어도 걷지 못하며 목구멍이 있어도 작은 소리조차 내지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They have hands,",
+      "korean_translation": "그들에게는 손이 있지만,",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but do not feel;",
+      "korean_translation": "느끼지 못하며,",
+      "word_indices": [
+        1587
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "feet,",
+      "korean_translation": "발이 있지만,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but do not walk;",
+      "korean_translation": "걷지 못하며,",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they do not make a sound in their throat.",
+      "korean_translation": "그리고 그들은 그들의 목에서 소리를 내지 못한다.",
+      "word_indices": [
+        291,
+        2594
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 8:22",
+  "version": "ESV",
+  "original_text": "And Jesus said to him, “Follow me, and leave the dead to bury their own dead.”",
+  "korean_text": "예수께서 이르시되 죽은 자들이 그들의 죽은 자들을 장사하게 하고 너는 나를 따르라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said to him,",
+      "korean_translation": "그리고 예수께서 그에게 이르시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Follow me,",
+      "korean_translation": "나를 따르라,",
+      "word_indices": [
+        155
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and leave the dead to bury their own dead.”",
+      "korean_translation": "죽은 자들로 자기 죽은 자를 장사하게 하라.”",
+      "word_indices": [
+        65,
+        141,
+        322
+      ]
+    }
+  ]
+}

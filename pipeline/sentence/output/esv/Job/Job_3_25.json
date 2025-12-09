@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Job 3:25",
+  "version": "ESV",
+  "original_text": "For the thing that I fear comes upon me,\n    and what I dread befalls me.",
+  "korean_text": "내가 두려워하는 그것이 내게 임하고 내가 무서워하는 그것이 내 몸에 미쳤구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the thing that I fear",
+      "korean_translation": "내가 두려워하는 것은",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "comes upon me",
+      "korean_translation": "내게 임하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and what I dread",
+      "korean_translation": "내가 무서워하는 것도",
+      "word_indices": [
+        1089
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "befalls me",
+      "korean_translation": "내게 일어난다",
+      "word_indices": [
+        2234
+      ]
+    }
+  ]
+}

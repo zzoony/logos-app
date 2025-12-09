@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 John 2:23",
+  "version": "ESV",
+  "original_text": "No one who denies the Son has the Father. Whoever confesses the Son has the Father also.",
+  "korean_text": "아들을 부인하는 자에게는 또한 아버지가 없으되 아들을 시인하는 자에게는 아버지도 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one who denies the Son",
+      "korean_translation": "아들을 부인하는 사람은",
+      "word_indices": [
+        2,
+        819
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "has the Father.",
+      "korean_translation": "아버지를 갖지 않는다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Whoever confesses the Son",
+      "korean_translation": "아들을 시인하는 사람은",
+      "word_indices": [
+        2,
+        117,
+        1118
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "has the Father also.",
+      "korean_translation": "아버지도 또한 가진다.",
+      "word_indices": [
+        9,
+        23
+      ]
+    }
+  ]
+}

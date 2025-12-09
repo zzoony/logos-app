@@ -1,0 +1,26 @@
+{
+  "verse_reference": "John 6:18",
+  "version": "ESV",
+  "original_text": "The sea became rough because a strong wind was blowing.",
+  "korean_text": "큰 바람이 불어 파도가 일어나더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sea became rough",
+      "korean_translation": "바다가 거세졌습니다",
+      "word_indices": [
+        84,
+        3406
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because a strong wind was blowing",
+      "korean_translation": "강한 바람이 불고 있었기 때문입니다",
+      "word_indices": [
+        227,
+        259
+      ]
+    }
+  ]
+}

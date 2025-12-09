@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 107:3",
+  "version": "ESV",
+  "original_text": "and gathered in from the lands,\n    from the east and from the west,\n    from the north and from the south.",
+  "korean_text": "동서 남북 각 지방에서부터 모으셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and gathered in from the lands,",
+      "korean_translation": "그리고 땅들로부터 모으시고,",
+      "word_indices": [
+        8,
+        93
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the east and from the west,",
+      "korean_translation": "동쪽에서와 서쪽에서부터,",
+      "word_indices": [
+        255,
+        557
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the north and from the south.",
+      "korean_translation": "북쪽에서와 남쪽에서부터.",
+      "word_indices": [
+        328,
+        410
+      ]
+    }
+  ]
+}

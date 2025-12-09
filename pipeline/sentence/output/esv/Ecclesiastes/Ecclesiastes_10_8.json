@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Ecclesiastes 10:8",
+  "version": "ESV",
+  "original_text": "He who digs a pit will fall into it,\n    and a serpent will bite him who breaks through a wall.",
+  "korean_text": "함정을 파는 자는 거기에 빠질 것이요 담을 허는 자는 뱀에게 물리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He who digs a pit will fall into it",
+      "korean_translation": "구덩이를 파는 자는 그것에 빠지리라.",
+      "word_indices": [
+        100,
+        491,
+        920
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a serpent will bite him who breaks through a wall",
+      "korean_translation": "또 뱀이 벽을 뚫는 자를 물 것이니라.",
+      "word_indices": [
+        60,
+        85,
+        191,
+        782,
+        1707
+      ]
+    }
+  ]
+}

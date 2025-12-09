@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 25:15",
+  "version": "ESV",
+  "original_text": "To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away.",
+  "korean_text": "각각 그 재능대로 한 사람에게는 금 다섯 달란트를, 한 사람에게는 두 달란트를, 한 사람에게는 한 달란트를 주고 떠났더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To one he gave five talents",
+      "korean_translation": "한 사람에게는 다섯 달란트를 주고",
+      "word_indices": [
+        5,
+        201,
+        678
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to another two",
+      "korean_translation": "다른 사람에게는 두 달란트를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to another one",
+      "korean_translation": "또 다른 사람에게는 한 달란트를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to each according to his ability",
+      "korean_translation": "각각 그 능력에 따라 주었다",
+      "word_indices": [
+        49,
+        1952
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then he went away",
+      "korean_translation": "그리고 그는 떠났다",
+      "word_indices": [
+        29
+      ]
+    }
+  ]
+}

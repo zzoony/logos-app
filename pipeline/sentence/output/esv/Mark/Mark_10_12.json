@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 10:12",
+  "version": "ESV",
+  "original_text": "and if she divorces her husband and marries another, she commits adultery.”",
+  "korean_text": "또 아내가 남편을 버리고 다른 데로 시집 가면 간음을 행함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and if she divorces her husband",
+      "korean_translation": "그리고 만약 그녀가 남편과 이혼하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and marries another",
+      "korean_translation": "다른 남자와 결혼하면",
+      "word_indices": [
+        603
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she commits adultery",
+      "korean_translation": "그녀는 간음을 범합니다",
+      "word_indices": [
+        299,
+        948
+      ]
+    }
+  ]
+}

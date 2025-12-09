@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Numbers 27:12",
+  "version": "ESV",
+  "original_text": "The Lord said to Moses, “Go up into this mountain of Abarim and see the land that I have given to the people of Israel.",
+  "korean_text": "여호와께서 모세에게 이르시되 너는 이 아바림 산에 올라가서 내가 이스라엘 자손에게 준 땅을 바라보라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Moses,",
+      "korean_translation": "주께서 모세에게 말씀하시기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go up into this mountain of Abarim",
+      "korean_translation": "이 아바림 산으로 올라가",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and see the land",
+      "korean_translation": "그 땅을 보라",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I have given to the people of Israel.",
+      "korean_translation": "내가 이스라엘 백성에게 준",
+      "word_indices": [
+        3,
+        5
+      ]
+    }
+  ]
+}

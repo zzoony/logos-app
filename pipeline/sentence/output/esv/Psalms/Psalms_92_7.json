@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 92:7",
+  "version": "ESV",
+  "original_text": "that though the wicked sprout like grass\n    and all evildoers flourish,\nthey are doomed to destruction forever;",
+  "korean_text": "악인들은 풀 같이 자라고 악을 행하는 자들은 다 흥왕할지라도 영원히 멸망하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "though the wicked sprout like grass",
+      "korean_translation": "악인이 풀처럼 싹이 나더라도",
+      "word_indices": [
+        14,
+        182,
+        1337,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all evildoers flourish",
+      "korean_translation": "모든 행악자가 번성할지라도",
+      "word_indices": [
+        965,
+        1741
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they are doomed to destruction forever",
+      "korean_translation": "그들은 영원히 멸망하리라",
+      "word_indices": [
+        96,
+        338,
+        1358
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Esther 5:4",
+  "version": "ESV",
+  "original_text": "And Esther said, “If it please the king, let the king and Haman come today to a feast that I have prepared for the king.”",
+  "korean_text": "에스더가 이르되 오늘 내가 왕을 위하여 잔치를 베풀었사오니 왕이 좋게 여기시거든 하만과 함께 오소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Esther said,",
+      "korean_translation": "에스더가 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If it please the king,",
+      "korean_translation": "왕의 뜻에 맞다면,",
+      "word_indices": [
+        4,
+        149
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let the king and Haman come today",
+      "korean_translation": "왕과 하만이 오늘 오게 하시고",
+      "word_indices": [
+        4,
+        275
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to a feast that I have prepared for the king.",
+      "korean_translation": "내가 왕을 위해 준비한 잔치로",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

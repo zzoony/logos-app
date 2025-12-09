@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Isaiah 18:6",
+  "version": "ESV",
+  "original_text": "They shall all of them be left\n    to the birds of prey of the mountains\n    and to the beasts of the earth.\nAnd the birds of prey will summer on them,\n    and all the beasts of the earth will winter on them.",
+  "korean_text": "산의 독수리들과 땅의 들짐승들에게 던져 주리니 산의 독수리들이 그것으로 여름을 지내며 땅의 들짐승들이 다 그것으로 겨울을 지내리라 하셨음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They shall all of them be left",
+      "korean_translation": "그들은 모두 버려질 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the birds of prey of the mountains",
+      "korean_translation": "산의 맹금새들에게",
+      "word_indices": [
+        123,
+        356,
+        807
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to the beasts of the earth.",
+      "korean_translation": "그리고 땅의 들짐승들에게",
+      "word_indices": [
+        185
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And the birds of prey will summer on them,",
+      "korean_translation": "그리고 맹금새들은 그것들 위에서 여름을 날 것이며,",
+      "word_indices": [
+        356,
+        807,
+        1275
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and all the beasts of the earth will winter on them.",
+      "korean_translation": "땅의 모든 들짐승들은 그것들 위에서 겨울을 날 것이다.",
+      "word_indices": [
+        185,
+        1580
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Ezekiel 19:10",
+  "version": "ESV",
+  "original_text": "Your mother was like a vine in a vineyard\n    planted by the water,\nfruitful and full of branches\n    by reason of abundant water.",
+  "korean_text": "네 피의 어머니는 물 가에 심겨진 포도나무 같아서 물이 많으므로 열매가 많고 가지가 무성하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your mother was like a vine in a vineyard",
+      "korean_translation": "네 어머니는 포도원에 있는 포도나무와 같았다",
+      "word_indices": [
+        14,
+        128,
+        417,
+        635
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "planted by the water",
+      "korean_translation": "물가에 심겨졌으며",
+      "word_indices": [
+        42,
+        403
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "fruitful and full of branches",
+      "korean_translation": "열매가 많고 가지가 무성했다",
+      "word_indices": [
+        165,
+        462,
+        982
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by reason of abundant water",
+      "korean_translation": "그것은 풍부한 물 때문이었다",
+      "word_indices": [
+        42,
+        725,
+        1196
+      ]
+    }
+  ]
+}

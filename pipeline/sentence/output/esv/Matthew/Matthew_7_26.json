@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 7:26",
+  "version": "ESV",
+  "original_text": "And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand.",
+  "korean_text": "나의 이 말을 듣고 행하지 아니하는 자는 그 집을 모래 위에 지은 어리석은 사람 같으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And everyone who hears these words of mine",
+      "korean_translation": "나의 이 말을 듣는 사람은 누구든지",
+      "word_indices": [
+        15,
+        17,
+        233
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and does not do them",
+      "korean_translation": "그것을 행하지 아니하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will be like a foolish man",
+      "korean_translation": "어리석은 사람과 같으리니",
+      "word_indices": [
+        6,
+        14,
+        931
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who built his house on the sand",
+      "korean_translation": "그가 모래 위에 집을 지었음과 같으리라",
+      "word_indices": [
+        7,
+        1153
+      ]
+    }
+  ]
+}

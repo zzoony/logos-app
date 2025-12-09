@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Isaiah 19:2",
+  "version": "ESV",
+  "original_text": "And I will stir up Egyptians against Egyptians,\n    and they will fight, each against another\n    and each against his neighbor,\n    city against city, kingdom against kingdom;",
+  "korean_text": "내가 애굽인을 격동하여 애굽인을 치리니 그들이 각기 형제를 치며 각기 이웃을 칠 것이요 성읍이 성읍을 치며 나라가 나라를 칠 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will stir up Egyptians against Egyptians",
+      "korean_translation": "내가 이집트 사람을 이집트 사람 대항하여 격동시킬 것이며",
+      "word_indices": [
+        12,
+        581
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they will fight",
+      "korean_translation": "그들은 서로 싸울 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "each against another",
+      "korean_translation": "각자가 다른 사람을 대적하고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and each against his neighbor",
+      "korean_translation": "각자가 자기 이웃을 대적할 것이며",
+      "word_indices": [
+        12,
+        314
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "city against city",
+      "korean_translation": "성읍은 성읍을 대적하고",
+      "word_indices": [
+        12,
+        16
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "kingdom against kingdom",
+      "korean_translation": "나라는 나라를 대적하리라",
+      "word_indices": [
+        12,
+        101
+      ]
+    }
+  ]
+}

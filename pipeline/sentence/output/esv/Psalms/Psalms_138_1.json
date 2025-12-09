@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 138:1",
+  "version": "ESV",
+  "original_text": "I give you thanks, O Lord, with my whole heart;\n    before the gods I sing your praise;",
+  "korean_text": "내가 전심으로 주께 감사하며 신들 앞에서 주께 찬송하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I give you thanks, O Lord,",
+      "korean_translation": "오 주여, 감사를 드립니다",
+      "word_indices": [
+        5,
+        376
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with my whole heart;",
+      "korean_translation": "내 온 마음으로",
+      "word_indices": [
+        26,
+        151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "before the gods I sing your praise;",
+      "korean_translation": "신들 앞에서 주님을 찬양합니다",
+      "word_indices": [
+        1,
+        160,
+        284
+      ]
+    }
+  ]
+}

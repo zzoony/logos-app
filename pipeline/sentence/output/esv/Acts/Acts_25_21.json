@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Acts 25:21",
+  "version": "ESV",
+  "original_text": "But when Paul had appealed to be kept in custody for the decision of the emperor, I ordered him to be held until I could send him to Caesar.”",
+  "korean_text": "바울은 황제의 판결을 받도록 자기를 지켜 주기를 호소하므로 내가 그를 가이사에게 보내기까지 지켜 두라 명하였노라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when Paul had appealed",
+      "korean_translation": "하지만 바울이 호소했을 때",
+      "word_indices": [
+        1241
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to be kept in custody for the decision of the emperor,",
+      "korean_translation": "황제의 판결을 위해 구금되도록",
+      "word_indices": [
+        1592,
+        1791,
+        3451
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I ordered him to be held",
+      "korean_translation": "내가 그를 구금하도록 명령했다",
+      "word_indices": [
+        253
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until I could send him to Caesar.",
+      "korean_translation": "내가 그를 가이사에게 보낼 때까지",
+      "word_indices": [
+        24
+      ]
+    }
+  ]
+}

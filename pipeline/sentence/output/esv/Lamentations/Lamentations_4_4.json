@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Lamentations 4:4",
+  "version": "ESV",
+  "original_text": "The tongue of the nursing infant sticks\n    to the roof of its mouth for thirst;\nthe children beg for food,\n    but no one gives to them.",
+  "korean_text": "젖먹이가 목말라서 혀가 입천장에 붙음이여 어린 아이들이 떡을 구하나 떼어 줄 사람이 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The tongue of the nursing infant sticks to the roof of its mouth for thirst",
+      "korean_translation": "젖먹이 아기의 혀가 목마름 때문에 입천장에 달라붙는다.",
+      "word_indices": [
+        95,
+        354,
+        984,
+        1033,
+        1112,
+        1360
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the children beg for food",
+      "korean_translation": "아이들이 음식을 구걸한다.",
+      "word_indices": [
+        138,
+        996
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but no one gives to them",
+      "korean_translation": "하지만 아무도 그들에게 주지 않는다.",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

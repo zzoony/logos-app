@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Matthew 20:22",
+  "version": "ESV",
+  "original_text": "Jesus answered, “You do not know what you are asking. Are you able to drink the cup that I am to drink?” They said to him, “We are able.”",
+  "korean_text": "예수께서 대답하여 이르시되 너희는 너희가 구하는 것을 알지 못하는도다 내가 마시려는 잔을 너희가 마실 수 있느냐 그들이 말하되 할 수 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered,",
+      "korean_translation": "예수께서 대답하여,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You do not know what you are asking.",
+      "korean_translation": "너희가 구하는 것이 무엇인지 알지 못한다.",
+      "word_indices": [
+        13,
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Are you able to drink the cup",
+      "korean_translation": "너희가 내 잔을 마실 수 있느냐",
+      "word_indices": [
+        70,
+        317,
+        574
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I am to drink?",
+      "korean_translation": "내가 마시려는 그 잔을?",
+      "word_indices": [
+        70
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They said to him,",
+      "korean_translation": "그들이 그에게 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "We are able.”",
+      "korean_translation": "“우리는 할 수 있나이다.”",
+      "word_indices": [
+        317
+      ]
+    }
+  ]
+}

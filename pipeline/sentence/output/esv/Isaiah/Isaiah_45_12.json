@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 45:12",
+  "version": "ESV",
+  "original_text": "I made the earth\n    and created man on it;\nit was my hands that stretched out the heavens,\n    and I commanded all their host.",
+  "korean_text": "내가 땅을 만들고 그 위에 사람을 창조하였으며 내가 내 손으로 하늘을 펴고 하늘의 모든 군대에게 명령하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I made the earth",
+      "korean_translation": "내가 땅을 만들었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and created man on it",
+      "korean_translation": "그 위에 사람을 창조했으며",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it was my hands that stretched out the heavens",
+      "korean_translation": "하늘을 펀 것은 나의 손이며",
+      "word_indices": [
+        10,
+        40,
+        412
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I commanded all their host",
+      "korean_translation": "그리고 나는 그 모든 군대를 명령했다",
+      "word_indices": [
+        51,
+        113
+      ]
+    }
+  ]
+}

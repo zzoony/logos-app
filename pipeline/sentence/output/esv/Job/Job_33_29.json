@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Job 33:29",
+  "version": "ESV",
+  "original_text": "“Behold, God does all these things,\n    twice, three times, with a man,",
+  "korean_text": "실로 하나님이 사람에게 이 모든 일을 재삼 행하심은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God does all these things,",
+      "korean_translation": "하나님은 이 모든 일을 행하시고,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "twice, three times,",
+      "korean_translation": "두 번, 세 번,",
+      "word_indices": [
+        97,
+        1345
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with a man,",
+      "korean_translation": "사람과 함께,",
+      "word_indices": [
+        6
+      ]
+    }
+  ]
+}

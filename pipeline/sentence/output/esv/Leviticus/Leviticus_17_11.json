@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Leviticus 17:11",
+  "version": "ESV",
+  "original_text": "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life.",
+  "korean_text": "육체의 생명은 피에 있음이라 내가 이 피를 너희에게 주어 제단에 뿌려 너희의 생명을 위하여 속죄하게 하였나니 생명이 피에 있으므로 피가 죄를 속하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the life of the flesh is in the blood",
+      "korean_translation": "육체의 생명은 피에 있나니",
+      "word_indices": [
+        41,
+        83,
+        136
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I have given it for you on the altar",
+      "korean_translation": "내가 그것을 너희를 위해 제단에 주었으니",
+      "word_indices": [
+        5,
+        75
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to make atonement for your souls",
+      "korean_translation": "너희 혼을 위하여 속죄하려 함이라",
+      "word_indices": [
+        504
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for it is the blood",
+      "korean_translation": "이는 피가",
+      "word_indices": [
+        83
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that makes atonement by the life",
+      "korean_translation": "생명으로 말미암아 속죄함이라",
+      "word_indices": [
+        41,
+        504
+      ]
+    }
+  ]
+}

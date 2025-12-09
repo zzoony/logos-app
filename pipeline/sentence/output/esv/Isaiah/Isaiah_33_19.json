@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 33:19",
+  "version": "ESV",
+  "original_text": "You will see no more the insolent people,\n    the people of an obscure speech that you cannot comprehend,\n    stammering in a tongue that you cannot understand.",
+  "korean_text": "네가 강포한 백성을 보지 아니하리라 그 백성은 방언이 어려워 네가 알아듣지 못하며 말이 이상하여 네가 깨닫지 못하는 자니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will see no more the insolent people,",
+      "korean_translation": "당신은 오만한 백성을 다시는 보지 않을 것입니다,",
+      "word_indices": [
+        3,
+        1901
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the people of an obscure speech",
+      "korean_translation": "알아들을 수 없는 말을 하는 백성,",
+      "word_indices": [
+        3,
+        816,
+        3754
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you cannot comprehend,",
+      "korean_translation": "당신이 이해할 수 없는,",
+      "word_indices": [
+        215,
+        3039
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "stammering in a tongue",
+      "korean_translation": "어떤 언어로 더듬거리며",
+      "word_indices": [
+        354,
+        5376
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you cannot understand.",
+      "korean_translation": "당신이 이해하지 못하는.",
+      "word_indices": [
+        215
+      ]
+    }
+  ]
+}

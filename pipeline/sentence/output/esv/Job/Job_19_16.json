@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Job 19:16",
+  "version": "ESV",
+  "original_text": "I call to my servant, but he gives me no answer;\n    I must plead with him with my mouth for mercy.",
+  "korean_text": "내가 내 종을 불러도 대답하지 아니하니 내 입으로 그에게 간청하여야 하겠구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I call to my servant",
+      "korean_translation": "내가 내 종을 부르니",
+      "word_indices": [
+        22,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but he gives me no answer",
+      "korean_translation": "그는 내게 대답하지 않는다",
+      "word_indices": [
+        5,
+        54
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I must plead with him with my mouth for mercy.",
+      "korean_translation": "나는 내 입으로 그에게 자비를 간구해야 한다",
+      "word_indices": [
+        95,
+        269
+      ]
+    }
+  ]
+}

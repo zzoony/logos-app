@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 13:4",
+  "version": "ESV",
+  "original_text": "And as he sowed, some seeds fell along the path, and the birds came and devoured them.",
+  "korean_text": "뿌릴새 더러는 길 가에 떨어지매 새들이 와서 먹어버렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as he sowed,",
+      "korean_translation": "그가 씨를 뿌릴 때에,",
+      "word_indices": [
+        458
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some seeds fell along the path,",
+      "korean_translation": "씨앗 일부가 길가에 떨어졌는데,",
+      "word_indices": [
+        212,
+        575,
+        628
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the birds came",
+      "korean_translation": "그리고 새들이 와서",
+      "word_indices": [
+        356
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and devoured them.",
+      "korean_translation": "그것들을 먹어 버렸다.",
+      "word_indices": [
+        371
+      ]
+    }
+  ]
+}

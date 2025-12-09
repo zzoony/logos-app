@@ -1,0 +1,23 @@
+{
+  "verse_reference": "John 18:27",
+  "version": "ESV",
+  "original_text": "Peter again denied it, and at once a rooster crowed.",
+  "korean_text": "이에 베드로가 또 부인하니 곧 닭이 울더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter again denied it",
+      "korean_translation": "베드로는 다시 부인했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at once a rooster crowed",
+      "korean_translation": "곧 수탉이 울었다",
+      "word_indices": [
+        1819,
+        1911
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Psalms 40:12",
+  "version": "ESV",
+  "original_text": "For evils have encompassed me\n    beyond number;\nmy iniquities have overtaken me,\n    and I cannot see;\nthey are more than the hairs of my head;\n    my heart fails me.",
+  "korean_text": "수많은 재앙이 나를 둘러싸고 나의 죄악이 나를 덮치므로 우러러볼 수도 없으며 죄가 나의 머리털보다 많으므로 내가 낙심하였음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For evils have encompassed me beyond number",
+      "korean_translation": "재앙들이 나를 셀 수 없이 에워쌌습니다",
+      "word_indices": [
+        63,
+        236,
+        2758
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my iniquities have overtaken me",
+      "korean_translation": "나의 죄악이 나를 따라잡았습니다",
+      "word_indices": [
+        219
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I cannot see",
+      "korean_translation": "그래서 나는 볼 수 없습니다",
+      "word_indices": [
+        215
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they are more than the hairs of my head",
+      "korean_translation": "그것들은 내 머리털보다 많습니다",
+      "word_indices": [
+        62,
+        487
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "my heart fails me",
+      "korean_translation": "내 마음이 다하여 버렸습니다",
+      "word_indices": [
+        26,
+        686
+      ]
+    }
+  ]
+}

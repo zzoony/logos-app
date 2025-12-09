@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 14:13",
+  "version": "ESV",
+  "original_text": "Whatever you ask in my name, this I will do, that the Father may be glorified in the Son.",
+  "korean_text": "너희가 내 이름으로 무엇을 구하든지 내가 행하리니 이는 아버지로 하여금 아들로 말미암아 영광을 받으시게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whatever you ask in my name,",
+      "korean_translation": "너희가 내 이름으로 무엇이든 구하면,",
+      "word_indices": [
+        20,
+        126,
+        298
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this I will do,",
+      "korean_translation": "내가 그것을 행하리라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the Father may be glorified in the Son.",
+      "korean_translation": "아버지께서 아들 안에서 영광을 받으시도록.",
+      "word_indices": [
+        2,
+        9
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Judges 1:8",
+  "version": "ESV",
+  "original_text": "And the men of Judah fought against Jerusalem and captured it and struck it with the edge of the sword and set the city on fire.",
+  "korean_text": "유다 자손이 예루살렘을 쳐서 점령하여 칼날로 치고 그 성을 불살랐으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the men of Judah fought against Jerusalem",
+      "korean_translation": "유다 사람들이 예루살렘을 쳤고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and captured it",
+      "korean_translation": "그것을 점령했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and struck it with the edge of the sword",
+      "korean_translation": "칼날로 그것을 쳤고",
+      "word_indices": [
+        74,
+        600
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and set the city on fire",
+      "korean_translation": "그 성에 불을 놓았다",
+      "word_indices": [
+        16,
+        72
+      ]
+    }
+  ]
+}

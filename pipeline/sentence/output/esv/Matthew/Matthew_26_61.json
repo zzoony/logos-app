@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 26:61",
+  "version": "ESV",
+  "original_text": "and said, “This man said, ‘I am able to destroy the temple of God, and to rebuild it in three days.’”",
+  "korean_text": "이르되 이 사람의 말이 내가 하나님의 성전을 헐고 사흘 동안에 지을 수 있다 하더라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and said,",
+      "korean_translation": "그리고 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“This man said,",
+      "korean_translation": "‘이 사람이 이르되,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘I am able to destroy the temple of God,",
+      "korean_translation": "나는 하나님의 성전을 헐 수 있고,",
+      "word_indices": [
+        1,
+        99,
+        170,
+        317
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to rebuild it in three days.’”",
+      "korean_translation": "사흘 만에 다시 세울 수 있다.’고 하였습니다.”",
+      "word_indices": [
+        97,
+        840
+      ]
+    }
+  ]
+}

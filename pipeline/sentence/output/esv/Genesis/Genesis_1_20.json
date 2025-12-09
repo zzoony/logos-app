@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 1:20",
+  "version": "ESV",
+  "original_text": "And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.”",
+  "korean_text": "하나님이 이르시되 물들은 생물을 번성하게 하라 땅 위 하늘의 궁창에는 새가 날으라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And God said,",
+      "korean_translation": "하나님이 말씀하시기를,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let the waters swarm with swarms of living creatures,",
+      "korean_translation": "물들이 생물로 번성하게 하라,",
+      "word_indices": [
+        42,
+        1014
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let birds fly above the earth",
+      "korean_translation": "새들이 땅 위에서 날고",
+      "word_indices": [
+        356,
+        933
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "across the expanse of the heavens.”",
+      "korean_translation": "하늘의 궁창을 날아다니게 하라.",
+      "word_indices": [
+        40,
+        1688
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 35:10",
+  "version": "ESV",
+  "original_text": "And God said to him, “Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name.” So he called his name Israel.",
+  "korean_text": "하나님이 그에게 이르시되 네 이름이 야곱이지마는 네 이름을 다시는 야곱이라 부르지 않겠고 이스라엘이 네 이름이 되리라 하시고 그가 그의 이름을 이스라엘이라 부르시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And God said to him",
+      "korean_translation": "하나님이 그에게 이르시되",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your name is Jacob",
+      "korean_translation": "네 이름은 야곱이니라",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "no longer shall your name be called Jacob",
+      "korean_translation": "네 이름을 다시는 야곱이라 부르지 않고",
+      "word_indices": [
+        20,
+        31,
+        398
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but Israel shall be your name",
+      "korean_translation": "이스라엘이 네 이름이 되리라",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So he called his name Israel",
+      "korean_translation": "그가 그의 이름을 이스라엘이라 불렀더라",
+      "word_indices": [
+        20,
+        31
+      ]
+    }
+  ]
+}

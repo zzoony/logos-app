@@ -1,0 +1,29 @@
+{
+  "verse_reference": "John 1:17",
+  "version": "ESV",
+  "original_text": "For the law was given through Moses; grace and truth came through Jesus Christ.",
+  "korean_text": "율법은 모세로 말미암아 주어진 것이요 은혜와 진리는 예수 그리스도로 말미암아 온 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the law was given through Moses",
+      "korean_translation": "율법은 모세를 통해 주어졌습니다",
+      "word_indices": [
+        5,
+        60,
+        66
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "grace and truth came through Jesus Christ",
+      "korean_translation": "은혜와 진리는 예수 그리스도를 통해 왔습니다",
+      "word_indices": [
+        60,
+        61,
+        346,
+        370
+      ]
+    }
+  ]
+}

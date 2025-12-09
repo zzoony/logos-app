@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 37:25",
+  "version": "ESV",
+  "original_text": "I dug wells\n    and drank waters,\nto dry up with the sole of my foot\n    all the streams of Egypt.",
+  "korean_text": "내가 우물을 파서 물을 마셨으니 내 발바닥으로 애굽의 모든 하수를 말리리라 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I dug wells",
+      "korean_translation": "내가 우물을 팠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drank waters",
+      "korean_translation": "그리고 물을 마셨다",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to dry up with the sole of my foot",
+      "korean_translation": "내 발바닥으로 말리려고",
+      "word_indices": [
+        121,
+        425,
+        1968
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all the streams of Egypt",
+      "korean_translation": "애굽의 모든 시내를",
+      "word_indices": [
+        821
+      ]
+    }
+  ]
+}

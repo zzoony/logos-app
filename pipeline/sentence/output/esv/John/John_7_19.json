@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 7:19",
+  "version": "ESV",
+  "original_text": "Has not Moses given you the law? Yet none of you keeps the law. Why do you seek to kill me?”",
+  "korean_text": "모세가 너희에게 율법을 주지 아니하였느냐 너희 중에 율법을 지키는 자가 없도다 너희가 어찌하여 나를 죽이려 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Has not Moses given you the law?",
+      "korean_translation": "모세가 너희에게 율법을 주지 아니하였느냐?",
+      "word_indices": [
+        5,
+        66
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Yet none of you keeps the law.",
+      "korean_translation": "그런데 너희 중에 한 사람도 율법을 지키지 않는다.",
+      "word_indices": [
+        46,
+        66,
+        175
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Why do you seek to kill me?”",
+      "korean_translation": "너희가 어찌하여 나를 죽이려 하느냐?",
+      "word_indices": [
+        82,
+        92
+      ]
+    }
+  ]
+}

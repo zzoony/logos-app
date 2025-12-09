@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 26:3",
+  "version": "ESV",
+  "original_text": "Then the chief priests and the elders of the people gathered in the palace of the high priest, whose name was Caiaphas,",
+  "korean_text": "그 때에 대제사장들과 백성의 장로들이 가야바라 하는 대제사장의 관정에 모여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the chief priests and the elders of the people gathered",
+      "korean_translation": "그때 대제사장들과 백성의 장로들이 모여서",
+      "word_indices": [
+        3,
+        25,
+        93,
+        164,
+        237
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the palace of the high priest",
+      "korean_translation": "대제사장의 궁에서",
+      "word_indices": [
+        25,
+        107,
+        773
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose name was Caiaphas",
+      "korean_translation": "그의 이름은 가야바였더라",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 104:1",
+  "version": "ESV",
+  "original_text": "Bless the Lord, O my soul!\n    O Lord my God, you are very great!\nYou are clothed with splendor and majesty,",
+  "korean_text": "내 영혼아 여호와를 송축하라 여호와 나의 하나님이여 주는 심히 위대하시며 존귀와 권위로 옷 입으셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bless the Lord, O my soul!",
+      "korean_translation": "나의 영혼아, 주를 찬송하라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord my God,",
+      "korean_translation": "오, 주 나의 하나님이시여,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you are very great!",
+      "korean_translation": "주는 지극히 위대하십니다!",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You are clothed with splendor and majesty,",
+      "korean_translation": "주는 존귀와 위엄으로 옷 입으셨나이다,",
+      "word_indices": [
+        910,
+        1122,
+        1187
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 27:8",
+  "version": "ESV",
+  "original_text": "You have said, “Seek my face.”\nMy heart says to you,\n    “Your face, Lord, do I seek.”",
+  "korean_text": "너희는 내 얼굴을 찾으라 하실 때에 내가 마음으로 주께 말하되 여호와여 내가 주의 얼굴을 찾으리이다 하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have said,",
+      "korean_translation": "주께서 말씀하셨습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Seek my face.”",
+      "korean_translation": "‘내 얼굴을 찾으라.’",
+      "word_indices": [
+        69,
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My heart says to you,",
+      "korean_translation": "내 마음이 주께 말합니다,",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Your face, Lord, do I seek.”",
+      "korean_translation": "‘주의 얼굴을 내가 찾겠나이다.’",
+      "word_indices": [
+        69,
+        82
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "James 2:18",
+  "version": "ESV",
+  "original_text": "But someone will say, “You have faith and I have works.” Show me your faith apart from your works, and I will show you my faith by my works.",
+  "korean_text": "어떤 사람은 말하기를 너는 믿음이 있고 나는 행함이 있으니 행함이 없는 네 믿음을 내게 보이라 나는 행함으로 내 믿음을 네게 보이리라 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But someone will say,",
+      "korean_translation": "그러나 어떤 사람이 말하기를,",
+      "word_indices": [
+        727
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have faith",
+      "korean_translation": "너는 믿음이 있고",
+      "word_indices": [
+        158
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I have works.",
+      "korean_translation": "나는 행함이 있다.",
+      "word_indices": [
+        52
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Show me your faith apart from your works,",
+      "korean_translation": "네 행함 없이 네 믿음을 내게 보이라.",
+      "word_indices": [
+        52,
+        153,
+        158,
+        735
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and I will show you my faith by my works.",
+      "korean_translation": "나는 나의 행함으로 내 믿음을 네게 보이겠다.",
+      "word_indices": [
+        52,
+        153,
+        158
+      ]
+    }
+  ]
+}

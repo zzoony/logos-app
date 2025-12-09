@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Ecclesiastes 3:2",
+  "version": "ESV",
+  "original_text": "a time to be born, and a time to die;\na time to plant, and a time to pluck up what is planted;",
+  "korean_text": "날 때가 있고 죽을 때가 있으며 심을 때가 있고 심은 것을 뽑을 때가 있으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a time to be born",
+      "korean_translation": "태어날 때가 있고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a time to die",
+      "korean_translation": "죽을 때가 있으며",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a time to plant",
+      "korean_translation": "심을 때가 있고",
+      "word_indices": [
+        403
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a time to pluck up what is planted",
+      "korean_translation": "심은 것을 뽑을 때가 있느니라",
+      "word_indices": [
+        403,
+        1150
+      ]
+    }
+  ]
+}

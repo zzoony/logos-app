@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Jeremiah 1:13",
+  "version": "ESV",
+  "original_text": "The word of the Lord came to me a second time, saying, “What do you see?” And I said, “I see a boiling pot, facing away from the north.”",
+  "korean_text": "여호와의 말씀이 다시 내게 임하니라 이르시되 네가 무엇을 보느냐 대답하되 끓는 가마를 보나이다 그 윗면이 북에서부터 기울어졌나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The word of the Lord came to me a second time",
+      "korean_translation": "주의 말씀이 내게 두 번째로 임하였다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying,",
+      "korean_translation": "이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“What do you see?”",
+      "korean_translation": "‘네가 무엇을 보느냐?’",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And I said,",
+      "korean_translation": "내가 대답하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“I see a boiling pot,",
+      "korean_translation": "‘내가 끓는 솥을 보니",
+      "word_indices": [
+        953
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "facing away from the north.”",
+      "korean_translation": "그것은 북쪽을 등지고 있도다.’",
+      "word_indices": [
+        29,
+        328
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 123:3",
+  "version": "ESV",
+  "original_text": "Have mercy upon us, O Lord, have mercy upon us,\n    for we have had more than enough of contempt.",
+  "korean_text": "여호와여 우리에게 은혜를 베푸시고 또 은혜를 베푸소서 심한 멸시가 우리에게 넘치나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Have mercy upon us,",
+      "korean_translation": "우리에게 자비를 베풀어 주소서.",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord,",
+      "korean_translation": "오, 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "have mercy upon us,",
+      "korean_translation": "우리에게 자비를 베풀어 주소서.",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for we have had more than enough of contempt.",
+      "korean_translation": "우리가 멸시를 너무 많이 받았기 때문입니다.",
+      "word_indices": [
+        699,
+        1202
+      ]
+    }
+  ]
+}

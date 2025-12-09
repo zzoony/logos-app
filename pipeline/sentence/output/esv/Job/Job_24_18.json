@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Job 24:18",
+  "version": "ESV",
+  "original_text": "“You say, ‘Swift are they on the face of the waters;\n    their portion is cursed in the land;\n    no treader turns toward their vineyards.",
+  "korean_text": "그들은 물 위에 빨리 흘러가고 그들의 소유는 세상에서 저주를 받나니 그들이 다시는 포도원 길로 다니지 못할 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You say,",
+      "korean_translation": "네가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "‘Swift are they on the face of the waters;",
+      "korean_translation": "그들은 물 위에서 빠르고,",
+      "word_indices": [
+        42,
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "their portion is cursed in the land;",
+      "korean_translation": "그들의 분깃은 땅에서 저주를 받으며,",
+      "word_indices": [
+        8,
+        337
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "no treader turns toward their vineyards.",
+      "korean_translation": "아무도 그들의 포도원으로 가지 않느니라.",
+      "word_indices": [
+        45,
+        213,
+        417,
+        3707
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Proverbs 4:16",
+  "version": "ESV",
+  "original_text": "For they cannot sleep unless they have done wrong;\n    they are robbed of sleep unless they have made someone stumble.",
+  "korean_text": "그들은 악을 행하지 못하면 자지 못하며 사람을 넘어뜨리지 못하면 잠이 오지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For they cannot sleep",
+      "korean_translation": "그들은 잠을 잘 수 없으니",
+      "word_indices": [
+        215,
+        382
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unless they have done wrong",
+      "korean_translation": "그들이 악을 행하지 않으면",
+      "word_indices": [
+        531
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they are robbed of sleep",
+      "korean_translation": "그들은 잠을 빼앗긴다",
+      "word_indices": [
+        382
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "unless they have made someone stumble",
+      "korean_translation": "그들이 누군가를 걸려 넘어뜨리지 않으면",
+      "word_indices": [
+        559,
+        727
+      ]
+    }
+  ]
+}

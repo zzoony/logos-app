@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 74:16",
+  "version": "ESV",
+  "original_text": "Yours is the day, yours also the night;\n    you have established the heavenly lights and the sun.",
+  "korean_text": "낮도 주의 것이요 밤도 주의 것이라 주께서 빛과 해를 마련하셨으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yours is the day",
+      "korean_translation": "낮은 주의 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yours also the night",
+      "korean_translation": "밤도 주의 것입니다",
+      "word_indices": [
+        23,
+        130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you have established the heavenly lights and the sun",
+      "korean_translation": "주께서 하늘의 빛들과 해를 세우셨습니다",
+      "word_indices": [
+        177,
+        321,
+        331,
+        1123
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Jeremiah 23:23",
+  "version": "ESV",
+  "original_text": "“Am I a God at hand, declares the Lord, and not a God far away?",
+  "korean_text": "여호와의 말씀이니라 나는 가까운 데에 있는 하나님이요 먼 데에 있는 하나님은 아니냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Am I a God at hand",
+      "korean_translation": "내가 가까이 있는 하나님이냐",
+      "word_indices": [
+        1,
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "declares the Lord",
+      "korean_translation": "주께서 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and not a God far away?",
+      "korean_translation": "멀리 계신 하나님이 아니냐?",
+      "word_indices": [
+        1,
+        29,
+        147
+      ]
+    }
+  ]
+}

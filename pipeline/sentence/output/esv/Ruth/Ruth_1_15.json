@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Ruth 1:15",
+  "version": "ESV",
+  "original_text": "And she said, “See, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law.”",
+  "korean_text": "나오미가 또 이르되 보라 네 동서는 그의 백성과 그의 신들에게로 돌아가나니 너도 너의 동서를 따라 돌아가라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And she said,",
+      "korean_translation": "그녀가 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "See,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your sister-in-law has gone back to her people",
+      "korean_translation": "네 형수는 자기 백성에게 돌아갔고",
+      "word_indices": [
+        3,
+        66,
+        90,
+        361
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to her gods;",
+      "korean_translation": "자기 신들에게도 돌아갔느니라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "return after your sister-in-law.",
+      "korean_translation": "네 형수의 뒤를 따라 돌아가라.",
+      "word_indices": [
+        66,
+        78,
+        361
+      ]
+    }
+  ]
+}

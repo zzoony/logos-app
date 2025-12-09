@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Jeremiah 31:35",
+  "version": "ESV",
+  "original_text": "Thus says the Lord,\nwho gives the sun for light by day\n    and the fixed order of the moon and the stars for light by night,\nwho stirs up the sea so that its waves roar—\n    the Lord of hosts is his name:",
+  "korean_text": "여호와께서 이와 같이 말씀하셨느니라 그는 해를 낮의 빛으로 주셨고 달과 별들을 밤의 빛으로 정하였고 바다를 뒤흔들어 그 파도로 소리치게 하나니 그의 이름은 만군의 여호와니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus says the Lord,",
+      "korean_translation": "주께서 이와 같이 말씀하시니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who gives the sun for light by day",
+      "korean_translation": "그는 낮을 위하여 빛을 주는 해를 주시며",
+      "word_indices": [
+        5,
+        177,
+        321
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the fixed order of the moon and the stars for light by night,",
+      "korean_translation": "밤을 위하여 빛을 주는 달과 별들의 규례를 정하시며",
+      "word_indices": [
+        130,
+        177,
+        253,
+        641,
+        646,
+        1410
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who stirs up the sea",
+      "korean_translation": "바다를 뒤흔들어",
+      "word_indices": [
+        84,
+        581
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that its waves roar—",
+      "korean_translation": "그 파도가 울게 하시는 이는",
+      "word_indices": [
+        801
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the Lord of hosts is his name:",
+      "korean_translation": "그의 이름은 만군의 여호와이시니라",
+      "word_indices": [
+        20,
+        113
+      ]
+    }
+  ]
+}

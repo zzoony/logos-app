@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Kings 1:18",
+  "version": "ESV",
+  "original_text": "And now, behold, Adonijah is king, although you, my lord the king, do not know it.",
+  "korean_text": "이제 아도니야가 왕이 되었어도 내 주 왕은 알지 못하시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And now, behold,",
+      "korean_translation": "보소서, 이제는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Adonijah is king,",
+      "korean_translation": "아도니야가 왕이 되었습니다.",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "although you, my lord the king, do not know it.",
+      "korean_translation": "비록 주인이신 왕께서는 알지 못하시지만,",
+      "word_indices": [
+        4,
+        13,
+        944
+      ]
+    }
+  ]
+}

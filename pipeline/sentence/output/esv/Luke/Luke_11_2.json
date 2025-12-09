@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 11:2",
+  "version": "ESV",
+  "original_text": "And he said to them, “When you pray, say:\n“Father, hallowed be your name.\nYour kingdom come.",
+  "korean_text": "예수께서 이르시되 너희는 기도할 때에 이렇게 하라 아버지여 이름이 거룩히 여김을 받으시오며 나라가 임하시오며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said to them,",
+      "korean_translation": "그가 그들에게 말하긴,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When you pray,",
+      "korean_translation": "너희가 기도할 때에,",
+      "word_indices": [
+        262
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "say:",
+      "korean_translation": "이렇게 말하라:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Father,",
+      "korean_translation": "아버지,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "hallowed be your name.",
+      "korean_translation": "이름이 거룩히 여김을 받으시오며,",
+      "word_indices": [
+        20,
+        4445
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Your kingdom come.",
+      "korean_translation": "나라이 임하옵시며,",
+      "word_indices": [
+        101
+      ]
+    }
+  ]
+}

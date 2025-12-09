@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 18:4",
+  "version": "ESV",
+  "original_text": "For a while he refused, but afterward he said to himself, ‘Though I neither fear God nor respect man,",
+  "korean_text": "그가 얼마 동안 듣지 아니하다가 후에 속으로 생각하되 내가 하나님을 두려워하지 않고 사람을 무시하나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For a while he refused,",
+      "korean_translation": "그는 한동안 거절했지만,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but afterward he said to himself,",
+      "korean_translation": "하지만 나중에 그는 속으로 말했습니다,",
+      "word_indices": [
+        652
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘Though I neither fear God",
+      "korean_translation": "'비록 내가 하나님을 두려워하지 않고",
+      "word_indices": [
+        1,
+        80,
+        182,
+        278
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor respect man,",
+      "korean_translation": "사람을 존중하지도 않지만,",
+      "word_indices": [
+        6,
+        1328
+      ]
+    }
+  ]
+}

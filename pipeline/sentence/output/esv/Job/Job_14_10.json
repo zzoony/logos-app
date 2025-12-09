@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Job 14:10",
+  "version": "ESV",
+  "original_text": "But a man dies and is laid low;\n    man breathes his last, and where is he?",
+  "korean_text": "장정이라도 죽으면 소멸되나니 인생이 숨을 거두면 그가 어디 있느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But a man dies",
+      "korean_translation": "그러나 사람은 죽고",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and is laid low",
+      "korean_translation": "쓰러지니",
+      "word_indices": [
+        762
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "man breathes his last",
+      "korean_translation": "사람은 숨을 거두면",
+      "word_indices": [
+        6,
+        427,
+        649
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and where is he?",
+      "korean_translation": "그는 어디에 있느냐",
+      "word_indices": []
+    }
+  ]
+}

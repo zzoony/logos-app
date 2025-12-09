@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Obadiah 1:5",
+  "version": "ESV",
+  "original_text": "If thieves came to you,\n    if plunderers came by night—\n    how you have been destroyed!—\n    would they not steal only enough for themselves?\nIf grape gatherers came to you,\n    would they not leave gleanings?",
+  "korean_text": "혹시 도둑이 네게 이르렀으며 강도가 밤중에 네게 이르렀을지라도 만족할 만큼 훔치면 그치지 아니하였겠느냐 혹시 포도를 따는 자가 네게 이르렀을지라도 그것을 얼마쯤 남기지 아니하였겠느냐 네가 어찌 그리 망하였는고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If thieves came to you,",
+      "korean_translation": "도둑이 네게 온다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if plunderers came by night",
+      "korean_translation": "밤에 약탈자들이 온다면,",
+      "word_indices": [
+        130,
+        2539
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "how you have been destroyed!",
+      "korean_translation": "네가 얼마나 망했는가!",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "would they not steal only enough for themselves?",
+      "korean_translation": "그들이 자기들에게 필요한 것만 훔치지 않겠느냐?",
+      "word_indices": [
+        699,
+        859
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If grape gatherers came to you,",
+      "korean_translation": "포도를 거두는 자들이 네게 온다면,",
+      "word_indices": [
+        862,
+        3797
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "would they not leave gleanings?",
+      "korean_translation": "그들이 남은 포도를 남겨두지 않겠느냐?",
+      "word_indices": [
+        65
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Amos 7:11",
+  "version": "ESV",
+  "original_text": "For thus Amos has said,\n“‘Jeroboam shall die by the sword,\n    and Israel must go into exile\n    away from his land.’”",
+  "korean_text": "아모스가 말하기를 여로보암은 칼에 죽겠고 이스라엘은 반드시 사로잡혀 그 땅에서 떠나겠다 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For thus Amos has said,",
+      "korean_translation": "이는 아모스가 이렇게 말했기 때문입니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“‘Jeroboam shall die by the sword,",
+      "korean_translation": "‘여로보암은 칼에 죽을 것이요,",
+      "word_indices": [
+        57,
+        74
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Israel must go into exile away from his land.’”",
+      "korean_translation": "이스라엘은 반드시 자기 땅을 떠나 포로가 될 것이라.’”",
+      "word_indices": [
+        8,
+        29,
+        455
+      ]
+    }
+  ]
+}

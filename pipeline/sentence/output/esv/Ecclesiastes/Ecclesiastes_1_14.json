@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ecclesiastes 1:14",
+  "version": "ESV",
+  "original_text": "I have seen everything that is done under the sun, and behold, all is vanity and a striving after wind.",
+  "korean_text": "내가 해 아래에서 행하는 모든 일을 보았노라 보라 모두 다 헛되어 바람을 잡으려는 것이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have seen everything",
+      "korean_translation": "나는 모든 것을 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that is done under the sun",
+      "korean_translation": "해 아래서 행해지는 모든 일을",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and behold",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all is vanity",
+      "korean_translation": "모든 것이 헛되다",
+      "word_indices": [
+        1031
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and a striving after wind",
+      "korean_translation": "바람을 잡으려는 것과 같다",
+      "word_indices": [
+        259
+      ]
+    }
+  ]
+}

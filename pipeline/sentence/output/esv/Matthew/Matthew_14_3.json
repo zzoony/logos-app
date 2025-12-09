@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 14:3",
+  "version": "ESV",
+  "original_text": "For Herod had seized John and bound him and put him in prison for the sake of Herodias, his brother Philip's wife,",
+  "korean_text": "전에 헤롯이 그 동생 빌립의 아내 헤로디아의 일로 요한을 잡아 결박하여 옥에 가두었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For Herod had seized John",
+      "korean_translation": "헤롯이 요한을 붙잡았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bound him",
+      "korean_translation": "그를 묶었습니다",
+      "word_indices": [
+        3390
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and put him in prison",
+      "korean_translation": "그를 감옥에 가두었습니다",
+      "word_indices": [
+        608
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the sake of Herodias",
+      "korean_translation": "헤로디아 때문에",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "his brother Philip's wife",
+      "korean_translation": "그녀는 그의 동생 빌립의 아내였습니다",
+      "word_indices": [
+        28,
+        68
+      ]
+    }
+  ]
+}

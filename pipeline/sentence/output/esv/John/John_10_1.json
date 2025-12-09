@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 10:1",
+  "version": "ESV",
+  "original_text": "“Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 문을 통하여 양의 우리에 들어가지 아니하고 다른 데로 넘어가는 자는 절도며 강도요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Truly, truly, I say to you,",
+      "korean_translation": "진실로 진실로 너희에게 이르노니,",
+      "word_indices": [
+        343
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he who does not enter the sheepfold by the door",
+      "korean_translation": "양의 우리로 문으로 들어가지 아니하고",
+      "word_indices": [
+        125,
+        295,
+        2352
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but climbs in by another way,",
+      "korean_translation": "다른 곳으로 넘어가는 자는",
+      "word_indices": [
+        2284
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that man is a thief and a robber.",
+      "korean_translation": "도둑이며 강도니라",
+      "word_indices": [
+        6,
+        1084,
+        1401
+      ]
+    }
+  ]
+}

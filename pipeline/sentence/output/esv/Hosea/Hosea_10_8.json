@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Hosea 10:8",
+  "version": "ESV",
+  "original_text": "The high places of Aven, the sin of Israel,\n    shall be destroyed.\nThorn and thistle shall grow up\n    on their altars,\nand they shall say to the mountains, “Cover us,”\n    and to the hills, “Fall on us.”",
+  "korean_text": "이스라엘의 죄 곧 아웬의 산당은 파괴되어 가시와 찔레가 그 제단 위에 날 것이니 그 때에 그들이 산더러 우리를 가리라 할 것이요 작은 산더러 우리 위에 무너지라 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The high places of Aven, the sin of Israel,",
+      "korean_translation": "아웬의 산당, 이스라엘의 죄는,",
+      "word_indices": [
+        34,
+        107
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall be destroyed.",
+      "korean_translation": "파괴될 것입니다.",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Thorn and thistle shall grow up on their altars,",
+      "korean_translation": "가시와 엉겅퀴가 그들의 제단 위에 자라날 것이며,",
+      "word_indices": [
+        75,
+        283,
+        804,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they shall say to the mountains,",
+      "korean_translation": "그들이 산들에게 말하기를",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“Cover us,”",
+      "korean_translation": "“우리를 덮으라,”",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and to the hills, “Fall on us.”",
+      "korean_translation": "그리고 언덕들에게는, “우리 위로 떨어지라.”",
+      "word_indices": [
+        100,
+        216
+      ]
+    }
+  ]
+}

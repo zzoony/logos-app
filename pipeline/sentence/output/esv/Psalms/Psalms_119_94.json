@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 119:94",
+  "version": "ESV",
+  "original_text": "I am yours; save me,\n    for I have sought your precepts.",
+  "korean_text": "나는 주의 것이오니 나를 구원하소서 내가 주의 법도들만을 찾았나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am yours",
+      "korean_translation": "나는 주님의 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "save me",
+      "korean_translation": "저를 구원하소서",
+      "word_indices": [
+        145
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I have sought your precepts",
+      "korean_translation": "이는 내가 주의 교훈을 찾았음이니이다",
+      "word_indices": [
+        1072
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Samuel 24:17",
+  "version": "ESV",
+  "original_text": "He said to David, “You are more righteous than I, for you have repaid me good, whereas I have repaid you evil.",
+  "korean_text": "다윗에게 이르되 나는 너를 학대하되 너는 나를 선대하니 너는 나보다 의롭도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to David,",
+      "korean_translation": "그가 다윗에게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are more righteous than I,",
+      "korean_translation": "당신은 나보다 더 의롭습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for you have repaid me good,",
+      "korean_translation": "당신은 나에게 선으로 갚았으나,",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whereas I have repaid you evil.",
+      "korean_translation": "나는 당신에게 악으로 갚았습니다.",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Proverbs 24:33",
+  "version": "ESV",
+  "original_text": "A little sleep, a little slumber,\n    a little folding of the hands to rest,",
+  "korean_text": "네가 좀더 자자, 좀더 졸자, 손을 모으고 좀더 누워 있자 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A little sleep",
+      "korean_translation": "조금 자는 것",
+      "word_indices": [
+        229,
+        382
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a little slumber",
+      "korean_translation": "조금 졸음",
+      "word_indices": [
+        229,
+        2089
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a little folding of the hands to rest",
+      "korean_translation": "조금 손을 접고 쉬는 것",
+      "word_indices": [
+        10,
+        116,
+        229,
+        1267
+      ]
+    }
+  ]
+}

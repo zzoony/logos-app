@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Isaiah 1:30",
+  "version": "ESV",
+  "original_text": "For you shall be like an oak\n    whose leaf withers,\n    and like a garden without water.",
+  "korean_text": "너희는 잎사귀 마른 상수리나무 같을 것이요 물 없는 동산 같으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For you shall be like an oak",
+      "korean_translation": "너희는 마치 상수리나무 같으리라",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose leaf withers",
+      "korean_translation": "그 잎이 마른다",
+      "word_indices": [
+        872,
+        934
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and like a garden without water",
+      "korean_translation": "그리고 물이 없는 동산 같으리라",
+      "word_indices": [
+        14,
+        42,
+        690
+      ]
+    }
+  ]
+}

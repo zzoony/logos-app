@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Numbers 3:41",
+  "version": "ESV",
+  "original_text": "And you shall take the Levites for me—I am the Lord—instead of all the firstborn among the people of Israel, and the cattle of the Levites instead of all the firstborn among the cattle of the people of Israel.”",
+  "korean_text": "나는 여호와라 이스라엘 자손 중 모든 처음 태어난 자 대신에 레위인을 내게 돌리고 또 이스라엘 자손의 가축 중 모든 처음 태어난 것 대신에 레위인의 가축을 내게 돌리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And you shall take the Levites for me",
+      "korean_translation": "너는 나를 위해 레위 사람들을 택할 것이니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "instead of all the firstborn among the people of Israel",
+      "korean_translation": "이스라엘 백성 중 모든 장자 대신에",
+      "word_indices": [
+        3,
+        27,
+        349,
+        731
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the cattle of the Levites",
+      "korean_translation": "또한 레위인의 가축은",
+      "word_indices": [
+        988
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "instead of all the firstborn among the cattle of the people of Israel",
+      "korean_translation": "이스라엘 백성의 가축 중 모든 장자 대신에",
+      "word_indices": [
+        3,
+        27,
+        349,
+        731,
+        988
+      ]
+    }
+  ]
+}

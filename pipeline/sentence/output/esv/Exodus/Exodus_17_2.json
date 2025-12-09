@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 17:2",
+  "version": "ESV",
+  "original_text": "Therefore the people quarreled with Moses and said, “Give us water to drink.” And Moses said to them, “Why do you quarrel with me? Why do you test the Lord?”",
+  "korean_text": "백성이 모세와 다투어 이르되 우리에게 물을 주어 마시게 하라 모세가 그들에게 이르되 너희가 어찌하여 나와 다투느냐 너희가 어찌하여 여호와를 시험하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore the people quarreled with Moses",
+      "korean_translation": "그러므로 백성이 모세와 다투었습니다",
+      "word_indices": [
+        3,
+        32,
+        1019
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said, “Give us water to drink.”",
+      "korean_translation": "그리고 말하기를, “우리에게 마실 물을 주십시오.”",
+      "word_indices": [
+        5,
+        42,
+        70
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And Moses said to them,",
+      "korean_translation": "그래서 모세가 그들에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Why do you quarrel with me?",
+      "korean_translation": "“너희가 어찌하여 나와 다투느냐?",
+      "word_indices": [
+        1019
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Why do you test the Lord?”",
+      "korean_translation": "어찌하여 주를 시험하느냐?”",
+      "word_indices": [
+        456
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 23:19",
+  "version": "ESV",
+  "original_text": "a man who had been thrown into prison for an insurrection started in the city and for murder.",
+  "korean_text": "이 바라바는 성중에서 일어난 민란과 살인으로 말미암아 옥에 갇힌 자러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a man",
+      "korean_translation": "한 사람",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had been thrown into prison",
+      "korean_translation": "감옥에 갇혔던",
+      "word_indices": [
+        608
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for an insurrection started in the city",
+      "korean_translation": "성에서 시작된 반란으로",
+      "word_indices": [
+        16,
+        2123,
+        3843
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and for murder.",
+      "korean_translation": "그리고 살인으로",
+      "word_indices": [
+        1083
+      ]
+    }
+  ]
+}

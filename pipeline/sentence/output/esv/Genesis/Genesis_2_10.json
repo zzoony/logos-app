@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 2:10",
+  "version": "ESV",
+  "original_text": "A river flowed out of Eden to water the garden, and there it divided and became four rivers.",
+  "korean_text": "강이 에덴에서 흘러 나와 동산을 적시고 거기서부터 갈라져 네 근원이 되었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A river flowed out of Eden",
+      "korean_translation": "한 강이 에덴에서 흘러나왔습니다",
+      "word_indices": [
+        357,
+        596
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to water the garden,",
+      "korean_translation": "동산을 적시기 위해",
+      "word_indices": [
+        42,
+        690
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there it divided",
+      "korean_translation": "그곳에서 그 강은 갈라져서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and became four rivers.",
+      "korean_translation": "네 줄기의 강이 되었습니다",
+      "word_indices": [
+        357
+      ]
+    }
+  ]
+}

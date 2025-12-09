@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 51:15",
+  "version": "ESV",
+  "original_text": "O Lord, open my lips,\n    and my mouth will declare your praise.",
+  "korean_text": "주여 내 입술을 열어 주소서 내 입이 주를 찬송하여 전파하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "open my lips,",
+      "korean_translation": "내 입술을 열어주시고,",
+      "word_indices": [
+        115,
+        420
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my mouth will declare your praise.",
+      "korean_translation": "내 입이 주의 찬송을 선포하리이다.",
+      "word_indices": [
+        67,
+        95,
+        160
+      ]
+    }
+  ]
+}

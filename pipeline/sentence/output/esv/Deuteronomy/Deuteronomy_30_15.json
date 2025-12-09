@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Deuteronomy 30:15",
+  "version": "ESV",
+  "original_text": "“See, I have set before you today life and good, death and evil.",
+  "korean_text": "보라 내가 오늘 생명과 복과 사망과 화를 네 앞에 두었나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "See,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have set before you today",
+      "korean_translation": "내가 오늘 너 앞에 두었으니",
+      "word_indices": [
+        275
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "life and good,",
+      "korean_translation": "생명과 복을",
+      "word_indices": [
+        37,
+        41
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "death and evil.",
+      "korean_translation": "사망과 악을",
+      "word_indices": [
+        63,
+        76
+      ]
+    }
+  ]
+}

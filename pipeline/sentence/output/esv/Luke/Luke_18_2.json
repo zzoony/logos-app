@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 18:2",
+  "version": "ESV",
+  "original_text": "He said, “In a certain city there was a judge who neither feared God nor respected man.",
+  "korean_text": "이르시되 어떤 도시에 하나님을 두려워하지 않고 사람을 무시하는 한 재판장이 있는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said,",
+      "korean_translation": "그가 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“In a certain city there was a judge",
+      "korean_translation": "어떤 도시에 한 재판관이 있었는데",
+      "word_indices": [
+        16,
+        178,
+        808
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who neither feared God nor respected man.”",
+      "korean_translation": "그는 하나님도 두려워하지 않고 사람도 존중하지 않았다.",
+      "word_indices": [
+        1,
+        6,
+        80,
+        278,
+        1328
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 8:18",
+  "version": "ESV",
+  "original_text": "Having eyes do you not see, and having ears do you not hear? And do you not remember?",
+  "korean_text": "너희가 눈이 있어도 보지 못하며 귀가 있어도 듣지 못하느냐 또 기억하지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Having eyes do you not see",
+      "korean_translation": "눈이 있으면서도 보지 못하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and having ears do you not hear?",
+      "korean_translation": "귀가 있으면서도 듣지 못하느냐",
+      "word_indices": [
+        17,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And do you not remember?",
+      "korean_translation": "또 기억하지 못하느냐",
+      "word_indices": [
+        193
+      ]
+    }
+  ]
+}

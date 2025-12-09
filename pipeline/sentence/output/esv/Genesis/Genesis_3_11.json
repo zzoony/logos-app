@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 3:11",
+  "version": "ESV",
+  "original_text": "He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?”",
+  "korean_text": "이르시되 누가 너의 벗었음을 네게 알렸느냐 내가 네게 먹지 말라 명한 그 나무 열매를 네가 먹었느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said,",
+      "korean_translation": "그가 말했다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who told you",
+      "korean_translation": "누가 너에게 말했느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you were naked?",
+      "korean_translation": "너가 벗은 줄을?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Have you eaten of the tree",
+      "korean_translation": "너는 그 나무의 열매를 먹었느냐",
+      "word_indices": [
+        143
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "of which I commanded you not to eat?",
+      "korean_translation": "내가 너에게 먹지 말라고 명령했던?",
+      "word_indices": [
+        51
+      ]
+    }
+  ]
+}

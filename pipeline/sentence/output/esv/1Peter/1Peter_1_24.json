@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Peter 1:24",
+  "version": "ESV",
+  "original_text": "for\n“All flesh is like grass\n    and all its glory like the flower of grass.\nThe grass withers,\n    and the flower falls,",
+  "korean_text": "그러므로 모든 육체는 풀과 같고 그 모든 영광은 풀의 꽃과 같으니 풀은 마르고 꽃은 떨어지되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for all flesh is like grass",
+      "korean_translation": "모든 육체는 풀과 같으니",
+      "word_indices": [
+        14,
+        136
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all its glory like the flower of grass",
+      "korean_translation": "그 모든 영광은 풀의 꽃과 같고",
+      "word_indices": [
+        14,
+        112,
+        1140
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The grass withers",
+      "korean_translation": "풀은 마르고",
+      "word_indices": [
+        872
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the flower falls",
+      "korean_translation": "꽃은 떨어지나니",
+      "word_indices": [
+        100,
+        1140
+      ]
+    }
+  ]
+}

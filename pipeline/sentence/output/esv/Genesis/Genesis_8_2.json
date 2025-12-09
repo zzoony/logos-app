@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 8:2",
+  "version": "ESV",
+  "original_text": "The fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained,",
+  "korean_text": "깊음의 샘과 하늘의 창문이 닫히고 하늘에서 비가 그치매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The fountains of the deep were closed",
+      "korean_translation": "깊은 샘들이 닫혔습니다",
+      "word_indices": [
+        479,
+        1168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the windows of the heavens were closed",
+      "korean_translation": "하늘의 창문들이 닫혔습니다",
+      "word_indices": [
+        40,
+        844
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the rain from the heavens was restrained",
+      "korean_translation": "하늘의 비가 그쳤습니다",
+      "word_indices": [
+        40,
+        413,
+        1200
+      ]
+    }
+  ]
+}

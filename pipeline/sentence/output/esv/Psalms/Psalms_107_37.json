@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 107:37",
+  "version": "ESV",
+  "original_text": "they sow fields and plant vineyards\n    and get a fruitful yield.",
+  "korean_text": "밭에 파종하며 포도원을 재배하여 풍성한 소출을 거두게 하시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "they sow fields",
+      "korean_translation": "그들은 밭에 씨를 뿌립니다.",
+      "word_indices": [
+        133,
+        458
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and plant vineyards",
+      "korean_translation": "그리고 포도원을 심습니다.",
+      "word_indices": [
+        403,
+        417
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and get a fruitful yield",
+      "korean_translation": "그리고 풍성한 수확을 거둡니다.",
+      "word_indices": [
+        741,
+        982
+      ]
+    }
+  ]
+}

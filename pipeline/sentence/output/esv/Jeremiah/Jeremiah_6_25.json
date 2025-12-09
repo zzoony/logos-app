@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Jeremiah 6:25",
+  "version": "ESV",
+  "original_text": "Go not out into the field,\n    nor walk on the road,\nfor the enemy has a sword;\n    terror is on every side.",
+  "korean_text": "너희는 밭에도 나가지 말라 길로도 다니지 말라 원수의 칼이 있고 사방에 두려움이 있음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go not out into the field",
+      "korean_translation": "밭으로 나가지 말라",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor walk on the road",
+      "korean_translation": "길로 걷지도 말라",
+      "word_indices": [
+        111,
+        786
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the enemy has a sword",
+      "korean_translation": "원수가 칼을 가졌기 때문이다",
+      "word_indices": [
+        74,
+        122
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "terror is on every side",
+      "korean_translation": "사방에 공포가 있다",
+      "word_indices": [
+        103,
+        579
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Job 1:16",
+  "version": "ESV",
+  "original_text": "While he was yet speaking, there came another and said, “The fire of God fell from heaven and burned up the sheep and the servants and consumed them, and I alone have escaped to tell you.”",
+  "korean_text": "그가 아직 말하는 동안에 또 한 사람이 와서 아뢰되 하나님의 불이 하늘에서 떨어져서 양과 종들을 살라 버렸나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While he was yet speaking,",
+      "korean_translation": "그가 아직 말하고 있을 때,",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there came another and said,",
+      "korean_translation": "다른 한 사람이 와서 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The fire of God fell from heaven",
+      "korean_translation": "하나님의 불이 하늘에서 내려와",
+      "word_indices": [
+        1,
+        40,
+        72,
+        212
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and burned up the sheep and the servants",
+      "korean_translation": "양과 종들을 태웠고",
+      "word_indices": [
+        22,
+        48,
+        235
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and consumed them,",
+      "korean_translation": "그것들을 삼켰으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and I alone have escaped",
+      "korean_translation": "나 혼자만 겨우 도망하여",
+      "word_indices": [
+        367
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to tell you.”",
+      "korean_translation": "당신에게 알리러 왔습니다.”",
+      "word_indices": [
+        36
+      ]
+    }
+  ]
+}

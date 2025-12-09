@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Luke 2:8",
+  "version": "ESV",
+  "original_text": "And in the same region there were shepherds out in the field, keeping watch over their flock by night.",
+  "korean_text": "그 지역에 목자들이 밤에 밖에서 자기 양 떼를 지키더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And in the same region there were shepherds out in the field",
+      "korean_translation": "그리고 같은 지역에 목자들이 들에 있었는데",
+      "word_indices": [
+        133,
+        228,
+        411,
+        864
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "keeping watch over their flock by night.",
+      "korean_translation": "밤에 자기 양 떼를 지키고 있었습니다.",
+      "word_indices": [
+        46,
+        130,
+        247,
+        460
+      ]
+    }
+  ]
+}

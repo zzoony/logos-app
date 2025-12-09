@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 18:13",
+  "version": "ESV",
+  "original_text": "First they led him to Annas, for he was the father-in-law of Caiaphas, who was high priest that year.",
+  "korean_text": "먼저 안나스에게로 끌고 가니 안나스는 그 해의 대제사장인 가야바의 장인이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "First they led him to Annas",
+      "korean_translation": "먼저 그들이 그를 안나스에게 데려가니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for he was the father-in-law of Caiaphas",
+      "korean_translation": "그는 가야바의 장인이었으니",
+      "word_indices": [
+        9,
+        66
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who was high priest that year",
+      "korean_translation": "그는 그 해의 대제사장이었습니다",
+      "word_indices": [
+        25,
+        107
+      ]
+    }
+  ]
+}

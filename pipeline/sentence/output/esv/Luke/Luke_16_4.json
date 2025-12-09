@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 16:4",
+  "version": "ESV",
+  "original_text": "I have decided what to do, so that when I am removed from management, people may receive me into their houses.’",
+  "korean_text": "내가 할 일을 알았도다 이렇게 하면 직분을 빼앗긴 후에 사람들이 나를 자기 집으로 영접하리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have decided what to do",
+      "korean_translation": "내가 할 일을 정했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that when I am removed from management",
+      "korean_translation": "그래서 내가 관리 직에서 쫓겨났을 때",
+      "word_indices": [
+        3848
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "people may receive me into their houses.",
+      "korean_translation": "사람들이 나를 자기 집으로 받아들일 수 있게",
+      "word_indices": [
+        3,
+        137
+      ]
+    }
+  ]
+}

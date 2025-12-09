@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 69:21",
+  "version": "ESV",
+  "original_text": "They gave me poison for food,\n    and for my thirst they gave me sour wine to drink.",
+  "korean_text": "그들이 쓸개를 나의 음식물로 주며 목마를 때에는 초를 마시게 하였사오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They gave me poison for food",
+      "korean_translation": "그들은 내 음식으로 독을 주었습니다",
+      "word_indices": [
+        5,
+        138,
+        2058
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and for my thirst",
+      "korean_translation": "그리고 내 갈증을 위해",
+      "word_indices": [
+        1112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they gave me sour wine to drink",
+      "korean_translation": "그들은 마시라고 신 포도주를 주었습니다",
+      "word_indices": [
+        5,
+        70,
+        194,
+        2190
+      ]
+    }
+  ]
+}

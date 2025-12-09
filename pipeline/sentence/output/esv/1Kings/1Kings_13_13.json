@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 13:13",
+  "version": "ESV",
+  "original_text": "And he said to his sons, “Saddle the donkey for me.” So they saddled the donkey for him and he mounted it.",
+  "korean_text": "그가 그의 아들들에게 이르되 나를 위하여 나귀에 안장을 지우라 그들이 나귀에 안장을 지우니 그가 타고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said to his sons,",
+      "korean_translation": "그가 그의 아들들에게 말하니,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Saddle the donkey for me.”",
+      "korean_translation": "‘나를 위해 나귀에 안장을 지어라.’",
+      "word_indices": [
+        316,
+        1695
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So they saddled the donkey for him",
+      "korean_translation": "그래서 그들이 그를 위해 나귀에 안장을 지으니,",
+      "word_indices": [
+        316
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he mounted it.",
+      "korean_translation": "그가 그것에 올랐다.",
+      "word_indices": [
+        274
+      ]
+    }
+  ]
+}

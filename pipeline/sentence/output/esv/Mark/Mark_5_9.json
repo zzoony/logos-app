@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Mark 5:9",
+  "version": "ESV",
+  "original_text": "And Jesus asked him, “What is your name?” He replied, “My name is Legion, for we are many.”",
+  "korean_text": "이에 물으시되 네 이름이 무엇이냐 이르되 내 이름은 군대니 우리가 많음이니이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus asked him,",
+      "korean_translation": "예수님께서 그에게 물으셨습니다,",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“What is your name?”",
+      "korean_translation": "네 이름이 무엇이냐?",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He replied,",
+      "korean_translation": "그가 대답하였습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“My name is Legion,",
+      "korean_translation": "내 이름은 군대이니,",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for we are many.”",
+      "korean_translation": "우리가 많기 때문입니다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 92:9",
+  "version": "ESV",
+  "original_text": "For behold, your enemies, O Lord,\n    for behold, your enemies shall perish;\n    all evildoers shall be scattered.",
+  "korean_text": "여호와여 주의 원수들은 패망하리이다 정녕 주의 원수들은 패망하리니 죄악을 행하는 자들은 다 흩어지리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your enemies, O Lord,",
+      "korean_translation": "주여, 주의 원수들이",
+      "word_indices": [
+        122
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your enemies shall perish;",
+      "korean_translation": "주의 원수들이 멸망하리라",
+      "word_indices": [
+        122,
+        310
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "all evildoers shall be scattered.",
+      "korean_translation": "모든 행악자가 흩어지리라",
+      "word_indices": [
+        415,
+        965
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 55:1",
+  "version": "ESV",
+  "original_text": "Give ear to my prayer, O God,\n    and hide not yourself from my plea for mercy!",
+  "korean_text": "하나님이여 내 기도에 귀를 기울이시고 내가 간구할 때에 숨지 마소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give ear to my prayer,",
+      "korean_translation": "내 기도에 귀를 기울여 주소서",
+      "word_indices": [
+        5,
+        202,
+        364
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O God,",
+      "korean_translation": "오 하나님",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and hide not yourself from my plea for mercy!",
+      "korean_translation": "내 자비의 간구에서 자신을 숨기지 마소서",
+      "word_indices": [
+        211,
+        269,
+        866
+      ]
+    }
+  ]
+}

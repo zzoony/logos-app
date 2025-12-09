@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Kings 11:6",
+  "version": "ESV",
+  "original_text": "(another third being at the gate Sur and a third at the gate behind the guards) shall guard the palace.",
+  "korean_text": "삼분의 일은 수르 문에 있고 삼분의 일은 호위대 뒤에 있는 문에 있어서 이와 같이 왕궁을 주의하여 지키고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "another third being at the gate Sur",
+      "korean_translation": "또 다른 삼분의 일은 수르 문에 있을 것입니다",
+      "word_indices": [
+        98,
+        244
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a third at the gate behind the guards",
+      "korean_translation": "그리고 삼분의 일은 경비병들 뒤의 문에 있을 것입니다",
+      "word_indices": [
+        98,
+        244,
+        287
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall guard the palace",
+      "korean_translation": "궁궐을 지킬 것입니다",
+      "word_indices": [
+        287,
+        773
+      ]
+    }
+  ]
+}

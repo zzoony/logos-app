@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Kings 1:39",
+  "version": "ESV",
+  "original_text": "There Zadok the priest took the horn of oil from the tent and anointed Solomon. Then they blew the trumpet, and all the people said, “Long live King Solomon!”",
+  "korean_text": "제사장 사독이 성막 가운데에서 기름 담은 뿔을 가져다가 솔로몬에게 기름을 부으니 이에 뿔나팔을 불고 모든 백성이 솔로몬 왕은 만세수를 하옵소서 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There Zadok the priest took the horn of oil from the tent",
+      "korean_translation": "그곳에서 사독 제사장이 장막에서 기름 뿔을 가져와",
+      "word_indices": [
+        25,
+        109,
+        222,
+        443
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and anointed Solomon.",
+      "korean_translation": "솔로몬에게 기름을 부었습니다.",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then they blew the trumpet,",
+      "korean_translation": "그때 그들이 나팔을 불자",
+      "word_indices": [
+        408
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all the people said,",
+      "korean_translation": "모든 백성이 말하기를",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“Long live King Solomon!”",
+      "korean_translation": "‘솔로몬 왕께서 만세를 누리시옵소서!’",
+      "word_indices": [
+        4,
+        33,
+        127
+      ]
+    }
+  ]
+}

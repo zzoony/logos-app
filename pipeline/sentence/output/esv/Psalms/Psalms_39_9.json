@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 39:9",
+  "version": "ESV",
+  "original_text": "I am mute; I do not open my mouth,\n    for it is you who have done it.",
+  "korean_text": "내가 잠잠하고 입을 열지 아니함은 주께서 이를 행하신 까닭이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am mute",
+      "korean_translation": "나는 잠잠하다",
+      "word_indices": [
+        1347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I do not open my mouth",
+      "korean_translation": "나는 내 입을 열지 않는다",
+      "word_indices": [
+        95,
+        115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for it is you who have done it.",
+      "korean_translation": "이는 당신이 행하신 일이기 때문입니다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 10:12",
+  "version": "ESV",
+  "original_text": "Then the Lord said to Moses, “Stretch out your hand over the land of Egypt for the locusts, so that they may come upon the land of Egypt and eat every plant in the land, all that the hail has left.”",
+  "korean_text": "여호와께서 모세에게 이르시되 애굽 땅 위에 네 손을 내밀어 메뚜기를 애굽 땅에 올라오게 하여 우박에 상하지 아니한 밭의 모든 채소를 먹게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses,",
+      "korean_translation": "그때 주께서 모세에게 말씀하시를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Stretch out your hand over the land of Egypt for the locusts,",
+      "korean_translation": "애굽 땅을 향하여 메뚜기를 위해 네 손을 내밀라,",
+      "word_indices": [
+        8,
+        10,
+        412,
+        926
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that they may come upon the land of Egypt",
+      "korean_translation": "그리하여 그들이 애굽 땅에 이르게 하고,",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and eat every plant in the land,",
+      "korean_translation": "그 땅의 모든 식물을 먹게 하라,",
+      "word_indices": [
+        8,
+        403
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "all that the hail has left.”",
+      "korean_translation": "우박이 남겨 둔 모든 것을.”",
+      "word_indices": [
+        1061
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 1:27",
+  "version": "ESV",
+  "original_text": "to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary.",
+  "korean_text": "다윗의 자손 요셉이라 하는 사람과 약혼한 처녀에게 이르니 그 처녀의 이름은 마리아라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "to a virgin",
+      "korean_translation": "한 처녀에게",
+      "word_indices": [
+        794
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "betrothed to a man",
+      "korean_translation": "한 남자와 약혼한",
+      "word_indices": [
+        6,
+        1460
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose name was Joseph",
+      "korean_translation": "그의 이름은 요셉이라",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the house of David",
+      "korean_translation": "그는 다윗 가문의 사람이었고",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And the virgin's name was Mary.",
+      "korean_translation": "그 처녀의 이름은 마리아였습니다.",
+      "word_indices": [
+        20,
+        794
+      ]
+    }
+  ]
+}

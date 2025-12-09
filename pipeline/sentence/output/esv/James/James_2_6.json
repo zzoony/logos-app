@@ -1,0 +1,35 @@
+{
+  "verse_reference": "James 2:6",
+  "version": "ESV",
+  "original_text": "But you have dishonored the poor man. Are not the rich the ones who oppress you, and the ones who drag you into court?",
+  "korean_text": "너희는 도리어 가난한 자를 업신여겼도다 부자는 너희를 억압하며 법정으로 끌고 가지 아니하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But you have dishonored the poor man.",
+      "korean_translation": "하지만 당신은 가난한 사람을 멸시했습니다.",
+      "word_indices": [
+        6,
+        268,
+        1171
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Are not the rich the ones who oppress you",
+      "korean_translation": "부자들이 당신을 억압하는 자들이 아니입니까?",
+      "word_indices": [
+        297
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the ones who drag you into court?",
+      "korean_translation": "그리고 당신을 법정으로 끌고 가는 자들이 아닙니까?",
+      "word_indices": [
+        306,
+        1521
+      ]
+    }
+  ]
+}

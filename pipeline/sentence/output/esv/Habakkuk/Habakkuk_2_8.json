@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Habakkuk 2:8",
+  "version": "ESV",
+  "original_text": "Because you have plundered many nations,\n    all the remnant of the peoples shall plunder you,\nfor the blood of man and violence to the earth,\n    to cities and all who dwell in them.",
+  "korean_text": "네가 여러 나라를 노략하였으므로 그 모든 민족의 남은 자가 너를 노략하리니 이는 네가 사람의 피를 흘렸음이요 또 땅과 성읍과 그 안의 모든 주민에게 강포를 행하였음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because you have plundered many nations",
+      "korean_translation": "네가 여러 민족을 약탈했기 때문에,",
+      "word_indices": [
+        47,
+        565
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the remnant of the peoples shall plunder you",
+      "korean_translation": "모든 민족의 남은 자들이 너를 약탈할 것이니,",
+      "word_indices": [
+        542,
+        565
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the blood of man and violence to the earth",
+      "korean_translation": "사람의 피와 땅에 대한 폭력 때문에,",
+      "word_indices": [
+        6,
+        83,
+        672
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to cities and all who dwell in them.",
+      "korean_translation": "성들과 그 안에 거하는 모든 자에게.",
+      "word_indices": [
+        16,
+        77
+      ]
+    }
+  ]
+}

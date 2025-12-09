@@ -1,0 +1,24 @@
+{
+  "verse_reference": "1 Corinthians 16:21",
+  "version": "ESV",
+  "original_text": "I, Paul, write this greeting with my own hand.",
+  "korean_text": "나 바울은 친필로 너희에게 문안하노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, Paul,",
+      "korean_translation": "나, 바울은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "write this greeting with my own hand.",
+      "korean_translation": "이 인사를 내 친필로 씁니다.",
+      "word_indices": [
+        10,
+        79,
+        639
+      ]
+    }
+  ]
+}

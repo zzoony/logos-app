@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Deuteronomy 14:12",
+  "version": "ESV",
+  "original_text": "But these are the ones that you shall not eat: the eagle, the bearded vulture, the black vulture,",
+  "korean_text": "이런 것은 먹지 못할지니 곧 독수리와 솔개와 물수리와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But these are the ones that you shall not eat:",
+      "korean_translation": "그러나 너희가 먹어서는 안 될 것들은 이것들입니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the eagle,",
+      "korean_translation": "독수리,",
+      "word_indices": [
+        1183
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the bearded vulture,",
+      "korean_translation": "털수리,",
+      "word_indices": [
+        1352,
+        2135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the black vulture,",
+      "korean_translation": "검은독수리,",
+      "word_indices": [
+        1589,
+        2135
+      ]
+    }
+  ]
+}

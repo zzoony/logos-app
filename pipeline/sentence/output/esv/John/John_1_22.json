@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 1:22",
+  "version": "ESV",
+  "original_text": "So they said to him, “Who are you? We need to give an answer to those who sent us. What do you say about yourself?”",
+  "korean_text": "또 말하되 누구냐 우리를 보낸 이들에게 대답하게 하라 너는 네게 대하여 무엇이라 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they said to him,",
+      "korean_translation": "그래서 그들이 그에게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who are you?",
+      "korean_translation": "당신은 누구입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We need to give an answer",
+      "korean_translation": "우리는 대답을 해야 합니다",
+      "word_indices": [
+        5,
+        54
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to those who sent us.",
+      "korean_translation": "우리를 보낸 사람들에게.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "What do you say about yourself?”",
+      "korean_translation": "당신은 자신에 대해 어떻게 말합니까?”",
+      "word_indices": []
+    }
+  ]
+}

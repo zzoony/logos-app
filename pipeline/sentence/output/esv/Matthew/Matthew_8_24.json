@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 8:24",
+  "version": "ESV",
+  "original_text": "And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but he was asleep.",
+  "korean_text": "바다에 큰 놀이 일어나 배가 물결에 덮이게 되었으되 예수께서는 주무시는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And behold,",
+      "korean_translation": "그리고 보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there arose a great storm on the sea,",
+      "korean_translation": "바다에 큰 폭풍이 일어나서,",
+      "word_indices": [
+        30,
+        84,
+        1363
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that the boat was being swamped by the waves;",
+      "korean_translation": "배가 파도에 잠기게 되었으나,",
+      "word_indices": [
+        790,
+        4413
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he was asleep.",
+      "korean_translation": "그는 잠들어 있었다.",
+      "word_indices": [
+        1247
+      ]
+    }
+  ]
+}

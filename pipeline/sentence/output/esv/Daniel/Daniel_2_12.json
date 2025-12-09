@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Daniel 2:12",
+  "version": "ESV",
+  "original_text": "Because of this the king was angry and very furious, and commanded that all the wise men of Babylon be destroyed.",
+  "korean_text": "왕이 이로 말미암아 진노하고 통분하여 바벨론의 모든 지혜자들을 다 죽이라 명령하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of this",
+      "korean_translation": "이 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king was angry and very furious",
+      "korean_translation": "왕은 진노하여 매우 분노했고",
+      "word_indices": [
+        4,
+        489
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and commanded",
+      "korean_translation": "그리고 명령하여",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that all the wise men of Babylon be destroyed",
+      "korean_translation": "바벨론의 모든 지혜자들을 죽이라",
+      "word_indices": [
+        99,
+        252
+      ]
+    }
+  ]
+}

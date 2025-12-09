@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 25:35",
+  "version": "ESV",
+  "original_text": "For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me,",
+  "korean_text": "내가 주릴 때에 너희가 먹을 것을 주었고 목마를 때에 마시게 하였고 나그네 되었을 때에 영접하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I was hungry",
+      "korean_translation": "내가 배고팠을 때에",
+      "word_indices": [
+        854
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you gave me food",
+      "korean_translation": "너희가 먹을 것을 주었고",
+      "word_indices": [
+        5,
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was thirsty",
+      "korean_translation": "내가 목말랐을 때에",
+      "word_indices": [
+        1232
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you gave me drink",
+      "korean_translation": "너희가 마실 것을 주었고",
+      "word_indices": [
+        5,
+        70
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I was a stranger",
+      "korean_translation": "내가 나그네였을 때에",
+      "word_indices": [
+        676
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and you welcomed me",
+      "korean_translation": "너희가 나를 맞아들였으니",
+      "word_indices": []
+    }
+  ]
+}

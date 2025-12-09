@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 24:46",
+  "version": "ESV",
+  "original_text": "and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead,",
+  "korean_text": "또 이르시되 이같이 그리스도가 고난을 받고 제삼일에 죽은 자 가운데서 살아날 것과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and said to them,",
+      "korean_translation": "그들에게 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Thus it is written,",
+      "korean_translation": "기록된 바,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the Christ should suffer",
+      "korean_translation": "그리스도가 고난을 받고",
+      "word_indices": [
+        61,
+        448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and on the third day rise from the dead,",
+      "korean_translation": "사흘 만에 죽은 자 가운데서 살아나야 할 것이라",
+      "word_indices": [
+        94,
+        141,
+        244
+      ]
+    }
+  ]
+}

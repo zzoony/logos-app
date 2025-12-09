@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 4:21",
+  "version": "ESV",
+  "original_text": "Jesus said to her, “Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father.",
+  "korean_text": "예수께서 이르시되 여자여 내 말을 믿으라 이 산에서도 말고 예루살렘에서도 말고 너희가 아버지께 예배할 때가 이르리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to her,",
+      "korean_translation": "예수께서 그녀에게 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Woman,",
+      "korean_translation": "여인이여,",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "believe me,",
+      "korean_translation": "나를 믿으라,",
+      "word_indices": [
+        190
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the hour is coming",
+      "korean_translation": "그 때가 오리니,",
+      "word_indices": [
+        467
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "when neither on this mountain nor in Jerusalem will you worship the Father.",
+      "korean_translation": "너희가 이 산에서도 예루살렘에서도 아버지께 경배하지 않을 것입니다.",
+      "word_indices": [
+        9,
+        123,
+        271,
+        278
+      ]
+    }
+  ]
+}

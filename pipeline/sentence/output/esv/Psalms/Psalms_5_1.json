@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 5:1",
+  "version": "ESV",
+  "original_text": "Give ear to my words, O Lord;\n    consider my groaning.",
+  "korean_text": "여호와여 나의 말에 귀를 기울이사 나의 심정을 헤아려 주소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give ear to my words",
+      "korean_translation": "내 말에 귀를 기울여 주소서",
+      "word_indices": [
+        5,
+        15,
+        202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "consider my groaning",
+      "korean_translation": "나의 탄식을 헤아려 주소서",
+      "word_indices": [
+        500,
+        987
+      ]
+    }
+  ]
+}

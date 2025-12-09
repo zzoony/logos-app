@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 58:4",
+  "version": "ESV",
+  "original_text": "They have venom like the venom of a serpent,\n    like the deaf adder that stops its ear,",
+  "korean_text": "그들의 독은 뱀의 독 같으며 그들은 귀를 막은 귀머거리 독사 같으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They have venom",
+      "korean_translation": "그들은 독을 가지고 있으며",
+      "word_indices": [
+        2535
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like the venom of a serpent",
+      "korean_translation": "뱀의 독과 같고",
+      "word_indices": [
+        14,
+        782,
+        2535
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like the deaf adder",
+      "korean_translation": "귀 먹은 독사와 같으며",
+      "word_indices": [
+        14,
+        1651,
+        2448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that stops its ear,",
+      "korean_translation": "자기 귀를 막는",
+      "word_indices": [
+        202,
+        746
+      ]
+    }
+  ]
+}

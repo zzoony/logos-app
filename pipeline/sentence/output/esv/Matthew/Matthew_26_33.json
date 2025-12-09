@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 26:33",
+  "version": "ESV",
+  "original_text": "Peter answered him, “Though they all fall away because of you, I will never fall away.”",
+  "korean_text": "베드로가 대답하여 이르되 모두 주를 버릴지라도 나는 결코 버리지 않겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter answered him,",
+      "korean_translation": "베드로가 그에게 대답하여,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Though they all fall away because of you,",
+      "korean_translation": "모두가 당신 때문에 넘어질지라도,",
+      "word_indices": [
+        29,
+        100,
+        182
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will never fall away.”",
+      "korean_translation": "나는 결코 넘어지지 않겠습니다.”",
+      "word_indices": [
+        29,
+        100
+      ]
+    }
+  ]
+}

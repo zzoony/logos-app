@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 22:22",
+  "version": "ESV",
+  "original_text": "For the Son of Man goes as it has been determined, but woe to that man by whom he is betrayed!”",
+  "korean_text": "인자는 이미 작정된 대로 가거니와 그를 파는 그 사람에게는 화가 있으리로다 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the Son of Man goes",
+      "korean_translation": "인자는 가시나니",
+      "word_indices": [
+        2,
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as it has been determined",
+      "korean_translation": "정하신 바와 같이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but woe to that man",
+      "korean_translation": "그러나 그 사람에게는 화가 있으리니",
+      "word_indices": [
+        6,
+        485
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by whom he is betrayed",
+      "korean_translation": "그에게 팔리우는 자에게는",
+      "word_indices": [
+        966
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "verse_reference": "1 Samuel 4:7",
+  "version": "ESV",
+  "original_text": "the Philistines were afraid, for they said, “A god has come into the camp.” And they said, “Woe to us! For nothing like this has happened before.",
+  "korean_text": "블레셋 사람이 두려워하여 이르되 신이 진영에 이르렀도다 하고 또 이르되 우리에게 화로다 전날에는 이런 일이 없었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the Philistines were afraid",
+      "korean_translation": "블레셋 사람들은 두려워했다",
+      "word_indices": [
+        286
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for they said,",
+      "korean_translation": "그들이 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“A god has come into the camp.”",
+      "korean_translation": "‘신이 진영으로 들어왔다.’",
+      "word_indices": [
+        1,
+        186
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And they said,",
+      "korean_translation": "그들이 또 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“Woe to us!",
+      "korean_translation": "‘우에게 화가 미쳤구나!",
+      "word_indices": [
+        485
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "For nothing like this has happened before.”",
+      "korean_translation": "이런 일은 일찍이 없었기 때문이다.’",
+      "word_indices": [
+        14,
+        464
+      ]
+    }
+  ]
+}

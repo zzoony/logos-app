@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 1:4",
+  "version": "ESV",
+  "original_text": "and Ram the father of Amminadab, and Amminadab the father of Nahshon, and Nahshon the father of Salmon,",
+  "korean_text": "람은 아미나답을 낳고 아미나답은 나손을 낳고 나손은 살몬을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Ram the father of Amminadab,",
+      "korean_translation": "그리고 람은 암미나답의 아버지이며,",
+      "word_indices": [
+        9,
+        273
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Amminadab the father of Nahshon,",
+      "korean_translation": "암미나답은 나손의 아버지이며,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Nahshon the father of Salmon,",
+      "korean_translation": "나손은 살몬의 아버지이며,",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 7:2",
+  "version": "ESV",
+  "original_text": "Now the Jews' Feast of Booths was at hand.",
+  "korean_text": "유대인의 명절인 초막절이 가까운지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now",
+      "korean_translation": "그때는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Jews' Feast of Booths",
+      "korean_translation": "유대인의 초막절이",
+      "word_indices": [
+        180,
+        1134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was at hand.",
+      "korean_translation": "가까웠다.",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

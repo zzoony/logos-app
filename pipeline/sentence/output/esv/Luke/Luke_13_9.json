@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 13:9",
+  "version": "ESV",
+  "original_text": "Then if it should bear fruit next year, well and good; but if not, you can cut it down.’”",
+  "korean_text": "이후에 만일 열매가 열면 좋거니와 그렇지 않으면 찍어버리소서 하였다 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then if it should bear fruit next year, well and good;",
+      "korean_translation": "그러면 만일 내년에 열매를 맺으면 좋고,",
+      "word_indices": [
+        37,
+        73,
+        203,
+        442
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but if not,",
+      "korean_translation": "만약 그렇지 않으면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you can cut it down.’”",
+      "korean_translation": "그것을 베어 버릴 수 있나니.",
+      "word_indices": [
+        124
+      ]
+    }
+  ]
+}

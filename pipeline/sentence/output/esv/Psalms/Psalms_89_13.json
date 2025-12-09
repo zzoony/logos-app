@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 89:13",
+  "version": "ESV",
+  "original_text": "You have a mighty arm;\n    strong is your hand, high your right hand.",
+  "korean_text": "주의 팔에 능력이 있사오며 주의 손은 강하고 주의 오른손은 높이 들리우셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have a mighty arm",
+      "korean_translation": "당신은 강한 팔을 가지고 계십니다",
+      "word_indices": [
+        173,
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "strong is your hand",
+      "korean_translation": "주의 손은 강하십니다",
+      "word_indices": [
+        10,
+        227
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "high your right hand.",
+      "korean_translation": "주의 오른손은 높으십니다",
+      "word_indices": [
+        10,
+        88,
+        107
+      ]
+    }
+  ]
+}

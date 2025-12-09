@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Genesis 20:12",
+  "version": "ESV",
+  "original_text": "Besides, she is indeed my sister, the daughter of my father though not the daughter of my mother, and she became my wife.",
+  "korean_text": "또 그는 정말로 나의 이복 누이로서 내 아내가 되었음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Besides,",
+      "korean_translation": "게다가,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she is indeed my sister,",
+      "korean_translation": "그녀는 정말로 내 누이이며,",
+      "word_indices": [
+        361
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the daughter of my father",
+      "korean_translation": "내 아버지의 딸입니다.",
+      "word_indices": [
+        9,
+        58
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "though not the daughter of my mother,",
+      "korean_translation": "내 어머니의 딸은 아닙니다.",
+      "word_indices": [
+        58,
+        128,
+        182
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and she became my wife.",
+      "korean_translation": "그리고 그녀는 내 아내가 되었습니다.",
+      "word_indices": [
+        68
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 21:1",
+  "version": "ESV",
+  "original_text": "O Lord, in your strength the king rejoices,\n    and in your salvation how greatly he exults!",
+  "korean_text": "여호와여 왕이 주의 힘으로 말미암아 기뻐하며 주의 구원으로 말미암아 크게 즐거워하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord,",
+      "korean_translation": "오 주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in your strength the king rejoices,",
+      "korean_translation": "왕은 주의 힘으로 기뻐하고,",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in your salvation how greatly he exults!",
+      "korean_translation": "그리고 주의 구원으로 그가 얼마나 크게 기뻐하는지!",
+      "word_indices": [
+        281,
+        506,
+        1045
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 21:16",
+  "version": "ESV",
+  "original_text": "“Whoever steals a man and sells him, and anyone found in possession of him, shall be put to death.",
+  "korean_text": "사람을 납치한 자가 그 사람을 팔았든지 자기 수하에 두었든지 그를 반드시 죽일지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever steals a man and sells him",
+      "korean_translation": "사람을 유괴하여 파는 자는",
+      "word_indices": [
+        6,
+        117,
+        396,
+        859
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and anyone found in possession of him",
+      "korean_translation": "그를 소유한 자는",
+      "word_indices": [
+        181,
+        282,
+        1942
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall be put to death.",
+      "korean_translation": "죽임을 당해야 한다",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

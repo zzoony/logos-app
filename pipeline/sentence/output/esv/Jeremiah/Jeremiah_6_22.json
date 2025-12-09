@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 6:22",
+  "version": "ESV",
+  "original_text": "Thus says the Lord:\n“Behold, a people is coming from the north country,\n    a great nation is stirring from the farthest parts of the earth.",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 보라 한 민족이 북방에서 오며 큰 나라가 땅 끝에서부터 떨쳐 일어나나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus says the Lord:",
+      "korean_translation": "주께서 이렇게 말씀하신다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Behold,",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a people is coming from the north country,",
+      "korean_translation": "한 백성이 북방에서 오고 있다",
+      "word_indices": [
+        3,
+        174,
+        328
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a great nation is stirring from the farthest parts of the earth.",
+      "korean_translation": "큰 나라가 땅 끝에서 일어나고 있다",
+      "word_indices": [
+        30,
+        47,
+        329,
+        2159
+      ]
+    }
+  ]
+}

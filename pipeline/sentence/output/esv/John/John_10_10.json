@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 10:10",
+  "version": "ESV",
+  "original_text": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.",
+  "korean_text": "도둑이 오는 것은 도둑질하고 죽이고 멸망시키려는 것뿐이요 내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The thief comes only to steal",
+      "korean_translation": "도둑은 오직 훔치러 오고",
+      "word_indices": [
+        859,
+        1084
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and kill",
+      "korean_translation": "죽이고",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and destroy.",
+      "korean_translation": "파괴합니다.",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I came",
+      "korean_translation": "나는 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that they may have life and have it abundantly.",
+      "korean_translation": "그들이 생명을 얻고 더 풍성히 누리게 하려 함입니다.",
+      "word_indices": [
+        41,
+        1532
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 22:31",
+  "version": "ESV",
+  "original_text": "“Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat,",
+  "korean_text": "시몬아, 시몬아, 보라 사탄이 너희를 밀 까부르듯 하려고 요구하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon, Simon,",
+      "korean_translation": "시몬아, 시몬아,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Satan demanded to have you,",
+      "korean_translation": "사탄이 너희를 자기에게 달라고 요구하여,",
+      "word_indices": [
+        789,
+        1887
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that he might sift you like wheat,",
+      "korean_translation": "너희를 밀처럼 체질하려고 하였다.",
+      "word_indices": [
+        14,
+        870,
+        4350
+      ]
+    }
+  ]
+}

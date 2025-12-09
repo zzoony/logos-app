@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 6:31",
+  "version": "ESV",
+  "original_text": "Our fathers ate the manna in the wilderness; as it is written, ‘He gave them bread from heaven to eat.’”",
+  "korean_text": "기록된 바 하늘에서 그들에게 떡을 주어 먹게 하였다 함과 같이 우리 조상들은 광야에서 만나를 먹었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our fathers ate the manna in the wilderness",
+      "korean_translation": "우리 조상들이 광야에서 만나를 먹었습니다.",
+      "word_indices": [
+        9,
+        1598
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as it is written",
+      "korean_translation": "기록된 바와 같이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘He gave them bread from heaven to eat.’”",
+      "korean_translation": "‘그들에게 하늘의 빵을 먹도록 주셨습니다.’",
+      "word_indices": [
+        5,
+        40,
+        129
+      ]
+    }
+  ]
+}

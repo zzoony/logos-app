@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 14:20",
+  "version": "ESV",
+  "original_text": "And they all ate and were satisfied. And they took up twelve baskets full of the broken pieces left over.",
+  "korean_text": "다 배불리 먹고 남은 조각을 열두 바구니에 차게 거두었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they all ate",
+      "korean_translation": "그리고 그들은 모두 먹었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and were satisfied.",
+      "korean_translation": "그리고 배불렀다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And they took up twelve baskets",
+      "korean_translation": "그리고 그들은 열두 바구니를 거두었다",
+      "word_indices": [
+        302,
+        850
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "full of the broken pieces",
+      "korean_translation": "부서진 조각들로 가득 찼다",
+      "word_indices": [
+        165
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "left over.",
+      "korean_translation": "남은 것이었다",
+      "word_indices": []
+    }
+  ]
+}

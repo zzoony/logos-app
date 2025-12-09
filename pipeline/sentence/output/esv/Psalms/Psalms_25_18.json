@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 25:18",
+  "version": "ESV",
+  "original_text": "Consider my affliction and my trouble,\n    and forgive all my sins.",
+  "korean_text": "나의 곤고와 환난을 보시고 내 모든 죄를 사하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Consider my affliction and my trouble",
+      "korean_translation": "나의 고난과 환난을 헤아려 주소서",
+      "word_indices": [
+        324,
+        500,
+        592
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and forgive all my sins",
+      "korean_translation": "나의 모든 죄를 사하여 주소서",
+      "word_indices": [
+        34,
+        416
+      ]
+    }
+  ]
+}

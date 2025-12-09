@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Genesis 1:10",
+  "version": "ESV",
+  "original_text": "God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good.",
+  "korean_text": "하나님이 뭍을 땅이라 부르시고 모인 물을 바다라 부르시니 하나님이 보시기에 좋았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God called the dry land Earth",
+      "korean_translation": "하나님은 마른 땅을 땅이라 불렀습니다.",
+      "word_indices": [
+        1,
+        8,
+        31,
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the waters that were gathered together",
+      "korean_translation": "그리고 모여 있던 물들을",
+      "word_indices": [
+        42,
+        93,
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he called Seas.",
+      "korean_translation": "그가 바다라 불렀습니다.",
+      "word_indices": [
+        31,
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And God saw",
+      "korean_translation": "하나님께서 보시니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that it was good.",
+      "korean_translation": "그것이 좋았더라",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

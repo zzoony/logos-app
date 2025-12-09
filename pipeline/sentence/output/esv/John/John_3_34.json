@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 3:34",
+  "version": "ESV",
+  "original_text": "For he whom God has sent utters the words of God, for he gives the Spirit without measure.",
+  "korean_text": "하나님이 보내신 이는 하나님의 말씀을 하나니 이는 하나님이 성령을 한량 없이 주심이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he whom God has sent",
+      "korean_translation": "이는 하나님이 보내신 자는",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "utters the words of God,",
+      "korean_translation": "하나님의 말씀을 말하고",
+      "word_indices": [
+        1,
+        15,
+        582
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for he gives the Spirit",
+      "korean_translation": "이는 그가 성령을 주시되",
+      "word_indices": [
+        5,
+        55
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "without measure.",
+      "korean_translation": "제한 없이 주심이라",
+      "word_indices": [
+        345
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Job 3:9",
+  "version": "ESV",
+  "original_text": "Let the stars of its dawn be dark;\n    let it hope for light, but have none,\n    nor see the eyelids of the morning,",
+  "korean_text": "그 밤에 새벽 별들이 어두웠더라면, 그 밤이 광명을 바랄지라도 얻지 못하며 동틈을 보지 못하였더라면 좋았을 것을,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let the stars of its dawn be dark",
+      "korean_translation": "새벽의 별들이 어둡게 되기를",
+      "word_indices": [
+        641,
+        1091
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let it hope for light",
+      "korean_translation": "빛을 바라게 하기를",
+      "word_indices": [
+        177,
+        311
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but have none",
+      "korean_translation": "그러나 얻지 못하게 하고",
+      "word_indices": [
+        175
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor see the eyelids of the morning",
+      "korean_translation": "아침의 눈꺼풀을 보지도 못하게 하라",
+      "word_indices": [
+        2306
+      ]
+    }
+  ]
+}

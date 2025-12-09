@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 8:26",
+  "version": "ESV",
+  "original_text": "I have much to say about you and much to judge, but he who sent me is true, and I declare to the world what I have heard from him.”",
+  "korean_text": "내가 너희에게 대하여 말하고 판단할 것이 많으나 나를 보내신 이가 참되시매 내가 그에게 들은 그것을 세상에 말하노라 하시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have much to say about you",
+      "korean_translation": "내가 너희에 대해 말할 것은 많고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and much to judge,",
+      "korean_translation": "심판할 것도 많지만,",
+      "word_indices": [
+        178
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but he who sent me is true,",
+      "korean_translation": "나를 보내신 이는 참되시며,",
+      "word_indices": [
+        430
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I declare to the world",
+      "korean_translation": "나는 세상에 그가 들려주신 것을",
+      "word_indices": [
+        67,
+        183
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what I have heard from him.”",
+      "korean_translation": "전하노라.",
+      "word_indices": []
+    }
+  ]
+}

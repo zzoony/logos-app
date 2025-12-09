@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 77:17",
+  "version": "ESV",
+  "original_text": "The clouds poured out water;\n    the skies gave forth thunder;\n    your arrows flashed on every side.",
+  "korean_text": "구름이 물을 쏟고 궁창이 소리를 내며 주의 화살도 날아갔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The clouds poured out water",
+      "korean_translation": "구름이 물을 쏟아냈습니다.",
+      "word_indices": [
+        42,
+        307
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the skies gave forth thunder",
+      "korean_translation": "하늘이 천둥을 울렸습니다.",
+      "word_indices": [
+        5,
+        342,
+        1269
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your arrows flashed on every side",
+      "korean_translation": "당신의 화살이 사방에서 번쩍였습니다.",
+      "word_indices": [
+        103,
+        702,
+        1227
+      ]
+    }
+  ]
+}

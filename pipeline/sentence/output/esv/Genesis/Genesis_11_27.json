@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 11:27",
+  "version": "ESV",
+  "original_text": "Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.",
+  "korean_text": "데라의 족보는 이러하니라 데라는 아브람과 나홀과 하란을 낳고 하란은 롯을 낳았으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now these are the generations of Terah.",
+      "korean_translation": "데라의 자손은 이러하니라.",
+      "word_indices": [
+        225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Terah fathered Abram, Nahor, and Haran;",
+      "korean_translation": "데라는 아브람과 나홀과 하란을 낳았으며,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Haran fathered Lot.",
+      "korean_translation": "하란은 롯을 낳았더라.",
+      "word_indices": [
+        9,
+        390
+      ]
+    }
+  ]
+}

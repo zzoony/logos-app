@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 2:17",
+  "version": "ESV",
+  "original_text": "but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”",
+  "korean_text": "선악을 알게 하는 나무의 열매는 먹지 말라 네가 먹는 날에는 반드시 죽으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but of the tree of the knowledge of good and evil",
+      "korean_translation": "하지만 선과 악을 알게 하는 나무의 실과는",
+      "word_indices": [
+        37,
+        63,
+        143,
+        300
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you shall not eat",
+      "korean_translation": "너는 먹지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for in the day that you eat of it",
+      "korean_translation": "이는 네가 그것을 먹는 날에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you shall surely die.",
+      "korean_translation": "너��� 반드시 죽으리라.",
+      "word_indices": [
+        57,
+        232
+      ]
+    }
+  ]
+}

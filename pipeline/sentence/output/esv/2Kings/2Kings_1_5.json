@@ -1,0 +1,32 @@
+{
+  "verse_reference": "2 Kings 1:5",
+  "version": "ESV",
+  "original_text": "The messengers returned to the king, and he said to them, “Why have you returned?”",
+  "korean_text": "사자들이 왕에게 돌아오니 왕이 그들에게 이르되 너희는 어찌하여 돌아왔느냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The messengers returned to the king",
+      "korean_translation": "사자들이 왕에게 돌아왔습니다",
+      "word_indices": [
+        4,
+        78,
+        414
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he said to them",
+      "korean_translation": "그가 그들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“Why have you returned?”",
+      "korean_translation": "“어찌하여 너희가 돌아왔느냐?”",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 13:22",
+  "version": "ESV",
+  "original_text": "The pillar of cloud by day and the pillar of fire by night did not depart from before the people.",
+  "korean_text": "낮에는 구름 기둥, 밤에는 불 기둥이 백성 앞에서 떠나지 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The pillar of cloud by day",
+      "korean_translation": "낮에는 구름 기둥이",
+      "word_indices": [
+        307,
+        323
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the pillar of fire by night",
+      "korean_translation": "밤에는 불 기둥이",
+      "word_indices": [
+        72,
+        130,
+        323
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "did not depart from before the people",
+      "korean_translation": "백성 앞을 떠나지 않았다",
+      "word_indices": [
+        3,
+        266
+      ]
+    }
+  ]
+}

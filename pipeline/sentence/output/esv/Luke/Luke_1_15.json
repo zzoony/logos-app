@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 1:15",
+  "version": "ESV",
+  "original_text": "for he will be great before the Lord. And he must not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother's womb.",
+  "korean_text": "이는 그가 주 앞에 큰 자가 되며 포도주나 독한 술을 마시지 아니하며 모태로부터 성령의 충만함을 받아",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "for he will be great before the Lord",
+      "korean_translation": "이는 그가 주 앞에서 큰 자가 될 것임이라",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And he must not drink wine or strong drink",
+      "korean_translation": "그는 포도주나 독주를 마시지 못할 것이라",
+      "word_indices": [
+        70,
+        194,
+        227
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he will be filled with the Holy Spirit",
+      "korean_translation": "그는 성령으로 충만하게 될 것이라",
+      "word_indices": [
+        44,
+        55,
+        207
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even from his mother's womb",
+      "korean_translation": "심지어 그의 어머니 태중에서부터",
+      "word_indices": [
+        128,
+        550
+      ]
+    }
+  ]
+}

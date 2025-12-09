@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Isaiah 9:2",
+  "version": "ESV",
+  "original_text": "The people who walked in darkness\n    have seen a great light;\nthose who dwelt in a land of deep darkness,\n    on them has light shone.",
+  "korean_text": "흑암에 행하던 백성이 큰 빛을 보고 사망의 그늘진 땅에 거주하던 자에게 빛이 비치도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people who walked in darkness",
+      "korean_translation": "어둠 속을 걷던 백성은",
+      "word_indices": [
+        3,
+        111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "have seen a great light",
+      "korean_translation": "위대한 빛을 보았다",
+      "word_indices": [
+        30,
+        177
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "those who dwelt in a land of deep darkness",
+      "korean_translation": "짙은 어둠의 땅에 사는 자들은",
+      "word_indices": [
+        8,
+        479
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on them has light shone",
+      "korean_translation": "그들에게 빛이 비쳤다",
+      "word_indices": [
+        177
+      ]
+    }
+  ]
+}

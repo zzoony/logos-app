@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Isaiah 40:19",
+  "version": "ESV",
+  "original_text": "An idol! A craftsman casts it,\n    and a goldsmith overlays it with gold\n    and casts for it silver chains.",
+  "korean_text": "우상은 장인이 부어 만들었고 장색이 금으로 입혔고 또 은 사슬을 만든 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An idol!",
+      "korean_translation": "우상이여!",
+      "word_indices": [
+        355
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A craftsman casts it",
+      "korean_translation": "장인이 그것을 부어 만듭니다.",
+      "word_indices": [
+        166,
+        1212
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a goldsmith overlays it with gold",
+      "korean_translation": "금장이는 그것에 금을 입힙니다.",
+      "word_indices": [
+        89,
+        839,
+        2303
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and casts for it silver chains",
+      "korean_translation": "그리고 그것을 위해 은 사슬을 부어 만듭니다.",
+      "word_indices": [
+        135,
+        166,
+        883
+      ]
+    }
+  ]
+}

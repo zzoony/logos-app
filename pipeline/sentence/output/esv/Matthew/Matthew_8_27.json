@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 8:27",
+  "version": "ESV",
+  "original_text": "And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”",
+  "korean_text": "그 사람들이 놀랍게 여겨 이르되 이이가 어떠한 사람이기에 바람과 바다도 순종하는가 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the men marveled",
+      "korean_translation": "그리고 사람들은 놀라워하며",
+      "word_indices": [
+        1160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying",
+      "korean_translation": "말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What sort of man is this",
+      "korean_translation": "이 사람이 어떤 자이기에",
+      "word_indices": [
+        6,
+        1167
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that even winds and sea obey him",
+      "korean_translation": "바람과 바다까지도 그에게 순종하는가",
+      "word_indices": [
+        84,
+        259,
+        285
+      ]
+    }
+  ]
+}

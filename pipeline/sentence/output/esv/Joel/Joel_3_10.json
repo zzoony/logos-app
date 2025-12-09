@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Joel 3:10",
+  "version": "ESV",
+  "original_text": "Beat your plowshares into swords,\n    and your pruning hooks into spears;\n    let the weak say, “I am a warrior.”",
+  "korean_text": "너희는 보습을 쳐서 칼을 만들지어다 낫을 쳐서 창을 만들지어다 약한 자도 이르기를 나는 강하다 할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Beat your plowshares into swords",
+      "korean_translation": "너희의 쟁기를 칼로 만들라",
+      "word_indices": [
+        74,
+        525
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and your pruning hooks into spears",
+      "korean_translation": "그리고 너희의 낫을 창으로 만들라",
+      "word_indices": [
+        670,
+        1115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let the weak say,",
+      "korean_translation": "약한 자가 말하기를",
+      "word_indices": [
+        809
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“I am a warrior.”",
+      "korean_translation": "나는 용사다",
+      "word_indices": [
+        812
+      ]
+    }
+  ]
+}

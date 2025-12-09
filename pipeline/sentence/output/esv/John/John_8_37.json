@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 8:37",
+  "version": "ESV",
+  "original_text": "I know that you are offspring of Abraham; yet you seek to kill me because my word finds no place in you.",
+  "korean_text": "나도 너희가 아브라함의 자손인 줄 아노라 그러나 내 말이 너희 안에 있을 곳이 없으므로 나를 죽이려 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that you are offspring of Abraham",
+      "korean_translation": "나는 너희가 아브라함의 자손인 것을 안다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet you seek to kill me",
+      "korean_translation": "그러나 너희는 나를 죽이려고 한다",
+      "word_indices": [
+        82,
+        92
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because my word finds no place in you",
+      "korean_translation": "이는 내 말이 너희 안에 자리 잡지 않았기 때문이다",
+      "word_indices": [
+        15,
+        21,
+        56
+      ]
+    }
+  ]
+}

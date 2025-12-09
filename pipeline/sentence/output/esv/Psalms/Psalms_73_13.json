@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 73:13",
+  "version": "ESV",
+  "original_text": "All in vain have I kept my heart clean\n    and washed my hands in innocence.",
+  "korean_text": "내가 내 마음을 깨끗하게 하며 내 손을 씻어 무죄하다 한 것이 실로 헛되도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All in vain",
+      "korean_translation": "헛되이",
+      "word_indices": [
+        701
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "have I kept my heart clean",
+      "korean_translation": "내 마음을 깨끗하게 지켰노라",
+      "word_indices": [
+        26,
+        381
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and washed my hands in innocence",
+      "korean_translation": "내 손을 순전함으로 씻었노라",
+      "word_indices": [
+        10,
+        378,
+        2642
+      ]
+    }
+  ]
+}

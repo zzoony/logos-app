@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 10:12",
+  "version": "ESV",
+  "original_text": "Arise, O Lord; O God, lift up your hand;\n    forget not the afflicted.",
+  "korean_text": "여호와여 일어나옵소서 하나님이여 손을 드옵소서 가난한 자들을 잊지 마옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Arise, O Lord;",
+      "korean_translation": "주여, 일어나소서",
+      "word_indices": [
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O God, lift up your hand;",
+      "korean_translation": "하나님이여, 주의 손을 들으소서",
+      "word_indices": [
+        1,
+        10,
+        200
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "forget not the afflicted.",
+      "korean_translation": "곤고한 자를 잊지 마소서",
+      "word_indices": [
+        418,
+        547
+      ]
+    }
+  ]
+}

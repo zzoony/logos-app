@@ -1,0 +1,76 @@
+{
+  "verse_reference": "Luke 12:53",
+  "version": "ESV",
+  "original_text": "They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against mother-in-law.”",
+  "korean_text": "아버지가 아들과, 아들이 아버지와, 어머니가 딸과, 딸이 어머니와, 시어머니가 며느리와, 며느리가 시어머니와 분쟁하리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They will be divided",
+      "korean_translation": "그들은 나뉠 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "father against son",
+      "korean_translation": "아버지가 아들을 대적하고",
+      "word_indices": [
+        2,
+        9,
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and son against father",
+      "korean_translation": "아들은 아버지를 대적할 것입니다",
+      "word_indices": [
+        2,
+        9,
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "mother against daughter",
+      "korean_translation": "어머니가 딸을 대적하고",
+      "word_indices": [
+        12,
+        58,
+        128
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and daughter against mother",
+      "korean_translation": "딸은 어머니를 대적할 것입니다",
+      "word_indices": [
+        12,
+        58,
+        128
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "mother-in-law against her daughter-in-law",
+      "korean_translation": "시어머니가 며느리를 대적하고",
+      "word_indices": [
+        12,
+        58,
+        66,
+        128
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and daughter-in-law against mother-in-law",
+      "korean_translation": "며느리는 시어머니를 대적할 것입니다",
+      "word_indices": [
+        12,
+        58,
+        66,
+        128
+      ]
+    }
+  ]
+}

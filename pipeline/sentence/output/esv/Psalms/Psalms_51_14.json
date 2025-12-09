@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 51:14",
+  "version": "ESV",
+  "original_text": "Deliver me from bloodguiltiness, O God,\n    O God of my salvation,\n    and my tongue will sing aloud of your righteousness.",
+  "korean_text": "하나님이여 나의 구원의 하나님이여 피 흘린 죄에서 나를 건지소서 내 혀가 주의 공의를 높이 노래하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Deliver me from bloodguiltiness",
+      "korean_translation": "나를 피의 죄에서 건져 주소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O God",
+      "korean_translation": "오 하나님",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O God of my salvation",
+      "korean_translation": "나의 구원의 하나님이시여",
+      "word_indices": [
+        1,
+        281
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my tongue will sing aloud of your righteousness",
+      "korean_translation": "내 혀가 주의 의를 큰 소리로 노래하리이다",
+      "word_indices": [
+        284,
+        354,
+        923
+      ]
+    }
+  ]
+}

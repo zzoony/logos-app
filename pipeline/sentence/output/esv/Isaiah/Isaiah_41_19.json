@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 41:19",
+  "version": "ESV",
+  "original_text": "I will put in the wilderness the cedar,\n    the acacia, the myrtle, and the olive.\nI will set in the desert the cypress,\n    the plane and the pine together,",
+  "korean_text": "내가 광야에는 백향목과 싯딤 나무와 화석류와 들감람나무를 심고 사막에는 잣나무와 소나무와 황양목을 함께 두리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will put in the wilderness the cedar,",
+      "korean_translation": "내가 광야에 백향목을 심겠고",
+      "word_indices": [
+        638
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the acacia, the myrtle, and the olive.",
+      "korean_translation": "아카시아나무, 화석류나무, 감람나무도",
+      "word_indices": [
+        755,
+        1210,
+        2788
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will set in the desert the cypress,",
+      "korean_translation": "내가 광야에 사시나무를 두겠으며",
+      "word_indices": [
+        560
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the plane and the pine together,",
+      "korean_translation": "버즘나무와 소나무를 함께 심겠다",
+      "word_indices": [
+        120,
+        2885,
+        3389
+      ]
+    }
+  ]
+}

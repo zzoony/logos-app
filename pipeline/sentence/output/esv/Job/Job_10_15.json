@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Job 10:15",
+  "version": "ESV",
+  "original_text": "If I am guilty, woe to me!\n    If I am in the right, I cannot lift up my head,\nfor I am filled with disgrace\n    and look on my affliction.",
+  "korean_text": "내가 악하면 화가 있을 것이오며 내가 의로울지라도 머리를 들지 못하는 것은 내 속에 부끄러움이 가득하고 내 환난을 내 눈이 보기 때문이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I am guilty",
+      "korean_translation": "내가 죄지었다면",
+      "word_indices": [
+        1022
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "woe to me!",
+      "korean_translation": "나에게 화가 미친다!",
+      "word_indices": [
+        485
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If I am in the right",
+      "korean_translation": "내가 의롭다면",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I cannot lift up my head",
+      "korean_translation": "나는 내 머리를 들 수 없다",
+      "word_indices": [
+        62,
+        200,
+        215
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for I am filled with disgrace",
+      "korean_translation": "내가 수치로 가득 차 있으니",
+      "word_indices": [
+        207,
+        1035
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and look on my affliction",
+      "korean_translation": "나는 내 고난을 바라봅니다",
+      "word_indices": [
+        91,
+        592
+      ]
+    }
+  ]
+}

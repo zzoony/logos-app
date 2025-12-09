@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 132:11",
+  "version": "ESV",
+  "original_text": "The Lord swore to David a sure oath\n    from which he will not turn back:\n“One of the sons of your body\n    I will set on your throne.",
+  "korean_text": "여호와께서 다윗에게 성실히 맹세하셨으니 변하지 아니하실지라 이르시기를 네 몸의 소생을 네 왕위에 둘지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord swore to David a sure oath",
+      "korean_translation": "주께서 다윗에게 확실한 맹세를 하셨으니",
+      "word_indices": [
+        571,
+        1027
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from which he will not turn back",
+      "korean_translation": "그것을 그가 뒤로 돌이키지 아니하리라",
+      "word_indices": [
+        45,
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "One of the sons of your body",
+      "korean_translation": "네 몸의 아들 중 하나를",
+      "word_indices": [
+        2,
+        150
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will set on your throne.",
+      "korean_translation": "내가 네 왕위에 세우리라.",
+      "word_indices": [
+        249
+      ]
+    }
+  ]
+}

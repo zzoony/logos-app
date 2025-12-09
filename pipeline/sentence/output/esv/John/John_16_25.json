@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 16:25",
+  "version": "ESV",
+  "original_text": "“I have said these things to you in figures of speech. The hour is coming when I will no longer speak to you in figures of speech but will tell you plainly about the Father.",
+  "korean_text": "이것을 비유로 너희에게 일렀거니와 때가 이르면 다시는 비유로 너희에게 이르지 않고 아버지에 대한 것을 밝히 이르리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have said these things to you in figures of speech.",
+      "korean_translation": "내가 너희에게 비유로 이것들을 말하였다.",
+      "word_indices": [
+        816
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The hour is coming",
+      "korean_translation": "때가 오고 있다",
+      "word_indices": [
+        467
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when I will no longer speak to you in figures of speech",
+      "korean_translation": "내가 더 이상 너희에게 비유로 말하지 않을 때",
+      "word_indices": [
+        18,
+        398,
+        816
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but will tell you plainly about the Father.",
+      "korean_translation": "아버지에 대하여 명백히 말해주겠다.",
+      "word_indices": [
+        9,
+        36,
+        2014
+      ]
+    }
+  ]
+}

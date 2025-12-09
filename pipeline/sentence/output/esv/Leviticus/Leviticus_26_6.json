@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Leviticus 26:6",
+  "version": "ESV",
+  "original_text": "I will give peace in the land, and you shall lie down, and none shall make you afraid. And I will remove harmful beasts from the land, and the sword shall not go through your land.",
+  "korean_text": "내가 그 땅에 평화를 줄 것인즉 너희가 누울 때 너희를 두렵게 할 자가 없을 것이며 내가 사나운 짐승을 그 땅에서 제할 것이요 칼이 너희의 땅에 두루 행하지 아니할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will give peace in the land",
+      "korean_translation": "내가 그 땅에 평안을 주리라",
+      "word_indices": [
+        5,
+        8,
+        105
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you shall lie down",
+      "korean_translation": "너희가 누우리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "none shall make you afraid",
+      "korean_translation": "너희를 두렵게 하는 자가 없으리라",
+      "word_indices": [
+        175,
+        286
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will remove harmful beasts from the land",
+      "korean_translation": "내가 그 땅에서 해로운 짐승을 제거하리라",
+      "word_indices": [
+        8,
+        185,
+        449,
+        2140
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the sword shall not go through your land",
+      "korean_translation": "칼이 너희 땅을 통과하지 못하리라",
+      "word_indices": [
+        8,
+        60,
+        74
+      ]
+    }
+  ]
+}

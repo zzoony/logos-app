@@ -1,0 +1,46 @@
+{
+  "verse_reference": "1 Corinthians 12:17",
+  "version": "ESV",
+  "original_text": "If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell?",
+  "korean_text": "만일 온 몸이 눈이면 듣는 곳은 어디며 온 몸이 듣는 곳이면 냄새 맡는 곳은 어디냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If the whole body were an eye",
+      "korean_translation": "만약 온 몸이 눈이라면",
+      "word_indices": [
+        50,
+        150,
+        151
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where would be the sense of hearing?",
+      "korean_translation": "청각은 어디에 있겠습니까?",
+      "word_indices": [
+        17,
+        1271
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the whole body were an ear",
+      "korean_translation": "만약 온 몸이 귀라면",
+      "word_indices": [
+        150,
+        151,
+        202
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "where would be the sense of smell?",
+      "korean_translation": "후각은 어디에 있겠습니까?",
+      "word_indices": [
+        1271,
+        1755
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 6:26",
+  "version": "ESV",
+  "original_text": "“Woe to you, when all people speak well of you, for so their fathers did to the false prophets.",
+  "korean_text": "모든 사람이 너희를 칭찬하면 화가 있도다 그들의 조상들이 거짓 선지자들에게 이와 같이 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe to you",
+      "korean_translation": "화 있을진저",
+      "word_indices": [
+        485
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when all people speak well of you",
+      "korean_translation": "모든 사람이 너희를 칭찬할 때에",
+      "word_indices": [
+        3,
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for so their fathers did to the false prophets",
+      "korean_translation": "이는 그들의 조상들이 거짓 선지자들에게 그렇게 하였음이라",
+      "word_indices": [
+        9,
+        71,
+        552
+      ]
+    }
+  ]
+}

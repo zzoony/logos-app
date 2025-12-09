@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 102:8",
+  "version": "ESV",
+  "original_text": "All the day my enemies taunt me;\n    those who deride me use my name for a curse.",
+  "korean_text": "내 원수들이 종일 나를 비방하며 내게 대항하여 미칠 듯이 날뛰는 자들이 나를 가리켜 맹세하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the day my enemies taunt me",
+      "korean_translation": "온종일 나의 원수들이 나를 조롱합니다",
+      "word_indices": [
+        122,
+        1194
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "those who deride me",
+      "korean_translation": "나를 비웃는 자들은",
+      "word_indices": [
+        2731
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "use my name for a curse.",
+      "korean_translation": "내 이름으로 저주를 삼습니다",
+      "word_indices": [
+        20,
+        241,
+        392
+      ]
+    }
+  ]
+}

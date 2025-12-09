@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 36:16",
+  "version": "ESV",
+  "original_text": "When they heard all the words, they turned one to another in fear. And they said to Baruch, “We must report all these words to the king.”",
+  "korean_text": "그들이 그 모든 말씀을 듣고 놀라 서로 보며 바룩에게 이르되 우리가 이 모든 말을 왕에게 아뢰리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they heard all the words",
+      "korean_translation": "그들이 그 모든 말을 들었을 때",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they turned one to another in fear",
+      "korean_translation": "그들은 두려워하며 서로를 돌아보았다",
+      "word_indices": [
+        45,
+        80
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And they said to Baruch",
+      "korean_translation": "그들이 바룩에게 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We must report all these words to the king",
+      "korean_translation": "우리는 이 모든 말을 왕에게 보고해야 합니다",
+      "word_indices": [
+        4,
+        15,
+        666
+      ]
+    }
+  ]
+}

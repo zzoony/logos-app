@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 8:6",
+  "version": "ESV",
+  "original_text": "And some fell on the rock, and as it grew up, it withered away, because it had no moisture.",
+  "korean_text": "더러는 바위 위에 떨어지매 싹이 났다가 습기가 없으므로 말랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And some fell on the rock",
+      "korean_translation": "그리고 어떤 씨는 바위 위에 떨어졌고",
+      "word_indices": [
+        212,
+        335
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and as it grew up",
+      "korean_translation": "그리고 자라면서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it withered away",
+      "korean_translation": "그것은 말라버렸습니다",
+      "word_indices": [
+        29,
+        872
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because it had no moisture",
+      "korean_translation": "왜냐하면 수분이 없었기 때문입니다",
+      "word_indices": [
+        4237
+      ]
+    }
+  ]
+}

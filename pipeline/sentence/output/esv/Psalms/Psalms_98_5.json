@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 98:5",
+  "version": "ESV",
+  "original_text": "Sing praises to the Lord with the lyre,\n    with the lyre and the sound of melody!",
+  "korean_text": "수금으로 여호와를 노래하라 수금과 음성으로 노래할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sing praises to the Lord with the lyre",
+      "korean_translation": "수금으로 주를 찬양하라",
+      "word_indices": [
+        284,
+        880
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with the lyre",
+      "korean_translation": "수금으로",
+      "word_indices": [
+        880
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the sound of melody!",
+      "korean_translation": "그리고 즐거운 소리로!",
+      "word_indices": [
+        291,
+        1975
+      ]
+    }
+  ]
+}

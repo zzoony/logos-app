@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Job 7:12",
+  "version": "ESV",
+  "original_text": "Am I the sea, or a sea monster,\n    that you set a guard over me?",
+  "korean_text": "내가 바다니이까 바다 괴물이니이까 주께서 어찌하여 나를 지키시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Am I the sea,",
+      "korean_translation": "내가 바다입니까,",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or a sea monster,",
+      "korean_translation": "또는 바다 괴물입니까,",
+      "word_indices": [
+        84,
+        3690
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you set a guard over me?",
+      "korean_translation": "당신이 나 위에 파수꾼을 세우셨습니까?",
+      "word_indices": [
+        287
+      ]
+    }
+  ]
+}

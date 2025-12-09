@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Samuel 2:4",
+  "version": "ESV",
+  "original_text": "And the men of Judah came, and there they anointed David king over the house of Judah.\nWhen they told David, “It was the men of Jabesh-gilead who buried Saul,”",
+  "korean_text": "유다 사람들이 와서 거기서 다윗에게 기름을 부어 유다 족속의 왕으로 삼았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the men of Judah came",
+      "korean_translation": "유다 사람들이 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there they anointed David king",
+      "korean_translation": "그리고 거기서 그들은 다윗에게 기름을 부어 왕으로 삼았다",
+      "word_indices": [
+        4,
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "over the house of Judah",
+      "korean_translation": "유다 집안을 다스리는",
+      "word_indices": [
+        7
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When they told David",
+      "korean_translation": "그들이 다윗에게 말했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "“It was the men of Jabesh-gilead",
+      "korean_translation": "‘사울을 장사 지낸 사람은 야베스 길르앗 사람들이었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who buried Saul,”",
+      "korean_translation": "고 합니다.’",
+      "word_indices": []
+    }
+  ]
+}

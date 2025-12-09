@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 27:7",
+  "version": "ESV",
+  "original_text": "One who is full loathes honey,\n    but to one who is hungry everything bitter is sweet.",
+  "korean_text": "배부른 자는 꿀이라도 싫어하고 주린 자에게는 쓴 것이라도 다니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One who is full loathes honey",
+      "korean_translation": "배부른 자는 꿀을 싫어하고",
+      "word_indices": [
+        165,
+        750,
+        5122
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but to one who is hungry",
+      "korean_translation": "주린 자에게는",
+      "word_indices": [
+        854
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "everything bitter is sweet",
+      "korean_translation": "쓴 것이 다 달다",
+      "word_indices": [
+        869,
+        989
+      ]
+    }
+  ]
+}

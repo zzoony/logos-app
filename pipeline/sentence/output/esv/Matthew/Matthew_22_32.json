@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 22:32",
+  "version": "ESV",
+  "original_text": "‘I am the God of Abraham, and the God of Isaac, and the God of Jacob’? He is not God of the dead, but of the living.”",
+  "korean_text": "나는 아브라함의 하나님이요 이삭의 하나님이요 야곱의 하나님이로라 하신 것을 읽어 보지 못하였느냐 하나님은 죽은 자의 하나님이 아니요 살아 있는 자의 하나님이시니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "‘I am the God of Abraham",
+      "korean_translation": "나는 아브라함의 하나님이라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the God of Isaac",
+      "korean_translation": "이삭의 하나님이라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the God of Jacob’?",
+      "korean_translation": "야곱의 하나님이냐?",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He is not God of the dead",
+      "korean_translation": "하나님은 죽은 자의 하나님이 아니요",
+      "word_indices": [
+        1,
+        141
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but of the living.”",
+      "korean_translation": "산 자의 하나님이시라",
+      "word_indices": []
+    }
+  ]
+}

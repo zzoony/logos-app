@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 60:5",
+  "version": "ESV",
+  "original_text": "That your beloved ones may be delivered,\n    give salvation by your right hand and answer us!",
+  "korean_text": "주께서 사랑하시는 자를 건지시기 위하여 주의 오른손으로 구원하시고 응답하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That your beloved ones may be delivered",
+      "korean_translation": "주께서 사랑하시는 자들이 구원을 받게 하시려고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "give salvation by your right hand",
+      "korean_translation": "주의 오른손으로 구원을 베푸시고",
+      "word_indices": [
+        5,
+        10,
+        88,
+        281
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and answer us!",
+      "korean_translation": "우리에게 응답하소서!",
+      "word_indices": [
+        54
+      ]
+    }
+  ]
+}

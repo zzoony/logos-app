@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Daniel 3:10",
+  "version": "ESV",
+  "original_text": "You, O king, have made a decree, that every man who hears the sound of the horn, pipe, lyre, trigon, harp, bagpipe, and every kind of music, shall fall down and worship the golden image.",
+  "korean_text": "왕이여 왕이 명령을 내리사 모든 사람이 나팔과 피리와 수금과 삼현금과 양금과 생황과 및 모든 악기 소리를 듣거든 엎드려 금 신상에게 절할 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You, O king,",
+      "korean_translation": "왕이시여,",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "have made a decree,",
+      "korean_translation": "칙령을 내리셨습니다,",
+      "word_indices": [
+        661
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that every man who hears the sound of the horn, pipe, lyre, trigon, harp,",
+      "korean_translation": "나팔, 피리, 수금, 삼현금, 하프 소리를 듣는 사람은",
+      "word_indices": [
+        6,
+        17,
+        291,
+        443,
+        880,
+        1046,
+        2102,
+        3428
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bagpipe, and every kind of music, shall fall down",
+      "korean_translation": "백파이프와 모든 종류의 음악 소리를 들으면 엎드려야 하고",
+      "word_indices": [
+        100,
+        397,
+        1476,
+        3429
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and worship the golden image.",
+      "korean_translation": "금 신상에게 경배해야 합니다.",
+      "word_indices": [
+        271,
+        387,
+        589
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Acts 20:22",
+  "version": "ESV",
+  "original_text": "And now, behold, I am going to Jerusalem, constrained by the Spirit, not knowing what will happen to me there,",
+  "korean_text": "보라 이제 나는 성령에 매여 예루살렘으로 가는데 거기서 무슨 일을 당할는지 알지 못하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And now,",
+      "korean_translation": "그리고 이제는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am going to Jerusalem,",
+      "korean_translation": "내가 예루살렘으로 가는데,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "constrained by the Spirit,",
+      "korean_translation": "성령에 매여서,",
+      "word_indices": [
+        55,
+        4230
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "not knowing what will happen to me there,",
+      "korean_translation": "거기서 내게 무슨 일이 일어날지 모르고,",
+      "word_indices": [
+        13,
+        464
+      ]
+    }
+  ]
+}

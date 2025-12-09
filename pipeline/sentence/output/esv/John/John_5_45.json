@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 5:45",
+  "version": "ESV",
+  "original_text": "Do not think that I will accuse you to the Father. There is one who accuses you: Moses, on whom you have set your hope.",
+  "korean_text": "내가 너희를 아버지께 고발할까 생각하지 말라 너희를 고발하는 이가 있으니 곧 너희가 바라는 자 모세니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not think that I will accuse you to the Father.",
+      "korean_translation": "내가 너희를 아버지께 고발할 것이라고 생각하지 말라.",
+      "word_indices": [
+        9,
+        334,
+        1192
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There is one who accuses you",
+      "korean_translation": "너희를 고발하는 자가 있으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Moses",
+      "korean_translation": "모세니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on whom you have set your hope.",
+      "korean_translation": "너희가 소망을 둔 자",
+      "word_indices": [
+        311
+      ]
+    }
+  ]
+}

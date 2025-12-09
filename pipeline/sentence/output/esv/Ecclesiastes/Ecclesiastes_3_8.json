@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ecclesiastes 3:8",
+  "version": "ESV",
+  "original_text": "a time to love, and a time to hate;\na time for war, and a time for peace.",
+  "korean_text": "사랑할 때가 있고 미워할 때가 있으며 전쟁할 때가 있고 평화할 때가 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "a time to love",
+      "korean_translation": "사랑할 때",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a time to hate",
+      "korean_translation": "미워할 때",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a time for war",
+      "korean_translation": "전쟁할 때",
+      "word_indices": [
+        204
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a time for peace",
+      "korean_translation": "화평할 때",
+      "word_indices": [
+        105
+      ]
+    }
+  ]
+}

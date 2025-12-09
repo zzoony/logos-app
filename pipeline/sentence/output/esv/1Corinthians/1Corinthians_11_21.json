@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Corinthians 11:21",
+  "version": "ESV",
+  "original_text": "For in eating, each one goes ahead with his own meal. One goes hungry, another gets drunk.",
+  "korean_text": "이는 먹을 때에 각각 자기의 만찬을 먼저 갖다 먹으므로 어떤 사람은 시장하고 어떤 사람은 취함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For in eating,",
+      "korean_translation": "먹을 때에는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "each one goes ahead with his own meal.",
+      "korean_translation": "제각기 자기 음식을 먹습니다.",
+      "word_indices": [
+        1155,
+        2741
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "One goes hungry,",
+      "korean_translation": "한 사람은 굶고,",
+      "word_indices": [
+        854
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "another gets drunk.",
+      "korean_translation": "다른 사람은 취합니다.",
+      "word_indices": []
+    }
+  ]
+}

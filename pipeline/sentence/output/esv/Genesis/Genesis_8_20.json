@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 8:20",
+  "version": "ESV",
+  "original_text": "Then Noah built an altar to the Lord and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar.",
+  "korean_text": "노아가 여호와께 제단을 쌓고 모든 정결한 짐승과 모든 정결한 새 중에서 제물을 취하여 번제로 제단에 드렸더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Noah built an altar to the Lord",
+      "korean_translation": "그때 노아는 주께 제단을 쌓고",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and took some of every clean animal",
+      "korean_translation": "모든 정한 짐승 중에서 몇을 가져오고",
+      "word_indices": [
+        381,
+        601
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and some of every clean bird",
+      "korean_translation": "모든 정한 새 중에서 몇을 가져와",
+      "word_indices": [
+        356,
+        381
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and offered burnt offerings on the altar",
+      "korean_translation": "제단 위에서 번제를 드렸습니다",
+      "word_indices": [
+        19,
+        75,
+        110
+      ]
+    }
+  ]
+}

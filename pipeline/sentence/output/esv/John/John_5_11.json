@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 5:11",
+  "version": "ESV",
+  "original_text": "But he answered them, “The man who healed me, that man said to me, ‘Take up your bed, and walk.’”",
+  "korean_text": "대답하되 나를 낫게 한 그가 자리를 들고 걸어가라 하더라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But he answered them,",
+      "korean_translation": "그러나 그가 그들에게 대답하였으니,",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The man who healed me,",
+      "korean_translation": "나를 고치신 그 사람은,",
+      "word_indices": [
+        6,
+        325
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that man said to me,",
+      "korean_translation": "그 사람이 내게 말하였으되,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "‘Take up your bed,",
+      "korean_translation": "‘네 침상을 들고,",
+      "word_indices": [
+        477
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and walk.’”",
+      "korean_translation": "걸어가라.’ 하시더라.",
+      "word_indices": [
+        111
+      ]
+    }
+  ]
+}

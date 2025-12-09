@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 6:2",
+  "version": "ESV",
+  "original_text": "Be gracious to me, O Lord, for I am languishing;\n    heal me, O Lord, for my bones are troubled.",
+  "korean_text": "여호와여 내가 수척하였사오니 내게 은혜를 베푸소서 여호와여 나의 뼈가 떨리오니 나를 고치소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Be gracious to me, O Lord,",
+      "korean_translation": "주여, 내게 은혜를 베풀어 주소���.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I am languishing;",
+      "korean_translation": "내가 쇠약하오니",
+      "word_indices": [
+        1593
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "heal me, O Lord,",
+      "korean_translation": "주여, 나를 고쳐 주소서.",
+      "word_indices": [
+        325
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for my bones are troubled.",
+      "korean_translation": "내 뼈들이 곤고하오니",
+      "word_indices": []
+    }
+  ]
+}

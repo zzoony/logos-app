@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 1:6",
+  "version": "ESV",
+  "original_text": "and Jesse the father of David the king.\nAnd David was the father of Solomon by the wife of Uriah,",
+  "korean_text": "이새는 다윗 왕을 낳으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and Jesse the father of David the king.",
+      "korean_translation": "그리고 이새는 다윗 왕의 아버지라",
+      "word_indices": [
+        4,
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And David was the father of Solomon",
+      "korean_translation": "다윗은 솔로몬의 아버지였고",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the wife of Uriah,",
+      "korean_translation": "우리아의 아내에게서 낳았으니라",
+      "word_indices": [
+        68
+      ]
+    }
+  ]
+}

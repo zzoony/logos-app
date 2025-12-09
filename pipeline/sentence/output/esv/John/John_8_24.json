@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 8:24",
+  "version": "ESV",
+  "original_text": "I told you that you would die in your sins, for unless you believe that I am he you will die in your sins.”",
+  "korean_text": "그러므로 내가 너희에게 말하기를 너희가 너희 죄 가운데서 죽으리라 하였노라 너희가 만일 내가 그인 줄 믿지 아니하면 너희 죄 가운데서 죽으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I told you",
+      "korean_translation": "내가 너희에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you would die in your sins,",
+      "korean_translation": "너희가 너희 죄 가운데서 죽으리라고",
+      "word_indices": [
+        34,
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for unless you believe that I am he",
+      "korean_translation": "내가 그인 줄 너희가 믿지 않으면",
+      "word_indices": [
+        190
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you will die in your sins.”",
+      "korean_translation": "너희가 너희 죄 가운데서 죽으리라.”",
+      "word_indices": [
+        34,
+        57
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 5:39",
+  "version": "ESV",
+  "original_text": "And no one after drinking old wine desires new, for he says, ‘The old is good.’”",
+  "korean_text": "묵은 포도주를 마시고 새 것을 원하는 자가 없나니 이는 묵은 것이 좋다 함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And no one after drinking old wine desires new",
+      "korean_translation": "묵은 포도주를 마신 사람은 새 것을 원하지 않고,",
+      "word_indices": [
+        70,
+        194
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for he says",
+      "korean_translation": "이는 그가 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "‘The old is good.’",
+      "korean_translation": "‘묵은 것이 좋다.’",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

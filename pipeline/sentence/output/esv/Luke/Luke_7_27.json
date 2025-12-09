@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Luke 7:27",
+  "version": "ESV",
+  "original_text": "This is he of whom it is written,\n“‘Behold, I send my messenger before your face,\n    who will prepare your way before you.’",
+  "korean_text": "기록된 바 보라 내가 내 사자를 네 앞에 보내노니 그가 네 앞에서 네 길을 준비하리라 한 것이 이 사람에 대한 말씀이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is he",
+      "korean_translation": "이 사람이 바로 그니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of whom it is written,",
+      "korean_translation": "그에 대해 기록된 말씀은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I send my messenger",
+      "korean_translation": "내가 내 사자를 보내노라",
+      "word_indices": [
+        24,
+        414
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before your face,",
+      "korean_translation": "네 앞에",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who will prepare your way",
+      "korean_translation": "그가 네 길을 준비하리라",
+      "word_indices": [
+        304
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "before you.’",
+      "korean_translation": "네 앞에서.'",
+      "word_indices": []
+    }
+  ]
+}

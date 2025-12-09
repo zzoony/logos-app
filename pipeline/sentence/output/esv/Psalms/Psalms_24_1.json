@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 24:1",
+  "version": "ESV",
+  "original_text": "The earth is the Lord's and the fullness thereof,\n    the world and those who dwell therein,",
+  "korean_text": "땅과 거기에 충만한 것과 세계와 그 가운데에 사는 자들은 다 여호와의 것이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The earth is the Lord's",
+      "korean_translation": "땅은 주의 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and everything in it",
+      "korean_translation": "그 안에 가득한 모든 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the world is the Lord's",
+      "korean_translation": "세상도 주의 것입니다",
+      "word_indices": [
+        183
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all who live in it",
+      "korean_translation": "그 안에 거하는 모든 사람",
+      "word_indices": [
+        33
+      ]
+    }
+  ]
+}

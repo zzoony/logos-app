@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Samuel 1:16",
+  "version": "ESV",
+  "original_text": "And David said to him, “Your blood be on your head, for your own mouth has testified against you, saying, ‘I have killed the Lord's anointed.’”",
+  "korean_text": "다윗이 그에게 이르기를 네 피가 네 머리로 돌아갈지어다 네 입이 네게 대하여 증언하기를 내가 여호와의 기름 부음 받은 자를 죽였노라 함이니라 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And David said to him,",
+      "korean_translation": "다윗이 그에게 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your blood be on your head,",
+      "korean_translation": "네 피가 네 머리로 돌아갈지니라,",
+      "word_indices": [
+        62,
+        83
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for your own mouth has testified against you,",
+      "korean_translation": "이는 네 입이 너를 반증하였음이니,",
+      "word_indices": [
+        12,
+        95
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "saying, ‘I have killed the Lord's anointed.’”",
+      "korean_translation": "말하기를 ‘내가 여호와의 기름 부음 받은 자를 죽였다’ 함이라.”",
+      "word_indices": [
+        92,
+        301
+      ]
+    }
+  ]
+}

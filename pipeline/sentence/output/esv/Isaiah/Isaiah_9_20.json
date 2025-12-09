@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 9:20",
+  "version": "ESV",
+  "original_text": "They slice meat on the right, but are still hungry,\n    and they devour on the left, but are not satisfied;\neach devours the flesh of his own arm,",
+  "korean_text": "오른쪽으로 움킬지라도 주리고 왼쪽으로 먹을지라도 배부르지 못하여 각각 자기 팔의 고기를 먹을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They slice meat on the right",
+      "korean_translation": "그들은 오른쪽에서 고기를 썬다",
+      "word_indices": [
+        88,
+        852,
+        5332
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but are still hungry",
+      "korean_translation": "하지만 여전히 배고프다",
+      "word_indices": [
+        854
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they devour on the left",
+      "korean_translation": "그리고 그들은 왼쪽에서 탐식한다",
+      "word_indices": [
+        371
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but are not satisfied",
+      "korean_translation": "하지만 만족하지 못한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "each devours the flesh of his own arm",
+      "korean_translation": "각자는 자기 팔의 살을 탐식한다",
+      "word_indices": [
+        136,
+        347,
+        371
+      ]
+    }
+  ]
+}

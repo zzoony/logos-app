@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 62:11",
+  "version": "ESV",
+  "original_text": "Once God has spoken;\n    twice have I heard this:\nthat power belongs to God,",
+  "korean_text": "하나님이 한두 번 하신 말씀을 내가 들었나니 권능은 하나님께 속하였다 하셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Once God has spoken;",
+      "korean_translation": "하나님이 한 번 말씀하셨다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "twice have I heard this:",
+      "korean_translation": "나는 이것을 두 번 들었다",
+      "word_indices": [
+        1345
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that power belongs to God,",
+      "korean_translation": "권능은 하나님께 속한다",
+      "word_indices": [
+        1,
+        187,
+        296
+      ]
+    }
+  ]
+}

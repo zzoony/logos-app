@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Psalms 148:9",
+  "version": "ESV",
+  "original_text": "Mountains and all hills,\n    fruit trees and all cedars!",
+  "korean_text": "산들과 모든 작은 산과 과수와 모든 백향목이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mountains and all hills",
+      "korean_translation": "산들과 모든 언덕들아",
+      "word_indices": [
+        123,
+        216
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "fruit trees and all cedars!",
+      "korean_translation": "모든 과실 나무와 백향목들아",
+      "word_indices": [
+        203,
+        638
+      ]
+    }
+  ]
+}

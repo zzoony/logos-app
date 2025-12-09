@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Zephaniah 1:10",
+  "version": "ESV",
+  "original_text": "“On that day,” declares the Lord,\n    “a cry will be heard from the Fish Gate,\na wail from the Second Quarter,\n    a loud crash from the hills.",
+  "korean_text": "나 여호와가 말하노라 그 날에 어문에서는 부르짖는 소리가, 제 이 구역에서는 울음 소리가, 작은 산들에서는 무너지는 소리가 일어나리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On that day,",
+      "korean_translation": "그 날에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "declares the Lord,",
+      "korean_translation": "주께서 말씀하시기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a cry will be heard from the Fish Gate,",
+      "korean_translation": "물고기 문에서 부르짖는 소리가 들리고,",
+      "word_indices": [
+        98,
+        114,
+        681
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a wail from the Second Quarter,",
+      "korean_translation": "제2 구역에서 통곡하는 소리가 들리며,",
+      "word_indices": [
+        889,
+        1718
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a loud crash from the hills.",
+      "korean_translation": "언덕들에서는 큰 무너지는 소리가 날 것이다.",
+      "word_indices": [
+        216,
+        580,
+        2444
+      ]
+    }
+  ]
+}

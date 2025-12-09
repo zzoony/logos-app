@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Samuel 15:24",
+  "version": "ESV",
+  "original_text": "Saul said to Samuel, “I have sinned, for I have transgressed the commandment of the Lord and your words, because I feared the people and obeyed their voice.",
+  "korean_text": "사울이 사무엘에게 이르되 내가 범죄하였나이다 내가 여호와의 명령과 당신의 말씀을 어긴 것은 내가 백성을 두려워하여 그들의 말을 청종하였음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Saul said to Samuel",
+      "korean_translation": "사울이 사무엘에게 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have sinned",
+      "korean_translation": "내가 죄를 지었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I have transgressed the commandment of the Lord and your words",
+      "korean_translation": "내가 주의 명령과 당신의 말씀을 어겼기 때문입니다.",
+      "word_indices": [
+        15,
+        189,
+        1190
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I feared the people",
+      "korean_translation": "내가 백성을 두려워했기 때문에",
+      "word_indices": [
+        3,
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and obeyed their voice.",
+      "korean_translation": "그리고 그들의 목소리를 순종했습니다.",
+      "word_indices": [
+        86,
+        285
+      ]
+    }
+  ]
+}

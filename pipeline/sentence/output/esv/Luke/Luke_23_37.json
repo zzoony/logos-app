@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 23:37",
+  "version": "ESV",
+  "original_text": "and saying, “If you are the King of the Jews, save yourself!”",
+  "korean_text": "이르되 네가 만일 유대인의 왕이면 네가 너를 구원하라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and saying,",
+      "korean_translation": "그리고 말하며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If you are the King of the Jews,",
+      "korean_translation": "네가 유대인의 왕이면,",
+      "word_indices": [
+        4,
+        180
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "save yourself!",
+      "korean_translation": "네 자신을 구원하라!",
+      "word_indices": [
+        145
+      ]
+    }
+  ]
+}

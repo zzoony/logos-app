@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Matthew 8:13",
+  "version": "ESV",
+  "original_text": "And to the centurion Jesus said, “Go; let it be done for you as you have believed.” And the servant was healed at that very moment.",
+  "korean_text": "예수께서 백부장에게 이르시되 가라 네 믿은 대로 될지어다 하시니 그 즉시 하인이 나으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And to the centurion Jesus said",
+      "korean_translation": "예수께서 백부장에게 말씀하시되,",
+      "word_indices": [
+        1336
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go",
+      "korean_translation": "가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let it be done for you as you have believed",
+      "korean_translation": "네가 믿은 대로 될지어다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And the servant was healed",
+      "korean_translation": "그 종이 나았고",
+      "word_indices": [
+        22,
+        325
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "at that very moment",
+      "korean_translation": "그 시각에",
+      "word_indices": [
+        1186
+      ]
+    }
+  ]
+}

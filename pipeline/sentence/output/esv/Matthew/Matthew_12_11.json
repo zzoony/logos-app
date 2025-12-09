@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 12:11",
+  "version": "ESV",
+  "original_text": "He said to them, “Which one of you who has a sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out?",
+  "korean_text": "예수께서 이르시되 너희 중에 어떤 사람이 양 한 마리가 있어 안식일에 구덩이에 빠졌으면 끌어내지 않겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to them,",
+      "korean_translation": "그가 그들에게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Which one of you who has a sheep,",
+      "korean_translation": "너희 중에 양을 가진 자가 누구냐,",
+      "word_indices": [
+        235
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if it falls into a pit on the Sabbath,",
+      "korean_translation": "안식일에 그것이 구덩이에 빠지면,",
+      "word_indices": [
+        100,
+        290,
+        491
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will not take hold of it and lift it out?”",
+      "korean_translation": "그것을 붙들어 끌어내지 않겠느냐?”",
+      "word_indices": [
+        184,
+        200
+      ]
+    }
+  ]
+}

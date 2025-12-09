@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Mark 2:7",
+  "version": "ESV",
+  "original_text": "“Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?”",
+  "korean_text": "이 사람이 어찌 이렇게 말하는가 신성 모독이로다 오직 하나님 한 분 외에는 누가 능히 죄를 사하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why does this man speak like that?",
+      "korean_translation": "이 사람이 어째서 그렇게 말합니까?",
+      "word_indices": [
+        6,
+        14,
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He is blaspheming!",
+      "korean_translation": "그는 신성모독을 하고 있소!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Who can forgive sins but God alone?",
+      "korean_translation": "하나님 외에 누가 죄를 사하겠느냐?",
+      "word_indices": [
+        1,
+        34,
+        367,
+        416
+      ]
+    }
+  ]
+}

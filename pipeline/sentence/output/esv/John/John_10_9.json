@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 10:9",
+  "version": "ESV",
+  "original_text": "I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.",
+  "korean_text": "내가 문이니 누구든지 나로 말미암아 들어가면 구원을 받고 또는 들어가며 나오며 꼴을 얻으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the door.",
+      "korean_translation": "나는 문이니라.",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If anyone enters by me,",
+      "korean_translation": "만일 누구든지 나로 말미암아 들어오면,",
+      "word_indices": [
+        125,
+        181
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he will be saved",
+      "korean_translation": "그는 구원을 받을 것이요,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and will go in and out",
+      "korean_translation": "들어오고 나가게 될 것이요,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and find pasture.",
+      "korean_translation": "초장을 얻으리라.",
+      "word_indices": [
+        56,
+        736
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 6:14",
+  "version": "ESV",
+  "original_text": "Make yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch.",
+  "korean_text": "너는 고페르 나무로 너를 위하여 방주를 만들되 그 안에 칸들을 막고 역청을 그 안팎에 칠하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Make yourself an ark of gopher wood.",
+      "korean_translation": "너를 위해 고페르 나무 방주를 만들어라.",
+      "word_indices": [
+        205,
+        404,
+        4618
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Make rooms in the ark",
+      "korean_translation": "방주 안에 여러 칸을 만들라.",
+      "word_indices": [
+        205,
+        791
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cover it inside and out with pitch.",
+      "korean_translation": "안팎을 역청으로 칠하라.",
+      "word_indices": [
+        208,
+        936,
+        1303
+      ]
+    }
+  ]
+}

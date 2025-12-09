@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 20:6",
+  "version": "ESV",
+  "original_text": "Then Simon Peter came, following him, and went into the tomb. He saw the linen cloths lying there,",
+  "korean_text": "시몬 베드로는 따라와서 무덤에 들어가 보니 세마포가 놓였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Simon Peter came, following him,",
+      "korean_translation": "그때 시몬 베드로가 그를 따라 와서",
+      "word_indices": [
+        155
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and went into the tomb.",
+      "korean_translation": "무덤에 들어갔습니다",
+      "word_indices": [
+        510
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He saw the linen cloths lying there,",
+      "korean_translation": "그는 거기에 놓인 세마포를 보았습니다",
+      "word_indices": [
+        454,
+        1187
+      ]
+    }
+  ]
+}

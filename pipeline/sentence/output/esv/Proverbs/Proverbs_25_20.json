@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Proverbs 25:20",
+  "version": "ESV",
+  "original_text": "Whoever sings songs to a heavy heart\n    is like one who takes off a garment on a cold day,\n    and like vinegar on soda.",
+  "korean_text": "마음이 상한 자에게 노래하는 것은 추운 날에 옷을 벗음 같고 소다 위에 식초를 부음 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever sings songs to a heavy heart",
+      "korean_translation": "마음이 무거운 사람에게 노래를 부르는 자는",
+      "word_indices": [
+        26,
+        117,
+        284,
+        539,
+        900
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is like one who takes off a garment",
+      "korean_translation": "옷을 벗는 사람과 같으며",
+      "word_indices": [
+        14,
+        218
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on a cold day",
+      "korean_translation": "추운 날에",
+      "word_indices": [
+        1487
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and like vinegar on soda.",
+      "korean_translation": "소다에 식초를 부은 것과 같다",
+      "word_indices": [
+        14,
+        3542,
+        5268
+      ]
+    }
+  ]
+}

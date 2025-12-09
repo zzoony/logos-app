@@ -1,0 +1,35 @@
+{
+  "verse_reference": "2 Kings 6:7",
+  "version": "ESV",
+  "original_text": "And he said, “Take it up.” So he reached out his hand and took it.",
+  "korean_text": "이르되 너는 그것을 집으라 하니 그 사람이 손을 내밀어 그것을 집으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said,",
+      "korean_translation": "그가 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Take it up.”",
+      "korean_translation": "그것을 들어라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So he reached out his hand",
+      "korean_translation": "그래서 그는 손을 뻗었고,",
+      "word_indices": [
+        10,
+        609
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and took it.",
+      "korean_translation": "그것을 집었다.",
+      "word_indices": []
+    }
+  ]
+}

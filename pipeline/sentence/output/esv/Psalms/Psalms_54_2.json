@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 54:2",
+  "version": "ESV",
+  "original_text": "O God, hear my prayer;\n    give ear to the words of my mouth.",
+  "korean_text": "하나님이여 내 기도를 들으시며 내 입의 말에 귀를 기울이소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O God,",
+      "korean_translation": "하나님이시여,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "hear my prayer;",
+      "korean_translation": "나의 기도를 들으소서",
+      "word_indices": [
+        17,
+        364
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "give ear to the words of my mouth.",
+      "korean_translation": "내 입의 말에 귀를 기울이소서.",
+      "word_indices": [
+        5,
+        15,
+        95,
+        202
+      ]
+    }
+  ]
+}

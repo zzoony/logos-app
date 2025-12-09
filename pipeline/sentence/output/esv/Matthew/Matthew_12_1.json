@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 12:1",
+  "version": "ESV",
+  "original_text": "At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry, and they began to pluck heads of grain and to eat.",
+  "korean_text": "그 때에 예수께서 안식일에 밀밭 사이로 가실새 제자들이 시장하여 이삭을 잘라 먹으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At that time Jesus went through the grainfields on the Sabbath.",
+      "korean_translation": "그때 예수님은 안식일에 곡식 밭을 지나가셨습니다.",
+      "word_indices": [
+        60,
+        290,
+        3834
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "His disciples were hungry",
+      "korean_translation": "그의 제자들이 시장했고,",
+      "word_indices": [
+        854
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they began to pluck heads of grain and to eat.",
+      "korean_translation": "그들은 이삭을 뜯어먹기 시작했습니다.",
+      "word_indices": [
+        62,
+        176,
+        1150
+      ]
+    }
+  ]
+}

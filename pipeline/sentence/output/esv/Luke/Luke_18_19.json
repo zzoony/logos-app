@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 18:19",
+  "version": "ESV",
+  "original_text": "And Jesus said to him, “Why do you call me good? No one is good except God alone.",
+  "korean_text": "예수께서 이르시되 네가 어찌하여 나를 선하다 일컫느냐 하나님 한 분 외에는 선한 이가 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said to him",
+      "korean_translation": "예수께서 그에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why do you call me good?",
+      "korean_translation": "어찌하여 나를 선하다 하느냐?",
+      "word_indices": [
+        31,
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "No one is good",
+      "korean_translation": "선한 이는 없으니",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "except God alone.",
+      "korean_translation": "하나님뿐이니라",
+      "word_indices": [
+        1,
+        367,
+        524
+      ]
+    }
+  ]
+}

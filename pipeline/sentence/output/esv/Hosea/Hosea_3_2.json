@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Hosea 3:2",
+  "version": "ESV",
+  "original_text": "So I bought her for fifteen shekels of silver and a homer and a lethech of barley.",
+  "korean_text": "내가 은 열다섯 개와 보리 한 호멜 반으로 나를 위하여 그를 사고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So I bought her",
+      "korean_translation": "그래서 내가 그녀를 샀다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for fifteen shekels of silver",
+      "korean_translation": "열다섯 은 세겔로",
+      "word_indices": [
+        135,
+        350,
+        1578
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a homer",
+      "korean_translation": "그리고 한 호메르",
+      "word_indices": [
+        2143
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a lethech of barley",
+      "korean_translation": "그리고 보리 한 레텍",
+      "word_indices": [
+        1038,
+        5543
+      ]
+    }
+  ]
+}

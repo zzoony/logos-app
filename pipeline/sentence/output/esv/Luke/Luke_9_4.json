@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 9:4",
+  "version": "ESV",
+  "original_text": "And whatever house you enter, stay there, and from there depart.",
+  "korean_text": "어느 집에 들어가든지 거기서 머물다가 거기서 떠나라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And whatever house you enter",
+      "korean_translation": "그리고 너희가 어떤 집에 들어가든지",
+      "word_indices": [
+        7,
+        125,
+        298
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "stay there",
+      "korean_translation": "그곳에 머물러라",
+      "word_indices": [
+        421
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and from there depart",
+      "korean_translation": "그리고 그곳에서 떠나라",
+      "word_indices": [
+        266
+      ]
+    }
+  ]
+}

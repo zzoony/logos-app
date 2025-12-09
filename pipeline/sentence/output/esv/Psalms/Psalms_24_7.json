@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 24:7",
+  "version": "ESV",
+  "original_text": "Lift up your heads, O gates!\n    And be lifted up, O ancient doors,\n    that the King of glory may come in.",
+  "korean_text": "문들아 너희 머리를 들지어다 영원한 문들아 들릴지어다 영광의 왕이 들어가시리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lift up your heads, O gates!",
+      "korean_translation": "문들아, 너희 머리를 들라!",
+      "word_indices": [
+        62,
+        200
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And be lifted up, O ancient doors,",
+      "korean_translation": "영원한 문들아, 들릴지어다,",
+      "word_indices": [
+        200,
+        295,
+        1233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the King of glory may come in.",
+      "korean_translation": "영광의 왕이 들어오게 하려 함이라.",
+      "word_indices": [
+        4,
+        112
+      ]
+    }
+  ]
+}

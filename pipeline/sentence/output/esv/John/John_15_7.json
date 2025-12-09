@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 15:7",
+  "version": "ESV",
+  "original_text": "If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you.",
+  "korean_text": "너희가 내 안에 거하고 내 말이 너희 안에 거하면 무엇이든지 원하는 대로 구하라 그리하면 이루리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you abide in me,",
+      "korean_translation": "너희가 내 안에 거하면,",
+      "word_indices": [
+        732
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and my words abide in you,",
+      "korean_translation": "내 말도 너희 안에 거하면,",
+      "word_indices": [
+        15,
+        732
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ask whatever you wish,",
+      "korean_translation": "무엇이든지 구하라,",
+      "word_indices": [
+        126,
+        298,
+        799
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it will be done for you.",
+      "korean_translation": "그리하면 이루어질 것이다.",
+      "word_indices": []
+    }
+  ]
+}

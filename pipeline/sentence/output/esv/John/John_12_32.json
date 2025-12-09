@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 12:32",
+  "version": "ESV",
+  "original_text": "And I, when I am lifted up from the earth, will draw all people to myself.”",
+  "korean_text": "내가 땅에서 들리면 모든 사람을 내게로 이끌겠노라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I",
+      "korean_translation": "그리고 나는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I am lifted up from the earth",
+      "korean_translation": "내가 땅에서 들려 올려질 때",
+      "word_indices": [
+        200
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will draw all people to myself",
+      "korean_translation": "모든 사람을 내게로 이끌겠다",
+      "word_indices": [
+        3,
+        220
+      ]
+    }
+  ]
+}

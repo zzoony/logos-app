@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Matthew 7:25",
+  "version": "ESV",
+  "original_text": "And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.",
+  "korean_text": "비가 내리고 창수가 나고 바람이 불어 그 집에 부딪치되 무너지지 아니하나니 이는 주추를 반석 위에 놓은 까닭이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the rain fell",
+      "korean_translation": "비가 내렸고",
+      "word_indices": [
+        212,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the floods came",
+      "korean_translation": "홍수가 나고",
+      "word_indices": [
+        937
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the winds blew",
+      "korean_translation": "바람이 불고",
+      "word_indices": [
+        259
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and beat on that house",
+      "korean_translation": "그 집을 부딪혔으나",
+      "word_indices": [
+        7,
+        525
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but it did not fall",
+      "korean_translation": "무너지지 않았으니",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because it had been founded on the rock",
+      "korean_translation": "그것은 반석 위에 세워졌기 때문이다",
+      "word_indices": [
+        335,
+        1942
+      ]
+    }
+  ]
+}

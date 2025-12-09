@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Acts 8:26",
+  "version": "ESV",
+  "original_text": "Now an angel of the Lord said to Philip, “Rise and go toward the south to the road that goes down from Jerusalem to Gaza.” This is a desert place.",
+  "korean_text": "주의 사자가 빌립에게 말하여 이르되 일어나서 남쪽으로 향하여 예루살렘에서 가사로 내려가는 길까지 가라 하니 그 길은 광야라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now an angel of the Lord said to Philip,",
+      "korean_translation": "주의 천사가 빌립에게 말했다,",
+      "word_indices": [
+        146
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Rise and go toward the south",
+      "korean_translation": "일어나 남쪽으로 가라",
+      "word_indices": [
+        94,
+        213,
+        410
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the road that goes down from Jerusalem to Gaza.",
+      "korean_translation": "예루살렘에서 가사로 내려가는 길로.",
+      "word_indices": [
+        786
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This is a desert place.",
+      "korean_translation": "이곳은 광야이다.",
+      "word_indices": [
+        21,
+        560
+      ]
+    }
+  ]
+}

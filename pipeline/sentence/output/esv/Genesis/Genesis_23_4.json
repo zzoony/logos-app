@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 23:4",
+  "version": "ESV",
+  "original_text": "“I am a sojourner and foreigner among you; give me property among you for a burying place, that I may bury my dead out of my sight.”",
+  "korean_text": "나는 당신들 중에 나그네요 거류하는 자이니 당신들 중에서 내게 매장할 소유지를 주어 내가 나의 죽은 자를 내 앞에서 내어다가 장사하게 하시오",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am a sojourner and foreigner among you",
+      "korean_translation": "나는 당신들 중에 거류하는 이방인입니다",
+      "word_indices": [
+        27,
+        610,
+        722
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "give me property among you for a burying place",
+      "korean_translation": "저에게 장사 지낼 곳으로 쓸 땅을 주십시오",
+      "word_indices": [
+        5,
+        21,
+        27,
+        322,
+        954
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I may bury my dead out of my sight",
+      "korean_translation": "그리하여 내 죽은 자를 내 눈앞에서 장사 지내게 하십시오",
+      "word_indices": [
+        141,
+        148,
+        322
+      ]
+    }
+  ]
+}

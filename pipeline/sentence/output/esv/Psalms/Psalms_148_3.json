@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 148:3",
+  "version": "ESV",
+  "original_text": "Praise him, sun and moon,\n    praise him, all you shining stars!",
+  "korean_text": "해와 달아 그를 찬양하며 밝은 별들아 다 그를 찬양할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise him,",
+      "korean_translation": "그를 찬양하라,",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sun and moon,",
+      "korean_translation": "해와 달이여,",
+      "word_indices": [
+        321,
+        646
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "praise him,",
+      "korean_translation": "그를 찬양하라,",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all you shining stars!",
+      "korean_translation": "빛나는 별들이여,",
+      "word_indices": [
+        641,
+        1851
+      ]
+    }
+  ]
+}

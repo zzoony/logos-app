@@ -1,0 +1,70 @@
+{
+  "verse_reference": "Genesis 3:17",
+  "version": "ESV",
+  "original_text": "And to Adam he said,\n“Because you have listened to the voice of your wife\n    and have eaten of the tree\nof which I commanded you,\n    ‘You shall not eat of it,’\ncursed is the ground because of you;\n    in pain you shall eat of it all the days of your life;",
+  "korean_text": "아담에게 이르시되 네가 네 아내의 말을 듣고 내가 네게 먹지 말라 한 나무의 열매를 먹었은즉 땅은 너로 말미암아 저주를 받고 너는 네 평생에 수고하여야 그 소산을 먹으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And to Adam he said,",
+      "korean_translation": "그가 아담에게 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because you have listened to the voice of your wife",
+      "korean_translation": "네가 네 아내의 목소리를 들었기 때문에",
+      "word_indices": [
+        68,
+        86,
+        159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and have eaten of the tree",
+      "korean_translation": "그리고 그 나무를 먹었기 때문에",
+      "word_indices": [
+        143
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of which I commanded you,",
+      "korean_translation": "내가 너에게 명령했던",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'You shall not eat of it,'",
+      "korean_translation": "'너는 그것을 먹지 말라'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "cursed is the ground because of you;",
+      "korean_translation": "너 때문에 땅은 저주를 받았으니",
+      "word_indices": [
+        5916
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "in pain you shall eat of it",
+      "korean_translation": "너는 고통 속에서 그것을 먹을 것이며",
+      "word_indices": [
+        803
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "all the days of your life;",
+      "korean_translation": "네 평생 동안",
+      "word_indices": [
+        41
+      ]
+    }
+  ]
+}

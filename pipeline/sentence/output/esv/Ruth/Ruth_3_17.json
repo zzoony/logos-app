@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Ruth 3:17",
+  "version": "ESV",
+  "original_text": "saying, “These six measures of barley he gave to me, for he said to me, ‘You must not go back empty-handed to your mother-in-law.’”",
+  "korean_text": "이르되 그가 내게 이 보리를 여섯 번 되어 주며 이르기를 빈 손으로 네 시어머니에게 가지 말라 하더이다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "saying,",
+      "korean_translation": "말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "These six measures of barley he gave to me,",
+      "korean_translation": "그가 내게 보리 여섯 말을 주었으니,",
+      "word_indices": [
+        5,
+        395,
+        1038
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for he said to me,",
+      "korean_translation": "그가 내게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You must not go back empty-handed",
+      "korean_translation": "너는 빈손으로 돌아가지 말라",
+      "word_indices": [
+        10,
+        90,
+        655
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to your mother-in-law.’”",
+      "korean_translation": "네 시어머니께.’”",
+      "word_indices": [
+        66,
+        128
+      ]
+    }
+  ]
+}

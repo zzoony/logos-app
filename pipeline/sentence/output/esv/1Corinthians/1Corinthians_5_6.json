@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Corinthians 5:6",
+  "version": "ESV",
+  "original_text": "Your boasting is not good. Do you not know that a little leaven leavens the whole lump?",
+  "korean_text": "너희가 자랑하는 것이 옳지 아니하도다 적은 누룩이 온 덩어리에 퍼지는 것을 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your boasting is not good.",
+      "korean_translation": "너희의 자랑은 좋지 않다.",
+      "word_indices": [
+        37,
+        512
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do you not know",
+      "korean_translation": "너희가 알지 못하느냐",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that a little leaven leavens the whole lump?",
+      "korean_translation": "적은 누룩이 온 덩어리에 퍼지는 것을",
+      "word_indices": [
+        151,
+        229,
+        1005,
+        3120
+      ]
+    }
+  ]
+}

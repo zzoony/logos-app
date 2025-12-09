@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 3:4",
+  "version": "ESV",
+  "original_text": "Now John wore a garment of camel's hair and a leather belt around his waist, and his food was locusts and wild honey.",
+  "korean_text": "이 요한은 낙타털 옷을 입고 허리에 가죽 띠를 띠고 음식은 메뚜기와 석청이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now John wore a garment of camel's hair",
+      "korean_translation": "요한은 낙타 털로 만든 옷을 입었고",
+      "word_indices": [
+        218,
+        487,
+        714
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a leather belt around his waist",
+      "korean_translation": "허리에는 가죽 띠를 둘렀으며",
+      "word_indices": [
+        1119,
+        1348,
+        3286
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his food was locusts and wild honey.",
+      "korean_translation": "그의 음식은 메뚜기와 들꿀이었습니다.",
+      "word_indices": [
+        138,
+        692,
+        750,
+        926
+      ]
+    }
+  ]
+}

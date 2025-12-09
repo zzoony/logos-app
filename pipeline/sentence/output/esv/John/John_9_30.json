@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 9:30",
+  "version": "ESV",
+  "original_text": "The man answered, “Why, this is an amazing thing! You do not know where he comes from, and yet he opened my eyes.",
+  "korean_text": "그 사람이 대답하여 이르되 이상하다 이 사람이 내 눈을 뜨게 하였으되 당신들은 그가 어디서 왔는지 알지 못하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man answered,",
+      "korean_translation": "그 사람이 대답했습니다.",
+      "word_indices": [
+        6,
+        54
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why,",
+      "korean_translation": "어찌하여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "this is an amazing thing!",
+      "korean_translation": "이것은 놀라운 일입니다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You do not know where he comes from,",
+      "korean_translation": "당신들은 그가 어디서 왔는지 알지 못합니다.",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and yet he opened my eyes.",
+      "korean_translation": "그런데 그가 내 눈을 뜨게 했습니다.",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

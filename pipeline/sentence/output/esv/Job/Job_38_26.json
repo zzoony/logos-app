@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 38:26",
+  "version": "ESV",
+  "original_text": "to bring rain on a land where no man is,\n    on the desert in which there is no man,",
+  "korean_text": "누가 사람 없는 땅에, 사람 없는 광야에 비를 내리며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "to bring rain on a land",
+      "korean_translation": "땅에 비를 내리려고",
+      "word_indices": [
+        8,
+        413
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where no man is",
+      "korean_translation": "사람이 없는 곳에",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the desert",
+      "korean_translation": "그 광야에",
+      "word_indices": [
+        560
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in which there is no man,",
+      "korean_translation": "사람이 없는 그곳에",
+      "word_indices": [
+        6
+      ]
+    }
+  ]
+}

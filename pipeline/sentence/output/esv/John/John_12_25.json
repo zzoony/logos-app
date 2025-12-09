@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 12:25",
+  "version": "ESV",
+  "original_text": "Whoever loves his life loses it, and whoever hates his life in this world will keep it for eternal life.",
+  "korean_text": "자기의 생명을 사랑하는 자는 잃어버릴 것이요 이 세상에서 자기의 생명을 미워하는 자는 영생하도록 보전하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever loves his life loses it",
+      "korean_translation": "자기 목숨을 사랑하는 사람은 그것을 잃을 것입니다.",
+      "word_indices": [
+        41,
+        117
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever hates his life in this world",
+      "korean_translation": "이 세상에서 자기 목숨을 미워하는 사람은",
+      "word_indices": [
+        41,
+        117,
+        183
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will keep it for eternal life",
+      "korean_translation": "영생을 위해 그것을 지킬 것입니다.",
+      "word_indices": [
+        41,
+        46,
+        614
+      ]
+    }
+  ]
+}

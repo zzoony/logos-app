@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Revelation 11:14",
+  "version": "ESV",
+  "original_text": "The second woe has passed; behold, the third woe is soon to come.",
+  "korean_text": "둘째 화는 지나갔으나 보라 셋째 화가 속히 이르는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The second woe has passed",
+      "korean_translation": "두 번째 재앙은 지나갔다",
+      "word_indices": [
+        239,
+        485
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "behold",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the third woe is soon to come",
+      "korean_translation": "세 번째 재앙이 곧 올 것이다",
+      "word_indices": [
+        244,
+        359,
+        485
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 13:4",
+  "version": "ESV",
+  "original_text": "lest my enemy say, “I have prevailed over him,”\n    lest my foes rejoice because I am shaken.",
+  "korean_text": "두렵건대 나의 원수가 이르기를 내가 그를 이겼다 할까 하오며 내가 흔들릴 때에 나의 대적들이 기뻐할까 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "lest my enemy say",
+      "korean_translation": "내 원수가 말하지 않도록",
+      "word_indices": [
+        122
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“I have prevailed over him”",
+      "korean_translation": "내가 그를 이겼다",
+      "word_indices": [
+        907
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lest my foes rejoice",
+      "korean_translation": "내 대적들이 기뻐하지 않도록",
+      "word_indices": [
+        198
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I am shaken",
+      "korean_translation": "내가 흔들리기 때문에",
+      "word_indices": []
+    }
+  ]
+}

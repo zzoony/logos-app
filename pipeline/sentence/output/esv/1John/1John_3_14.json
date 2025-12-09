@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 John 3:14",
+  "version": "ESV",
+  "original_text": "We know that we have passed out of death into life, because we love the brothers. Whoever does not love abides in death.",
+  "korean_text": "우리는 형제를 사랑함으로 사망에서 옮겨 생명으로 들어간 줄을 알거니와 사랑하지 아니하는 자는 사망에 머물러 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We know",
+      "korean_translation": "우리는 압니다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that we have passed out of death into life",
+      "korean_translation": "우리가 사망에서 생명으로 옮겨갔다는 것을",
+      "word_indices": [
+        41,
+        76,
+        239
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because we love the brothers",
+      "korean_translation": "우리가 형제들을 사랑하기 때문입니다",
+      "word_indices": [
+        28,
+        35
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Whoever does not love",
+      "korean_translation": "사랑하지 않는 사람은",
+      "word_indices": [
+        35,
+        117
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "abides in death",
+      "korean_translation": "사망 가운데 거합니다",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

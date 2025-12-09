@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Leviticus 19:10",
+  "version": "ESV",
+  "original_text": "And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the Lord your God.",
+  "korean_text": "네 포도원의 열매를 다 따지 말며 네 포도원에 떨어진 열매도 줍지 말고 가난한 사람과 거류민을 위하여 버려두라 나는 너희의 하나님 여호와이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And you shall not strip your vineyard bare",
+      "korean_translation": "너는 네 포도원을 다 벗기지 말며",
+      "word_indices": [
+        417,
+        775,
+        1042
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither shall you gather the fallen grapes of your vineyard.",
+      "korean_translation": "떨어진 포도도 줍지 말고",
+      "word_indices": [
+        93,
+        278,
+        417
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You shall leave them for the poor",
+      "korean_translation": "그것들을 가난한 자를 위해 남겨 두어야 하니",
+      "word_indices": [
+        65,
+        268
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and for the sojourner:",
+      "korean_translation": "그리고 나그네를 위해서도",
+      "word_indices": [
+        610
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am the Lord your God.",
+      "korean_translation": "나는 너희 하나님 여호와니라",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

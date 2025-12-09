@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Proverbs 25:18",
+  "version": "ESV",
+  "original_text": "A man who bears false witness against his neighbor\n    is like a war club, or a sword, or a sharp arrow.",
+  "korean_text": "자기의 이웃을 쳐서 거짓 증거하는 사람은 방망이요 칼이요 뾰족한 화살이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man who bears false witness against his neighbor",
+      "korean_translation": "이웃에게 거짓 증언을 하는 사람은",
+      "word_indices": [
+        6,
+        12,
+        73,
+        314,
+        552
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is like a war club",
+      "korean_translation": "전쟁 망치와 같고",
+      "word_indices": [
+        14,
+        204,
+        2446
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or a sword",
+      "korean_translation": "칼과 같으며",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or a sharp arrow",
+      "korean_translation": "날카로운 화살과 같다",
+      "word_indices": [
+        702,
+        1526
+      ]
+    }
+  ]
+}

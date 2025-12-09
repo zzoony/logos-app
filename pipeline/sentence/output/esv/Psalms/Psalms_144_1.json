@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 144:1",
+  "version": "ESV",
+  "original_text": "Blessed be the Lord, my rock,\n    who trains my hands for war,\n    and my fingers for battle;",
+  "korean_text": "나의 반석이신 여호와를 찬송하리로다 그가 내 손을 가르쳐 싸우게 하시며 손가락을 가르쳐 전쟁하게 하시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed be the Lord,",
+      "korean_translation": "주를 찬송하리로다,",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my rock,",
+      "korean_translation": "나의 반석이시여,",
+      "word_indices": [
+        335
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who trains my hands for war,",
+      "korean_translation": "그는 내 손을 전쟁에 익숙하게 하시며",
+      "word_indices": [
+        10,
+        204,
+        1304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and my fingers for battle;",
+      "korean_translation": "내 손가락을 싸움에 능하게 하시는도다;",
+      "word_indices": [
+        264,
+        946
+      ]
+    }
+  ]
+}

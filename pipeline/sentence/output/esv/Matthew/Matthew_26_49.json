@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 26:49",
+  "version": "ESV",
+  "original_text": "And he came up to Jesus at once and said, “Greetings, Rabbi!” And he kissed him.",
+  "korean_text": "곧 예수께 나아와 랍비여 안녕하시옵니까 하고 입을 맞추니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he came up to Jesus at once",
+      "korean_translation": "그는 즉시 예수께 다가와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“Greetings, Rabbi!”",
+      "korean_translation": "‘랍비여 안녕하십니까!’",
+      "word_indices": [
+        1529,
+        1687
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And he kissed him.",
+      "korean_translation": "그리고 그를 입맞추었습니다.",
+      "word_indices": [
+        858
+      ]
+    }
+  ]
+}

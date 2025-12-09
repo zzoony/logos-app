@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 2:9",
+  "version": "ESV",
+  "original_text": "When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom",
+  "korean_text": "연회장은 물로 된 포도주를 맛보고도 어디서 났는지 알지 못하되 물 떠온 하인들은 알더라 연회장이 신랑을 불러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the master of the feast tasted the water",
+      "korean_translation": "잔치의 주인이 물을 맛보았을 때",
+      "word_indices": [
+        42,
+        242
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "now become wine",
+      "korean_translation": "이제 포도주가 되었을 때",
+      "word_indices": [
+        194
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and did not know where it came from",
+      "korean_translation": "그리고 그것이 어디서 왔는지 알지 못했으나",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "though the servants who had drawn the water knew",
+      "korean_translation": "물을 길어온 하인들은 알고 있었지만",
+      "word_indices": [
+        22,
+        42,
+        182
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the master of the feast called the bridegroom",
+      "korean_translation": "잔치의 주인이 신랑을 불렀다",
+      "word_indices": [
+        31,
+        242,
+        1226
+      ]
+    }
+  ]
+}

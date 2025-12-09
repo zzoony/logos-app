@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 9:13",
+  "version": "ESV",
+  "original_text": "Be gracious to me, O Lord!\n    See my affliction from those who hate me,\n    O you who lift me up from the gates of death,",
+  "korean_text": "여호와여 내게 은혜를 베푸소서 나를 사망의 문에서 일으키시는 주여 나를 미워하는 자에게서 받는 나의 고통을 보소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Be gracious to me, O Lord!",
+      "korean_translation": "주여, 내게 은혜를 베푸소서!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "See my affliction from those who hate me,",
+      "korean_translation": "나를 미워하는 자들에게서 받는 내 고난을 보소서,",
+      "word_indices": [
+        375,
+        592
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O you who lift me up from the gates of death,",
+      "korean_translation": "죽음의 문에서 나를 건지시는 주여,",
+      "word_indices": [
+        76,
+        200
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 John 2:15",
+  "version": "ESV",
+  "original_text": "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.",
+  "korean_text": "이 세상이나 세상에 있는 것들을 사랑하지 말라 누구든지 세상을 사랑하면 아버지의 사랑이 그 안에 있지 아니하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not love the world",
+      "korean_translation": "이 세상을 사랑하지 말라",
+      "word_indices": [
+        35,
+        183
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or the things in the world.",
+      "korean_translation": "세상에 있는 것들도",
+      "word_indices": [
+        183
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If anyone loves the world",
+      "korean_translation": "누구든지 세상을 사랑하면",
+      "word_indices": [
+        181,
+        183
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the love of the Father is not in him.",
+      "korean_translation": "아버지의 사랑이 그 안에 없느니라",
+      "word_indices": [
+        9,
+        35
+      ]
+    }
+  ]
+}

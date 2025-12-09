@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Ecclesiastes 10:18",
+  "version": "ESV",
+  "original_text": "Through sloth the roof sinks in,\n    and through indolence the house leaks.",
+  "korean_text": "게으른즉 서까래가 내려앉고 손을 놓은즉 집이 새느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Through sloth the roof sinks in",
+      "korean_translation": "게으름 때문에 지붕이 내려앉는다.",
+      "word_indices": [
+        60,
+        1033,
+        1096,
+        5295
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and through indolence the house leaks",
+      "korean_translation": "그리고 나태 때문에 집이 샌다.",
+      "word_indices": [
+        7,
+        60,
+        5296,
+        5297
+      ]
+    }
+  ]
+}

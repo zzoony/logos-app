@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 135:3",
+  "version": "ESV",
+  "original_text": "Praise the Lord, for the Lord is good;\n    sing to his name, for it is pleasant!",
+  "korean_text": "여호와를 찬송하라 여호와는 선하시며 그의 이름이 아름다우니 그의 이름을 찬양하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise the Lord",
+      "korean_translation": "주를 찬양하라",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the Lord is good",
+      "korean_translation": "주는 선하시기 때문이다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "sing to his name",
+      "korean_translation": "그의 이름에 노래하라",
+      "word_indices": [
+        20,
+        284
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for it is pleasant",
+      "korean_translation": "그것은 즐거움이기 때문이다",
+      "word_indices": [
+        1127
+      ]
+    }
+  ]
+}

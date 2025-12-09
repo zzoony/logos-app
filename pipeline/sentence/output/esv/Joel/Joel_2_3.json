@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Joel 2:3",
+  "version": "ESV",
+  "original_text": "Fire devours before them,\n    and behind them a flame burns.\nThe land is like the garden of Eden before them,\n    but behind them a desolate wilderness,\n    and nothing escapes them.",
+  "korean_text": "불이 그들의 앞을 사르며 불꽃이 그들의 뒤를 태우니 그들의 예전의 땅은 에덴 동산 같았으나 그들의 나중의 땅은 황폐한 들 같으니 그것을 피한 자가 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Fire devours before them",
+      "korean_translation": "불이 그들의 앞에서 집어삼킵니다",
+      "word_indices": [
+        72,
+        371
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and behind them a flame burns.",
+      "korean_translation": "그들의 뒤에서는 불꽃이 타오릅니다",
+      "word_indices": [
+        48,
+        843
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The land is like the garden of Eden before them",
+      "korean_translation": "그 땅은 그들 앞에서 에덴 동산 같고",
+      "word_indices": [
+        8,
+        14,
+        690
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but behind them a desolate wilderness",
+      "korean_translation": "그들의 뒤에서는 황무지가 되었고",
+      "word_indices": [
+        503
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and nothing escapes them.",
+      "korean_translation": "아무것도 그들에게서 벗어나지 못합니다",
+      "word_indices": []
+    }
+  ]
+}

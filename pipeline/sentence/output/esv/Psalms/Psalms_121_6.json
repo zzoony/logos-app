@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Psalms 121:6",
+  "version": "ESV",
+  "original_text": "The sun shall not strike you by day,\n    nor the moon by night.",
+  "korean_text": "낮의 해가 너를 상하게 하지 아니하며 밤의 달도 너를 해치지 아니하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun shall not strike you by day",
+      "korean_translation": "낮에 해가 너를 치지 않으리라",
+      "word_indices": [
+        81,
+        321
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor the moon by night",
+      "korean_translation": "밤에 달도 너를 치지 않으리라",
+      "word_indices": [
+        130,
+        646
+      ]
+    }
+  ]
+}

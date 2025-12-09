@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 5:15",
+  "version": "ESV",
+  "original_text": "Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house.",
+  "korean_text": "사람이 등불을 켜서 말 아래에 두지 아니하고 등경 위에 두나니 이러므로 집 안 모든 사람에게 비치느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nor do people light a lamp",
+      "korean_translation": "사람들이 등을 켜고",
+      "word_indices": [
+        3,
+        177,
+        626
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and put it under a basket",
+      "korean_translation": "바구니 아래에 두지는 않습니다",
+      "word_indices": [
+        850
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but on a stand",
+      "korean_translation": "하지만 등대 위에 놓습니다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it gives light to all in the house",
+      "korean_translation": "그러면 집 안의 모든 사람에게 빛을 줍니다",
+      "word_indices": [
+        5,
+        7,
+        177
+      ]
+    }
+  ]
+}

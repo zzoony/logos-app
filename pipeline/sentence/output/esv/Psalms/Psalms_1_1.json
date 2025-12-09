@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Psalms 1:1",
+  "version": "ESV",
+  "original_text": "Blessed is the man\n    who walks not in the counsel of the wicked,\nnor stands in the way of sinners,\n    nor sits in the seat of scoffers;",
+  "korean_text": "복 있는 사람은 악인들의 꾀를 따르지 아니하며 죄인들의 길에 서지 아니하며 오만한 자들의 자리에 앉지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the man",
+      "korean_translation": "복 있는 사람은",
+      "word_indices": [
+        6,
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who walks not in the counsel of the wicked",
+      "korean_translation": "악인의 꾀를 좇지 아니하며",
+      "word_indices": [
+        111,
+        466,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor stands in the way of sinners",
+      "korean_translation": "죄인의 길에 서지 아니하며",
+      "word_indices": [
+        38,
+        665
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor sits in the seat of scoffers",
+      "korean_translation": "오만한 자의 자리에 앉지 아니하는지라",
+      "word_indices": [
+        118,
+        451,
+        1527
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Numbers 35:30",
+  "version": "ESV",
+  "original_text": "“If anyone kills a person, the murderer shall be put to death on the evidence of witnesses. But no person shall be put to death on the testimony of one witness.",
+  "korean_text": "사람을 죽인 모든 자 곧 살인한 자는 증인들의 말을 따라서 죽일 것이나 한 증인의 증거만 따라서 죽이지 말 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If anyone kills a person,",
+      "korean_translation": "만약 누군가 사람을 죽이면,",
+      "word_indices": [
+        92,
+        181,
+        214
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the murderer shall be put to death on the evidence of witnesses.",
+      "korean_translation": "그 살인자는 증인들의 증거에 근거하여 사형에 처해져야 합니다.",
+      "word_indices": [
+        76,
+        267,
+        1231,
+        1599
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But no person shall be put to death on the testimony of one witness.",
+      "korean_translation": "하지만 한 증인의 증언으로는 어떤 사람도 사형에 처해져서는 안 됩니다.",
+      "word_indices": [
+        76,
+        214,
+        373
+      ]
+    }
+  ]
+}

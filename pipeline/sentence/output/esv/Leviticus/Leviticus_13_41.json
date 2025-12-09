@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Leviticus 13:41",
+  "version": "ESV",
+  "original_text": "And if a man's hair falls out from his forehead, he has baldness of the forehead; he is clean.",
+  "korean_text": "앞머리가 빠져도 그는 이마 대머리니 정하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if a man's hair falls out from his forehead",
+      "korean_translation": "그리고 만약 어떤 사람의 머리털이 이마에서 빠지면",
+      "word_indices": [
+        6,
+        100,
+        487,
+        1185
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he has baldness of the forehead",
+      "korean_translation": "그는 이마 대머리가 있는 것이다",
+      "word_indices": [
+        1185
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he is clean",
+      "korean_translation": "그는 정결하다",
+      "word_indices": [
+        381
+      ]
+    }
+  ]
+}

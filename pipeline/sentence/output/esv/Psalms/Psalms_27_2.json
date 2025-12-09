@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 27:2",
+  "version": "ESV",
+  "original_text": "When evildoers assail me\n    to eat up my flesh,\nmy adversaries and foes,\n    it is they who stumble and fall.",
+  "korean_text": "악인들이 내 살을 먹으려고 내게로 왔으나 나의 대적들, 나의 원수들인 그들은 실족하여 넘어졌도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When evildoers assail me",
+      "korean_translation": "악인들이 나를 칠 때에",
+      "word_indices": [
+        965,
+        3620
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to eat up my flesh,",
+      "korean_translation": "나의 살을 먹으려고",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my adversaries and foes,",
+      "korean_translation": "나의 대적과 원수들이",
+      "word_indices": [
+        761
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it is they who stumble and fall.",
+      "korean_translation": "그들이 비틀거리고 넘어지리라",
+      "word_indices": [
+        100,
+        559
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Samuel 21:3",
+  "version": "ESV",
+  "original_text": "Now then, what do you have on hand? Give me five loaves of bread, or whatever is here.”",
+  "korean_text": "이제 당신의 수중에 무엇이 있나이까 떡 다섯 덩이나 무엇이나 있는 대로 내 손에 주소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now then, what do you have on hand?",
+      "korean_translation": "그러면 네 손에 있는 것이 무엇이냐?",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Give me five loaves of bread",
+      "korean_translation": "나에게 떡 다섯 개를 주라",
+      "word_indices": [
+        5,
+        129,
+        201
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or whatever is here.",
+      "korean_translation": "또는 여기 있는 무엇이든지 주라.",
+      "word_indices": [
+        298
+      ]
+    }
+  ]
+}

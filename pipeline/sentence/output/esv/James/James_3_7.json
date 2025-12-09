@@ -1,0 +1,42 @@
+{
+  "verse_reference": "James 3:7",
+  "version": "ESV",
+  "original_text": "For every kind of beast and bird, of reptile and sea creature, can be tamed and has been tamed by mankind,",
+  "korean_text": "여러 종류의 짐승과 새와 벌레와 바다의 생물은 다 사람이 길들일 수 있고 길들여 왔거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For every kind of beast and bird,",
+      "korean_translation": "모든 종류의 짐승과 새는,",
+      "word_indices": [
+        185,
+        356,
+        397
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of reptile and sea creature,",
+      "korean_translation": "파충류와 바다 생물도,",
+      "word_indices": [
+        84,
+        586,
+        3274
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "can be tamed",
+      "korean_translation": "길들여질 수 있고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and has been tamed by mankind,",
+      "korean_translation": "인간에 의해 길들여져 왔습니다,",
+      "word_indices": [
+        815
+      ]
+    }
+  ]
+}

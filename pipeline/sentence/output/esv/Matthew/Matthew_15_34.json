@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 15:34",
+  "version": "ESV",
+  "original_text": "And Jesus said to them, “How many loaves do you have?” They said, “Seven, and a few small fish.”",
+  "korean_text": "예수께서 이르시되 너희에게 떡이 몇 개나 있느냐 이르되 일곱 개와 작은 생선 두어 마리가 있나이다 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said to them,",
+      "korean_translation": "그리고 예수님께서 그들에게 말씀하시를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“How many loaves do you have?”",
+      "korean_translation": "“너희에게 떡이 몇 개나 있느냐?”",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They said,",
+      "korean_translation": "그들이 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Seven,",
+      "korean_translation": "“일곱 개이고,",
+      "word_indices": [
+        102
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and a few small fish.”",
+      "korean_translation": "조그만 생선 두어 마리가 있습니다.”",
+      "word_indices": [
+        529,
+        681,
+        724
+      ]
+    }
+  ]
+}

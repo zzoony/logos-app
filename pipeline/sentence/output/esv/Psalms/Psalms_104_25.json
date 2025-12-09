@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 104:25",
+  "version": "ESV",
+  "original_text": "Here is the sea, great and wide,\n    which teems with creatures innumerable,\n    living things both small and great.",
+  "korean_text": "거기에는 크고 넓은 바다가 있고 그 속에는 생물 곧 크고 작은 동물들이 무수하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Here is the sea,",
+      "korean_translation": "보라, 바다가 있고,",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "great and wide,",
+      "korean_translation": "크고 넓으며,",
+      "word_indices": [
+        30,
+        1139
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which teems with creatures innumerable,",
+      "korean_translation": "그곳은 셀 수 없는 생물로 가득하며,",
+      "word_indices": [
+        3338,
+        5213
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "living things both small and great.",
+      "korean_translation": "작은 것과 큰 생물들이 살고 있다.",
+      "word_indices": [
+        30,
+        529
+      ]
+    }
+  ]
+}

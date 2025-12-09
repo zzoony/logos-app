@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 114:5",
+  "version": "ESV",
+  "original_text": "What ails you, O sea, that you flee?\n    O Jordan, that you turn back?",
+  "korean_text": "바다야 네가 도망함은 어찌함이며 요단아 네가 물러감은 어찌함인가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What ails you, O sea,",
+      "korean_translation": "어찌하여 바다야,",
+      "word_indices": [
+        84,
+        5220
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you flee?",
+      "korean_translation": "너는 도망하느냐?",
+      "word_indices": [
+        179
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O Jordan,",
+      "korean_translation": "요단아,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you turn back?",
+      "korean_translation": "너는 뒤로 물러가느냐?",
+      "word_indices": [
+        45,
+        90
+      ]
+    }
+  ]
+}

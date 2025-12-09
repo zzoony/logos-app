@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 13:5",
+  "version": "ESV",
+  "original_text": "Other seeds fell on rocky ground, where they did not have much soil, and immediately they sprang up, since they had no depth of soil,",
+  "korean_text": "더러는 흙이 얕은 돌밭에 떨어지매 흙이 깊지 아니하므로 곧 싹이 나오나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Other seeds fell on rocky ground,",
+      "korean_translation": "다른 씨들이 돌밭에 떨어졌는데,",
+      "word_indices": [
+        212,
+        628,
+        2546,
+        5916
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where they did not have much soil,",
+      "korean_translation": "거기는 흙이 많지 않았으며,",
+      "word_indices": [
+        1169
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and immediately they sprang up,",
+      "korean_translation": "그래서 곧바로 싹이 나왔고,",
+      "word_indices": [
+        544
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "since they had no depth of soil,",
+      "korean_translation": "흙이 깊지 않았기 때문입니다.",
+      "word_indices": [
+        1136,
+        1169
+      ]
+    }
+  ]
+}

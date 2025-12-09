@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Deuteronomy 22:11",
+  "version": "ESV",
+  "original_text": "You shall not wear cloth of wool and linen mixed together.",
+  "korean_text": "양 털과 베 실로 섞어 짠 것을 입지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You shall not wear",
+      "korean_translation": "입지 말라",
+      "word_indices": [
+        630
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "cloth of wool and linen",
+      "korean_translation": "양털과 아마로 된 옷을",
+      "word_indices": [
+        454,
+        1187,
+        1552
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "mixed together",
+      "korean_translation": "섞어서",
+      "word_indices": [
+        120,
+        668
+      ]
+    }
+  ]
+}

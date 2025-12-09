@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 31:5",
+  "version": "ESV",
+  "original_text": "Into your hand I commit my spirit;\n    you have redeemed me, O Lord, faithful God.",
+  "korean_text": "내가 나의 영을 주의 손에 부탁하나이다 진리의 하나님 여호와여 나를 속량하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Into your hand I commit my spirit",
+      "korean_translation": "나의 영을 당신의 손에 맡깁니다.",
+      "word_indices": [
+        10,
+        55,
+        299
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you have redeemed me",
+      "korean_translation": "주님은 나를 구속하셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O Lord, faithful God.",
+      "korean_translation": "오, 주여, 신실하신 하나님.",
+      "word_indices": [
+        1,
+        543
+      ]
+    }
+  ]
+}

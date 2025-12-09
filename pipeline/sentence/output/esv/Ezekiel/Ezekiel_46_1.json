@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Ezekiel 46:1",
+  "version": "ESV",
+  "original_text": "“Thus says the Lord God: The gate of the inner court that faces east shall be shut on the six working days, but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened.",
+  "korean_text": "주 여호와께서 이같이 말씀하셨느니라 안뜰 동쪽을 향한 문은 일하는 엿새 동안에는 닫되 안식일에는 열며 초하루에도 열고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus says the Lord God:",
+      "korean_translation": "주 하나님이 이같이 말씀하시기를",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The gate of the inner court that faces east",
+      "korean_translation": "동을 향한 안뜰의 문은",
+      "word_indices": [
+        98,
+        255,
+        306,
+        658
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall be shut on the six working days",
+      "korean_translation": "업하는 여섯 날에는 닫고",
+      "word_indices": [
+        52,
+        395,
+        505
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but on the Sabbath day it shall be opened",
+      "korean_translation": "안식일에는 열리되",
+      "word_indices": [
+        115,
+        290
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and on the day of the new moon it shall be opened.",
+      "korean_translation": "월삭일에는도 열릴 것이니라",
+      "word_indices": [
+        115,
+        646
+      ]
+    }
+  ]
+}

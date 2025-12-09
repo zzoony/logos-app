@@ -1,0 +1,52 @@
+{
+  "verse_reference": "John 12:47",
+  "version": "ESV",
+  "original_text": "If anyone hears my words and does not keep them, I do not judge him; for I did not come to judge the world but to save the world.",
+  "korean_text": "사람이 내 말을 듣고 지키지 아니할지라도 내가 그를 심판하지 아니하노라 내가 온 것은 세상을 심판하려 함이 아니요 세상을 구원하려 함이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If anyone hears my words",
+      "korean_translation": "만일 누가 내 말을 듣고",
+      "word_indices": [
+        15,
+        17,
+        181
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and does not keep them",
+      "korean_translation": "지키지 아니하면",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I do not judge him",
+      "korean_translation": "나는 그를 심판하지 아니하노라",
+      "word_indices": [
+        178
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for I did not come to judge the world",
+      "korean_translation": "이는 내가 세상을 심판하러 온 것이 아니요",
+      "word_indices": [
+        178,
+        183
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but to save the world",
+      "korean_translation": "오직 구원하러 왔음이라",
+      "word_indices": [
+        145,
+        183
+      ]
+    }
+  ]
+}

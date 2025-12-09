@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 12:3",
+  "version": "ESV",
+  "original_text": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.”",
+  "korean_text": "너를 축복하는 자에게는 내가 복을 내리고 너를 저주하는 자에게는 내가 저주하리니 땅의 모든 족속이 너로 말미암아 복을 얻을 것이라 하신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will bless those who bless you,",
+      "korean_translation": "내가 너를 축복하는 자를 축복하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and him who dishonors you I will curse,",
+      "korean_translation": "너를 저주하는 자를 내가 저주하리라",
+      "word_indices": [
+        241,
+        1171
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in you all the families of the earth shall be blessed.”",
+      "korean_translation": "또 너로 말미암아 땅의 모든 족속이 복을 얻으리라",
+      "word_indices": [
+        64,
+        743
+      ]
+    }
+  ]
+}

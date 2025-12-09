@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 146:6",
+  "version": "ESV",
+  "original_text": "who made heaven and earth,\n    the sea, and all that is in them,\nwho keeps faith forever;",
+  "korean_text": "여호와는 천지와 바다와 그 중의 만물을 지으시며 영원히 진실함을 지키시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "who made heaven and earth",
+      "korean_translation": "하늘과 땅을 만드신 이",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sea",
+      "korean_translation": "바다",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all that is in them",
+      "korean_translation": "그 안에 있는 모든 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who keeps faith forever",
+      "korean_translation": "영원히 진실을 지키시는 이",
+      "word_indices": [
+        46,
+        96,
+        158
+      ]
+    }
+  ]
+}

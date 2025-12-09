@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Romans 8:38",
+  "version": "ESV",
+  "original_text": "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers,",
+  "korean_text": "내가 확신하노니 사망이나 생명이나 천사들이나 권세자들이나 현재 일이나 장래 일이나 능력이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For",
+      "korean_translation": "왜냐하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am sure that",
+      "korean_translation": "나는 확신하노니",
+      "word_indices": [
+        1027
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither death nor life,",
+      "korean_translation": "사망이나 생명이나",
+      "word_indices": [
+        41,
+        76,
+        278
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor angels nor rulers,",
+      "korean_translation": "천사들이나 통치자들이나",
+      "word_indices": [
+        146,
+        407
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nor things present nor things to come,",
+      "korean_translation": "현재 일이나 장래 일이나",
+      "word_indices": [
+        288
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "nor powers,",
+      "korean_translation": "권능이나",
+      "word_indices": [
+        187
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Exodus 5:5",
+  "version": "ESV",
+  "original_text": "And Pharaoh said, “Behold, the people of the land are now many, and you make them rest from their burdens!”",
+  "korean_text": "바로가 또 이르되 이제 이 땅의 백성이 많아졌거늘 너희가 그들로 노역을 쉬게 하는도다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Pharaoh said,",
+      "korean_translation": "바로가 말하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the people of the land are now many,",
+      "korean_translation": "이 땅의 백성이 이제 많아졌는데,",
+      "word_indices": [
+        3,
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you make them rest from their burdens!”",
+      "korean_translation": "너희가 그들에게서 그 역무를 쉬게 하느냐!",
+      "word_indices": [
+        116,
+        625
+      ]
+    }
+  ]
+}

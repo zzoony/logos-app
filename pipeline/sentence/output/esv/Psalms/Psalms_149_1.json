@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 149:1",
+  "version": "ESV",
+  "original_text": "Praise the Lord!\nSing to the Lord a new song,\n    his praise in the assembly of the godly!",
+  "korean_text": "할렐루야 새 노래로 여호와께 노래하며 성도의 모임 가운데에서 찬양할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise the Lord!",
+      "korean_translation": "주님을 찬양하라!",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sing to the Lord a new song,",
+      "korean_translation": "주님께 새 노래를 불러라,",
+      "word_indices": [
+        284,
+        539
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his praise in the assembly of the godly!",
+      "korean_translation": "경건한 자들의 회중에서 그의 찬양을!",
+      "word_indices": [
+        160,
+        400,
+        1470
+      ]
+    }
+  ]
+}

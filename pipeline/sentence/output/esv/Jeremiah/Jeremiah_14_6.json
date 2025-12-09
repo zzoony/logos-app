@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Jeremiah 14:6",
+  "version": "ESV",
+  "original_text": "The wild donkeys stand on the bare heights;\n    they pant for air like jackals;\ntheir eyes fail\n    because there is no vegetation.",
+  "korean_text": "들 나귀들은 벗은 산 위에 서서 승냥이 같이 헐떡이며 풀이 없으므로 눈이 흐려지는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wild donkeys stand on the bare heights",
+      "korean_translation": "들나귀들이 벌거벗은 언덕에 서 있습니다.",
+      "word_indices": [
+        38,
+        316,
+        515,
+        692,
+        1042
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they pant for air like jackals",
+      "korean_translation": "그것들은 승냥이처럼 헐떡입니다.",
+      "word_indices": [
+        14,
+        1037,
+        1631,
+        2583
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "their eyes fail",
+      "korean_translation": "그것들의 눈이 어두워집니다.",
+      "word_indices": [
+        686
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because there is no vegetation",
+      "korean_translation": "왜냐하면 풀이 없기 때문입니다.",
+      "word_indices": [
+        2330
+      ]
+    }
+  ]
+}

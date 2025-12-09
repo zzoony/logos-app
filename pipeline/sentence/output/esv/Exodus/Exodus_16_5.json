@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 16:5",
+  "version": "ESV",
+  "original_text": "On the sixth day, when they prepare what they bring in, it will be twice as much as they gather daily.”",
+  "korean_text": "여섯째 날에는 그들이 그 거둔 것을 준비할지니 날마다 거두던 것의 갑절이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On the sixth day,",
+      "korean_translation": "여섯째 날에,",
+      "word_indices": [
+        867
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when they prepare",
+      "korean_translation": "그들이 준비할 때",
+      "word_indices": [
+        304
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what they bring in,",
+      "korean_translation": "그들이 가져오는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it will be twice as much",
+      "korean_translation": "그것은 두 배가 될 것입니다",
+      "word_indices": [
+        1345
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as they gather daily.",
+      "korean_translation": "매일 거두는 것보다",
+      "word_indices": [
+        93,
+        1135
+      ]
+    }
+  ]
+}

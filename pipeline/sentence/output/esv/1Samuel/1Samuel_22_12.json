@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Samuel 22:12",
+  "version": "ESV",
+  "original_text": "And Saul said, “Hear now, son of Ahitub.” And he answered, “Here I am, my lord.”",
+  "korean_text": "사울이 이르되 너 아히둡의 아들아 들으라 대답하되 내 주여 내가 여기 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Saul said",
+      "korean_translation": "사울이 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Hear now, son of Ahitub.”",
+      "korean_translation": "아히툽의 아들아, 이제 들으라.",
+      "word_indices": [
+        2,
+        17
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he answered",
+      "korean_translation": "그가 대답하여",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“Here I am, my lord.”",
+      "korean_translation": "내가 여기 있나이다, 나의 주여.",
+      "word_indices": []
+    }
+  ]
+}

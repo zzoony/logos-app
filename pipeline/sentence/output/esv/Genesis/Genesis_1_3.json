@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 1:3",
+  "version": "ESV",
+  "original_text": "And God said, “Let there be light,” and there was light.",
+  "korean_text": "하나님이 이르시되 빛이 있으라 하시니 빛이 있었고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And God said,",
+      "korean_translation": "하나님이 말씀하시되,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "“Let there be light,”",
+      "korean_translation": "빛이 있으라",
+      "word_indices": [
+        177
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there was light.",
+      "korean_translation": "빛이 있었더라",
+      "word_indices": [
+        177
+      ]
+    }
+  ]
+}

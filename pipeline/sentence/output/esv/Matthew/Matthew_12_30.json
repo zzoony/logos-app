@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Matthew 12:30",
+  "version": "ESV",
+  "original_text": "Whoever is not with me is against me, and whoever does not gather with me scatters.",
+  "korean_text": "나와 함께 아니하는 자는 나를 반대하는 자요 나와 함께 모으지 아니하는 자는 헤치는 자니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever is not with me is against me",
+      "korean_translation": "나와 함께하지 않는 자는 나를 반대하는 자다",
+      "word_indices": [
+        12,
+        117
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever does not gather with me scatters",
+      "korean_translation": "나와 함께 모으지 않는 자는 흩으뜨린다",
+      "word_indices": [
+        93,
+        117,
+        415
+      ]
+    }
+  ]
+}

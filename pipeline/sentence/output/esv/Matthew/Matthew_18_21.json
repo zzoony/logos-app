@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Matthew 18:21",
+  "version": "ESV",
+  "original_text": "Then Peter came up and said to him, “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?”",
+  "korean_text": "그 때에 베드로가 나아와 이르되 주여 형제가 내게 죄를 범하면 몇 번이나 용서하여 주리이까 일곱 번까지 하오리이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Peter came up",
+      "korean_translation": "그때 베드로가 나아와",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said to him,",
+      "korean_translation": "그에게 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“Lord,",
+      "korean_translation": "“주여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "how often will my brother sin against me,",
+      "korean_translation": "내 형제가 내게 죄를 범하면",
+      "word_indices": [
+        12,
+        28,
+        34,
+        1068
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and I forgive him?",
+      "korean_translation": "내가 얼마나 용서해야 하리이까?",
+      "word_indices": [
+        416
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "As many as seven times?”",
+      "korean_translation": "일곱 번까지 하리이까?”",
+      "word_indices": [
+        102
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Mark 13:24",
+  "version": "ESV",
+  "original_text": "“But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light,",
+  "korean_text": "그 때에 그 환난 후 해가 어두워지며 달이 빛을 내지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But in those days",
+      "korean_translation": "그러나 그 날들에는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "after that tribulation",
+      "korean_translation": "그 환난 후에,",
+      "word_indices": [
+        1469
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the sun will be darkened",
+      "korean_translation": "해가 어두워지고,",
+      "word_indices": [
+        321,
+        1595
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the moon will not give its light",
+      "korean_translation": "달은 그 빛을 내지 않을 것입니다.",
+      "word_indices": [
+        5,
+        177,
+        646
+      ]
+    }
+  ]
+}

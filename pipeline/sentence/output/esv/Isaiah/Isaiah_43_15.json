@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 43:15",
+  "version": "ESV",
+  "original_text": "I am the Lord, your Holy One,\n    the Creator of Israel, your King.”",
+  "korean_text": "나는 여호와 너희의 거룩한 이요 이스라엘의 창조자요 너희의 왕이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이시다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your Holy One",
+      "korean_translation": "너희의 거룩한 자",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Creator of Israel",
+      "korean_translation": "이스라엘의 창조자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your King",
+      "korean_translation": "너희의 왕",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

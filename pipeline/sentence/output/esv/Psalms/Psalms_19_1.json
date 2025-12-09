@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 19:1",
+  "version": "ESV",
+  "original_text": "The heavens declare the glory of God,\n    and the sky above proclaims his handiwork.",
+  "korean_text": "하늘이 하나님의 영광을 선포하고 궁창이 그의 손으로 하신 일을 나타내는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The heavens declare the glory of God",
+      "korean_translation": "하늘은 하나님의 영광을 선포하고",
+      "word_indices": [
+        1,
+        40,
+        67,
+        112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sky above proclaims his handiwork",
+      "korean_translation": "궁창은 그의 손으로 만든 것을 나타내는도다",
+      "word_indices": [
+        340,
+        1269,
+        5165
+      ]
+    }
+  ]
+}

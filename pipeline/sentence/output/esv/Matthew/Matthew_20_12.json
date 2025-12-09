@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Matthew 20:12",
+  "version": "ESV",
+  "original_text": "saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’",
+  "korean_text": "나중 온 이 사람들은 한 시간밖에 일하지 아니하였거늘 그들을 종일 수고하며 더위를 견딘 우리와 같게 하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "saying,",
+      "korean_translation": "이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "These last worked only one hour,",
+      "korean_translation": "이 마지막 사람들은 한 시간만 일했는데,",
+      "word_indices": [
+        52,
+        427,
+        467
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you have made them equal to us",
+      "korean_translation": "당신은 그들을 우리와 같게 만들었습니다",
+      "word_indices": [
+        1541
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who have borne the burden of the day",
+      "korean_translation": "우리는 낮의 짐을 졌고",
+      "word_indices": [
+        625
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the scorching heat.'",
+      "korean_translation": "뜨거운 더위도 견뎌냈습니다.'",
+      "word_indices": [
+        1050,
+        1573
+      ]
+    }
+  ]
+}

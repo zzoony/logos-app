@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 101:8",
+  "version": "ESV",
+  "original_text": "Morning by morning I will destroy\n    all the wicked in the land,\ncutting off all the evildoers\n    from the city of the Lord.",
+  "korean_text": "아침마다 내가 이 땅의 모든 악인을 멸하리니 악을 행하는 자는 여호와의 성에서 다 끊어지리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Morning by morning I will destroy all the wicked in the land",
+      "korean_translation": "아침마다 내가 이 땅의 모든 악인을 멸하리라",
+      "word_indices": [
+        8,
+        99,
+        3789
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "cutting off all the evildoers from the city of the Lord.",
+      "korean_translation": "주의 성에서 모든 행악자를 끊어버리리라",
+      "word_indices": [
+        16,
+        965
+      ]
+    }
+  ]
+}

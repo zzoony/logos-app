@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 140:6",
+  "version": "ESV",
+  "original_text": "I say to the Lord, You are my God;\n    give ear to the voice of my pleas for mercy, O Lord!",
+  "korean_text": "내가 여호와께 말하기를 주는 나의 하나님이시니 여호와여 나의 간구하는 소리에 귀를 기울이소서 하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I say to the Lord",
+      "korean_translation": "나는 주님께 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are my God",
+      "korean_translation": "주님은 나의 하나님이십니다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "give ear to the voice of my pleas for mercy",
+      "korean_translation": "내 자비를 구하는 간구의 소리에 귀를 기울여 주소서",
+      "word_indices": [
+        5,
+        86,
+        202,
+        269,
+        866
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "O Lord!",
+      "korean_translation": "오, 주님!",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "2 Kings 19:24",
+  "version": "ESV",
+  "original_text": "I dug wells\n    and drank foreign waters,\nand I dried up with the sole of my foot\n    all the streams of Egypt.’",
+  "korean_text": "내가 땅을 파서 이방의 물을 마셨고 나의 발바닥으로 애굽의 모든 강들을 말렸노라 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I dug wells",
+      "korean_translation": "나는 우물을 팠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drank foreign waters",
+      "korean_translation": "이방의 물을 마셨다",
+      "word_indices": [
+        42,
+        897
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I dried up",
+      "korean_translation": "내가 말렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with the sole of my foot",
+      "korean_translation": "내 발바닥으로",
+      "word_indices": [
+        121,
+        1968
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "all the streams of Egypt",
+      "korean_translation": "애굽의 모든 시내를",
+      "word_indices": [
+        821
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 9:17",
+  "version": "ESV",
+  "original_text": "And they all ate and were satisfied. And what was left over was picked up, twelve baskets of broken pieces.",
+  "korean_text": "먹고 다 배불렀더라 그 남은 조각을 열두 바구니에 거두니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they all ate",
+      "korean_translation": "그리고 그들은 모두 먹고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were satisfied.",
+      "korean_translation": "배불렀습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And what was left over",
+      "korean_translation": "그리고 남은 것들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "was picked up,",
+      "korean_translation": "거두어졌는데,",
+      "word_indices": [
+        1432
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "twelve baskets of broken pieces.",
+      "korean_translation": "부서진 조각 열두 광주이었습니다.",
+      "word_indices": [
+        302,
+        850
+      ]
+    }
+  ]
+}

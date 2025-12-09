@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 16:9",
+  "version": "ESV",
+  "original_text": "He has torn me in his wrath and hated me;\n    he has gnashed his teeth at me;\n    my adversary sharpens his eyes against me.",
+  "korean_text": "그는 진노하사 나를 찢고 적대시 하시며 나를 향하여 이를 갈고 원수가 되어 날카로운 눈초리로 나를 보시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He has torn me in his wrath",
+      "korean_translation": "그는 그의 진노로 나를 찢었다",
+      "word_indices": [
+        226
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and hated me",
+      "korean_translation": "그리고 나를 미워했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he has gnashed his teeth at me",
+      "korean_translation": "그는 나에게 이를 갈았다",
+      "word_indices": [
+        899,
+        1993
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my adversary sharpens his eyes against me",
+      "korean_translation": "나의 대적은 나를 향해 날카로운 눈초리를 보낸다",
+      "word_indices": [
+        12,
+        761,
+        2059
+      ]
+    }
+  ]
+}

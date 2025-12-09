@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 27:35",
+  "version": "ESV",
+  "original_text": "And when they had crucified him, they divided his garments among them by casting lots.",
+  "korean_text": "그들이 예수를 십자가에 못 박은 후에 그 옷을 제비 뽑아 나누고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when they had crucified him,",
+      "korean_translation": "그리고 그들이 그를 십자가에 못 박았을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they divided his garments among them",
+      "korean_translation": "그들은 그의 옷을 그들끼리 나누었다",
+      "word_indices": [
+        27,
+        218
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by casting lots.",
+      "korean_translation": "제비뽑기로.",
+      "word_indices": [
+        166,
+        390
+      ]
+    }
+  ]
+}

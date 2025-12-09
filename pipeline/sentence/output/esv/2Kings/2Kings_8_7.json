@@ -1,0 +1,39 @@
+{
+  "verse_reference": "2 Kings 8:7",
+  "version": "ESV",
+  "original_text": "Now Elisha came to Damascus. Ben-hadad the king of Syria was sick. And when it was told him, “The man of God has come here,”",
+  "korean_text": "엘리사가 다메섹에 갔을 때에 아람 왕 벤하닷이 병들었더니 왕에게 들리기를 이르되 하나님의 사람이 여기 이르렀나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Elisha came to Damascus.",
+      "korean_translation": "그때 엘리사가 다메섹에 이르렀다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ben-hadad the king of Syria was sick.",
+      "korean_translation": "아람 왕 벤하닷이 병들었더라.",
+      "word_indices": [
+        4,
+        696,
+        1015
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And when it was told him,",
+      "korean_translation": "그에게 고하되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "“The man of God has come here,”",
+      "korean_translation": "“하나님의 사람이 이곳에 왔다.”",
+      "word_indices": [
+        1,
+        6
+      ]
+    }
+  ]
+}

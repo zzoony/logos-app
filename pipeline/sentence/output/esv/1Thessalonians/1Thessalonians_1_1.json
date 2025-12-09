@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Thessalonians 1:1",
+  "version": "ESV",
+  "original_text": "Paul, Silvanus, and Timothy,\nTo the church of the Thessalonians in God the Father and the Lord Jesus Christ:\nGrace to you and peace.",
+  "korean_text": "바울과 실루아노와 디모데는 하나님 아버지와 주 예수 그리스도 안에 있는 데살로니가인의 교회에 편지하노니 은혜와 평강이 너희에게 있을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Paul, Silvanus, and Timothy,",
+      "korean_translation": "바울과 실루아노와 디모데는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "To the church of the Thessalonians",
+      "korean_translation": "데살로니가에 있는 교회에",
+      "word_indices": [
+        440,
+        3866
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in God the Father",
+      "korean_translation": "하나님 아버지 안에서",
+      "word_indices": [
+        1,
+        9
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the Lord Jesus Christ:",
+      "korean_translation": "그리고 주 예수 그리스도 안에서",
+      "word_indices": [
+        61
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Grace to you and peace.",
+      "korean_translation": "은혜와 평강이 너희에게 있기를",
+      "word_indices": [
+        105,
+        370
+      ]
+    }
+  ]
+}
