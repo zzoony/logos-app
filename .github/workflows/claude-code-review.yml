@@ -22,11 +22,11 @@ jobs:
       contents: write
       pull-requests: write
       issues: write
+      id-token: write
     steps:
       - name: Fix CodeRabbit issues
         uses: anthropics/claude-code-action@v1
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: |
             CodeRabbit이 이 PR에 수정을 요청했습니다.
 
@@ -35,11 +35,6 @@ jobs:
             3. 수정 후 커밋하고 푸시하세요
 
             단, 데이터 소스 특성으로 인한 이슈(예: KJV 철자)는 무시해도 됩니다.
-          allowed_tools: |
-            Edit
-            Write
-            Read
-            Bash(git add:*,git commit:*,git push:*)
           track_progress: true
 
   # CodeRabbit이 approve하면 자동 머지
@@ -72,10 +67,10 @@ jobs:
       contents: write
       pull-requests: write
       issues: write
+      id-token: write
     steps:
       - name: Respond to mention
         uses: anthropics/claude-code-action@v1
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           trigger_phrase: "@claude"
           track_progress: true
