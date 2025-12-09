@@ -4,7 +4,7 @@
 
 ## 디렉토리 구조
 
-```
+```text
 pipeline/vocabulary/
 ├── run_pipeline.py          # 파이프라인 실행 진입점
 ├── configs/                  # 버전별 설정 파일
@@ -40,7 +40,7 @@ pipeline/vocabulary/
 
 ## 파이프라인 실행 흐름
 
-```
+```text
 [run_pipeline.py]
     │
     ▼
@@ -255,7 +255,7 @@ done
 
 ## 데이터 흐름도
 
-```
+```text
 source-data/NIV_Bible.json
          │
          ▼
