@@ -45,14 +45,10 @@ class WordRepository {
   Future<List<SentenceModel>> getSentencesForWord(WordModel word) async {
     if (word.sentenceIds.isEmpty) return [];
 
-    final sentences = <SentenceModel>[];
-    for (final id in word.sentenceIds) {
-      final sentence = await getSentenceById(id);
-      if (sentence != null) {
-        sentences.add(sentence);
-      }
-    }
-    return sentences;
+    return await _isar.sentenceModels
+        .filter()
+        .anyOf(word.sentenceIds, (q, id) => q.sentenceIdEqualTo(id))
+        .findAll();
   }
 
   /// Get sentence count

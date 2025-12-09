@@ -55,7 +55,10 @@ class ProgressRepository {
   /// Mark a word as known
   Future<void> markWordAsKnown(String word) async {
     await _isar.writeTxn(() async {
-      var progress = await getProgressForWord(word);
+      var progress = await _isar.userProgressModels
+          .filter()
+          .wordEqualTo(word)
+          .findFirst();
 
       if (progress == null) {
         progress = UserProgressModel()
@@ -74,7 +77,10 @@ class ProgressRepository {
   /// Save a word to vocabulary
   Future<void> saveWordToVocabulary(String word) async {
     await _isar.writeTxn(() async {
-      var progress = await getProgressForWord(word);
+      var progress = await _isar.userProgressModels
+          .filter()
+          .wordEqualTo(word)
+          .findFirst();
 
       if (progress == null) {
         progress = UserProgressModel()
@@ -92,7 +98,10 @@ class ProgressRepository {
   /// Remove a word from saved vocabulary
   Future<void> removeWordFromVocabulary(String word) async {
     await _isar.writeTxn(() async {
-      var progress = await getProgressForWord(word);
+      final progress = await _isar.userProgressModels
+          .filter()
+          .wordEqualTo(word)
+          .findFirst();
       if (progress != null) {
         progress.isSaved = false;
         await _isar.userProgressModels.put(progress);
@@ -103,7 +112,10 @@ class ProgressRepository {
   /// Record a view for a word
   Future<void> recordWordView(String word) async {
     await _isar.writeTxn(() async {
-      var progress = await getProgressForWord(word);
+      var progress = await _isar.userProgressModels
+          .filter()
+          .wordEqualTo(word)
+          .findFirst();
 
       if (progress == null) {
         progress = UserProgressModel()

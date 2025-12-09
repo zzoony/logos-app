@@ -100,7 +100,7 @@ lib/
 
 ### 데이터 흐름
 
-```
+```text
 [JSON 파일] → [JsonImportService] → [Isar DB]
                                         ↓
                               [Repository Layer]

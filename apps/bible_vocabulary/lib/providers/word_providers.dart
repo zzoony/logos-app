@@ -20,7 +20,7 @@ class SortOptionNotifier extends StateNotifier<SortOption> {
     try {
       final settingsRepo = await _ref.read(settingsRepositoryProvider.future);
       final savedIndex = await settingsRepo.getDefaultSortOption();
-      if (savedIndex != null) {
+      if (savedIndex != null && savedIndex >= 0 && savedIndex < SortOption.values.length) {
         state = SortOption.values[savedIndex];
       }
       _initialized = true;
@@ -53,7 +53,7 @@ class StartOptionNotifier extends StateNotifier<StartOption> {
     try {
       final settingsRepo = await _ref.read(settingsRepositoryProvider.future);
       final savedIndex = await settingsRepo.getDefaultStartOption();
-      if (savedIndex != null) {
+      if (savedIndex != null && savedIndex >= 0 && savedIndex < StartOption.values.length) {
         state = StartOption.values[savedIndex];
       }
       _initialized = true;

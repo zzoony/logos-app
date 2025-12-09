@@ -36,7 +36,10 @@ class SettingsRepository {
   /// Set an integer setting
   Future<void> setIntSetting(String key, int value) async {
     await _isar.writeTxn(() async {
-      var setting = await getSetting(key);
+      var setting = await _isar.appSettingsModels
+          .filter()
+          .keyEqualTo(key)
+          .findFirst();
       if (setting == null) {
         setting = AppSettingsModel()..key = key;
       }
@@ -48,7 +51,10 @@ class SettingsRepository {
   /// Set a string setting
   Future<void> setStringSetting(String key, String value) async {
     await _isar.writeTxn(() async {
-      var setting = await getSetting(key);
+      var setting = await _isar.appSettingsModels
+          .filter()
+          .keyEqualTo(key)
+          .findFirst();
       if (setting == null) {
         setting = AppSettingsModel()..key = key;
       }
@@ -60,7 +66,10 @@ class SettingsRepository {
   /// Set a boolean setting
   Future<void> setBoolSetting(String key, bool value) async {
     await _isar.writeTxn(() async {
-      var setting = await getSetting(key);
+      var setting = await _isar.appSettingsModels
+          .filter()
+          .keyEqualTo(key)
+          .findFirst();
       if (setting == null) {
         setting = AppSettingsModel()..key = key;
       }
