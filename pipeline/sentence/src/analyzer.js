@@ -580,6 +580,7 @@ async function analyzeBook(bookName, version, progressCallback) {
 
 /**
  * 여러 책 분석 (모든 구절을 하나의 풀에서 병렬 처리)
+ * 세션 완료 후 실패한 구절들을 최대 MAX_RETRY_SESSIONS번까지 재시도
  */
 async function analyzeBooks(bookNames, version, progressCallback) {
   loadEnv();
@@ -592,9 +593,12 @@ async function analyzeBooks(bookNames, version, progressCallback) {
   shouldStop = false;
 
   const poolSize = getPoolSize();
+  const maxRetrySessions = config.MAX_RETRY_SESSIONS || 5;
+
   log(`\n${'='.repeat(60)}`);
   log(`[CONFIG] 분석 방법: ${currentAnalysisMethod.toUpperCase()}, Pool 크기: ${poolSize}`);
   log(`[CONFIG] 선택된 책: ${bookNames.length}권 - ${bookNames.join(', ')}`);
+  log(`[CONFIG] 최대 재시도 세션: ${maxRetrySessions}회`);
   log(`${'='.repeat(60)}`);
 
   // 공통 데이터 로드
@@ -644,7 +648,7 @@ async function analyzeBooks(bookNames, version, progressCallback) {
   const totalVerses = allVerses.length;
 
   // 이미 분석된 구절 필터링
-  const versesToAnalyze = allVerses.filter((v) => {
+  let versesToAnalyze = allVerses.filter((v) => {
     const fileName = `${v.bookFilename}_${v.chapter}_${v.verse}.json`;
     const filePath = path.join(v.outputPath, fileName);
     if (fs.existsSync(filePath)) {
@@ -655,117 +659,199 @@ async function analyzeBooks(bookNames, version, progressCallback) {
     return true;
   });
 
-  const toAnalyze = versesToAnalyze.length;  // 분석해야 할 구절 수
-  log(`[INFO] 전체: ${totalVerses}구절, 분석필요: ${toAnalyze}구절, 완료: ${totalCompleted}구절`);
+  const initialToAnalyze = versesToAnalyze.length;  // 초기 분석해야 할 구절 수
+  log(`[INFO] 전체: ${totalVerses}구절, 분석필요: ${initialToAnalyze}구절, 완료: ${totalCompleted}구절`);
   log(`[POOL] ${poolSize}개 워커로 병렬 처리 시작\n`);
 
-  // 초기 진행상황 전달
-  progressCallback?.({
-    book: bookNames[0],
-    chapter: 0,
-    verse: 0,
-    completed: totalCompleted,
-    processed: totalCompleted,
-    total: totalVerses,
-    totalBooks: bookNames.length,
-    bookIndex: 1,
-    bookCompleted: bookStats[bookNames[0]].completed,
-    bookTotal: bookStats[bookNames[0]].total,
-    sessionCompleted: 0,
-    toAnalyze: toAnalyze,
-    status: 'init'
-  });
+  // 재시도 세션 관리
+  let retrySession = 0;  // 0 = 최초 세션, 1~5 = 재시도 세션
+  let failedVerses = [];  // 현재 세션에서 실패한 구절들
 
-  // Pool 기반 병렬 처리
-  const processor = async (v) => {
-    const { bookName, bookFilename, outputPath, chapter, verse } = v;
-    const fileName = `${bookFilename}_${chapter}_${verse}.json`;
-    const filePath = path.join(outputPath, fileName);
+  // 세션 실행 함수
+  const runSession = async (verses, currentRetrySession) => {
+    failedVerses = [];  // 실패 목록 초기화
+    const sessionToAnalyze = verses.length;
 
-    // 처리 시작 알림
+    // 세션 시작 로그
+    if (currentRetrySession === 0) {
+      log(`\n[SESSION] 최초 분석 세션 시작 (${sessionToAnalyze}구절)`);
+    } else {
+      log(`\n[RETRY SESSION ${currentRetrySession}/${maxRetrySessions}] 재시도 세션 시작 (${sessionToAnalyze}구절)`);
+    }
+
+    // 초기 진행상황 전달
     progressCallback?.({
-      book: bookName,
-      chapter,
-      verse,
+      book: bookNames[0],
+      chapter: 0,
+      verse: 0,
       completed: totalCompleted,
       processed: totalProcessed,
       total: totalVerses,
       totalBooks: bookNames.length,
-      bookIndex: bookNames.indexOf(bookName) + 1,
-      bookCompleted: bookStats[bookName].completed,
-      bookTotal: bookStats[bookName].total,
+      bookIndex: 1,
+      bookCompleted: bookStats[bookNames[0]]?.completed || 0,
+      bookTotal: bookStats[bookNames[0]]?.total || 0,
       sessionCompleted: sessionCompleted,
-      toAnalyze: toAnalyze,
-      status: 'processing'
+      toAnalyze: sessionToAnalyze,
+      retrySession: currentRetrySession,
+      maxRetrySessions: maxRetrySessions,
+      status: currentRetrySession === 0 ? 'init' : 'retry_init'
     });
 
-    try {
-      const result = await analyzeVerse(bookName, chapter, verse, version, wordToId, koreanBible, bibleData);
+    // Pool 기반 병렬 처리
+    const processor = async (v) => {
+      const { bookName, bookFilename, outputPath, chapter, verse } = v;
+      const fileName = `${bookFilename}_${chapter}_${verse}.json`;
+      const filePath = path.join(outputPath, fileName);
 
-      if (result) {
-        fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
-        log(`[SAVE] ${bookName} ${chapter}:${verse} -> ${fileName}`);
+      // 처리 시작 알림
+      progressCallback?.({
+        book: bookName,
+        chapter,
+        verse,
+        completed: totalCompleted,
+        processed: totalProcessed,
+        total: totalVerses,
+        totalBooks: bookNames.length,
+        bookIndex: bookNames.indexOf(bookName) + 1,
+        bookCompleted: bookStats[bookName].completed,
+        bookTotal: bookStats[bookName].total,
+        sessionCompleted: sessionCompleted,
+        toAnalyze: sessionToAnalyze,
+        retrySession: currentRetrySession,
+        maxRetrySessions: maxRetrySessions,
+        status: 'processing'
+      });
+
+      try {
+        const result = await analyzeVerse(bookName, chapter, verse, version, wordToId, koreanBible, bibleData);
+
+        if (result) {
+          fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
+          log(`[SAVE] ${bookName} ${chapter}:${verse} -> ${fileName}`);
+        }
+
+        totalCompleted++;
+        totalProcessed++;
+        sessionCompleted++;
+        bookStats[bookName].completed++;
+
+        progressCallback?.({
+          book: bookName,
+          chapter,
+          verse,
+          completed: totalCompleted,
+          processed: totalProcessed,
+          total: totalVerses,
+          totalBooks: bookNames.length,
+          bookIndex: bookNames.indexOf(bookName) + 1,
+          bookCompleted: bookStats[bookName].completed,
+          bookTotal: bookStats[bookName].total,
+          sessionCompleted: sessionCompleted,
+          toAnalyze: sessionToAnalyze,
+          retrySession: currentRetrySession,
+          maxRetrySessions: maxRetrySessions,
+          status: 'completed'
+        });
+
+        return { bookName, chapter, verse, status: 'completed' };
+      } catch (error) {
+        console.error(`[ERROR] ${bookName} ${chapter}:${verse}: ${error.message}`);
+
+        totalProcessed++;
+        totalFailed++;
+
+        // 실패한 구절을 재시도 목록에 추가
+        failedVerses.push(v);
+
+        progressCallback?.({
+          book: bookName,
+          chapter,
+          verse,
+          completed: totalCompleted,
+          processed: totalProcessed,
+          total: totalVerses,
+          totalBooks: bookNames.length,
+          bookIndex: bookNames.indexOf(bookName) + 1,
+          bookCompleted: bookStats[bookName].completed,
+          bookTotal: bookStats[bookName].total,
+          sessionCompleted: sessionCompleted,
+          toAnalyze: sessionToAnalyze,
+          retrySession: currentRetrySession,
+          maxRetrySessions: maxRetrySessions,
+          failedCount: failedVerses.length,
+          status: 'error',
+          error: error.message
+        });
+
+        return { bookName, chapter, verse, status: 'error', error: error.message };
       }
+    };
 
-      totalCompleted++;
-      totalProcessed++;
-      sessionCompleted++;
-      bookStats[bookName].completed++;
+    await processWithPool(verses, poolSize, processor);
 
-      progressCallback?.({
-        book: bookName,
-        chapter,
-        verse,
-        completed: totalCompleted,
-        processed: totalProcessed,
-        total: totalVerses,
-        totalBooks: bookNames.length,
-        bookIndex: bookNames.indexOf(bookName) + 1,
-        bookCompleted: bookStats[bookName].completed,
-        bookTotal: bookStats[bookName].total,
-        sessionCompleted: sessionCompleted,
-        toAnalyze: toAnalyze,
-        status: 'completed'
-      });
-
-      return { bookName, chapter, verse, status: 'completed' };
-    } catch (error) {
-      console.error(`[ERROR] ${bookName} ${chapter}:${verse}: ${error.message}`);
-
-      totalProcessed++;
-      totalFailed++;
-      bookStats[bookName].errors.push({ chapter, verse, error: error.message });
-
-      progressCallback?.({
-        book: bookName,
-        chapter,
-        verse,
-        completed: totalCompleted,
-        processed: totalProcessed,
-        total: totalVerses,
-        totalBooks: bookNames.length,
-        bookIndex: bookNames.indexOf(bookName) + 1,
-        bookCompleted: bookStats[bookName].completed,
-        bookTotal: bookStats[bookName].total,
-        sessionCompleted: sessionCompleted,
-        toAnalyze: toAnalyze,
-        status: 'error',
-        error: error.message
-      });
-
-      return { bookName, chapter, verse, status: 'error', error: error.message };
+    // 세션 완료 로그
+    if (currentRetrySession === 0) {
+      log(`[SESSION] 최초 세션 완료: 성공 ${sessionToAnalyze - failedVerses.length}, 실패 ${failedVerses.length}`);
+    } else {
+      log(`[RETRY SESSION ${currentRetrySession}] 완료: 성공 ${sessionToAnalyze - failedVerses.length}, 실패 ${failedVerses.length}`);
     }
+
+    return failedVerses;
   };
 
-  await processWithPool(versesToAnalyze, poolSize, processor);
+  // 최초 세션 실행
+  let currentFailedVerses = await runSession(versesToAnalyze, 0);
+
+  // 재시도 세션 실행 (실패한 구절이 있고, 중단 요청이 없으며, 최대 재시도 횟수 미만일 때)
+  while (currentFailedVerses.length > 0 && !shouldStop && retrySession < maxRetrySessions) {
+    retrySession++;
+
+    // 재시도 세션 시작 알림
+    progressCallback?.({
+      book: bookNames[0],
+      chapter: 0,
+      verse: 0,
+      completed: totalCompleted,
+      processed: totalProcessed,
+      total: totalVerses,
+      totalBooks: bookNames.length,
+      retrySession: retrySession,
+      maxRetrySessions: maxRetrySessions,
+      failedCount: currentFailedVerses.length,
+      status: 'retry_starting'
+    });
+
+    log(`\n${'='.repeat(60)}`);
+    log(`[RETRY] 재시도 세션 ${retrySession}/${maxRetrySessions} 시작 - ${currentFailedVerses.length}개 실패 구절`);
+    log(`${'='.repeat(60)}`);
+
+    // 실패한 구절들로 재시도 세션 실행
+    currentFailedVerses = await runSession(currentFailedVerses, retrySession);
+  }
 
   if (shouldStop) {
     log(`[STOP] Analysis stopped by user`);
   }
 
+  // 최종 실패 목록을 bookStats에 기록
+  for (const v of currentFailedVerses) {
+    const existingError = bookStats[v.bookName].errors.find(
+      e => e.chapter === v.chapter && e.verse === v.verse
+    );
+    if (!existingError) {
+      bookStats[v.bookName].errors.push({
+        chapter: v.chapter,
+        verse: v.verse,
+        error: 'Failed after all retry sessions'
+      });
+    }
+  }
+
   // 결과 요약
   log(`\n${'='.repeat(60)}`);
-  log(`[SUMMARY] 전체: ${totalVerses}, 완료: ${totalCompleted}, 실패: ${totalFailed}`);
+  log(`[SUMMARY] 전체: ${totalVerses}, 완료: ${totalCompleted}, 최종 실패: ${currentFailedVerses.length}`);
+  log(`[SUMMARY] 재시도 세션: ${retrySession}회 실행`);
   for (const [bookName, stats] of Object.entries(bookStats)) {
     log(`  - ${bookName}: ${stats.completed}/${stats.total} (에러: ${stats.errors.length})`);
   }
@@ -777,7 +863,9 @@ async function analyzeBooks(bookNames, version, progressCallback) {
     results: bookStats,
     totalCompleted,
     totalVerses,
-    totalFailed,
+    totalFailed: currentFailedVerses.length,
+    retrySessionsUsed: retrySession,
+    maxRetrySessions: maxRetrySessions,
     stopped: shouldStop
   };
 }
