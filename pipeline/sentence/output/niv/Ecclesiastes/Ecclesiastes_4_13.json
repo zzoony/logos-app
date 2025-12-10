@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Ecclesiastes 4:13",
+  "version": "NIV",
+  "original_text": "Better a poor but wise youth than an old but foolish king who no longer knows how to heed a warning.",
+  "korean_text": "가난하여도 지혜로운 젊은이가 늙고 둔하여 경고를 더 받을 줄 모르는 왕보다 나으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Better a poor but wise youth",
+      "korean_translation": "가난하지만 지혜로운 젊은이가 더 나으니",
+      "word_indices": [
+        288,
+        298,
+        411,
+        821
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than an old but foolish king",
+      "korean_translation": "어리석은 늙은 왕보다",
+      "word_indices": [
+        4,
+        990
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who no longer knows",
+      "korean_translation": "더 이상 알지 못하는",
+      "word_indices": [
+        13,
+        267
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "how to heed a warning",
+      "korean_translation": "경고를 주의 깊게 듣는 방법을",
+      "word_indices": [
+        586
+      ]
+    }
+  ]
+}

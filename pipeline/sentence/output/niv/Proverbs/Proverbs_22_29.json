@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Proverbs 22:29",
+  "version": "NIV",
+  "original_text": "Do you see someone skilled in their work?\n    They will serve before kings;\n    they will not serve before officials of low rank.",
+  "korean_text": "네가 자기의 일에 능숙한 사람을 보았느냐 이러한 사람은 왕 앞에 설 것이요 천한 자 앞에 서지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do you see someone skilled in their work?",
+      "korean_translation": "자기 일에 능숙한 사람을 보았는가?",
+      "word_indices": [
+        65,
+        271,
+        2059
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They will serve before kings;",
+      "korean_translation": "그들은 왕들 앞에서 섬길 것이며;",
+      "word_indices": [
+        4,
+        131
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they will not serve before officials of low rank.",
+      "korean_translation": "그들은 낮은 직책의 관리들 앞에서는 섬기지 않을 것이다.",
+      "word_indices": [
+        131,
+        183,
+        1018,
+        1374
+      ]
+    }
+  ]
+}

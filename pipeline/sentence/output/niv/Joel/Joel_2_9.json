@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Joel 2:9",
+  "version": "NIV",
+  "original_text": "They rush upon the city;\n    they run along the wall.\nThey climb into the houses;\n    like thieves they enter through the windows.",
+  "korean_text": "성중에 뛰어 들어가며 성 위에 달리며 집에 기어 오르며 도둑 같이 창으로 들어가니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They rush upon the city",
+      "korean_translation": "그들은 도시로 돌진합니다",
+      "word_indices": [
+        23,
+        1154
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they run along the wall",
+      "korean_translation": "그들은 성벽을 따라 달립니다",
+      "word_indices": [
+        176,
+        306
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They climb into the houses",
+      "korean_translation": "그들은 집 안으로 올라갑니다",
+      "word_indices": [
+        1331
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like thieves they enter through the windows",
+      "korean_translation": "도적처럼 그들은 창문으로 들어갑니다",
+      "word_indices": [
+        7,
+        39,
+        135,
+        1298
+      ]
+    }
+  ]
+}

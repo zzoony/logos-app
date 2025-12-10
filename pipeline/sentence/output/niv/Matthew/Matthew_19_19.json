@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 19:19",
+  "version": "NIV",
+  "original_text": "honor your father and mother,’ and ‘love your neighbor as yourself.’”",
+  "korean_text": "네 부모를 공경하라, 네 이웃을 네 자신과 같이 사랑하라 하신 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "honor your father and mother",
+      "korean_translation": "네 아버지와 어머니를 공경하라",
+      "word_indices": [
+        12,
+        120,
+        244
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and love your neighbor",
+      "korean_translation": "그리고 네 이웃을 사랑하라",
+      "word_indices": [
+        38,
+        356
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as yourself",
+      "korean_translation": "네 자신을 사랑하듯이",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Jonah 2:5",
+  "version": "NIV",
+  "original_text": "The engulfing waters threatened me,\n    the deep surrounded me;\n    seaweed was wrapped around my head.",
+  "korean_text": "물이 나를 영혼까지 둘렀사오며 깊음이 나를 에워싸고 바다 풀이 내 머리를 감쌌나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The engulfing waters threatened me",
+      "korean_translation": "삼켜버리는 물들이 나를 위협했고",
+      "word_indices": [
+        46,
+        2142,
+        2673
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the deep surrounded me",
+      "korean_translation": "깊은 물이 나를 둘러쌌으며",
+      "word_indices": [
+        494,
+        499
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "seaweed was wrapped around my head",
+      "korean_translation": "해초가 내 머리를 감쌌다",
+      "word_indices": [
+        67
+      ]
+    }
+  ]
+}

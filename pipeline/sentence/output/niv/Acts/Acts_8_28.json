@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Acts 8:28",
+  "version": "NIV",
+  "original_text": "and on his way home was sitting in his chariot reading the Book of Isaiah the prophet.",
+  "korean_text": "돌아가는데 수레를 타고 선지자 이사야의 글을 읽더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and on his way home",
+      "korean_translation": "그리고 그가 집으로 가는 길에",
+      "word_indices": [
+        230
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was sitting in his chariot",
+      "korean_translation": "그의 전차에 앉아 있었습니다",
+      "word_indices": [
+        317
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "reading Book of Isaiah prophet",
+      "korean_translation": "이사야 선지자의 책을 읽고 있었습니다",
+      "word_indices": [
+        70,
+        426,
+        612
+      ]
+    }
+  ]
+}

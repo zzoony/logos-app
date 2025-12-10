@@ -1,0 +1,69 @@
+{
+  "verse_reference": "John 6:51",
+  "version": "NIV",
+  "original_text": "I am the living bread that came down from heaven. Whoever eats this bread will live forever. This bread is my flesh, which I will give for the life of the world.”",
+  "korean_text": "나는 하늘에서 내려온 살아 있는 떡이니 사람이 이 떡을 먹으면 영생하리라 내가 줄 떡은 곧 세상의 생명을 위한 내 살이니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am living bread",
+      "korean_translation": "나는 살아있는 떡이니",
+      "word_indices": [
+        187
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that came down from heaven",
+      "korean_translation": "하늘에서 내려온 것이니라",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Whoever eats this bread",
+      "korean_translation": "이 떡을 먹는 사람은",
+      "word_indices": [
+        33,
+        154,
+        187
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will live forever",
+      "korean_translation": "영원히 살리라",
+      "word_indices": [
+        14,
+        166
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This bread is my flesh",
+      "korean_translation": "이 떡은 나의 살이니",
+      "word_indices": [
+        187,
+        307
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "which I will give",
+      "korean_translation": "내가 줄 것이며",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "for life of the world",
+      "korean_translation": "세상의 생명을 위해 주리라",
+      "word_indices": [
+        37,
+        190
+      ]
+    }
+  ]
+}

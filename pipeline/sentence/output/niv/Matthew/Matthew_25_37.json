@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Matthew 25:37",
+  "version": "NIV",
+  "original_text": "“Then the righteous will answer him, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?",
+  "korean_text": "이에 의인들이 대답하여 이르되 주여 우리가 어느 때에 주께서 주리신 것을 보고 음식을 대접하였으며 목마르신 것을 보고 마시게 하였나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the righteous will answer him",
+      "korean_translation": "그때 의인들이 그에게 대답하리라",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when did we see you hungry",
+      "korean_translation": "우리가 당신이 주린 것을 언제 보았나이까",
+      "word_indices": [
+        862
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and feed you",
+      "korean_translation": "그리고 당신을 먹이지 않았나이까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or thirsty",
+      "korean_translation": "또는 목마른 것을 언제 보았나이까",
+      "word_indices": [
+        1190
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and give you something to drink",
+      "korean_translation": "그리고 당신에게 마실 것을 주지 않았나이까",
+      "word_indices": [
+        5,
+        78
+      ]
+    }
+  ]
+}

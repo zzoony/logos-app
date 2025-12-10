@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 9:1",
+  "version": "NIV",
+  "original_text": "As he went along, he saw a man blind from birth.",
+  "korean_text": "예수께서 길을 가실 때에 날 때부터 맹인 된 사람을 보신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As he went along,",
+      "korean_translation": "그가 길을 가면서,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he saw a man",
+      "korean_translation": "그는 한 사람을 보았다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "blind from birth.",
+      "korean_translation": "태어날 때부터 맹인인.",
+      "word_indices": [
+        387,
+        606
+      ]
+    }
+  ]
+}

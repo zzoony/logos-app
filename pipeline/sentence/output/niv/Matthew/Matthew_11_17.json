@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 11:17",
+  "version": "NIV",
+  "original_text": "“‘We played the pipe for you,\n    and you did not dance;\nwe sang a dirge,\n    and you did not mourn.’",
+  "korean_text": "이르되 우리가 너희를 향하여 피리를 불어도 너희가 춤추지 않고 우리가 슬피 울어도 너희가 가슴을 치지 아니하였다 함과 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We played the pipe for you",
+      "korean_translation": "우리가 당신을 위해 피리를 불었는데",
+      "word_indices": [
+        1156,
+        1700
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you did not dance",
+      "korean_translation": "당신은 춤을 추지 않았습니다",
+      "word_indices": [
+        1364
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we sang a dirge",
+      "korean_translation": "우리가 애가(哀歌)를 불렀는데",
+      "word_indices": [
+        4747
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you did not mourn",
+      "korean_translation": "당신은 슬퍼하지 않았습니다",
+      "word_indices": [
+        405
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Mark 5:2",
+  "version": "NIV",
+  "original_text": "When Jesus got out of the boat, a man with an impure spirit came from the tombs to meet him.",
+  "korean_text": "배에서 나오시매 곧 더러운 귀신 들린 사람이 무덤 사이에서 나와 예수를 만나니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Jesus got out of the boat",
+      "korean_translation": "예수님이 배에서 나오셨을 때",
+      "word_indices": [
+        875
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a man with an impure spirit",
+      "korean_translation": "더러운 영을 가진 한 사람이",
+      "word_indices": [
+        10,
+        62,
+        998
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "came from the tombs",
+      "korean_translation": "무덤에서 왔으며",
+      "word_indices": [
+        621
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to meet him",
+      "korean_translation": "그를 만나기 위해",
+      "word_indices": [
+        110
+      ]
+    }
+  ]
+}

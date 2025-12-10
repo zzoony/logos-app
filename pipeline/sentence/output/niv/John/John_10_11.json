@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 10:11",
+  "version": "NIV",
+  "original_text": "“I am the good shepherd. The good shepherd lays down his life for the sheep.",
+  "korean_text": "나는 선한 목자라 선한 목자는 양들을 위하여 목숨을 버리거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the good shepherd.",
+      "korean_translation": "나는 선한 목자이다.",
+      "word_indices": [
+        56,
+        437
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The good shepherd lays down his life",
+      "korean_translation": "선한 목자는 그의 생명을 내려놓는다",
+      "word_indices": [
+        37,
+        56,
+        148,
+        437
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the sheep.",
+      "korean_translation": "양들을 위하여.",
+      "word_indices": [
+        251
+      ]
+    }
+  ]
+}

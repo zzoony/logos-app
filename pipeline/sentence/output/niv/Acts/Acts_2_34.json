@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Acts 2:34",
+  "version": "NIV",
+  "original_text": "For David did not ascend to heaven, and yet he said,\n“‘The Lord said to my Lord:\n    “Sit at my right hand",
+  "korean_text": "다윗은 하늘에 올라가지 못하였으나 친히 말하여 이르되 주께서 내 주에게 말씀하시기를",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For David did not ascend to heaven",
+      "korean_translation": "이는 다윗이 하늘에 올라가지 않았기 때문입니다",
+      "word_indices": [
+        57,
+        1531
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and yet he said",
+      "korean_translation": "그럼에도 그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Lord said to my Lord",
+      "korean_translation": "주께서 내 주께 말씀하시기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Sit at my right hand",
+      "korean_translation": "내 오른편에 앉으라",
+      "word_indices": [
+        9,
+        74,
+        151
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Mark 5:21",
+  "version": "NIV",
+  "original_text": "When Jesus had again crossed over by boat to the other side of the lake, a large crowd gathered around him while he was by the lake.",
+  "korean_text": "예수께서 배를 타시고 다시 맞은편으로 건너가시니 큰 무리가 그에게로 모이거늘 이에 바닷가에 계시더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Jesus had again crossed over by boat",
+      "korean_translation": "예수께서 다시 배를 타고 건너셨을 때",
+      "word_indices": [
+        313,
+        875
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the other side of the lake",
+      "korean_translation": "호수의 다른 편으로",
+      "word_indices": [
+        118,
+        1076
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a large crowd gathered around him",
+      "korean_translation": "큰 무리가 그에게 모여들었고",
+      "word_indices": [
+        169,
+        303,
+        346
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while he was by the lake",
+      "korean_translation": "그가 호수가에 있을 때였다",
+      "word_indices": [
+        1076
+      ]
+    }
+  ]
+}

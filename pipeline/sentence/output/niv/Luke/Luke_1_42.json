@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 1:42",
+  "version": "NIV",
+  "original_text": "In a loud voice she exclaimed: “Blessed are you among women, and blessed is the child you will bear!",
+  "korean_text": "큰 소리로 불러 이르되 여자 중에 네가 복이 있으며 네 태중의 아이도 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In a loud voice she exclaimed:",
+      "korean_translation": "그녀가 큰 소리로 외쳤습니다:",
+      "word_indices": [
+        241,
+        828,
+        1924
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Blessed are you among women",
+      "korean_translation": "여인들 중에 당신은 복이 있으며",
+      "word_indices": [
+        27,
+        97
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and blessed is the child you will bear!",
+      "korean_translation": "당신이 태낼 아이도 복이 있습니다!",
+      "word_indices": [
+        54,
+        97,
+        111
+      ]
+    }
+  ]
+}

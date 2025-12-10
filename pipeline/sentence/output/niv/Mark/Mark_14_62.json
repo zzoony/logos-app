@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Mark 14:62",
+  "version": "NIV",
+  "original_text": "“I am,” said Jesus. “And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”",
+  "korean_text": "예수께서 이르시되 내가 그니라 인자가 권능자의 우편에 앉은 것과 하늘 구름을 타고 오는 것을 너희가 보리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"I am,\" said Jesus.",
+      "korean_translation": "\"내가 그로라\"고 예수께서 말씀하셨다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And you will see",
+      "korean_translation": "그리고 너희가 볼 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Son of Man sitting",
+      "korean_translation": "인자가 앉아 있는 것을",
+      "word_indices": [
+        2,
+        10
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the right hand of the Mighty One",
+      "korean_translation": "전능자의 오른편에",
+      "word_indices": [
+        9,
+        74,
+        276
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and coming on the clouds of heaven.",
+      "korean_translation": "하늘의 구름을 타고 오시는 것을.",
+      "word_indices": [
+        57,
+        331
+      ]
+    }
+  ]
+}

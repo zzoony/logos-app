@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 25:42",
+  "version": "NIV",
+  "original_text": "For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,",
+  "korean_text": "내가 주릴 때에 너희가 먹을 것을 주지 아니하였고 목마를 때에 마시게 하지 아니하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I was hungry",
+      "korean_translation": "내가 배고팠는데",
+      "word_indices": [
+        862
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you gave me nothing to eat",
+      "korean_translation": "너희는 먹을 것을 주지 않았고",
+      "word_indices": [
+        5,
+        33
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was thirsty",
+      "korean_translation": "내가 목말랐는데",
+      "word_indices": [
+        1190
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you gave me nothing to drink",
+      "korean_translation": "너희는 마실 것을 주지 않았느니라",
+      "word_indices": [
+        5,
+        78
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Mark 5:3",
+  "version": "NIV",
+  "original_text": "This man lived in the tombs, and no one could bind him anymore, not even with a chain.",
+  "korean_text": "그 사람은 무덤 사이에 거처하는데 이제는 아무도 쇠사슬로도 맬 수 없게 되었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This man lived in the tombs",
+      "korean_translation": "이 사람은 무덤에서 살았습니다",
+      "word_indices": [
+        10,
+        621
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and no one could bind him anymore",
+      "korean_translation": "그리고 아무도 그를 더 이상 묶을 수 없었습니다",
+      "word_indices": [
+        604,
+        1510
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not even with a chain",
+      "korean_translation": "사슬로도 안되었습니다",
+      "word_indices": [
+        752
+      ]
+    }
+  ]
+}

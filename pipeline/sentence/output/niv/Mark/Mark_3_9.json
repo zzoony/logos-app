@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Mark 3:9",
+  "version": "NIV",
+  "original_text": "Because of the crowd he told his disciples to have a small boat ready for him, to keep the people from crowding him.",
+  "korean_text": "예수께서 무리가 에워싸 미는 것을 피하기 위하여 작은 배를 대기하도록 제자들에게 명하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of the crowd",
+      "korean_translation": "무리 때문에",
+      "word_indices": [
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he told his disciples",
+      "korean_translation": "그는 제자들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to have a small boat ready for him",
+      "korean_translation": "그를 위해 작은 배를 준비하도록",
+      "word_indices": [
+        577,
+        698,
+        875
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to keep the people from crowding him",
+      "korean_translation": "사람들이 그를 몰려들지 못하게 하기 위해",
+      "word_indices": [
+        3,
+        60,
+        303
+      ]
+    }
+  ]
+}

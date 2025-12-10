@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ecclesiastes 11:1",
+  "version": "NIV",
+  "original_text": "Ship your grain across the sea;\n    after many days you may receive a return.",
+  "korean_text": "너는 네 떡을 물 위에 던져라 여러 날 후에 도로 찾으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ship your grain across the sea",
+      "korean_translation": "너의 곡식을 바다를 건너 보내라",
+      "word_indices": [
+        108,
+        182,
+        804
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "after many days",
+      "korean_translation": "많은 날이 지난 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you may receive a return",
+      "korean_translation": "너는 이익을 받을 수 있으리라",
+      "word_indices": [
+        89,
+        179
+      ]
+    }
+  ]
+}

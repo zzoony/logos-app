@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 4:34",
+  "version": "NIV",
+  "original_text": "“Go away! What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”",
+  "korean_text": "아 나사렛 예수여 우리가 당신과 무슨 상관이 있나이까 우리를 멸하러 왔나이까 나는 당신이 누구인 줄 아노니 하나님의 거룩한 자니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go away!",
+      "korean_translation": "가거라!",
+      "word_indices": [
+        34
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What do you want with us,",
+      "korean_translation": "우리와 무슨 상관이 있느냐,",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus of Nazareth?",
+      "korean_translation": "나사렛 예수여?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Have you come to destroy us?",
+      "korean_translation": "우리를 멸하러 왔느냐?",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I know who you are—",
+      "korean_translation": "내가 네가 누구인지 아노라—",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the Holy One of God!”",
+      "korean_translation": "하나님의 거룩한 자!",
+      "word_indices": [
+        1,
+        59
+      ]
+    }
+  ]
+}

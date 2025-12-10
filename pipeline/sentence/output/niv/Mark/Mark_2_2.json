@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Mark 2:2",
+  "version": "NIV",
+  "original_text": "They gathered in such large numbers that there was no room left, not even outside the door, and he preached the word to them.",
+  "korean_text": "많은 사람이 모여서 문 앞까지도 들어설 자리가 없게 되었는데 예수께서 그들에게 도를 말씀하시더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They gathered in such large numbers",
+      "korean_translation": "그들이 너무 많은 무리로 모여서",
+      "word_indices": [
+        169,
+        201,
+        346
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that there was no room left",
+      "korean_translation": "자리가 남아있지 않았으니",
+      "word_indices": [
+        409
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not even outside the door",
+      "korean_translation": "문 밖에도 자리가 없었다",
+      "word_indices": [
+        404,
+        415
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he preached the word to them",
+      "korean_translation": "그가 그들에게 말씀을 전하였다",
+      "word_indices": [
+        19,
+        521
+      ]
+    }
+  ]
+}

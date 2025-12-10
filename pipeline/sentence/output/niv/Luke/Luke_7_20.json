@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 7:20",
+  "version": "NIV",
+  "original_text": "When the men came to Jesus, they said, “John the Baptist sent us to you to ask, ‘Are you the one who is to come, or should we expect someone else?’”",
+  "korean_text": "그들이 예수께 나아가 이르되 세례 요한이 우리를 보내어 당신께 여쭈어 보라고 하기를 오실 그이가 당신이오니이까 우리가 다른 이를 기다리오리이까 하더이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When men came to Jesus",
+      "korean_translation": "사람들이 예수께 왔을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they said",
+      "korean_translation": "그들이 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "John the Baptist sent us to you",
+      "korean_translation": "세례 요한이 우리를 당신에게 보냈습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to ask",
+      "korean_translation": "묻기 위해",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Are you the one who is to come",
+      "korean_translation": "당신이 오실 분입니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or should we expect someone else",
+      "korean_translation": "아니면 우리가 다른 사람을 기다려야 합니까",
+      "word_indices": [
+        271,
+        485,
+        1358
+      ]
+    }
+  ]
+}

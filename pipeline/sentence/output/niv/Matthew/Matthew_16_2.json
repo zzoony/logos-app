@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 16:2",
+  "version": "NIV",
+  "original_text": "He replied, “When evening comes, you say, ‘It will be fair weather, for the sky is red,’",
+  "korean_text": "예수께서 대답하여 이르시되 너희가 저녁에 하늘이 붉으면 날이 좋겠다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He replied",
+      "korean_translation": "그가 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When evening comes",
+      "korean_translation": "저녁이 되면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you say",
+      "korean_translation": "너희는 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It will be fair weather",
+      "korean_translation": "날씨가 맑을 것이다",
+      "word_indices": [
+        2357,
+        5933
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for the sky is red",
+      "korean_translation": "하늘이 붉기 때문이다",
+      "word_indices": [
+        536,
+        855
+      ]
+    }
+  ]
+}

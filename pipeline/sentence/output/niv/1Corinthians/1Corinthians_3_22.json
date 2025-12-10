@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Corinthians 3:22",
+  "version": "NIV",
+  "original_text": "whether Paul or Apollos or Cephas or the world or life or death or the present or the future—all are yours,",
+  "korean_text": "바울이나 아볼로나 게바나 세계나 생명이나 사망이나 지금 것이나 장래 것이나 다 너희의 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "whether Paul or Apollos or Cephas",
+      "korean_translation": "바울이든 아볼로든 게파든",
+      "word_indices": [
+        2288
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or world or life or death",
+      "korean_translation": "세상이든 삶이든 죽음이든",
+      "word_indices": [
+        37,
+        80,
+        190
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or present or future",
+      "korean_translation": "현재든 미래든",
+      "word_indices": [
+        194,
+        1253
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all are yours",
+      "korean_translation": "모든 것이 너희 것이다",
+      "word_indices": []
+    }
+  ]
+}

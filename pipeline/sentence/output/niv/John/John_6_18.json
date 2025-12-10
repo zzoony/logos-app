@@ -1,0 +1,27 @@
+{
+  "verse_reference": "John 6:18",
+  "version": "NIV",
+  "original_text": "A strong wind was blowing and the waters grew rough.",
+  "korean_text": "큰 바람이 불어 파도가 일어나더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A strong wind was blowing",
+      "korean_translation": "강한 바람이 불고 있었다",
+      "word_indices": [
+        295,
+        342,
+        639
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and waters grew rough",
+      "korean_translation": "물결이 거칠어졌다",
+      "word_indices": [
+        46,
+        3320
+      ]
+    }
+  ]
+}

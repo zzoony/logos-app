@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Corinthians 7:18",
+  "version": "NIV",
+  "original_text": "Was a man already circumcised when he was called? He should not become uncircumcised. Was a man uncircumcised when he was called? He should not be circumcised.",
+  "korean_text": "할례자로서 부르심을 받은 자가 있느냐 무할례자가 되지 말며 무할례자로 부르심을 받은 자가 있느냐 할례를 받지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Was a man already circumcised when he was called?",
+      "korean_translation": "그가 부르심을 받았을 때 이미 할례를 받은 사람이었습니까?",
+      "word_indices": [
+        10,
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He should not become uncircumcised.",
+      "korean_translation": "그는 할례받지 않은 상태가 되어서는 안 됩니다.",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Was a man uncircumcised when he was called?",
+      "korean_translation": "그가 부르심을 받았을 때 할례받지 않은 사람이었습니까?",
+      "word_indices": [
+        10,
+        35
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He should not be circumcised.",
+      "korean_translation": "그는 할례를 받아서는 안 됩니다.",
+      "word_indices": []
+    }
+  ]
+}

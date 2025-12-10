@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Revelation 8:11",
+  "version": "NIV",
+  "original_text": "the name of the star is Wormwood. A third of the waters turned bitter, and many people died from the waters that had become bitter.",
+  "korean_text": "이 별 이름은 쓴 쑥이라 물의 삼분의 일이 쓴 쑥이 되매 그 물이 쓴 물이 되므로 많은 사람이 죽더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the name of the star is Wormwood",
+      "korean_translation": "별의 이름은 웜우드입니다",
+      "word_indices": [
+        17,
+        676
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A third of the waters turned bitter",
+      "korean_translation": "물의 삼분의 일이 썩어졌습니다",
+      "word_indices": [
+        46,
+        49,
+        280,
+        973
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and many people died",
+      "korean_translation": "그리고 많은 사람들이 죽었습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the waters that had become bitter",
+      "korean_translation": "썩어진 물로 인하여",
+      "word_indices": [
+        32,
+        46,
+        973
+      ]
+    }
+  ]
+}

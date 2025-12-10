@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Luke 23:46",
+  "version": "NIV",
+  "original_text": "Jesus called out with a loud voice, “Father, into your hands I commit my spirit.” When he had said this, he breathed his last.",
+  "korean_text": "예수께서 큰 소리로 불러 이르시되 아버지 내 영혼을 아버지 손에 부탁하나이다 하고 이 말씀을 하신 후 숨지시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus called out with a loud voice",
+      "korean_translation": "예수님은 큰 소리로 외치셨다",
+      "word_indices": [
+        35,
+        241,
+        828
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Father",
+      "korean_translation": "아버지",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "into your hands I commit my spirit",
+      "korean_translation": "내 영을 당신 손에 맡깁니다",
+      "word_indices": [
+        9,
+        62,
+        322
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When he had said this",
+      "korean_translation": "이것을 말씀하신 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he breathed his last",
+      "korean_translation": "그는 마지막 숨을 거두었다",
+      "word_indices": [
+        344,
+        792
+      ]
+    }
+  ]
+}

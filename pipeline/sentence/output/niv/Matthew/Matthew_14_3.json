@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 14:3",
+  "version": "NIV",
+  "original_text": "Now Herod had arrested John and bound him and put him in prison because of Herodias, his brother Philip’s wife,",
+  "korean_text": "전에 헤롯이 그 동생 빌립의 아내 헤로디아의 일로 요한을 잡아 결박하여 옥에 가두었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Herod had arrested John",
+      "korean_translation": "헤롯이 요한을 체포했고",
+      "word_indices": [
+        1224
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bound him",
+      "korean_translation": "그를 묶고",
+      "word_indices": [
+        4036
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and put him in prison",
+      "korean_translation": "그를 감옥에 넣었다",
+      "word_indices": [
+        689
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because of Herodias",
+      "korean_translation": "헤로디아 때문이었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "his brother Philip's wife",
+      "korean_translation": "그의 형제 빌립의 아내였던",
+      "word_indices": [
+        53,
+        79
+      ]
+    }
+  ]
+}

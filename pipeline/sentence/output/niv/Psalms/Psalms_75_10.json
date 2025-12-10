@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 75:10",
+  "version": "NIV",
+  "original_text": "who says, “I will cut off the horns of all the wicked,\n    but the horns of the righteous will be lifted up.”",
+  "korean_text": "또 악인들의 뿔을 다 베고 의인의 뿔은 높이 들리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "who says",
+      "korean_translation": "말하는 이는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will cut off the horns of all the wicked",
+      "korean_translation": "내가 모든 악인의 뿔을 끊으리라",
+      "word_indices": [
+        184,
+        503,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the horns of the righteous will be lifted up",
+      "korean_translation": "의인의 뿔은 높이 들리리라",
+      "word_indices": [
+        379,
+        503
+      ]
+    }
+  ]
+}

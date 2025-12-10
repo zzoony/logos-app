@@ -1,0 +1,57 @@
+{
+  "verse_reference": "John 10:38",
+  "version": "NIV",
+  "original_text": "But if I do them, even though you do not believe me, believe the works, that you may know and understand that the Father is in me, and I in the Father.”",
+  "korean_text": "내가 행하거든 나를 믿지 아니할지라도 그 일은 믿으라 그러면 너희가 아버지께서 내 안에 계시고 내가 아버지 안에 있음을 깨달아 알리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if I do them",
+      "korean_translation": "그러나 내가 그것들을 행하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even though you do not believe me",
+      "korean_translation": "너희가 나를 믿지 않을지라도",
+      "word_indices": [
+        127,
+        214
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "believe the works",
+      "korean_translation": "그 행위들을 믿으라",
+      "word_indices": [
+        65,
+        214
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you may know and understand",
+      "korean_translation": "너희가 알고 깨달으려 함이라",
+      "word_indices": [
+        13,
+        191
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that the Father is in me",
+      "korean_translation": "아버지께서 내 안에 계시고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and I in the Father",
+      "korean_translation": "내가 아버지 안에 있음을",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

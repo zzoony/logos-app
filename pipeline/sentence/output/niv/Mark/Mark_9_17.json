@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Mark 9:17",
+  "version": "NIV",
+  "original_text": "A man in the crowd answered, “Teacher, I brought you my son, who is possessed by a spirit that has robbed him of speech.",
+  "korean_text": "무리 중의 하나가 대답하되 선생님 말 못하게 귀신 들린 내 아들을 선생님께 데려왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man in the crowd answered",
+      "korean_translation": "무리 중의 한 사람이 대답하여",
+      "word_indices": [
+        10,
+        63,
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Teacher, I brought you my son",
+      "korean_translation": "선생님, 제 아들을 데려왔습니다",
+      "word_indices": [
+        2,
+        357
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is possessed by a spirit",
+      "korean_translation": "그는 영에 사로잡혀 있습니다",
+      "word_indices": [
+        62,
+        550
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that has robbed him of speech",
+      "korean_translation": "그 영이 그에게서 말하는 능력을 빼앗았습니다",
+      "word_indices": [
+        1158
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 10:9",
+  "version": "NIV",
+  "original_text": "I am the gate; whoever enters through me will be saved. They will come in and go out, and find pasture.",
+  "korean_text": "내가 문이니 누구든지 나로 말미암아 들어가면 구원을 받고 또는 들어가며 나오며 꼴을 얻으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the gate",
+      "korean_translation": "나는 문이다",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whoever enters through me",
+      "korean_translation": "나를 통해 들어가는 사람은",
+      "word_indices": [
+        39,
+        135,
+        154
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will be saved",
+      "korean_translation": "구원을 받을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They will come in and go out",
+      "korean_translation": "그들은 들어오고 나갈 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and find pasture",
+      "korean_translation": "초장을 찾을 것이다",
+      "word_indices": [
+        55,
+        911
+      ]
+    }
+  ]
+}

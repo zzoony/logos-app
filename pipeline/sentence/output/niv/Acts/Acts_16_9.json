@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Acts 16:9",
+  "version": "NIV",
+  "original_text": "During the night Paul had a vision of a man of Macedonia standing and begging him, “Come over to Macedonia and help us.”",
+  "korean_text": "밤에 환상이 바울에게 보이니 마게도냐 사람 하나가 서서 그에게 청하여 이르되 마게도냐로 건너와서 우리를 도우라 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "During night Paul had a vision",
+      "korean_translation": "밤중에 바울는 환상을 보았다",
+      "word_indices": [
+        126,
+        501
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of a man of Macedonia standing",
+      "korean_translation": "마게도냐 사람이 서 있는",
+      "word_indices": [
+        10,
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and begging him",
+      "korean_translation": "그리고 그에게 간청하는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "\"Come over to Macedonia",
+      "korean_translation": "마게도냐로 건너와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and help us.\"",
+      "korean_translation": "우리를 도와달라고\"",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 15:27",
+  "version": "NIV",
+  "original_text": "‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’",
+  "korean_text": "대답하되 당신의 동생이 돌아왔으매 당신의 아버지가 건강한 그를 다시 맞아들이게 됨으로 인하여 살진 송아지를 잡았나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your brother has come",
+      "korean_translation": "당신의 형제가 돌아왔습니다",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he replied",
+      "korean_translation": "그가 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and your father has killed the fattened calf",
+      "korean_translation": "그리고 당신의 아버지는 살찐 송아지를 잡았습니다",
+      "word_indices": [
+        12,
+        76,
+        796,
+        1807
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because he has him back safe and sound",
+      "korean_translation": "왜냐하면 그가 무사히 그를 되찾았기 때문입니다",
+      "word_indices": [
+        52,
+        310,
+        1245
+      ]
+    }
+  ]
+}

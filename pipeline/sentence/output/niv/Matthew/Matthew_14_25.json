@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 14:25",
+  "version": "NIV",
+  "original_text": "Shortly before dawn Jesus went out to them, walking on the lake.",
+  "korean_text": "밤 사경에 예수께서 바다 위로 걸어서 제자들에게 오시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Shortly before dawn",
+      "korean_translation": "새벽이 막 동 트기 직전에",
+      "word_indices": [
+        1032,
+        4099
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus went out to them",
+      "korean_translation": "예수님께서 그들에게 나아가셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "walking on the lake",
+      "korean_translation": "호수 위를 걸으시면서",
+      "word_indices": [
+        238,
+        1076
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Ezekiel 43:4",
+  "version": "NIV",
+  "original_text": "The glory of the Lord entered the temple through the gate facing east.",
+  "korean_text": "여호와의 영광이 동문을 통하여 성전으로 들어가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The glory of the Lord",
+      "korean_translation": "주님의 영광이",
+      "word_indices": [
+        159
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "entered the temple",
+      "korean_translation": "성전에 들어갔다",
+      "word_indices": [
+        43,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "through the gate facing east",
+      "korean_translation": "동쪽을 향한 문을 통해",
+      "word_indices": [
+        39,
+        132,
+        283
+      ]
+    }
+  ]
+}

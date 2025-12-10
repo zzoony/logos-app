@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 11:3",
+  "version": "NIV",
+  "original_text": "to ask him, “Are you the one who is to come, or should we expect someone else?”",
+  "korean_text": "예수께 여짜오되 오실 그이가 당신이오니이까 우리가 다른 이를 기다리오리이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "to ask him",
+      "korean_translation": "그에게 묻기 위해",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Are you the one who is to come",
+      "korean_translation": "당신이 오시기로 된 그 분입니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or should we expect someone else?",
+      "korean_translation": "아니면 우리가 다른 사람을 기대해야 합니까?",
+      "word_indices": [
+        271,
+        485,
+        1358
+      ]
+    }
+  ]
+}

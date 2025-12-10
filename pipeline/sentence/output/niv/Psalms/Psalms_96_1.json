@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 96:1",
+  "version": "NIV",
+  "original_text": "Sing to the Lord a new song;\n    sing to the Lord, all the earth.",
+  "korean_text": "새 노래로 여호와께 노래하라 온 땅이여 여호와께 노래할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sing to the Lord a new song",
+      "korean_translation": "새 노래로 주를 노래하라",
+      "word_indices": [
+        337,
+        653
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sing to the Lord",
+      "korean_translation": "주를 노래하라",
+      "word_indices": [
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all the earth",
+      "korean_translation": "온 땅이여",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

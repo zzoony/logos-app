@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 6:47",
+  "version": "NIV",
+  "original_text": "Very truly I tell you, the one who believes has eternal life.",
+  "korean_text": "진실로 진실로 너희에게 이르노니 믿는 자는 영생을 가졌나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Very truly I tell you,",
+      "korean_translation": "진실로 너희에게 이르노니,",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "one who believes",
+      "korean_translation": "믿는 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "has eternal life.",
+      "korean_translation": "영생을 가졌느니라.",
+      "word_indices": [
+        37,
+        650
+      ]
+    }
+  ]
+}

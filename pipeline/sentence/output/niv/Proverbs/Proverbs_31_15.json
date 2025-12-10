@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Proverbs 31:15",
+  "version": "NIV",
+  "original_text": "She gets up while it is still night;\n    she provides food for her family\n    and portions for her female servants.",
+  "korean_text": "밤이 새기 전에 일어나서 자기 집안 사람들에게 음식을 나누어 주며 여종들에게 일을 정하여 맡기며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She gets up",
+      "korean_translation": "그녀는 일어납니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "while it is still night",
+      "korean_translation": "밤이 아직 어두울 때",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she provides food for her family",
+      "korean_translation": "그녀는 가족에게 음식을 제공합니다",
+      "word_indices": [
+        103,
+        145
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and portions for her female servants",
+      "korean_translation": "그리고 여종들에게는 몫을 줍니다",
+      "word_indices": [
+        25,
+        568,
+        614
+      ]
+    }
+  ]
+}

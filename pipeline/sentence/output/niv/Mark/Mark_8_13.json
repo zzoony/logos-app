@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 8:13",
+  "version": "NIV",
+  "original_text": "Then he left them, got back into the boat and crossed to the other side.",
+  "korean_text": "그들을 떠나 다시 배에 올라 건너편으로 가시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he left them",
+      "korean_translation": "그때 그는 그들을 떠났고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "got back into the boat",
+      "korean_translation": "배에 다시 탔으며",
+      "word_indices": [
+        52,
+        875
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and crossed to the other side",
+      "korean_translation": "그리고 건너편으로 건너갔다",
+      "word_indices": [
+        118,
+        313
+      ]
+    }
+  ]
+}

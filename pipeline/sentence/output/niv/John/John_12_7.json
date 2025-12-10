@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 12:7",
+  "version": "NIV",
+  "original_text": "“Leave her alone,” Jesus replied. “It was intended that she should save this perfume for the day of my burial.",
+  "korean_text": "예수께서 이르시되 그를 가만 두어 나의 장례할 날을 위하여 그것을 간직하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Leave her alone",
+      "korean_translation": "그녀를 내버려 두어라",
+      "word_indices": [
+        30,
+        480
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was intended",
+      "korean_translation": "그것은 계획된 것이었다",
+      "word_indices": [
+        1234
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that she should save this perfume",
+      "korean_translation": "그녀가 이 향유를 저장해야 한다고",
+      "word_indices": [
+        139,
+        1212
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for the day of my burial",
+      "korean_translation": "내 장례식 날을 위해",
+      "word_indices": [
+        1769
+      ]
+    }
+  ]
+}

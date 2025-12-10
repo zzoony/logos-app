@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 8:18",
+  "version": "NIV",
+  "original_text": "When Jesus saw the crowd around him, he gave orders to cross to the other side of the lake.",
+  "korean_text": "예수께서 무리가 자기를 에워싸는 것을 보시고 건너편으로 가기를 명하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Jesus saw the crowd around him",
+      "korean_translation": "예수님께서 자기 주위에 모인 무리를 보셨을 때",
+      "word_indices": [
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he gave orders to cross to the other side",
+      "korean_translation": "그는 호수 반대편으로 건너가라고 명령하셨다",
+      "word_indices": [
+        5,
+        118,
+        163
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the lake",
+      "korean_translation": "호수의",
+      "word_indices": [
+        1076
+      ]
+    }
+  ]
+}

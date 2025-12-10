@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 10:4",
+  "version": "NIV",
+  "original_text": "Do not take a purse or bag or sandals; and do not greet anyone on the road.",
+  "korean_text": "전대나 배낭이나 신발을 가지지 말며 길에서 아무에게도 문안하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not take a purse",
+      "korean_translation": "지갑을 가지지 말라",
+      "word_indices": [
+        2681
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or bag or sandals",
+      "korean_translation": "또는 가방이나 신발도 가지지 말라",
+      "word_indices": [
+        1180,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and do not greet anyone on the road",
+      "korean_translation": "그리고 길에서 누구에게도 인사하지 말라",
+      "word_indices": [
+        68,
+        484,
+        806
+      ]
+    }
+  ]
+}

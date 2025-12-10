@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Matthew 22:38",
+  "version": "NIV",
+  "original_text": "This is the first and greatest commandment.",
+  "korean_text": "이것이 크고 첫째 되는 계명이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the first commandment",
+      "korean_translation": "이것은 첫째 계명입니다",
+      "word_indices": [
+        1211
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the greatest commandment",
+      "korean_translation": "그리고 가장 위대한 계명입니다",
+      "word_indices": [
+        1211,
+        1268
+      ]
+    }
+  ]
+}

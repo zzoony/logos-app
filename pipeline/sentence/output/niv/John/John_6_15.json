@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 6:15",
+  "version": "NIV",
+  "original_text": "Jesus, knowing that they intended to come and make him king by force, withdrew again to a mountain by himself.",
+  "korean_text": "그러므로 예수께서 그들이 와서 자기를 억지로 붙들어 임금으로 삼으려는 줄 아시고 다시 혼자 산으로 떠나 가시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus, knowing that they intended to come",
+      "korean_translation": "예수님은 그들이 오려고 한다는 것을 아시고",
+      "word_indices": [
+        13,
+        1234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and make him king by force",
+      "korean_translation": "그를 억지로 왕으로 삼으려 한다는 것을 아시고",
+      "word_indices": [
+        4,
+        542
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "withdrew again to a mountain",
+      "korean_translation": "다시 산으로 물러가셨다",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by himself",
+      "korean_translation": "혼자서",
+      "word_indices": []
+    }
+  ]
+}

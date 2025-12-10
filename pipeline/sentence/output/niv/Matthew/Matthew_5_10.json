@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 5:10",
+  "version": "NIV",
+  "original_text": "Blessed are those who are persecuted because of righteousness,\n    for theirs is the kingdom of heaven.",
+  "korean_text": "의를 위하여 박해를 받은 자는 복이 있나니 천국이 그들의 것임이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed are those",
+      "korean_translation": "복 있는 사람들은",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who are persecuted",
+      "korean_translation": "박해를 받는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of righteousness",
+      "korean_translation": "의를 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for theirs is the kingdom of heaven",
+      "korean_translation": "천국은 저희 것임이니",
+      "word_indices": [
+        57,
+        109
+      ]
+    }
+  ]
+}

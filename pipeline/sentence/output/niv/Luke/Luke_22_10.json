@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Luke 22:10",
+  "version": "NIV",
+  "original_text": "He replied, “As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,",
+  "korean_text": "이르시되 보라 너희가 성내로 들어가면 물 한 동이를 가지고 가는 사람을 만나리니 그가 들어가는 집으로 따라 들어가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He replied",
+      "korean_translation": "그가 대답하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "As you enter the city",
+      "korean_translation": "네가 성에 들어갈 때",
+      "word_indices": [
+        23,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a man carrying a jar of water",
+      "korean_translation": "물항아리를 든 한 사람이",
+      "word_indices": [
+        10,
+        46,
+        129,
+        746
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will meet you",
+      "korean_translation": "너를 만날 것이라",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Follow him",
+      "korean_translation": "그를 따라라",
+      "word_indices": [
+        91
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to the house that he enters",
+      "korean_translation": "그가 들어가는 집으로",
+      "word_indices": [
+        26,
+        135
+      ]
+    }
+  ]
+}

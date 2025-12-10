@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Mark 13:30",
+  "version": "NIV",
+  "original_text": "Truly I tell you, this generation will certainly not pass away until all these things have happened.",
+  "korean_text": "내가 진실로 너희에게 말하노니 이 세대가 지나가기 전에 이 일이 다 일어나리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Truly I tell you",
+      "korean_translation": "진실로 너희에게 말하노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this generation will certainly not pass away",
+      "korean_translation": "이 세대는 반드시 지나가지 아니하리니",
+      "word_indices": [
+        34,
+        324,
+        465
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until all these things have happened",
+      "korean_translation": "이 모든 일이 이루어지기까지이니라",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Proverbs 1:11",
+  "version": "NIV",
+  "original_text": "If they say, “Come along with us;\n    let’s lie in wait for innocent blood,\n    let’s ambush some harmless soul;",
+  "korean_text": "그들이 네게 말하기를 우리와 함께 가자 우리가 가만히 엎드렸다가 사람의 피를 흘리자 죄 없는 자를 까닭 없이 숨어 기다리다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If they say",
+      "korean_translation": "그들이 만약 말하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Come along with us",
+      "korean_translation": "우리와 함께 가자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let's lie in wait for innocent blood",
+      "korean_translation": "무죄한 피를 위해 매복하자",
+      "word_indices": [
+        94,
+        142,
+        388,
+        687
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "let's ambush some harmless soul",
+      "korean_translation": "무고한 영혼을 급습하자",
+      "word_indices": [
+        558,
+        1340
+      ]
+    }
+  ]
+}

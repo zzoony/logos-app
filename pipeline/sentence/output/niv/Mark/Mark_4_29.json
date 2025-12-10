@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Mark 4:29",
+  "version": "NIV",
+  "original_text": "As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.”",
+  "korean_text": "열매가 익으면 곧 낫을 대나니 이는 추수 때가 이르렀음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As soon as the grain is ripe",
+      "korean_translation": "곡식이 익자마자",
+      "word_indices": [
+        182,
+        502,
+        1989
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he puts the sickle to it",
+      "korean_translation": "그는 그것에 낫을 댄다",
+      "word_indices": [
+        2072
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because harvest has come",
+      "korean_translation": "수확 때가 왔기 때문이다",
+      "word_indices": [
+        472
+      ]
+    }
+  ]
+}

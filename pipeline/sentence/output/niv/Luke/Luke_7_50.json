@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 7:50",
+  "version": "NIV",
+  "original_text": "Jesus said to the woman, “Your faith has saved you; go in peace.”",
+  "korean_text": "예수께서 여자에게 이르시되 네 믿음이 너를 구원하였으니 평안히 가라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to the woman",
+      "korean_translation": "예수님께서 여인에게 말씀하셨습니다",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your faith has saved you",
+      "korean_translation": "네 믿음이 너를 구원했느니라",
+      "word_indices": [
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "go in peace",
+      "korean_translation": "평안히 가라",
+      "word_indices": [
+        198
+      ]
+    }
+  ]
+}

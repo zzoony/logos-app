@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Isaiah 59:5",
+  "version": "NIV",
+  "original_text": "They hatch the eggs of vipers\n    and spin a spider’s web.\nWhoever eats their eggs will die,\n    and when one is broken, an adder is hatched.",
+  "korean_text": "독사의 알을 품으며 거미줄을 짜나니 그 알을 먹는 자는 죽을 것이요 그 알이 밟힌즉 터져서 독사가 나올 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They hatch eggs of vipers",
+      "korean_translation": "그들은 독사의 알을 부화시킨다",
+      "word_indices": [
+        1967,
+        2604,
+        3652
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and spin a spider's web",
+      "korean_translation": "그리고 거미줄을 친다",
+      "word_indices": [
+        2944,
+        3955,
+        4457
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Whoever eats their eggs will die",
+      "korean_translation": "그들의 알을 먹는 사람은 죽을 것이다",
+      "word_indices": [
+        33,
+        58,
+        154,
+        2604
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and when one is broken",
+      "korean_translation": "그리고 하나가 부서지면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "an adder is hatched",
+      "korean_translation": "독뱀이 부화된다",
+      "word_indices": [
+        3652,
+        3970
+      ]
+    }
+  ]
+}

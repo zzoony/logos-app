@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 16:23",
+  "version": "NIV",
+  "original_text": "Jesus turned and said to Peter, “Get behind me, Satan! You are a stumbling block to me; you do not have in mind the concerns of God, but merely human concerns.”",
+  "korean_text": "예수께서 돌이키시며 베드로에게 이르시되 사탄아 내 뒤로 물러 가라 너는 나를 넘어지게 하는 자로다 네가 하나님의 일을 생각하지 아니하고 도리어 사람의 일을 생각하는도다 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus turned and said to Peter",
+      "korean_translation": "예수님은 돌아서서 베드로에게 말씀하셨다",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Get behind me, Satan!",
+      "korean_translation": "사탄아, 내 뒤로 물러가라!",
+      "word_indices": [
+        864
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You are a stumbling block to me",
+      "korean_translation": "너는 내게 걸림돌이다",
+      "word_indices": [
+        1367
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you do not have in mind the concerns of God",
+      "korean_translation": "너는 하나님의 관심사를 마음에 두지 않고",
+      "word_indices": [
+        1,
+        325,
+        336
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but merely human concerns",
+      "korean_translation": "오직 인간의 관심사만 마음에 둔다",
+      "word_indices": [
+        239,
+        336,
+        2000
+      ]
+    }
+  ]
+}

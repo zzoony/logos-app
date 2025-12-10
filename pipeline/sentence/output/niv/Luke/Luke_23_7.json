@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 23:7",
+  "version": "NIV",
+  "original_text": "When he learned that Jesus was under Herod’s jurisdiction, he sent him to Herod, who was also in Jerusalem at that time.",
+  "korean_text": "헤롯의 관할에 속한 줄을 알고 헤롯에게 보내니 그 때에 헤롯이 예루살렘에 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he learned that Jesus was under Herod's jurisdiction",
+      "korean_translation": "그가 예수가 헤롯의 관할하에 있다는 것을 알았을 때",
+      "word_indices": [
+        526,
+        5998
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he sent him to Herod",
+      "korean_translation": "그는 그를 헤롯에게 보냈다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who was also in Jerusalem at that time",
+      "korean_translation": "그 역시 그때 예루살렘에 있었다",
+      "word_indices": [
+        28
+      ]
+    }
+  ]
+}

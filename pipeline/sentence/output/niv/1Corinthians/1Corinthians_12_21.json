@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Corinthians 12:21",
+  "version": "NIV",
+  "original_text": "The eye cannot say to the hand, “I don’t need you!” And the head cannot say to the feet, “I don’t need you!”",
+  "korean_text": "눈이 손더러 내가 너를 쓸 데가 없다 하거나 또한 머리가 발더러 내가 너를 쓸 데가 없다 하지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The eye cannot say to the hand",
+      "korean_translation": "눈은 손에게 말할 수 없다",
+      "word_indices": [
+        9,
+        61,
+        207
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I don't need you!",
+      "korean_translation": "나는 너를 필요하지 않아!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the head cannot say to the feet",
+      "korean_translation": "그리고 머리는 발에게 말할 수 없다",
+      "word_indices": [
+        67,
+        207
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I don't need you!",
+      "korean_translation": "나는 너를 필요하지 않아!",
+      "word_indices": []
+    }
+  ]
+}

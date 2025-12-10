@@ -1,0 +1,56 @@
+{
+  "verse_reference": "John 19:10",
+  "version": "NIV",
+  "original_text": "“Do you refuse to speak to me?” Pilate said. “Don’t you realize I have power either to free you or to crucify you?”",
+  "korean_text": "빌라도가 이르되 내게 말하지 아니하느냐 내가 너를 놓을 권한도 있고 십자가에 못 박을 권한도 있는 줄 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do you refuse to speak to me?",
+      "korean_translation": "너는 나에게 말하기를 거절하느냐?",
+      "word_indices": [
+        29,
+        487
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Pilate said.",
+      "korean_translation": "빌라도가 말했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Don't you realize",
+      "korean_translation": "너는 깨닫지 못하느냐",
+      "word_indices": [
+        696
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have power",
+      "korean_translation": "내게 권세가 있다",
+      "word_indices": [
+        178
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "either to free you",
+      "korean_translation": "너를 놓아주든지",
+      "word_indices": [
+        421,
+        1067
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or to crucify you?",
+      "korean_translation": "또는 너를 십자가에 못 박든지",
+      "word_indices": [
+        890
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Joel 1:11",
+  "version": "NIV",
+  "original_text": "Despair, you farmers,\n    wail, you vine growers;\ngrieve for the wheat and the barley,\n    because the harvest of the field is destroyed.",
+  "korean_text": "농부들아 너희는 부끄러워할지어다 포도원을 가꾸는 자들아 곡할지어다 이는 밀과 보리 때문이라 밭의 소산이 다 없어졌음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Despair, you farmers",
+      "korean_translation": "농부들아, 절망하라",
+      "word_indices": [
+        1773,
+        1821
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "wail, you vine growers",
+      "korean_translation": "포도원 주인들아, 통곡하라",
+      "word_indices": [
+        708,
+        733,
+        5875
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "grieve for the wheat and the barley",
+      "korean_translation": "밀과 보리를 위해 슬퍼하라",
+      "word_indices": [
+        974,
+        1149,
+        1176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because the harvest of the field is destroyed",
+      "korean_translation": "이는 밭의 수확물이 망가졌기 때문이라",
+      "word_indices": [
+        69,
+        156,
+        472
+      ]
+    }
+  ]
+}

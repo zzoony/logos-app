@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Matthew 25:33",
+  "version": "NIV",
+  "original_text": "He will put the sheep on his right and the goats on his left.",
+  "korean_text": "양은 그 오른편에 염소는 왼편에 두리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He will put the sheep on his right",
+      "korean_translation": "그는 양들을 자기 오른편에 두고",
+      "word_indices": [
+        74,
+        251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the goats on his left.",
+      "korean_translation": "염소들은 왼편에 둘 것이다.",
+      "word_indices": [
+        311
+      ]
+    }
+  ]
+}

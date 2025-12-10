@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 18:11",
+  "version": "NIV",
+  "original_text": "Jesus commanded Peter, “Put your sword away! Shall I not drink the cup the Father has given me?”",
+  "korean_text": "예수께서 베드로더러 이르시되 칼을 칼집에 꽂으라 아버지께서 주신 잔을 내가 마시지 아니하겠느냐 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus commanded Peter",
+      "korean_translation": "예수님은 베드로에게 명령하셨다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Put your sword away!",
+      "korean_translation": "네 검을 집에 넣어라!",
+      "word_indices": [
+        34,
+        84
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Shall I not drink",
+      "korean_translation": "내가 마시지 않겠느냐",
+      "word_indices": [
+        78
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the cup my Father has given me?",
+      "korean_translation": "내 아버지께서 내게 주신 잔을?",
+      "word_indices": [
+        5,
+        12,
+        690
+      ]
+    }
+  ]
+}

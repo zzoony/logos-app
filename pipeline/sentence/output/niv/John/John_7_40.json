@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 7:40",
+  "version": "NIV",
+  "original_text": "On hearing his words, some of the people said, “Surely this man is the Prophet.”",
+  "korean_text": "이 말씀을 들은 무리 중에서 어떤 사람은 이 사람이 참으로 그 선지자라 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On hearing his words",
+      "korean_translation": "그의 말씀을 듣고",
+      "word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some of the people said",
+      "korean_translation": "사람 중 어떤 이들이 말하였다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Surely this man is the Prophet",
+      "korean_translation": "분명히 이 사람은 그 선지자이다",
+      "word_indices": [
+        10,
+        70,
+        150
+      ]
+    }
+  ]
+}

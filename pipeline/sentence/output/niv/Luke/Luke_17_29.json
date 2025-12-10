@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 17:29",
+  "version": "NIV",
+  "original_text": "But the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all.",
+  "korean_text": "롯이 소돔에서 나가던 날에 하늘로부터 불과 유황이 비오듯 하여 그들을 멸망시켰느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But day Lot left Sodom",
+      "korean_translation": "그러나 롯이 소돔을 떠난 날에",
+      "word_indices": [
+        456
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "fire and sulfur rained down from heaven",
+      "korean_translation": "불과 유황이 하늘에서 비처럼 쏟아졌고",
+      "word_indices": [
+        57,
+        101,
+        506,
+        1885
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and destroyed them all",
+      "korean_translation": "그들을 모두 멸망시켰다",
+      "word_indices": [
+        69
+      ]
+    }
+  ]
+}

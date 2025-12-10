@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Matthew 2:5",
+  "version": "NIV",
+  "original_text": "“In Bethlehem in Judea,” they replied, “for this is what the prophet has written:",
+  "korean_text": "이르되 유대 베들레헴이오니 이는 선지자로 이렇게 기록된 바",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In Bethlehem in Judea",
+      "korean_translation": "유대 베들레헴에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they replied",
+      "korean_translation": "그들이 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for this is what the prophet has written",
+      "korean_translation": "이는 선지자가 기록한 바이기 때문이다",
+      "word_indices": [
+        70
+      ]
+    }
+  ]
+}

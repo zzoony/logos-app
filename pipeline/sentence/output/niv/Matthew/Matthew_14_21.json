@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 14:21",
+  "version": "NIV",
+  "original_text": "The number of those who ate was about five thousand men, besides women and children.",
+  "korean_text": "먹은 사람은 여자와 어린이 외에 오천 명이나 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The number of those who ate",
+      "korean_translation": "먹은 사람들의 수는",
+      "word_indices": [
+        201
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was about five thousand men",
+      "korean_translation": "약 오천 명의 남자였으며",
+      "word_indices": [
+        136,
+        196
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "besides women and children",
+      "korean_translation": "여자와 아이들을 제외하고",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Romans 14:2",
+  "version": "NIV",
+  "original_text": "One person’s faith allows them to eat anything, but another, whose faith is weak, eats only vegetables.",
+  "korean_text": "어떤 사람은 모든 것을 먹을 만한 믿음이 있고 믿음이 연약한 자는 채소만 먹느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One person's faith allows them to eat anything",
+      "korean_translation": "한 사람의 믿음은 그들이 무엇이든 먹을 수 있게 합니다",
+      "word_indices": [
+        33,
+        134,
+        192,
+        877
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but another, whose faith is weak",
+      "korean_translation": "하지만 믿음이 약한 다른 사람은",
+      "word_indices": [
+        192,
+        783
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "eats only vegetables",
+      "korean_translation": "오직 채소만 먹습니다",
+      "word_indices": [
+        33
+      ]
+    }
+  ]
+}

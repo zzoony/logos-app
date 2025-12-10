@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Romans 7:12",
+  "version": "NIV",
+  "original_text": "So then, the law is holy, and the commandment is holy, righteous and good.",
+  "korean_text": "이로 보건대 율법은 거룩하고 계명도 거룩하고 의로우며 선하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So then,",
+      "korean_translation": "그러므로,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "law is holy,",
+      "korean_translation": "율법은 거룩하며,",
+      "word_indices": [
+        42,
+        59
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and commandment is holy,",
+      "korean_translation": "계명은 거룩하고,",
+      "word_indices": [
+        59,
+        1211
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "righteous",
+      "korean_translation": "의롭고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and good.",
+      "korean_translation": "선합니다.",
+      "word_indices": [
+        56
+      ]
+    }
+  ]
+}

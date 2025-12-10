@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 11:12",
+  "version": "NIV",
+  "original_text": "His disciples replied, “Lord, if he sleeps, he will get better.”",
+  "korean_text": "제자들이 이르되 주여 잠들었으면 낫겠나이다 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "His disciples replied",
+      "korean_translation": "그의 제자들이 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if he sleeps",
+      "korean_translation": "그가 자고 있다면",
+      "word_indices": [
+        378
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he will get better",
+      "korean_translation": "그는 나아질 것입니다",
+      "word_indices": [
+        411
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 14:16",
+  "version": "NIV",
+  "original_text": "Jesus replied: “A certain man was preparing a great banquet and invited many guests.",
+  "korean_text": "이르시되 어떤 사람이 큰 잔치를 베풀고 많은 사람을 청하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied:",
+      "korean_translation": "예수께서 대답하셨다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A certain man was preparing",
+      "korean_translation": "어떤 사람이 준비하고 있었다",
+      "word_indices": [
+        10,
+        1159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a great banquet",
+      "korean_translation": "큰 잔치를",
+      "word_indices": [
+        44,
+        1134
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and invited many guests.",
+      "korean_translation": "그리고 많은 손님들을 초대했다.",
+      "word_indices": [
+        1314
+      ]
+    }
+  ]
+}

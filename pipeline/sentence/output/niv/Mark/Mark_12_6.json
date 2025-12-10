@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 12:6",
+  "version": "NIV",
+  "original_text": "“He had one left to send, a son, whom he loved. He sent him last of all, saying, ‘They will respect my son.’",
+  "korean_text": "이제 한 사람이 남았으니 곧 그가 사랑하는 아들이라 최후로 이를 보내며 이르되 내 아들은 존대하리라 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He had one left to send, a son",
+      "korean_translation": "그에게는 보낼 사람이 한 명 남아있었는데, 아들이었다",
+      "word_indices": [
+        2,
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whom he loved",
+      "korean_translation": "그가 사랑했던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He sent him last of all",
+      "korean_translation": "그는 그를 마지막으로 보냈다",
+      "word_indices": [
+        344
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "saying, 'They will respect my son'",
+      "korean_translation": "'그들이 내 아들을 존중할 것이다'라고 말하며",
+      "word_indices": [
+        2,
+        1009
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Mark 11:13",
+  "version": "NIV",
+  "original_text": "Seeing in the distance a fig tree in leaf, he went to find out if it had any fruit. When he reached it, he found nothing but leaves, because it was not the season for figs.",
+  "korean_text": "멀리서 잎사귀 있는 한 무화과나무를 보시고 혹 그 나무에 무엇이 있을까 하여 가셨더니 가서 보신즉 잎사귀 외에 아무 것도 없더라 이는 무화과의 때가 아님이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Seeing in the distance a fig tree in leaf",
+      "korean_translation": "멀리 떡잎이 돋아난 무화과나무를 보고",
+      "word_indices": [
+        164,
+        703,
+        926,
+        1030
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he went to find out if it had any fruit",
+      "korean_translation": "그는 열매가 있는지 알아보러 갔다",
+      "word_indices": [
+        55,
+        289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When he reached it",
+      "korean_translation": "그가 그곳에 도착했을 때",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he found nothing but leaves",
+      "korean_translation": "그는 잎사귀 외에는 아무것도 찾지 못했다",
+      "word_indices": [
+        2209
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because it was not season for figs",
+      "korean_translation": "무화과 철이 아니었기 때문이다",
+      "word_indices": [
+        703,
+        1352
+      ]
+    }
+  ]
+}

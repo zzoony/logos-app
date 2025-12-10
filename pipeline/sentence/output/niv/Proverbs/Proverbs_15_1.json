@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Proverbs 15:1",
+  "version": "NIV",
+  "original_text": "A gentle answer turns away wrath,\n    but a harsh word stirs up anger.",
+  "korean_text": "유순한 대답은 분노를 쉬게 하여도 과격한 말은 노를 격동하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A gentle answer turns away wrath",
+      "korean_translation": "부드러운 대답은 분노를 돌려세우고",
+      "word_indices": [
+        34,
+        49,
+        63,
+        278,
+        1806
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but a harsh word stirs up anger",
+      "korean_translation": "하지만 거친 말은 분노를 일으킨다",
+      "word_indices": [
+        19,
+        185,
+        807,
+        1836
+      ]
+    }
+  ]
+}

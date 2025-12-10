@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Romans 16:12",
+  "version": "NIV",
+  "original_text": "Greet Tryphena and Tryphosa, those women who work hard in the Lord.\nGreet my dear friend Persis, another woman who has worked very hard in the Lord.",
+  "korean_text": "주 안에서 수고한 드루배나와 드루보사에게 문안하라 주 안에서 많이 수고하고 사랑하는 버시에게 문안하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Greet Tryphena and Tryphosa",
+      "korean_translation": "트리페나와 트리포사에게 문안하라",
+      "word_indices": [
+        806
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "those women who work hard in the Lord",
+      "korean_translation": "주 안에서 수고하는 여자들이니",
+      "word_indices": [
+        65,
+        781
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Greet my dear friend Persis",
+      "korean_translation": "나의 사랑하는 페르시에게 문안하라",
+      "word_indices": [
+        335,
+        800,
+        806
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "another woman who has worked very hard in the Lord",
+      "korean_translation": "주 안에서 많이 수고한 또 다른 여자니라",
+      "word_indices": [
+        50,
+        65,
+        781
+      ]
+    }
+  ]
+}

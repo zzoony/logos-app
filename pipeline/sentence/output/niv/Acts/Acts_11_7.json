@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Acts 11:7",
+  "version": "NIV",
+  "original_text": "Then I heard a voice telling me, ‘Get up, Peter. Kill and eat.’",
+  "korean_text": "또 들으니 소리 있어 내게 이르되 베드로야 일어나 잡아 먹으라 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then I heard a voice",
+      "korean_translation": "그때 나는 한 목소리를 들었고",
+      "word_indices": [
+        241
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "telling me,",
+      "korean_translation": "나에게 말했으며",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Get up, Peter.",
+      "korean_translation": "'베드로야, 일어나라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Kill and eat.'",
+      "korean_translation": "죽여서 먹어라.'",
+      "word_indices": [
+        33,
+        76
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:12",
+  "version": "NIV",
+  "original_text": "After the exile to Babylon:\nJeconiah was the father of Shealtiel,\nShealtiel the father of Zerubbabel,",
+  "korean_text": "바벨론으로 사로잡혀 간 후에 여고냐는 스알디엘을 낳고 스알디엘은 스룹바벨을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After the exile to Babylon:",
+      "korean_translation": "바빌론으로의 포로 생활이 끝난 후에:",
+      "word_indices": [
+        427
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jeconiah was the father of Shealtiel,",
+      "korean_translation": "여고니야는 스알디엘의 아버지였고,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Shealtiel the father of Zerubbabel,",
+      "korean_translation": "스알디엘은 스르바벨의 아버지였으며,",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

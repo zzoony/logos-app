@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 1:10",
+  "version": "NIV",
+  "original_text": "And when the time for the burning of incense came, all the assembled worshipers were praying outside.",
+  "korean_text": "모든 백성은 그 분향하는 시간에 밖에서 기도하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when the time came",
+      "korean_translation": "그리고 때가 이르렀을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the burning of incense",
+      "korean_translation": "향을 사르는 시간이",
+      "word_indices": [
+        47,
+        352
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all the assembled worshipers",
+      "korean_translation": "모여 있던 모든 예배자들이",
+      "word_indices": [
+        2183
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "were praying outside",
+      "korean_translation": "밖에서 기도하고 있었습니다",
+      "word_indices": [
+        212,
+        404
+      ]
+    }
+  ]
+}

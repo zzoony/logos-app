@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 14:29",
+  "version": "NIV",
+  "original_text": "I have told you now before it happens, so that when it does happen you will believe.",
+  "korean_text": "이제 일이 일어나기 전에 너희에게 말한 것은 일이 일어날 때에 너희로 믿게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have told you now",
+      "korean_translation": "내가 지금 너희에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before it happens",
+      "korean_translation": "그것이 일어나기 전에",
+      "word_indices": [
+        275
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that",
+      "korean_translation": "그래서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when it does happen",
+      "korean_translation": "그것이 일어날 때",
+      "word_indices": [
+        275
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will believe",
+      "korean_translation": "너희가 믿을 것이다",
+      "word_indices": [
+        214
+      ]
+    }
+  ]
+}

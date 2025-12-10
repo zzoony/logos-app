@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 8:13",
+  "version": "NIV",
+  "original_text": "The Pharisees challenged him, “Here you are, appearing as your own witness; your testimony is not valid.”",
+  "korean_text": "바리새인들이 이르되 네가 너를 위하여 증언하니 네 증언은 참되지 아니하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Pharisees challenged him",
+      "korean_translation": "바리새인들이 그에게 도전하며 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Here you are",
+      "korean_translation": "보십시오",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "appearing as your own witness",
+      "korean_translation": "당신 자신을 증인으로 내세우고 있군요",
+      "word_indices": [
+        293
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your testimony is not valid",
+      "korean_translation": "당신의 증언은 유효하지 않습니다",
+      "word_indices": [
+        700,
+        3881
+      ]
+    }
+  ]
+}

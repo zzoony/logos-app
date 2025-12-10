@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 8:49",
+  "version": "NIV",
+  "original_text": "“I am not possessed by a demon,” said Jesus, “but I honor my Father and you dishonor me.",
+  "korean_text": "예수께서 대답하시되 나는 귀신 들린 것이 아니라 오직 내 아버지를 공경함이거늘 너희가 나를 무시하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am not possessed by a demon",
+      "korean_translation": "나는 귀신 들린 것이 아닙니다",
+      "word_indices": [
+        550,
+        659
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "said Jesus",
+      "korean_translation": "예수께서 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but I honor my Father",
+      "korean_translation": "하지만 나는 아버지를 존중합니다",
+      "word_indices": [
+        12,
+        244
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you dishonor me",
+      "korean_translation": "그리고 당신들은 나를 모욕합니다",
+      "word_indices": [
+        1264
+      ]
+    }
+  ]
+}

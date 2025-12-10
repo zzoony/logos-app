@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 19:18",
+  "version": "NIV",
+  "original_text": "“The second came and said, ‘Sir, your mina has earned five more.’",
+  "korean_text": "그 둘째가 와서 이르되 주인이여 당신의 한 므나로 다섯 므나를 만들었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The second came",
+      "korean_translation": "두 번째 사람이 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Sir, your mina",
+      "korean_translation": "'주인님, 주인님의 므나가'",
+      "word_indices": [
+        1490,
+        2262
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "has earned five more.'",
+      "korean_translation": "다섯 므나를 더 벌었습니다.'",
+      "word_indices": [
+        196,
+        2463
+      ]
+    }
+  ]
+}

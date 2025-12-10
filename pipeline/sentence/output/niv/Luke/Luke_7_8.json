@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 7:8",
+  "version": "NIV",
+  "original_text": "For I myself am a man under authority, with soldiers under me. I tell this one, ‘Go,’ and he goes; and that one, ‘Come,’ and he comes. I say to my servant, ‘Do this,’ and he does it.”",
+  "korean_text": "나도 남의 수하에 든 사람이요 내 아래에도 병사가 있으니 이더러 가라 하면 가고 저더러 오라 하면 오고 내 종더러 이것을 하라 하면 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I myself am a man under authority",
+      "korean_translation": "나는 권위 아래 있는 사람입니다",
+      "word_indices": [
+        10,
+        488
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with soldiers under me",
+      "korean_translation": "내 밑에는 군인들이 있습니다",
+      "word_indices": [
+        582
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I tell this one, 'Go,' and he goes",
+      "korean_translation": "내가 이 사람에게 '가라' 하면 갑니다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and that one, 'Come,' and he comes",
+      "korean_translation": "그리고 저 사람에게 '오라' 하면 옵니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I say to my servant, 'Do this,'",
+      "korean_translation": "내가 내 종에게 '이것을 하라' 하면",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and he does it",
+      "korean_translation": "그가 그것을 합니다",
+      "word_indices": []
+    }
+  ]
+}

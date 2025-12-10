@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 5:18",
+  "version": "NIV",
+  "original_text": "Some men came carrying a paralyzed man on a mat and tried to take him into the house to lay him before Jesus.",
+  "korean_text": "한 중풍병자를 사람들이 침상에 메고 와서 예수 앞에 들여놓고자 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some men came",
+      "korean_translation": "어떤 사람들이 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "carrying a paralyzed man on a mat",
+      "korean_translation": "돗자리에 중풍병자를 누이고",
+      "word_indices": [
+        10,
+        129,
+        1570
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and tried to take him into the house",
+      "korean_translation": "그를 집 안으로 데려가려고 했다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to lay him before Jesus",
+      "korean_translation": "예수 앞에 그를 눕이기 위해",
+      "word_indices": [
+        148
+      ]
+    }
+  ]
+}

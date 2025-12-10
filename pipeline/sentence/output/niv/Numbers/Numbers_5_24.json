@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Numbers 5:24",
+  "version": "NIV",
+  "original_text": "He shall make the woman drink the bitter water that brings a curse, and this water that brings a curse and causes bitter suffering will enter her.",
+  "korean_text": "여인에게 그 저주가 되게 하는 쓴 물을 마시게 할지니 그 저주가 되게 하는 물이 그의 속에 들어 가서 쓰리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He shall make the woman drink the bitter water",
+      "korean_translation": "그는 여인에게 쓴 물을 마시게 할 것입니다",
+      "word_indices": [
+        46,
+        50,
+        78,
+        973
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that brings a curse",
+      "korean_translation": "저주를 가져오는",
+      "word_indices": [
+        6,
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and this water that brings a curse",
+      "korean_translation": "그리고 이 저주를 가져오는 물은",
+      "word_indices": [
+        6,
+        46,
+        255
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and causes bitter suffering",
+      "korean_translation": "쓰라린 고통을 일으키며",
+      "word_indices": [
+        376,
+        973
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will enter her",
+      "korean_translation": "그녀에게 들어갈 것입니다",
+      "word_indices": [
+        135
+      ]
+    }
+  ]
+}

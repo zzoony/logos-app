@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 25:16",
+  "version": "NIV",
+  "original_text": "The man who had received five bags of gold went at once and put his money to work and gained five bags more.",
+  "korean_text": "다섯 달란트 받은 자는 바로 가서 그것으로 장사하여 또 다섯 달란트를 남기고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man who had received five bags of gold",
+      "korean_translation": "다섯 봉지의 금을 받았던 그 사람은",
+      "word_indices": [
+        10,
+        75,
+        196,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "went at once",
+      "korean_translation": "즉시 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "put his money to work",
+      "korean_translation": "그의 돈을 일하게 했고",
+      "word_indices": [
+        65,
+        448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "gained five bags more",
+      "korean_translation": "다섯 봉지를 더 얻었습니다",
+      "word_indices": [
+        196,
+        537,
+        1206
+      ]
+    }
+  ]
+}

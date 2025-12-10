@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 1:46",
+  "version": "NIV",
+  "original_text": "“Nazareth! Can anything good come from there?” Nathanael asked.\n“Come and see,” said Philip.",
+  "korean_text": "나다나엘이 이르되 나사렛에서 무슨 선한 것이 날 수 있느냐 빌립이 이르되 와서 보라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nazareth!",
+      "korean_translation": "나사렛이냐!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Can anything good come from there?",
+      "korean_translation": "저곳에서 무슨 선한 것이 날 수 있겠느냐?",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Nathanael asked.",
+      "korean_translation": "나다나엘이 물었다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Come and see,",
+      "korean_translation": "와서 보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "said Philip.",
+      "korean_translation": "빌립이 말했다.",
+      "word_indices": []
+    }
+  ]
+}

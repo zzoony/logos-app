@@ -351,10 +351,12 @@ function getPoolSize() {
  * 분석 프롬프트 생성
  */
 function createAnalysisPrompt(verseText, verseRef) {
+  // 쌍따옴표를 이스케이프하여 프롬프트 깨짐 방지
+  const escapedText = verseText.replace(/"/g, '\\"');
   return `Analyze this Bible verse and split it into SHORT, readable clauses for English learners.
 For each clause, provide a Korean translation.
 
-Verse: "${verseText}"
+Verse: "${escapedText}"
 Reference: ${verseRef}
 
 Respond in JSON format ONLY (no markdown, no explanation):
@@ -383,10 +385,36 @@ Rules:
 function extractJSON(response) {
   const match = response.match(/[\[{][\s\S]*[\]}]/);
   if (match) {
+    let jsonStr = match[0];
     try {
-      return JSON.parse(match[0]);
+      return JSON.parse(jsonStr);
     } catch (e) {
-      return null;
+      // 첫 번째 시도 실패 시, original_text 필드 내의 이스케이프되지 않은 쌍따옴표 수정 시도
+      try {
+        // "original_text": "..." 패턴에서 내부 쌍따옴표를 이스케이프
+        jsonStr = jsonStr.replace(
+          /("original_text"\s*:\s*")([^"]*)"([^"]*)"([^"]*")/g,
+          '$1$2\\"$3\\"$4'
+        );
+        return JSON.parse(jsonStr);
+      } catch (e2) {
+        // 두 번째 시도도 실패하면 더 공격적인 수정 시도
+        try {
+          // 문자열 값 내부의 이스케이프되지 않은 쌍따옴표를 찾아서 수정
+          jsonStr = match[0].replace(
+            /:\s*"([^"]*)"/g,
+            (match, content) => {
+              // 내부에 쌍따옴표가 있으면 이스케이프
+              const escaped = content.replace(/(?<!\\)"/g, '\\"');
+              return `: "${escaped}"`;
+            }
+          );
+          return JSON.parse(jsonStr);
+        } catch (e3) {
+          console.error('JSON parse failed after all attempts:', e3.message);
+          return null;
+        }
+      }
     }
   }
   return null;

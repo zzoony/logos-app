@@ -1,0 +1,32 @@
+{
+  "verse_reference": "2 Timothy 2:6",
+  "version": "NIV",
+  "original_text": "The hardworking farmer should be the first to receive a share of the crops.",
+  "korean_text": "수고하는 농부가 곡식을 먼저 받는 것이 마땅하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The hardworking farmer",
+      "korean_translation": "부지런한 농부는",
+      "word_indices": [
+        1821
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "should be the first",
+      "korean_translation": "첫 번째로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to receive a share of the crops",
+      "korean_translation": "수확물의 몫을 받아야 한다",
+      "word_indices": [
+        179,
+        416,
+        793
+      ]
+    }
+  ]
+}

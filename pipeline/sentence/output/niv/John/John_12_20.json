@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 12:20",
+  "version": "NIV",
+  "original_text": "Now there were some Greeks among those who went up to worship at the festival.",
+  "korean_text": "명절에 예배하러 올라온 사람 중에 헬라인 몇이 있는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now there were some Greeks",
+      "korean_translation": "그때 몇몇 그리스인이 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "among those who went up to worship",
+      "korean_translation": "예배하러 올라간 사람들 중에",
+      "word_indices": [
+        27,
+        204
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "at the festival.",
+      "korean_translation": "그 절기에 있었습니다.",
+      "word_indices": [
+        425
+      ]
+    }
+  ]
+}

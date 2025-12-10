@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Joel 2:7",
+  "version": "NIV",
+  "original_text": "They charge like warriors;\n    they scale walls like soldiers.\nThey all march in line,\n    not swerving from their course.",
+  "korean_text": "그들이 용사 같이 달리며 무사 같이 성을 기어 오르며 각기 자기의 길로 나아가되 그 줄을 이탈하지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They charge like warriors",
+      "korean_translation": "그들은 전사들처럼 돌진한다",
+      "word_indices": [
+        7,
+        243,
+        575
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they scale walls like soldiers",
+      "korean_translation": "그들은 군인들처럼 성벽을 오른다",
+      "word_indices": [
+        7,
+        176,
+        582,
+        1262
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They all march in line",
+      "korean_translation": "그들 모두는 대열을 맞춰 행진한다",
+      "word_indices": [
+        619,
+        692
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "not swerving from their course",
+      "korean_translation": "그들의 길에서 벗어나지 않는다",
+      "word_indices": [
+        1096
+      ]
+    }
+  ]
+}

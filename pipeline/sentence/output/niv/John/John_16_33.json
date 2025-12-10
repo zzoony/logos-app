@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 16:33",
+  "version": "NIV",
+  "original_text": "“I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.”",
+  "korean_text": "이것을 너희에게 이르는 것은 너희로 내 안에서 평안을 누리게 하려 함이라 세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have told you these things",
+      "korean_translation": "나는 너희에게 이것들을 말하였노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that in me you may have peace",
+      "korean_translation": "이는 내 안에서 너희가 평화를 누리게 하려 함이라",
+      "word_indices": [
+        198
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "In this world you will have trouble",
+      "korean_translation": "세상에서는 너희가 환난을 당하리라",
+      "word_indices": [
+        190,
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But take heart",
+      "korean_translation": "그러나 용기를 내어라",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I have overcome the world",
+      "korean_translation": "내가 세상을 이기었노라",
+      "word_indices": [
+        190,
+        1274
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 148:7",
+  "version": "NIV",
+  "original_text": "Praise the Lord from the earth,\n    you great sea creatures and all ocean depths,",
+  "korean_text": "너희 용들과 바다여 땅에서 여호와를 찬양하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise the Lord from the earth",
+      "korean_translation": "땅에서 주님을 찬양하라",
+      "word_indices": [
+        40,
+        88
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you great sea creatures",
+      "korean_translation": "너희 큰 바다 생물들아",
+      "word_indices": [
+        44,
+        108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all ocean depths",
+      "korean_translation": "그리고 모든 바다 깊은 곳들아",
+      "word_indices": [
+        986,
+        4561
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Acts 7:37",
+  "version": "NIV",
+  "original_text": "“This is the Moses who told the Israelites, ‘God will raise up for you a prophet like me from your own people.’",
+  "korean_text": "이스라엘 자손에 대하여 하나님이 너희 형제 가운데서 나와 같은 선지자를 세우리라 하던 자가 곧 이 모세라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is Moses",
+      "korean_translation": "이분은 모세입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who told the Israelites",
+      "korean_translation": "이스라엘 백성에게 말한 분",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'God will raise up for you",
+      "korean_translation": "하나님이 너희를 위해 세우실 것이라",
+      "word_indices": [
+        1,
+        249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a prophet like me",
+      "korean_translation": "나와 같은 선지자를",
+      "word_indices": [
+        7,
+        70
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from your own people.'",
+      "korean_translation": "너희 동족 중에서",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

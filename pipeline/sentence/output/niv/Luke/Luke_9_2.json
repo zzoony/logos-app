@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 9:2",
+  "version": "NIV",
+  "original_text": "and he sent them out to proclaim the kingdom of God and to heal the sick.",
+  "korean_text": "하나님의 나라를 전파하며 앓는 자를 고치게 하려고 내보내시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and he sent them out",
+      "korean_translation": "그리고 그는 그들을 보내셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to proclaim the kingdom of God",
+      "korean_translation": "하나님의 나라를 전파하기 위해",
+      "word_indices": [
+        1,
+        109,
+        300
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to heal the sick",
+      "korean_translation": "그리고 병자들을 고치기 위해",
+      "word_indices": [
+        354,
+        1029
+      ]
+    }
+  ]
+}

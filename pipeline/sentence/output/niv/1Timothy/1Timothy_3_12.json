@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Timothy 3:12",
+  "version": "NIV",
+  "original_text": "A deacon must be faithful to his wife and must manage his children and his household well.",
+  "korean_text": "집사들은 한 아내의 남편이 되어 자녀와 자기 집을 잘 다스리는 자일지니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A deacon must be faithful to his wife",
+      "korean_translation": "집사는 자기 아내에게 신실해야 합니다",
+      "word_indices": [
+        79,
+        475,
+        3354
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and must manage his children well",
+      "korean_translation": "그리고 자기 자녀들을 잘 다스려야 합니다",
+      "word_indices": [
+        2473
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and must manage his household well",
+      "korean_translation": "그리고 자기 가정을 잘 관리해야 합니다",
+      "word_indices": [
+        389,
+        2473
+      ]
+    }
+  ]
+}

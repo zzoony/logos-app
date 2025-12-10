@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Joel 1:17",
+  "version": "NIV",
+  "original_text": "The seeds are shriveled\n    beneath the clods.\nThe storehouses are in ruins,\n    the granaries have been broken down,\n    for the grain has dried up.",
+  "korean_text": "씨가 흙덩이 아래에서 썩어졌고 창고가 비었고 곳간이 무너졌으니 이는 곡식이 시들었음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The seeds are shriveled beneath the clods.",
+      "korean_translation": "씨앗들이 흙덩이 밑에서 말라 비틀어졌습니다.",
+      "word_indices": [
+        600,
+        1619,
+        2173,
+        4498
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The storehouses are in ruins,",
+      "korean_translation": "곡간들이 폐허가 되었고,",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the granaries have been broken down,",
+      "korean_translation": "창고들이 부서졌습니다,",
+      "word_indices": [
+        3759
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the grain has dried up.",
+      "korean_translation": "곡식이 말라 버렸기 때문입니다.",
+      "word_indices": [
+        182
+      ]
+    }
+  ]
+}

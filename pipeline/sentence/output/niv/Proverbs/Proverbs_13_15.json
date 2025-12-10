@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Proverbs 13:15",
+  "version": "NIV",
+  "original_text": "Good judgment wins favor,\n    but the way of the unfaithful leads to their destruction.",
+  "korean_text": "선한 지혜는 은혜를 베푸나 사악한 자의 길은 험하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Good judgment wins favor",
+      "korean_translation": "좋은 판단은 호의를 얻는다",
+      "word_indices": [
+        56,
+        380,
+        393,
+        1303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but way of unfaithful",
+      "korean_translation": "하지만 불충실한 자의 길은",
+      "word_indices": [
+        776
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "leads to their destruction",
+      "korean_translation": "그들의 파멸로 이끈다",
+      "word_indices": [
+        140,
+        571
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Hosea 5:13",
+  "version": "NIV",
+  "original_text": "“When Ephraim saw his sickness,\n    and Judah his sores,\nthen Ephraim turned to Assyria,\n    and sent to the great king for help.\nBut he is not able to cure you,\n    not able to heal your sores.",
+  "korean_text": "에브라임이 자기의 병을 깨달으며 유다가 자기의 상처를 깨달았고 에브라임은 앗수르로 가서 야렙 왕에게 사람을 보내었으나 그가 능히 너희를 고치지 못하겠고 너희 상처를 낫게 하지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Ephraim saw his sickness",
+      "korean_translation": "에브라임이 그의 병을 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Judah his sores",
+      "korean_translation": "유다가 그의 상처를 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then Ephraim turned to Assyria",
+      "korean_translation": "그때 에브라임은 앗수르로 돌아갔고",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sent to the great king for help",
+      "korean_translation": "도움을 요청하기 위해 위대한 왕에게 사신을 보냈다",
+      "word_indices": [
+        4,
+        44,
+        181
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But he is not able to cure you",
+      "korean_translation": "그러나 그가 너를 고칠 수 없고",
+      "word_indices": [
+        363,
+        1740
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "not able to heal your sores",
+      "korean_translation": "네 상처를 치료할 수도 없다",
+      "word_indices": [
+        354,
+        363
+      ]
+    }
+  ]
+}

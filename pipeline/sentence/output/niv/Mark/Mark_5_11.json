@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Mark 5:11",
+  "version": "NIV",
+  "original_text": "A large herd of pigs was feeding on the nearby hillside.",
+  "korean_text": "마침 거기 돼지의 큰 떼가 산 곁에서 먹고 있는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A large herd of pigs",
+      "korean_translation": "돼지의 큰 무리가",
+      "word_indices": [
+        346,
+        670,
+        1551
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was feeding on the nearby hillside",
+      "korean_translation": "가까운 언덕비탈에서 먹고 있었다",
+      "word_indices": [
+        1371,
+        1956,
+        3235
+      ]
+    }
+  ]
+}

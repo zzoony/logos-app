@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Timothy 4:11",
+  "version": "NIV",
+  "original_text": "Only Luke is with me. Get Mark and bring him with you, because he is helpful to me in my ministry.",
+  "korean_text": "누가만 나와 함께 있느니라 네가 올 때에 마가를 데리고 오라 그가 나의 일에 유익하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Only Luke is with me.",
+      "korean_translation": "누가만 나와 함께 있습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Get Mark",
+      "korean_translation": "마가를 데려오세요",
+      "word_indices": [
+        876
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bring him with you,",
+      "korean_translation": "그를 데리고 오세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because he is helpful to me",
+      "korean_translation": "왜냐하면 그는 나에게 도움이 되기 때문입니다",
+      "word_indices": [
+        4122
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in my ministry.",
+      "korean_translation": "나의 사역에 있어서",
+      "word_indices": [
+        1519
+      ]
+    }
+  ]
+}

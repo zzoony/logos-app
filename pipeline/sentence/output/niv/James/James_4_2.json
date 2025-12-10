@@ -1,0 +1,52 @@
+{
+  "verse_reference": "James 4:2",
+  "version": "NIV",
+  "original_text": "You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight. You do not have because you do not ask God.",
+  "korean_text": "너희는 욕심을 내어도 얻지 못하여 살인하며 시기하여도 능히 취하지 못하므로 다투고 싸우는도다 너희가 얻지 못함은 구하지 아니하기 때문이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You desire but do not have",
+      "korean_translation": "너희가 욕심을 내지만 가지지 못하므로",
+      "word_indices": [
+        430
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so you kill",
+      "korean_translation": "살인하고",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You covet but you cannot get what you want",
+      "korean_translation": "너희가 탐내지만 얻지 못하므로",
+      "word_indices": [
+        161,
+        207,
+        2047
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so you quarrel and fight",
+      "korean_translation": "싸우고 다투느니라",
+      "word_indices": [
+        227,
+        1138
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You do not have because you do not ask God",
+      "korean_translation": "너희가 받지 못함은 구하지 아니하기 때문이라",
+      "word_indices": [
+        1,
+        31
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Nahum 3:2",
+  "version": "NIV",
+  "original_text": "The crack of whips,\n    the clatter of wheels,\ngalloping horses\n    and jolting chariots!",
+  "korean_text": "휙휙 하는 채찍 소리, 윙윙 하는 병거 바퀴 소리, 뛰는 말, 달리는 병거,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The crack of whips",
+      "korean_translation": "채찍의 짝하는 소리",
+      "word_indices": [
+        2476,
+        2797
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the clatter of wheels",
+      "korean_translation": "바퀴의 달그락거리는 소리",
+      "word_indices": [
+        996,
+        4299
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "galloping horses",
+      "korean_translation": "질주하는 말들",
+      "word_indices": [
+        2987
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and jolting chariots",
+      "korean_translation": "그리고 흔들리는 전차들",
+      "word_indices": [
+        317,
+        5896
+      ]
+    }
+  ]
+}

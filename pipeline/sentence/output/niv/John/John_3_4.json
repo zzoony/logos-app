@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 3:4",
+  "version": "NIV",
+  "original_text": "“How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!”",
+  "korean_text": "니고데모가 이르되 사람이 늙으면 어떻게 날 수 있사옵나이까 두 번째 모태에 들어갔다가 날 수 있사옵나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How can someone be born",
+      "korean_translation": "어떻게 한 사람이 태어날 수 있습니까",
+      "word_indices": [
+        271
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when they are old?",
+      "korean_translation": "그들이 늙었을 때요?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Nicodemus asked.",
+      "korean_translation": "니고데모스가 물었습니다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Surely they cannot enter",
+      "korean_translation": "그들이 분명히 들어갈 수는 없습니다",
+      "word_indices": [
+        135,
+        150,
+        207
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a second time into their mother's womb",
+      "korean_translation": "두 번째로 자기 어머니의 태 안으로",
+      "word_indices": [
+        120,
+        766
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to be born!",
+      "korean_translation": "태어나기 위해서요!",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 4:20",
+  "version": "NIV",
+  "original_text": "Our ancestors worshiped on this mountain, but you Jews claim that the place where we must worship is in Jerusalem.”",
+  "korean_text": "우리 조상들은 이 산에서 예배하였는데 당신들의 말은 예배할 곳이 예루살렘에 있다 하더이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our ancestors worshiped on this mountain",
+      "korean_translation": "우리 조상들은 이 산에서 예배드렸습니다",
+      "word_indices": [
+        138,
+        147,
+        204
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you Jews claim",
+      "korean_translation": "그러나 당신들 유대인들은 말합니다",
+      "word_indices": [
+        209,
+        922
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the place where we must worship",
+      "korean_translation": "우리가 반드시 예배드려야 할 장소가",
+      "word_indices": [
+        18,
+        204
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is in Jerusalem",
+      "korean_translation": "예루살렘에 있다고",
+      "word_indices": []
+    }
+  ]
+}

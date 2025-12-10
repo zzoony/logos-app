@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Hosea 6:4",
+  "version": "NIV",
+  "original_text": "“What can I do with you, Ephraim?\n    What can I do with you, Judah?\nYour love is like the morning mist,\n    like the early dew that disappears.",
+  "korean_text": "에브라임아 내가 네게 어떻게 하랴 유다야 내가 네게 어떻게 하랴 너희의 인애가 아침 구름이나 쉬 없어지는 이슬 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What can I do with you, Ephraim?",
+      "korean_translation": "에브라임아, 내가 너에게 무엇을 할 수 있겠느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What can I do with you, Judah?",
+      "korean_translation": "유다야, 내가 너에게 무엇을 할 수 있겠느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your love is like the morning mist,",
+      "korean_translation": "너희의 사랑은 아침 안개 같구나",
+      "word_indices": [
+        7,
+        38,
+        3078
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like the early dew that disappears.",
+      "korean_translation": "사라지는 이슬 같구나",
+      "word_indices": [
+        7,
+        731,
+        1142,
+        1852
+      ]
+    }
+  ]
+}

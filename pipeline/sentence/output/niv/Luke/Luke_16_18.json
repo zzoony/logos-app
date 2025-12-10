@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Luke 16:18",
+  "version": "NIV",
+  "original_text": "“Anyone who divorces his wife and marries another woman commits adultery, and the man who marries a divorced woman commits adultery.",
+  "korean_text": "무릇 자기 아내를 버리고 다른 데 장가 드는 자도 간음함이요 무릇 버림당한 여자에게 장가드는 자도 간음함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who divorces his wife",
+      "korean_translation": "아내를 이혼시키는 사람은",
+      "word_indices": [
+        68,
+        79
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and marries another woman",
+      "korean_translation": "다른 여자와 결혼하면",
+      "word_indices": [
+        50,
+        355
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "commits adultery",
+      "korean_translation": "간음을 저지른다",
+      "word_indices": [
+        322,
+        861
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the man who marries a divorced woman",
+      "korean_translation": "그리고 이혼한 여자와 결혼하는 남자는",
+      "word_indices": [
+        10,
+        50,
+        355
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "commits adultery",
+      "korean_translation": "간음을 저지른다",
+      "word_indices": [
+        322,
+        861
+      ]
+    }
+  ]
+}

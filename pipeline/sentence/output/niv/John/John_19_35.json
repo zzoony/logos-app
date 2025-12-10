@@ -1,0 +1,61 @@
+{
+  "verse_reference": "John 19:35",
+  "version": "NIV",
+  "original_text": "The man who saw it has given testimony, and his testimony is true. He knows that he tells the truth, and he testifies so that you also may believe.",
+  "korean_text": "이를 본 자가 증언하였으니 그 증언이 참이라 그가 자기의 말하는 것이 참인 줄 알고 너희로 믿게 하려 함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man who saw it",
+      "korean_translation": "그것을 본 사람이",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "has given testimony",
+      "korean_translation": "증언을 했으며",
+      "word_indices": [
+        5,
+        700
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his testimony is true",
+      "korean_translation": "그의 증언은 참되니",
+      "word_indices": [
+        439,
+        700
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He knows that he tells the truth",
+      "korean_translation": "그는 자신이 진실을 말한다는 것을 안다",
+      "word_indices": [
+        13,
+        15,
+        385
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he testifies",
+      "korean_translation": "그리고 그는 증언한다",
+      "word_indices": [
+        628
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "so that you also may believe",
+      "korean_translation": "너희 또한 믿게 하려는 것이다",
+      "word_indices": [
+        28,
+        214
+      ]
+    }
+  ]
+}

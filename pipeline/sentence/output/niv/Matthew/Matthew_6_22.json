@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 6:22",
+  "version": "NIV",
+  "original_text": "“The eye is the lamp of the body. If your eyes are healthy, your whole body will be full of light.",
+  "korean_text": "눈은 몸의 등불이니 그러므로 네 눈이 성하면 온 몸이 밝을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The eye is the lamp of the body",
+      "korean_translation": "눈은 몸의 등불이니",
+      "word_indices": [
+        61,
+        137,
+        726
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If your eyes are healthy",
+      "korean_translation": "네 눈이 건전하면",
+      "word_indices": [
+        2415
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your whole body will be full of light",
+      "korean_translation": "네 온 몸이 빛으로 가득할 것이요",
+      "word_indices": [
+        99,
+        137,
+        205,
+        258
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Corinthians 4:8",
+  "version": "NIV",
+  "original_text": "We are hard pressed on every side, but not crushed; perplexed, but not in despair;",
+  "korean_text": "우리가 사방으로 우겨쌈을 당하여도 싸이지 아니하며 답답한 일을 당하여도 낙심하지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We are hard pressed on every side",
+      "korean_translation": "우리는 사방으로 압박을 받으나",
+      "word_indices": [
+        118,
+        781,
+        1120
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but not crushed",
+      "korean_translation": "하지만 부서지지는 않으며",
+      "word_indices": [
+        630
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "perplexed",
+      "korean_translation": "어찌할 바를 모르나",
+      "word_indices": [
+        3331
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but not in despair",
+      "korean_translation": "하지만 절망하지는 않노라",
+      "word_indices": [
+        1773
+      ]
+    }
+  ]
+}

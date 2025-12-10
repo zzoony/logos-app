@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 12:45",
+  "version": "NIV",
+  "original_text": "The one who looks at me is seeing the one who sent me.",
+  "korean_text": "나를 보는 자는 나를 보내신 이를 보는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The one who looks at me",
+      "korean_translation": "나를 바라보는 자는",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is seeing",
+      "korean_translation": "보고 있는 것이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "one who sent me",
+      "korean_translation": "나를 보내신 분이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 5:42",
+  "version": "NIV",
+  "original_text": "but I know you. I know that you do not have the love of God in your hearts.",
+  "korean_text": "다만 하나님을 사랑하는 것이 너희 속에 없음을 알았노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "but I know you",
+      "korean_translation": "하지만 내가 너희를 안다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I know that",
+      "korean_translation": "내가 안다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you do not have love of God",
+      "korean_translation": "너희에게는 하나님의 사랑이 없다",
+      "word_indices": [
+        1,
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in your hearts",
+      "korean_translation": "너희 마음속에",
+      "word_indices": [
+        36
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Mark 4:31",
+  "version": "NIV",
+  "original_text": "It is like a mustard seed, which is the smallest of all seeds on earth.",
+  "korean_text": "겨자씨 한 알과 같으니 땅에 심길 때에는 땅 위의 모든 씨보다 작은 것이로되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is like a mustard seed",
+      "korean_translation": "그것은 겨자씨와 같습니다",
+      "word_indices": [
+        7,
+        3338
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which is the smallest of all seeds",
+      "korean_translation": "그것은 모든 씨앗 중에서 가장 작습니다",
+      "word_indices": [
+        600,
+        3215
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on earth",
+      "korean_translation": "땅 위에",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Luke 18:20",
+  "version": "NIV",
+  "original_text": "You know the commandments: ‘You shall not commit adultery, you shall not murder, you shall not steal, you shall not give false testimony, honor your father and mother.’”",
+  "korean_text": "네가 계명을 아나니 간음하지 말라, 살인하지 말라, 도둑질하지 말라, 거짓 증언 하지 말라, 네 부모를 공경하라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know the commandments",
+      "korean_translation": "네가 계명을 알거니와",
+      "word_indices": [
+        13,
+        1211
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You shall not commit adultery",
+      "korean_translation": "간음하지 말라",
+      "word_indices": [
+        322,
+        861
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you shall not murder",
+      "korean_translation": "살인하지 말라",
+      "word_indices": [
+        847
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you shall not steal",
+      "korean_translation": "도적질하지 말라",
+      "word_indices": [
+        836
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you shall not give false testimony",
+      "korean_translation": "거짓 증거하지 말라",
+      "word_indices": [
+        5,
+        623,
+        700
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "honor your father and mother",
+      "korean_translation": "네 부모를 공경하라",
+      "word_indices": [
+        12,
+        120,
+        244
+      ]
+    }
+  ]
+}

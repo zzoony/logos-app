@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 12:27",
+  "version": "NIV",
+  "original_text": "“Now my soul is troubled, and what shall I say? ‘Father, save me from this hour’? No, it was for this very reason I came to this hour.",
+  "korean_text": "지금 내 마음이 괴로우니 무슨 말을 하리요 아버지여 나를 구원하여 이 때를 면하게 하여 주옵소서 그러나 내가 이를 위하여 이 때에 왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now my soul is troubled",
+      "korean_translation": "이제 내 영혼이 괴로워합니다",
+      "word_indices": [
+        558
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and what shall I say?",
+      "korean_translation": "그리고 내가 무엇을 말해야 합니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Father, save me from this hour",
+      "korean_translation": "아버지, 이 시간에서 나를 구원해 주십시오",
+      "word_indices": [
+        12,
+        139,
+        939
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "No",
+      "korean_translation": "아니요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "it was for this very reason I came to this hour",
+      "korean_translation": "바로 이 이유 때문에 내가 이 시간에 온 것입니다",
+      "word_indices": [
+        750,
+        939
+      ]
+    }
+  ]
+}

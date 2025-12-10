@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 5:24",
+  "version": "NIV",
+  "original_text": "So Jesus went with him.\nA large crowd followed and pressed around him.",
+  "korean_text": "이에 그와 함께 가실새 큰 무리가 따라가며 에워싸 밀더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Jesus went with him.",
+      "korean_translation": "그래서 예수님은 그와 함께 가셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A large crowd followed",
+      "korean_translation": "큰 무리가 따랐습니다",
+      "word_indices": [
+        91,
+        303,
+        346
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and pressed around him.",
+      "korean_translation": "그리고 그를 둘러쌌습니다.",
+      "word_indices": [
+        1120
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Daniel 7:3",
+  "version": "NIV",
+  "original_text": "Four great beasts, each different from the others, came up out of the sea.",
+  "korean_text": "큰 짐승 넷이 바다에서 나왔는데 그 모양이 각각 다르더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Four great beasts",
+      "korean_translation": "네 마리의 큰 짐승들이",
+      "word_indices": [
+        44,
+        203,
+        545
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "each different from others",
+      "korean_translation": "각각 다른 짐승들이",
+      "word_indices": [
+        1400
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "came up out of sea",
+      "korean_translation": "바다에서 올라왔다",
+      "word_indices": [
+        108
+      ]
+    }
+  ]
+}

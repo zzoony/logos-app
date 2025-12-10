@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 10:8",
+  "version": "NIV",
+  "original_text": "“When you enter a town and are welcomed, eat what is offered to you.",
+  "korean_text": "어느 동네에 들어가든지 너희를 영접하거든 너희 앞에 차려놓는 것을 먹고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you enter a town",
+      "korean_translation": "너희가 한 마을에 들어갈 때",
+      "word_indices": [
+        72,
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and are welcomed",
+      "korean_translation": "환영을 받으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "eat what is offered to you",
+      "korean_translation": "너희에게 주어진 음식을 먹으라",
+      "word_indices": [
+        21,
+        33
+      ]
+    }
+  ]
+}

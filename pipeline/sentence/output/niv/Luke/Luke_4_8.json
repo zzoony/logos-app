@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 4:8",
+  "version": "NIV",
+  "original_text": "Jesus answered, “It is written: ‘Worship the Lord your God and serve him only.’”",
+  "korean_text": "예수께서 대답하여 이르시되 기록된 바 주 너의 하나님께 경배하고 다만 그를 섬기라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is written",
+      "korean_translation": "기록된 바가 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Worship the Lord your God",
+      "korean_translation": "네 하나님 주께 경배하고",
+      "word_indices": [
+        1,
+        204
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and serve him only",
+      "korean_translation": "오직 그만 섬기라",
+      "word_indices": [
+        131
+      ]
+    }
+  ]
+}

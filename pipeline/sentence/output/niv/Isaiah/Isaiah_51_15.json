@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Isaiah 51:15",
+  "version": "NIV",
+  "original_text": "For I am the Lord your God,\n    who stirs up the sea so that its waves roar—\n    the Lord Almighty is his name.",
+  "korean_text": "나는 네 하나님 여호와라 바다를 휘저어서 그 물결을 뒤흔들게 하는 자이니 그의 이름은 만군의 여호와니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I am the Lord your God",
+      "korean_translation": "나는 너의 하나님 여호와이니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who stirs up the sea",
+      "korean_translation": "바다를 흔들어",
+      "word_indices": [
+        108,
+        807
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that its waves roar",
+      "korean_translation": "그 파도가 우뢰처럼 울게 하며",
+      "word_indices": [
+        799
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Lord Almighty is his name",
+      "korean_translation": "그의 이름은 만군의 여호와시니라",
+      "word_indices": [
+        17,
+        122
+      ]
+    }
+  ]
+}

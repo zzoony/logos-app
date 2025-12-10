@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 11:4",
+  "version": "NIV",
+  "original_text": "Jesus replied, “Go back and report to John what you hear and see:",
+  "korean_text": "예수께서 대답하여 이르시되 너희가 가서 듣고 보는 것을 요한에게 알리되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go back and report to John",
+      "korean_translation": "요한에게 돌아가 보고하라",
+      "word_indices": [
+        52,
+        473
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what you hear and see",
+      "korean_translation": "너희가 듣고 보는 것을",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 6:44",
+  "version": "NIV",
+  "original_text": "“No one can come to me unless the Father who sent me draws them, and I will raise them up at the last day.",
+  "korean_text": "나를 보내신 아버지께서 이끌지 아니하시면 아무도 내게 올 수 없으니 오는 그를 내가 마지막 날에 다시 살리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one can come to me",
+      "korean_translation": "아무도 내게 올 수 없고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unless the Father who sent me draws them",
+      "korean_translation": "나를 보내신 아버지께서 그들을 이끄시지 않으면",
+      "word_indices": [
+        12,
+        464
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will raise them up",
+      "korean_translation": "그리고 내가 그들을 일으켜 세우리라",
+      "word_indices": [
+        249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the last day",
+      "korean_translation": "마지막 날에",
+      "word_indices": [
+        344
+      ]
+    }
+  ]
+}

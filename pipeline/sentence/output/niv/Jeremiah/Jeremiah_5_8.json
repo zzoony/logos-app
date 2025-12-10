@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Jeremiah 5:8",
+  "version": "NIV",
+  "original_text": "They are well-fed, lusty stallions,\n    each neighing for another man’s wife.",
+  "korean_text": "그들은 두루 다니는 살진 수말 같이 각기 이웃의 아내를 따르며 소리지르는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They are well-fed",
+      "korean_translation": "그들은 잘 먹여져",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "lusty stallions",
+      "korean_translation": "음탕한 준마들이며",
+      "word_indices": [
+        4064,
+        5732
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "each neighing for another man's wife",
+      "korean_translation": "각기 다른 사람의 아내를 향해 울부짖고 있다",
+      "word_indices": [
+        10,
+        79,
+        4065
+      ]
+    }
+  ]
+}

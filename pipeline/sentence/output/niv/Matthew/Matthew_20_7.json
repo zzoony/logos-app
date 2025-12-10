@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Matthew 20:7",
+  "version": "NIV",
+  "original_text": "“‘Because no one has hired us,’ they answered.\n“He said to them, ‘You also go and work in my vineyard.’",
+  "korean_text": "이르되 우리를 품꾼으로 쓰는 이가 없음이니이다 이르되 너희도 포도원에 들어가라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because no one has hired us",
+      "korean_translation": "아무도 우리를 고용하지 않았기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they answered",
+      "korean_translation": "그들이 대답했습니다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said to them",
+      "korean_translation": "그가 그들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You also go",
+      "korean_translation": "너희도 가라",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and work in my vineyard",
+      "korean_translation": "내 포도원에서 일하라",
+      "word_indices": [
+        65,
+        441
+      ]
+    }
+  ]
+}

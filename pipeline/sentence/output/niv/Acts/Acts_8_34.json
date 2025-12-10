@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Acts 8:34",
+  "version": "NIV",
+  "original_text": "The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?”",
+  "korean_text": "그 내시가 빌립에게 말하되 청컨대 내가 묻노니 선지자가 이 말한 것이 누구를 가리킴이냐 자기를 가리킴이냐 타인을 가리킴이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The eunuch asked Philip",
+      "korean_translation": "내시가 빌립에게 물었다",
+      "word_indices": [
+        31,
+        1475
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tell me, please",
+      "korean_translation": "제발 저에게 말해주세요",
+      "word_indices": [
+        15,
+        165
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is the prophet talking about",
+      "korean_translation": "선지자는 누구에 대해 말하고 있나요",
+      "word_indices": [
+        70,
+        446
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "himself or someone else?",
+      "korean_translation": "자기 자신인가요 아니면 다른 사람인가요?",
+      "word_indices": [
+        271,
+        485
+      ]
+    }
+  ]
+}

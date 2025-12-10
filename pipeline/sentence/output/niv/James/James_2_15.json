@@ -1,0 +1,35 @@
+{
+  "verse_reference": "James 2:15",
+  "version": "NIV",
+  "original_text": "Suppose a brother or a sister is without clothes and daily food.",
+  "korean_text": "만일 형제나 자매가 헐벗고 일용할 양식이 없는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Suppose a brother or a sister",
+      "korean_translation": "형제나 자매가",
+      "word_indices": [
+        53,
+        173,
+        1394
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is without clothes",
+      "korean_translation": "옷이 없고",
+      "word_indices": [
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and daily food",
+      "korean_translation": "매일의 양식이 없다고 하자",
+      "word_indices": [
+        103,
+        1292
+      ]
+    }
+  ]
+}

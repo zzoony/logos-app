@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 132:18",
+  "version": "NIV",
+  "original_text": "I will clothe his enemies with shame,\n    but his head will be adorned with a radiant crown.”",
+  "korean_text": "내가 그의 원수에게는 수치를 옷 입히고 그에게는 왕관이 빛나게 하리라 하셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will clothe his enemies with shame",
+      "korean_translation": "나는 그의 원수들을 수치로 옷 입히리라",
+      "word_indices": [
+        100,
+        174,
+        402
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but his head will be adorned",
+      "korean_translation": "그러나 그의 머리는 장식될 것이라",
+      "word_indices": [
+        67,
+        1375
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with a radiant crown",
+      "korean_translation": "눈부신 면류관으로",
+      "word_indices": [
+        702,
+        2225
+      ]
+    }
+  ]
+}

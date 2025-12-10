@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Acts 18:13",
+  "version": "NIV",
+  "original_text": "“This man,” they charged, “is persuading the people to worship God in ways contrary to the law.”",
+  "korean_text": "말하되 이 사람이 율법을 어기면서 하나님을 경외하라고 사람들을 권한다 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"This man,\" they charged,",
+      "korean_translation": "\"이 사람이,\" 그들이 고소했다,",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is persuading people",
+      "korean_translation": "사람들을 설득하고 있다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to worship God",
+      "korean_translation": "하나님을 경배하도록",
+      "word_indices": [
+        1,
+        204
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in ways contrary to law.\"",
+      "korean_translation": "율법에 어긋나는 방식으로.\"",
+      "word_indices": [
+        42,
+        1463
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 4:9",
+  "version": "NIV",
+  "original_text": "Then Jesus said, “Whoever has ears to hear, let them hear.”",
+  "korean_text": "또 이르시되 들을 귀 있는 자는 들으라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus said",
+      "korean_translation": "그때 예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whoever has ears to hear",
+      "korean_translation": "들을 귀가 있는 자는",
+      "word_indices": [
+        16,
+        154,
+        383
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let them hear",
+      "korean_translation": "들을지어다",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

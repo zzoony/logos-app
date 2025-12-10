@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 7:41",
+  "version": "NIV",
+  "original_text": "“Two people owed money to a certain moneylender. One owed him five hundred denarii, and the other fifty.",
+  "korean_text": "이르시되 빚 주는 사람에게 빚진 자가 둘이 있어 하나는 오백 데나리온을 졌고 하나는 오십 데나리온을 졌는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two people owed money",
+      "korean_translation": "두 사람이 돈을 빚졌습니다",
+      "word_indices": [
+        3,
+        448
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to a certain moneylender.",
+      "korean_translation": "어떤 고리대금업자에게",
+      "word_indices": [
+        1159,
+        5967
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "One owed him five hundred denarii,",
+      "korean_translation": "한 사람은 그에게 500 데나리온을 빚졌고",
+      "word_indices": [
+        196,
+        4774
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the other fifty.",
+      "korean_translation": "다른 한 사람은 50을 빚졌습니다",
+      "word_indices": [
+        560
+      ]
+    }
+  ]
+}

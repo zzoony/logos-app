@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Micah 4:6",
+  "version": "NIV",
+  "original_text": "“In that day,” declares the Lord,\n“I will gather the lame;\n    I will assemble the exiles\n    and those I have brought to grief.",
+  "korean_text": "여호와께서 말씀하시되 그 날에는 내가 저는 자를 모으며 쫓겨난 자와 내가 환난 받게 한 자를 모아",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In that day",
+      "korean_translation": "그 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "declares the Lord",
+      "korean_translation": "주께서 말씀하신다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will gather the lame",
+      "korean_translation": "내가 저는 자들을 모으리라",
+      "word_indices": [
+        169,
+        1216
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will assemble the exiles",
+      "korean_translation": "내가 포로들을 모으리라",
+      "word_indices": [
+        652
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and those I have brought to grief",
+      "korean_translation": "내가 고통을 준 자들도 모으리라",
+      "word_indices": [
+        1232
+      ]
+    }
+  ]
+}

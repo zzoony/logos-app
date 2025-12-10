@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 12:54",
+  "version": "NIV",
+  "original_text": "He said to the crowd: “When you see a cloud rising in the west, immediately you say, ‘It’s going to rain,’ and it does.",
+  "korean_text": "또 무리에게 이르시되 너희가 구름이 서쪽에서 이는 것을 보면 곧 말하기를 소나기가 오리라 하나니 과연 그러하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to the crowd:",
+      "korean_translation": "그가 무리에게 말했다:",
+      "word_indices": [
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When you see a cloud rising in the west,",
+      "korean_translation": "서쪽으로 구름이 떠오르는 것을 보면,",
+      "word_indices": [
+        331,
+        569
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "immediately you say,",
+      "korean_translation": "즉시 말하기를,",
+      "word_indices": [
+        863
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'It's going to rain,'",
+      "korean_translation": "'비가 올 것이다'라고",
+      "word_indices": [
+        506
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and it does.",
+      "korean_translation": "그리고 그렇게 된다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Luke 22:35",
+  "version": "NIV",
+  "original_text": "Then Jesus asked them, “When I sent you without purse, bag or sandals, did you lack anything?”\n“Nothing,” they answered.",
+  "korean_text": "그들에게 이르시되 내가 너희를 전대와 배낭과 신발도 없이 보내었을 때에 부족한 것이 있더냐 이르되 없었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus asked them",
+      "korean_translation": "그때 예수님께서 그들에게 물으셨다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When I sent you without purse, bag or sandals",
+      "korean_translation": "내가 너희를 돈주머니나 가방이나 신발 없이 보냈을 때",
+      "word_indices": [
+        1180,
+        1206,
+        2681
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "did you lack anything?",
+      "korean_translation": "너희가 부족한 것이 있었느냐?",
+      "word_indices": [
+        765
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Nothing,",
+      "korean_translation": "아무것도 없었습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they answered.",
+      "korean_translation": "그들이 대답했다.",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

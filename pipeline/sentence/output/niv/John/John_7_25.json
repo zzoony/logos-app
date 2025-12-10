@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 7:25",
+  "version": "NIV",
+  "original_text": "At that point some of the people of Jerusalem began to ask, “Isn’t this the man they are trying to kill?",
+  "korean_text": "예루살렘 사람 중에서 어떤 사람이 말하되 이는 그들이 죽이고자 하는 그 사람이 아니냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At that point",
+      "korean_translation": "그때",
+      "word_indices": [
+        1013
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some of the people of Jerusalem",
+      "korean_translation": "예루살렘 사람 중 일부가",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "began to ask",
+      "korean_translation": "묻기 시작했다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Isn't this the man",
+      "korean_translation": "이 사람이 바로",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they are trying to kill?",
+      "korean_translation": "죽이려고 하는 그 사람이 아닌가?",
+      "word_indices": [
+        76,
+        466
+      ]
+    }
+  ]
+}

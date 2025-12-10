@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 1:1",
+  "version": "NIV",
+  "original_text": "This is the genealogy of Jesus the Messiah the son of David, the son of Abraham:",
+  "korean_text": "아브라함과 다윗의 자손 예수 그리스도의 계보라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the genealogy of Jesus the Messiah",
+      "korean_translation": "이것은 예수 그리스도의 계보입니다",
+      "word_indices": [
+        717,
+        1944
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the son of David",
+      "korean_translation": "다윗의 아들이며",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the son of Abraham:",
+      "korean_translation": "아브라함의 아들입니다",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

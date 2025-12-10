@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 116:10",
+  "version": "NIV",
+  "original_text": "I trusted in the Lord when I said,\n    “I am greatly afflicted”;",
+  "korean_text": "내가 크게 고통을 당하였다고 말할 때에도 나는 믿었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I trusted in the Lord",
+      "korean_translation": "나는 주를 신뢰했다",
+      "word_indices": [
+        373
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I said",
+      "korean_translation": "내가 말할 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am greatly afflicted",
+      "korean_translation": "나는 크게 고통받고 있다",
+      "word_indices": [
+        710,
+        885
+      ]
+    }
+  ]
+}

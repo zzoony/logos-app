@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Peter 1:6",
+  "version": "NIV",
+  "original_text": "and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness;",
+  "korean_text": "지식에 절제를, 절제에 인내를, 인내에 경건을,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and to knowledge, self-control;",
+      "korean_translation": "그리고 지식에는 절제를",
+      "word_indices": [
+        407,
+        1069,
+        1126
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and to self-control, perseverance;",
+      "korean_translation": "그리고 절제에는 인내를",
+      "word_indices": [
+        1069,
+        1126,
+        2190
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to perseverance, godliness;",
+      "korean_translation": "그리고 인내에는 경건을",
+      "word_indices": [
+        2190
+      ]
+    }
+  ]
+}

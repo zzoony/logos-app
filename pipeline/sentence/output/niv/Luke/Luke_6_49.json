@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Luke 6:49",
+  "version": "NIV",
+  "original_text": "But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete.”",
+  "korean_text": "듣고 행하지 아니하는 자는 주추 없이 흙 위에 집 지은 사람과 같으니 탁류가 부딪치매 집이 곧 무너져 파괴됨이 심하니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But one who hears my words",
+      "korean_translation": "하지만 내 말을 듣는 자는",
+      "word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and does not put them into practice",
+      "korean_translation": "그것들을 행하지 아니하는 자는",
+      "word_indices": [
+        543
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is like a man who built a house",
+      "korean_translation": "집을 지은 사람과 같으니",
+      "word_indices": [
+        7,
+        10,
+        26
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the ground without a foundation",
+      "korean_translation": "기초 없이 땅 위에",
+      "word_indices": [
+        681,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The moment torrent struck that house",
+      "korean_translation": "홍수가 그 집에 부딪히는 순간",
+      "word_indices": [
+        26,
+        1152,
+        2008
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "it collapsed",
+      "korean_translation": "그것이 무너졌고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and its destruction was complete",
+      "korean_translation": "그 파멸이 완전하였느니라",
+      "word_indices": [
+        571,
+        891
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 15:36",
+  "version": "NIV",
+  "original_text": "Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people.",
+  "korean_text": "떡 일곱 개와 그 생선을 가지사 축사하시고 떼어 제자들에게 주시니 제자들이 무리에게 주매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he took the seven loaves and the fish",
+      "korean_translation": "그때 그가 떡 일곱 개와 물고기를 가져왔고",
+      "word_indices": [
+        96,
+        727
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and when he had given thanks",
+      "korean_translation": "감사 기도를 드린 후에",
+      "word_indices": [
+        5,
+        489
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he broke them and gave them to the disciples",
+      "korean_translation": "그것들을 떼어 제자들에게 주었고",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they in turn to the people",
+      "korean_translation": "제자들은 다시 백성들에게 주었습니다",
+      "word_indices": [
+        3,
+        49
+      ]
+    }
+  ]
+}

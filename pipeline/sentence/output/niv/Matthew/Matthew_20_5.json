@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 20:5",
+  "version": "NIV",
+  "original_text": "So they went.\n“He went out again about noon and about three in the afternoon and did the same thing.",
+  "korean_text": "제육시와 제구시에 또 나가 그와 같이 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they went.",
+      "korean_translation": "그래서 그들은 갔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He went out again about noon",
+      "korean_translation": "그는 정오쯤 다시 나가서",
+      "word_indices": [
+        1538
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and about three in the afternoon",
+      "korean_translation": "그리고 오후 세시쯤에",
+      "word_indices": [
+        90,
+        1928
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and did the same thing.",
+      "korean_translation": "같은 일을 했습니다.",
+      "word_indices": [
+        175
+      ]
+    }
+  ]
+}

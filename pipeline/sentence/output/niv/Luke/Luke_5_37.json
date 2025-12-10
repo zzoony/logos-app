@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Luke 5:37",
+  "version": "NIV",
+  "original_text": "And no one pours new wine into old wineskins. Otherwise, the new wine will burst the skins; the wine will run out and the wineskins will be ruined.",
+  "korean_text": "새 포도주를 낡은 가죽 부대에 넣는 자가 없나니 만일 그렇게 하면 새 포도주가 부대를 터뜨려 포도주가 쏟아지고 부대도 못쓰게 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And no one pours new wine into old wineskins",
+      "korean_translation": "그리고 아무도 새 포도주를 낡은 가죽 부대에 붓지 않는다",
+      "word_indices": [
+        215,
+        266,
+        1862
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Otherwise",
+      "korean_translation": "그렇지 않으면",
+      "word_indices": [
+        1098
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the new wine will burst the skins",
+      "korean_translation": "새 포도주가 가죽 부대를 터뜨릴 것이다",
+      "word_indices": [
+        215,
+        559,
+        1521
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the wine will run out",
+      "korean_translation": "포도주가 쏟아져 나갈 것이고",
+      "word_indices": [
+        215,
+        306
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the wineskins will be ruined",
+      "korean_translation": "가죽 부대는 망가질 것이다",
+      "word_indices": [
+        284,
+        1862
+      ]
+    }
+  ]
+}

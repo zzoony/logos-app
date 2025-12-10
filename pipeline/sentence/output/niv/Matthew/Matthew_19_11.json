@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 19:11",
+  "version": "NIV",
+  "original_text": "Jesus replied, “Not everyone can accept this word, but only those to whom it has been given.",
+  "korean_text": "예수께서 이르시되 사람마다 이 말을 받지 못하고 오직 타고난 자라야 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Not everyone can accept this word",
+      "korean_translation": "모든 사람이 이 말을 받아들일 수 있는 것은 아니다",
+      "word_indices": [
+        19,
+        186,
+        422
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but only those to whom it has been given",
+      "korean_translation": "오직 그것이 주어진 자들만이",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

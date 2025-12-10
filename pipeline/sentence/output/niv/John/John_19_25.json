@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 19:25",
+  "version": "NIV",
+  "original_text": "Near the cross of Jesus stood his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.",
+  "korean_text": "예수의 십자가 곁에는 그 어머니와 이모와 글로바의 아내 마리아와 막달라 마리아가 섰는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Near the cross of Jesus",
+      "korean_translation": "예수님의 십자가 근처에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "stood his mother",
+      "korean_translation": "그의 어머니가 서 있었고",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his mother's sister",
+      "korean_translation": "그의 어머니의 자매",
+      "word_indices": [
+        120,
+        173
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Mary wife of Clopas",
+      "korean_translation": "글로바의 아내 마리아",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and Mary Magdalene",
+      "korean_translation": "그리고 막달라 마리아가 있었다",
+      "word_indices": []
+    }
+  ]
+}

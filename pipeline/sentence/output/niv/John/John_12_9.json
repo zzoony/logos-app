@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 12:9",
+  "version": "NIV",
+  "original_text": "Meanwhile a large crowd of Jews found out that Jesus was there and came, not only because of him but also to see Lazarus, whom he had raised from the dead.",
+  "korean_text": "유대인의 큰 무리가 예수께서 여기 계신 줄을 알고 오니 이는 예수만 보기 위함이 아니요 죽은 자 가운데서 살리신 나사로도 보려 함이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Meanwhile a large crowd of Jews found out",
+      "korean_translation": "한편 유대인의 큰 무리가 알아내었습니다",
+      "word_indices": [
+        209,
+        303,
+        346,
+        1161,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Jesus was there",
+      "korean_translation": "예수께서 거기 계신 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and came",
+      "korean_translation": "그리고 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "not only because of him",
+      "korean_translation": "그분 때문만이 아니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but also to see Lazarus",
+      "korean_translation": "나사로를 보기 위해서도 왔습니다",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "whom he had raised from dead",
+      "korean_translation": "그분께서 죽은 자들 가운데서 살리신 분이었습니다",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

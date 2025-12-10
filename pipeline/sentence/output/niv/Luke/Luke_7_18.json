@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Luke 7:18",
+  "version": "NIV",
+  "original_text": "John’s disciples told him about all these things. Calling two of them,",
+  "korean_text": "요한의 제자들이 이 모든 일을 그에게 알리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John's disciples told him",
+      "korean_translation": "세례 요한의 제자들이 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about all these things.",
+      "korean_translation": "이 모든 일들에 대하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Calling two of them,",
+      "korean_translation": "그들 중 두 사람을 불러서",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

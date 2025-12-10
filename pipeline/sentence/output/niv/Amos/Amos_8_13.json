@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Amos 8:13",
+  "version": "NIV",
+  "original_text": "“In that day\n“the lovely young women and strong young men\n    will faint because of thirst.",
+  "korean_text": "그 날에 아름다운 처녀와 젊은 남자가 다 갈하여 쓰러지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In that day",
+      "korean_translation": "그 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the lovely young women and strong young men",
+      "korean_translation": "사랑스러운 젊은 여자들과 힘센 젊은 남자들이",
+      "word_indices": [
+        130,
+        342,
+        2204
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will faint because of thirst",
+      "korean_translation": "갈증으로 기절할 것이라",
+      "word_indices": [
+        1199,
+        1395
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 11:9",
+  "version": "NIV",
+  "original_text": "“So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+  "korean_text": "내가 또 너희에게 이르노니 구하라 그러면 너희에게 주실 것이요 찾으라 그러면 찾아낼 것이요 문을 두드리라 그러면 너희에게 열릴 것이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So I say to you:",
+      "korean_translation": "그러므로 내가 너희에게 말하노니:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ask and it will be given to you;",
+      "korean_translation": "구하라 그리하면 너희에게 주실 것이요",
+      "word_indices": [
+        5,
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "seek and you will find;",
+      "korean_translation": "찾으라 그리하면 찾아낼 것이요",
+      "word_indices": [
+        55,
+        273
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "knock and the door will be opened to you.",
+      "korean_translation": "문을 두드리라 그리하면 너희에게 열릴 것이니라",
+      "word_indices": [
+        160,
+        415,
+        2048
+      ]
+    }
+  ]
+}

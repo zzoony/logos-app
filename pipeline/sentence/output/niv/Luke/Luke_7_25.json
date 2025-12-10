@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 7:25",
+  "version": "NIV",
+  "original_text": "If not, what did you go out to see? A man dressed in fine clothes? No, those who wear expensive clothes and indulge in luxury are in palaces.",
+  "korean_text": "그러면 너희가 무엇을 보려고 나갔더냐 부드러운 옷 입은 사람이냐 보라 화려한 옷을 입고 사치하게 지내는 자는 왕궁에 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If not, what did you go out to see?",
+      "korean_translation": "그렇지 않다면, 너희가 무엇을 보러 나갔느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A man dressed in fine clothes?",
+      "korean_translation": "화려한 옷을 입은 사람인가?",
+      "word_indices": [
+        10,
+        633,
+        814,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "No, those who wear expensive clothes",
+      "korean_translation": "아니요, 비싼 옷을 입는 자들은",
+      "word_indices": [
+        482,
+        1289,
+        3342
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and indulge in luxury are in palaces.",
+      "korean_translation": "사치를 즐기며 궁전에 있다.",
+      "word_indices": [
+        2437,
+        2519
+      ]
+    }
+  ]
+}

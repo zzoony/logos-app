@@ -1,0 +1,56 @@
+{
+  "verse_reference": "John 18:10",
+  "version": "NIV",
+  "original_text": "Then Simon Peter, who had a sword, drew it and struck the high priest’s servant, cutting off his right ear. (The servant’s name was Malchus.)",
+  "korean_text": "이에 시몬 베드로가 칼을 가졌는데 그것을 빼어 대제사장의 종을 쳐서 오른편 귀를 베어버리니 그 종의 이름은 말고라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Simon Peter",
+      "korean_translation": "그때 시몬 베드로는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had a sword",
+      "korean_translation": "검을 가지고 있던 그는",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "drew it",
+      "korean_translation": "검을 뽑아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and struck the high priest's servant",
+      "korean_translation": "대제사장의 종을 쳤습니다",
+      "word_indices": [
+        22,
+        25,
+        105
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "cutting off his right ear",
+      "korean_translation": "그의 오른쪽 귀를 잘라버렸습니다",
+      "word_indices": [
+        74,
+        383
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The servant's name was Malchus",
+      "korean_translation": "그 종의 이름은 말코스였습니다",
+      "word_indices": [
+        17,
+        25
+      ]
+    }
+  ]
+}

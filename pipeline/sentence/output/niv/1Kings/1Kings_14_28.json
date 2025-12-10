@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 14:28",
+  "version": "NIV",
+  "original_text": "Whenever the king went to the Lord’s temple, the guards bore the shields, and afterward they returned them to the guardroom.",
+  "korean_text": "왕이 여호와의 성전에 들어갈 때마다 시위하는 자가 그 방패를 들고 갔다가 시위소로 도로 가져갔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whenever the king went to the Lord's temple,",
+      "korean_translation": "왕이 주의 성전에 갈 때마다,",
+      "word_indices": [
+        4,
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the guards bore the shields,",
+      "korean_translation": "경비병들이 방패를 들었고,",
+      "word_indices": [
+        281,
+        524,
+        748
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and afterward they returned them to the guardroom.",
+      "korean_translation": "그 후에 그것들을 경비실로 가져갔다.",
+      "word_indices": [
+        89,
+        1157,
+        4381
+      ]
+    }
+  ]
+}

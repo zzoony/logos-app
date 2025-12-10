@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Hosea 6:1",
+  "version": "NIV",
+  "original_text": "“Come, let us return to the Lord.\nHe has torn us to pieces\n    but he will heal us;\nhe has injured us\n    but he will bind up our wounds.",
+  "korean_text": "오라 우리가 여호와께로 돌아가자 여호와께서 우리를 찢으셨으나 도로 낫게 하실 것이요 우리를 치셨으나 싸매어 주실 것임이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come, let us return to the Lord.",
+      "korean_translation": "오라, 우리가 주께로 돌아가자.",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He has torn us to pieces",
+      "korean_translation": "그가 우리를 찢으셨지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but he will heal us;",
+      "korean_translation": "그가 우리를 치유하실 것이며;",
+      "word_indices": [
+        354
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he has injured us",
+      "korean_translation": "그가 우리를 상하게 하셨지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but he will bind up our wounds.",
+      "korean_translation": "그가 우리의 상처를 싸매 주실 것이다.",
+      "word_indices": [
+        604,
+        923
+      ]
+    }
+  ]
+}

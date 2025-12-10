@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 Timothy 5:1",
+  "version": "NIV",
+  "original_text": "Do not rebuke an older man harshly, but exhort him as if he were your father. Treat younger men as brothers,",
+  "korean_text": "늙은이를 꾸짖지 말고 권하되 아버지에게 하듯 하며 젊은이에게는 형제에게 하듯 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not rebuke an older man harshly",
+      "korean_translation": "노인을 거칠게 꾸짖지 말고",
+      "word_indices": [
+        10,
+        541,
+        1246,
+        2129
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but exhort him as if he were your father",
+      "korean_translation": "아버지에게 하듯 권면하라",
+      "word_indices": [
+        12,
+        4772
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Treat younger men as brothers",
+      "korean_translation": "젊은이들에게는 형제에게 하듯 하라",
+      "word_indices": [
+        53,
+        616,
+        1230
+      ]
+    }
+  ]
+}

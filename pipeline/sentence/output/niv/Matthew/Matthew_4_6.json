@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Matthew 4:6",
+  "version": "NIV",
+  "original_text": "“If you are the Son of God,” he said, “throw yourself down. For it is written:\n“‘He will command his angels concerning you,\n    and they will lift you up in their hands,\n    so that you will not strike your foot against a stone.’”",
+  "korean_text": "이르되 네가 만일 하나님의 아들이어든 뛰어내리라 기록되었으되 그가 너를 위하여 그의 사자들을 명하시리니 그들이 손으로 너를 받들어 발이 돌에 부딪치지 않게 하리로다 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you are the Son of God",
+      "korean_translation": "네가 하나님의 아들이라면",
+      "word_indices": [
+        1,
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "throw yourself down",
+      "korean_translation": "네 자신을 아래로 던져라",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "For it is written",
+      "korean_translation": "기록된 바가 있기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He will command his angels concerning you",
+      "korean_translation": "그가 너에 대해 그의 천사들에게 명령할 것이다",
+      "word_indices": [
+        48,
+        153,
+        336
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and they will lift you up in their hands",
+      "korean_translation": "그리고 그들이 너를 그들의 손으로 들어 올릴 것이다",
+      "word_indices": [
+        9,
+        379
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "so that you will not strike your foot against a stone",
+      "korean_translation": "그래서 네가 네 발을 돌에 부딪히지 않을 것이다",
+      "word_indices": [
+        11,
+        123,
+        125,
+        206
+      ]
+    }
+  ]
+}

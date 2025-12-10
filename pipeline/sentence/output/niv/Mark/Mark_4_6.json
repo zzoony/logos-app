@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Mark 4:6",
+  "version": "NIV",
+  "original_text": "But when the sun came up, the plants were scorched, and they withered because they had no root.",
+  "korean_text": "해가 돋은 후에 타서 뿌리가 없으므로 말랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when the sun came up,",
+      "korean_translation": "그러나 해가 떠올랐을 때,",
+      "word_indices": [
+        364
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the plants were scorched,",
+      "korean_translation": "식물들이 타버리고,",
+      "word_indices": [
+        358,
+        1534
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they withered",
+      "korean_translation": "그들은 시들었으며,",
+      "word_indices": [
+        870
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because they had no root.",
+      "korean_translation": "뿌리가 없었기 때문이다.",
+      "word_indices": [
+        832
+      ]
+    }
+  ]
+}

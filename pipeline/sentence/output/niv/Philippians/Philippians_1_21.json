@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Philippians 1:21",
+  "version": "NIV",
+  "original_text": "For to me, to live is Christ and to die is gain.",
+  "korean_text": "이는 내게 사는 것이 그리스도니 죽는 것도 유익함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For to me",
+      "korean_translation": "나에게는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to live is Christ",
+      "korean_translation": "사는 것이 그리스도이니",
+      "word_indices": [
+        14,
+        73
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to die is gain",
+      "korean_translation": "죽는 것은 이득이라",
+      "word_indices": [
+        58,
+        537
+      ]
+    }
+  ]
+}

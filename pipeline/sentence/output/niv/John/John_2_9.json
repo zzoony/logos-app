@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 2:9",
+  "version": "NIV",
+  "original_text": "and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside",
+  "korean_text": "연회장은 물로 된 포도주를 맛보고도 어디서 났는지 알지 못하되 물 떠온 하인들은 알더라 연회장이 신랑을 불러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and master of the banquet tasted the water",
+      "korean_translation": "그리고 연회의 주인은 그 물을 맛보았습니다",
+      "word_indices": [
+        46,
+        265,
+        1134
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that had been turned into wine",
+      "korean_translation": "포도주로 변한 물을",
+      "word_indices": [
+        49,
+        215
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He did not realize where it had come from",
+      "korean_translation": "그는 그것이 어디서 왔는지 깨닫지 못했습니다",
+      "word_indices": [
+        696
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "though the servants who had drawn the water knew",
+      "korean_translation": "물을 길어온 하인들은 알고 있었지만",
+      "word_indices": [
+        25,
+        46,
+        127
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then he called the bridegroom aside",
+      "korean_translation": "그러자 그는 신랑을 한쪽으로 불렀습니다",
+      "word_indices": [
+        35,
+        706,
+        1426
+      ]
+    }
+  ]
+}

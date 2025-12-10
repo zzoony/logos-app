@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 10:1",
+  "version": "NIV",
+  "original_text": "“Very truly I tell you Pharisees, anyone who does not enter the sheep pen by the gate, but climbs in by some other way, is a thief and a robber.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 문을 통하여 양의 우리에 들어가지 아니하고 다른 데로 넘어가는 자는 절도며 강도요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"Very truly I tell you Pharisees,",
+      "korean_translation": "\"바로 너희 바리새인들에게 진실로 말하노니,",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "anyone who does not enter the sheep pen by the gate,",
+      "korean_translation": "문으로 양의 우리에 들어가지 않고,",
+      "word_indices": [
+        68,
+        132,
+        135,
+        251,
+        1392
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but climbs in by some other way,",
+      "korean_translation": "다른 곳으로 넘어가는 자는,",
+      "word_indices": [
+        1331
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is a thief and a robber.\"",
+      "korean_translation": "도둑이요 강도니라.\"",
+      "word_indices": [
+        1123,
+        2283
+      ]
+    }
+  ]
+}

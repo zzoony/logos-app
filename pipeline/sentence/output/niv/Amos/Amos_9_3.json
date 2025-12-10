@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Amos 9:3",
+  "version": "NIV",
+  "original_text": "Though they hide themselves on the top of Carmel,\n    there I will hunt them down and seize them.\nThough they hide from my eyes at the bottom of the sea,\n    there I will command the serpent to bite them.",
+  "korean_text": "갈멜 산 꼭대기에 숨을지라도 내가 거기에서 찾아낼 것이요 내 눈을 피하여 바다 밑에 숨을지라도 내가 거기에서 뱀을 명령하여 물게 할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though they hide themselves on the top of Carmel,",
+      "korean_translation": "비록 그들이 갈멜산 꼭대기에 스스로를 숨긴다 할지라도,",
+      "word_indices": [
+        127,
+        229,
+        529
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there I will hunt them down and seize them.",
+      "korean_translation": "내가 그 곳에서 그들을 추격하여 잡을 것이다.",
+      "word_indices": [
+        576,
+        1710
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Though they hide from my eyes at the bottom of the sea,",
+      "korean_translation": "비록 그들이 내 눈을 피해 바닷속 깊이 숨는다 할지라도,",
+      "word_indices": [
+        108,
+        127,
+        229,
+        2433
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "there I will command the serpent to bite them.",
+      "korean_translation": "내가 그 곳에서 뱀에게 명하여 그들을 물게 하리라.",
+      "word_indices": [
+        48,
+        1481,
+        1835
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Matthew 5:39",
+  "version": "NIV",
+  "original_text": "But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also.",
+  "korean_text": "나는 너희에게 이르노니 악한 자를 대적하지 말라 누구든지 네 오른편 뺨을 치거든 왼편도 돌려 대며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I tell you",
+      "korean_translation": "하지만 나는 너희에게 말한다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not resist an evil person",
+      "korean_translation": "악한 사람을 저항하지 말라",
+      "word_indices": [
+        95,
+        134,
+        1808
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If anyone slaps you",
+      "korean_translation": "누구든지 너를 때리면",
+      "word_indices": [
+        68,
+        2645
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the right cheek",
+      "korean_translation": "오른뺨을",
+      "word_indices": [
+        74,
+        2277
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "turn to them the other cheek also",
+      "korean_translation": "그들에게 다른 뺨도 돌려주라",
+      "word_indices": [
+        28,
+        49,
+        2277
+      ]
+    }
+  ]
+}

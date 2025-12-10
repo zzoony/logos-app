@@ -1,0 +1,60 @@
+{
+  "verse_reference": "John 12:34",
+  "version": "NIV",
+  "original_text": "The crowd spoke up, “We have heard from the Law that the Messiah will remain forever, so how can you say, ‘The Son of Man must be lifted up’? Who is this ‘Son of Man’?”",
+  "korean_text": "이에 무리가 대답하되 우리는 율법에서 그리스도가 영원히 계신다 함을 들었거늘 너는 어찌하여 인자가 들려야 하리라 하느냐 이 인자는 누구냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The crowd spoke up",
+      "korean_translation": "무리가 말했다",
+      "word_indices": [
+        303,
+        5162
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We have heard from the Law",
+      "korean_translation": "우리는 율법에서 들었다",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the Messiah will remain forever",
+      "korean_translation": "메시아는 영원히 계실 것이라고",
+      "word_indices": [
+        166,
+        210,
+        717
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so how can you say",
+      "korean_translation": "그런데 어찌 당신은 말할 수 있는가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The Son of Man must be lifted up",
+      "korean_translation": "인자는 들려야 한다고",
+      "word_indices": [
+        2,
+        10,
+        379
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Who is this 'Son of Man'?",
+      "korean_translation": "이 '인자'가 누구인가?",
+      "word_indices": [
+        2,
+        10
+      ]
+    }
+  ]
+}

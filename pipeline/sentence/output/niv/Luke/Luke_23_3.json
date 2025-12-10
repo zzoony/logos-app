@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 23:3",
+  "version": "NIV",
+  "original_text": "So Pilate asked Jesus, “Are you the king of the Jews?”\n“You have said so,” Jesus replied.",
+  "korean_text": "빌라도가 예수께 물어 이르되 네가 유대인의 왕이냐 대답하여 이르시되 네 말이 옳도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Pilate asked Jesus",
+      "korean_translation": "그래서 빌라도가 예수께 물었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"Are you the king of the Jews?\"",
+      "korean_translation": "\"당신이 유대인의 왕입니까?\"",
+      "word_indices": [
+        4,
+        209
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "\"You have said so,\"",
+      "korean_translation": "\"네가 그렇게 말했다,\"",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus replied.",
+      "korean_translation": "예수께서 대답했다.",
+      "word_indices": []
+    }
+  ]
+}

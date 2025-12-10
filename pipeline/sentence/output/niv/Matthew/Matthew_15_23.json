@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 15:23",
+  "version": "NIV",
+  "original_text": "Jesus did not answer a word. So his disciples came to him and urged him, “Send her away, for she keeps crying out after us.”",
+  "korean_text": "예수는 한 말씀도 대답하지 아니하시니 제자들이 와서 청하여 말하되 그 여자가 우리 뒤에서 소리를 지르오니 그를 보내소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus did not answer a word.",
+      "korean_translation": "예수님은 한마디도 대답하지 않으셨습니다.",
+      "word_indices": [
+        19,
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So his disciples came to him",
+      "korean_translation": "그래서 그의 제자들이 그에게 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and urged him,",
+      "korean_translation": "그를 재촉하며 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Send her away,",
+      "korean_translation": "그 여자를 보내주세요.",
+      "word_indices": [
+        20,
+        34
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for she keeps crying out after us.",
+      "korean_translation": "그녀가 계속 우리 뒤에서 소리치고 있습니다.",
+      "word_indices": [
+        60,
+        152
+      ]
+    }
+  ]
+}

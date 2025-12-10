@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 19:30",
+  "version": "NIV",
+  "original_text": "But many who are first will be last, and many who are last will be first.",
+  "korean_text": "그러나 먼저 된 자로서 나중 되고 나중 된 자로서 먼저 될 자가 많으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But many who are first",
+      "korean_translation": "그러나 첫째인 많은 사람들이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will be last",
+      "korean_translation": "꼴찌가 될 것이며",
+      "word_indices": [
+        344
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and many who are last",
+      "korean_translation": "꼴찌인 많은 사람들이",
+      "word_indices": [
+        344
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will be first",
+      "korean_translation": "첫째가 될 것이다",
+      "word_indices": []
+    }
+  ]
+}

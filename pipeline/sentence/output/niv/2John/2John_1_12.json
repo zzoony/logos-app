@@ -1,0 +1,55 @@
+{
+  "verse_reference": "2 John 1:12",
+  "version": "NIV",
+  "original_text": "I have much to write to you, but I do not want to use paper and ink. Instead, I hope to visit you and talk with you face to face, so that our joy may be complete.",
+  "korean_text": "내가 너희에게 쓸 것이 많으나 종이와 먹으로 쓰기를 원하지 아니하고 오히려 너희에게 가서 대면하여 말하려 하니 이는 너희 기쁨을 충만하게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have much to write to you",
+      "korean_translation": "너희에게 쓸 것이 많으나",
+      "word_indices": [
+        85
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but I do not want to use paper and ink",
+      "korean_translation": "종이와 먹으로 쓰고 싶지 아니하노라",
+      "word_indices": [
+        161,
+        213,
+        3661,
+        6353
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Instead, I hope to visit you",
+      "korean_translation": "다만 너희에게 가서",
+      "word_indices": [
+        294,
+        523,
+        1304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and talk with you face to face",
+      "korean_translation": "면대면 말하며",
+      "word_indices": [
+        87,
+        446
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that our joy may be complete",
+      "korean_translation": "우리의 기쁨이 충만하게 하려 함이라",
+      "word_indices": [
+        237,
+        891
+      ]
+    }
+  ]
+}

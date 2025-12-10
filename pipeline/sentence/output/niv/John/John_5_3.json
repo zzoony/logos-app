@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 5:3",
+  "version": "NIV",
+  "original_text": "Here a great number of disabled people used to lie—the blind, the lame, the paralyzed.",
+  "korean_text": "그 안에 많은 병자, 맹인, 다리 저는 사람, 혈기 마른 사람들이 누워 [물의 움직임을 기다리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Here a great number of disabled people used to lie",
+      "korean_translation": "여기에 수많은 불구자들이 누워 있곤 했습니다",
+      "word_indices": [
+        3,
+        44,
+        142,
+        201
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the blind",
+      "korean_translation": "맹인들이",
+      "word_indices": [
+        606
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the lame",
+      "korean_translation": "절름발이들이",
+      "word_indices": [
+        1216
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the paralyzed",
+      "korean_translation": "마비된 사람들이",
+      "word_indices": []
+    }
+  ]
+}

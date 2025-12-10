@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 6:34",
+  "version": "NIV",
+  "original_text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+  "korean_text": "그러므로 내일 일을 위하여 염려하지 말라 내일 일은 내일이 염려할 것이요 한 날의 괴로움은 그 날로 족하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore do not worry about tomorrow",
+      "korean_translation": "그러므로 내일에 대해 걱정하지 마라",
+      "word_indices": [
+        83,
+        820,
+        1515
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for tomorrow will worry about itself",
+      "korean_translation": "내일은 내일 스스로 걱정할 것이기 때문이다",
+      "word_indices": [
+        820,
+        1515
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Each day has enough trouble of its own",
+      "korean_translation": "각 날은 자기의 고생할 것이 족하다",
+      "word_indices": [
+        304,
+        540
+      ]
+    }
+  ]
+}

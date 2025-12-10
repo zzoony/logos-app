@@ -1,0 +1,56 @@
+{
+  "verse_reference": "John 6:26",
+  "version": "NIV",
+  "original_text": "Jesus answered, “Very truly I tell you, you are looking for me, not because you saw the signs I performed but because you ate the loaves and had your fill.",
+  "korean_text": "예수께서 대답하여 이르시되 내가 진실로 진실로 너희에게 이르노니 너희가 나를 찾는 것은 표적을 본 까닭이 아니요 떡을 먹고 배부른 까닭이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하시되",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"Very truly I tell you",
+      "korean_translation": "\"내가 진실로 진실로 너희에게 이르노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you are looking for me",
+      "korean_translation": "너희가 나를 찾는 것은",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "not because you saw the signs I performed",
+      "korean_translation": "내가 행한 표적을 보았기 때문이 아니요",
+      "word_indices": [
+        314,
+        635
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but because you ate the loaves",
+      "korean_translation": "떡을 먹고 배부르게 하였기 때문이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and had your fill.\"",
+      "korean_translation": "배부르게 하였기 때문이라.\"",
+      "word_indices": [
+        188
+      ]
+    }
+  ]
+}

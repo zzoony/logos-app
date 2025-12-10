@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 12:31",
+  "version": "NIV",
+  "original_text": "Now is the time for judgment on this world; now the prince of this world will be driven out.",
+  "korean_text": "이제 이 세상에 대한 심판이 이르렀으니 이 세상의 임금이 쫓겨나리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now is the time",
+      "korean_translation": "이제 때가 이르렀다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for judgment on this world",
+      "korean_translation": "이 세상에 대한 심판의",
+      "word_indices": [
+        190,
+        380
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "now the prince of this world",
+      "korean_translation": "이 세상의 왕이",
+      "word_indices": [
+        190,
+        486
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will be driven out",
+      "korean_translation": "쫓겨날 것이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Joel 2:19",
+  "version": "NIV",
+  "original_text": "The Lord replied to them:\n“I am sending you grain, new wine and olive oil,\n    enough to satisfy you fully;\nnever again will I make you\n    an object of scorn to the nations.",
+  "korean_text": "여호와께서 그들에게 응답하여 이르시기를 내가 너희에게 곡식과 새 포도주와 기름을 주리니 너희가 이로 말미암아 흡족하리라 내가 다시는 너희가 나라들 가운데에서 욕을 당하지 않게 할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord replied to them:",
+      "korean_translation": "주께서 그들에게 대답하셨다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am sending you grain, new wine and olive oil,",
+      "korean_translation": "내가 너희에게 곡식과 새 포도주와 기름을 보내겠다",
+      "word_indices": [
+        20,
+        182,
+        215,
+        246,
+        327
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "enough to satisfy you fully;",
+      "korean_translation": "너희를 온전히 만족시킬 만큼",
+      "word_indices": [
+        540,
+        787,
+        915
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "never again will I make you",
+      "korean_translation": "다시는 내가 너희를 만들지 않겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "an object of scorn to the nations.",
+      "korean_translation": "열방의 조롱거리를.",
+      "word_indices": [
+        41,
+        874,
+        938
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 16:20",
+  "version": "NIV",
+  "original_text": "At his gate was laid a beggar named Lazarus, covered with sores",
+  "korean_text": "그런데 나사로라 이름하는 한 거지가 헌데 투성이로 그의 대문 앞에 버려진 채",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At his gate",
+      "korean_translation": "그의 문에",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was laid a beggar",
+      "korean_translation": "한 거지가 누워 있었고",
+      "word_indices": [
+        4008
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "named Lazarus",
+      "korean_translation": "그의 이름은 나사로였으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "covered with sores",
+      "korean_translation": "종기로 덮여 있었다",
+      "word_indices": [
+        200
+      ]
+    }
+  ]
+}

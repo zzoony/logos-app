@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Galatians 3:28",
+  "version": "NIV",
+  "original_text": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+  "korean_text": "너희는 유대인이나 헬라인이나 종이나 자유인이나 남자나 여자나 다 그리스도 예수 안에서 하나이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is neither Jew nor Gentile",
+      "korean_translation": "유대인도 이방인도 없고",
+      "word_indices": [
+        209,
+        449
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither slave nor free",
+      "korean_translation": "종도 자유인도 없으며",
+      "word_indices": [
+        287,
+        421,
+        449
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor is there male and female",
+      "korean_translation": "남자와 여자도 없습니다",
+      "word_indices": [
+        228,
+        614
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for you are all one",
+      "korean_translation": "이는 너희가 모두 한 사람이기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in Christ Jesus",
+      "korean_translation": "그리스도 예수 안에서",
+      "word_indices": [
+        73
+      ]
+    }
+  ]
+}

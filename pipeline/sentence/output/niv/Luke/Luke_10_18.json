@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 10:18",
+  "version": "NIV",
+  "original_text": "He replied, “I saw Satan fall like lightning from heaven.",
+  "korean_text": "예수께서 이르시되 사탄이 하늘로부터 번개 같이 떨어지는 것을 내가 보았노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He replied,",
+      "korean_translation": "그가 대답하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"I saw Satan",
+      "korean_translation": "\"나는 사탄이",
+      "word_indices": [
+        864
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "fall like lightning",
+      "korean_translation": "번개처럼 떨어지는 것을 보았다",
+      "word_indices": [
+        7,
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from heaven.\"",
+      "korean_translation": "하늘에서.\"",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

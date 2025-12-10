@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 36:11",
+  "version": "NIV",
+  "original_text": "May the foot of the proud not come against me,\n    nor the hand of the wicked drive me away.",
+  "korean_text": "교만한 자의 발이 내게 이르지 못하게 하시며 악인들의 손이 나를 쫓아내지 못하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "May the foot of the proud",
+      "korean_translation": "오만한 자의 발이",
+      "word_indices": [
+        123,
+        1074
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "not come against me",
+      "korean_translation": "나를 치지 못하게 하소서",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor the hand of the wicked",
+      "korean_translation": "악인의 손이",
+      "word_indices": [
+        9,
+        2221
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "drive me away",
+      "korean_translation": "나를 몰아내지 못하게 하소서",
+      "word_indices": [
+        34,
+        234
+      ]
+    }
+  ]
+}

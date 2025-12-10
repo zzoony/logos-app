@@ -1,0 +1,68 @@
+{
+  "verse_reference": "Luke 13:25",
+  "version": "NIV",
+  "original_text": "Once the owner of the house gets up and closes the door, you will stand outside knocking and pleading, ‘Sir, open the door for us.’\n“But he will answer, ‘I don’t know you or where you come from.’",
+  "korean_text": "집 주인이 일어나 문을 한 번 닫은 후에 너희가 밖에 서서 문을 두드리며 주여 열어 주소서 하면 그가 대답하여 이르되 나는 너희가 어디에서 온 자인지 알지 못하노라 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Once the owner of the house gets up",
+      "korean_translation": "집 주인이 일어나면",
+      "word_indices": [
+        26,
+        934
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and closes the door,",
+      "korean_translation": "문을 닫을 것입니다",
+      "word_indices": [
+        415
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you will stand outside knocking and pleading,",
+      "korean_translation": "너희는 밖에 서서 문 두드리고 애원할 것입니다",
+      "word_indices": [
+        45,
+        404,
+        993,
+        2048
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "‘Sir, open the door for us.’",
+      "korean_translation": "'선생님, 우리를 위해 문을 열어 주세요.'",
+      "word_indices": [
+        160,
+        415,
+        1490
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But he will answer,",
+      "korean_translation": "하지만 그가 대답할 것입니다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "‘I don’t know you",
+      "korean_translation": "'나는 너희를 알지 못하며",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "or where you come from.’",
+      "korean_translation": "너희가 어디서 왔는지도 모릅니다.'",
+      "word_indices": []
+    }
+  ]
+}

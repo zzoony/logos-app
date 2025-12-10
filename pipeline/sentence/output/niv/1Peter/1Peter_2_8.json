@@ -1,0 +1,58 @@
+{
+  "verse_reference": "1 Peter 2:8",
+  "version": "NIV",
+  "original_text": "and,\n“A stone that causes people to stumble\n    and a rock that makes them fall.”\nThey stumble because they disobey the message—which is also what they were destined for.",
+  "korean_text": "또한 부딪치는 돌과 걸려 넘어지게 하는 바위가 되었다 하였느니라 그들이 말씀을 순종하지 아니하므로 넘어지나니 이는 그들을 이렇게 정하신 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and",
+      "korean_translation": "그리고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A stone that causes people to stumble",
+      "korean_translation": "사람들이 걸려 넘어지게 하는 돌",
+      "word_indices": [
+        3,
+        125,
+        591
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a rock that makes them fall",
+      "korean_translation": "그리고 그들이 넘어지게 하는 바위",
+      "word_indices": [
+        113,
+        369
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They stumble because they disobey",
+      "korean_translation": "그들은 불순종하기 때문에 걸려 넘어집니다",
+      "word_indices": [
+        591,
+        1849
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the message",
+      "korean_translation": "그 메시지를",
+      "word_indices": [
+        412
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "which is also what they were destined for",
+      "korean_translation": "그것은 또한 그들이 운명지어진 것입니다",
+      "word_indices": [
+        28
+      ]
+    }
+  ]
+}

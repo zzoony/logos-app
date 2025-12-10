@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 11:14",
+  "version": "NIV",
+  "original_text": "Jesus was driving out a demon that was mute. When the demon left, the man who had been mute spoke, and the crowd was amazed.",
+  "korean_text": "예수께서 한 말 못하게 하는 귀신을 쫓아내시니 귀신이 나가매 말 못하는 사람이 말하는지라 무리들이 놀랍게 여겼으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus was driving out a demon",
+      "korean_translation": "예수님은 귀신을 쫓아내고 계셨습니다",
+      "word_indices": [
+        659
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that was mute",
+      "korean_translation": "그 귀신은 말을 못하는 귀신이었습니다",
+      "word_indices": [
+        2044
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When the demon left",
+      "korean_translation": "귀신이 떠나자",
+      "word_indices": [
+        659
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the man who had been mute spoke",
+      "korean_translation": "말을 못하던 사람이 말을 했습니다",
+      "word_indices": [
+        10,
+        2044,
+        5162
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the crowd was amazed",
+      "korean_translation": "그리고 군중은 놀라워했습니다",
+      "word_indices": [
+        303
+      ]
+    }
+  ]
+}

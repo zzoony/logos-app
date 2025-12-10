@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ecclesiastes 1:7",
+  "version": "NIV",
+  "original_text": "All streams flow into the sea,\n    yet the sea is never full.\nTo the place the streams come from,\n    there they return again.",
+  "korean_text": "모든 강물은 다 바다로 흐르되 바다를 채우지 못하며 강물은 어느 곳으로 흐르든지 그리로 연하여 흐르느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All streams flow into the sea",
+      "korean_translation": "모든 시내는 바다로 흘러 들어가되",
+      "word_indices": [
+        108,
+        584,
+        669
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet the sea is never full",
+      "korean_translation": "바다는 결코 넘치지 아니하며",
+      "word_indices": [
+        108,
+        258
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "To the place the streams come from",
+      "korean_translation": "시내가 흘러 나온 그 곳으로",
+      "word_indices": [
+        18,
+        669
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "there they return again",
+      "korean_translation": "그것들이 다시 돌아가도다",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

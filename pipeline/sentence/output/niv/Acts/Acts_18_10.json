@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Acts 18:10",
+  "version": "NIV",
+  "original_text": "For I am with you, and no one is going to attack and harm you, because I have many people in this city.”",
+  "korean_text": "내가 너와 함께 있으매 어떤 사람도 너를 대적하여 해롭게 할 자가 없을 것이니 이는 이 성중에 내 백성이 많음이라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I am with you",
+      "korean_translation": "내가 너와 함께 있으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and no one is going to attack and harm you",
+      "korean_translation": "아무도 너를 공격하거나 해하지 못하리라",
+      "word_indices": [
+        270,
+        632
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because I have many people in this city",
+      "korean_translation": "이 성에는 내 백성이 많기 때문이라",
+      "word_indices": [
+        3,
+        23
+      ]
+    }
+  ]
+}

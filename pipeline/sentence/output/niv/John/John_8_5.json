@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 8:5",
+  "version": "NIV",
+  "original_text": "In the Law Moses commanded us to stone such women. Now what do you say?”",
+  "korean_text": "모세는 율법에 이러한 여자를 돌로 치라 명하였거니와 선생은 어떻게 말하겠나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In Law Moses commanded us",
+      "korean_translation": "율법에서 모세가 우리에게 명령했습니다",
+      "word_indices": [
+        42,
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to stone such women",
+      "korean_translation": "그런 여자들에게 돌을 던지라고",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Now what do you say?",
+      "korean_translation": "이제 당신은 무엇이라고 말하시겠습니까?",
+      "word_indices": []
+    }
+  ]
+}

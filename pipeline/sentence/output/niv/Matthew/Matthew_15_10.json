@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 15:10",
+  "version": "NIV",
+  "original_text": "Jesus called the crowd to him and said, “Listen and understand.",
+  "korean_text": "무리를 불러 이르시되 듣고 깨달으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus called the crowd to him",
+      "korean_translation": "예수께서 무리를 자기에게 부르시고",
+      "word_indices": [
+        35,
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Listen and understand",
+      "korean_translation": "들으라 그리고 깨달으라",
+      "word_indices": [
+        86,
+        191
+      ]
+    }
+  ]
+}

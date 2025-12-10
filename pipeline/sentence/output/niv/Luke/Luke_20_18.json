@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 20:18",
+  "version": "NIV",
+  "original_text": "Everyone who falls on that stone will be broken to pieces; anyone on whom it falls will be crushed.”",
+  "korean_text": "무릇 이 돌 위에 떨어지는 자는 깨어지겠고 이 돌이 사람 위에 떨어지면 그를 가루로 만들어 흩으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Everyone who falls on that stone",
+      "korean_translation": "그 돌에 부딪히는 모든 사람은",
+      "word_indices": [
+        113,
+        125,
+        186
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will be broken to pieces",
+      "korean_translation": "산산조각이 날 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "anyone on whom it falls",
+      "korean_translation": "그것이 떨어지는 사람은",
+      "word_indices": [
+        68,
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will be crushed",
+      "korean_translation": "짓눌릴 것입니다",
+      "word_indices": [
+        630
+      ]
+    }
+  ]
+}

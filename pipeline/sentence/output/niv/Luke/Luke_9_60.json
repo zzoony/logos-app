@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 9:60",
+  "version": "NIV",
+  "original_text": "Jesus said to him, “Let the dead bury their own dead, but you go and proclaim the kingdom of God.”",
+  "korean_text": "이르시되 죽은 자들로 자기의 죽은 자들을 장사하게 하고 너는 가서 하나님의 나라를 전파하라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him,",
+      "korean_translation": "예수께서 그에게 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let the dead bury their own dead,",
+      "korean_translation": "죽은 자들이 자기의 죽은 자들을 장사하게 하고,",
+      "word_indices": [
+        115,
+        341
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but you go",
+      "korean_translation": "그러나 너는 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and proclaim the kingdom of God.",
+      "korean_translation": "하나님의 나라를 전파하라.",
+      "word_indices": [
+        1,
+        109,
+        300
+      ]
+    }
+  ]
+}

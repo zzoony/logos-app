@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Joel 3:3",
+  "version": "NIV",
+  "original_text": "They cast lots for my people\n    and traded boys for prostitutes;\n    they sold girls for wine to drink.",
+  "korean_text": "또 제비 뽑아 내 백성을 끌어 가서 소년을 기생과 바꾸며 소녀를 술과 바꾸어 마셨음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They cast lots for my people",
+      "korean_translation": "그들이 내 백성을 위해 제비를 뽑았다",
+      "word_indices": [
+        3,
+        456,
+        581
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and traded boys for prostitutes",
+      "korean_translation": "그리고 소년들을 매춘부와 교환했다",
+      "word_indices": [
+        525
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they sold girls for wine",
+      "korean_translation": "그들은 소녀들을 포도주에 팔았다",
+      "word_indices": [
+        215,
+        1275
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to drink",
+      "korean_translation": "마시기 위해",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

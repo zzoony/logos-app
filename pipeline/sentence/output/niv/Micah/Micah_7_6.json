@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Micah 7:6",
+  "version": "NIV",
+  "original_text": "For a son dishonors his father,\n    a daughter rises up against her mother,\na daughter-in-law against her mother-in-law—\n    a man’s enemies are the members of his own household.",
+  "korean_text": "아들이 아버지를 멸시하며 딸이 어머니를 대적하며 며느리가 시어머니를 대적하리니 사람의 원수가 곧 자기의 집안 사람이리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For a son dishonors his father",
+      "korean_translation": "아들은 아버지를 욕되게 하고",
+      "word_indices": [
+        2,
+        12,
+        1264
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a daughter rises up against her mother",
+      "korean_translation": "딸은 어머니를 거슬러 일어나고",
+      "word_indices": [
+        11,
+        66,
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a daughter-in-law against her mother-in-law",
+      "korean_translation": "며느리는 시어머니를 거슬러 일어나며",
+      "word_indices": [
+        11,
+        42,
+        66,
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a man's enemies are the members of his own household",
+      "korean_translation": "사람의 원수는 자기 집안 사람들이니라",
+      "word_indices": [
+        10,
+        100,
+        389,
+        1087
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 26:66",
+  "version": "NIV",
+  "original_text": "What do you think?”\n“He is worthy of death,” they answered.",
+  "korean_text": "너희 생각은 어떠하냐 대답하여 이르되 그는 사형에 해당하니라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What do you think?",
+      "korean_translation": "당신은 어떻게 생각하십니까?",
+      "word_indices": [
+        236
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He is worthy of death,",
+      "korean_translation": "그는 사형에 합당합니다,",
+      "word_indices": [
+        80,
+        941
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they answered.",
+      "korean_translation": "그들이 대답했습니다.",
+      "word_indices": [
+        63
+      ]
+    }
+  ]
+}

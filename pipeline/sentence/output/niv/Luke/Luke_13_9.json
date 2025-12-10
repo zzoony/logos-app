@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 13:9",
+  "version": "NIV",
+  "original_text": "If it bears fruit next year, fine! If not, then cut it down.’”",
+  "korean_text": "이후에 만일 열매가 열면 좋거니와 그렇지 않으면 찍어버리소서 하였다 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If it bears fruit next year,",
+      "korean_translation": "만약 내년에 열매를 맺으면,",
+      "word_indices": [
+        111,
+        277,
+        289
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "fine!",
+      "korean_translation": "좋다!",
+      "word_indices": [
+        633
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If not,",
+      "korean_translation": "그렇지 않으면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then cut it down.",
+      "korean_translation": "그것을 베어 버려라.",
+      "word_indices": [
+        184
+      ]
+    }
+  ]
+}

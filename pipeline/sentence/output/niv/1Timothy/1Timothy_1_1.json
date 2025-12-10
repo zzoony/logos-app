@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Timothy 1:1",
+  "version": "NIV",
+  "original_text": "Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,",
+  "korean_text": "우리 구주 하나님과 우리의 소망이신 그리스도 예수의 명령을 따라 그리스도 예수의 사도 된 바울은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Paul, an apostle of Christ Jesus",
+      "korean_translation": "바울은 그리스도 예수의 사도이며",
+      "word_indices": [
+        73,
+        624
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by command of God our Savior",
+      "korean_translation": "우리 구원자이신 하나님의 명령으로",
+      "word_indices": [
+        1,
+        48,
+        823
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and of Christ Jesus our hope",
+      "korean_translation": "그리고 우리 소망이신 그리스도 예수에 의해",
+      "word_indices": [
+        73,
+        294
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 9:34",
+  "version": "NIV",
+  "original_text": "But the Pharisees said, “It is by the prince of demons that he drives out demons.”",
+  "korean_text": "바리새인들은 이르되 그가 귀신의 왕을 의지하여 귀신을 쫓아낸다 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the Pharisees said",
+      "korean_translation": "하지만 바리새인들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is by the prince of demons",
+      "korean_translation": "그것은 악마의 왕에 의해",
+      "word_indices": [
+        486,
+        659
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he drives out demons",
+      "korean_translation": "그가 악마를 쫓아내는 것이다",
+      "word_indices": [
+        659
+      ]
+    }
+  ]
+}

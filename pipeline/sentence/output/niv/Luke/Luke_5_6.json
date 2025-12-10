@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 5:6",
+  "version": "NIV",
+  "original_text": "When they had done so, they caught such a large number of fish that their nets began to break.",
+  "korean_text": "그렇게 하니 고기를 잡은 것이 심히 많아 그물이 찢어지는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they had done so,",
+      "korean_translation": "그들이 그렇게 했을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they caught such a large number of fish",
+      "korean_translation": "그들은 그렇게 많은 물고기를 잡았는데",
+      "word_indices": [
+        201,
+        346,
+        727
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that their nets began to break.",
+      "korean_translation": "그물이 찢어지기 시작했습니다.",
+      "word_indices": [
+        117,
+        1016
+      ]
+    }
+  ]
+}

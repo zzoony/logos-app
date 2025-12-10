@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 10:27",
+  "version": "NIV",
+  "original_text": "What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs.",
+  "korean_text": "내가 너희에게 어두운 데서 이르는 것을 광명한 데서 말하며 너희가 귓속말로 듣는 것을 집 위에서 전파하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What I tell you in the dark",
+      "korean_translation": "내가 어두운 데서 너희에게 말하는 것을",
+      "word_indices": [
+        15,
+        1021
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "speak in the daylight",
+      "korean_translation": "밝은 데서 말하라",
+      "word_indices": [
+        29,
+        1800
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what is whispered in your ear",
+      "korean_translation": "너희 귀에 속삭이는 것을",
+      "word_indices": [
+        383,
+        1867
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "proclaim from the roofs",
+      "korean_translation": "지붕 위에서 전파하라",
+      "word_indices": [
+        300,
+        907
+      ]
+    }
+  ]
+}

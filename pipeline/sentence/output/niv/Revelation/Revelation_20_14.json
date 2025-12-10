@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Revelation 20:14",
+  "version": "NIV",
+  "original_text": "Then death and Hades were thrown into the lake of fire. The lake of fire is the second death.",
+  "korean_text": "사망과 음부도 불못에 던져지니 이것은 둘째 사망 곧 불못이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then death and Hades were thrown",
+      "korean_translation": "그러면 사망과 음부가 던져졌고",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into the lake of fire",
+      "korean_translation": "불 못 속으로",
+      "word_indices": [
+        101,
+        1076
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The lake of fire is the second death",
+      "korean_translation": "불 못은 둘째 사망이다",
+      "word_indices": [
+        80,
+        101,
+        1076
+      ]
+    }
+  ]
+}

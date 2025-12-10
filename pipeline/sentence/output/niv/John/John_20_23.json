@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 20:23",
+  "version": "NIV",
+  "original_text": "If you forgive anyone’s sins, their sins are forgiven; if you do not forgive them, they are not forgiven.”",
+  "korean_text": "너희가 누구의 죄든지 사하면 사하여질 것이요 누구의 죄든지 그대로 두면 그대로 있으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you forgive anyone's sins",
+      "korean_translation": "만약 너희가 누군가의 죄를 용서하면",
+      "word_indices": [
+        24,
+        68,
+        384
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "their sins are forgiven",
+      "korean_translation": "그들의 죄는 용서받은 것이라",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if you do not forgive them",
+      "korean_translation": "만약 너희가 그들을 용서하지 않으면",
+      "word_indices": [
+        384
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they are not forgiven",
+      "korean_translation": "그들은 용서받지 못한다",
+      "word_indices": []
+    }
+  ]
+}

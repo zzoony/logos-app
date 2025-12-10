@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 8:6",
+  "version": "NIV",
+  "original_text": "“Lord,” he said, “my servant lies at home paralyzed, suffering terribly.”",
+  "korean_text": "이르되 주여 내 하인이 중풍병으로 집에 누워 몹시 괴로워하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "\"Lord,\" he said",
+      "korean_translation": "\"주님,\" 그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"my servant lies at home",
+      "korean_translation": "\"나의 종이 집에 누워 있습니다",
+      "word_indices": [
+        25,
+        230
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "paralyzed",
+      "korean_translation": "마비되어",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "suffering terribly.\"",
+      "korean_translation": "극심하게 고통받고 있습니다.\"",
+      "word_indices": [
+        376,
+        3870
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Luke 10:34",
+  "version": "NIV",
+  "original_text": "He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him.",
+  "korean_text": "가까이 가서 기름과 포도주를 그 상처에 붓고 싸매고 자기 짐승에 태워 주막으로 데리고 가서 돌보아 주니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He went to him",
+      "korean_translation": "그가 그에게로 갔더니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bandaged his wounds",
+      "korean_translation": "그의 상처를 싸매주었다",
+      "word_indices": [
+        923
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "pouring on oil and wine",
+      "korean_translation": "기름과 포도주를 부었다",
+      "word_indices": [
+        215,
+        246,
+        266
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then he put the man on his own donkey",
+      "korean_translation": "그때 그는 그 사람을 자신의 나귀에 태웠다",
+      "word_indices": [
+        10,
+        347
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "brought him to an inn",
+      "korean_translation": "그를 여관으로 데려갔다",
+      "word_indices": [
+        5970
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and took care of him",
+      "korean_translation": "그를 돌보아주었다",
+      "word_indices": [
+        436
+      ]
+    }
+  ]
+}

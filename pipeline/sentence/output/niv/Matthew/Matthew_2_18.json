@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Matthew 2:18",
+  "version": "NIV",
+  "original_text": "“A voice is heard in Ramah,\n    weeping and great mourning,\nRachel weeping for her children\n    and refusing to be comforted,\n    because they are no more.”",
+  "korean_text": "라마에서 슬퍼하며 크게 통곡하는 소리가 들리니 라헬이 그 자식을 위하여 애곡하는 것이라 그가 자식이 없으므로 위로 받기를 거절하였도다 함이 이루어졌느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A voice is heard in Ramah",
+      "korean_translation": "라마에서 들려오는 소리가 있고",
+      "word_indices": [
+        241
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "weeping and great mourning",
+      "korean_translation": "크게 우는 애곡하는 소리다",
+      "word_indices": [
+        44,
+        339,
+        405
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Rachel weeping for her children",
+      "korean_translation": "라헬이 그 자식을 위하여 애곡하며",
+      "word_indices": [
+        339
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and refusing to be comforted",
+      "korean_translation": "위로받기를 거절하고 있다",
+      "word_indices": [
+        697
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because they are no more",
+      "korean_translation": "그들이 이제 더 이상 존재하지 않기 때문이다",
+      "word_indices": []
+    }
+  ]
+}

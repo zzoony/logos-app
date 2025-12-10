@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Ecclesiastes 1:5",
+  "version": "NIV",
+  "original_text": "The sun rises and the sun sets,\n    and hurries back to where it rises.",
+  "korean_text": "해는 뜨고 해는 지되 그 떴던 곳으로 빨리 돌아가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun rises",
+      "korean_translation": "해는 뜨고",
+      "word_indices": [
+        364
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the sun sets",
+      "korean_translation": "해는 지며",
+      "word_indices": [
+        364
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and hurries back",
+      "korean_translation": "그리고 서둘러 돌아간다",
+      "word_indices": [
+        52,
+        1046
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to where it rises",
+      "korean_translation": "뜨는 곳으로",
+      "word_indices": []
+    }
+  ]
+}

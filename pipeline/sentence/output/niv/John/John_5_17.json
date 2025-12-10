@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 5:17",
+  "version": "NIV",
+  "original_text": "In his defense Jesus said to them, “My Father is always at his work to this very day, and I too am working.”",
+  "korean_text": "예수께서 그들에게 이르시되 내 아버지께서 이제까지 일하시니 나도 일한다 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In his defense Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 변호하며 말씀하시되",
+      "word_indices": [
+        1363
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My Father is always at his work",
+      "korean_translation": "나의 아버지께서는 항상 일하고 계시며",
+      "word_indices": [
+        12,
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to this very day",
+      "korean_translation": "오늘까지도 일하고 계십니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I too am working",
+      "korean_translation": "나도 또한 일하고 있습니다",
+      "word_indices": [
+        65
+      ]
+    }
+  ]
+}

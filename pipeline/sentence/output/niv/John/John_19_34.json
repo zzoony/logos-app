@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 19:34",
+  "version": "NIV",
+  "original_text": "Instead, one of the soldiers pierced Jesus’ side with a spear, bringing a sudden flow of blood and water.",
+  "korean_text": "그 중 한 군인이 창으로 옆구리를 찌르니 곧 피와 물이 나오더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Instead, one of the soldiers",
+      "korean_translation": "대신, 한 명의 군인이",
+      "word_indices": [
+        523,
+        582
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "pierced Jesus' side with a spear",
+      "korean_translation": "예수의 옆구리를 창으로 찔렀다",
+      "word_indices": [
+        118,
+        737
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "bringing a sudden flow of blood and water",
+      "korean_translation": "피와 물이 갑자기 흘러나왔다",
+      "word_indices": [
+        6,
+        46,
+        94,
+        584,
+        2332
+      ]
+    }
+  ]
+}

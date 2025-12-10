@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Acts 16:20",
+  "version": "NIV",
+  "original_text": "They brought them before the magistrates and said, “These men are Jews, and are throwing our city into an uproar",
+  "korean_text": "상관들 앞에 데리고 가서 말하되 이 사람들이 유대인인데 우리 성을 심히 요란하게 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They brought them before magistrates",
+      "korean_translation": "그들은 그들을 재판관 애로 데려왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "그리고 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "These men are Jews",
+      "korean_translation": "이 사람들은 유대인입니다",
+      "word_indices": [
+        209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and are throwing our city into an uproar",
+      "korean_translation": "그리고 우리 도시를 소란스럽게 만들고 있습니다",
+      "word_indices": [
+        23,
+        221,
+        1930
+      ]
+    }
+  ]
+}

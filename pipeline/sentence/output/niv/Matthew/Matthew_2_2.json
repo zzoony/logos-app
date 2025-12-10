@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Matthew 2:2",
+  "version": "NIV",
+  "original_text": "and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.”",
+  "korean_text": "유대인의 왕으로 나신 이가 어디 계시냐 우리가 동방에서 그의 별을 보고 그에게 경배하러 왔노라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and asked",
+      "korean_translation": "그리고 물었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Where is the one",
+      "korean_translation": "그분은 어디에 계신가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who has been born king of the Jews?",
+      "korean_translation": "유대인의 왕으로 태어난 분은?",
+      "word_indices": [
+        4,
+        209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We saw his star",
+      "korean_translation": "우리는 그의 별을 보았다",
+      "word_indices": [
+        676
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "when it rose",
+      "korean_translation": "별이 떠올랐을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and have come to worship him.",
+      "korean_translation": "그리고 그분을 경배하러 왔다",
+      "word_indices": [
+        204
+      ]
+    }
+  ]
+}

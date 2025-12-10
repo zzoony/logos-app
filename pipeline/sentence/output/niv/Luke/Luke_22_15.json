@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 22:15",
+  "version": "NIV",
+  "original_text": "And he said to them, “I have eagerly desired to eat this Passover with you before I suffer.",
+  "korean_text": "이르시되 내가 고난을 받기 전에 너희와 함께 이 유월절 먹기를 원하고 원하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said to them",
+      "korean_translation": "그가 그들에게 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have eagerly desired",
+      "korean_translation": "나는 간절히 원했다",
+      "word_indices": [
+        2379
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to eat this Passover with you",
+      "korean_translation": "너희와 함께 이 유월절을 먹기를",
+      "word_indices": [
+        33,
+        673
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before I suffer",
+      "korean_translation": "내가 고난받기 전에",
+      "word_indices": [
+        376
+      ]
+    }
+  ]
+}

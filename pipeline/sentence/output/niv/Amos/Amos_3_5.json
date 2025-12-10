@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Amos 3:5",
+  "version": "NIV",
+  "original_text": "Does a bird swoop down to a trap on the ground\n    when no bait is there?\nDoes a trap spring up from the ground\n    if it has not caught anything?",
+  "korean_text": "덫을 땅에 놓지 않았는데 새가 어찌 거기 치이겠으며 잡힌 것이 없는데 덫이 어찌 땅에서 튀겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Does a bird swoop down to a trap on the ground",
+      "korean_translation": "새가 땅에 있는 덫으로 내려덮나요",
+      "word_indices": [
+        386,
+        1057,
+        2793,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when no bait is there?",
+      "korean_translation": "거기에 미끼가 없을 때",
+      "word_indices": [
+        5880
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Does a trap spring up from the ground",
+      "korean_translation": "덫이 땅에서 튀어오르나요",
+      "word_indices": [
+        1057,
+        3251
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if it has not caught anything?",
+      "korean_translation": "아무것도 잡지 못했을 때",
+      "word_indices": []
+    }
+  ]
+}

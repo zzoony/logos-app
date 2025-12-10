@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Acts 9:23",
+  "version": "NIV",
+  "original_text": "After many days had gone by, there was a conspiracy among the Jews to kill him,",
+  "korean_text": "여러 날이 지나매 유대인들이 사울 죽이기를 공모하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After many days had gone by,",
+      "korean_translation": "여러 날이 지나고 나서,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was a conspiracy among Jews",
+      "korean_translation": "유대인들 사이에 음모가 있었는데",
+      "word_indices": [
+        27,
+        209,
+        2373
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to kill him,",
+      "korean_translation": "그를 죽이기 위한 것이었다.",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

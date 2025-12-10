@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 13:34",
+  "version": "NIV",
+  "original_text": "“A new command I give you: Love one another. As I have loved you, so you must love one another.",
+  "korean_text": "새 계명을 너희에게 주노니 서로 사랑하라 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A new command I give you:",
+      "korean_translation": "새 계명을 너희에게 주노라:",
+      "word_indices": [
+        5,
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Love one another.",
+      "korean_translation": "서로 사랑하라.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As I have loved you,",
+      "korean_translation": "내가 너희를 사랑한 것같이,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so you must love one another.",
+      "korean_translation": "너희도 서로 사랑하라.",
+      "word_indices": [
+        38
+      ]
+    }
+  ]
+}

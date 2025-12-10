@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Corinthians 11:26",
+  "version": "NIV",
+  "original_text": "For whenever you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.",
+  "korean_text": "너희가 이 떡을 먹으며 이 잔을 마실 때마다 주의 죽으심을 그가 오실 때까지 전하는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For whenever you eat this bread",
+      "korean_translation": "너희가 이 떡을 먹을 때마다",
+      "word_indices": [
+        33,
+        187
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drink this cup,",
+      "korean_translation": "이 잔을 마시는 것은",
+      "word_indices": [
+        78,
+        690
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you proclaim the Lord's death",
+      "korean_translation": "주의 죽으심을 전파하는 것이니",
+      "word_indices": [
+        80,
+        300
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until he comes.",
+      "korean_translation": "주께서 오실 때까지니라",
+      "word_indices": []
+    }
+  ]
+}

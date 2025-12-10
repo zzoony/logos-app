@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 9:37",
+  "version": "NIV",
+  "original_text": "Jesus said, “You have now seen him; in fact, he is the one speaking with you.”",
+  "korean_text": "예수께서 이르시되 네가 그를 보았거니와 지금 너와 말하는 자가 그이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have now seen him",
+      "korean_translation": "너희가 이제 그를 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in fact",
+      "korean_translation": "사실은",
+      "word_indices": [
+        1146
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he is the one speaking with you",
+      "korean_translation": "그는 너희와 함께 말씀하시는 분이다",
+      "word_indices": [
+        29
+      ]
+    }
+  ]
+}

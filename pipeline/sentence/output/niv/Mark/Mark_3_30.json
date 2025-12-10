@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Mark 3:30",
+  "version": "NIV",
+  "original_text": "He said this because they were saying, “He has an impure spirit.”",
+  "korean_text": "이는 그들이 말하기를 더러운 귀신이 들렸다 함이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said this",
+      "korean_translation": "그가 이것을 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because they were saying",
+      "korean_translation": "그들이 말하고 있었기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He has an impure spirit",
+      "korean_translation": "그에게 부정한 영이 있다",
+      "word_indices": [
+        62,
+        998
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 9:16",
+  "version": "NIV",
+  "original_text": "“No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse.",
+  "korean_text": "생베 조각을 낡은 옷에 붙이는 자가 없나니 이는 기운 것이 그 옷을 당기어 해어짐이 더하게 됨이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one sews a patch of unshrunk cloth",
+      "korean_translation": "아무도 수축되지 않은 천 조각을 꿰매지 않습니다",
+      "word_indices": [
+        1289,
+        2984,
+        3109,
+        4745
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on an old garment",
+      "korean_translation": "낡은 옷에",
+      "word_indices": [
+        445
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the patch will pull away from the garment",
+      "korean_translation": "왜냐하면 그 조각이 옷에서 떨어져 나갈 것입니다",
+      "word_indices": [
+        34,
+        445,
+        1085,
+        2984
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "making the tear worse",
+      "korean_translation": "찢어진 곳을 더 악화시킬 것입니다",
+      "word_indices": [
+        254,
+        1526
+      ]
+    }
+  ]
+}

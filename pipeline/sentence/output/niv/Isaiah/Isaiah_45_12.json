@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 45:12",
+  "version": "NIV",
+  "original_text": "It is I who made the earth\n    and created mankind on it.\nMy own hands stretched out the heavens;\n    I marshaled their starry hosts.",
+  "korean_text": "내가 땅을 만들고 그 위에 사람을 창조하였으며 내가 내 손으로 하늘을 펴고 하늘의 모든 군대에게 명령하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is I who made the earth",
+      "korean_translation": "내가 땅을 만든 자요",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and created mankind on it",
+      "korean_translation": "그 위에 인류를 창조했노라",
+      "word_indices": [
+        791
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My own hands stretched out the heavens",
+      "korean_translation": "내 손이 하늘을 폈고",
+      "word_indices": [
+        9,
+        57,
+        615
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I marshaled their starry hosts",
+      "korean_translation": "그 모든 별들을 내가 명령하였노라",
+      "word_indices": [
+        1518,
+        1942,
+        3035
+      ]
+    }
+  ]
+}

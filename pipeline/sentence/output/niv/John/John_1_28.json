@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 1:28",
+  "version": "NIV",
+  "original_text": "This all happened at Bethany on the other side of the Jordan, where John was baptizing.",
+  "korean_text": "이 일은 요한이 세례 베풀던 곳 요단 강 건너편 베다니에서 일어난 일이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This all happened at Bethany",
+      "korean_translation": "이 모든 일은 베다니에서 일어났습니다",
+      "word_indices": [
+        275
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the other side of the Jordan",
+      "korean_translation": "요단강 건너편에서",
+      "word_indices": [
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where John was baptizing",
+      "korean_translation": "요한이 세례를 베풀던 곳에서",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 13:38",
+  "version": "NIV",
+  "original_text": "Then Jesus answered, “Will you really lay down your life for me? Very truly I tell you, before the rooster crows, you will disown me three times!",
+  "korean_text": "예수께서 대답하시되 네가 나를 위하여 네 목숨을 버리겠느냐 내가 진실로 진실로 네게 이르노니 닭 울기 전에 네가 세 번 나를 부인하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus answered",
+      "korean_translation": "그때 예수께서 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Will you really lay down your life for me?",
+      "korean_translation": "너는 정말로 나를 위해 너의 목숨을 버리겠느냐?",
+      "word_indices": [
+        37,
+        148,
+        967
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Very truly I tell you",
+      "korean_translation": "내가 진실로 너희에게 이르노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before the rooster crows",
+      "korean_translation": "닭이 울기 전에",
+      "word_indices": [
+        2018,
+        2189
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will disown me three times!",
+      "korean_translation": "너는 세 번 나를 부인할 것이다!",
+      "word_indices": [
+        90,
+        1693
+      ]
+    }
+  ]
+}

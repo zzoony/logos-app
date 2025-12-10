@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 2:19",
+  "version": "NIV",
+  "original_text": "Jesus answered them, “Destroy this temple, and I will raise it again in three days.”",
+  "korean_text": "예수께서 대답하여 이르시되 너희가 이 성전을 헐라 내가 사흘 동안에 일으키리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered them",
+      "korean_translation": "예수님께서 그들에게 대답하셨다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Destroy this temple",
+      "korean_translation": "이 성전을 허물어 버리고",
+      "word_indices": [
+        43,
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will raise it again",
+      "korean_translation": "내가 다시 세우겠다",
+      "word_indices": [
+        249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in three days",
+      "korean_translation": "사흘 안에",
+      "word_indices": [
+        90
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ezekiel 40:45",
+  "version": "NIV",
+  "original_text": "He said to me, “The room facing south is for the priests who guard the temple,",
+  "korean_text": "그가 내게 이르되 남쪽을 향한 이 방은 성전을 지키는 제사장들이 쓸 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to me,",
+      "korean_translation": "그가 내게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The room facing south",
+      "korean_translation": "남쪽을 향한 방은",
+      "word_indices": [
+        409,
+        433
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is for the priests",
+      "korean_translation": "제사장들을 위한 것이라",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who guard the temple,",
+      "korean_translation": "성전을 지키는",
+      "word_indices": [
+        43,
+        281
+      ]
+    }
+  ]
+}

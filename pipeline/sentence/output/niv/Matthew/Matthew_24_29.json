@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Matthew 24:29",
+  "version": "NIV",
+  "original_text": "“Immediately after the distress of those days\n“‘the sun will be darkened,\n    and the moon will not give its light;\nthe stars will fall from the sky,\n    and the heavenly bodies will be shaken.’",
+  "korean_text": "그 날 환난 후에 즉시 해가 어두워지며 달이 빛을 내지 아니하며 별들이 하늘에서 떨어지며 하늘의 권능들이 흔들리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Immediately after the distress of those days",
+      "korean_translation": "그 날들의 환난 후 즉시",
+      "word_indices": [
+        863
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sun will be darkened",
+      "korean_translation": "해가 어두워지고",
+      "word_indices": [
+        364,
+        1755
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the moon will not give its light",
+      "korean_translation": "달이 빛을 내지 아니하며",
+      "word_indices": [
+        5,
+        205,
+        724
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the stars will fall from the sky",
+      "korean_translation": "별들이 하늘에서 떨어지고",
+      "word_indices": [
+        113,
+        536,
+        676
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the heavenly bodies will be shaken",
+      "korean_translation": "하늘의 권능들이 흔들리리라",
+      "word_indices": [
+        137,
+        1129
+      ]
+    }
+  ]
+}

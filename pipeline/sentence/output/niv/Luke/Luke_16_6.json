@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Luke 16:6",
+  "version": "NIV",
+  "original_text": "“‘Nine hundred gallons of olive oil,’ he replied.\n“The manager told him, ‘Take your bill, sit down quickly, and make it four hundred and fifty.’",
+  "korean_text": "말하되 기름 백 말이니이다 이르되 여기 네 증서를 가지고 빨리 앉아 오십이라 쓰라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nine hundred gallons of olive oil",
+      "korean_translation": "아홉 백 갤런의 올리브유",
+      "word_indices": [
+        246,
+        327,
+        1229,
+        4779
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he replied",
+      "korean_translation": "그가 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The manager told him",
+      "korean_translation": "관리인이 그에게 말했다",
+      "word_indices": [
+        2887
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Take your bill",
+      "korean_translation": "네 계산서를 가져가",
+      "word_indices": [
+        4780
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "sit down quickly",
+      "korean_translation": "빨리 앉아서",
+      "word_indices": [
+        151,
+        686
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and make it four hundred and fifty",
+      "korean_translation": "그리고 사백 오십으로 바꿔",
+      "word_indices": [
+        203,
+        560
+      ]
+    }
+  ]
+}

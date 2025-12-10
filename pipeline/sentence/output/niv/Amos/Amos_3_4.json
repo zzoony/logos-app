@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Amos 3:4",
+  "version": "NIV",
+  "original_text": "Does a lion roar in the thicket\n    when it has no prey?\nDoes it growl in its den\n    when it has caught nothing?",
+  "korean_text": "사자가 움킨 것이 없는데 어찌 수풀에서 부르짖겠으며 젊은 사자가 잡은 것이 없는데 어찌 굴에서 소리를 내겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Does a lion roar in the thicket",
+      "korean_translation": "사자가 수풀에서 울부짖습니까",
+      "word_indices": [
+        399,
+        799,
+        1768
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when it has no prey?",
+      "korean_translation": "먹이가 없을 때에",
+      "word_indices": [
+        1247
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Does it growl in its den",
+      "korean_translation": "그것이 굴에서 으르렁거립니까",
+      "word_indices": [
+        1440,
+        2656
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when it has caught nothing?",
+      "korean_translation": "아무것도 잡지 못했을 때에",
+      "word_indices": []
+    }
+  ]
+}

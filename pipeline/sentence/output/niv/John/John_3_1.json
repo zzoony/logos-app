@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 3:1",
+  "version": "NIV",
+  "original_text": "Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council.",
+  "korean_text": "그런데 바리새인 중에 니고데모라 하는 사람이 있으니 유대인의 지도자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now there was a Pharisee",
+      "korean_translation": "한 명의 바리새인이 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a man named Nicodemus",
+      "korean_translation": "니고데모라는 사람이 있었고",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who was a member of the Jewish ruling council",
+      "korean_translation": "그는 유대인 통치 회의의 회원이었다",
+      "word_indices": [
+        1087,
+        1716
+      ]
+    }
+  ]
+}

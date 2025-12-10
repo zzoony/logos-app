@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Amos 1:14",
+  "version": "NIV",
+  "original_text": "I will set fire to the walls of Rabbah\n    that will consume her fortresses\namid war cries on the day of battle,\n    amid violent winds on a stormy day.",
+  "korean_text": "내가 랍바 성에 불을 놓아 그 궁궐들을 사르되 전쟁의 날에 외침과 회오리바람의 날에 폭풍으로 할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will set fire to the walls of Rabbah",
+      "korean_translation": "나는 랍바의 성벽에 불을 놓을 것이다",
+      "word_indices": [
+        101,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that will consume her fortresses",
+      "korean_translation": "그것이 그녀의 요새를 삼킬 것이다",
+      "word_indices": [
+        598,
+        788
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "amid war cries on the day of battle",
+      "korean_translation": "전투의 날 전쟁의 함성 속에서",
+      "word_indices": [
+        152,
+        231,
+        367,
+        2843
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "amid violent winds on a stormy day",
+      "korean_translation": "폭풍우 치는 날 거센 바람 속에서",
+      "word_indices": [
+        295,
+        1378,
+        2843,
+        4013
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Matthew 3:11",
+  "version": "NIV",
+  "original_text": "“I baptize you with water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.",
+  "korean_text": "나는 너희로 회개하게 하기 위하여 물로 세례를 베풀거니와 내 뒤에 오시는 이는 나보다 능력이 많으시니 나는 그의 신을 들기도 감당하지 못하겠노라 그는 성령과 불로 너희에게 세례를 베푸실 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I baptize you with water for repentance.",
+      "korean_translation": "나는 회개를 위해 물로 너희에게 세례를 베푼다.",
+      "word_indices": [
+        46,
+        718,
+        1607
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But after me comes one",
+      "korean_translation": "그러나 나의 뒤에 한 분이 오신다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is more powerful than I,",
+      "korean_translation": "그는 나보다 더 능력이 많으시며,",
+      "word_indices": [
+        853
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whose sandals I am not worthy to carry.",
+      "korean_translation": "그분의 신발을 들기에도 내가 자격이 없다.",
+      "word_indices": [
+        129,
+        941,
+        1180
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He will baptize you with the Holy Spirit",
+      "korean_translation": "그는 너희에게 성령으로 세례를 베푸실 것이다.",
+      "word_indices": [
+        59,
+        62,
+        718
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and fire.",
+      "korean_translation": "그리고 불로도 세례를 베푸실 것이다.",
+      "word_indices": [
+        101
+      ]
+    }
+  ]
+}

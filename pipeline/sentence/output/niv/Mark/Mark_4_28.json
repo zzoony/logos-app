@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Mark 4:28",
+  "version": "NIV",
+  "original_text": "All by itself the soil produces grain—first the stalk, then the head, then the full kernel in the head.",
+  "korean_text": "땅이 스스로 열매를 맺되 처음에는 싹이요 다음에는 이삭이요 그 다음에는 이삭에 충실한 곡식이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All by itself the soil produces grain",
+      "korean_translation": "흙은 저절로 곡식을 낸다",
+      "word_indices": [
+        182,
+        1095
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "first the stalk",
+      "korean_translation": "먼저 줄기가 나고",
+      "word_indices": [
+        2310
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then the head",
+      "korean_translation": "그 다음 이삭이 생기고",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then the full kernel in the head",
+      "korean_translation": "마침내 이삭 속에 충실한 알곡이 생긴다",
+      "word_indices": [
+        67,
+        258,
+        3188
+      ]
+    }
+  ]
+}

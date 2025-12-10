@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 6:21",
+  "version": "NIV",
+  "original_text": "Blessed are you who hunger now,\n    for you will be satisfied.\nBlessed are you who weep now,\n    for you will laugh.",
+  "korean_text": "지금 주린 자는 복이 있나니 너희가 배부름을 얻을 것임이요 지금 우는 자는 복이 있나니 너희가 웃을 것임이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed are you who hunger now",
+      "korean_translation": "지금 주리는 너희는 복이 있나니",
+      "word_indices": [
+        97,
+        1678
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for you will be satisfied",
+      "korean_translation": "너희가 배부를 것임이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Blessed are you who weep now",
+      "korean_translation": "지금 우는 너희는 복이 있나니",
+      "word_indices": [
+        97,
+        339
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for you will laugh",
+      "korean_translation": "너희가 웃을 것임이라",
+      "word_indices": [
+        1420
+      ]
+    }
+  ]
+}

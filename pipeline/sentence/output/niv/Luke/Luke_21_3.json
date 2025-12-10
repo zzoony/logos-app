@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 21:3",
+  "version": "NIV",
+  "original_text": "“Truly I tell you,” he said, “this poor widow has put in more than all the others.",
+  "korean_text": "이르시되 내가 참으로 너희에게 말하노니 이 가난한 과부가 다른 모든 사람보다 많이 넣었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Truly I tell you,",
+      "korean_translation": "진실로 너희에게 말하노니,",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said,",
+      "korean_translation": "그가 말했다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "this poor widow",
+      "korean_translation": "이 가난한 과부는",
+      "word_indices": [
+        298,
+        556
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "has put in more",
+      "korean_translation": "더 많이 넣었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "than all the others.",
+      "korean_translation": "다른 모든 사람들보다.",
+      "word_indices": []
+    }
+  ]
+}

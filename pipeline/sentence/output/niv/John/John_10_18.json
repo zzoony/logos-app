@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 10:18",
+  "version": "NIV",
+  "original_text": "No one takes it from me, but I lay it down of my own accord. I have authority to lay it down and authority to take it up again. This command I received from my Father.”",
+  "korean_text": "이를 내게서 빼앗는 자가 있는 것이 아니라 내가 스스로 버리노라 나는 버릴 권세도 있고 다시 얻을 권세도 있으니 이 계명은 내 아버지에게서 받았노라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one takes it from me",
+      "korean_translation": "아무도 그것을 내게서 빼앗지 않고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but I lay it down of my own accord",
+      "korean_translation": "나는 내 자신의 의지로 그것을 내려놓는다",
+      "word_indices": [
+        144,
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have authority to lay it down",
+      "korean_translation": "내가 그것을 내려놓을 권위가 있다",
+      "word_indices": [
+        148,
+        488
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and authority to take it up again",
+      "korean_translation": "그리고 다시 그것을 취할 권위도 있다",
+      "word_indices": [
+        488
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This command I received from my Father",
+      "korean_translation": "이 명령을 나는 내 아버지께 받았다",
+      "word_indices": [
+        12,
+        48
+      ]
+    }
+  ]
+}

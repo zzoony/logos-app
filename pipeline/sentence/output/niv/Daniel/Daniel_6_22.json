@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Daniel 6:22",
+  "version": "NIV",
+  "original_text": "My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.”",
+  "korean_text": "나의 하나님이 이미 그의 천사를 보내어 사자들의 입을 봉하셨으므로 사자들이 나를 상해하지 못하였사오니 이는 나의 무죄함이 그 앞에 명백함이오며 또 왕이여 나는 왕에게도 해를 끼치지 아니하였나이다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My God sent his angel",
+      "korean_translation": "나의 하나님께서 그의 천사를 보내셨다",
+      "word_indices": [
+        1,
+        153
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he shut the mouths of the lions",
+      "korean_translation": "그리고 그가 사자들의 입을 막았다",
+      "word_indices": [
+        143,
+        399,
+        809
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They have not hurt me",
+      "korean_translation": "그들이 나를 해치지 않았다",
+      "word_indices": [
+        2279
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I was found innocent in his sight",
+      "korean_translation": "왜냐하면 나는 그의 보시기에 무죄함을 입었기 때문이다",
+      "word_indices": [
+        353,
+        687,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Nor have I ever done any wrong before you",
+      "korean_translation": "또한 나는 당신 앞에서 어떤 잘못도 한 적이 없다",
+      "word_indices": [
+        442
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Your Majesty",
+      "korean_translation": "폐하",
+      "word_indices": [
+        768
+      ]
+    }
+  ]
+}

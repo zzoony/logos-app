@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Corinthians 9:8",
+  "version": "NIV",
+  "original_text": "Do I say this merely on human authority? Doesn’t the Law say the same thing?",
+  "korean_text": "내가 사람의 예대로 이것을 말하느냐 율법도 이것을 말하지 아니하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do I say this",
+      "korean_translation": "내가 이것을 말합니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "merely on human authority?",
+      "korean_translation": "오직 인간의 권위로만 말합니까?",
+      "word_indices": [
+        239,
+        488,
+        2000
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Doesn't Law say the same thing?",
+      "korean_translation": "율법도 똑같은 말을 하지 않습니까?",
+      "word_indices": [
+        42,
+        175
+      ]
+    }
+  ]
+}

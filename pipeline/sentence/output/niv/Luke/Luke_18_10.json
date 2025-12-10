@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 18:10",
+  "version": "NIV",
+  "original_text": "“Two men went up to the temple to pray, one a Pharisee and the other a tax collector.",
+  "korean_text": "두 사람이 기도하러 성전에 올라가니 하나는 바리새인이요 하나는 세리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two men went up to the temple",
+      "korean_translation": "두 사람이 성전에 올라갔습니다",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to pray",
+      "korean_translation": "기도하기 위해",
+      "word_indices": [
+        212
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "one a Pharisee",
+      "korean_translation": "한 사람은 바리새인이었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the other a tax collector",
+      "korean_translation": "다른 한 사람은 세리였습니다",
+      "word_indices": [
+        954,
+        1416
+      ]
+    }
+  ]
+}

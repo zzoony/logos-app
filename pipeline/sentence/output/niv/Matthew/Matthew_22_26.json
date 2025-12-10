@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 22:26",
+  "version": "NIV",
+  "original_text": "The same thing happened to the second and third brother, right on down to the seventh.",
+  "korean_text": "그 둘째와 셋째로 일곱째까지 그렇게 하다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The same thing happened",
+      "korean_translation": "같은 일이 일어났습니다",
+      "word_indices": [
+        175,
+        275
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the second and third brother,",
+      "korean_translation": "둘째와 셋째 아들에게도",
+      "word_indices": [
+        53,
+        280
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "right on down to the seventh.",
+      "korean_translation": "일곱째 아들까지도 모두 그랬습니다",
+      "word_indices": [
+        74,
+        435
+      ]
+    }
+  ]
+}

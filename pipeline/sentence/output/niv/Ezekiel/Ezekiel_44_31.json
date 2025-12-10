@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Ezekiel 44:31",
+  "version": "NIV",
+  "original_text": "The priests must not eat anything, whether bird or animal, found dead or torn by wild animals.",
+  "korean_text": "새나 가축이 저절로 죽은 것이나 찢겨서 죽은 것은 다 제사장이 먹지 말 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priests must not eat anything",
+      "korean_translation": "제사장들은 어떤 것도 먹어서는 안 됩니다",
+      "word_indices": [
+        22,
+        33
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whether bird or animal",
+      "korean_translation": "새든지 동물이든지",
+      "word_indices": [
+        195,
+        386
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "found dead or torn by wild animals",
+      "korean_translation": "죽은 것을 발견했거나 들짐승에게 찢긴 것",
+      "word_indices": [
+        115,
+        195,
+        450,
+        2209
+      ]
+    }
+  ]
+}

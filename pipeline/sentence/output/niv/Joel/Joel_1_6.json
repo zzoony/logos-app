@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Joel 1:6",
+  "version": "NIV",
+  "original_text": "A nation has invaded my land,\n    a mighty army without number;\nit has the teeth of a lion,\n    the fangs of a lioness.",
+  "korean_text": "다른 한 민족이 내 땅에 올라왔음이로다 그들은 강하고 수가 많으며 그 이빨은 사자의 이빨 같고 그 어금니는 암사자의 어금니 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A nation has invaded my land",
+      "korean_translation": "한 민족이 내 땅을 침략했고",
+      "word_indices": [
+        8,
+        41
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a mighty army without number",
+      "korean_translation": "셀 수 없는 강력한 군대며",
+      "word_indices": [
+        168,
+        201,
+        276
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it has the teeth of a lion",
+      "korean_translation": "그것은 사자의 이빨을 가졌고",
+      "word_indices": [
+        399,
+        1035
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the fangs of a lioness",
+      "korean_translation": "암사자의 송곳니를 가졌도다",
+      "word_indices": [
+        3193
+      ]
+    }
+  ]
+}

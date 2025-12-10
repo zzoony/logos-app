@@ -1,0 +1,59 @@
+{
+  "verse_reference": "John 18:35",
+  "version": "NIV",
+  "original_text": "“Am I a Jew?” Pilate replied. “Your own people and chief priests handed you over to me. What is it you have done?”",
+  "korean_text": "빌라도가 대답하되 내가 유대인이냐 네 나라 사람과 대제사장들이 너를 내게 넘겼으니 네가 무엇을 하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Am I a Jew?",
+      "korean_translation": "내가 유대인이냐?",
+      "word_indices": [
+        209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Pilate replied.",
+      "korean_translation": "빌라도가 대답했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your own people",
+      "korean_translation": "너의 동족이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and chief priests",
+      "korean_translation": "과 대제사장들이",
+      "word_indices": [
+        22,
+        320
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "handed you over to me.",
+      "korean_translation": "너를 나에게 넘겼다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "What is it",
+      "korean_translation": "그것이 무엇이냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "you have done?",
+      "korean_translation": "너가 한 일이?",
+      "word_indices": []
+    }
+  ]
+}

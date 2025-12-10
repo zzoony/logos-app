@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Corinthians 7:6",
+  "version": "NIV",
+  "original_text": "I say this as a concession, not as a command.",
+  "korean_text": "그러나 내가 이 말을 함은 허락이요 명령은 아니니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I say this",
+      "korean_translation": "나는 이것을 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as a concession",
+      "korean_translation": "양보로서",
+      "word_indices": [
+        6132
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not as a command",
+      "korean_translation": "명령으로서가 아니라",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

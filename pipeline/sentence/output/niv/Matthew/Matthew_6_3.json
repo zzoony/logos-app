@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 6:3",
+  "version": "NIV",
+  "original_text": "But when you give to the needy, do not let your left hand know what your right hand is doing,",
+  "korean_text": "너는 구제할 때에 오른손이 하는 것을 왼손이 모르게 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when you give to the needy",
+      "korean_translation": "하지만 네가 궁핍한 자에게 줄 때에",
+      "word_indices": [
+        5,
+        840
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not let your left hand know",
+      "korean_translation": "네 왼손이 알지 못하게 하라",
+      "word_indices": [
+        9,
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what your right hand is doing",
+      "korean_translation": "네 오른손이 하는 것을",
+      "word_indices": [
+        9,
+        74
+      ]
+    }
+  ]
+}

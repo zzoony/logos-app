@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Corinthians 7:10",
+  "version": "NIV",
+  "original_text": "To the married I give this command (not I, but the Lord): A wife must not separate from her husband.",
+  "korean_text": "결혼한 자들에게 내가 명하노니 (명하는 자는 내가 아니요 주시라) 여자는 남편에게서 갈라서지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To married I give this command",
+      "korean_translation": "결혼한 사람들에게 내가 이 명령을 줍니다",
+      "word_indices": [
+        5,
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "(not I, but the Lord)",
+      "korean_translation": "(내가 아니라 주님께서)",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A wife must not separate from her husband",
+      "korean_translation": "아내는 남편과 분리되어서는 안 됩니다",
+      "word_indices": [
+        79,
+        375,
+        867
+      ]
+    }
+  ]
+}

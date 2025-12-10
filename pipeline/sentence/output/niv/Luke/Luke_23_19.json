@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 23:19",
+  "version": "NIV",
+  "original_text": "(Barabbas had been thrown into prison for an insurrection in the city, and for murder.)",
+  "korean_text": "이 바라바는 성중에서 일어난 민란과 살인으로 말미암아 옥에 갇힌 자러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Barabbas had been thrown into prison",
+      "korean_translation": "바라바는 감옥에 던져졌고",
+      "word_indices": [
+        689
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for an insurrection in the city",
+      "korean_translation": "성에서의 반란으로",
+      "word_indices": [
+        23,
+        4784
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and for murder",
+      "korean_translation": "그리고 살인으로",
+      "word_indices": [
+        847
+      ]
+    }
+  ]
+}

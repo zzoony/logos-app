@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Corinthians 7:16",
+  "version": "NIV",
+  "original_text": "How do you know, wife, whether you will save your husband? Or, how do you know, husband, whether you will save your wife?",
+  "korean_text": "아내 된 자여 네가 남편을 구원할는지 어찌 알 수 있으며 남편 된 자여 네가 네 아내를 구원할는지 어찌 알 수 있으리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How do you know, wife",
+      "korean_translation": "당신은 어떻게 아십니까, 아내여",
+      "word_indices": [
+        13,
+        79
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whether you will save your husband?",
+      "korean_translation": "당신이 당신의 남편을 구원할 것인지를",
+      "word_indices": [
+        139,
+        375
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Or, how do you know, husband",
+      "korean_translation": "또는, 당신은 어떻게 아십니까, 남편이여",
+      "word_indices": [
+        13,
+        375
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whether you will save your wife?",
+      "korean_translation": "당신이 당신의 아내를 구원할 것인지를",
+      "word_indices": [
+        79,
+        139
+      ]
+    }
+  ]
+}

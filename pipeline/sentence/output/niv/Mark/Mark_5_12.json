@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Mark 5:12",
+  "version": "NIV",
+  "original_text": "The demons begged Jesus, “Send us among the pigs; allow us to go into them.”",
+  "korean_text": "이에 간구하여 이르되 우리를 돼지에게로 보내어 들어가게 하소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The demons begged Jesus",
+      "korean_translation": "귀신들이 예수께 간청했다",
+      "word_indices": [
+        659
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Send us among the pigs",
+      "korean_translation": "우리를 돼지들에게로 보내세요",
+      "word_indices": [
+        20,
+        27,
+        1551
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "allow us to go into them",
+      "korean_translation": "우리가 그들 안으로 들어가도록 허락해주세요",
+      "word_indices": [
+        877
+      ]
+    }
+  ]
+}

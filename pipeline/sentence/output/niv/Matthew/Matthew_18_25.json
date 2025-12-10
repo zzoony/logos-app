@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 18:25",
+  "version": "NIV",
+  "original_text": "Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt.",
+  "korean_text": "갚을 것이 없는지라 주인이 명하여 그 몸과 아내와 자식들과 모든 소유를 다 팔아 갚게 하라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Since he was not able to pay",
+      "korean_translation": "그가 갚을 수 없었으므로",
+      "word_indices": [
+        248,
+        363
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the master ordered",
+      "korean_translation": "주인이 명령했습니다",
+      "word_indices": [
+        163,
+        265
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he and his wife",
+      "korean_translation": "그와 그의 아내가",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his children",
+      "korean_translation": "그의 자녀들과",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and all that he had",
+      "korean_translation": "그가 가진 모든 것이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "be sold to repay the debt",
+      "korean_translation": "빚을 갚기 위해 팔리도록",
+      "word_indices": [
+        753,
+        1628
+      ]
+    }
+  ]
+}

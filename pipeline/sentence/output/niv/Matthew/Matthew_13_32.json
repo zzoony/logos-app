@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Matthew 13:32",
+  "version": "NIV",
+  "original_text": "Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants and becomes a tree, so that the birds come and perch in its branches.”",
+  "korean_text": "이는 모든 씨보다 작은 것이로되 자란 후에는 풀보다 커서 나무가 되매 공중의 새들이 와서 그 가지에 깃들이느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though it is the smallest of all seeds",
+      "korean_translation": "그것은 모든 씨앗 중에 가장 작지만",
+      "word_indices": [
+        127,
+        600,
+        3215
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet when it grows",
+      "korean_translation": "그러나 자라날 때",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it is the largest of garden plants",
+      "korean_translation": "그것은 정원 식물 중에 가장 크며",
+      "word_indices": [
+        358,
+        745,
+        4750
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and becomes a tree",
+      "korean_translation": "나무가 됩니다",
+      "word_indices": [
+        164
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that the birds come",
+      "korean_translation": "그래서 새들이 와서",
+      "word_indices": [
+        386
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and perch in its branches",
+      "korean_translation": "그 가지에 앉습니다",
+      "word_indices": [
+        509,
+        3364
+      ]
+    }
+  ]
+}

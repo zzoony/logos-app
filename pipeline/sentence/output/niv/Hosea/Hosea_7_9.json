@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Hosea 7:9",
+  "version": "NIV",
+  "original_text": "Foreigners sap his strength,\n    but he does not realize it.\nHis hair is sprinkled with gray,\n    but he does not notice.",
+  "korean_text": "이방인들이 그의 힘을 삼켰으나 알지 못하고 백발이 무성할지라도 알지 못하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Foreigners sap his strength",
+      "korean_translation": "이방인들이 그의 힘을 약화시킵니다",
+      "word_indices": [
+        291,
+        343,
+        2770
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but he does not realize it",
+      "korean_translation": "그러나 그는 그것을 깨닫지 못합니다",
+      "word_indices": [
+        696
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "His hair is sprinkled with gray",
+      "korean_translation": "그의 머리에는 백발이 섞여 있습니다",
+      "word_indices": [
+        548,
+        2039
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he does not notice",
+      "korean_translation": "그러나 그는 알아차리지 못합니다",
+      "word_indices": [
+        1326
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Corinthians 5:6",
+  "version": "NIV",
+  "original_text": "Your boasting is not good. Don’t you know that a little yeast leavens the whole batch of dough?",
+  "korean_text": "너희가 자랑하는 것이 옳지 아니하도다 적은 누룩이 온 덩어리에 퍼지는 것을 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your boasting is not good",
+      "korean_translation": "너희의 자랑은 좋지 않다",
+      "word_indices": [
+        56,
+        551
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Don't you know",
+      "korean_translation": "너희는 알지 못하느냐",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that a little yeast",
+      "korean_translation": "적은 누룩이",
+      "word_indices": [
+        312,
+        825
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "leavens the whole batch of dough",
+      "korean_translation": "온 반죽을 부풀게 하느냐",
+      "word_indices": [
+        99,
+        2211,
+        3698,
+        4084
+      ]
+    }
+  ]
+}

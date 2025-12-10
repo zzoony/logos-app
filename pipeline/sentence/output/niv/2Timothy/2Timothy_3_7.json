@@ -1,0 +1,33 @@
+{
+  "verse_reference": "2 Timothy 3:7",
+  "version": "NIV",
+  "original_text": "always learning but never able to come to a knowledge of the truth.",
+  "korean_text": "항상 배우나 끝내 진리의 지식에 이를 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "always learning",
+      "korean_translation": "항상 배우면서",
+      "word_indices": [
+        526
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but never able",
+      "korean_translation": "하지만 결코 할 수 없어서",
+      "word_indices": [
+        363
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to come to a knowledge of the truth",
+      "korean_translation": "진리의 지식에 이르지 못하고",
+      "word_indices": [
+        385,
+        407
+      ]
+    }
+  ]
+}

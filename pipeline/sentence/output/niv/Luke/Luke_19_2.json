@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 19:2",
+  "version": "NIV",
+  "original_text": "A man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy.",
+  "korean_text": "삭개오라 이름하는 자가 있으니 세리장이요 또한 부자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man was there by the name of Zacchaeus",
+      "korean_translation": "그곳에 세배라는 이름의 한 사람이 있었는데",
+      "word_indices": [
+        10,
+        17
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he was a chief tax collector",
+      "korean_translation": "그는 세관장이었으며",
+      "word_indices": [
+        320,
+        954,
+        1416
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and was wealthy",
+      "korean_translation": "부자였습니다",
+      "word_indices": [
+        2196
+      ]
+    }
+  ]
+}

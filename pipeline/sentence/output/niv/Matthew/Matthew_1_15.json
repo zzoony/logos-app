@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:15",
+  "version": "NIV",
+  "original_text": "Elihud the father of Eleazar,\nEleazar the father of Matthan,\nMatthan the father of Jacob,",
+  "korean_text": "엘리웃은 엘르아살을 낳고 엘르아살은 맛단을 낳고 맛단은 야곱을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elihud the father of Eleazar",
+      "korean_translation": "엘리후드는 엘르아살의 아버지요",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Eleazar the father of Matthan",
+      "korean_translation": "엘르아살은 맛단의 아버지요",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Matthan the father of Jacob",
+      "korean_translation": "맛단은 야곱의 아버지라",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

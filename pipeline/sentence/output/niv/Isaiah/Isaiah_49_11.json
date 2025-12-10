@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Isaiah 49:11",
+  "version": "NIV",
+  "original_text": "I will turn all my mountains into roads,\n    and my highways will be raised up.",
+  "korean_text": "내가 나의 모든 산을 길로 삼고 나의 대로를 돋우리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will turn all my mountains",
+      "korean_translation": "나는 나의 모든 산들을",
+      "word_indices": [
+        49,
+        147
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into roads",
+      "korean_translation": "길로 만들 것이며",
+      "word_indices": [
+        484
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and my highways will be raised up",
+      "korean_translation": "나의 대로는 높아질 것이다",
+      "word_indices": [
+        1991
+      ]
+    }
+  ]
+}

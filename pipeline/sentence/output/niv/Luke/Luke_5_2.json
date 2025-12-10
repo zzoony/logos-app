@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 5:2",
+  "version": "NIV",
+  "original_text": "He saw at the water’s edge two boats, left there by the fishermen, who were washing their nets.",
+  "korean_text": "호숫가에 배 두 척이 있는 것을 보시니 어부들은 배에서 나와서 그물을 씻는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He saw at the water's edge two boats",
+      "korean_translation": "그는 물가에 두 척의 배가 있는 것을 보았다",
+      "word_indices": [
+        46,
+        875,
+        978
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "left there by fishermen",
+      "korean_translation": "그곳에 떠나간 어부들이 남긴",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who were washing their nets",
+      "korean_translation": "그들은 자신들의 그물을 씻고 있었다",
+      "word_indices": [
+        419,
+        1016
+      ]
+    }
+  ]
+}

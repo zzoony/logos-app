@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 12:28",
+  "version": "NIV",
+  "original_text": "Father, glorify your name!”\nThen a voice came from heaven, “I have glorified it, and will glorify it again.”",
+  "korean_text": "아버지여, 아버지의 이름을 영광스럽게 하옵소서 하시니 이에 하늘에서 소리가 나서 이르되 내가 이미 영광스럽게 하였고 또다시 영광스럽게 하리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Father, glorify your name!",
+      "korean_translation": "아버지, 아버지의 이름을 영광스럽게 하소서!",
+      "word_indices": [
+        12,
+        17,
+        1060
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then a voice came from heaven,",
+      "korean_translation": "그러자 하늘에서 음성이 들려왔는데,",
+      "word_indices": [
+        57,
+        241
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have glorified it,",
+      "korean_translation": "나는 이미 그것을 영광스럽게 하였고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and will glorify it again.",
+      "korean_translation": "다시 한번 그것을 영광스럽게 할 것이다.",
+      "word_indices": [
+        1060
+      ]
+    }
+  ]
+}

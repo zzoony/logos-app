@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 12:44",
+  "version": "NIV",
+  "original_text": "Then it says, ‘I will return to the house I left.’ When it arrives, it finds the house unoccupied, swept clean and put in order.",
+  "korean_text": "이에 이르되 내가 나온 내 집으로 돌아가리라 하고 와 보니 그 집이 비고 청소되고 수리되었거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then it says",
+      "korean_translation": "그때 그것은 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will return to the house I left",
+      "korean_translation": "내가 떠났던 집으로 돌아가리라",
+      "word_indices": [
+        26,
+        89
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When it arrives",
+      "korean_translation": "그것이 도착했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it finds the house unoccupied",
+      "korean_translation": "그것은 집이 비어있음을 발견한다",
+      "word_indices": [
+        26,
+        55
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "swept clean and put in order",
+      "korean_translation": "쓸어서 깨끗해지고 정돈되어 있다",
+      "word_indices": [
+        163,
+        440
+      ]
+    }
+  ]
+}

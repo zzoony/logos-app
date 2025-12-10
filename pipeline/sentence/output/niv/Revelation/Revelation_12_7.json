@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Revelation 12:7",
+  "version": "NIV",
+  "original_text": "Then war broke out in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back.",
+  "korean_text": "하늘에 전쟁이 있으니 미가엘과 그의 사자들이 용과 더불어 싸울새 용과 그의 사자들도 싸우나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then war broke out in heaven.",
+      "korean_translation": "그때 하늘에서 전쟁이 일어났습니다.",
+      "word_indices": [
+        57,
+        367
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Michael and his angels fought",
+      "korean_translation": "미가엘과 그의 천사들이 싸웠습니다.",
+      "word_indices": [
+        153
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "against the dragon",
+      "korean_translation": "용을 맞서 싸웠습니다.",
+      "word_indices": [
+        11,
+        2028
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the dragon and his angels fought back.",
+      "korean_translation": "그리고 용과 그의 천사들이 맞서 싸웠습니다.",
+      "word_indices": [
+        52,
+        153,
+        2028
+      ]
+    }
+  ]
+}

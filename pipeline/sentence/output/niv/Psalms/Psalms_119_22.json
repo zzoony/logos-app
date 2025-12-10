@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 119:22",
+  "version": "NIV",
+  "original_text": "Remove from me their scorn and contempt,\n    for I keep your statutes.",
+  "korean_text": "내가 주의 교훈들을 지켰사오니 비방과 멸시를 내게서 떠나게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remove from me their scorn",
+      "korean_translation": "나에게서 그들의 경멸을 제거해 주소서",
+      "word_indices": [
+        423,
+        938
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and contempt",
+      "korean_translation": "과 멸시를",
+      "word_indices": [
+        1127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I keep your statutes",
+      "korean_translation": "이는 내가 주의 율법을 지키기 때문입니다",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

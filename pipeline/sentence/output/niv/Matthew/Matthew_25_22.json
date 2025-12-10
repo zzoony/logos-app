@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Matthew 25:22",
+  "version": "NIV",
+  "original_text": "“The man with two bags of gold also came. ‘Master,’ he said, ‘you entrusted me with two bags of gold; see, I have gained two more.’",
+  "korean_text": "두 달란트 받았던 자도 와서 이르되 주인이여 내게 두 달란트를 주셨는데 보소서 내가 또 두 달란트를 남겼나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man with two bags of gold also came.",
+      "korean_translation": "금 두 봇지를 가진 사람도 왔습니다.",
+      "word_indices": [
+        10,
+        28,
+        75,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said, 'Master,'",
+      "korean_translation": "그가 말했습니다, '주인님,'",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you entrusted me with two bags of gold;",
+      "korean_translation": "당신은 저에게 금 두 봇지를 맡겨주셨습니다.",
+      "word_indices": [
+        75,
+        1088,
+        1206
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "see, I have gained two more.'",
+      "korean_translation": "보세요, 저는 두 봇지를 더 얻었습니다.'",
+      "word_indices": [
+        537
+      ]
+    }
+  ]
+}

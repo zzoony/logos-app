@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 11:21",
+  "version": "NIV",
+  "original_text": "“When a strong man, fully armed, guards his own house, his possessions are safe.",
+  "korean_text": "강한 자가 무장을 하고 자기 집을 지킬 때에는 그 소유가 안전하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When a strong man, fully armed,",
+      "korean_translation": "한 강한 자가 온전히 무장했을 때,",
+      "word_indices": [
+        10,
+        302,
+        342,
+        915
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "guards his own house,",
+      "korean_translation": "자기 집을 지키면,",
+      "word_indices": [
+        26,
+        281
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his possessions are safe.",
+      "korean_translation": "그의 소유물은 안전하다.",
+      "word_indices": [
+        382,
+        1245
+      ]
+    }
+  ]
+}

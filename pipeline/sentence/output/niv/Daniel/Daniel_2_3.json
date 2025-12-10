@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Daniel 2:3",
+  "version": "NIV",
+  "original_text": "he said to them, “I have had a dream that troubles me and I want to know what it means.”",
+  "korean_text": "왕이 그들에게 이르되 내가 꿈을 꾸고 그 꿈을 알고자 하여 마음이 번민하도다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "he said to them",
+      "korean_translation": "그가 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have had a dream",
+      "korean_translation": "나는 꿈을 꾸었습니다",
+      "word_indices": [
+        508
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that troubles me",
+      "korean_translation": "그것이 나를 괴롭히는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I want to know",
+      "korean_translation": "그리고 나는 알고 싶습니다",
+      "word_indices": [
+        13,
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what it means",
+      "korean_translation": "그것이 무엇을 의미하는지",
+      "word_indices": [
+        349
+      ]
+    }
+  ]
+}

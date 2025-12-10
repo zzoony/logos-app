@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Galatians 4:1",
+  "version": "NIV",
+  "original_text": "What I am saying is that as long as an heir is underage, he is no different from a slave, although he owns the whole estate.",
+  "korean_text": "내가 또 말하노니 유업을 이을 자가 모든 것의 주인이나 어렸을 동안에는 종과 다름이 없어서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What I am saying",
+      "korean_translation": "내가 말하는 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is that",
+      "korean_translation": "다음과 같다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as long as an heir is underage",
+      "korean_translation": "상속자가 미성년자인 동안에는",
+      "word_indices": [
+        71,
+        1349,
+        4855
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he is no different from a slave",
+      "korean_translation": "그는 종과 다를 바 없다",
+      "word_indices": [
+        287,
+        1400
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "although he owns the whole estate",
+      "korean_translation": "비록 전 재산을 소유하고 있더라도",
+      "word_indices": [
+        99,
+        784,
+        2294
+      ]
+    }
+  ]
+}

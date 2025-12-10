@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Acts 7:28",
+  "version": "NIV",
+  "original_text": "Are you thinking of killing me as you killed the Egyptian yesterday?’",
+  "korean_text": "네가 어제는 애굽 사람을 죽임과 같이 또 나를 죽이려느냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Are you thinking of killing me",
+      "korean_translation": "나를 죽이려고 생각하고 있느냐",
+      "word_indices": [
+        76,
+        236
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as you killed the Egyptian",
+      "korean_translation": "네가 이집트 사람을 죽인 것처럼",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yesterday?",
+      "korean_translation": "어제?",
+      "word_indices": [
+        2562
+      ]
+    }
+  ]
+}

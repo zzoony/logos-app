@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 1:41",
+  "version": "NIV",
+  "original_text": "When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit.",
+  "korean_text": "엘리사벳이 마리아가 문안함을 들으매 아이가 복중에서 뛰노는지라 엘리사벳이 성령의 충만함을 받아",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Elizabeth heard Mary's greeting",
+      "korean_translation": "엘리사벳이 마리아의 인사를 들었을 때",
+      "word_indices": [
+        806
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the baby leaped in her womb",
+      "korean_translation": "아기가 그녀의 태 안에서 뛰었다",
+      "word_indices": [
+        766,
+        1492,
+        1935
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Elizabeth was filled with Holy Spirit",
+      "korean_translation": "그리고 엘리사벳은 성령으로 가득 찼다",
+      "word_indices": [
+        59,
+        62,
+        188
+      ]
+    }
+  ]
+}

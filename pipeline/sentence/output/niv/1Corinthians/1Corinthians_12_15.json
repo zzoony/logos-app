@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Corinthians 12:15",
+  "version": "NIV",
+  "original_text": "Now if the foot should say, “Because I am not a hand, I do not belong to the body,” it would not for that reason stop being part of the body.",
+  "korean_text": "만일 발이 이르되 나는 손이 아니니 몸에 붙지 아니하였다 할지라도 이로써 몸에 붙지 아니한 것이 아니요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now if a foot should say",
+      "korean_translation": "이제 만약 발이 말한다면",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because I am not a hand",
+      "korean_translation": "내가 손이 아니기 때문에",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I do not belong to the body",
+      "korean_translation": "나는 몸에 속하지 않는다고",
+      "word_indices": [
+        137,
+        218
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it would not for that reason",
+      "korean_translation": "그것은 그 이유로 인해",
+      "word_indices": [
+        750
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "stop being part of the body",
+      "korean_translation": "몸의 일부가 되는 것을 멈추지 않을 것이다",
+      "word_indices": [
+        137,
+        334,
+        390
+      ]
+    }
+  ]
+}

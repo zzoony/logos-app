@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Acts 18:3",
+  "version": "NIV",
+  "original_text": "and because he was a tentmaker as they were, he stayed and worked with them.",
+  "korean_text": "생업이 같으므로 함께 살며 일을 하니 그 생업은 천막을 만드는 것이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "and because he was a tentmaker",
+      "korean_translation": "그는 천막을 만드는 사람이었기 때문에",
+      "word_indices": [
+        6050
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as they were",
+      "korean_translation": "그들과 같았으므로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he stayed and worked with them",
+      "korean_translation": "그는 그들과 함께 머물며 일했습니다",
+      "word_indices": [
+        65,
+        197
+      ]
+    }
+  ]
+}

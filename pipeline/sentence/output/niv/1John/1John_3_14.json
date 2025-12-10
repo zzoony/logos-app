@@ -1,0 +1,59 @@
+{
+  "verse_reference": "1 John 3:14",
+  "version": "NIV",
+  "original_text": "We know that we have passed from death to life, because we love each other. Anyone who does not love remains in death.",
+  "korean_text": "우리는 형제를 사랑함으로 사망에서 옮겨 생명으로 들어간 줄을 알거니와 사랑하지 아니하는 자는 사망에 머물러 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We know",
+      "korean_translation": "우리는 안다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that we have passed",
+      "korean_translation": "우리가 지나왔다는 것을",
+      "word_indices": [
+        531
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from death to life",
+      "korean_translation": "사망에서 생명으로",
+      "word_indices": [
+        37,
+        80
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because we love each other",
+      "korean_translation": "왜냐하면 우리는 서로 사랑하기 때문이다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Anyone who does not love",
+      "korean_translation": "사랑하지 않는 사람은",
+      "word_indices": [
+        38,
+        68
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "remains in death",
+      "korean_translation": "사망 가운데 머문다",
+      "word_indices": [
+        80,
+        210
+      ]
+    }
+  ]
+}

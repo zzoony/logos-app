@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 119:72",
+  "version": "NIV",
+  "original_text": "The law from your mouth is more precious to me\n    than thousands of pieces of silver and gold.",
+  "korean_text": "주의 입의 법이 내게는 천천 금은보다 좋으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The law from your mouth",
+      "korean_translation": "당신의 입에서 나온 율법은",
+      "word_indices": [
+        42,
+        143
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is more precious to me",
+      "korean_translation": "나에게 더 소중합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "than thousands of pieces of silver",
+      "korean_translation": "수천 개의 은보다도",
+      "word_indices": [
+        124,
+        136
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and gold.",
+      "korean_translation": "황금보다도.",
+      "word_indices": [
+        75
+      ]
+    }
+  ]
+}

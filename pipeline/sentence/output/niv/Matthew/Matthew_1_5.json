@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Matthew 1:5",
+  "version": "NIV",
+  "original_text": "Salmon the father of Boaz, whose mother was Rahab,\nBoaz the father of Obed, whose mother was Ruth,\nObed the father of Jesse,",
+  "korean_text": "살몬은 라합에게서 보아스를 낳고 보아스는 룻에게서 오벳을 낳고 오벳은 이새를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Salmon the father of Boaz,",
+      "korean_translation": "살몬은 보아스의 아버지이며,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose mother was Rahab,",
+      "korean_translation": "그의 어머니는 라합이었고,",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Boaz the father of Obed,",
+      "korean_translation": "보아스는 오벳의 아버지이며,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whose mother was Ruth,",
+      "korean_translation": "그의 어머니는 룻이었고,",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Obed the father of Jesse,",
+      "korean_translation": "오벳은 이새의 아버지이다.",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

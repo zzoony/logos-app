@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 6:10",
+  "version": "NIV",
+  "original_text": "Jesus said, “Have the people sit down.” There was plenty of grass in that place, and they sat down (about five thousand men were there).",
+  "korean_text": "예수께서 이르시되 이 사람들로 앉게 하라 하시니 그 곳에 잔디가 많은지라 사람들이 앉으니 수가 오천 명쯤 되더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Have the people sit down",
+      "korean_translation": "사람들이 앉게 하라",
+      "word_indices": [
+        3,
+        151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was plenty of grass in that place",
+      "korean_translation": "그 곳에는 풀이 많이 있었다",
+      "word_indices": [
+        18,
+        1569
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they sat down",
+      "korean_translation": "그리고 그들은 앉았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "about five thousand men were there",
+      "korean_translation": "그곳에는 약 오천 명의 남자가 있었다",
+      "word_indices": [
+        136,
+        196
+      ]
+    }
+  ]
+}

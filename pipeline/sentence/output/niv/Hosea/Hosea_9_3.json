@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Hosea 9:3",
+  "version": "NIV",
+  "original_text": "They will not remain in the Lord’s land;\n    Ephraim will return to Egypt\n    and eat unclean food in Assyria.",
+  "korean_text": "그들은 여호와의 땅에 거주하지 못하며 에브라임은 애굽으로 다시 가고 앗수르에서 더러운 것을 먹을 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They will not remain in Lord's land;",
+      "korean_translation": "그들은 주의 땅에 머물지 않을 것이다;",
+      "word_indices": [
+        8,
+        210
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ephraim will return to Egypt",
+      "korean_translation": "에브라임은 이집트로 돌아갈 것이다",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and eat unclean food in Assyria.",
+      "korean_translation": "그리고 앗수르에서 부정한 음식을 먹을 것이다.",
+      "word_indices": [
+        33,
+        103,
+        250
+      ]
+    }
+  ]
+}

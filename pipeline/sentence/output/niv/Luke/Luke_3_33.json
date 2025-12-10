@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 3:33",
+  "version": "NIV",
+  "original_text": "the son of Amminadab, the son of Ram,\nthe son of Hezron, the son of Perez,\nthe son of Judah,",
+  "korean_text": "그 위는 아미나답이요 그 위는 아니요 그 위는 헤스론이요 그 위는 베레스요 그 위는 유다요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the son of Amminadab",
+      "korean_translation": "암미나답의 아들이며",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "son of Ram",
+      "korean_translation": "람의 아들이라",
+      "word_indices": [
+        2,
+        299
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the son of Hezron",
+      "korean_translation": "헤스론의 아들이며",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "son of Perez",
+      "korean_translation": "베레스의 아들이라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the son of Judah",
+      "korean_translation": "유다의 아들이라",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Corinthians 7:1",
+  "version": "NIV",
+  "original_text": "Now for the matters you wrote about: “It is good for a man not to have sexual relations with a woman.”",
+  "korean_text": "너희가 쓴 문제에 대하여 말하면 남자가 여자를 가까이 아니함이 좋으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now for matters you wrote about:",
+      "korean_translation": "이제 너희가 쓴 문제에 대해서는:",
+      "word_indices": [
+        580
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is good for a man",
+      "korean_translation": "남자에게는 좋은 일이다",
+      "word_indices": [
+        10,
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not to have sexual relations with a woman.",
+      "korean_translation": "여자와 성관계를 갖지 않는 것이",
+      "word_indices": [
+        50,
+        735,
+        933
+      ]
+    }
+  ]
+}

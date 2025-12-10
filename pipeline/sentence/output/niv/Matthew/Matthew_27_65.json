@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 27:65",
+  "version": "NIV",
+  "original_text": "“Take a guard,” Pilate answered. “Go, make the tomb as secure as you know how.”",
+  "korean_text": "빌라도가 이르되 너희에게 경비병이 있으니 가서 힘대로 굳게 지키라 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Take a guard",
+      "korean_translation": "경비병을 데려가라",
+      "word_indices": [
+        281
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Pilate answered",
+      "korean_translation": "빌라도가 대답했다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Go",
+      "korean_translation": "가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "make the tomb as secure as you know how",
+      "korean_translation": "네가 아는 방식대로 무덤을 단단히 지켜라",
+      "word_indices": [
+        13,
+        621,
+        920
+      ]
+    }
+  ]
+}

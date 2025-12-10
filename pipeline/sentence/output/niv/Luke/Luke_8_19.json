@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 8:19",
+  "version": "NIV",
+  "original_text": "Now Jesus’ mother and brothers came to see him, but they were not able to get near him because of the crowd.",
+  "korean_text": "예수의 어머니와 그 동생들이 왔으나 무리로 인하여 가까이 하지 못하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Jesus' mother and brothers came to see him,",
+      "korean_translation": "그때 예수님의 어머니와 형제들이 그를 만나러 왔으나,",
+      "word_indices": [
+        53,
+        120
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but they were not able to get near him",
+      "korean_translation": "그들은 그에게 가까이 갈 수 없었다",
+      "word_indices": [
+        363
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of the crowd.",
+      "korean_translation": "무리 때문이었다.",
+      "word_indices": [
+        303
+      ]
+    }
+  ]
+}

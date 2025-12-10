@@ -1,0 +1,24 @@
+{
+  "verse_reference": "John 14:4",
+  "version": "NIV",
+  "original_text": "You know the way to the place where I am going.”",
+  "korean_text": "내가 어디로 가는지 그 길을 너희가 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know the way",
+      "korean_translation": "너는 그 길을 알고 있다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the place where I am going",
+      "korean_translation": "내가 가는 곳으로 가는 길을",
+      "word_indices": [
+        18
+      ]
+    }
+  ]
+}

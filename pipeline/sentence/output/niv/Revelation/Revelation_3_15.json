@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Revelation 3:15",
+  "version": "NIV",
+  "original_text": "I know your deeds, that you are neither cold nor hot. I wish you were either one or the other!",
+  "korean_text": "내가 네 행위를 아노니 네가 차지도 아니하고 뜨겁지도 아니하도다 네가 차든지 뜨겁든지 하기를 원하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know your deeds,",
+      "korean_translation": "나는 너의 행위를 알고 있으며,",
+      "word_indices": [
+        13,
+        414
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you are neither cold nor hot.",
+      "korean_translation": "네가 차지도 않고 뜨겁지도 않음을.",
+      "word_indices": [
+        449,
+        1305,
+        1882
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I wish you were either one or the other!",
+      "korean_translation": "네가 차든지 뜨겁든지 하기를 원하노라!",
+      "word_indices": [
+        1036,
+        1067
+      ]
+    }
+  ]
+}

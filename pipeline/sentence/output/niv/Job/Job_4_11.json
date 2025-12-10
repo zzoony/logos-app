@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Job 4:11",
+  "version": "NIV",
+  "original_text": "The lion perishes for lack of prey,\n    and the cubs of the lioness are scattered.",
+  "korean_text": "사자는 사냥한 것이 없어 죽어 가고 암사자의 새끼는 흩어지느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The lion perishes for lack of prey",
+      "korean_translation": "사자는 먹잇감이 없어 죽고",
+      "word_indices": [
+        399,
+        458,
+        765,
+        1247
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the cubs of the lioness are scattered",
+      "korean_translation": "암사자의 새끼들은 흩어지느니라",
+      "word_indices": [
+        396,
+        2042
+      ]
+    }
+  ]
+}

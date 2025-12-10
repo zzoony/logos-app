@@ -1,0 +1,47 @@
+{
+  "verse_reference": "1 Corinthians 11:3",
+  "version": "NIV",
+  "original_text": "But I want you to realize that the head of every man is Christ, and the head of the woman is man, and the head of Christ is God.",
+  "korean_text": "그러나 나는 너희가 알기를 원하노니 각 남자의 머리는 그리스도요 여자의 머리는 남자요 그리스도의 머리는 하나님이시라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I want you to realize",
+      "korean_translation": "하지만 내가 너희가 깨닫기를 원한다",
+      "word_indices": [
+        161,
+        696
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the head of every man is Christ",
+      "korean_translation": "모든 남자의 머리는 그리스도이고",
+      "word_indices": [
+        10,
+        67,
+        73
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the head of woman is man",
+      "korean_translation": "여자의 머리는 남자이며",
+      "word_indices": [
+        10,
+        50,
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the head of Christ is God",
+      "korean_translation": "그리스도의 머리는 하나님이시다",
+      "word_indices": [
+        1,
+        67,
+        73
+      ]
+    }
+  ]
+}

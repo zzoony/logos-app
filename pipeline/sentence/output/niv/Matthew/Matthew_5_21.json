@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 5:21",
+  "version": "NIV",
+  "original_text": "“You have heard that it was said to the people long ago, ‘You shall not murder, and anyone who murders will be subject to judgment.’",
+  "korean_text": "옛 사람에게 말한 바 살인하지 말라 누구든지 살인하면 심판을 받게 되리라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have heard that it was said",
+      "korean_translation": "너희는 들었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it was said to the people long ago",
+      "korean_translation": "옛사람들에게 말씀하신 바",
+      "word_indices": [
+        3,
+        71,
+        887
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You shall not murder",
+      "korean_translation": "살인하지 말라",
+      "word_indices": [
+        847
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and anyone who murders",
+      "korean_translation": "살인하는 자는",
+      "word_indices": [
+        68,
+        847
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will be subject to judgment",
+      "korean_translation": "심판을 받게 되리라",
+      "word_indices": [
+        380,
+        802
+      ]
+    }
+  ]
+}

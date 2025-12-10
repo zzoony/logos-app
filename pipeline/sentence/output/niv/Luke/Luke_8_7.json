@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 8:7",
+  "version": "NIV",
+  "original_text": "Other seed fell among thorns, which grew up with it and choked the plants.",
+  "korean_text": "더러는 가시떨기 속에 떨어지매 가시가 함께 자라서 기운을 막았고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Other seed fell among thorns",
+      "korean_translation": "다른 씨가 가시 덤불 사이에 떨어졌는데",
+      "word_indices": [
+        27,
+        290,
+        1017
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which grew up with it",
+      "korean_translation": "그것들이 씨와 함께 자라나서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and choked the plants",
+      "korean_translation": "식물을 막아버렸습니다",
+      "word_indices": [
+        358
+      ]
+    }
+  ]
+}

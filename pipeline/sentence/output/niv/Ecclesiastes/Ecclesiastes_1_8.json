@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ecclesiastes 1:8",
+  "version": "NIV",
+  "original_text": "All things are wearisome,\n    more than one can say.\nThe eye never has enough of seeing,\n    nor the ear its fill of hearing.",
+  "korean_text": "모든 만물이 피곤하다는 것을 사람이 말로 다 말할 수는 없나니 눈은 보아도 족함이 없고 귀는 들어도 가득 차지 아니하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All things are wearisome",
+      "korean_translation": "모든 것이 지겹구나",
+      "word_indices": [
+        5557
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "more than one can say",
+      "korean_translation": "사람이 말할 수 있는 것보다 더",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The eye never has enough of seeing",
+      "korean_translation": "눈은 보는 것에 결코 만족하지 못하며",
+      "word_indices": [
+        61,
+        540
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor the ear its fill of hearing",
+      "korean_translation": "귀도 듣는 것에 만족하지 못하느니라",
+      "word_indices": [
+        16,
+        188,
+        383
+      ]
+    }
+  ]
+}

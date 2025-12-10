@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 1:10",
+  "version": "NIV",
+  "original_text": "He was in the world, and though the world was made through him, the world did not recognize him.",
+  "korean_text": "그가 세상에 계셨으며 세상은 그로 말미암아 지은 바 되었으되 세상이 그를 알지 못하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He was in the world",
+      "korean_translation": "그는 세상에 계셨다",
+      "word_indices": [
+        190
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and though the world was made through him",
+      "korean_translation": "그리고 비록 세상이 그를 통하여 만들어졌지만",
+      "word_indices": [
+        39,
+        127,
+        190
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the world did not recognize him",
+      "korean_translation": "세상은 그를 알아보지 못했다",
+      "word_indices": [
+        190,
+        1034
+      ]
+    }
+  ]
+}

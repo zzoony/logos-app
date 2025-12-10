@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 26:34",
+  "version": "NIV",
+  "original_text": "“Truly I tell you,” Jesus answered, “this very night, before the rooster crows, you will disown me three times.”",
+  "korean_text": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 밤 닭 울기 전에 네가 세 번 나를 부인하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Truly I tell you",
+      "korean_translation": "진실로 너희에게 말하노니",
+      "word_indices": [
+        15,
+        578
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하시니",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "this very night",
+      "korean_translation": "오늘 밤",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before the rooster crows",
+      "korean_translation": "닭이 울기 전에",
+      "word_indices": [
+        2018,
+        2189
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will disown me three times",
+      "korean_translation": "너는 나를 세 번 부인하게 될 것이다",
+      "word_indices": [
+        90,
+        1693
+      ]
+    }
+  ]
+}

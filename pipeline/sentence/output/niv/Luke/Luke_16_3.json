@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 16:3",
+  "version": "NIV",
+  "original_text": "“The manager said to himself, ‘What shall I do now? My master is taking away my job. I’m not strong enough to dig, and I’m ashamed to beg—",
+  "korean_text": "청지기가 속으로 이르되 주인이 내 직분을 빼앗으니 내가 무엇을 할까 땅을 파자니 힘이 없고 빌어 먹자니 부끄럽구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The manager said to himself,",
+      "korean_translation": "관리인은 혼잣말로 말했다,",
+      "word_indices": [
+        2887
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What shall I do now?",
+      "korean_translation": "이제 내가 무엇을 해야 할까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My master is taking away my job.",
+      "korean_translation": "주인이 내 일자리를 빼앗고 있다.",
+      "word_indices": [
+        34,
+        265
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I'm not strong enough to dig,",
+      "korean_translation": "나는 땅을 팔 만큼 힘이 없고,",
+      "word_indices": [
+        342,
+        540,
+        958
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and I'm ashamed to beg—",
+      "korean_translation": "그리고 구걸하기가 부끄럽다—",
+      "word_indices": [
+        930
+      ]
+    }
+  ]
+}

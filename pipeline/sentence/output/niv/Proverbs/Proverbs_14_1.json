@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Proverbs 14:1",
+  "version": "NIV",
+  "original_text": "The wise woman builds her house,\n    but with her own hands the foolish one tears hers down.",
+  "korean_text": "지혜로운 여인은 자기 집을 세우되 미련한 여인은 자기 손으로 그것을 허느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wise woman builds her house",
+      "korean_translation": "지혜로운 여인은 자기 집을 세우지만",
+      "word_indices": [
+        26,
+        50,
+        93,
+        288
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with her own hands",
+      "korean_translation": "자기 손으로",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the foolish one tears hers down",
+      "korean_translation": "어리석은 자는 자기 집을 허문다",
+      "word_indices": [
+        254,
+        990
+      ]
+    }
+  ]
+}

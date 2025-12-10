@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Ezekiel 12:18",
+  "version": "NIV",
+  "original_text": "“Son of man, tremble as you eat your food, and shudder in fear as you drink your water.",
+  "korean_text": "인자야 너는 떨면서 네 음식을 먹고 놀라고 근심하면서 네 물을 마시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Son of man,",
+      "korean_translation": "인자야,",
+      "word_indices": [
+        2,
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "tremble as you eat your food,",
+      "korean_translation": "네 음식을 먹을 때 떨며,",
+      "word_indices": [
+        33,
+        103,
+        564
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shudder in fear",
+      "korean_translation": "그리고 두려워하며 떨며",
+      "word_indices": [
+        133,
+        2870
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as you drink your water.",
+      "korean_translation": "네 물을 마실 때.",
+      "word_indices": [
+        46,
+        78
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Luke 4:18",
+  "version": "NIV",
+  "original_text": "“The Spirit of the Lord is on me,\n    because he has anointed me\n    to proclaim good news to the poor.\nHe has sent me to proclaim freedom for the prisoners\n    and recovery of sight for the blind,\nto set the oppressed free,",
+  "korean_text": "주의 성령이 내게 임하셨으니 이는 가난한 자에게 복음을 전하게 하시려고 내게 기름을 부으시고 나를 보내사 포로 된 자에게 자유를, 눈 먼 자에게 다시 보게 함을 전파하며 눌린 자를 자유롭게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Spirit of Lord is on me",
+      "korean_translation": "주님의 영이 내게 임하셨으니",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he has anointed me",
+      "korean_translation": "이는 그가 나를 기름 부으셨기 때문이라",
+      "word_indices": [
+        377
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to proclaim good news to the poor",
+      "korean_translation": "가난한 자에게 복음을 전파하기 위함이라",
+      "word_indices": [
+        56,
+        298,
+        300
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He has sent me",
+      "korean_translation": "그가 나를 보내셨으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to proclaim freedom for the prisoners",
+      "korean_translation": "포로된 자에게 자유를 선포하기 위함이라",
+      "word_indices": [
+        300,
+        913,
+        1506
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and recovery of sight for the blind",
+      "korean_translation": "소경된 자에게 눈 뜨게 함을 전파하기 위함이라",
+      "word_indices": [
+        353,
+        606,
+        3653
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to set the oppressed free",
+      "korean_translation": "억눌린 자를 자유롭게 하기 위함이라",
+      "word_indices": [
+        421,
+        634
+      ]
+    }
+  ]
+}

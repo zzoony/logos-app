@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 12:6",
+  "version": "NIV",
+  "original_text": "I tell you that something greater than the temple is here.",
+  "korean_text": "내가 너희에게 이르노니 성전보다 더 큰 이가 여기 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you",
+      "korean_translation": "내가 너희에게 말하노니",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that something greater than the temple",
+      "korean_translation": "성전보다 더 큰 것이",
+      "word_indices": [
+        43,
+        636
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is here",
+      "korean_translation": "여기에 있다",
+      "word_indices": []
+    }
+  ]
+}

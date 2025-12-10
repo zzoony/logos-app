@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Jonah 1:15",
+  "version": "NIV",
+  "original_text": "Then they took Jonah and threw him overboard, and the raging sea grew calm.",
+  "korean_text": "요나를 들어 바다에 던지매 바다가 뛰노는 것이 곧 그친지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then they took Jonah",
+      "korean_translation": "그들이 요나를 데리고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and threw him overboard",
+      "korean_translation": "그리고 그를 바다에 던졌으며",
+      "word_indices": [
+        3677
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the raging sea grew calm",
+      "korean_translation": "그러자 거칠게 일던 바다가 잔잔해졌습니다",
+      "word_indices": [
+        108,
+        1637,
+        1871
+      ]
+    }
+  ]
+}

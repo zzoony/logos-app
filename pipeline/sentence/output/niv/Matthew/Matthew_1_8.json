@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:8",
+  "version": "NIV",
+  "original_text": "Asa the father of Jehoshaphat,\nJehoshaphat the father of Jehoram,\nJehoram the father of Uzziah,",
+  "korean_text": "아사는 여호사밧을 낳고 여호사밧은 요람을 낳고 요람은 웃시야를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Asa the father of Jehoshaphat",
+      "korean_translation": "아사는 여호사밧의 아버지였고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jehoshaphat the father of Jehoram",
+      "korean_translation": "여호사밧은 여호람의 아버지였으며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jehoram the father of Uzziah",
+      "korean_translation": "여호람은 웃시야의 아버지였다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

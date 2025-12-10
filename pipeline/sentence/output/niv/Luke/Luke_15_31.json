@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Luke 15:31",
+  "version": "NIV",
+  "original_text": "“‘My son,’ the father said, ‘you are always with me, and everything I have is yours.",
+  "korean_text": "아버지가 이르되 얘 너는 항상 나와 함께 있으니 내 것이 다 네 것이로되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "'My son,' the father said,",
+      "korean_translation": "'내 아들아,' 아버지가 말씀하시되,",
+      "word_indices": [
+        2,
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'you are always with me,",
+      "korean_translation": "'너는 항상 나와 함께 있고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and everything I have is yours.'",
+      "korean_translation": "내가 가진 모든 것이 너의 것이다.'",
+      "word_indices": []
+    }
+  ]
+}

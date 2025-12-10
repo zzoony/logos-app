@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 7:11",
+  "version": "NIV",
+  "original_text": "Now at the festival the Jewish leaders were watching for Jesus and asking, “Where is he?”",
+  "korean_text": "명절중에 유대인들이 예수를 찾으면서 그가 어디 있느냐 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now at festival",
+      "korean_translation": "명절 때에",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jewish leaders were watching for Jesus",
+      "korean_translation": "유대 지도자들은 예수를 찾고 있었고",
+      "word_indices": [
+        222,
+        332
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and asking, \"Where is he?\"",
+      "korean_translation": "물으며 \"그가 어디에 있느냐?\"라고 했다",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

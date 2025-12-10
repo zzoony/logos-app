@@ -1,0 +1,34 @@
+{
+  "verse_reference": "2 Corinthians 10:9",
+  "version": "NIV",
+  "original_text": "I do not want to seem to be trying to frighten you with my letters.",
+  "korean_text": "이는 내가 편지들로 너희를 놀라게 하려는 것 같이 생각하지 않게 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I do not want to seem",
+      "korean_translation": "나는 ~처럼 보이고 싶지 않다",
+      "word_indices": [
+        161,
+        856
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to be trying to frighten you",
+      "korean_translation": "너희를 겁주려고 애쓰는 것",
+      "word_indices": [
+        466,
+        1652
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with my letters",
+      "korean_translation": "내 편지들로",
+      "word_indices": [
+        675
+      ]
+    }
+  ]
+}
