@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 17:6",
+  "version": "KJV",
+  "original_text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
+  "korean_text": "하나님이여 내게 응답하시겠으므로 내가 불렀사오니 내게 귀를 기울여 내 말을 들으소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have called upon thee",
+      "korean_translation": "내가 주께 부르짖었나이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for thou wilt hear me",
+      "korean_translation": "주는 나를 들으시리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O God:",
+      "korean_translation": "오 하나님이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "incline thine ear unto me",
+      "korean_translation": "주의 귀를 내게 기울이시고",
+      "word_indices": [
+        111,
+        985
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and hear my speech.",
+      "korean_translation": "내 말씀을 들으소서",
+      "word_indices": [
+        560
+      ]
+    }
+  ]
+}

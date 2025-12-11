@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Revelation 13:17",
+  "version": "KJV",
+  "original_text": "And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.",
+  "korean_text": "누구든지 이 표를 가진 자 외에는 매매를 못하게 하니 이 표는 곧 짐승의 이름이나 그 이름의 수라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And that no man might buy or sell",
+      "korean_translation": "아무도 사거나 팔 수 없고",
+      "word_indices": [
+        15,
+        55
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "save he that had the mark",
+      "korean_translation": "그 표를 가진 자 외에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or the name of the beast",
+      "korean_translation": "또는 그 짐승의 이름을",
+      "word_indices": [
+        15,
+        16,
+        87
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or the number of his name",
+      "korean_translation": "또는 그의 이름의 수를 가진 자 외에는",
+      "word_indices": [
+        15,
+        16
+      ]
+    }
+  ]
+}

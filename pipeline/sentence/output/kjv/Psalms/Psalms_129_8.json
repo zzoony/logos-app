@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 129:8",
+  "version": "KJV",
+  "original_text": "Neither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord.",
+  "korean_text": "지나가는 자들도 여호와의 복이 너희에게 있을지어다 하거나 우리가 여호와의 이름으로 너희에게 축복한다 하지 아니하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither do they which go by say",
+      "korean_translation": "지나가는 자들도 말하지 않기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The blessing of the Lord be upon you",
+      "korean_translation": "여호와의 복이 너희에게 있을지어다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we bless you in the name of the Lord",
+      "korean_translation": "우리가 여호와의 이름으로 너희를 축복하노라",
+      "word_indices": [
+        3,
+        16
+      ]
+    }
+  ]
+}

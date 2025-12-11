@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Acts 12:13",
+  "version": "KJV",
+  "original_text": "And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.",
+  "korean_text": "베드로가 대문을 두드린대 로데라 하는 여자 아이가 영접하러 나왔다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as Peter knocked at the door of the gate",
+      "korean_translation": "베드로가 문을 두드렸을 때",
+      "word_indices": [
+        68,
+        115,
+        2553
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a damsel came to hearken",
+      "korean_translation": "한 소녀가 들으러 왔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "named Rhoda",
+      "korean_translation": "그녀의 이름은 로더였다",
+      "word_indices": []
+    }
+  ]
+}

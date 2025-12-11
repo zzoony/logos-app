@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 9:4",
+  "version": "KJV",
+  "original_text": "And whatsoever house ye enter into, there abide, and thence depart.",
+  "korean_text": "어느 집에 들어가든지 거기서 머물다가 거기서 떠나라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And whatsoever house ye enter into",
+      "korean_translation": "그리고 어떤 집에 들어가든지",
+      "word_indices": [
+        4,
+        7
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there abide",
+      "korean_translation": "그곳에 머물고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and thence depart",
+      "korean_translation": "그리고 그곳에서 떠나라",
+      "word_indices": [
+        228
+      ]
+    }
+  ]
+}

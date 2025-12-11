@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 84:5",
+  "version": "KJV",
+  "original_text": "Blessed is the man whose strength is in thee; in whose heart are the ways of them.",
+  "korean_text": "주께 힘을 얻고 그 마음에 시온의 대로가 있는 자는 복이 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the man",
+      "korean_translation": "복 있는 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose strength is in thee",
+      "korean_translation": "그 힘이 주 안에 있는 자",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in whose heart are ways of them",
+      "korean_translation": "그 마음에 그들의 길이 있는 자",
+      "word_indices": [
+        1,
+        20,
+        26
+      ]
+    }
+  ]
+}

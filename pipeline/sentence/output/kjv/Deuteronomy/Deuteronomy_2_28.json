@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Deuteronomy 2:28",
+  "version": "KJV",
+  "original_text": "Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;",
+  "korean_text": "너는 돈을 받고 양식을 팔아 내가 먹게 하고 돈을 받고 물을 주어 내가 마시게 하라 나는 걸어서 지날 뿐인즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou shalt sell me meat for money,",
+      "korean_translation": "너는 나에게 돈을 받고 고기를 팰 것이며",
+      "word_indices": [
+        99,
+        234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I may eat;",
+      "korean_translation": "내가 먹게 하려는 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and give me water for money,",
+      "korean_translation": "나에게 돈을 받고 물을 줄 것이며",
+      "word_indices": [
+        32,
+        234
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I may drink:",
+      "korean_translation": "내가 마시게 하려는 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "only I will pass through on my feet;",
+      "korean_translation": "나는 내 발로 지나갈 뿐이라",
+      "word_indices": [
+        27,
+        57,
+        121
+      ]
+    }
+  ]
+}

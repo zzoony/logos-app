@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Exodus 3:20",
+  "version": "KJV",
+  "original_text": "And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.",
+  "korean_text": "내가 내 손을 들어 애굽 중에 여러 가지 이적으로 그 나라를 친 후에야 그가 너희를 보내리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will stretch out my hand",
+      "korean_translation": "그리고 내가 내 손을 뻗겠고",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and smite Egypt",
+      "korean_translation": "애굽을 치겠으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with all my wonders",
+      "korean_translation": "나의 모든 기사로",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which I will do in the midst thereof",
+      "korean_translation": "그것들의 가운데서 행할 기사로",
+      "word_indices": [
+        24,
+        77
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and after that",
+      "korean_translation": "그 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "he will let you go",
+      "korean_translation": "그가 너희를 가게 하리라",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

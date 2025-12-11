@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 139:21",
+  "version": "KJV",
+  "original_text": "Do not I hate them, O Lord, that hate thee? and am not I grieved with those that rise up against thee?",
+  "korean_text": "여호와여 내가 주를 미워하는 자들을 미워하지 아니하오며 주를 치러 일어나는 자들을 미워하지 아니하나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not I hate them, O Lord",
+      "korean_translation": "내가 그들을 미워하지 아니하나이까, 오 주여",
+      "word_indices": [
+        1,
+        378
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that hate thee?",
+      "korean_translation": "주를 미워하는 자들을",
+      "word_indices": [
+        2,
+        378
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and am not I grieved",
+      "korean_translation": "내가 슬퍼하지 아니하나이까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with those that rise up against thee?",
+      "korean_translation": "주를 대하여 일어나는 자들로 말미암아",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 3:11",
+  "version": "KJV",
+  "original_text": "He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.",
+  "korean_text": "대답하여 이르되 옷 두 벌 있는 자는 옷 없는 자에게 나눠 줄 것이요 먹을 것이 있는 자도 그렇게 할 것이니라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He answereth and saith unto them",
+      "korean_translation": "그가 그들에게 대답하여 말하되",
+      "word_indices": [
+        1,
+        13,
+        1641
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He that hath two coats",
+      "korean_translation": "두 겹옷을 가진 자는",
+      "word_indices": [
+        771
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let him impart to him that hath none",
+      "korean_translation": "옷 없는 자에게 나눠주라",
+      "word_indices": [
+        3024
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he that hath meat",
+      "korean_translation": "그리고 음식을 가진 자는",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "let him do likewise",
+      "korean_translation": "그와 같이 하라",
+      "word_indices": [
+        310
+      ]
+    }
+  ]
+}

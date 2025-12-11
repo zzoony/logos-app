@@ -1,0 +1,56 @@
+{
+  "verse_reference": "James 1:13",
+  "version": "KJV",
+  "original_text": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
+  "korean_text": "사람이 시험을 받을 때에 내가 하나님께 시험을 받는다 하지 말지니 하나님은 악에게 시험을 받지도 아니하시고 친히 아무도 시험하지 아니하시느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let no man say",
+      "korean_translation": "아무도 말하지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he is tempted",
+      "korean_translation": "그가 시험을 받을 때",
+      "word_indices": [
+        681
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am tempted of God",
+      "korean_translation": "내가 하나님께 시험을 받는다",
+      "word_indices": [
+        681
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for God cannot be tempted",
+      "korean_translation": "하나님은 시험을 받으실 수 없으니",
+      "word_indices": [
+        173,
+        681
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with evil",
+      "korean_translation": "악으로는",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "neither tempteth he any man",
+      "korean_translation": "또한 그는 아무도 시험하지 않으신다",
+      "word_indices": [
+        22,
+        5888
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Samuel 4:10",
+  "version": "KJV",
+  "original_text": "And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.",
+  "korean_text": "블레셋 사람들이 쳤더니 이스라엘이 패하여 각기 장막으로 도망하였고 살륙이 심히 커서 이스라엘 보병의 엎드러진 자가 삼만 명이었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Philistines fought",
+      "korean_translation": "블레셋 사람들이 싸웠고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Israel was smitten",
+      "korean_translation": "이스라엘이 패배하였으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they fled every man into his tent",
+      "korean_translation": "그들 각자가 자기 장막으로 도망하였고",
+      "word_indices": [
+        7,
+        199
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and there was a very great slaughter",
+      "korean_translation": "아주 큰 학살이 있었으니",
+      "word_indices": [
+        119,
+        561
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for there fell of Israel thirty thousand footmen",
+      "korean_translation": "이는 이스라엘 보병 삼만 명이 쓰러졌기 때문이었다",
+      "word_indices": [
+        38,
+        129,
+        183
+      ]
+    }
+  ]
+}

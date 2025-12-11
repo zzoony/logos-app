@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 25:19",
+  "version": "KJV",
+  "original_text": "Consider mine enemies; for they are many; and they hate me with cruel hatred.",
+  "korean_text": "내 원수를 보소서 그들의 수가 많고 나를 심히 미워하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Consider mine enemies;",
+      "korean_translation": "나의 원수들을 생각해 보라",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for they are many;",
+      "korean_translation": "그들이 많기 때문이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they hate me with cruel hatred.",
+      "korean_translation": "그들이 잔인한 증오로 나를 미워하느니라",
+      "word_indices": [
+        378,
+        1276
+      ]
+    }
+  ]
+}

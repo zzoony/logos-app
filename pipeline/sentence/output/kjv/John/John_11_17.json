@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 11:17",
+  "version": "KJV",
+  "original_text": "Then when Jesus came, he found that he had lain in the grave four days already.",
+  "korean_text": "예수께서 와서 보시니 나사로가 무덤에 있은 지 이미 나흘이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then when Jesus came",
+      "korean_translation": "그때 예수께서 오셨을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he found that",
+      "korean_translation": "그가 발견한 것은",
+      "word_indices": [
+        1903
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he had lain in the grave",
+      "korean_translation": "그가 무덤에 누워 있었다는 것",
+      "word_indices": [
+        257
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "four days already",
+      "korean_translation": "이미 사흘이 지났다는 것",
+      "word_indices": [
+        928
+      ]
+    }
+  ]
+}

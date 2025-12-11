@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Samuel 15:4",
+  "version": "KJV",
+  "original_text": "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.",
+  "korean_text": "사울이 백성을 소집하고 그들을 들라임에서 세어 보니 보병이 이십만 명이요 유다 사람이 만 명이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Saul gathered the people together",
+      "korean_translation": "사울이 백성을 모으고",
+      "word_indices": [
+        5,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and numbered them in Telaim",
+      "korean_translation": "그들을 드라임에서 계수하였으니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "two hundred thousand footmen",
+      "korean_translation": "보병이 이십만 명이요",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ten thousand men of Judah",
+      "korean_translation": "유다 사람이 일만 명이었더라",
+      "word_indices": [
+        38,
+        122
+      ]
+    }
+  ]
+}

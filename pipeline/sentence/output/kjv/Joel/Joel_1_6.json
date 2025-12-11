@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Joel 1:6",
+  "version": "KJV",
+  "original_text": "For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.",
+  "korean_text": "다른 한 민족이 내 땅에 올라왔음이로다 그들은 강하고 수가 많으며 그 이빨은 사자의 이빨 같고 그 어금니는 암사자의 어금니 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For a nation is come up upon my land",
+      "korean_translation": "이는 한 나라가 내 땅에 올라왔음이라",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "strong, and without number",
+      "korean_translation": "강하고 무수한",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose teeth are the teeth of a lion",
+      "korean_translation": "그 이는 사자의 이 같으며",
+      "word_indices": [
+        637
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he hath the cheek teeth of a great lion",
+      "korean_translation": "그는 큰 사자의 어금니를 가졌도다",
+      "word_indices": [
+        637,
+        1562
+      ]
+    }
+  ]
+}

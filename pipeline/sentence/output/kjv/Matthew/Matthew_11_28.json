@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 11:28",
+  "version": "KJV",
+  "original_text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+  "korean_text": "수고하고 무거운 짐 진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come unto me",
+      "korean_translation": "내게로 오라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all ye that labour",
+      "korean_translation": "수고하는 모든 자여",
+      "word_indices": [
+        264
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and are heavy laden",
+      "korean_translation": "무거운 짐을 진 자들아",
+      "word_indices": [
+        762
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I will give you rest",
+      "korean_translation": "내가 너희를 쉬게 하리라",
+      "word_indices": [
+        3,
+        97
+      ]
+    }
+  ]
+}

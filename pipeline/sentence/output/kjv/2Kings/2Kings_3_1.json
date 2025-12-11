@@ -1,0 +1,39 @@
+{
+  "verse_reference": "2 Kings 3:1",
+  "version": "KJV",
+  "original_text": "Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.",
+  "korean_text": "유다의 여호사밧 왕 열여덟째 해에 아합의 아들 여호람이 사마리아에서 이스라엘을 열두 해 동안 다스리니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Jehoram son of Ahab began to reign over Israel",
+      "korean_translation": "이제 아합의 아들 여호람이 이스라엘을 다스리기 시작하였는데",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Samaria",
+      "korean_translation": "사마리아에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "eighteenth year of Jehoshaphat king of Judah",
+      "korean_translation": "유다 왕 여호사밧의 제십팔 년에",
+      "word_indices": [
+        23,
+        1785
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and reigned twelve years",
+      "korean_translation": "그가 십이 년간 다스렸더라",
+      "word_indices": [
+        23
+      ]
+    }
+  ]
+}

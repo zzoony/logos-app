@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 147:9",
+  "version": "KJV",
+  "original_text": "He giveth to the beast his food, and to the young ravens which cry.",
+  "korean_text": "들짐승과 우는 까마귀 새끼에게 먹을 것을 주시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He giveth to the beast his food",
+      "korean_translation": "그가 짐승에게 그의 음식을 주시며",
+      "word_indices": [
+        87,
+        261,
+        571
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and to the young ravens",
+      "korean_translation": "그리고 어린 까마귀들에게",
+      "word_indices": [
+        1406
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which cry",
+      "korean_translation": "우는 것들에게",
+      "word_indices": []
+    }
+  ]
+}

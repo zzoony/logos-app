@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 19:2",
+  "version": "KJV",
+  "original_text": "And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich.",
+  "korean_text": "삭개오라 이름하는 자가 있으니 세리장이요 또한 부자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And, behold, there was a man named Zacchaeus",
+      "korean_translation": "그리고 보라, 삭개오라는 한 사람이 있었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which was the chief among the publicans",
+      "korean_translation": "그는 세리 중 우두머리였으며",
+      "word_indices": [
+        108,
+        1144
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he was rich",
+      "korean_translation": "그리고 그는 부자였다",
+      "word_indices": [
+        178
+      ]
+    }
+  ]
+}

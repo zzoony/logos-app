@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 7:10",
+  "version": "KJV",
+  "original_text": "And they that were sent, returning to the house, found the servant whole that had been sick.",
+  "korean_text": "보내었던 사람들이 집으로 돌아가 보매 종이 이미 나아 있었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they that were sent",
+      "korean_translation": "그리고 보냄을 받은 자들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "returning to the house",
+      "korean_translation": "집으로 돌아가서",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "found the servant whole",
+      "korean_translation": "종이 온전한 것을 발견했다",
+      "word_indices": [
+        19,
+        125,
+        1903
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that had been sick",
+      "korean_translation": "아팠던",
+      "word_indices": [
+        376
+      ]
+    }
+  ]
+}

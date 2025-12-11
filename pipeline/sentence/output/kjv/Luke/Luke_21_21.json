@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Luke 21:21",
+  "version": "KJV",
+  "original_text": "Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.",
+  "korean_text": "그 때에 유대에 있는 자들은 산으로 도망갈 것이며 성내에 있는 자들은 나갈 것이며 촌에 있는 자들은 그리로 들어가지 말지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then let them which are in Judaea",
+      "korean_translation": "그러면 유대에 있는 자들은",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "flee to the mountains;",
+      "korean_translation": "산으로 도망하라",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let them which are in midst of it",
+      "korean_translation": "그 가운데 있는 자들은",
+      "word_indices": [
+        1,
+        77
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "depart out;",
+      "korean_translation": "나가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and let not them that are in the countries",
+      "korean_translation": "그리고 지방에 있는 자들은",
+      "word_indices": [
+        1,
+        137
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "enter thereinto.",
+      "korean_translation": "그리로 들어오지 말라",
+      "word_indices": [
+        5493
+      ]
+    }
+  ]
+}

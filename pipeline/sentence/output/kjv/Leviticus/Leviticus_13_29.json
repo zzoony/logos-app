@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Leviticus 13:29",
+  "version": "KJV",
+  "original_text": "If a man or woman have a plague upon the head or the beard;",
+  "korean_text": "남자나 여자의 머리에나 수염에 환부가 있으면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a man or woman",
+      "korean_translation": "만약 한 남자나 여자가",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "have a plague",
+      "korean_translation": "질병을 가지고 있다면",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "upon the head",
+      "korean_translation": "머리에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or the beard",
+      "korean_translation": "또는 수염에",
+      "word_indices": [
+        15,
+        1243
+      ]
+    }
+  ]
+}

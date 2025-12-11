@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 1:21",
+  "version": "KJV",
+  "original_text": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+  "korean_text": "또 묻되 그러면 누구냐 네가 엘리야냐 이르되 나는 아니라 또 묻되 네가 그 선지자냐 대답하되 아니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they asked him, What then?",
+      "korean_translation": "그들이 그에게 물었으되, 그러면 무엇인가?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Art thou Elias?",
+      "korean_translation": "너는 엘리야냐?",
+      "word_indices": [
+        965
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he saith, I am not.",
+      "korean_translation": "그가 말하되, 나는 아니라.",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Art thou that prophet?",
+      "korean_translation": "너는 그 예언자냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And he answered, No.",
+      "korean_translation": "그가 대답하되, 아니라.",
+      "word_indices": []
+    }
+  ]
+}

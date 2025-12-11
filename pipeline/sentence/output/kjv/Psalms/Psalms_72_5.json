@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 72:5",
+  "version": "KJV",
+  "original_text": "They shall fear thee as long as the sun and moon endure, throughout all generations.",
+  "korean_text": "그들이 해가 있을 동안에도 주를 두려워하며 달이 있을 동안에도 대대로 그리하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They shall fear thee",
+      "korean_translation": "그들이 주를 경외할 것이라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as long as the sun and moon endure",
+      "korean_translation": "해와 달이 존재하는 한",
+      "word_indices": [
+        144,
+        761
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "throughout all generations",
+      "korean_translation": "모든 세대에 걸쳐",
+      "word_indices": [
+        143,
+        206
+      ]
+    }
+  ]
+}

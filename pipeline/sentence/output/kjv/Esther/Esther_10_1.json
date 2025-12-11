@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Esther 10:1",
+  "version": "KJV",
+  "original_text": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.",
+  "korean_text": "아하수에로 왕이 그의 본토와 바다 섬들로 하여금 조공을 바치게 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And king Ahasuerus",
+      "korean_translation": "그리고 아하수에로 왕은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "laid a tribute upon the land",
+      "korean_translation": "땅에 조세를 부과했고",
+      "word_indices": [
+        10,
+        820
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and upon the isles of the sea",
+      "korean_translation": "바다의 섬들에도 조세를 부과했다",
+      "word_indices": [
+        65
+      ]
+    }
+  ]
+}

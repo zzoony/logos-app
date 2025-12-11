@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 22:24",
+  "version": "KJV",
+  "original_text": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.",
+  "korean_text": "나의 노가 맹렬하므로 내가 칼로 너희를 죽이리니 너희의 아내는 과부가 되고 너희 자녀는 고아가 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And my wrath shall wax hot",
+      "korean_translation": "그리고 나의 분노가 타오를 것이며",
+      "word_indices": [
+        160,
+        508,
+        930
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I will kill you with the sword",
+      "korean_translation": "내가 너를 칼로 죽일 것이며",
+      "word_indices": [
+        3,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and your wives shall be widows",
+      "korean_translation": "그리고 너희 아내들은 과부가 될 것이며",
+      "word_indices": [
+        397
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your children fatherless",
+      "korean_translation": "너희 자녀들은 아버지를 잃게 될 것이다",
+      "word_indices": []
+    }
+  ]
+}

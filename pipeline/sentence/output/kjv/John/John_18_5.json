@@ -1,0 +1,59 @@
+{
+  "verse_reference": "John 18:5",
+  "version": "KJV",
+  "original_text": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.",
+  "korean_text": "대답하되 나사렛 예수라 하거늘 이르시되 내가 그니라 하시니라 그를 파는 유다도 그들과 함께 섰더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They answered him",
+      "korean_translation": "그들이 그에게 대답하니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus of Nazareth",
+      "korean_translation": "나사렛 예수라고 하더라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus saith unto them",
+      "korean_translation": "예수께서 그들에게 이르시되",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am he",
+      "korean_translation": "내가 그니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And Judas also",
+      "korean_translation": "그리고 유다도",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "which betrayed him",
+      "korean_translation": "그를 배신한 자가",
+      "word_indices": [
+        837
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "stood with them",
+      "korean_translation": "그들과 함께 서 있더라",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 9:1",
+  "version": "KJV",
+  "original_text": "And he entered into a ship, and passed over, and came into his own city.",
+  "korean_text": "예수께서 배에 오르사 건너가 본 동네에 이르시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he entered into a ship",
+      "korean_translation": "그가 배에 들어갔고",
+      "word_indices": [
+        7,
+        301
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and passed over",
+      "korean_translation": "건너갔으며",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and came into his own city",
+      "korean_translation": "그리고 자기 도시에 이르렀습니다",
+      "word_indices": [
+        7,
+        12,
+        37
+      ]
+    }
+  ]
+}

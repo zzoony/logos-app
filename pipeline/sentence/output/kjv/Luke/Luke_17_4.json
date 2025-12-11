@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 17:4",
+  "version": "KJV",
+  "original_text": "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.",
+  "korean_text": "만일 하루에 일곱 번이라도 네게 죄를 짓고 일곱 번 네게 돌아와 내가 회개하노라 하거든 너는 용서하라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if he trespass against thee",
+      "korean_translation": "그가 만일 너를 거역하면",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "seven times in a day",
+      "korean_translation": "하루에 일곱 번",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and seven times in a day turn again to thee",
+      "korean_translation": "또 하루에 일곱 번 너에게 돌아와",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "saying, I repent",
+      "korean_translation": "내가 회개하노라고 말하거든",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "thou shalt forgive him",
+      "korean_translation": "너는 그를 용서하라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 18:5",
+  "version": "KJV",
+  "original_text": "The sorrows of hell compassed me about: the snares of death prevented me.",
+  "korean_text": "스올의 줄이 나를 두르고 사망의 올무가 내게 이르렀도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sorrows of hell",
+      "korean_translation": "지옥의 슬픔이",
+      "word_indices": [
+        351
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "compassed me about",
+      "korean_translation": "나를 둘러쌌으니",
+      "word_indices": [
+        383
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the snares of death",
+      "korean_translation": "죽음의 올무가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "prevented me",
+      "korean_translation": "내 앞을 막았도다",
+      "word_indices": [
+        1438
+      ]
+    }
+  ]
+}

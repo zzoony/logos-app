@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 22:1",
+  "version": "KJV",
+  "original_text": "And Jesus answered and spake unto them again by parables, and said,",
+  "korean_text": "예수께서 다시 비유로 대답하여 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus answered",
+      "korean_translation": "예수께서 대답하시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and spake unto them again",
+      "korean_translation": "다시 그들에게 말씀하셨다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by parables",
+      "korean_translation": "비유로 말씀하시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and said",
+      "korean_translation": "이르시되",
+      "word_indices": []
+    }
+  ]
+}

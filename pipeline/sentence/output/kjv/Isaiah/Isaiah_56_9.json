@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Isaiah 56:9",
+  "version": "KJV",
+  "original_text": "All ye beasts of the field, come to devour, yea, all ye beasts in the forest.",
+  "korean_text": "들의 모든 짐승들아 숲 가운데의 모든 짐승들아 와서 먹으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All ye beasts of the field",
+      "korean_translation": "들에 있는 모든 짐승들아",
+      "word_indices": [
+        84,
+        87
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "come to devour",
+      "korean_translation": "삼키러 오라",
+      "word_indices": [
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yea, all ye beasts in the forest",
+      "korean_translation": "그렇다, 숲속의 모든 짐승들도",
+      "word_indices": [
+        87,
+        752
+      ]
+    }
+  ]
+}

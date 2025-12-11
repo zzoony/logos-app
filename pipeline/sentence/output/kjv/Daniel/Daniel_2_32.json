@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Daniel 2:32",
+  "version": "KJV",
+  "original_text": "This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,",
+  "korean_text": "그 우상의 머리는 순금이요 가슴과 두 팔은 은이요 배와 넓적다리는 놋이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This image's head was of fine gold",
+      "korean_translation": "이 형상의 머리는 정금이었고",
+      "word_indices": [
+        69,
+        185,
+        291
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his breast and his arms of silver",
+      "korean_translation": "그의 가슴과 팔은 은이었으며",
+      "word_indices": [
+        692
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "his belly and his thighs of brass",
+      "korean_translation": "그의 배와 넓적다리는 놋이었더라",
+      "word_indices": [
+        627,
+        1097
+      ]
+    }
+  ]
+}

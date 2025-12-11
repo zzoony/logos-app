@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 John 4:18",
+  "version": "KJV",
+  "original_text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+  "korean_text": "사랑 안에 두려움이 없고 온전한 사랑이 두려움을 내쫓나니 두려움에는 형벌이 있음이라 두려워하는 자는 사랑 안에서 온전히 이루지 못하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is no fear in love",
+      "korean_translation": "사랑에는 두려움이 없습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but perfect love casteth out fear",
+      "korean_translation": "그러나 온전한 사랑은 두려움을 내어 쫓습니다",
+      "word_indices": [
+        304,
+        1396
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because fear hath torment",
+      "korean_translation": "이는 두려움이 고통을 주기 때문입니다",
+      "word_indices": [
+        1220
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He that feareth is not made perfect in love",
+      "korean_translation": "두려워하는 자는 사랑 안에서 온전하게 되지 못합니다",
+      "word_indices": [
+        304,
+        1261
+      ]
+    }
+  ]
+}

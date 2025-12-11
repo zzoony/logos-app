@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 15:17",
+  "version": "KJV",
+  "original_text": "Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?",
+  "korean_text": "입으로 들어가는 모든 것은 배로 들어가서 뒤로 내버려지는 줄 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not ye yet understand",
+      "korean_translation": "너희가 아직도 이해하지 못하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that whatsoever entereth in at the mouth",
+      "korean_translation": "입으로 들어가는 모든 것은",
+      "word_indices": [
+        60,
+        1246
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "goeth into the belly",
+      "korean_translation": "배 속으로 들어가며",
+      "word_indices": [
+        7,
+        240,
+        627
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and is cast out into the draught?",
+      "korean_translation": "뒤로 나가느냐?",
+      "word_indices": [
+        7,
+        2711
+      ]
+    }
+  ]
+}

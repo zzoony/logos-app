@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 119:131",
+  "version": "KJV",
+  "original_text": "I opened my mouth, and panted: for I longed for thy commandments.",
+  "korean_text": "내가 주의 계명들을 사모하므로 내가 입을 열고 헐떡였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I opened my mouth",
+      "korean_translation": "내가 내 입을 열었으니",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and panted",
+      "korean_translation": "헐떡였나이다",
+      "word_indices": [
+        3443
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I longed for thy commandments",
+      "korean_translation": "이는 내가 주의 계명을 사모함이로다",
+      "word_indices": [
+        85,
+        144
+      ]
+    }
+  ]
+}

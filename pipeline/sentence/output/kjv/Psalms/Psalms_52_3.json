@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 52:3",
+  "version": "KJV",
+  "original_text": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah.",
+  "korean_text": "네가 선보다 악을 사랑하며 의를 말함보다 거짓을 사랑하는도다 (셀라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou lovest evil more than good;",
+      "korean_translation": "네가 선보다 악을 더 사랑하며",
+      "word_indices": [
+        33,
+        35,
+        52
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and lying rather than to speak righteousness.",
+      "korean_translation": "의를 말하기보다 거짓을 사랑하는도다.",
+      "word_indices": [
+        52,
+        512
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Selah.",
+      "korean_translation": "셀라.",
+      "word_indices": []
+    }
+  ]
+}

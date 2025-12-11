@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 10:23",
+  "version": "KJV",
+  "original_text": "And Jesus walked in the temple in Solomon's porch.",
+  "korean_text": "예수께서 성전 안 솔로몬 행각에서 거니시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus walked",
+      "korean_translation": "예수님은 걸으셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the temple",
+      "korean_translation": "성전에서",
+      "word_indices": [
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Solomon's porch",
+      "korean_translation": "솔로몬의 행각에서",
+      "word_indices": [
+        750
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 17:33",
+  "version": "KJV",
+  "original_text": "Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.",
+  "korean_text": "무릇 자기 목숨을 보전하고자 하는 자는 잃을 것이요 잃는 자는 살리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whosoever shall seek to save his life",
+      "korean_translation": "자기의 생명을 구하려고 하는 자는",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall lose it",
+      "korean_translation": "잃을 것이라",
+      "word_indices": [
+        553
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and whosoever shall lose his life",
+      "korean_translation": "자기의 생명을 잃는 자는",
+      "word_indices": [
+        53,
+        553
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall preserve it",
+      "korean_translation": "보전하리라",
+      "word_indices": [
+        680
+      ]
+    }
+  ]
+}

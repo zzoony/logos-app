@@ -1,0 +1,56 @@
+{
+  "verse_reference": "John 12:24",
+  "version": "KJV",
+  "original_text": "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 한 알의 밀이 땅에 떨어져 죽지 아니하면 한 알 그대로 있고 죽으면 많은 열매를 맺느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로, 진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Except a corn of wheat fall into the ground and die",
+      "korean_translation": "한 알의 밀이 땅에 떨어져 죽지 아니하면",
+      "word_indices": [
+        7,
+        44,
+        326,
+        618,
+        3499
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it abideth alone",
+      "korean_translation": "그것은 홀로 있으려니와",
+      "word_indices": [
+        306,
+        959
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but if it die",
+      "korean_translation": "만일 그것이 죽으면",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "it bringeth forth much fruit",
+      "korean_translation": "많은 열매를 맺느니라",
+      "word_indices": [
+        25,
+        105,
+        124,
+        407
+      ]
+    }
+  ]
+}

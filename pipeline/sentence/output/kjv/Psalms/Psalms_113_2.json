@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 113:2",
+  "version": "KJV",
+  "original_text": "Blessed be the name of the Lord from this time forth and for evermore.",
+  "korean_text": "이제부터 영원까지 여호와의 이름을 찬송할지로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed be the name of the Lord",
+      "korean_translation": "여호와의 이름이 복받으실지어다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from this time forth",
+      "korean_translation": "이 때로부터",
+      "word_indices": [
+        25,
+        30
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and for evermore",
+      "korean_translation": "영원토록",
+      "word_indices": [
+        1058
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 82:3",
+  "version": "KJV",
+  "original_text": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+  "korean_text": "가난한 자와 고아를 위하여 판단하며 곤란한 자와 빈궁한 자에게 공의를 베풀지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Defend the poor",
+      "korean_translation": "가난한 자를 보호하라",
+      "word_indices": [
+        153,
+        1569
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and fatherless:",
+      "korean_translation": "고아를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do justice to the afflicted",
+      "korean_translation": "고통받는 자에게 정의를 행하라",
+      "word_indices": [
+        365,
+        993
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and needy.",
+      "korean_translation": "궁핍한 자에게.",
+      "word_indices": [
+        803
+      ]
+    }
+  ]
+}

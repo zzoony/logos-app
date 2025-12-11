@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 7:41",
+  "version": "KJV",
+  "original_text": "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.",
+  "korean_text": "이르시되 빚 주는 사람에게 빚진 자가 둘이 있어 하나는 오백 데나리온을 졌고 하나는 오십 데나리온을 졌는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There was a certain creditor",
+      "korean_translation": "어떤 채주가 있었는데",
+      "word_indices": [
+        164,
+        2911
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which had two debtors",
+      "korean_translation": "그에게 두 명의 채무자가 있었습니다",
+      "word_indices": [
+        2049
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the one owed five hundred pence",
+      "korean_translation": "한 사람은 오백 데나리온을 졌고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the other fifty",
+      "korean_translation": "다른 한 사람은 오십 데나리온을 졌습니다",
+      "word_indices": [
+        56,
+        196
+      ]
+    }
+  ]
+}

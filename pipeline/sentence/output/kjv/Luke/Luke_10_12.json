@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 10:12",
+  "version": "KJV",
+  "original_text": "But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.",
+  "korean_text": "내가 너희에게 말하노니 그 날에 소돔이 그 동네보다 견디기 쉬우리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I say unto you",
+      "korean_translation": "하지만 내가 너희에게 말하노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it shall be more tolerable",
+      "korean_translation": "그것이 더 견디기 쉬울 것이라",
+      "word_indices": [
+        33,
+        2554
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in that day",
+      "korean_translation": "그날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for Sodom",
+      "korean_translation": "소돔을 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "than for that city",
+      "korean_translation": "그 도시보다 더",
+      "word_indices": [
+        12,
+        52
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Samuel 18:18",
+  "version": "KJV",
+  "original_text": "And David said unto Saul, Who am I? and what is my life, or my father's family in Israel, that I should be son in law to the king?",
+  "korean_text": "다윗이 사울에게 이르되 내가 누구며 이스라엘 중에 내 친속이나 내 아버지의 집이 무엇이기에 내가 왕의 사위가 되리이까 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And David said unto Saul",
+      "korean_translation": "다윗이 사울에게 말하니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who am I?",
+      "korean_translation": "내가 누구이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and what is my life",
+      "korean_translation": "나의 생명은 무엇이며",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or my father's family in Israel",
+      "korean_translation": "이스라엘에서 나의 아비 집은 무엇이기에",
+      "word_indices": [
+        15,
+        100
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that I should be son in law to the king?",
+      "korean_translation": "내가 왕의 사위가 되리이까",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

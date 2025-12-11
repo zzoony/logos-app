@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Matthew 25:37",
+  "version": "KJV",
+  "original_text": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?",
+  "korean_text": "이에 의인들이 대답하여 이르되 주여 우리가 어느 때에 주께서 주리신 것을 보고 음식을 대접하였으며 목마르신 것을 보고 마시게 하였나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then shall the righteous answer him",
+      "korean_translation": "그러면 의인들이 그에게 대답하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, Lord",
+      "korean_translation": "이르되 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when saw we thee an hungred",
+      "korean_translation": "우리가 주께서 주리신 것을 언제 보고",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and fed thee?",
+      "korean_translation": "먹이지 아니하였나이까",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or thirsty",
+      "korean_translation": "혹 목마른 것을 언제 보고",
+      "word_indices": [
+        15,
+        1385
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and gave thee drink?",
+      "korean_translation": "마시게 하지 아니하였나이까",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

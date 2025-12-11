@@ -1,0 +1,69 @@
+{
+  "verse_reference": "John 15:20",
+  "version": "KJV",
+  "original_text": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.",
+  "korean_text": "내가 너희에게 종이 주인보다 더 크지 못하다 한 말을 기억하라 사람들이 나를 박해하였은즉 너희도 박해할 것이요 내 말을 지켰은즉 너희 말도 지킬 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember the word",
+      "korean_translation": "그 말씀을 기억하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I said unto you",
+      "korean_translation": "내가 너희에게 이르렀던",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The servant is not greater",
+      "korean_translation": "종은 주인보다 더 크지 않다",
+      "word_indices": [
+        19,
+        414
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than his lord",
+      "korean_translation": "자기 주인보다",
+      "word_indices": [
+        52
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If they have persecuted me",
+      "korean_translation": "그들이 나를 박해하였으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "they will also persecute you",
+      "korean_translation": "너희도 박해할 것이요",
+      "word_indices": [
+        3,
+        9,
+        686
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "if they have kept my saying",
+      "korean_translation": "그들이 내 말을 지켰으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "they will keep yours also",
+      "korean_translation": "너희의 것도 지킬 것이라",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

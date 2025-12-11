@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 3:31",
+  "version": "KJV",
+  "original_text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+  "korean_text": "위로부터 오시는 이는 만물 위에 계시고 땅에서 난 이는 땅에 속하여 땅에 속한 것을 말하느니라 하늘로부터 오시는 이는 만물 위에 계시나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that cometh from above is above all:",
+      "korean_translation": "위에서 오시는 이는 만물 위에 계시고",
+      "word_indices": [
+        109,
+        145
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he that is of the earth is earthly,",
+      "korean_translation": "땅에 속한 자는 땅에 속하며",
+      "word_indices": [
+        2799
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and speaketh of the earth:",
+      "korean_translation": "땅에 속한 것을 말하되",
+      "word_indices": [
+        428
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he that cometh from heaven is above all.",
+      "korean_translation": "하늘에서 오시는 이는 만물 위에 계시니라",
+      "word_indices": [
+        109,
+        145
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Proverbs 13:7",
+  "version": "KJV",
+  "original_text": "There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.",
+  "korean_text": "스스로 부1)한 체하여도 아무 것도 없는 자가 있고 스스로 가난1)한 체하여도 재물이 많은 자가 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is that maketh himself rich",
+      "korean_translation": "스스로 부자가 되는 사람이 있고",
+      "word_indices": [
+        178,
+        262
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet hath nothing",
+      "korean_translation": "그러나 아무것도 가지지 못하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there is that maketh himself poor",
+      "korean_translation": "스스로 가난하게 되는 사람이 있고",
+      "word_indices": [
+        153,
+        262
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yet hath great riches",
+      "korean_translation": "그러나 큰 부를 가지고 있느니라",
+      "word_indices": [
+        178
+      ]
+    }
+  ]
+}

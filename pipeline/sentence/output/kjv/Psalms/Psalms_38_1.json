@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 38:1",
+  "version": "KJV",
+  "original_text": "O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+  "korean_text": "여호와여 주의 노하심으로 나를 책망하지 마시고 주의 분노하심으로 나를 징계하지 마소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rebuke me not in thy wrath",
+      "korean_translation": "진노하심으로 나를 책망하지 마시고",
+      "word_indices": [
+        160,
+        420
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither chasten me in thy hot displeasure",
+      "korean_translation": "뜨거운 분노로 나를 징계하지 마소서",
+      "word_indices": [
+        930,
+        1254,
+        2648
+      ]
+    }
+  ]
+}

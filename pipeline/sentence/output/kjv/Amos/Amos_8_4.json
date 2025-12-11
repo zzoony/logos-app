@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Amos 8:4",
+  "version": "KJV",
+  "original_text": "Hear this, O ye that swallow up the needy, even to make the poor of the land to fail,",
+  "korean_text": "가난한 자를 삼키며 땅의 힘없는 자를 망하게 하려는 자들아 이 말을 들으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hear this",
+      "korean_translation": "이것을 들으라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O ye that swallow up the needy",
+      "korean_translation": "가난한 자를 삼키는 너희여",
+      "word_indices": [
+        645,
+        803
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even to make the poor of the land to fail",
+      "korean_translation": "이 땅의 가난한 자들이 망하게 하려 하느니라",
+      "word_indices": [
+        10,
+        153,
+        411
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Corinthians 9:8",
+  "version": "KJV",
+  "original_text": "Say I these things as a man? or saith not the law the same also?",
+  "korean_text": "내가 사람의 예대로 이것을 말하느냐 율법도 이것을 말하지 아니하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Say I these things as a man?",
+      "korean_translation": "내가 사람으로서 이런 것을 말합니까?",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or saith not law",
+      "korean_translation": "혹은 율법이 말하지 않습니까?",
+      "word_indices": [
+        13,
+        15,
+        42
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "same also?",
+      "korean_translation": "또한 똑같이 말합니까?",
+      "word_indices": [
+        9,
+        90
+      ]
+    }
+  ]
+}

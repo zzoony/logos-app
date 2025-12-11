@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Isaiah 28:23",
+  "version": "KJV",
+  "original_text": "Give ye ear, and hear my voice; hearken, and hear my speech.",
+  "korean_text": "너희는 귀를 기울여 내 목소리를 들으라 자세히 내 말을 들으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give ye ear",
+      "korean_translation": "너희는 귀를 기울이고",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and hear my voice",
+      "korean_translation": "나의 음성을 들으라",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hearken",
+      "korean_translation": "경청하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and hear my speech",
+      "korean_translation": "나의 말씀을 들으라",
+      "word_indices": [
+        560
+      ]
+    }
+  ]
+}

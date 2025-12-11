@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Deuteronomy 8:12",
+  "version": "KJV",
+  "original_text": "Lest when thou hast eaten and art full, and hast built goodly houses, and dwelt therein;",
+  "korean_text": "네가 먹어서 배부르고 아름다운 집을 짓고 거주하게 되며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lest when thou hast eaten and art full",
+      "korean_translation": "네가 먹고 배부른 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and hast built goodly houses",
+      "korean_translation": "아름다운 집을 짓고",
+      "word_indices": [
+        890
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and dwelt therein",
+      "korean_translation": "그 집에 거하게 될 때에",
+      "word_indices": [
+        141
+      ]
+    }
+  ]
+}

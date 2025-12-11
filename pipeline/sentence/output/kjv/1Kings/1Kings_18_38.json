@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 Kings 18:38",
+  "version": "KJV",
+  "original_text": "Then the fire of the Lord fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that was in the trench.",
+  "korean_text": "이에 여호와의 불이 내려서 번제물과 나무와 돌과 흙을 태우고 또 도랑의 물을 핥은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the fire of the Lord fell,",
+      "korean_translation": "그러자 여호와의 불이 내려와서",
+      "word_indices": [
+        41,
+        129
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and consumed the burnt sacrifice,",
+      "korean_translation": "번제물을 태웠고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the wood,",
+      "korean_translation": "나무를 태웠으며",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the stones,",
+      "korean_translation": "돌들을 태웠고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the dust,",
+      "korean_translation": "먼지를 태웠으며",
+      "word_indices": [
+        305
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and licked up the water that was in the trench.",
+      "korean_translation": "도랑에 있던 물도 핥아버렸다",
+      "word_indices": [
+        32,
+        1974,
+        2129
+      ]
+    }
+  ]
+}

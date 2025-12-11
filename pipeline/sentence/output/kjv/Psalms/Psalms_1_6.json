@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 1:6",
+  "version": "KJV",
+  "original_text": "For the Lord knoweth the way of the righteous: but the way of the ungodly shall perish.",
+  "korean_text": "무릇 의인들의 길은 여호와께서 인정하시나 악인들의 길은 망하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the Lord knoweth the way of the righteous",
+      "korean_translation": "주께서는 의인들의 길을 아시나니",
+      "word_indices": [
+        26,
+        313
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but the way of the ungodly shall perish",
+      "korean_translation": "그러나 악인들의 길은 망하리라",
+      "word_indices": [
+        26,
+        224,
+        1039
+      ]
+    }
+  ]
+}

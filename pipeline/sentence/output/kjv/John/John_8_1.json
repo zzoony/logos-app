@@ -1,0 +1,22 @@
+{
+  "verse_reference": "John 8:1",
+  "version": "KJV",
+  "original_text": "Jesus went unto the mount of Olives.",
+  "korean_text": "예수는 감람 산으로 가시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus went unto",
+      "korean_translation": "예수께서 ~으로 가셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the mount of Olives",
+      "korean_translation": "올리브 산으로",
+      "word_indices": [
+        112
+      ]
+    }
+  ]
+}

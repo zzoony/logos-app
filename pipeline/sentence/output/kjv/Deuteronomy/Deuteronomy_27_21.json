@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Deuteronomy 27:21",
+  "version": "KJV",
+  "original_text": "Cursed be he that lieth with any manner of beast. And all the people shall say, Amen.",
+  "korean_text": "짐승과 교합하는 모든 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be he",
+      "korean_translation": "저주를 받을 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that lieth with any manner of beast.",
+      "korean_translation": "어떤 종류의 짐승과 동침하는 자라.",
+      "word_indices": [
+        22,
+        87,
+        156,
+        528
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And all the people shall say,",
+      "korean_translation": "모든 백성은 말할지니,",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Amen.",
+      "korean_translation": "아멘이라.",
+      "word_indices": []
+    }
+  ]
+}

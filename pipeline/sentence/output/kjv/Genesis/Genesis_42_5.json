@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 42:5",
+  "version": "KJV",
+  "original_text": "And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.",
+  "korean_text": "이스라엘의 아들들이 양식 사러 간 자 중에 있으니 가나안 땅에 기근이 있음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the sons of Israel came to buy corn",
+      "korean_translation": "이스라엘 아들들이 와서 곡식을 사려고 했으며",
+      "word_indices": [
+        326
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "among those that came",
+      "korean_translation": "온 사람들 중에 있었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the famine was in the land of Canaan",
+      "korean_translation": "가나안 땅에 기근이 있었기 때문이었다",
+      "word_indices": [
+        10,
+        340
+      ]
+    }
+  ]
+}

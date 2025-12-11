@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 119:72",
+  "version": "KJV",
+  "original_text": "The law of thy mouth is better unto me than thousands of gold and silver.",
+  "korean_text": "주의 입의 법이 내게는 천천 금은보다 좋으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The law of thy mouth",
+      "korean_translation": "주의 입의 법",
+      "word_indices": [
+        42,
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is better unto me",
+      "korean_translation": "나에게는 더 좋으니",
+      "word_indices": [
+        274
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "than thousands of gold and silver",
+      "korean_translation": "수천 금과 은보다",
+      "word_indices": [
+        38,
+        52,
+        69
+      ]
+    }
+  ]
+}

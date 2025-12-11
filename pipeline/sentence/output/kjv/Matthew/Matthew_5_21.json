@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 5:21",
+  "version": "KJV",
+  "original_text": "Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:",
+  "korean_text": "옛 사람에게 말한 바 살인하지 말라 누구든지 살인하면 심판을 받게 되리라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye have heard",
+      "korean_translation": "너희가 들었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it was said",
+      "korean_translation": "말씀이 되었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of them of old time",
+      "korean_translation": "옛 사람들에게",
+      "word_indices": [
+        1,
+        30,
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Thou shalt not kill",
+      "korean_translation": "살인하지 말라",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and whosoever shall kill",
+      "korean_translation": "누구든지 살인하면",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "shall be in danger of judgment",
+      "korean_translation": "심판을 받게 되리라",
+      "word_indices": [
+        66,
+        2346
+      ]
+    }
+  ]
+}

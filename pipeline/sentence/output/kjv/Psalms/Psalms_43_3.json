@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 43:3",
+  "version": "KJV",
+  "original_text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+  "korean_text": "주의 빛과 주의 진리를 보내시어 나를 인도하시고 주의 거룩한 산과 주께서 계시는 곳에 이르게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O send out thy light",
+      "korean_translation": "오, 주의 빛을 보내소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and thy truth",
+      "korean_translation": "그리고 주의 진리를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let them lead me",
+      "korean_translation": "그것들이 나를 인도하게 하소서",
+      "word_indices": [
+        1,
+        256
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "let them bring me unto thy holy hill",
+      "korean_translation": "그것들이 나를 주의 거룩한 산으로 이끌게 하소서",
+      "word_indices": [
+        1,
+        232
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to thy tabernacles",
+      "korean_translation": "그리고 주의 장막으로",
+      "word_indices": []
+    }
+  ]
+}

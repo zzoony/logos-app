@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 10:4",
+  "version": "KJV",
+  "original_text": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.",
+  "korean_text": "자기 양을 다 내놓은 후에 앞서 가면 양들이 그의 음성을 아는 고로 따라오되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when he putteth forth his own sheep,",
+      "korean_translation": "그가 자기 양을 내어 놓을 때에,",
+      "word_indices": [
+        25,
+        37,
+        170,
+        953
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he goeth before them,",
+      "korean_translation": "그가 그들 앞에 간다",
+      "word_indices": [
+        1,
+        240
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the sheep follow him:",
+      "korean_translation": "그리고 양들이 그를 따른다",
+      "word_indices": [
+        170
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for they know his voice.",
+      "korean_translation": "그들이 그의 목소리를 알기 때문이다",
+      "word_indices": [
+        45
+      ]
+    }
+  ]
+}

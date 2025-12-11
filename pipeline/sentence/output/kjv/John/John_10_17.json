@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 10:17",
+  "version": "KJV",
+  "original_text": "Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+  "korean_text": "내가 내 목숨을 버리는 것은 그것을 내가 다시 얻기 위함이니 이로 말미암아 아버지께서 나를 사랑하시느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore doth my Father love me",
+      "korean_translation": "그러므로 나의 아버지께서 나를 사랑하시는 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because I lay down my life",
+      "korean_translation": "내가 내 목숨을 버리기 때문이니",
+      "word_indices": [
+        14,
+        53
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I might take it again",
+      "korean_translation": "내가 그것을 다시 얻으려 함이라",
+      "word_indices": [
+        55
+      ]
+    }
+  ]
+}

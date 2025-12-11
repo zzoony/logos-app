@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 6:1",
+  "version": "KJV",
+  "original_text": "Then the Lord said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.",
+  "korean_text": "여호와께서 모세에게 이르시되 이제 내가 바로에게 하는 일을 네가 보리라 강한 손으로 말미암아 바로가 그들을 보내리라 강한 손으로 말미암아 바로가 그들을 그의 땅에서 쫓아내리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said unto Moses",
+      "korean_translation": "그때 주께서 모세에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now shalt thou see what I will do to Pharaoh",
+      "korean_translation": "네가 내가 바로에게 할 일을 볼 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for with a strong hand shall he let them go",
+      "korean_translation": "이는 강한 손으로 그가 그들을 보내줄 것이기 때문이다",
+      "word_indices": [
+        1,
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and with a strong hand shall he drive them out of his land",
+      "korean_translation": "그리고 강한 손으로 그가 그들을 자기 땅에서 몰아낼 것이다",
+      "word_indices": [
+        1,
+        8,
+        10
+      ]
+    }
+  ]
+}

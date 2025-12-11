@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 41:49",
+  "version": "KJV",
+  "original_text": "And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.",
+  "korean_text": "쌓아 둔 곡식이 바다 모래 같이 심히 많아 세기를 그쳤으니 그 수가 한이 없음이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Joseph gathered corn as the sand of the sea,",
+      "korean_translation": "요셉이 바다의 모래 같이 곡식을 모으니",
+      "word_indices": [
+        65,
+        326,
+        994
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "very much,",
+      "korean_translation": "매우 많아서",
+      "word_indices": [
+        105,
+        119
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until he left numbering;",
+      "korean_translation": "세는 것을 그만 두었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for it was without number.",
+      "korean_translation": "이는 셀 수 없었기 때문이라",
+      "word_indices": [
+        64
+      ]
+    }
+  ]
+}

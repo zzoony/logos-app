@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 5:24",
+  "version": "KJV",
+  "original_text": "And Jesus went with him; and much people followed him, and thronged him.",
+  "korean_text": "이에 그와 함께 가실새 큰 무리가 따라가며 에워싸 밀더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus went with him",
+      "korean_translation": "예수님은 그와 함께 가셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and much people followed him",
+      "korean_translation": "많은 사람들이 그를 따랐으며",
+      "word_indices": [
+        5,
+        105
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and thronged him",
+      "korean_translation": "그를 몰려들었다",
+      "word_indices": [
+        2795
+      ]
+    }
+  ]
+}

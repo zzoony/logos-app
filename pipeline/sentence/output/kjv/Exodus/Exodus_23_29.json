@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Exodus 23:29",
+  "version": "KJV",
+  "original_text": "I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.",
+  "korean_text": "그러나 그 땅이 황폐하게 됨으로 들짐승이 번성하여 너희를 해할까 하여 일 년 안에는 그들을 네 앞에서 쫓아내지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will not drive them out from before thee",
+      "korean_translation": "내가 너의 앞에서 그들을 쫓아내지 않으리라",
+      "word_indices": [
+        1,
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in one year",
+      "korean_translation": "일 년 안에",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lest the land become desolate",
+      "korean_translation": "그 땅이 황폐해지지 않게 하기 위함이라",
+      "word_indices": [
+        10,
+        132
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the beast of the field multiply against thee",
+      "korean_translation": "그리고 들의 짐승이 너를 대적하여 번성하지 않게 하기 위함이라",
+      "word_indices": [
+        2,
+        84,
+        87,
+        360
+      ]
+    }
+  ]
+}

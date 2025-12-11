@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 21:15",
+  "version": "KJV",
+  "original_text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.",
+  "korean_text": "내가 너희의 모든 대적이 능히 대항하거나 변박할 수 없는 구변과 지혜를 너희에게 주리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I will give you a mouth",
+      "korean_translation": "내가 너에게 입을 주리니",
+      "word_indices": [
+        3,
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and wisdom",
+      "korean_translation": "과 지혜를 주리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which all your adversaries shall not be able",
+      "korean_translation": "이는 너의 모든 대적들이 능하지 못하리라",
+      "word_indices": [
+        209,
+        540
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to gainsay nor resist",
+      "korean_translation": "반박하거나 대항하지 못하리라",
+      "word_indices": [
+        31,
+        1722,
+        3129
+      ]
+    }
+  ]
+}

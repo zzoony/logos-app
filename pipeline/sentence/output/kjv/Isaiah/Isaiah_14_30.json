@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 14:30",
+  "version": "KJV",
+  "original_text": "And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant.",
+  "korean_text": "가난한 자의 장자는 먹겠고 궁핍한 자는 평안히 누우려니와 내가 네 뿌리를 기근으로 죽일 것이요 네게 남은 자는 살륙을 당하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the firstborn of the poor shall feed",
+      "korean_translation": "가난한 자의 장자는 먹을 것이며",
+      "word_indices": [
+        153,
+        292
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the needy shall lie down in safety",
+      "korean_translation": "궁핍한 자는 안전히 누우리라",
+      "word_indices": [
+        14,
+        803,
+        1285
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will kill thy root with famine",
+      "korean_translation": "내가 기근으로 네 뿌리를 죽이리라",
+      "word_indices": [
+        161,
+        340
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he shall slay thy remnant",
+      "korean_translation": "그가 네 남은 자를 죽이리라",
+      "word_indices": [
+        362
+      ]
+    }
+  ]
+}

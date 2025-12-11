@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 24:28",
+  "version": "KJV",
+  "original_text": "And the damsel ran, and told them of her mother's house these things.",
+  "korean_text": "소녀가 달려가서 이 일을 어머니 집에 알렸더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the damsel ran",
+      "korean_translation": "그리고 처녀는 달려갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and told them",
+      "korean_translation": "그들에게 말했으며",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of her mother's house these things",
+      "korean_translation": "그녀 어머니 집에 이러한 일들을",
+      "word_indices": [
+        4,
+        11
+      ]
+    }
+  ]
+}

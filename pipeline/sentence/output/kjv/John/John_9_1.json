@@ -1,0 +1,29 @@
+{
+  "verse_reference": "John 9:1",
+  "version": "KJV",
+  "original_text": "And as Jesus passed by, he saw a man which was blind from his birth.",
+  "korean_text": "예수께서 길을 가실 때에 날 때부터 맹인 된 사람을 보신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as Jesus passed by",
+      "korean_translation": "예수님께서 지나가실 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he saw a man",
+      "korean_translation": "그분은 한 사람을 보셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which was blind from his birth",
+      "korean_translation": "그는 태어날 때부터 눈이 멀었다",
+      "word_indices": [
+        380,
+        1484
+      ]
+    }
+  ]
+}

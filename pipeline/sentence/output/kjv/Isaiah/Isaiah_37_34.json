@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 37:34",
+  "version": "KJV",
+  "original_text": "By the way that he came, by the same shall he return, and shall not come into this city, saith the Lord.",
+  "korean_text": "그가 오던 길 곧 그 길로 돌아가고 이 성에 이르지 못하리라 나 여호와의 말이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By the way that he came",
+      "korean_translation": "그가 온 그 길로",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by the same shall he return",
+      "korean_translation": "그가 왔던 것과 같은 길로 돌아오리라",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shall not come into this city",
+      "korean_translation": "이 성에 들어오지 못하리라",
+      "word_indices": [
+        7,
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "saith the Lord",
+      "korean_translation": "주께서 말씀하시느니라",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Matthew 12:33",
+  "version": "KJV",
+  "original_text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit.",
+  "korean_text": "나무도 좋고 열매도 좋다 하든지 나무도 좋지 않고 열매도 좋지 않다 하든지 하라 그 열매로 나무를 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Either make the tree good",
+      "korean_translation": "나무를 좋게 만들든지",
+      "word_indices": [
+        81,
+        740
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his fruit good;",
+      "korean_translation": "그 열매도 좋게 만들라",
+      "word_indices": [
+        124
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or else make the tree corrupt",
+      "korean_translation": "그렇지 않으면 나무를 썩게 만들든지",
+      "word_indices": [
+        15,
+        81,
+        651,
+        658
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his fruit corrupt:",
+      "korean_translation": "그 열매도 썩게 만들라",
+      "word_indices": [
+        124,
+        651
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for the tree is known",
+      "korean_translation": "나무는 그것으로 알려지느니라",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "by his fruit.",
+      "korean_translation": "그 열매로 말이다.",
+      "word_indices": [
+        124
+      ]
+    }
+  ]
+}

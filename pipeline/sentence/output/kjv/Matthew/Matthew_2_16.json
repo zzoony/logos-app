@@ -1,0 +1,90 @@
+{
+  "verse_reference": "Matthew 2:16",
+  "version": "KJV",
+  "original_text": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.",
+  "korean_text": "이에 헤롯이 박사들에게 속은 줄 알고 심히 노하여 사람을 보내어 베들레헴과 그 모든 지경 안에 있는 사내아이를 박사들에게 자세히 알아본 그 때를 기준하여 두 살부터 그 아래로 다 죽이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Herod",
+      "korean_translation": "그때 헤롯은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he saw that he was mocked of the wise men",
+      "korean_translation": "박사들에게 조롱당했다는 것을 알았을 때",
+      "word_indices": [
+        127,
+        793
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was exceeding wroth",
+      "korean_translation": "심하게 분노하여",
+      "word_indices": [
+        476,
+        642
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sent forth",
+      "korean_translation": "그리고 보내어",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and slew all the children",
+      "korean_translation": "모든 어린이들을 죽였다",
+      "word_indices": [
+        162
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that were in Bethlehem",
+      "korean_translation": "베들레헴에 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and in all the coasts thereof",
+      "korean_translation": "그리고 그 지역의 모든 경계 지역에 있는",
+      "word_indices": [
+        24,
+        294
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "from two years old and under",
+      "korean_translation": "두 살 이하의",
+      "word_indices": [
+        23,
+        74
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "according to the time",
+      "korean_translation": "그 시간에 따라",
+      "word_indices": [
+        28,
+        30
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "which he had diligently inquired of the wise men",
+      "korean_translation": "그가 박사들에게 부지런히 물었던",
+      "word_indices": [
+        127,
+        824
+      ]
+    }
+  ]
+}

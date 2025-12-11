@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 21:3",
+  "version": "KJV",
+  "original_text": "Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.",
+  "korean_text": "이제 당신의 수중에 무엇이 있나이까 떡 다섯 덩이나 무엇이나 있는 대로 내 손에 주소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now therefore what is under thine hand?",
+      "korean_translation": "그러므로 당신 손에 있는 것이 무엇입니까?",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "give me five loaves of bread",
+      "korean_translation": "나에게 떡 다섯 개를 주세요",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in mine hand",
+      "korean_translation": "내 손에",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or what there is present",
+      "korean_translation": "또는 현재 있는 것이 무엇이든",
+      "word_indices": [
+        15,
+        242
+      ]
+    }
+  ]
+}

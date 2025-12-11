@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 95:5",
+  "version": "KJV",
+  "original_text": "The sea is his, and he made it: and his hands formed the dry land.",
+  "korean_text": "바다도 그의 것이라 그가 만드셨고 육지도 그의 손이 지으셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sea is his",
+      "korean_translation": "바다는 그의 것이다",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he made it",
+      "korean_translation": "그리고 그가 그것을 만드셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his hands formed the dry land",
+      "korean_translation": "그리고 그의 손이 마른 땅을 형성했다",
+      "word_indices": [
+        8,
+        10,
+        302,
+        527
+      ]
+    }
+  ]
+}

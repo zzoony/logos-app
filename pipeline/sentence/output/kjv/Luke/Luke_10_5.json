@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 10:5",
+  "version": "KJV",
+  "original_text": "And into whatsoever house ye enter, first say, Peace be to this house.",
+  "korean_text": "어느 집에 들어가든지 먼저 말하되 이 집이 평안할지어다 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And into whatsoever house ye enter",
+      "korean_translation": "그리고 너희가 어떤 집에 들어가든지",
+      "word_indices": [
+        4,
+        7
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "first say",
+      "korean_translation": "먼저 말하라",
+      "word_indices": [
+        61
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Peace be to this house",
+      "korean_translation": "이 집에 평화가 있기를",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

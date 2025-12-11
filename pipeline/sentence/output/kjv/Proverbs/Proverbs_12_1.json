@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Proverbs 12:1",
+  "version": "KJV",
+  "original_text": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
+  "korean_text": "훈계를 좋아하는 자는 지식을 좋아하거니와 징계를 싫어하는 자는 짐승과 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoso loveth instruction",
+      "korean_translation": "훈계를 사랑하는 자는",
+      "word_indices": [
+        482,
+        903
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "loveth knowledge",
+      "korean_translation": "지식을 사랑하느니라",
+      "word_indices": [
+        186,
+        482
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but he that hateth reproof",
+      "korean_translation": "그러나 책망을 미워하는 자는",
+      "word_indices": [
+        932,
+        1398
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is brutish",
+      "korean_translation": "우매하니라",
+      "word_indices": [
+        1800
+      ]
+    }
+  ]
+}

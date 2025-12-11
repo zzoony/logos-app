@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 11:45",
+  "version": "KJV",
+  "original_text": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.",
+  "korean_text": "마리아에게 와서 예수께서 하신 일을 본 많은 유대인이 그를 믿었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then many of the Jews",
+      "korean_translation": "그때 많은 유대인들이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which came to Mary",
+      "korean_translation": "마리아에게 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and had seen the things",
+      "korean_translation": "그리고 그 일들을 보고는",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which Jesus did",
+      "korean_translation": "예수께서 행하신",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "believed on him",
+      "korean_translation": "그를 믿었더라",
+      "word_indices": []
+    }
+  ]
+}

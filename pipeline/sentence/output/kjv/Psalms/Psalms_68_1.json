@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 68:1",
+  "version": "KJV",
+  "original_text": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+  "korean_text": "하나님이 일어나시니 원수들은 흩어지며 주를 미워하는 자들은 주 앞에서 도망하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let God arise",
+      "korean_translation": "하나님이 일어나시게 하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let his enemies be scattered",
+      "korean_translation": "그의 원수들이 흩어지게 하라",
+      "word_indices": [
+        75,
+        303
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let them also that hate him",
+      "korean_translation": "그를 미워하는 자들도",
+      "word_indices": [
+        1,
+        9,
+        378
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "flee before him",
+      "korean_translation": "그 앞에서 도망하게 하라",
+      "word_indices": []
+    }
+  ]
+}

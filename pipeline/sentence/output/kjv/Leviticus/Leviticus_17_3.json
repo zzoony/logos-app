@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Leviticus 17:3",
+  "version": "KJV",
+  "original_text": "What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,",
+  "korean_text": "이스라엘 집의 모든 사람이 소나 어린 양이나 염소를 진영 안에서 잡든지 진영 밖에서 잡든지",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What man soever there be of the house of Israel",
+      "korean_translation": "이스라엘 족속 중 어떤 사람이든지",
+      "word_indices": [
+        4,
+        1426
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that killeth an ox",
+      "korean_translation": "소를 잡거나",
+      "word_indices": [
+        195,
+        1134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or lamb",
+      "korean_translation": "양을 잡거나",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or goat",
+      "korean_translation": "염소를 잡는 자는",
+      "word_indices": [
+        15,
+        246
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the camp",
+      "korean_translation": "진 안에서 잡든지",
+      "word_indices": [
+        230
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or that killeth it out of the camp",
+      "korean_translation": "진 밖에서 잡든지",
+      "word_indices": [
+        15,
+        230,
+        1134
+      ]
+    }
+  ]
+}

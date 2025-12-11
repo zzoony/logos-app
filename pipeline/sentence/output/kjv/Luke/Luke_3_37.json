@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 3:37",
+  "version": "KJV",
+  "original_text": "Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan,",
+  "korean_text": "그 위는 므두셀라요 그 위는 에녹이요 그 위는 야렛이요 그 위는 마할랄렐이요 그 위는 가이난이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Which was the son of Mathusala",
+      "korean_translation": "그는 마두살라의 아들이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which was the son of Enoch",
+      "korean_translation": "에녹의 아들이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which was the son of Jared",
+      "korean_translation": "야렛의 아들이며",
+      "word_indices": [
+        2365
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which was the son of Maleleel",
+      "korean_translation": "마할랄렐의 아들이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "which was the son of Cainan",
+      "korean_translation": "가난의 아들이었다",
+      "word_indices": []
+    }
+  ]
+}

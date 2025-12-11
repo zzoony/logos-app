@@ -1,0 +1,23 @@
+{
+  "verse_reference": "John 9:13",
+  "version": "KJV",
+  "original_text": "They brought to the Pharisees him that aforetime was blind.",
+  "korean_text": "그들이 전에 맹인이었던 사람을 데리고 바리새인들에게 갔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They brought to the Pharisees",
+      "korean_translation": "그들이 바리새인들에게 데려왔으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "him that aforetime was blind",
+      "korean_translation": "전에 맹인이었던 그 사람을",
+      "word_indices": [
+        380,
+        2314
+      ]
+    }
+  ]
+}

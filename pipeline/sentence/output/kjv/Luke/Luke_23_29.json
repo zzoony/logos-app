@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Luke 23:29",
+  "version": "KJV",
+  "original_text": "For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck.",
+  "korean_text": "보라 날이 이르면 사람이 말하기를 잉태하지 못하는 이와 해산하지 못한 배와 먹이지 못한 젖이 복이 있다 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For, behold",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the days are coming",
+      "korean_translation": "날들이 이르리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the which they shall say",
+      "korean_translation": "그때 사람들이 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Blessed are the barren",
+      "korean_translation": "자궁이 닫힌 자는 복이 있고",
+      "word_indices": [
+        1120
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the wombs that never bare",
+      "korean_translation": "아이를 낳지 못한 배는 복이 있고",
+      "word_indices": [
+        171,
+        431
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the paps which never gave suck",
+      "korean_translation": "젖을 먹이지 않은 젖가슴은 복이 있느니라",
+      "word_indices": [
+        1045,
+        3098
+      ]
+    }
+  ]
+}

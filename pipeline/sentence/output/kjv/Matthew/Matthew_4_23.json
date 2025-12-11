@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 4:23",
+  "version": "KJV",
+  "original_text": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.",
+  "korean_text": "예수께서 온 갈릴리에 두루 다니사 그들의 회당에서 가르치시며 천국 복음을 전파하시며 백성 중의 모든 병과 모든 약한 것을 고치시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus went about all Galilee",
+      "korean_translation": "예수께서 갈릴리 전역을 다니시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "teaching in their synagogues",
+      "korean_translation": "그들의 회당에서 가르치시고",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and preaching the gospel of the kingdom",
+      "korean_translation": "천국 복음을 전파하시며",
+      "word_indices": [
+        71,
+        236,
+        316
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and healing all manner of sickness",
+      "korean_translation": "모든 종류의 병을 고치시고",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and all manner of disease among the people",
+      "korean_translation": "백성 중의 모든 질병을 고치셨다",
+      "word_indices": [
+        5,
+        156,
+        1003
+      ]
+    }
+  ]
+}

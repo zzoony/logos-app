@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 94:9",
+  "version": "KJV",
+  "original_text": "He that planted the ear, shall he not hear? he that formed the eye, shall he not see?",
+  "korean_text": "귀를 지으신 이가 듣지 아니하시랴 눈을 만드신 이가 보지 아니하시랴",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that planted the ear",
+      "korean_translation": "귀를 심으신 이가",
+      "word_indices": [
+        111,
+        364
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall he not hear?",
+      "korean_translation": "듣지 못하시겠느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he that formed the eye",
+      "korean_translation": "눈을 만드신 이가",
+      "word_indices": [
+        527
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall he not see?",
+      "korean_translation": "보지 못하시겠느냐?",
+      "word_indices": []
+    }
+  ]
+}

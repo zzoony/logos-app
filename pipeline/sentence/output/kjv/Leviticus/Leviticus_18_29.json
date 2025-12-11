@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Leviticus 18:29",
+  "version": "KJV",
+  "original_text": "For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.",
+  "korean_text": "이 가증한 모든 일을 행하는 자는 그 백성 중에서 끊어지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For whosoever shall commit any of these abominations",
+      "korean_translation": "누구든지 이 가증한 것들 중 어느 것이라도 행하면",
+      "word_indices": [
+        22,
+        191,
+        218
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even the souls that commit them",
+      "korean_translation": "그것들을 행하는 영혼들은",
+      "word_indices": [
+        1,
+        191
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall be cut off from among their people",
+      "korean_translation": "그 백성 중에서 끊어질 것이라",
+      "word_indices": [
+        5,
+        46,
+        91
+      ]
+    }
+  ]
+}

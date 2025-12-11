@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 18:8",
+  "version": "KJV",
+  "original_text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
+  "korean_text": "그의 코에서 연기가 오르고 입에서 불이 나와 사름이여 그 불에 숯이 피었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There went up a smoke out of his nostrils",
+      "korean_translation": "그의 콧구멍에서 연기가 올라갔고",
+      "word_indices": [
+        630,
+        1452
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and fire out of his mouth devoured",
+      "korean_translation": "그의 입에서 불이 나와 삼켰으며",
+      "word_indices": [
+        41,
+        60,
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "coals were kindled by it",
+      "korean_translation": "그 불로 인해 숯불이 타올랐다",
+      "word_indices": [
+        956
+      ]
+    }
+  ]
+}

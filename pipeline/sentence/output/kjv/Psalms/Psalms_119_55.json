@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 119:55",
+  "version": "KJV",
+  "original_text": "I have remembered thy name, O Lord, in the night, and have kept thy law.",
+  "korean_text": "여호와여 내가 밤에 주의 이름을 기억하고 주의 법을 지켰나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have remembered thy name, O Lord",
+      "korean_translation": "나는 주의 이름을 기억하였나이다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the night",
+      "korean_translation": "밤에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and have kept thy law",
+      "korean_translation": "그리고 주의 법을 지켰나이다",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

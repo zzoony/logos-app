@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Amos 6:9",
+  "version": "KJV",
+  "original_text": "And it shall come to pass, if there remain ten men in one house, that they shall die.",
+  "korean_text": "한 집에 열 사람이 남는다 하여도 다 죽을 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it shall come to pass",
+      "korean_translation": "그리고 그것이 일어날 것이다",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if there remain ten men in one house",
+      "korean_translation": "한 집에 열 명의 남자가 남아있다면",
+      "word_indices": [
+        4,
+        122
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that they shall die",
+      "korean_translation": "그들이 죽을 것이다",
+      "word_indices": [
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 3:20",
+  "version": "KJV",
+  "original_text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.",
+  "korean_text": "악을 행하는 자마다 빛을 미워하여 빛으로 오지 아니하나니 이는 그 행위가 드러날까 함이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For every one that doeth evil",
+      "korean_translation": "악을 행하는 모든 사람은",
+      "word_indices": [
+        35,
+        353
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "hateth the light",
+      "korean_translation": "빛을 미워하며",
+      "word_indices": [
+        932
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither cometh to the light",
+      "korean_translation": "빛으로 나아오지 아니하고",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "lest his deeds should be reproved",
+      "korean_translation": "그 행위가 드러날까 두려워함이라",
+      "word_indices": [
+        602
+      ]
+    }
+  ]
+}

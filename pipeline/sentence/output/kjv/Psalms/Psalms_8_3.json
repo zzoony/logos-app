@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 8:3",
+  "version": "KJV",
+  "original_text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+  "korean_text": "주의 손가락으로 만드신 주의 하늘과 주께서 베풀어 두신 달과 별들을 내가 보오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I consider thy heavens",
+      "korean_translation": "내가 주의 하늘을 생각할 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "work of thy fingers",
+      "korean_translation": "주의 손가락으로 만드신 것",
+      "word_indices": [
+        29,
+        743
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "moon and stars",
+      "korean_translation": "달과 별들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which thou hast ordained",
+      "korean_translation": "주가 세우신 것들",
+      "word_indices": [
+        767
+      ]
+    }
+  ]
+}

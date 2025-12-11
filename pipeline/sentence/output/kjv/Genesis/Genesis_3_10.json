@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 3:10",
+  "version": "KJV",
+  "original_text": "And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.",
+  "korean_text": "이르되 내가 동산에서 하나님의 소리를 듣고 내가 벗었으므로 두려워하여 숨었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그가 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I heard thy voice in the garden",
+      "korean_translation": "동산에서 당신의 소리를 들었습니다",
+      "word_indices": [
+        45,
+        488
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I was afraid",
+      "korean_translation": "그래서 두려웠습니다",
+      "word_indices": [
+        165
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I was naked",
+      "korean_translation": "왜냐하면 내가 벌거벗었기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and I hid myself",
+      "korean_translation": "그래서 제 자신을 숨겼습니다",
+      "word_indices": [
+        271
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 44:7",
+  "version": "KJV",
+  "original_text": "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
+  "korean_text": "오직 주께서 우리를 우리 원수들에게서 구원하시고 우리를 미워하는 자로 수치를 당하게 하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But thou hast saved us",
+      "korean_translation": "그러나 주께서는 우리를 구하셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from our enemies",
+      "korean_translation": "우리의 원수들로부터",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and hast put them to shame",
+      "korean_translation": "그들을 부끄럽게 하셨습니다",
+      "word_indices": [
+        1,
+        339
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that hated us",
+      "korean_translation": "우리를 미워하던 자들을",
+      "word_indices": [
+        494
+      ]
+    }
+  ]
+}

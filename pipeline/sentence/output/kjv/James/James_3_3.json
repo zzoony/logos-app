@@ -1,0 +1,32 @@
+{
+  "verse_reference": "James 3:3",
+  "version": "KJV",
+  "original_text": "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.",
+  "korean_text": "우리가 말들의 입에 재갈 물리는 것은 우리에게 순종하게 하려고 그 온 몸을 제어하는 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold, we put bits in the horses' mouths",
+      "korean_translation": "보라, 우리는 말들의 입에 재갈을 물린다",
+      "word_indices": [
+        60,
+        5896
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that they may obey us",
+      "korean_translation": "그들이 우리에게 복종하게 하려고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and we turn about their whole body",
+      "korean_translation": "그리고 우리는 그들의 온몸을 돌리게 한다",
+      "word_indices": [
+        125,
+        152
+      ]
+    }
+  ]
+}

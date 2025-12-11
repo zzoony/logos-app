@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Isaiah 59:5",
+  "version": "KJV",
+  "original_text": "They hatch cockatrice' eggs, and weave the spider's web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.",
+  "korean_text": "독사의 알을 품으며 거미줄을 짜나니 그 알을 먹는 자는 죽을 것이요 그 알이 밟힌즉 터져서 독사가 나올 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They hatch cockatrice' eggs",
+      "korean_translation": "그들은 바사락의 알을 부화시키고",
+      "word_indices": [
+        1982,
+        3072,
+        4056
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and weave the spider's web",
+      "korean_translation": "거미의 그물을 짓습니다",
+      "word_indices": [
+        2232,
+        2681,
+        3386
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he that eateth of their eggs dieth",
+      "korean_translation": "그들의 알을 먹는 자는 죽고",
+      "word_indices": [
+        566,
+        955,
+        1982
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and that which is crushed",
+      "korean_translation": "그리고 부서진 것은",
+      "word_indices": [
+        1768
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "breaketh out into a viper",
+      "korean_translation": "독사로 나옵니다",
+      "word_indices": [
+        7,
+        1356,
+        2155
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 104:18",
+  "version": "KJV",
+  "original_text": "The high hills are a refuge for the wild goats; and the rocks for the conies.",
+  "korean_text": "높은 산들은 산양을 위함이여 바위는 너구리의 피난처로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The high hills are a refuge",
+      "korean_translation": "높은 언덕은 피난처이다",
+      "word_indices": [
+        232,
+        674
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the wild goats",
+      "korean_translation": "야생 염소들을 위한",
+      "word_indices": [
+        246,
+        701
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the rocks",
+      "korean_translation": "그리고 바위들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the conies",
+      "korean_translation": "산토끼들을 위한 것이다",
+      "word_indices": [
+        3963
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 4:21",
+  "version": "KJV",
+  "original_text": "Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.",
+  "korean_text": "예수께서 이르시되 여자여 내 말을 믿으라 이 산에서도 말고 예루살렘에서도 말고 너희가 아버지께 예배할 때가 이르리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus saith unto her, Woman",
+      "korean_translation": "예수께서 그 여자에게 말씀하시되, 여자여",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "believe me",
+      "korean_translation": "나를 믿으라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the hour cometh",
+      "korean_translation": "때가 이르리라",
+      "word_indices": [
+        109,
+        350
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when ye shall neither in this mountain",
+      "korean_translation": "너희가 이 산에서도",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nor yet at Jerusalem",
+      "korean_translation": "예루살렘에서도 아니하고",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "worship the Father",
+      "korean_translation": "아버지를 경배할 때가",
+      "word_indices": [
+        174
+      ]
+    }
+  ]
+}

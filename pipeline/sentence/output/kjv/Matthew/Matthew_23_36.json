@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 23:36",
+  "version": "KJV",
+  "original_text": "Verily I say unto you, All these things shall come upon this generation.",
+  "korean_text": "내가 진실로 너희에게 이르노니 이것이 다 이 세대에 돌아가리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily I say unto you",
+      "korean_translation": "진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "All these things",
+      "korean_translation": "이 모든 것들이",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall come upon this generation",
+      "korean_translation": "이 세대에 임하리라",
+      "word_indices": [
+        143
+      ]
+    }
+  ]
+}

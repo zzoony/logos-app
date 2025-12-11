@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 6:4",
+  "version": "KJV",
+  "original_text": "And the passover, a feast of the Jews, was nigh.",
+  "korean_text": "마침 유대인의 명절인 유월절이 가까운지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the passover",
+      "korean_translation": "그리고 유월절은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a feast of the Jews",
+      "korean_translation": "유대인의 명절이",
+      "word_indices": [
+        203
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was nigh",
+      "korean_translation": "가까웠다",
+      "word_indices": [
+        338
+      ]
+    }
+  ]
+}

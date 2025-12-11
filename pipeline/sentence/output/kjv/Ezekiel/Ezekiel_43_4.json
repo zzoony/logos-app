@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Ezekiel 43:4",
+  "version": "KJV",
+  "original_text": "And the glory of the Lord came into the house by the way of the gate whose prospect is toward the east.",
+  "korean_text": "여호와의 영광이 동문을 통하여 성전으로 들어가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the glory of the Lord came",
+      "korean_translation": "그리고 주의 영광이 왔는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into the house",
+      "korean_translation": "집 안으로",
+      "word_indices": [
+        4,
+        7
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the way of the gate",
+      "korean_translation": "문을 통해",
+      "word_indices": [
+        26,
+        68
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whose prospect is toward the east",
+      "korean_translation": "그 전망이 동쪽을 향하는",
+      "word_indices": [
+        86,
+        212,
+        2548
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Corinthians 7:2",
+  "version": "KJV",
+  "original_text": "Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.",
+  "korean_text": "음행을 피하기 위하여 남자마다 자기 아내를 두고 여자마다 자기 남편을 두라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nevertheless, to avoid fornication",
+      "korean_translation": "그러나, 음행을 피하기 위해",
+      "word_indices": [
+        788,
+        2131
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let every man have his own wife",
+      "korean_translation": "모든 남자는 자기 아내를 두게 하라",
+      "word_indices": [
+        37,
+        43
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let every woman have her own husband",
+      "korean_translation": "그리고 모든 여자는 자기 남편을 두게 하라",
+      "word_indices": [
+        37,
+        229
+      ]
+    }
+  ]
+}

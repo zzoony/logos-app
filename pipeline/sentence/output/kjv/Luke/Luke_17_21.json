@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 17:21",
+  "version": "KJV",
+  "original_text": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.",
+  "korean_text": "또 여기 있다 저기 있다고도 못하리니 하나님의 나라는 너희 안에 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither shall they say, Lo here!",
+      "korean_translation": "그들이 이르기를 보라 여기 있다 하지 아니할 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or, lo there!",
+      "korean_translation": "또 보라 저기 있다 하지 아니할 것이니",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for, behold,",
+      "korean_translation": "이는 볼지어다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the kingdom of God is within you.",
+      "korean_translation": "하나님의 나라가 너희 안에 있음이라",
+      "word_indices": [
+        3,
+        71
+      ]
+    }
+  ]
+}

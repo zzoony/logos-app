@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 31:9",
+  "version": "KJV",
+  "original_text": "Have mercy upon me, O Lord, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly.",
+  "korean_text": "여호와여 내가 고통 중에 있사오니 내게 은혜를 베푸소서 내가 근심 때문에 눈과 영혼과 몸이 쇠하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Have mercy upon me, O Lord,",
+      "korean_translation": "오 주여, 저에게 자비를 베푸소서,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I am in trouble:",
+      "korean_translation": "이는 내가 곤경에 처해 있기 때문입니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "mine eye is consumed with grief,",
+      "korean_translation": "내 눈은 슬픔으로 소멸되고,",
+      "word_indices": [
+        1021
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yea, my soul and my belly.",
+      "korean_translation": "실로, 내 영혼과 내 배가 그러하나이다.",
+      "word_indices": [
+        627
+      ]
+    }
+  ]
+}

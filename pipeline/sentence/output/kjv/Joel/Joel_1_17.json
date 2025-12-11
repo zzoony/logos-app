@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Joel 1:17",
+  "version": "KJV",
+  "original_text": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
+  "korean_text": "씨가 흙덩이 아래에서 썩어졌고 창고가 비었고 곳간이 무너졌으니 이는 곡식이 시들었음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The seed is rotten under their clods",
+      "korean_translation": "씨앗이 흙덩이 아래에서 썩고 있고",
+      "word_indices": [
+        2501,
+        2731
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "garners are laid desolate",
+      "korean_translation": "곡간은 황폐하게 되었으며",
+      "word_indices": [
+        3050
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "barns are broken down",
+      "korean_translation": "창고는 부서졌다",
+      "word_indices": [
+        14,
+        2160
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the corn is withered",
+      "korean_translation": "곡식은 말라버렸기 때문이다",
+      "word_indices": [
+        326,
+        845
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Daniel 12:5",
+  "version": "KJV",
+  "original_text": "Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.",
+  "korean_text": "나 다니엘이 본즉 다른 두 사람이 있어 하나는 강 이쪽 언덕에 섰고 하나는 강 저쪽 언덕에 섰더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then I Daniel looked",
+      "korean_translation": "그때 나 다니엘이 보니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and, behold",
+      "korean_translation": "보니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there stood other two",
+      "korean_translation": "거기에 다른 두 사람이 서 있었고",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the one on this side of the bank of the river",
+      "korean_translation": "한 사람은 강 기슭 이쪽에",
+      "word_indices": [
+        48,
+        120,
+        1273
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the other on that side of the bank of the river",
+      "korean_translation": "다른 한 사람은 강 기슭 저쪽에 있었다",
+      "word_indices": [
+        48,
+        56,
+        120,
+        1273
+      ]
+    }
+  ]
+}

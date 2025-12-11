@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ecclesiastes 4:9",
+  "version": "KJV",
+  "original_text": "Two are better than one; because they have a good reward for their labour.",
+  "korean_text": "두 사람이 한 사람보다 나음은 그들이 수고함으로 좋은 상을 얻을 것임이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two are better than one",
+      "korean_translation": "둘이 혼자보다 낫다",
+      "word_indices": [
+        52,
+        274
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because they have a good reward",
+      "korean_translation": "왜냐하면 그들은 좋은 보상을 가지고 있다",
+      "word_indices": [
+        329
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for their labour",
+      "korean_translation": "그들의 노동에 대한",
+      "word_indices": [
+        264
+      ]
+    }
+  ]
+}

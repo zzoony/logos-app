@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Romans 14:9",
+  "version": "KJV",
+  "original_text": "For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.",
+  "korean_text": "이를 위하여 그리스도께서 죽었다가 다시 살아나셨으니 곧 죽은 자와 산 자의 주가 되려 하심이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For to this end Christ both died",
+      "korean_translation": "이를 위해 그리스도께서 죽으셨고",
+      "word_indices": [
+        73
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and rose, and revived",
+      "korean_translation": "부활하시고 살아나셨으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he might be Lord both of the dead and living",
+      "korean_translation": "죽은 자와 산 자의 주가 되시려 함이라",
+      "word_indices": [
+        55,
+        78
+      ]
+    }
+  ]
+}

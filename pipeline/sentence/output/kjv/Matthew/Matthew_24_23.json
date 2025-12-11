@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 24:23",
+  "version": "KJV",
+  "original_text": "Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.",
+  "korean_text": "그 때에 사람이 너희에게 말하되 보라 그리스도가 여기 있다 혹은 저기 있다 하여도 믿지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then if any man shall say unto you,",
+      "korean_translation": "그러면 만일 어떤 사람이 너희에게 말하기를,",
+      "word_indices": [
+        3,
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lo, here is Christ,",
+      "korean_translation": "보라, 그리스도가 여기 있다, 또는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or there;",
+      "korean_translation": "저기 있다 할지라도,",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "believe it not.",
+      "korean_translation": "그들을 믿지 말라.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 22:51",
+  "version": "KJV",
+  "original_text": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.",
+  "korean_text": "예수께서 일러 이르시되 이것까지 참으라 하시고 그 귀를 만져 낫게 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus answered and said,",
+      "korean_translation": "예수께서 대답하여 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Suffer ye thus far.",
+      "korean_translation": "이까지 참으라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he touched his ear,",
+      "korean_translation": "그가 그의 귀를 만지고,",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and healed him.",
+      "korean_translation": "고쳐주셨다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ezekiel 18:15",
+  "version": "KJV",
+  "original_text": "That hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour's wife,",
+  "korean_text": "산 위에서 제물을 먹지도 아니하며 이스라엘 족속의 우상에게 눈을 들지도 아니하며 이웃의 아내를 더럽히지도 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That hath not eaten upon the mountains",
+      "korean_translation": "산 위에서 먹지 않은 자",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither hath lifted up his eyes",
+      "korean_translation": "또한 눈을 들지 않은 자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the idols of the house of Israel",
+      "korean_translation": "이스라엘 집의 우상을 향하여",
+      "word_indices": [
+        4,
+        277
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hath not defiled his neighbour's wife",
+      "korean_translation": "이웃의 아내를 더럽히지 않은 자",
+      "word_indices": [
+        43,
+        213
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 12:1",
+  "version": "KJV",
+  "original_text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn and to eat.",
+  "korean_text": "그 때에 예수께서 안식일에 밀밭 사이로 가실새 제자들이 시장하여 이삭을 잘라 먹으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At that time",
+      "korean_translation": "그 때에",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus went on the sabbath day",
+      "korean_translation": "예수께서 안식일에 걸어가셨다",
+      "word_indices": [
+        188
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "through the corn",
+      "korean_translation": "밀밭 사이를 지나시며",
+      "word_indices": [
+        57,
+        326
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his disciples were an hungred",
+      "korean_translation": "그의 제자들이 배고픔을 느끼자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and began to pluck the ears of corn",
+      "korean_translation": "밀 이삭을 뜯기 시작했고",
+      "word_indices": [
+        111,
+        326,
+        594
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and to eat",
+      "korean_translation": "그리고 먹었다",
+      "word_indices": []
+    }
+  ]
+}

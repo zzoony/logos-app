@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Psalms 12:7",
+  "version": "KJV",
+  "original_text": "Thou shalt keep them, O Lord, thou shalt preserve them from this generation for ever.",
+  "korean_text": "여호와여 그들을 지키사 이 세대로부터 영원까지 보존하시리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou shalt keep them",
+      "korean_translation": "주께서 그들을 지키시리라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thou shalt preserve them",
+      "korean_translation": "주께서 그들을 보호하시리라",
+      "word_indices": [
+        1,
+        680
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from this generation",
+      "korean_translation": "이 세대로부터",
+      "word_indices": [
+        143
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for ever",
+      "korean_translation": "영원히",
+      "word_indices": [
+        54
+      ]
+    }
+  ]
+}

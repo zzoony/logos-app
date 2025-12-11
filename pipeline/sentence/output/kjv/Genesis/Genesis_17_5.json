@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 17:5",
+  "version": "KJV",
+  "original_text": "Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.",
+  "korean_text": "이제 후로는 네 이름을 아브람이라 하지 아니하고 아브라함이라 하리니 이는 내가 너를 여러 민족의 아버지가 되게 함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither shall thy name any more be called Abram",
+      "korean_translation": "네 이름을 더 이상 아브람이라 부르지 아니하리니",
+      "word_indices": [
+        16,
+        22,
+        33
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but thy name shall be Abraham",
+      "korean_translation": "네 이름은 아브라함이 되리라",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for a father of many nations have I made thee",
+      "korean_translation": "이는 내가 너를 여러 민족의 아버지로 삼았음이라",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

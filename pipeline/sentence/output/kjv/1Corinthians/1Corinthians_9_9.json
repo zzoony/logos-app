@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Corinthians 9:9",
+  "version": "KJV",
+  "original_text": "For it is written in the law of Moses, thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?",
+  "korean_text": "모세의 율법에 곡식을 밟아 떠는 소에게 망을 씌우지 말라 기록하였으니 하나님께서 어찌 소들을 위하여 염려하심이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For it is written in the law of Moses,",
+      "korean_translation": "이는 모세의 율법에 기록되었으니",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thou shalt not muzzle the mouth of the ox",
+      "korean_translation": "너는 소의 입에 망을 씌우지 말지니",
+      "word_indices": [
+        60,
+        195,
+        3264
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that treadeth out the corn.",
+      "korean_translation": "곡식을 밟는 소에 대하여라",
+      "word_indices": [
+        326,
+        1862
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Doth God take care for oxen?",
+      "korean_translation": "하나님이 소를 돌보심이냐",
+      "word_indices": [
+        1037
+      ]
+    }
+  ]
+}

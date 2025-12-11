@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Chronicles 2:22",
+  "version": "KJV",
+  "original_text": "And Segub begat Jair, who had three and twenty cities in the land of Gilead.",
+  "korean_text": "스굽은 야일을 낳았고 야일은 길르앗 땅에서 스물세 성읍을 가졌더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Segub begat Jair",
+      "korean_translation": "세굽은 야일을 낳았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had three and twenty cities",
+      "korean_translation": "그는 스물세 개 성읍을 가졌으며",
+      "word_indices": [
+        12,
+        50,
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the land of Gilead",
+      "korean_translation": "길르앗 땅에 있었더라",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 6:9",
+  "version": "KJV",
+  "original_text": "There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?",
+  "korean_text": "여기 한 아이가 있어 보리떡 다섯 개와 물고기 두 마리를 가지고 있나이다 그러나 그것이 이 많은 사람에게 얼마나 되겠사옵나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is a lad here",
+      "korean_translation": "여기 한 소년이 있고",
+      "word_indices": [
+        856
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which hath five barley loaves",
+      "korean_translation": "그는 보리떡 다섯 개를 가지고 있으며",
+      "word_indices": [
+        822
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and two small fishes",
+      "korean_translation": "작은 생선 두 마리가 있습니다",
+      "word_indices": [
+        345,
+        487
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but what are they",
+      "korean_translation": "하지만 그것들이 무엇인데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "among so many?",
+      "korean_translation": "이렇게 많은 사람들에게 있어서요?",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 4:38",
+  "version": "KJV",
+  "original_text": "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.",
+  "korean_text": "내가 너희로 노력하지 아니한 것을 거두러 보내었노니 다른 사람들은 노력하였고 너희는 그들이 노력한 것에 참여하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I sent you to reap",
+      "korean_translation": "내가 너희를 보내어 거두게 하려 함은",
+      "word_indices": [
+        3,
+        784
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that whereon ye bestowed no labour",
+      "korean_translation": "너희가 수고하지 않은 것을",
+      "word_indices": [
+        264,
+        1130
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "other men laboured",
+      "korean_translation": "다른 사람들이 수고하였고",
+      "word_indices": [
+        56,
+        264
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ye are entered into their labours",
+      "korean_translation": "너희는 그들의 수고에 참여하였느니라",
+      "word_indices": [
+        7,
+        264
+      ]
+    }
+  ]
+}

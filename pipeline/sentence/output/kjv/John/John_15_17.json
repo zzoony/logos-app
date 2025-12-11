@@ -1,0 +1,26 @@
+{
+  "verse_reference": "John 15:17",
+  "version": "KJV",
+  "original_text": "These things I command you, that ye love one another.",
+  "korean_text": "내가 이것을 너희에게 명함은 너희로 서로 사랑하게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These things I command you",
+      "korean_translation": "나는 너희에게 이것들을 명령한다",
+      "word_indices": [
+        3,
+        11,
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that ye love one another",
+      "korean_translation": "너희가 서로 사랑하라",
+      "word_indices": [
+        58
+      ]
+    }
+  ]
+}

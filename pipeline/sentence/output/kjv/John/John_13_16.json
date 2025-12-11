@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 13:16",
+  "version": "KJV",
+  "original_text": "Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 종이 주인보다 크지 못하고 보냄을 받은 자가 보낸 자보다 크지 못하나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로 진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The servant is not greater than his lord",
+      "korean_translation": "종은 주인보다 크지 않고",
+      "word_indices": [
+        19,
+        52,
+        414
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither he that is sent greater than he that sent him",
+      "korean_translation": "보냄을 받은 자도 보낸 자보다 크지 아니하니라",
+      "word_indices": [
+        52,
+        414
+      ]
+    }
+  ]
+}

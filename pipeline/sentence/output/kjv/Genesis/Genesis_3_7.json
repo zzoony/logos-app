@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 3:7",
+  "version": "KJV",
+  "original_text": "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.",
+  "korean_text": "이에 그들의 눈이 밝아져 자기들이 벗은 줄을 알고 무화과나무 잎을 엮어 치마로 삼았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the eyes of them both were opened",
+      "korean_translation": "그들 둘의 눈이 열렸고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they knew that they were naked",
+      "korean_translation": "그들이 자신들이 벗은 줄을 알았더라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they sewed fig leaves together",
+      "korean_translation": "그들이 무화과 잎을 함께 꿰매어",
+      "word_indices": [
+        51,
+        465,
+        2817
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and made themselves aprons",
+      "korean_translation": "자신들을 위해 앞치마를 만들었다",
+      "word_indices": [
+        3609
+      ]
+    }
+  ]
+}

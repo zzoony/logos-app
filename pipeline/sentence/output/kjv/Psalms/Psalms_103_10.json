@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 103:10",
+  "version": "KJV",
+  "original_text": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities.",
+  "korean_text": "우리의 죄를 따라 우리를 처벌하지는 아니하시며 우리의 죄악을 따라 우리에게 그대로 갚지는 아니하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He hath not dealt with us",
+      "korean_translation": "그는 우리에게 대하지 아니하셨으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "after our sins",
+      "korean_translation": "우리의 죄대로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor rewarded us",
+      "korean_translation": "우리에게 갚지도 아니하셨으니",
+      "word_indices": [
+        31,
+        329
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "according to our iniquities",
+      "korean_translation": "우리의 불의대로",
+      "word_indices": [
+        28,
+        89
+      ]
+    }
+  ]
+}

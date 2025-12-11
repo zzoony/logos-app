@@ -1,0 +1,82 @@
+{
+  "verse_reference": "Exodus 12:29",
+  "version": "KJV",
+  "original_text": "And it came to pass, that at midnight the Lord smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle.",
+  "korean_text": "밤중에 여호와께서 애굽 땅에서 모든 처음 난 것 곧 왕위에 앉은 바로의 장자로부터 옥에 갇힌 사람의 장자까지와 가축의 처음 난 것을 다 치시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass",
+      "korean_translation": "그리하여 일어났는데",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that at midnight",
+      "korean_translation": "밤중에",
+      "word_indices": [
+        1547
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Lord smote all the firstborn",
+      "korean_translation": "주께서 모든 장자를 치셨으니",
+      "word_indices": [
+        292
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the land of Egypt",
+      "korean_translation": "애굽 땅에서",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from the firstborn of Pharaoh",
+      "korean_translation": "바로의 장자로부터",
+      "word_indices": [
+        292
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that sat on his throne",
+      "korean_translation": "그가 옥좌에 앉은",
+      "word_indices": [
+        172
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "unto the firstborn of the captive",
+      "korean_translation": "포로된 자의 장자까지",
+      "word_indices": [
+        292,
+        323
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "that was in the dungeon",
+      "korean_translation": "그가 옥에 있는",
+      "word_indices": [
+        1599
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "and all the firstborn of cattle",
+      "korean_translation": "그리고 모든 가축의 장자까지라",
+      "word_indices": [
+        217,
+        292
+      ]
+    }
+  ]
+}

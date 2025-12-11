@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 32:8",
+  "version": "KJV",
+  "original_text": "And said, If Esau come to the one company, and smite it, then the other company which is left shall escape.",
+  "korean_text": "이르되 에서가 와서 한 떼를 치면 남은 한 떼는 피하리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And said",
+      "korean_translation": "그리고 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If Esau come to the one company",
+      "korean_translation": "만약 에서가 한 무리에게 오면",
+      "word_indices": [
+        321
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and smite it",
+      "korean_translation": "그리고 그들을 치면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then the other company which is left",
+      "korean_translation": "그러면 남아있는 다른 무리는",
+      "word_indices": [
+        56,
+        321
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall escape",
+      "korean_translation": "도망하게 될 것이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Proverbs 14:4",
+  "version": "KJV",
+  "original_text": "Where no oxen are, the crib is clean: but much increase is by the strength of the ox.",
+  "korean_text": "소가 없으면 구유는 깨끗하려니와 소의 힘으로 얻는 것이 많으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Where no oxen are",
+      "korean_translation": "소가 없는 곳에서는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the crib is clean",
+      "korean_translation": "구유가 깨끗하다",
+      "word_indices": [
+        244,
+        3418
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but much increase is by the strength of the ox",
+      "korean_translation": "하지만 많은 증가는 소의 힘으로 말미암는다",
+      "word_indices": [
+        105,
+        195
+      ]
+    }
+  ]
+}

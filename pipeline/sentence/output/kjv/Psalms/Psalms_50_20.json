@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 50:20",
+  "version": "KJV",
+  "original_text": "Thou sittest and speakest against thy brother; thou slanderest thine own mother's son.",
+  "korean_text": "앉아서 네 형제를 공박하며 네 어머니의 아들을 비방하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou sittest",
+      "korean_translation": "네가 앉아 있으며",
+      "word_indices": [
+        2226
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and speakest against thy brother",
+      "korean_translation": "네 형제를 비방하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thou slanderest thine own mother's son",
+      "korean_translation": "네 어머니의 아들을 험담하도다",
+      "word_indices": [
+        37,
+        4900
+      ]
+    }
+  ]
+}

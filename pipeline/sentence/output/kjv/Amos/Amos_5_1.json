@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Amos 5:1",
+  "version": "KJV",
+  "original_text": "Hear ye this word which I take up against you, even a lamentation, O house of Israel.",
+  "korean_text": "이스라엘 족속아 내가 너희에게 대하여 애가로 지은 이 말을 들으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hear ye this word",
+      "korean_translation": "너희는 이 말을 들으라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which I take up against you",
+      "korean_translation": "내가 너희를 향해 하는 말이니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even a lamentation",
+      "korean_translation": "곧 애가니라",
+      "word_indices": [
+        999
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "O house of Israel",
+      "korean_translation": "이스라엘 족속아",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

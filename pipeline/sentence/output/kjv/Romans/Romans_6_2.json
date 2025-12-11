@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Romans 6:2",
+  "version": "KJV",
+  "original_text": "God forbid. How shall we, that are dead to sin, live any longer therein?",
+  "korean_text": "그럴 수 없느니라 죄에 대하여 죽은 우리가 어찌 그 가운데 더 살리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God forbid.",
+      "korean_translation": "그럴 수 없다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How shall we, that are dead to sin,",
+      "korean_translation": "죄에 대하여 죽은 우리가",
+      "word_indices": [
+        78
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "live any longer therein?",
+      "korean_translation": "어찌 그 가운데서 더 살리요?",
+      "word_indices": [
+        22,
+        141,
+        1365
+      ]
+    }
+  ]
+}

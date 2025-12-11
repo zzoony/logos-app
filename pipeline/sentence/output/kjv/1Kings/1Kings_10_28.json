@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 10:28",
+  "version": "KJV",
+  "original_text": "And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.",
+  "korean_text": "솔로몬의 말들은 애굽에서 들여왔으니 왕의 상인들이 값주고 산 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Solomon had horses brought out of Egypt",
+      "korean_translation": "솔로몬은 이집트에서 말들을 가져왔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and linen yarn",
+      "korean_translation": "아마 실도 가져왔다",
+      "word_indices": [
+        314,
+        2965
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the king's merchants received the linen yarn",
+      "korean_translation": "왕의 상인들이 그 아마 실을 받았다",
+      "word_indices": [
+        314,
+        737,
+        2965
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at a price",
+      "korean_translation": "값을 지불하고",
+      "word_indices": [
+        880
+      ]
+    }
+  ]
+}

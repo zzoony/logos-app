@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 72:15",
+  "version": "KJV",
+  "original_text": "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised.",
+  "korean_text": "그들이 생존하여 스바의 금을 그에게 드리며 사람들이 그를 위하여 항상 기도하고 종일 찬송하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he shall live",
+      "korean_translation": "그는 살 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and to him shall be given of the gold of Sheba",
+      "korean_translation": "그에게 스바의 금이 주어질 것이며",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "prayer also shall be made for him continually",
+      "korean_translation": "그를 위해 기도가 계속해서 올려질 것이며",
+      "word_indices": [
+        9,
+        245,
+        393
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and daily shall he be praised",
+      "korean_translation": "매일 그가 칭송받으리라",
+      "word_indices": [
+        503
+      ]
+    }
+  ]
+}

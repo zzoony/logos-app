@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Isaiah 40:8",
+  "version": "KJV",
+  "original_text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+  "korean_text": "풀은 마르고 꽃은 시드나 우리 하나님의 말씀은 영원히 서리라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The grass withereth",
+      "korean_translation": "풀은 마르고",
+      "word_indices": [
+        2153
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the flower fadeth",
+      "korean_translation": "꽃은 시드니",
+      "word_indices": [
+        830,
+        2337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the word of our God",
+      "korean_translation": "우리 하나님의 말씀은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall stand for ever",
+      "korean_translation": "영원히 서리라",
+      "word_indices": [
+        54
+      ]
+    }
+  ]
+}

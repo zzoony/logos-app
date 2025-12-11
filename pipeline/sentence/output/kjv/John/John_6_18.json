@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 6:18",
+  "version": "KJV",
+  "original_text": "And the sea arose by reason of a great wind that blew.",
+  "korean_text": "큰 바람이 불어 파도가 일어나더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the sea arose",
+      "korean_translation": "그리고 바다가 일어났다",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by reason of a great wind",
+      "korean_translation": "큰 바람 때문에",
+      "word_indices": [
+        184,
+        366
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that blew",
+      "korean_translation": "불어온",
+      "word_indices": []
+    }
+  ]
+}

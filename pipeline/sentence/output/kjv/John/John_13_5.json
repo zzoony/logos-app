@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 13:5",
+  "version": "KJV",
+  "original_text": "After that he poureth water into a bason, and began to wash the disciples' feet, and to wipe them with the towel wherewith he was girded.",
+  "korean_text": "이에 대야에 물을 떠서 제자들의 발을 씻으시고 그 두르신 수건으로 닦기를 시작하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After that he poureth water into a bason",
+      "korean_translation": "그 후에 그는 대야에 물을 부었다",
+      "word_indices": [
+        7,
+        32,
+        1896,
+        2601
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and began to wash the disciples' feet",
+      "korean_translation": "그리고 제자들의 발을 씻기 시작했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to wipe them with the towel",
+      "korean_translation": "그리고 수건으로 그것들을 닦았다",
+      "word_indices": [
+        1,
+        1648,
+        4206
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "wherewith he was girded",
+      "korean_translation": "그는 그 수건으로 허리를 동여맸다",
+      "word_indices": []
+    }
+  ]
+}

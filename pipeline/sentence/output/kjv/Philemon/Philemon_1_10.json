@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Philemon 1:10",
+  "version": "KJV",
+  "original_text": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:",
+  "korean_text": "갇힌 중에서 낳은 아들 오네시모를 위하여 네게 간구하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I beseech thee",
+      "korean_translation": "내가 너게 간구하노니",
+      "word_indices": [
+        2,
+        288
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for my son Onesimus",
+      "korean_translation": "내 아들 오네시모를 위하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whom I have begotten in my bonds",
+      "korean_translation": "내가 결박 중에서 낳은 자라",
+      "word_indices": [
+        697
+      ]
+    }
+  ]
+}

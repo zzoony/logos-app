@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Revelation 8:8",
+  "version": "KJV",
+  "original_text": "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;",
+  "korean_text": "둘째 천사가 나팔을 부니 불 붙는 큰 산과 같은 것이 바다에 던져지매 바다의 삼분의 일이 피가 되고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the second angel sounded",
+      "korean_translation": "그리고 두 번째 천사가 나팔을 불었고",
+      "word_indices": [
+        190,
+        282
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and as it were a great mountain burning with fire",
+      "korean_translation": "그리고 불타는 거대한 산이",
+      "word_indices": [
+        34,
+        41,
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was cast into the sea",
+      "korean_translation": "바다에 던져졌으며",
+      "word_indices": [
+        7,
+        65
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the third part of the sea became blood",
+      "korean_translation": "바다의 삼분의 일이 피가 되었다",
+      "word_indices": [
+        59,
+        65,
+        102,
+        176
+      ]
+    }
+  ]
+}

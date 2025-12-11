@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 1:26",
+  "version": "KJV",
+  "original_text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+  "korean_text": "요한이 대답하되 나는 물로 세례를 베풀거니와 너희 가운데 너희가 알지 못하는 한 사람이 섰으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John answered them, saying",
+      "korean_translation": "요한이 그들에게 대답하여 말하되",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I baptize with water",
+      "korean_translation": "나는 물로 세례를 베풀노라",
+      "word_indices": [
+        32,
+        430
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but there standeth one among you",
+      "korean_translation": "그러나 너희 가운데 한 분이 서 계시매",
+      "word_indices": [
+        3,
+        958
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whom ye know not",
+      "korean_translation": "너희가 알지 못하는 자라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Isaiah 60:12",
+  "version": "KJV",
+  "original_text": "For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.",
+  "korean_text": "너를 섬기지 아니하는 백성과 나라는 파멸하리니 그 백성들은 반드시 진멸되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For nation and kingdom",
+      "korean_translation": "나라와 왕국은",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that will not serve thee",
+      "korean_translation": "너를 섬기지 않는",
+      "word_indices": [
+        2,
+        103
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall perish",
+      "korean_translation": "멸망할 것이다",
+      "word_indices": [
+        224
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yea, those nations",
+      "korean_translation": "그리고 그 나라들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall be utterly wasted",
+      "korean_translation": "완전히 황폐해질 것이다",
+      "word_indices": [
+        333,
+        466
+      ]
+    }
+  ]
+}

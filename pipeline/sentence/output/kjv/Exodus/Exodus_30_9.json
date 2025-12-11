@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 30:9",
+  "version": "KJV",
+  "original_text": "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.",
+  "korean_text": "너희는 그 위에 다른 향을 사르지 말며 번제나 소제를 드리지 말며 전제의 술을 붓지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye shall offer no strange incense thereon",
+      "korean_translation": "너희는 그 위에 이상한 향을 드리지 말라",
+      "word_indices": [
+        17,
+        250,
+        421,
+        472
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor burnt sacrifice",
+      "korean_translation": "번제물도 드리지 말라",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor meat offering",
+      "korean_translation": "소제물도 드리지 말라",
+      "word_indices": [
+        17,
+        31,
+        99
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "neither shall ye pour drink offering thereon",
+      "korean_translation": "너희는 그 위에 전제물도 붓지 말라",
+      "word_indices": [
+        17,
+        472
+      ]
+    }
+  ]
+}

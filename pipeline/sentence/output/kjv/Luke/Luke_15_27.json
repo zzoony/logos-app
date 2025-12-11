@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 15:27",
+  "version": "KJV",
+  "original_text": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.",
+  "korean_text": "대답하되 당신의 동생이 돌아왔으매 당신의 아버지가 건강한 그를 다시 맞아들이게 됨으로 인하여 살진 송아지를 잡았나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said unto him",
+      "korean_translation": "그가 그에게 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Thy brother is come",
+      "korean_translation": "네兄弟가 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and thy father hath killed the fatted calf",
+      "korean_translation": "네 아버지가 살진 송아지를 잡았다",
+      "word_indices": [
+        161,
+        654
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because he hath received him safe and sound",
+      "korean_translation": "그를 무사히 받았기 때문이다",
+      "word_indices": [
+        282,
+        1638
+      ]
+    }
+  ]
+}

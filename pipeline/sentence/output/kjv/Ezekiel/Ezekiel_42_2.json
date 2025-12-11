@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Ezekiel 42:2",
+  "version": "KJV",
+  "original_text": "Before the length of an hundred cubits was the north door, and the breadth was fifty cubits.",
+  "korean_text": "그 방들의 자리의 길이는 백 척이요 너비는 쉰 척이며 그 문은 북쪽을 향하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Before the length of an hundred cubits",
+      "korean_translation": "길이가 백 규빗 전에",
+      "word_indices": [
+        117,
+        415
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was the north door",
+      "korean_translation": "북문이 있었고",
+      "word_indices": [
+        115,
+        248
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the breadth was fifty cubits",
+      "korean_translation": "너비는 오십 규빗이었더라",
+      "word_indices": [
+        117,
+        196,
+        369
+      ]
+    }
+  ]
+}

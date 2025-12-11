@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Mark 4:12",
+  "version": "KJV",
+  "original_text": "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them.",
+  "korean_text": "이는 그들로 보기는 보아도 알지 못하며 듣기는 들어도 깨닫지 못하게 하여 돌이켜 죄 사함을 얻지 못하게 하려 함이라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That seeing they may see",
+      "korean_translation": "보아도 보게 하려는 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and not perceive",
+      "korean_translation": "깨닫지 못하게 하려는 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and hearing they may hear",
+      "korean_translation": "들어도 듣게 하려는 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and not understand",
+      "korean_translation": "이해하지 못하게 하려는 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "lest at any time they should be converted",
+      "korean_translation": "그들이 혹시라도 회개하여",
+      "word_indices": [
+        22,
+        30,
+        1653
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and their sins should be forgiven them",
+      "korean_translation": "죄 사함을 받지 않게 하려 함이라",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

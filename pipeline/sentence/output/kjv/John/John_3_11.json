@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 3:11",
+  "version": "KJV",
+  "original_text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.",
+  "korean_text": "진실로 진실로 네게 이르노니 우리는 아는 것을 말하고 본 것을 증언하노라 그러나 너희가 우리의 증언을 받지 아니하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily, verily,",
+      "korean_translation": "진실로 진실로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I say unto thee,",
+      "korean_translation": "내가 네게 이르노니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We speak that we do know,",
+      "korean_translation": "우리는 아는 것을 말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and testify that we have seen;",
+      "korean_translation": "본 것을 증거하노라",
+      "word_indices": [
+        567
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and ye receive not our witness.",
+      "korean_translation": "그러나 너희가 우리의 증거를 받지 아니하도다",
+      "word_indices": []
+    }
+  ]
+}

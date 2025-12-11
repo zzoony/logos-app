@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Kings 22:2",
+  "version": "KJV",
+  "original_text": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.",
+  "korean_text": "셋째 해에 유다의 여호사밧 왕이 이스라엘의 왕에게 내려가매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass in third year",
+      "korean_translation": "그리고 제삼년에 일어났다",
+      "word_indices": [
+        23,
+        27,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Jehoshaphat king of Judah",
+      "korean_translation": "유다 왕 여호사밧이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "came down to king of Israel",
+      "korean_translation": "이스라엘 왕에게 내려갔다",
+      "word_indices": [
+        14
+      ]
+    }
+  ]
+}

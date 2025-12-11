@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 6:30",
+  "version": "KJV",
+  "original_text": "And the floors of the house he overlaid with gold, within and without.",
+  "korean_text": "내외 성전 마루에는 금으로 입혔으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the floors of house",
+      "korean_translation": "그리고 집의 바닥은",
+      "word_indices": [
+        4,
+        1234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he overlaid with gold",
+      "korean_translation": "그가 금으로 덮었습니다",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "within and without",
+      "korean_translation": "안과 밖 모두",
+      "word_indices": [
+        64
+      ]
+    }
+  ]
+}

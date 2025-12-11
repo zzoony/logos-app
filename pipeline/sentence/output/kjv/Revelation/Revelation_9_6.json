@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Revelation 9:6",
+  "version": "KJV",
+  "original_text": "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.",
+  "korean_text": "그 날에는 사람들이 죽기를 구하여도 죽지 못하고 죽고 싶으나 죽음이 그들을 피하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And in those days",
+      "korean_translation": "그리고 그 날들에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall men seek death",
+      "korean_translation": "사람들이 죽음을 구할 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shall not find it",
+      "korean_translation": "그러나 찾지 못할 것이며",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and shall desire to die",
+      "korean_translation": "죽고자 원할 것이며",
+      "word_indices": [
+        44,
+        180
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and death shall flee from them",
+      "korean_translation": "그러나 죽음이 그들에게서 도망갈 것이라",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Matthew 6:11",
+  "version": "KJV",
+  "original_text": "Give us this day our daily bread.",
+  "korean_text": "오늘 우리에게 일용할 양식을 주시옵고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give us",
+      "korean_translation": "우리에게 주시옵소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this day",
+      "korean_translation": "오늘",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "our daily bread",
+      "korean_translation": "우리의 일용할 양식을",
+      "word_indices": [
+        79,
+        503
+      ]
+    }
+  ]
+}

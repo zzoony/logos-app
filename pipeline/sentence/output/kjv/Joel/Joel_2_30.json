@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Joel 2:30",
+  "version": "KJV",
+  "original_text": "And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.",
+  "korean_text": "내가 이적을 하늘과 땅에 베풀리니 곧 피와 불과 연기 기둥이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will shew wonders",
+      "korean_translation": "내가 기사를 보일 것이요",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the heavens and in the earth",
+      "korean_translation": "하늘과 땅에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "blood",
+      "korean_translation": "피",
+      "word_indices": [
+        59
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and fire",
+      "korean_translation": "불",
+      "word_indices": [
+        41
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and pillars of smoke",
+      "korean_translation": "연기 기둥을",
+      "word_indices": [
+        238,
+        630
+      ]
+    }
+  ]
+}

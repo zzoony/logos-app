@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Romans 3:30",
+  "version": "KJV",
+  "original_text": "Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith.",
+  "korean_text": "할례자도 믿음으로 말미암아 또한 무할례자도 믿음으로 말미암아 의롭다 하실 하나님은 한 분이시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Seeing it is one God,",
+      "korean_translation": "하나님은 한 분이시므로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which shall justify the circumcision by faith,",
+      "korean_translation": "할례받은 자를 믿음으로 의롭다 하시고",
+      "word_indices": [
+        128,
+        568
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and uncircumcision through faith.",
+      "korean_translation": "할례받지 않은 자를 믿음으로 의롭다 하심이라",
+      "word_indices": [
+        57,
+        128
+      ]
+    }
+  ]
+}

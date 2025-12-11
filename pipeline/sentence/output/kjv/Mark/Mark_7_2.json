@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Mark 7:2",
+  "version": "KJV",
+  "original_text": "And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault.",
+  "korean_text": "그의 제자 중 몇 사람이 부정한 손 곧 씻지 아니한 손으로 떡 먹는 것을 보았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when they saw some of his disciples",
+      "korean_translation": "그들이 그의 제자 몇 사람을 볼 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "eat bread with defiled hands",
+      "korean_translation": "부정한 손으로 빵을 먹는 것을 보고",
+      "word_indices": [
+        8,
+        79
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is to say, with unwashen, hands",
+      "korean_translation": "즉, 씻지 않은 손으로",
+      "word_indices": [
+        8,
+        3540
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they found fault",
+      "korean_translation": "그들이 비난했습니다",
+      "word_indices": [
+        1124,
+        1903
+      ]
+    }
+  ]
+}

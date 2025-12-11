@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 143:9",
+  "version": "KJV",
+  "original_text": "Deliver me, O Lord, from mine enemies: I flee unto thee to hide me.",
+  "korean_text": "여호와여 나를 내 원수들에게서 건지소서 내가 주께 피하여 숨었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Deliver me",
+      "korean_translation": "나를 건져주세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from mine enemies",
+      "korean_translation": "내 원수들로부터",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I flee unto thee",
+      "korean_translation": "저는 주께로 피합니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to hide me",
+      "korean_translation": "숨기 위해",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 26:1",
+  "version": "KJV",
+  "original_text": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.",
+  "korean_text": "아브라함 때에 첫 흉년이 들었더니 그 땅에 또 흉년이 들매 이삭이 그랄로 가서 블레셋 왕 아비멜렉에게 이르렀더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And there was a famine in the land",
+      "korean_translation": "그리고 그 땅에 기근이 있었는데",
+      "word_indices": [
+        10,
+        340
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "beside the first famine",
+      "korean_translation": "첫 번째 기근 외에",
+      "word_indices": [
+        61,
+        247,
+        340
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that was in the days of Abraham",
+      "korean_translation": "아브라함 때 있었던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And Isaac went unto Abimelech",
+      "korean_translation": "그리고 이삭은 아비멜렉에게 갔는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "king of the Philistines",
+      "korean_translation": "블레셋 사람들의 왕",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "unto Gerar",
+      "korean_translation": "그랄로",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 John 2:7",
+  "version": "KJV",
+  "original_text": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.",
+  "korean_text": "사랑하는 자들아 내가 새 계명을 너희에게 쓰는 것이 아니라 너희가 처음부터 가진 옛 계명이니 이 옛 계명은 너희가 들은 바 말씀이거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Brethren, I write no new commandment unto you",
+      "korean_translation": "형제들아, 나는 너희에게 새 계명을 쓰지 아니하노니",
+      "word_indices": [
+        3,
+        85,
+        220
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but an old commandment",
+      "korean_translation": "오직 old 계명을 쓰노니",
+      "word_indices": [
+        74,
+        85
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which ye had from the beginning",
+      "korean_translation": "이것은 너희가 처음부터 가진 것이니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The old commandment is the word",
+      "korean_translation": "그 old 계명은 말씀이니",
+      "word_indices": [
+        74,
+        85
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "which ye have heard from the beginning",
+      "korean_translation": "너희가 처음부터 들은 것이니라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 33:2",
+  "version": "KJV",
+  "original_text": "And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.",
+  "korean_text": "여종들과 그들의 자식들은 앞에 두고 레아와 그의 자식들은 다음에 두고 라헬과 요셉은 뒤에 두고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he put the handmaids and their children foremost",
+      "korean_translation": "그가 여종과 그 자식들을 맨 앞에 두고",
+      "word_indices": [
+        592,
+        3184
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Leah and her children after",
+      "korean_translation": "레아와 그 자식들을 그 뒤에 두고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Rachel and Joseph hindermost",
+      "korean_translation": "라헬과 요셉을 맨 뒤에 두었다",
+      "word_indices": [
+        3625
+      ]
+    }
+  ]
+}

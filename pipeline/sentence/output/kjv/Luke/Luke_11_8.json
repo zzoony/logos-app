@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 11:8",
+  "version": "KJV",
+  "original_text": "I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth.",
+  "korean_text": "내가 너희에게 말하노니 비록 벗 됨으로 인하여서는 일어나서 주지 아니할지라도 그 간청함을 인하여 일어나 그 요구대로 주리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I say unto you",
+      "korean_translation": "내가 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Though he will not rise and give him",
+      "korean_translation": "그가 일어나 그에게 주지 않을지라도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he is his friend",
+      "korean_translation": "그가 그의 친구이기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yet because of his importunity",
+      "korean_translation": "그러나 그의 끈질김 때문에",
+      "word_indices": [
+        5470
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he will rise and give him",
+      "korean_translation": "그는 일어나 그에게 줄 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "as many as he needeth",
+      "korean_translation": "그가 필요로 하는 만큼",
+      "word_indices": [
+        2378
+      ]
+    }
+  ]
+}

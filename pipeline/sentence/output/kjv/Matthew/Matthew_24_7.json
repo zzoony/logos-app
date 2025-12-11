@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 24:7",
+  "version": "KJV",
+  "original_text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+  "korean_text": "민족이 민족을, 나라가 나라를 대적하여 일어나겠고 곳곳에 기근과 지진이 있으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For nation shall rise against nation",
+      "korean_translation": "이는 민족이 민족을 대적하여 일어나겠고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and kingdom against kingdom",
+      "korean_translation": "나라가 나라를 대적하며",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there shall be famines",
+      "korean_translation": "기근이 있겠고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and pestilences",
+      "korean_translation": "역병이 있겠고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and earthquakes, in divers places",
+      "korean_translation": "여러 곳에 지진이 있으리라",
+      "word_indices": [
+        833
+      ]
+    }
+  ]
+}

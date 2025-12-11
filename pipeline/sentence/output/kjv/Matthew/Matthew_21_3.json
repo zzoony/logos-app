@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 21:3",
+  "version": "KJV",
+  "original_text": "And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.",
+  "korean_text": "만일 누가 무슨 말을 하거든 주가 쓰시겠다 하라 그리하면 즉시 보내리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if any man say ought unto you",
+      "korean_translation": "누가 너희에게 무엇이든 말하면",
+      "word_indices": [
+        3,
+        22,
+        346
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "ye shall say",
+      "korean_translation": "너희는 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Lord hath need of them",
+      "korean_translation": "주께서 그것들이 필요하시다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and straightway he will send them",
+      "korean_translation": "그리고 즉시 그분이 그것들을 보내시리라",
+      "word_indices": [
+        1,
+        730
+      ]
+    }
+  ]
+}

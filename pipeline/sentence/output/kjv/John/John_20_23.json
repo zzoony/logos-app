@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 20:23",
+  "version": "KJV",
+  "original_text": "Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.",
+  "korean_text": "너희가 누구의 죄든지 사하면 사하여질 것이요 누구의 죄든지 그대로 두면 그대로 있으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whose soever sins ye remit",
+      "korean_translation": "너희가 사하는 사람의 죄",
+      "word_indices": [
+        1426,
+        4207
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they are remitted unto them",
+      "korean_translation": "그 사람에게는 사해진 것이니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and whose soever sins ye retain",
+      "korean_translation": "너희가 붙드는 사람의 죄",
+      "word_indices": [
+        1426,
+        1635
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they are retained",
+      "korean_translation": "그 사람에게는 붙여진 것이니라",
+      "word_indices": [
+        1635
+      ]
+    }
+  ]
+}

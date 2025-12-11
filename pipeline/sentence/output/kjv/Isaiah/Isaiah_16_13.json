@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 16:13",
+  "version": "KJV",
+  "original_text": "This is the word that the Lord hath spoken concerning Moab since that time.",
+  "korean_text": "이는 여호와께서 오래 전부터 모압을 들어 하신 말씀이거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the word",
+      "korean_translation": "이것은 그 말씀입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the Lord hath spoken",
+      "korean_translation": "주께서 말씀하신",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "concerning Moab",
+      "korean_translation": "모압에 대한",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "since that time.",
+      "korean_translation": "그 때부터 입니다.",
+      "word_indices": [
+        30
+      ]
+    }
+  ]
+}

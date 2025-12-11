@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Philippians 4:12",
+  "version": "KJV",
+  "original_text": "I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.",
+  "korean_text": "나는 비천에 처할 줄도 알고 풍부에 처할 줄도 알아 모든 일 곧 배부름과 배고픔과 풍부와 궁핍에도 처할 줄 아는 일체의 비결을 배웠노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know how to be abased",
+      "korean_translation": "나는 비천해지는 것을 안다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I know how to abound",
+      "korean_translation": "그리고 풍부해지는 것도 안다",
+      "word_indices": [
+        1042
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "every where and in all things I am instructed",
+      "korean_translation": "어디서든 모든 일에 나는 배웠다",
+      "word_indices": [
+        11,
+        983
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to be full and to be hungry",
+      "korean_translation": "배부르는 것과 배고픈 것을",
+      "word_indices": [
+        962
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to abound and to suffer need",
+      "korean_translation": "풍부함과 궁핍을 겪는 것을",
+      "word_indices": [
+        1042
+      ]
+    }
+  ]
+}

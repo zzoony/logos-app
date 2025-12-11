@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 9:1",
+  "version": "KJV",
+  "original_text": "I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works.",
+  "korean_text": "내가 전심으로 여호와께 감사하오며 주의 모든 기이한 일들을 전하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will praise thee, O Lord,",
+      "korean_translation": "내가 주를 찬송하리이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with my whole heart;",
+      "korean_translation": "온전한 마음으로",
+      "word_indices": [
+        20,
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will shew forth all thy marvellous works.",
+      "korean_translation": "주의 모든 기이한 행사를 선포하리이다",
+      "word_indices": [
+        25,
+        29
+      ]
+    }
+  ]
+}

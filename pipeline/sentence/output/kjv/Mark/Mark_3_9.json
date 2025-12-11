@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 3:9",
+  "version": "KJV",
+  "original_text": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.",
+  "korean_text": "예수께서 무리가 에워싸 미는 것을 피하기 위하여 작은 배를 대기하도록 제자들에게 명하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he spake to his disciples",
+      "korean_translation": "그가 제자들에게 말하였으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that a small ship should wait on him",
+      "korean_translation": "작은 배가 그를 기다리게 하라",
+      "word_indices": [
+        223,
+        301,
+        345
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of the multitude",
+      "korean_translation": "무리 때문에",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "lest they should throng him",
+      "korean_translation": "그들이 그를 몰려들지 않게 하려고",
+      "word_indices": [
+        2795
+      ]
+    }
+  ]
+}

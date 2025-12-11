@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 John 2:23",
+  "version": "KJV",
+  "original_text": "Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also.",
+  "korean_text": "아들을 부인하는 자에게는 또한 아버지가 없으되 아들을 시인하는 자에게는 아버지도 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whosoever denieth the Son",
+      "korean_translation": "누구든지 아들을 부인하는 자는",
+      "word_indices": [
+        3127
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the same hath not the Father",
+      "korean_translation": "아버지도 없는 자라",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he that acknowledgeth the Son",
+      "korean_translation": "아들을 시인하는 자는",
+      "word_indices": [
+        5925
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hath the Father also",
+      "korean_translation": "아버지도 또한 있느니라",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

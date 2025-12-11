@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 17:16",
+  "version": "KJV",
+  "original_text": "For he said, Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation.",
+  "korean_text": "이르되 여호와께서 맹세하시기를 여호와가 아말렉과 더불어 대대로 싸우리라 하셨다 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he said,",
+      "korean_translation": "그가 말했으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because the Lord hath sworn",
+      "korean_translation": "주께서 맹세하셨기 때문이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the Lord will have war with Amalek",
+      "korean_translation": "주께서 아말렉과 전쟁을 하실 것이라",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from generation to generation.",
+      "korean_translation": "대대로",
+      "word_indices": [
+        143
+      ]
+    }
+  ]
+}

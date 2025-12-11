@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Isaiah 3:7",
+  "version": "KJV",
+  "original_text": "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.",
+  "korean_text": "그 날에 그가 소리를 높여 이르기를 나는 고치는 자가 되지 아니하겠노라 내 집에는 양식도 없고 의복도 없으니 너희는 나를 백성의 통치자로 삼지 말라 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In that day shall he swear",
+      "korean_translation": "그날에 그가 맹세하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying",
+      "korean_translation": "말하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will not be an healer",
+      "korean_translation": "나는 치료자가 되지 않으리라",
+      "word_indices": [
+        5072
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for in my house",
+      "korean_translation": "이는 내 집에는",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "is neither bread nor clothing",
+      "korean_translation": "떡도 옷도 없음이라",
+      "word_indices": [
+        31,
+        79,
+        1163
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "make me not a ruler of people",
+      "korean_translation": "나로 백성의 통치자가 되게 말지어다",
+      "word_indices": [
+        5,
+        201
+      ]
+    }
+  ]
+}

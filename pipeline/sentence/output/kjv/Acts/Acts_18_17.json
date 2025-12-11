@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Acts 18:17",
+  "version": "KJV",
+  "original_text": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.",
+  "korean_text": "모든 사람이 회당장 소스데네를 잡아 법정 앞에서 때리되 갈리오가 이 일을 상관하지 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then all the Greeks took Sosthenes",
+      "korean_translation": "그리하여 모든 그리스인들이 소스테네를 붙잡았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the chief ruler of the synagogue",
+      "korean_translation": "회당의 우두머리인",
+      "word_indices": [
+        108,
+        201,
+        454
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and beat him before the judgment seat",
+      "korean_translation": "재판석 앞에서 그를 때렸다",
+      "word_indices": [
+        66,
+        406,
+        446
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And Gallio cared for none of those things",
+      "korean_translation": "그리고 갈리오는 그런 일들 중 어떤 것도 관심 없었다",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

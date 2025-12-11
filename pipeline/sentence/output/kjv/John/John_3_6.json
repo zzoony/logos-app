@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 3:6",
+  "version": "KJV",
+  "original_text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.",
+  "korean_text": "육으로 난 것은 육이요 영으로 난 것은 영이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That which is born of flesh",
+      "korean_translation": "육으로 난 것은",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is flesh",
+      "korean_translation": "육이니",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and that which is born of Spirit",
+      "korean_translation": "영으로 난 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is spirit",
+      "korean_translation": "영이니라",
+      "word_indices": []
+    }
+  ]
+}

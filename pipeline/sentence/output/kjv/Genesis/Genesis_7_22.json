@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 7:22",
+  "version": "KJV",
+  "original_text": "All in whose nostrils was the breath of life, of all that was in the dry land, died.",
+  "korean_text": "육지에 있어 그 코에 생명의 기운의 숨이 있는 것은 다 죽었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All in whose nostrils was the breath of life",
+      "korean_translation": "그 콧속에 생명의 숨결이 있던 모든 것",
+      "word_indices": [
+        53,
+        720,
+        1452
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of all that was in the dry land",
+      "korean_translation": "마른 땅에 있던 모든 것",
+      "word_indices": [
+        10,
+        302
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "died",
+      "korean_translation": "죽었더라",
+      "word_indices": []
+    }
+  ]
+}

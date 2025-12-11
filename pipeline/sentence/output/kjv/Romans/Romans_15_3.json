@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Romans 15:3",
+  "version": "KJV",
+  "original_text": "For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me.",
+  "korean_text": "그리스도께서도 자기를 기쁘게 하지 아니하셨나니 기록된 바 주를 비방하는 자들의 비방이 내게 미쳤나이다 함과 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For even Christ pleased not himself",
+      "korean_translation": "이는 그리스도조차 자기를 기쁘게 하지 아니하셨으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but, as it is written",
+      "korean_translation": "오직 기록된 바",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The reproaches of them that reproached thee",
+      "korean_translation": "너를 비방하는 자들의 비방이",
+      "word_indices": [
+        1,
+        2,
+        308
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "fell on me",
+      "korean_translation": "내게 떨어졌나이다",
+      "word_indices": [
+        129
+      ]
+    }
+  ]
+}

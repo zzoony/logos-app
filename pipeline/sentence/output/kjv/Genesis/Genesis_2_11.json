@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 2:11",
+  "version": "KJV",
+  "original_text": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;",
+  "korean_text": "첫째의 이름은 비손이라 금이 있는 하윌라 온 땅을 둘렀으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The name of the first is Pison",
+      "korean_translation": "첫째 강의 이름은 비손이라",
+      "word_indices": [
+        16,
+        61
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that is it which compasseth the whole land of Havilah",
+      "korean_translation": "그것은 하윌라 온 땅을 둘러싸는 강이다",
+      "word_indices": [
+        10,
+        125,
+        2579
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where there is gold",
+      "korean_translation": "그곳에는 금이 있다",
+      "word_indices": [
+        69
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Samuel 1:14",
+  "version": "KJV",
+  "original_text": "And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.",
+  "korean_text": "엘리가 그에게 이르되 네가 언제까지 취하여 있겠느냐 포도주를 끊으라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Eli said unto her",
+      "korean_translation": "엘리가 그녀에게 말하니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How long wilt thou be drunken?",
+      "korean_translation": "네가 언제까지 취하겠느냐?",
+      "word_indices": [
+        144,
+        887
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "put away thy wine from thee",
+      "korean_translation": "네게서 네 포도주를 치우라",
+      "word_indices": [
+        2,
+        138
+      ]
+    }
+  ]
+}

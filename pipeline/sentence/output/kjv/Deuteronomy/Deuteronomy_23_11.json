@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Deuteronomy 23:11",
+  "version": "KJV",
+  "original_text": "But it shall be, when evening cometh on, he shall wash himself with water: and when the sun is down, he shall come into the camp again.",
+  "korean_text": "해 질 때에 목욕하고 해 진 후에 진에 들어올 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But it shall be",
+      "korean_translation": "그러나 그것이 될 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when evening cometh on",
+      "korean_translation": "저녁이 될 때",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he shall wash himself with water",
+      "korean_translation": "그는 물로 스스로를 씻을 것이다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and when the sun is down",
+      "korean_translation": "그리고 해가 질 때",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he shall come into the camp again",
+      "korean_translation": "그는 다시 진영으로 들어올 것이다",
+      "word_indices": [
+        7,
+        230
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Matthew 5:36",
+  "version": "KJV",
+  "original_text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+  "korean_text": "네 머리로도 하지 말라 이는 네가 한 터럭도 희고 검게 할 수 없음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither shalt thou swear by thy head,",
+      "korean_translation": "네 머리로도 맹세하지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because thou canst not make one hair white or black.",
+      "korean_translation": "네가 한 터럭도 희게 하거나 검게 할 수 없기 때문이다",
+      "word_indices": [
+        15,
+        405,
+        416,
+        1328
+      ]
+    }
+  ]
+}

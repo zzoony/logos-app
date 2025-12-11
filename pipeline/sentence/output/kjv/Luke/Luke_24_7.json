@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 24:7",
+  "version": "KJV",
+  "original_text": "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.",
+  "korean_text": "이르시기를 인자가 죄인의 손에 넘겨져 십자가에 못 박히고 제삼일에 다시 살아나야 하리라 하셨느니라 한대",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Son of man must be delivered",
+      "korean_translation": "인자는 넘겨져야만 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into the hands of sinful men",
+      "korean_translation": "죄인들의 손에",
+      "word_indices": [
+        7,
+        8,
+        2107
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and be crucified",
+      "korean_translation": "십자가에 못 박히고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the third day rise again",
+      "korean_translation": "그리고 삼 일 만에 다시 살아나야 한다",
+      "word_indices": [
+        176
+      ]
+    }
+  ]
+}

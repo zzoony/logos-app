@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Corinthians 14:36",
+  "version": "KJV",
+  "original_text": "What? came the word of God out from you? or came it unto you only?",
+  "korean_text": "하나님의 말씀이 너희로부터 난 것이냐 또는 너희에게만 임한 것이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What?",
+      "korean_translation": "무엇?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "came word of God out from you?",
+      "korean_translation": "하나님의 말씀이 너희에게서 났느냐?",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or came it unto you only?",
+      "korean_translation": "아니면 그 말씀이 너희에게만 임했느냐?",
+      "word_indices": [
+        3,
+        15,
+        121
+      ]
+    }
+  ]
+}

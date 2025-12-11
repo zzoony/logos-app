@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 1:27",
+  "version": "KJV",
+  "original_text": "To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.",
+  "korean_text": "다윗의 자손 요셉이라 하는 사람과 약혼한 처녀에게 이르니 그 처녀의 이름은 마리아라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To a virgin espoused to a man",
+      "korean_translation": "한 남자와 약혼한 처녀에게",
+      "word_indices": [
+        564
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose name was Joseph",
+      "korean_translation": "그의 이름은 요셉이라",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the house of David",
+      "korean_translation": "다윗의 집안 사람이더라",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the virgin's name was Mary",
+      "korean_translation": "그 처녀의 이름은 마리아라",
+      "word_indices": [
+        16,
+        564
+      ]
+    }
+  ]
+}

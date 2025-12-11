@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 6:31",
+  "version": "KJV",
+  "original_text": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?",
+  "korean_text": "그러므로 염려하여 이르기를 무엇을 먹을까 무엇을 마실까 무엇을 입을까 하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore take no thought",
+      "korean_translation": "그러므로 염려하지 말라",
+      "word_indices": [
+        546
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, What shall we eat?",
+      "korean_translation": "무엇을 먹을까 말고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or, What shall we drink?",
+      "korean_translation": "또 무엇을 마실까 말고",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or, Wherewithal shall we be clothed?",
+      "korean_translation": "또 무엇을 입을까 염려하지 말라",
+      "word_indices": [
+        15,
+        1163
+      ]
+    }
+  ]
+}

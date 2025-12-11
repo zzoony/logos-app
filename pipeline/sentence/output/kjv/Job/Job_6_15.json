@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 6:15",
+  "version": "KJV",
+  "original_text": "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;",
+  "korean_text": "내 형제들은 개울과 같이 변덕스럽고 그들은 개울의 물살 같이 지나가누나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My brethren have dealt deceitfully",
+      "korean_translation": "나의 형제들이 속이는 행동을 했고",
+      "word_indices": [
+        1745
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as a brook",
+      "korean_translation": "시냇물처럼",
+      "word_indices": [
+        585
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and as stream of brooks",
+      "korean_translation": "그리고 시냇물들의 흐름처럼",
+      "word_indices": [
+        585,
+        1103
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they pass away",
+      "korean_translation": "그들은 사라져 간다",
+      "word_indices": [
+        27
+      ]
+    }
+  ]
+}

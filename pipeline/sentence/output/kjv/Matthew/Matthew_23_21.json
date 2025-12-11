@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 23:21",
+  "version": "KJV",
+  "original_text": "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein.",
+  "korean_text": "또 성전으로 맹세하는 자는 성전과 그 안에 계신 이로 맹세함이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And whoso shall swear by the temple",
+      "korean_translation": "그리고 성전을 두고 맹세하는 자는",
+      "word_indices": [
+        148
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sweareth by it",
+      "korean_translation": "성전을 두고 맹세하는 것이며",
+      "word_indices": [
+        1763
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and by him that dwelleth therein",
+      "korean_translation": "그 안에 거하시는 분을 두고 맹세하는 것이다",
+      "word_indices": [
+        141,
+        543
+      ]
+    }
+  ]
+}

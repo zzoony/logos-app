@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 23:20",
+  "version": "KJV",
+  "original_text": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.",
+  "korean_text": "내가 사자를 네 앞서 보내어 길에서 너를 보호하여 너를 내가 예비한 곳에 이르게 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold, I send an Angel before thee,",
+      "korean_translation": "보라, 내가 너의 앞에 한 사자를 보내니,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to keep thee in the way,",
+      "korean_translation": "길에서 너를 지키기 위해,",
+      "word_indices": [
+        2,
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to bring thee into the place",
+      "korean_translation": "그리고 너를 그 곳으로 데려오기 위해",
+      "word_indices": [
+        2,
+        7,
+        21
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which I have prepared.",
+      "korean_translation": "내가 준비한 곳으로.",
+      "word_indices": []
+    }
+  ]
+}

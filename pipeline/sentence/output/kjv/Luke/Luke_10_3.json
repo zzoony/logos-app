@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 10:3",
+  "version": "KJV",
+  "original_text": "Go your ways: behold, I send you forth as lambs among wolves.",
+  "korean_text": "갈지어다 내가 너희를 보냄이 어린 양을 이리 가운데로 보냄과 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go your ways:",
+      "korean_translation": "너희 길을 가라:",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I send you forth as lambs",
+      "korean_translation": "내가 너희를 어린 양들처럼 보내노니",
+      "word_indices": [
+        3,
+        25
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "among wolves.",
+      "korean_translation": "이리들 가운데로.",
+      "word_indices": []
+    }
+  ]
+}

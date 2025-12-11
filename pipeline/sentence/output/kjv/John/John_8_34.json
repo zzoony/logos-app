@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 8:34",
+  "version": "KJV",
+  "original_text": "Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.",
+  "korean_text": "예수께서 대답하시되 진실로 진실로 너희에게 이르노니 죄를 범하는 자마다 죄의 종이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered them",
+      "korean_translation": "예수께서 그들에게 대답하시니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로 진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Whosoever committeth sin",
+      "korean_translation": "죄를 짓는 자는",
+      "word_indices": [
+        1284
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is the servant of sin",
+      "korean_translation": "죄의 종이니라",
+      "word_indices": [
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 10:1",
+  "version": "KJV",
+  "original_text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 문을 통하여 양의 우리에 들어가지 아니하고 다른 데로 넘어가는 자는 절도며 강도요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로, 진실로 내가 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He that entereth not by the door into the sheepfold",
+      "korean_translation": "문을 통하여 양의 우리에 들어가지 아니하고",
+      "word_indices": [
+        7,
+        115,
+        1246,
+        2903
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but climbeth up some other way",
+      "korean_translation": "다른 곳으로 넘어가는 자는",
+      "word_indices": [
+        26,
+        56,
+        5515
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "same is a thief and a robber",
+      "korean_translation": "저는 도적이며 강도니라",
+      "word_indices": [
+        90,
+        707,
+        1448
+      ]
+    }
+  ]
+}

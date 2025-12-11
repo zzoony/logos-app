@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 4:6",
+  "version": "KJV",
+  "original_text": "Now Jacob's well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.",
+  "korean_text": "거기 또 야곱의 우물이 있더라 예수께서 길 가시다가 피곤하여 우물 곁에 그대로 앉으시니 때가 여섯 시쯤 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Jacob's well was there",
+      "korean_translation": "그때 야곱의 우물이 그곳에 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus therefore, being wearied with his journey",
+      "korean_translation": "그러므로 예수님은 여행으로 피곤하셔서",
+      "word_indices": [
+        312
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "sat thus on the well",
+      "korean_translation": "우물가에 그렇게 앉으셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it was about the sixth hour",
+      "korean_translation": "그때는 여섯 시쯤이었다",
+      "word_indices": [
+        350,
+        668
+      ]
+    }
+  ]
+}

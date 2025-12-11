@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 27:61",
+  "version": "KJV",
+  "original_text": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.",
+  "korean_text": "거기 막달라 마리아와 다른 마리아가 무덤을 향하여 앉았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And there was Mary Magdalene",
+      "korean_translation": "그리고 막달라 마리아가 있었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and other Mary",
+      "korean_translation": "또 다른 마리아가",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "sitting over against the sepulchre",
+      "korean_translation": "무덤 맞은편에 앉아 있었다",
+      "word_indices": [
+        18,
+        441
+      ]
+    }
+  ]
+}

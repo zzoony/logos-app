@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Isaiah 1:17",
+  "version": "KJV",
+  "original_text": "Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.",
+  "korean_text": "선행을 배우며 정의를 구하며 학대 받는 자를 도와 주며 고아를 위하여 신원하며 과부를 위하여 변호하라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Learn to do well",
+      "korean_translation": "선을 행하는 법을 배우라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "seek judgment",
+      "korean_translation": "정의를 구하라",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "relieve the oppressed",
+      "korean_translation": "억압받는 자를 구제하라",
+      "word_indices": [
+        495,
+        2100
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "judge the fatherless",
+      "korean_translation": "고아를 돌보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "plead for the widow",
+      "korean_translation": "과부를 변호하라",
+      "word_indices": [
+        397,
+        729
+      ]
+    }
+  ]
+}

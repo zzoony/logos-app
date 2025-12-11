@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 7:10",
+  "version": "KJV",
+  "original_text": "And it came to pass after seven days, that the waters of the flood were upon the earth.",
+  "korean_text": "칠 일 후에 홍수가 땅에 덮이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass after seven days",
+      "korean_translation": "그리고 이레가 지난 후에",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the waters of the flood",
+      "korean_translation": "홍수의 물들이",
+      "word_indices": [
+        32,
+        506
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "were upon the earth",
+      "korean_translation": "땅 위에 있었더라",
+      "word_indices": []
+    }
+  ]
+}

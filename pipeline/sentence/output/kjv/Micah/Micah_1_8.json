@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Micah 1:8",
+  "version": "KJV",
+  "original_text": "Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.",
+  "korean_text": "이러므로 내가 애통하며 애곡하고 벌거벗은 몸으로 행하며 들개 같이 애곡하고 타조 같이 애통하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore I will wail and howl",
+      "korean_translation": "그러므로 내가 애곡하고 통곡하겠으며",
+      "word_indices": [
+        1265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will go stripped and naked",
+      "korean_translation": "벌거벗고 가겠으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will make a wailing like the dragons",
+      "korean_translation": "나는 용과 같이 애곡하고",
+      "word_indices": [
+        865,
+        1265
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and mourning as the owls",
+      "korean_translation": "부엉이 같이 애통하겠노라",
+      "word_indices": [
+        273,
+        1424
+      ]
+    }
+  ]
+}

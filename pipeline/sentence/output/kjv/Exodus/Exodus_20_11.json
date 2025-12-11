@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Exodus 20:11",
+  "version": "KJV",
+  "original_text": "For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it.",
+  "korean_text": "이는 엿새 동안에 나 여호와가 하늘과 땅과 바다와 그 가운데 모든 것을 만들고 일곱째 날에 쉬었음이라 그러므로 나 여호와가 안식일을 복되게 하여 그 날을 거룩하게 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For in six days the Lord made heaven and earth",
+      "korean_translation": "이는 여섯 날에 주께서 하늘과 땅을 만드시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sea, and all that in them is",
+      "korean_translation": "바다와 그 안에 있는 모든 것을 만드시며",
+      "word_indices": [
+        1,
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and rested the seventh day",
+      "korean_translation": "일곱째 날에 쉬셨기 때문이니라",
+      "word_indices": [
+        97,
+        268
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "wherefore the Lord blessed the sabbath day",
+      "korean_translation": "그러므로 주께서 안식일을 복되게 하시고",
+      "word_indices": [
+        188
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and hallowed it",
+      "korean_translation": "거룩하게 하셨느니라",
+      "word_indices": [
+        826
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 5:17",
+  "version": "KJV",
+  "original_text": "But Jesus answered them, My Father worketh hitherto, and I work.",
+  "korean_text": "예수께서 그들에게 이르시되 내 아버지께서 이제까지 일하시니 나도 일한다 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Jesus answered them",
+      "korean_translation": "그러나 예수님께서 그들에게 대답하셨다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My Father worketh hitherto",
+      "korean_translation": "나의 아버지께서는 지금까지 일하고 계신다",
+      "word_indices": [
+        838
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I work",
+      "korean_translation": "그리고 나도 일한다",
+      "word_indices": [
+        29
+      ]
+    }
+  ]
+}

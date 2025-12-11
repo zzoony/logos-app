@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Joel 1:4",
+  "version": "KJV",
+  "original_text": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
+  "korean_text": "팥중이가 남긴 것을 메뚜기가 먹고 메뚜기가 남긴 것을 느치가 먹고 느치가 남긴 것을 황충이 먹었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That which the palmerworm hath left",
+      "korean_translation": "무당벌레가 남긴 것",
+      "word_indices": [
+        3526
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the locust hath eaten",
+      "korean_translation": "메뚜기가 먹었다",
+      "word_indices": [
+        1002
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and that which the locust hath left",
+      "korean_translation": "그리고 메뚜기가 남긴 것",
+      "word_indices": [
+        1002
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the cankerworm hath eaten",
+      "korean_translation": "거세미가 먹었다",
+      "word_indices": [
+        2550
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and that which the cankerworm hath left",
+      "korean_translation": "그리고 거세미가 남긴 것",
+      "word_indices": [
+        2550
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the caterpiller hath eaten",
+      "korean_translation": "애벌레가 먹었다",
+      "word_indices": [
+        2705
+      ]
+    }
+  ]
+}

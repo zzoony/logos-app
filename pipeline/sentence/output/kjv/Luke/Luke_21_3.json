@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 21:3",
+  "version": "KJV",
+  "original_text": "And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:",
+  "korean_text": "이르시되 내가 참으로 너희에게 말하노니 이 가난한 과부가 다른 모든 사람보다 많이 넣었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said,",
+      "korean_translation": "그가 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Of a truth I say unto you,",
+      "korean_translation": "진실로 너희에게 말하노니,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that this poor widow",
+      "korean_translation": "이 가난한 과부는",
+      "word_indices": [
+        153,
+        397
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hath cast in more",
+      "korean_translation": "더 많이 넣었느니라",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "than they all:",
+      "korean_translation": "그들 모두보다",
+      "word_indices": [
+        52
+      ]
+    }
+  ]
+}

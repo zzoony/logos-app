@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Luke 6:1",
+  "version": "KJV",
+  "original_text": "And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.",
+  "korean_text": "안식일에 예수께서 밀밭 사이로 지나가실새 제자들이 이삭을 잘라 손으로 비비어 먹으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass",
+      "korean_translation": "그리고 그 일이 일어나니",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the second sabbath after the first,",
+      "korean_translation": "첫 안식일 후 둘째 안식일에",
+      "word_indices": [
+        61,
+        188,
+        190
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he went through the corn fields;",
+      "korean_translation": "그가 밀밭을 지나갔고",
+      "word_indices": [
+        57,
+        84,
+        326
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his disciples plucked the ears of corn,",
+      "korean_translation": "그의 제자들이 밀 이삭을 뽑았고",
+      "word_indices": [
+        111,
+        326,
+        594
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and did eat,",
+      "korean_translation": "먹었으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "rubbing them in their hands.",
+      "korean_translation": "손으로 비벼서 먹었다.",
+      "word_indices": [
+        1,
+        8
+      ]
+    }
+  ]
+}

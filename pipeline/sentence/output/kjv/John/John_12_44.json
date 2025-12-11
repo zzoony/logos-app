@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 12:44",
+  "version": "KJV",
+  "original_text": "Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.",
+  "korean_text": "예수께서 외쳐 이르시되 나를 믿는 자는 나를 믿는 것이 아니요 나를 보내신 이를 믿는 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus cried and said",
+      "korean_translation": "예수께서 외쳐 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He that believeth on me",
+      "korean_translation": "나를 믿는 자는",
+      "word_indices": [
+        699
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "believeth not on me",
+      "korean_translation": "나를 믿는 것이 아니요",
+      "word_indices": [
+        699
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but on him that sent me",
+      "korean_translation": "나를 보내신 이를 믿는 것이라",
+      "word_indices": []
+    }
+  ]
+}

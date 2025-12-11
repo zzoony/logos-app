@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 27:8",
+  "version": "KJV",
+  "original_text": "Now therefore, my son, obey my voice according to that which I command thee.",
+  "korean_text": "그런즉 내 아들아 내 말을 따라 내가 네게 명하는 대로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now therefore, my son",
+      "korean_translation": "그러므로 내 아들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "obey my voice",
+      "korean_translation": "내 목소리를 들으라",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "according to that which I command thee",
+      "korean_translation": "내가 너에게 명하는 것에 따라",
+      "word_indices": [
+        2,
+        28,
+        40
+      ]
+    }
+  ]
+}

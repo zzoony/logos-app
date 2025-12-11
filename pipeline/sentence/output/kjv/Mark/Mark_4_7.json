@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 4:7",
+  "version": "KJV",
+  "original_text": "And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit.",
+  "korean_text": "더러는 가시떨기에 떨어지매 가시가 자라 기운을 막으므로 결실하지 못하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And some fell among thorns",
+      "korean_translation": "그리고 어떤 씨는 가시덤불 속에 떨어졌고",
+      "word_indices": [
+        129,
+        545
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the thorns grew up",
+      "korean_translation": "가시덤불이 자라났고",
+      "word_indices": [
+        545
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and choked it",
+      "korean_translation": "그것을 질식시켰으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it yielded no fruit",
+      "korean_translation": "그것은 열매를 맺지 못했다",
+      "word_indices": [
+        124,
+        687
+      ]
+    }
+  ]
+}

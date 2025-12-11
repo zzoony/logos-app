@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 4:29",
+  "version": "KJV",
+  "original_text": "Come, see a man, which told me all things that ever I did: is not this the Christ?",
+  "korean_text": "내가 행한 모든 일을 내게 말한 사람을 와서 보라 이는 그리스도가 아니냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come, see a man",
+      "korean_translation": "와서, 한 사람을 보세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which told me all things",
+      "korean_translation": "그가 내게 모든 것을 말했어요",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that ever I did",
+      "korean_translation": "내가 지금까지 한 모든 일들을요",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is not this Christ?",
+      "korean_translation": "이분이 그리스도가 아니신가요?",
+      "word_indices": []
+    }
+  ]
+}

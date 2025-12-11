@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 9:2",
+  "version": "KJV",
+  "original_text": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?",
+  "korean_text": "제자들이 물어 이르되 랍비여 이 사람이 맹인으로 난 것이 누구의 죄로 인함이니이까 자기니이까 그의 부모니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And his disciples asked him, saying,",
+      "korean_translation": "그리고 그의 제자들이 그에게 물어 이르되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Master,",
+      "korean_translation": "선생님이여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who did sin,",
+      "korean_translation": "누가 죄를 지었나이까,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "this man, or his parents,",
+      "korean_translation": "이 사람이나 그의 부모들이니이까,",
+      "word_indices": [
+        15,
+        1221
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that he was born blind?",
+      "korean_translation": "그가 맹인으로 나게 하려 하심이니이까?",
+      "word_indices": [
+        380
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Ecclesiastes 11:6",
+  "version": "KJV",
+  "original_text": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.",
+  "korean_text": "너는 아침에 씨를 뿌리고 저녁에도 손을 놓지 말라 이것이 잘 될는지, 저것이 잘 될는지, 혹 둘이 다 잘 될는지 알지 못함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the morning sow thy seed",
+      "korean_translation": "아침에 너의 씨를 뿌리고",
+      "word_indices": [
+        396
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and in the evening withhold not thine hand",
+      "korean_translation": "저녁에도 네 손을 멈추지 말라",
+      "word_indices": [
+        8,
+        1460
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for thou knowest not",
+      "korean_translation": "네가 알지 못하니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whether shall prosper, either this or that",
+      "korean_translation": "이것이 혹 저것이 번성할는지",
+      "word_indices": [
+        15,
+        509,
+        740
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or whether they both shall be alike good",
+      "korean_translation": "혹 둘이 다 같이 좋을는지",
+      "word_indices": [
+        15,
+        1776
+      ]
+    }
+  ]
+}

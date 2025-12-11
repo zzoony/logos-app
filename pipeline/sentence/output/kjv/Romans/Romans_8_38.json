@@ -1,0 +1,74 @@
+{
+  "verse_reference": "Romans 8:38",
+  "version": "KJV",
+  "original_text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,",
+  "korean_text": "내가 확신하노니 사망이나 생명이나 천사들이나 권세자들이나 현재 일이나 장래 일이나 능력이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I am persuaded,",
+      "korean_translation": "내가 확신하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that neither death,",
+      "korean_translation": "사망이나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor life,",
+      "korean_translation": "생명이나",
+      "word_indices": [
+        31,
+        53
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor angels,",
+      "korean_translation": "천사들이나",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nor principalities,",
+      "korean_translation": "권세者们나",
+      "word_indices": [
+        31,
+        2047
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "nor powers,",
+      "korean_translation": "능력들이나",
+      "word_indices": [
+        31,
+        106
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "nor things present,",
+      "korean_translation": "현재 일들이나",
+      "word_indices": [
+        11,
+        31,
+        242
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "nor things to come,",
+      "korean_translation": "장래 일들이",
+      "word_indices": [
+        11,
+        31
+      ]
+    }
+  ]
+}

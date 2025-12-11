@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Genesis 1:7",
+  "version": "KJV",
+  "original_text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.",
+  "korean_text": "하나님이 궁창을 만드사 궁창 아래의 물과 궁창 위의 물로 나뉘게 하시니 그대로 되니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And God made the firmament",
+      "korean_translation": "하나님이 궁창을 만드시고",
+      "word_indices": [
+        1344
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and divided the waters",
+      "korean_translation": "물들을 나누시니",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which were under the firmament",
+      "korean_translation": "궁창 아래의 물들이",
+      "word_indices": [
+        1344
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the waters which were above the firmament",
+      "korean_translation": "궁창 위의 물들로부터",
+      "word_indices": [
+        32,
+        145,
+        1344
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and it was so",
+      "korean_translation": "그리되어 그대로 되니라",
+      "word_indices": []
+    }
+  ]
+}

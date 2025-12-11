@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 18:10",
+  "version": "KJV",
+  "original_text": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican.",
+  "korean_text": "두 사람이 기도하러 성전에 올라가니 하나는 바리새인이요 하나는 세리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two men went up into the temple",
+      "korean_translation": "두 사람이 성전에 올라갔습니다",
+      "word_indices": [
+        7,
+        148
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to pray",
+      "korean_translation": "기도하기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the one a Pharisee",
+      "korean_translation": "한 사람은 바리새인이었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the other a publican",
+      "korean_translation": "다른 한 사람은 세리였습니다",
+      "word_indices": [
+        56,
+        1144
+      ]
+    }
+  ]
+}

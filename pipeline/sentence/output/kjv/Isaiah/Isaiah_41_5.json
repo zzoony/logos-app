@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Isaiah 41:5",
+  "version": "KJV",
+  "original_text": "The isles saw it, and feared; the ends of the earth were afraid, drew near, and came.",
+  "korean_text": "섬들이 보고 두려워하며 땅 끝이 무서워 떨며 함께 모여 와서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The isles saw it",
+      "korean_translation": "섬들이 그것을 보았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and feared",
+      "korean_translation": "두려워했으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the ends of the earth were afraid",
+      "korean_translation": "땅 끝들이 두려워했고",
+      "word_indices": [
+        73,
+        165
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "drew near",
+      "korean_translation": "가까이 나아갔으며",
+      "word_indices": [
+        150
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and came",
+      "korean_translation": "이르렀다",
+      "word_indices": []
+    }
+  ]
+}

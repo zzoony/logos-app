@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Daniel 2:37",
+  "version": "KJV",
+  "original_text": "Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.",
+  "korean_text": "왕이여 왕은 여러 왕들 중의 왕이시라 하늘의 하나님이 나라와 권세와 능력과 영광을 왕에게 주셨고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou, O king,",
+      "korean_translation": "왕이시여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "art a king of kings:",
+      "korean_translation": "왕 중의 왕이시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the God of heaven",
+      "korean_translation": "하늘의 하나님께서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hath given thee a kingdom,",
+      "korean_translation": "왕국을 주셨고",
+      "word_indices": [
+        2,
+        71
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "power, and strength, and glory.",
+      "korean_translation": "권능과 힘과 영광을 주셨느니라",
+      "word_indices": [
+        106
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 3:12",
+  "version": "KJV",
+  "original_text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.",
+  "korean_text": "아담이 이르되 하나님이 주셔서 나와 함께 있게 하신 여자 그가 그 나무 열매를 내게 주므로 내가 먹었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the man said",
+      "korean_translation": "그 사람이 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The woman whom thou gavest to be with me",
+      "korean_translation": "나와 함께 있으라고 주신 여자",
+      "word_indices": [
+        870
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she gave me of the tree",
+      "korean_translation": "그가 나에게 그 나무의 열매를 주었으므로",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I did eat",
+      "korean_translation": "내가 먹었나이다",
+      "word_indices": []
+    }
+  ]
+}

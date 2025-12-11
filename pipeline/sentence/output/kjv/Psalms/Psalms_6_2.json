@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 6:2",
+  "version": "KJV",
+  "original_text": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed.",
+  "korean_text": "여호와여 내가 수척하였사오니 내게 은혜를 베푸소서 여호와여 나의 뼈가 떨리오니 나를 고치소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Have mercy upon me",
+      "korean_translation": "나에게 자비를 베풀어 주소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I am weak",
+      "korean_translation": "내가 연약하오니",
+      "word_indices": [
+        685
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "O Lord, heal me",
+      "korean_translation": "오 주님, 나를 고쳐주소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for my bones are vexed",
+      "korean_translation": "내 뼈들이 괴로우니",
+      "word_indices": [
+        828
+      ]
+    }
+  ]
+}

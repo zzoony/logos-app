@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 21:8",
+  "version": "KJV",
+  "original_text": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way.",
+  "korean_text": "무리의 대다수는 그들의 겉옷을 길에 펴고 다른 이들은 나뭇가지를 베어 길에 펴고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And a very great multitude spread their garments in the way",
+      "korean_translation": "매우 큰 무리가 자기들의 겉옷을 길에 펐고",
+      "word_indices": [
+        26,
+        113,
+        119,
+        168,
+        290
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "others cut down branches from the trees",
+      "korean_translation": "다른 이들은 나무에서 가지를 베어",
+      "word_indices": [
+        14,
+        56,
+        91
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and strawed them in the way",
+      "korean_translation": "그것들을 길에 흩어 놓았더라",
+      "word_indices": [
+        1,
+        26,
+        1188
+      ]
+    }
+  ]
+}

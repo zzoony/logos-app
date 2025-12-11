@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 39:20",
+  "version": "KJV",
+  "original_text": "And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison.",
+  "korean_text": "이에 요셉의 주인이 그를 잡아 옥에 가두니 그 옥은 왕의 죄수를 가두는 곳이었더라 요셉이 옥에 갇혔으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Joseph's master took him",
+      "korean_translation": "요셉의 주인이 그를 데려가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and put him into the prison",
+      "korean_translation": "그를 옥에 가두었으니",
+      "word_indices": [
+        7,
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a place where the king's prisoners were bound",
+      "korean_translation": "왕의 죄수들이 갇히는 곳이라",
+      "word_indices": [
+        21,
+        875,
+        2086
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he was there in the prison",
+      "korean_translation": "그가 옥에 있었더라",
+      "word_indices": [
+        359
+      ]
+    }
+  ]
+}

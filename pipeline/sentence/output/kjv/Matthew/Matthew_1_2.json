@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 1:2",
+  "version": "KJV",
+  "original_text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;",
+  "korean_text": "아브라함이 이삭을 낳고 이삭은 야곱을 낳고 야곱은 유다와 그의 형제들을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham begat Isaac;",
+      "korean_translation": "아브라함이 이삭을 낳고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Isaac begat Jacob;",
+      "korean_translation": "이삭이 야곱을 낳고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Jacob begat Judas",
+      "korean_translation": "야곱이 유다를 낳고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his brethren;",
+      "korean_translation": "그의 형제들을 낳았느니라",
+      "word_indices": []
+    }
+  ]
+}

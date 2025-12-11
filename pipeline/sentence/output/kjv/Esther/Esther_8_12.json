@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Esther 8:12",
+  "version": "KJV",
+  "original_text": "Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar.",
+  "korean_text": "아하수에로 왕의 각 지방에서 아달월 곧 십이월 십삼일 하루 동안에 하게 하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Upon one day in all the provinces",
+      "korean_translation": "어느 날 모든 지방에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of king Ahasuerus",
+      "korean_translation": "아하수에로 왕의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "namely, upon the thirteenth day",
+      "korean_translation": "즉, 십삼 일에",
+      "word_indices": [
+        1131,
+        1731
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the twelfth month",
+      "korean_translation": "열두 번째 달의",
+      "word_indices": [
+        95,
+        1137
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "which is the month Adar",
+      "korean_translation": "아달월인",
+      "word_indices": [
+        95
+      ]
+    }
+  ]
+}

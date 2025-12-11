@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 25:6",
+  "version": "KJV",
+  "original_text": "Remember, O Lord, thy tender mercies and thy lovingkindnesses; for they have been ever of old.",
+  "korean_text": "여호와여 주의 긍휼하심과 인자하심이 영원부터 있었사오니 주여 이것들을 기억하옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember",
+      "korean_translation": "기억하소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thy tender mercies",
+      "korean_translation": "주의 긍휼하심을",
+      "word_indices": [
+        775
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and thy lovingkindnesses",
+      "korean_translation": "그리고 주의 인자하심을",
+      "word_indices": [
+        1063
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for they have been ever of old",
+      "korean_translation": "이는 그것들이 옛적부터 항상 있었기 때문이니이다",
+      "word_indices": [
+        54,
+        74
+      ]
+    }
+  ]
+}

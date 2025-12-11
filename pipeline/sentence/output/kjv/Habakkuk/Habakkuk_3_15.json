@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Habakkuk 3:15",
+  "version": "KJV",
+  "original_text": "Thou didst walk through the sea with thine horses, through the heap of great waters.",
+  "korean_text": "주께서 말을 타시고 바다 곧 큰 물의 파도를 밟으셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou didst walk through the sea",
+      "korean_translation": "당신은 바다를 걸어가셨습니다",
+      "word_indices": [
+        57,
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with thine horses",
+      "korean_translation": "당신의 말들과 함께",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "through the heap of great waters",
+      "korean_translation": "큰 물의 더미를 통과하며",
+      "word_indices": [
+        32,
+        57,
+        523
+      ]
+    }
+  ]
+}

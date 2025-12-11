@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Romans 1:12",
+  "version": "KJV",
+  "original_text": "That is, that I may be comforted together with you by the mutual faith both of you and me.",
+  "korean_text": "이는 곧 내가 너희 가운데서 너희와 나의 믿음으로 말미암아 피차 안위함을 얻으려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That is,",
+      "korean_translation": "즉,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I may be comforted",
+      "korean_translation": "내가 위로를 받을 수 있도록",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "together with you",
+      "korean_translation": "너희와 함께",
+      "word_indices": [
+        3,
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by mutual faith",
+      "korean_translation": "상호적인 믿음으로",
+      "word_indices": [
+        128,
+        5635
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "both of you and me.",
+      "korean_translation": "너희와 나 모두의.",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

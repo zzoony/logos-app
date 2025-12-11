@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Proverbs 1:24",
+  "version": "KJV",
+  "original_text": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+  "korean_text": "내가 불렀으나 너희가 듣기 싫어하였고 내가 손을 폈으나 돌아보는 자가 없었고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because I have called",
+      "korean_translation": "내가 불렀기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ye refused",
+      "korean_translation": "그리고 너희는 거절했느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have stretched out my hand",
+      "korean_translation": "내가 내 손을 내밀었으나",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and no man regarded",
+      "korean_translation": "아무도 돌아보지 아니하였느니라",
+      "word_indices": [
+        741
+      ]
+    }
+  ]
+}

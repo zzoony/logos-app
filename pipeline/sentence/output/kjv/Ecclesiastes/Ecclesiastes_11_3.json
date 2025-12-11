@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Ecclesiastes 11:3",
+  "version": "KJV",
+  "original_text": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+  "korean_text": "구름에 비가 가득하면 땅에 쏟아지며 나무가 남으로나 북으로나 쓰러지면 그 쓰러진 곳에 그냥 있으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If clouds be full of rain",
+      "korean_translation": "구름이 비로 가득하면",
+      "word_indices": [
+        214,
+        299
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they empty themselves upon the earth",
+      "korean_translation": "그것은 땅 위로 비를 쏟아낸다",
+      "word_indices": [
+        682
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if tree fall toward the south",
+      "korean_translation": "나무가 남쪽으로 쓰러지든지",
+      "word_indices": [
+        81,
+        86,
+        231
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or toward the north",
+      "korean_translation": "또는 북쪽으로 쓰러지든지",
+      "word_indices": [
+        15,
+        86,
+        248
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the place where the tree falleth",
+      "korean_translation": "나무가 쓰러진 그곳에서",
+      "word_indices": [
+        21,
+        81,
+        1000
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "there it shall be",
+      "korean_translation": "그곳에 있을 것이다",
+      "word_indices": []
+    }
+  ]
+}

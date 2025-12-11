@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Numbers 35:30",
+  "version": "KJV",
+  "original_text": "Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die.",
+  "korean_text": "사람을 죽인 모든 자 곧 살인한 자는 증인들의 말을 따라서 죽일 것이나 한 증인의 증거만 따라서 죽이지 말 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoso killeth any person",
+      "korean_translation": "누구든지 어떤 사람을 죽이면",
+      "word_indices": [
+        22,
+        295,
+        1134
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the murderer shall be put to death",
+      "korean_translation": "그 살인자는 사형에 처해질 것이다",
+      "word_indices": [
+        960
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the mouth of witnesses",
+      "korean_translation": "증인들의 입에 의해",
+      "word_indices": [
+        60,
+        169
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but one witness shall not testify",
+      "korean_translation": "하지만 한 증인은 증언해서는 안 된다",
+      "word_indices": [
+        567
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "against any person to cause him to die",
+      "korean_translation": "어떤 사람을 죽이게 하려고 그를 대항하여",
+      "word_indices": [
+        22,
+        44,
+        295
+      ]
+    }
+  ]
+}

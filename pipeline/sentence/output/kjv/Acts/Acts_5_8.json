@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Acts 5:8",
+  "version": "KJV",
+  "original_text": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much.",
+  "korean_text": "베드로가 이르되 그 땅 판 값이 이것뿐이냐 내게 말하라 하니 이르되 예 이것뿐이라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Peter answered unto her",
+      "korean_translation": "베드로가 그녀에게 대답하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tell me whether ye sold the land",
+      "korean_translation": "그 땅을 팔았는지 내게 말하라",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for so much?",
+      "korean_translation": "그 많은 값으로?",
+      "word_indices": [
+        105
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And she said",
+      "korean_translation": "그녀가 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Yea, for so much.",
+      "korean_translation": "그래요, 그 많은 값으로 팔았어요.",
+      "word_indices": [
+        105
+      ]
+    }
+  ]
+}

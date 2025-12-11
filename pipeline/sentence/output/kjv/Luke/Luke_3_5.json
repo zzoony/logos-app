@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 3:5",
+  "version": "KJV",
+  "original_text": "Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;",
+  "korean_text": "모든 골짜기가 메워지고 모든 산과 작은 산이 낮아지고 굽은 것이 곧아지고 험한 길이 평탄하여질 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every valley shall be filled,",
+      "korean_translation": "모든 골짜기가 메워지고",
+      "word_indices": [
+        192
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and every mountain and hill shall be brought low;",
+      "korean_translation": "모든 산과 언덕이 낮아지며",
+      "word_indices": [
+        94,
+        232,
+        665
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the crooked shall be made straight,",
+      "korean_translation": "비틀어진 것이 곧아지고",
+      "word_indices": [
+        1566
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the rough ways shall be made smooth;",
+      "korean_translation": "험한 길이 평탄해질 것이다",
+      "word_indices": [
+        26,
+        2262,
+        2373
+      ]
+    }
+  ]
+}

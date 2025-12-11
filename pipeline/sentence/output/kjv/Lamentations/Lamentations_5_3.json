@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Lamentations 5:3",
+  "version": "KJV",
+  "original_text": "We are orphans and fatherless, our mothers are as widows.",
+  "korean_text": "우리는 아버지 없는 고아들이오며 우리의 어머니는 과부들 같으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We are orphans",
+      "korean_translation": "우리는 고아입니다",
+      "word_indices": [
+        5256
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and fatherless",
+      "korean_translation": "아버지가 없습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "our mothers are as widows",
+      "korean_translation": "우리 어머니들은 과부와 같습니다",
+      "word_indices": [
+        397
+      ]
+    }
+  ]
+}

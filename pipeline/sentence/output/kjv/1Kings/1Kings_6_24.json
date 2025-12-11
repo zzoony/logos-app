@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Kings 6:24",
+  "version": "KJV",
+  "original_text": "And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits.",
+  "korean_text": "한 그룹의 이쪽 날개도 다섯 규빗이요 저쪽 날개도 다섯 규빗이니 이쪽 날개 끝으로부터 저쪽 날개 끝까지 십 규빗이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And five cubits was the one wing of the cherub",
+      "korean_translation": "그리고 그룹의 한 날개는 다섯 규빗이었고",
+      "word_indices": [
+        117,
+        363
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and five cubits the other wing of the cherub",
+      "korean_translation": "다른 날개도 다섯 규빗이었으며",
+      "word_indices": [
+        56,
+        117,
+        363
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the uttermost part of the one wing",
+      "korean_translation": "한 날개의 끝부분부터",
+      "word_indices": [
+        102,
+        363,
+        1004
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "unto the uttermost part of the other were ten cubits",
+      "korean_translation": "다른 날개의 끝부분까지는 열 규빗이었습니다",
+      "word_indices": [
+        56,
+        102,
+        117,
+        122,
+        1004
+      ]
+    }
+  ]
+}

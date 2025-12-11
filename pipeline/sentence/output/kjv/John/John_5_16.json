@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 5:16",
+  "version": "KJV",
+  "original_text": "And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.",
+  "korean_text": "그러므로 안식일에 이러한 일을 행하신다 하여 유대인들이 예수를 박해하게 된지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And therefore did the Jews persecute Jesus",
+      "korean_translation": "그러므로 유대인들은 예수를 핍박하였고",
+      "word_indices": [
+        686
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and sought to slay him",
+      "korean_translation": "그를 죽이려고 하였으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he had done these things",
+      "korean_translation": "그가 이런 일들을 행하였기 때문이니",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the sabbath day",
+      "korean_translation": "안식일에",
+      "word_indices": [
+        188
+      ]
+    }
+  ]
+}

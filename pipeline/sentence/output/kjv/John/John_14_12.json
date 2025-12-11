@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 14:12",
+  "version": "KJV",
+  "original_text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 나를 믿는 자는 내가 하는 일을 그도 할 것이요 또한 그보다 큰 일도 하리니 이는 내가 아버지께로 감이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로 진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He that believeth on me",
+      "korean_translation": "나를 믿는 사람은",
+      "word_indices": [
+        699
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "works that I do shall he do also",
+      "korean_translation": "내가 행하는 일을 그도 행할 것이요",
+      "word_indices": [
+        9,
+        29
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and greater works than these shall he do",
+      "korean_translation": "또한 이것보다 더 큰 일도 행할 것이며",
+      "word_indices": [
+        29,
+        52,
+        414
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because I go unto my Father",
+      "korean_translation": "이는 내가 아버지께로 감이라",
+      "word_indices": []
+    }
+  ]
+}

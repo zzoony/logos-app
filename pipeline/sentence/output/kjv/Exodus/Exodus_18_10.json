@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 18:10",
+  "version": "KJV",
+  "original_text": "And Jethro said, Blessed be the Lord, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.",
+  "korean_text": "이드로가 이르되 여호와를 찬송하리로다 너희를 애굽 사람의 손에서와 바로의 손에서 건져내시고 백성을 애굽 사람의 손 아래에서 건지셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jethro said",
+      "korean_translation": "이드로가 말하니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Blessed be the Lord",
+      "korean_translation": "주를 찬송할지로다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who hath delivered you out of the hand of the Egyptians",
+      "korean_translation": "그가 너희를 애굽人の 손에서 건지셨고",
+      "word_indices": [
+        3,
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and out of the hand of Pharaoh",
+      "korean_translation": "바로의 손에서도 건지셨도다",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who hath delivered the people from under the hand of the Egyptians",
+      "korean_translation": "그가 백성을 애굽人の 손 아래에서 건지셨느니라",
+      "word_indices": [
+        5,
+        8
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 46:9",
+  "version": "KJV",
+  "original_text": "Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,",
+  "korean_text": "너희는 옛적 일을 기억하라 나는 하나님이라 나 외에 다른 이가 없느니라 나는 하나님이라 나 같은 이가 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember the former things of old:",
+      "korean_translation": "옛적의 옛 일을 기억하라:",
+      "word_indices": [
+        11,
+        74,
+        634
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for I am God,",
+      "korean_translation": "나는 하나님이며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there is none else;",
+      "korean_translation": "다른 이가 없고,",
+      "word_indices": [
+        658
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am God,",
+      "korean_translation": "나는 하나님이라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and there is none like me,",
+      "korean_translation": "나 같은 이가 없느니라,",
+      "word_indices": []
+    }
+  ]
+}

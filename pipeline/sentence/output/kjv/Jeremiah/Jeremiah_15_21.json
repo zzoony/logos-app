@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 15:21",
+  "version": "KJV",
+  "original_text": "And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the terrible.",
+  "korean_text": "내가 너를 악한 자의 손에서 건지며 무서운 자의 손에서 구원하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will deliver thee",
+      "korean_translation": "내가 너를 건지리라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "out of the hand of the wicked",
+      "korean_translation": "악인의 손에서",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will redeem thee",
+      "korean_translation": "내가 너를 구속하리라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "out of the hand of the terrible",
+      "korean_translation": "무서운 자의 손에서",
+      "word_indices": [
+        8,
+        609
+      ]
+    }
+  ]
+}

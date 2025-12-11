@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 25:34",
+  "version": "KJV",
+  "original_text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+  "korean_text": "그 때에 임금이 그 오른편에 있는 자들에게 이르시되 내 아버지께 복 받을 자들이여 나아와 창세로부터 너희를 위하여 예비된 나라를 상속받으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then shall the King say",
+      "korean_translation": "그때 왕이 말씀하시리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unto them on his right hand",
+      "korean_translation": "그의 오른편에 있는 자들에게",
+      "word_indices": [
+        1,
+        8,
+        80
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Come, ye blessed of my Father",
+      "korean_translation": "오너라, 내 아버지께 복을 받은 자들이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "inherit the kingdom",
+      "korean_translation": "나라를 상속받으라",
+      "word_indices": [
+        71,
+        456
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "prepared for you",
+      "korean_translation": "너희를 위해 준비된",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "from the foundation of the world:",
+      "korean_translation": "세상의 기초로부터",
+      "word_indices": [
+        104,
+        384
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Leviticus 26:4",
+  "version": "KJV",
+  "original_text": "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.",
+  "korean_text": "내가 너희에게 철따라 비를 주리니 땅은 그 산물을 내고 밭의 나무는 열매를 맺으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then I will give you rain in due season",
+      "korean_translation": "그러면 내가 제때에 비를 주리라",
+      "word_indices": [
+        3,
+        299,
+        440,
+        917
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the land shall yield her increase",
+      "korean_translation": "땅은 그 소산을 내며",
+      "word_indices": [
+        10,
+        687
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the trees of the field shall yield their fruit",
+      "korean_translation": "밭의 나무들이 그 열매를 맺으리라",
+      "word_indices": [
+        84,
+        124,
+        687
+      ]
+    }
+  ]
+}

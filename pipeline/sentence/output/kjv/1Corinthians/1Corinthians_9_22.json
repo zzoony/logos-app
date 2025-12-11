@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Corinthians 9:22",
+  "version": "KJV",
+  "original_text": "To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.",
+  "korean_text": "약한 자들에게 내가 약한 자와 같이 된 것은 약한 자들을 얻고자 함이요 내가 여러 사람에게 여러 모습이 된 것은 아무쪼록 몇 사람이라도 구원하고자 함이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To the weak became I as weak",
+      "korean_translation": "내가 약한 자들에게는 약한 자와 같이 되었으니",
+      "word_indices": [
+        685
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I might gain the weak",
+      "korean_translation": "이는 약한 자들을 얻으려 함이라",
+      "word_indices": [
+        55,
+        685,
+        751
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am made all things to all men",
+      "korean_translation": "내가 모든 사람에게 모든 것이 되었으니",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I might by all means save some",
+      "korean_translation": "이는 어떤 방법으로든지 몇 사람을 구원하려 함이라",
+      "word_indices": [
+        55,
+        501
+      ]
+    }
+  ]
+}

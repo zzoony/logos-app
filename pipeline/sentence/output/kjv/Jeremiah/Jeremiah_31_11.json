@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Jeremiah 31:11",
+  "version": "KJV",
+  "original_text": "For the Lord hath redeemed Jacob, and ransomed him from the hand of him that was stronger than he.",
+  "korean_text": "여호와께서 야곱을 구원하시되 그들보다 강한 자의 손에서 속량하셨으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the Lord hath redeemed Jacob",
+      "korean_translation": "이는 주께서 야곱을 속량하셨기 때문이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ransomed him from the hand of him",
+      "korean_translation": "그를 그의 손에서 속량하셨으며",
+      "word_indices": [
+        8,
+        1421
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that was stronger than he",
+      "korean_translation": "그가 더 강한 자의 손에서 구속하셨느니라",
+      "word_indices": [
+        52,
+        1189
+      ]
+    }
+  ]
+}

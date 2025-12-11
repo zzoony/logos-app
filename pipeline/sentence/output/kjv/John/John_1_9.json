@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 1:9",
+  "version": "KJV",
+  "original_text": "That was the true Light, which lighteth every man that cometh into the world.",
+  "korean_text": "참 빛 곧 세상에 와서 각 사람에게 비추는 빛이 있었나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That was the true Light",
+      "korean_translation": "그것이 참 빛이었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which lighteth every man",
+      "korean_translation": "그는 모든 사람을 비추시며",
+      "word_indices": [
+        3215
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that cometh into the world",
+      "korean_translation": "세상에 오는 모든 사람을",
+      "word_indices": [
+        7,
+        104,
+        109
+      ]
+    }
+  ]
+}

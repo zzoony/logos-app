@@ -1,0 +1,22 @@
+{
+  "verse_reference": "1 John 4:19",
+  "version": "KJV",
+  "original_text": "We love him, because he first loved us.",
+  "korean_text": "우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We love him",
+      "korean_translation": "우리는 그를 사랑합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he first loved us",
+      "korean_translation": "왜냐하면 그가 먼저 우리를 사랑하셨기 때문입니다",
+      "word_indices": [
+        61
+      ]
+    }
+  ]
+}

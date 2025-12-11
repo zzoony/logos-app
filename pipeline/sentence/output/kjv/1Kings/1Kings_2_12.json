@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Kings 2:12",
+  "version": "KJV",
+  "original_text": "Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.",
+  "korean_text": "솔로몬이 그의 아버지 다윗의 왕위에 앉으니 그의 나라가 심히 견고하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then sat Solomon",
+      "korean_translation": "그때 솔로몬이 앉았으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "upon the throne of David his father",
+      "korean_translation": "그의 아버지 다윗의 왕위에",
+      "word_indices": [
+        172
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his kingdom was established greatly",
+      "korean_translation": "그의 나라가 크게 확립되었더라",
+      "word_indices": [
+        71,
+        272,
+        377
+      ]
+    }
+  ]
+}

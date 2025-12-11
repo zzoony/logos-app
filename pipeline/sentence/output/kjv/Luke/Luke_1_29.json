@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 1:29",
+  "version": "KJV",
+  "original_text": "And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be.",
+  "korean_text": "처녀가 그 말을 듣고 놀라 이런 인사가 어찌함인가 생각하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when she saw him",
+      "korean_translation": "그녀가 그를 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "she was troubled at his saying",
+      "korean_translation": "그녀는 그의 말씀에 당황했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cast in her mind",
+      "korean_translation": "그리고 마음속으로 생각했습니다",
+      "word_indices": [
+        258
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what manner of salutation this should be",
+      "korean_translation": "이것이 어떤 종류의 인사이어야 하는지를",
+      "word_indices": [
+        156,
+        2352
+      ]
+    }
+  ]
+}

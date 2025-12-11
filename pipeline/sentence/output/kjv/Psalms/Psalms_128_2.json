@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 128:2",
+  "version": "KJV",
+  "original_text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.",
+  "korean_text": "네가 네 손이 수고한 대로 먹을 것이라 네가 복되고 형통하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For thou shalt eat the labour of thine hands",
+      "korean_translation": "네가 네 손의 수고한 것을 먹을 것이니",
+      "word_indices": [
+        8,
+        264
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "happy shalt thou be",
+      "korean_translation": "네가 복되리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and it shall be well with thee",
+      "korean_translation": "네게 잘 될 것임이니라",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

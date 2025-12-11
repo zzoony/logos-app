@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Numbers 31:22",
+  "version": "KJV",
+  "original_text": "Only the gold, and the silver, the brass, the iron, the tin, and the lead,",
+  "korean_text": "금, 은, 동, 철과 주석과 납 등의",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Only the gold",
+      "korean_translation": "오직 금과",
+      "word_indices": [
+        69,
+        121
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the silver",
+      "korean_translation": "은과",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the brass",
+      "korean_translation": "놋과",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the iron",
+      "korean_translation": "철과",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the tin",
+      "korean_translation": "주석과",
+      "word_indices": [
+        2642
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the lead",
+      "korean_translation": "납만",
+      "word_indices": [
+        256
+      ]
+    }
+  ]
+}

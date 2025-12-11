@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 18:20",
+  "version": "KJV",
+  "original_text": "For where two or three are gathered together in my name, there am I in the midst of them.",
+  "korean_text": "두세 사람이 내 이름으로 모인 곳에는 나도 그들 중에 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For where two or three are gathered together",
+      "korean_translation": "두세 사람이 내 이름으로 모이는 곳에는",
+      "word_indices": [
+        15,
+        50,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in my name",
+      "korean_translation": "내 이름으로",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there am I in the midst of them",
+      "korean_translation": "나도 그들 중에 있느니라",
+      "word_indices": [
+        1,
+        77
+      ]
+    }
+  ]
+}

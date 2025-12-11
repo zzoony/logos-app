@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Daniel 4:30",
+  "version": "KJV",
+  "original_text": "The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?",
+  "korean_text": "나 왕이 말하여 이르되 이 큰 바벨론은 내가 능력과 권세로 건설하여 나의 도성으로 삼고 이것으로 내 위엄의 영광을 나타낸 것이 아니냐 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king spake, and said,",
+      "korean_translation": "왕이 말하여 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Is not this great Babylon,",
+      "korean_translation": "이 큰 바벨론이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I have built",
+      "korean_translation": "내가 건설한 것이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the house of the kingdom",
+      "korean_translation": "나라의 왕궁으로",
+      "word_indices": [
+        4,
+        71
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "by the might of my power,",
+      "korean_translation": "나의 능력의 힘으로",
+      "word_indices": [
+        55,
+        106
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and for the honour of my majesty?",
+      "korean_translation": "나의 위엄의 영광을 위함이 아니냐",
+      "word_indices": []
+    }
+  ]
+}

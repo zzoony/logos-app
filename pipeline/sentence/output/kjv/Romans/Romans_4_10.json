@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Romans 4:10",
+  "version": "KJV",
+  "original_text": "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
+  "korean_text": "그런즉 그것이 어떻게 여겨졌느냐 할례시냐 무할례시냐 할례시가 아니요 무할례시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How was it then reckoned?",
+      "korean_translation": "그러면 어떻게 계산되었습니까?",
+      "word_indices": [
+        918
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he was in circumcision,",
+      "korean_translation": "그가 할례를 받았을 때에요,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or in uncircumcision?",
+      "korean_translation": "아니면 할례를 받지 않았을 때에요?",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Not in circumcision,",
+      "korean_translation": "할례를 받은 상태가 아니라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but in uncircumcision.",
+      "korean_translation": "할례를 받지 않은 상태였습니다.",
+      "word_indices": []
+    }
+  ]
+}

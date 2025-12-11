@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 12:6",
+  "version": "KJV",
+  "original_text": "This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.",
+  "korean_text": "이렇게 말함은 가난한 자들을 생각함이 아니요 그는 도둑이라 돈궤를 맡고 거기 넣는 것을 훔쳐 감이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This he said",
+      "korean_translation": "그가 이렇게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "not that he cared for the poor",
+      "korean_translation": "그가 가난한 사람들을 돌보았기 때문이 아니었다",
+      "word_indices": [
+        153
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but because he was a thief",
+      "korean_translation": "그러나 그는 도둑이었기 때문이다",
+      "word_indices": [
+        707
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and had the bag",
+      "korean_translation": "그리고 돈주머니를 가졌었다",
+      "word_indices": [
+        1564
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and bare what was put therein",
+      "korean_translation": "그리고 그 안에 넣어진 것을 훔쳤다",
+      "word_indices": [
+        141,
+        171
+      ]
+    }
+  ]
+}

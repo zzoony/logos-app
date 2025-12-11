@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 35:25",
+  "version": "KJV",
+  "original_text": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
+  "korean_text": "그들이 마음속으로 이르기를 아하 소원을 성취하였다 하지 못하게 하시며 우리가 그를 삼켰다 말하지 못하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let them not say in their hearts",
+      "korean_translation": "그들이 마음속으로 말하지 않게 하소서",
+      "word_indices": [
+        1,
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ah, so would we have it",
+      "korean_translation": "아, 우리가 원하던 대로 되었도다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let them not say",
+      "korean_translation": "그들이 말하지 않게 하소서",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We have swallowed him up",
+      "korean_translation": "우리가 그를 삼켰도다",
+      "word_indices": [
+        645
+      ]
+    }
+  ]
+}

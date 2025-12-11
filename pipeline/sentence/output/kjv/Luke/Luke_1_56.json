@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 1:56",
+  "version": "KJV",
+  "original_text": "And Mary abode with her about three months, and returned to her own house.",
+  "korean_text": "마리아가 석 달쯤 함께 있다가 집으로 돌아가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Mary abode with her",
+      "korean_translation": "그리고 마리아는 그녀와 함께 머물렀습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about three months",
+      "korean_translation": "약 세 달 동안",
+      "word_indices": [
+        50,
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and returned to her own house",
+      "korean_translation": "그리고 자기 집으로 돌아갔습니다",
+      "word_indices": [
+        4,
+        37
+      ]
+    }
+  ]
+}

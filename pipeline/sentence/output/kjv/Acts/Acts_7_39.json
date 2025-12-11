@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Acts 7:39",
+  "version": "KJV",
+  "original_text": "To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,",
+  "korean_text": "우리 조상들이 모세에게 복종하지 아니하고자 하여 거절하며 그 마음이 도리어 애굽으로 향하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "To whom our fathers would not obey",
+      "korean_translation": "우리 조상들이 그에게 순종하지 아니하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but thrust him from them",
+      "korean_translation": "도리어 그를 자기들에게서 밀어냈으며",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in their hearts turned back again",
+      "korean_translation": "마음속으로는 다시 애굽으로 돌아가고자 하였으니",
+      "word_indices": [
+        20,
+        205
+      ]
+    }
+  ]
+}

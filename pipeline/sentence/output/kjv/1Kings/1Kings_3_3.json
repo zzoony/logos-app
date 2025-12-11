@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Kings 3:3",
+  "version": "KJV",
+  "original_text": "And Solomon loved the Lord, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.",
+  "korean_text": "솔로몬이 여호와를 사랑하고 그의 아버지 다윗의 법도를 행하였으나 산당에서 제사하며 분향하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Solomon loved the Lord",
+      "korean_translation": "솔로몬은 여호와를 사랑했으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "walking in the statutes of David his father",
+      "korean_translation": "그의 아버지 다윗의 율법을 따라 행하였으나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "only he sacrificed and burnt incense",
+      "korean_translation": "오직 제물을 드리고 분향하였으며",
+      "word_indices": [
+        121,
+        250
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in high places",
+      "korean_translation": "산당에서 행하였더라",
+      "word_indices": []
+    }
+  ]
+}

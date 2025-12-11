@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 17:12",
+  "version": "KJV",
+  "original_text": "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.",
+  "korean_text": "그러므로 내가 이스라엘 자손에게 말하기를 너희 중에 아무도 피를 먹지 말며 너희 중에 거류하는 거류민이라도 피를 먹지 말라 하였나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore I said unto the children of Israel,",
+      "korean_translation": "그러므로 내가 이스라엘 자손에게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "No soul of you shall eat blood,",
+      "korean_translation": "너희 중 아무도 피를 먹지 말며,",
+      "word_indices": [
+        3,
+        59
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither shall any stranger that sojourneth among you",
+      "korean_translation": "너희 중에 머무는 이방인도",
+      "word_indices": [
+        3,
+        22,
+        151,
+        1475
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "eat blood.",
+      "korean_translation": "피를 먹지 못하리라.",
+      "word_indices": [
+        59
+      ]
+    }
+  ]
+}

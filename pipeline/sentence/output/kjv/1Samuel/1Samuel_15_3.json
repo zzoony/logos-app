@@ -1,0 +1,61 @@
+{
+  "verse_reference": "1 Samuel 15:3",
+  "version": "KJV",
+  "original_text": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.",
+  "korean_text": "지금 가서 아말렉을 쳐서 그들의 모든 소유를 남기지 말고 진멸하되 남녀와 소아와 젖 먹는 아이와 우양과 낙타와 나귀를 죽이라 하셨나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now go and smite Amalek",
+      "korean_translation": "이제 가서 아말렉을 치고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and utterly destroy all that they have",
+      "korean_translation": "그들이 가진 모든 것을 완전히 파멸하라",
+      "word_indices": [
+        333
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and spare them not",
+      "korean_translation": "그들을 긍휼히 여기지 말라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but slay both man and woman",
+      "korean_translation": "남자와 여자를 죽이고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "infant and suckling",
+      "korean_translation": "아기와 젖먹이를 죽이고",
+      "word_indices": [
+        2687
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "ox and sheep",
+      "korean_translation": "소와 양을 죽이고",
+      "word_indices": [
+        170,
+        195
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "camel and ass",
+      "korean_translation": "낙타와 나귀를 죽이라",
+      "word_indices": [
+        507
+      ]
+    }
+  ]
+}

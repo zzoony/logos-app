@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Corinthians 12:12",
+  "version": "KJV",
+  "original_text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.",
+  "korean_text": "몸은 하나인데 많은 지체가 있고 몸의 지체가 많으나 한 몸임과 같이 그리스도도 그러하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For as the body is one",
+      "korean_translation": "몸이 하나인 것처럼",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and hath many members",
+      "korean_translation": "여러 지체를 가지고 있으며",
+      "word_indices": [
+        805
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all the members of that one body",
+      "korean_translation": "그 한 몸의 모든 지체들은",
+      "word_indices": [
+        152,
+        805
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "being many, are one body",
+      "korean_translation": "많지만 한 몸이니",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so also is Christ",
+      "korean_translation": "그리스도도 그러하니라",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

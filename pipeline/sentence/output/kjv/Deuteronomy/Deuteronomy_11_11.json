@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Deuteronomy 11:11",
+  "version": "KJV",
+  "original_text": "But the land, whither ye go to possess it, is a land of hills and valleys, and drinketh water of the rain of heaven:",
+  "korean_text": "너희가 건너가서 차지할 땅은 산과 골짜기가 있어서 하늘에서 내리는 비를 흡수하는 땅이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the land",
+      "korean_translation": "그러나 그 땅은",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whither ye go to possess it",
+      "korean_translation": "너희가 가서 차지하려는 곳은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is a land of hills and valleys",
+      "korean_translation": "언덕과 골짜기가 있는 땅이며",
+      "word_indices": [
+        10,
+        192,
+        232
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and drinketh water of the rain of heaven",
+      "korean_translation": "하늘의 비물을 마시나니",
+      "word_indices": [
+        32,
+        299,
+        1362
+      ]
+    }
+  ]
+}

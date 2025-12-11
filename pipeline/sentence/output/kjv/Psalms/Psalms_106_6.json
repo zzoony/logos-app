@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 106:6",
+  "version": "KJV",
+  "original_text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+  "korean_text": "우리가 우리의 조상들처럼 범죄하여 사악을 행하며 악을 지었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We have sinned with our fathers",
+      "korean_translation": "우리는 조상들과 함께 죄를 지었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we have committed iniquity",
+      "korean_translation": "우리는 불의를 행했습니다",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we have done wickedly",
+      "korean_translation": "우리는 사악하게 행동했습니다",
+      "word_indices": [
+        1122
+      ]
+    }
+  ]
+}

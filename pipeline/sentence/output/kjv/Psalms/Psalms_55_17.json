@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Psalms 55:17",
+  "version": "KJV",
+  "original_text": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
+  "korean_text": "저녁과 아침과 정오에 내가 근심하여 탄식하리니 여호와께서 내 소리를 들으시리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Evening",
+      "korean_translation": "저녁에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and morning",
+      "korean_translation": "그리고 아침에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and at noon",
+      "korean_translation": "그리고 정오에",
+      "word_indices": [
+        1471
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will I pray",
+      "korean_translation": "내가 기도할 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and cry aloud",
+      "korean_translation": "그리고 큰 소리로 부르짖을 것입니다",
+      "word_indices": [
+        1233
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and he shall hear my voice",
+      "korean_translation": "그리고 그는 내 음성을 들을 것입니다",
+      "word_indices": [
+        45
+      ]
+    }
+  ]
+}

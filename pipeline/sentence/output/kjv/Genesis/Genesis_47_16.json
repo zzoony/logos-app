@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 47:16",
+  "version": "KJV",
+  "original_text": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.",
+  "korean_text": "요셉이 이르되 너희의 가축을 내라 돈이 떨어졌은즉 내가 너희의 가축과 바꾸어 주리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Joseph said",
+      "korean_translation": "요셉이 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Give your cattle",
+      "korean_translation": "너희 가축을 내게 주라",
+      "word_indices": [
+        217
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will give you for your cattle",
+      "korean_translation": "나는 너희 가축을 대신하여 주겠노라",
+      "word_indices": [
+        3,
+        217
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if money fail",
+      "korean_translation": "만약 돈이 다 떨어지면",
+      "word_indices": [
+        234,
+        411
+      ]
+    }
+  ]
+}

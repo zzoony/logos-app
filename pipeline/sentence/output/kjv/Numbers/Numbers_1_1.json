@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Numbers 1:1",
+  "version": "KJV",
+  "original_text": "And the Lord spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,",
+  "korean_text": "이스라엘 자손이 애굽 땅에서 나온 후 둘째 해 둘째 달 첫째 날에 여호와께서 시내 광야 회막에서 모세에게 말씀하여 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord spake unto Moses",
+      "korean_translation": "주께서 모세에게 말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the wilderness of Sinai",
+      "korean_translation": "시내 광야에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the tabernacle of the congregation",
+      "korean_translation": "회막에서",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the first day of the second month",
+      "korean_translation": "둘째 달 초하루에",
+      "word_indices": [
+        61,
+        95,
+        190
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the second year after they were come out",
+      "korean_translation": "그들이 나온 지 이년째 되는 해에",
+      "word_indices": [
+        23,
+        190
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "of the land of Egypt",
+      "korean_translation": "애굽 땅에서",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "saying,",
+      "korean_translation": "이르시되",
+      "word_indices": []
+    }
+  ]
+}

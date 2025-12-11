@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 34:25",
+  "version": "KJV",
+  "original_text": "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.",
+  "korean_text": "너는 내 제물의 피를 유교병과 함께 드리지 말며 유월절 제물을 아침까지 두지 말지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou shalt not offer the blood of my sacrifice",
+      "korean_translation": "너는 내 제물의 피를 드리지 말라",
+      "word_indices": [
+        17,
+        59
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with leaven",
+      "korean_translation": "누룩과 함께",
+      "word_indices": [
+        823
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither shall the sacrifice of the feast of the passover",
+      "korean_translation": "유월절 제물도",
+      "word_indices": [
+        203
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "be left unto the morning",
+      "korean_translation": "아침까지 남겨 두지 말라",
+      "word_indices": []
+    }
+  ]
+}

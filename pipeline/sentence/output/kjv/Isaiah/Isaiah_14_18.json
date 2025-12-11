@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Isaiah 14:18",
+  "version": "KJV",
+  "original_text": "All the kings of the nations, even all of them, lie in glory, every one in his own house.",
+  "korean_text": "열방의 모든 왕들은 모두 각각 자기 집에서 영광 중에 자건마는",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the kings of the nations",
+      "korean_translation": "모든 나라의 왕들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even all of them",
+      "korean_translation": "그들 모두",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lie in glory",
+      "korean_translation": "영광 속에 누워 있으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "every one in his own house",
+      "korean_translation": "각자 자기 집에서 그러하다",
+      "word_indices": [
+        4,
+        37
+      ]
+    }
+  ]
+}

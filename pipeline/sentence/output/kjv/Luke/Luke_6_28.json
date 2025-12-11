@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 6:28",
+  "version": "KJV",
+  "original_text": "Bless them that curse you, and pray for them which despitefully use you.",
+  "korean_text": "너희를 저주하는 자를 위하여 축복하며 너희를 모욕하는 자를 위하여 기도하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bless them that curse you",
+      "korean_translation": "너를 저주하는 자들을 축복하라",
+      "word_indices": [
+        1,
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and pray for them",
+      "korean_translation": "그들을 위해 기도하라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which despitefully use you",
+      "korean_translation": "너를 악하게 대하는 자들을",
+      "word_indices": [
+        3,
+        525,
+        3533
+      ]
+    }
+  ]
+}

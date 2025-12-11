@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Kings 18:6",
+  "version": "KJV",
+  "original_text": "So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.",
+  "korean_text": "두 사람이 두루 다닐 땅을 나누어 아합은 홀로 이 길로 가고 오바댜는 홀로 저 길로 가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they divided the land between them",
+      "korean_translation": "그래서 그들은 그들 사이의 땅을 나누었고",
+      "word_indices": [
+        1,
+        10,
+        139
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to pass throughout it",
+      "korean_translation": "그곳을 통과하기 위해",
+      "word_indices": [
+        27,
+        206
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Ahab went one way by himself",
+      "korean_translation": "아합은 혼자서 한 길로 갔고",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and Obadiah went another way by himself",
+      "korean_translation": "오바댜는 혼자서 다른 길로 갔습니다",
+      "word_indices": [
+        26,
+        58
+      ]
+    }
+  ]
+}

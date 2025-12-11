@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 12:30",
+  "version": "KJV",
+  "original_text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad.",
+  "korean_text": "나와 함께 아니하는 자는 나를 반대하는 자요 나와 함께 모으지 아니하는 자는 헤치는 자니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that is not with me",
+      "korean_translation": "나와 함께하지 않는 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is against me",
+      "korean_translation": "나를 반대하는 자니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he that gathereth not with me",
+      "korean_translation": "그리고 나와 함께 모으지 않는 자는",
+      "word_indices": [
+        1378
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "scattereth abroad",
+      "korean_translation": "흩어버리느니라",
+      "word_indices": [
+        401,
+        1900
+      ]
+    }
+  ]
+}

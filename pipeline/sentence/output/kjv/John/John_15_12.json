@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 15:12",
+  "version": "KJV",
+  "original_text": "This is my commandment, That ye love one another, as I have loved you.",
+  "korean_text": "내 계명은 곧 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라 하는 이것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is my commandment",
+      "korean_translation": "이것이 나의 계명입니다",
+      "word_indices": [
+        85
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That ye love one another",
+      "korean_translation": "너희가 서로 사랑하라",
+      "word_indices": [
+        58
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as I have loved you",
+      "korean_translation": "내가 너희를 사랑한 것 같이",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

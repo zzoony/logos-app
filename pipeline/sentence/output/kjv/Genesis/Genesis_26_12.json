@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 26:12",
+  "version": "KJV",
+  "original_text": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the Lord blessed him.",
+  "korean_text": "이삭이 그 땅에서 농사하여 그 해에 백 배나 얻었고 여호와께서 복을 주시므로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Isaac sowed in that land",
+      "korean_translation": "그때 이삭은 그 땅에 씨를 뿌렸고",
+      "word_indices": [
+        10,
+        396
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and received in the same year an hundredfold",
+      "korean_translation": "같은 해에 백 배의 수확을 거두었으며",
+      "word_indices": [
+        23,
+        90,
+        2209
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the Lord blessed him",
+      "korean_translation": "여호와께서 그에게 복을 주셨다",
+      "word_indices": []
+    }
+  ]
+}

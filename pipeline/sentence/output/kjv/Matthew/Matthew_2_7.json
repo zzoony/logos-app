@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 2:7",
+  "version": "KJV",
+  "original_text": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.",
+  "korean_text": "이에 헤롯이 가만히 박사들을 불러 별이 나타난 때를 자세히 묻고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Herod",
+      "korean_translation": "그때 헤롯은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he had privily called the wise men",
+      "korean_translation": "그가 은밀히 현자들을 불렀을 때",
+      "word_indices": [
+        127,
+        1499
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "enquired of them diligently",
+      "korean_translation": "그들에게 부지런히 물었으니",
+      "word_indices": [
+        1,
+        824
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what time the star appeared",
+      "korean_translation": "별이 언제 나타났는지",
+      "word_indices": [
+        30,
+        251
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 7:20",
+  "version": "KJV",
+  "original_text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?",
+  "korean_text": "그들이 예수께 나아가 이르되 세례 요한이 우리를 보내어 당신께 여쭈어 보라고 하기를 오실 그이가 당신이오니이까 우리가 다른 이를 기다리오리이까 하더이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the men were come unto him",
+      "korean_translation": "사람들이 그에게 왔을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they said",
+      "korean_translation": "그들이 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "John Baptist hath sent us unto thee",
+      "korean_translation": "세례 요한이 우리를 당신께 보내셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "saying",
+      "korean_translation": "이렇게 말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Art thou he that should come?",
+      "korean_translation": "당신이 오실 이인가요?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or look we for another?",
+      "korean_translation": "아니면 우리가 다른 이를 기다려야 하나요?",
+      "word_indices": [
+        15,
+        58
+      ]
+    }
+  ]
+}

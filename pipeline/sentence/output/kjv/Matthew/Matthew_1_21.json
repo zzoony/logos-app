@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 1:21",
+  "version": "KJV",
+  "original_text": "And she shall bring forth a son, and thou shalt call his name Jesus: for he shall save his people from their sins.",
+  "korean_text": "아들을 낳으리니 이름을 예수라 하라 이는 그가 자기 백성을 그들의 죄에서 구원할 자이심이라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And she shall bring forth a son",
+      "korean_translation": "그녀가 아들을 낳을 것이며",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and thou shalt call his name Jesus",
+      "korean_translation": "너는 그의 이름을 예수라 불러라",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for he shall save his people",
+      "korean_translation": "그가 자기 백성을 구원할 것임이라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from their sins",
+      "korean_translation": "그들의 죄에서",
+      "word_indices": []
+    }
+  ]
+}

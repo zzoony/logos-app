@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 14:29",
+  "version": "KJV",
+  "original_text": "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus.",
+  "korean_text": "오라 하시니 베드로가 배에서 내려 물 위로 걸어서 예수께로 가되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said, Come.",
+      "korean_translation": "그가 이르되 오라 하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And when Peter was come down out of the ship,",
+      "korean_translation": "베드로가 배에서 내려올 때에",
+      "word_indices": [
+        14,
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he walked on the water,",
+      "korean_translation": "그가 물 위로 걸어가서",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to go to Jesus.",
+      "korean_translation": "예수께로 가더라",
+      "word_indices": []
+    }
+  ]
+}

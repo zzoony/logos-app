@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Luke 8:30",
+  "version": "KJV",
+  "original_text": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.",
+  "korean_text": "예수께서 네 이름이 무엇이냐 물으신즉 이르되 군대라 하니 이는 많은 귀신이 들렸음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus asked him",
+      "korean_translation": "예수님께서 그에게 물으셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying",
+      "korean_translation": "말씀하시기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What is thy name?",
+      "korean_translation": "네 이름이 무엇이냐?",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And he said",
+      "korean_translation": "그가 대답하니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Legion",
+      "korean_translation": "군대입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because many devils were entered into him",
+      "korean_translation": "많은 귀신들이 그에게 들어갔기 때문입니다",
+      "word_indices": [
+        7
+      ]
+    }
+  ]
+}

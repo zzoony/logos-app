@@ -1,0 +1,37 @@
+{
+  "verse_reference": "2 Kings 13:20",
+  "version": "KJV",
+  "original_text": "And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.",
+  "korean_text": "엘리사가 죽으니 그를 장사하였고 해가 바뀌매 모압 도적 떼들이 그 땅에 온지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Elisha died",
+      "korean_translation": "그리고 엘리사가 죽었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they buried him",
+      "korean_translation": "그들이 그를 장사했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the bands of the Moabites invaded the land",
+      "korean_translation": "모압 무리들이 땅을 침공했고",
+      "word_indices": [
+        10,
+        471
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the coming in of the year",
+      "korean_translation": "해가 바뀔 때에",
+      "word_indices": [
+        23
+      ]
+    }
+  ]
+}

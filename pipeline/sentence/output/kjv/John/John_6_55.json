@@ -1,0 +1,25 @@
+{
+  "verse_reference": "John 6:55",
+  "version": "KJV",
+  "original_text": "For my flesh is meat indeed, and my blood is drink indeed.",
+  "korean_text": "내 살은 참된 양식이요 내 피는 참된 음료로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For my flesh is meat indeed",
+      "korean_translation": "이는 내 살이 참된 양식이며",
+      "word_indices": [
+        67,
+        99
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and my blood is drink indeed",
+      "korean_translation": "내 피는 참된 음료니라",
+      "word_indices": [
+        59
+      ]
+    }
+  ]
+}

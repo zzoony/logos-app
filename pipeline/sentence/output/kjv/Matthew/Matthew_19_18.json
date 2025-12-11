@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 19:18",
+  "version": "KJV",
+  "original_text": "He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,",
+  "korean_text": "이르되 어느 계명이오니이까 예수께서 이르시되 살인하지 말라, 간음하지 말라, 도둑질하지 말라, 거짓 증언 하지 말라,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He saith unto him, Which?",
+      "korean_translation": "그가 그에게 이르되, 어느 것입니까?",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said,",
+      "korean_translation": "예수께서 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Thou shalt do no murder,",
+      "korean_translation": "너는 살인하지 말라",
+      "word_indices": [
+        1652
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Thou shalt not commit adultery,",
+      "korean_translation": "너는 간음하지 말라",
+      "word_indices": [
+        191
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Thou shalt not steal,",
+      "korean_translation": "너는 도둑질하지 말라",
+      "word_indices": [
+        689
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Thou shalt not bear false witness,",
+      "korean_translation": "너는 거짓 증언하지 말라",
+      "word_indices": [
+        63,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 8:3",
+  "version": "KJV",
+  "original_text": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
+  "korean_text": "물이 땅에서 물러가고 점점 물러가서 백오십 일 후에 줄어들고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And waters returned from off the earth continually",
+      "korean_translation": "그리고 물이 땅에서 계속하여 물러났습니다",
+      "word_indices": [
+        32,
+        46,
+        393
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and after the end of hundred and fifty days",
+      "korean_translation": "그리고 백오십 일이 끝난 후에",
+      "word_indices": [
+        73,
+        196
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "waters were abated",
+      "korean_translation": "물이 줄어들었습니다",
+      "word_indices": [
+        32
+      ]
+    }
+  ]
+}

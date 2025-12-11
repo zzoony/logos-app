@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Philemon 1:21",
+  "version": "KJV",
+  "original_text": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.",
+  "korean_text": "나는 네가 순종할 것을 확신하므로 네게 썼노니 네가 내가 말한 것보다 더 행할 줄을 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Having confidence in thy obedience",
+      "korean_translation": "네가 순종할 것을 확신하여",
+      "word_indices": [
+        786,
+        1725
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I wrote unto thee",
+      "korean_translation": "내가 네게 편지하였노라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "knowing that thou wilt also do more than I say",
+      "korean_translation": "네가 내가 말하는 것보다 더도 하리라는 것을 알면서",
+      "word_indices": [
+        9,
+        33,
+        52
+      ]
+    }
+  ]
+}

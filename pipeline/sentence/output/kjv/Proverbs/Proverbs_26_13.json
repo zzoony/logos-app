@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Proverbs 26:13",
+  "version": "KJV",
+  "original_text": "The slothful man saith, There is a lion in the way; a lion is in the streets.",
+  "korean_text": "게으른 자는 길에 사자가 있다 거리에 사자가 있다 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The slothful man saith",
+      "korean_translation": "게으른 자가 말하되",
+      "word_indices": [
+        13,
+        1500
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There is a lion in the way",
+      "korean_translation": "길에 사자가 있다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a lion is in the streets",
+      "korean_translation": "거리에 사자가 있다",
+      "word_indices": [
+        330
+      ]
+    }
+  ]
+}

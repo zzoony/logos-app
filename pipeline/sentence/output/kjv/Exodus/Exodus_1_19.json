@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 1:19",
+  "version": "KJV",
+  "original_text": "And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them.",
+  "korean_text": "산파가 바로에게 대답하되 히브리 여인은 애굽 여인과 같지 아니하고 건장하여 산파가 그들에게 이르기 전에 해산하였더이다 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the midwives said unto Pharaoh",
+      "korean_translation": "산파들이 바로에게 말하였으되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because the Hebrew women are not as the Egyptian women",
+      "korean_translation": "히브리 여인들은 이집트 여인들과 같지 않기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for they are lively",
+      "korean_translation": "그들은 건강하며",
+      "word_indices": [
+        2600
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and are delivered ere the midwives come in unto them",
+      "korean_translation": "산파들이 그들에게 오기 전에 아이를 낳습니다",
+      "word_indices": [
+        1,
+        1830
+      ]
+    }
+  ]
+}

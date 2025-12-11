@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 33:8",
+  "version": "KJV",
+  "original_text": "Let all the earth fear the Lord: let all the inhabitants of the world stand in awe of him.",
+  "korean_text": "온 땅은 여호와를 두려워하며 세상의 모든 거민들은 그를 경외할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let all the earth fear the Lord",
+      "korean_translation": "온 땅이여 주를 경외하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let all the inhabitants of the world",
+      "korean_translation": "세상의 모든 거민이여",
+      "word_indices": [
+        104,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "stand in awe of him",
+      "korean_translation": "그를 경외하여 서라",
+      "word_indices": [
+        3423
+      ]
+    }
+  ]
+}

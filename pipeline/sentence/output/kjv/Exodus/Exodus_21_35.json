@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Exodus 21:35",
+  "version": "KJV",
+  "original_text": "And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.",
+  "korean_text": "이 사람의 소가 저 사람의 소를 받아 죽이면 살아 있는 소를 팔아 그 값을 반으로 나누고 또한 죽은 것도 반으로 나누려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if one man's ox hurt another's",
+      "korean_translation": "그리고 만약 어떤 사람의 소가 다른 사람의 소를 상하게 하면",
+      "word_indices": [
+        58,
+        195
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he die;",
+      "korean_translation": "그 소가 죽게 된다면",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then they shall sell the live ox,",
+      "korean_translation": "그러면 그들은 산 소를 팔 것이며",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and divide the money of it;",
+      "korean_translation": "그 돈을 나눌 것이며",
+      "word_indices": [
+        234
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the dead ox also they shall divide.",
+      "korean_translation": "죽은 소도 그들이 나눌 것입니다.",
+      "word_indices": [
+        9,
+        78,
+        195
+      ]
+    }
+  ]
+}

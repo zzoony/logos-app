@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 19:10",
+  "version": "KJV",
+  "original_text": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?",
+  "korean_text": "빌라도가 이르되 내게 말하지 아니하느냐 내가 너를 놓을 권한도 있고 십자가에 못 박을 권한도 있는 줄 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then saith Pilate unto him",
+      "korean_translation": "그때 빌라도가 그에게 말하니",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Speakest thou not unto me?",
+      "korean_translation": "네가 내게 말하지 않느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "knowest thou not",
+      "korean_translation": "네가 알지 못하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I have power to crucify thee",
+      "korean_translation": "내가 너를 십자가에 못 박을 권세가 있다는 것을",
+      "word_indices": [
+        2,
+        106
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and have power to release thee?",
+      "korean_translation": "그리고 너를 놓아줄 권세도 있다는 것을?",
+      "word_indices": [
+        2,
+        106,
+        1084
+      ]
+    }
+  ]
+}

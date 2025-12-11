@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Acts 16:39",
+  "version": "KJV",
+  "original_text": "And they came and besought them, and brought them out, and desired them to depart out of the city.",
+  "korean_text": "와서 권하여 데리고 나가 그 성에서 떠나기를 청하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they came",
+      "korean_translation": "그들이 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and besought them",
+      "korean_translation": "그들에게 간청했으며",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and brought them out",
+      "korean_translation": "그들을 데려왔고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and desired them to depart out of the city",
+      "korean_translation": "그들이 도시에서 떠나길 원했다",
+      "word_indices": [
+        1,
+        12
+      ]
+    }
+  ]
+}

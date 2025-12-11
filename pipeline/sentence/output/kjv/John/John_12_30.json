@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 12:30",
+  "version": "KJV",
+  "original_text": "Jesus answered and said, This voice came not because of me, but for your sakes.",
+  "korean_text": "예수께서 대답하여 이르시되 이 소리가 난 것은 나를 위한 것이 아니요 너희를 위한 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered and said",
+      "korean_translation": "예수님께서 대답하여 말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This voice came not because of me",
+      "korean_translation": "이 소리는 나 때문에 온 것이 아니요",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but for your sakes",
+      "korean_translation": "너희를 위함이라",
+      "word_indices": []
+    }
+  ]
+}

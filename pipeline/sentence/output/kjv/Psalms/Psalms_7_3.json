@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 7:3",
+  "version": "KJV",
+  "original_text": "O Lord my God, If I have done this; if there be iniquity in my hands;",
+  "korean_text": "여호와 내 하나님이여 내가 이런 일을 행하였거나 내 손에 죄악이 있거나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord my God,",
+      "korean_translation": "오 주 나의 하나님,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If I have done this;",
+      "korean_translation": "만약 내가 이것을 행했다면;",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if there be iniquity in my hands;",
+      "korean_translation": "만약 내 손에 불의가 있다면;",
+      "word_indices": [
+        8,
+        89
+      ]
+    }
+  ]
+}

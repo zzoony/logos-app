@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 2:21",
+  "version": "KJV",
+  "original_text": "And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;",
+  "korean_text": "여호와 하나님이 아담을 깊이 잠들게 하시니 잠들매 그가 그 갈빗대 하나를 취하고 살로 대신 채우시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord God caused a deep sleep to fall upon Adam",
+      "korean_translation": "하나님께서 아담에게 깊은 잠이 들게 하시고",
+      "word_indices": [
+        448
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he slept",
+      "korean_translation": "그가 잠들었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he took one of his ribs",
+      "korean_translation": "그가 그의 갈빗대 하나를 취하며",
+      "word_indices": [
+        2195
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and closed up the flesh instead thereof",
+      "korean_translation": "그 대신에 살을 닫으시니라",
+      "word_indices": [
+        24,
+        67,
+        770
+      ]
+    }
+  ]
+}

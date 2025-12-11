@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 138:6",
+  "version": "KJV",
+  "original_text": "Though the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.",
+  "korean_text": "여호와께서는 높이 계셔도 낮은 자를 굽어살피시며 멀리서도 교만한 자를 아심이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Though the Lord be high",
+      "korean_translation": "비록 주께서 높으시나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet hath he respect unto the lowly",
+      "korean_translation": "그러나 겸손한 자를 존중하시며",
+      "word_indices": [
+        2532
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the proud he knoweth afar off",
+      "korean_translation": "그러나 교만한 자는 멀리서 아시느니라",
+      "word_indices": [
+        46,
+        313,
+        616,
+        667
+      ]
+    }
+  ]
+}

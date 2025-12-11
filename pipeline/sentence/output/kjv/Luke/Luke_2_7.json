@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 2:7",
+  "version": "KJV",
+  "original_text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+  "korean_text": "첫아들을 낳아 강보로 싸서 구유에 뉘었으니 이는 여관에 있을 곳이 없음이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And she brought forth her firstborn son",
+      "korean_translation": "그녀는 자신의 첫아들을 낳았고",
+      "word_indices": [
+        25,
+        292
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and wrapped him in swaddling clothes",
+      "korean_translation": "그를 포대기에 싸서",
+      "word_indices": [
+        1163
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and laid him in a manger",
+      "korean_translation": "그를 구유에 눕혔습니다",
+      "word_indices": [
+        3558
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because there was no room for them in the inn",
+      "korean_translation": "여관에는 그들을 위한 공간이 없었기 때문입니다",
+      "word_indices": [
+        1,
+        772,
+        2593
+      ]
+    }
+  ]
+}

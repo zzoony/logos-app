@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Joel 1:5",
+  "version": "KJV",
+  "original_text": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
+  "korean_text": "취하는 자들아 너희는 깨어 울지어다 포도주를 마시는 자들아 너희는 울지어다 이는 단 포도주가 너희 입에서 끊어졌음이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Awake, ye drunkards, and weep",
+      "korean_translation": "깨어라, 너희 취한 자들이여, 울부짖으라",
+      "word_indices": [
+        1778
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and howl, all ye drinkers of wine",
+      "korean_translation": "포도주를 마시는 너희는 다 슬피 울부짖으라",
+      "word_indices": [
+        138,
+        5349
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of the new wine",
+      "korean_translation": "새 포도주 때문에",
+      "word_indices": [
+        138,
+        220
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for it is cut off from your mouth",
+      "korean_translation": "그것이 너희 입에서 끊어졌음이니라",
+      "word_indices": [
+        46,
+        60,
+        91
+      ]
+    }
+  ]
+}

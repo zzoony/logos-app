@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 9:9",
+  "version": "KJV",
+  "original_text": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.",
+  "korean_text": "헤롯이 이르되 요한은 내가 목을 베었거늘 이제 이런 일이 들리니 이 사람이 누군가 하며 그를 보고자 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Herod said",
+      "korean_translation": "헤롯이 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "John have I beheaded:",
+      "korean_translation": "요한은 내가 목 베었으나",
+      "word_indices": [
+        2263
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but who is this,",
+      "korean_translation": "그런데 이는 누구냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of whom I hear such things?",
+      "korean_translation": "내가 그에 대하여 이런 소문을 듣는가",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And he desired to see him.",
+      "korean_translation": "그리고 그는 그를 보고자 하였다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Corinthians 7:16",
+  "version": "KJV",
+  "original_text": "For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife?",
+  "korean_text": "아내 된 자여 네가 남편을 구원할는지 어찌 알 수 있으며 남편 된 자여 네가 네 아내를 구원할는지 어찌 알 수 있으리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For what knowest thou, O wife",
+      "korean_translation": "아내여, 네가 무엇을 알겠느냐",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whether thou shalt save thy husband?",
+      "korean_translation": "네가 남편을 구원할지를",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or how knowest thou, O man",
+      "korean_translation": "또 남자여, 네가 어떻게 알겠느냐",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whether thou shalt save thy wife?",
+      "korean_translation": "네가 아내를 구원할지를",
+      "word_indices": [
+        43
+      ]
+    }
+  ]
+}

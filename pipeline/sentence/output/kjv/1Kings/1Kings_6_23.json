@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 6:23",
+  "version": "KJV",
+  "original_text": "And within the oracle he made two cherubims of olive tree, each ten cubits high.",
+  "korean_text": "내소 안에 감람나무로 두 그룹을 만들었는데 그 높이가 각각 십 규빗이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And within the oracle",
+      "korean_translation": "그리고 지성소 안에",
+      "word_indices": [
+        1215
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he made two cherubims",
+      "korean_translation": "그는 두 그룹을 만들었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of olive tree",
+      "korean_translation": "올리브 나무로",
+      "word_indices": [
+        81,
+        591
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "each ten cubits high",
+      "korean_translation": "각각 열 규빗 높이였다",
+      "word_indices": [
+        117,
+        122,
+        613
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 125:4",
+  "version": "KJV",
+  "original_text": "Do good, O Lord, unto those that be good, and to them that are upright in their hearts.",
+  "korean_text": "여호와여 선한 자들과 마음이 정직한 자들에게 선대하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do good, O Lord",
+      "korean_translation": "여호와여, 선을 행하시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unto those that be good",
+      "korean_translation": "선한 자들에게 베풀시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to them that are upright in their hearts",
+      "korean_translation": "마음이 정직한 자들에게도 베풀소서",
+      "word_indices": [
+        1,
+        20,
+        458
+      ]
+    }
+  ]
+}

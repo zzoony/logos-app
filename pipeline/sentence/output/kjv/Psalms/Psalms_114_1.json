@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 114:1",
+  "version": "KJV",
+  "original_text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+  "korean_text": "이스라엘이 애굽에서 나오며 야곱의 집안이 언어가 다른 민족에게서 나올 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Israel went out of Egypt,",
+      "korean_translation": "이스라엘이 애굽에서 나올 때에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "house of Jacob",
+      "korean_translation": "야곱의 집은",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from a people of strange language;",
+      "korean_translation": "낯선 말을 하는 민족에게서 나왔도다",
+      "word_indices": [
+        5,
+        421,
+        872
+      ]
+    }
+  ]
+}

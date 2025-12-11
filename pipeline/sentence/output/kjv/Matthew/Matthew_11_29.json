@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 11:29",
+  "version": "KJV",
+  "original_text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+  "korean_text": "나는 마음이 온유하고 겸손하니 나의 멍에를 메고 내게 배우라 그리하면 너희 마음이 쉼을 얻으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Take my yoke upon you",
+      "korean_translation": "나의 멍에를 메라",
+      "word_indices": [
+        3,
+        493
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and learn of me",
+      "korean_translation": "그리고 나에게서 배우라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I am meek and lowly in heart",
+      "korean_translation": "이는 내가 마음이 온유하고 겸손하기 때문이라",
+      "word_indices": [
+        20,
+        1376,
+        2532
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ye shall find rest unto your souls",
+      "korean_translation": "그리하면 너희 영혼이 안식을 얻으리라",
+      "word_indices": [
+        39,
+        97
+      ]
+    }
+  ]
+}

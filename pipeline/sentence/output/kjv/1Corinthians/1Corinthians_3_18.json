@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Corinthians 3:18",
+  "version": "KJV",
+  "original_text": "Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.",
+  "korean_text": "아무도 자신을 속이지 말라 너희 중에 누구든지 이 세상에서 지혜 있는 줄로 생각하거든 어리석은 자가 되라 그리하여야 지혜로운 자가 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let no man deceive himself.",
+      "korean_translation": "아무도 자신을 속이게 하지 말라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If any man among you seemeth to be wise in this world,",
+      "korean_translation": "너희 중에 누가 이 세상에서 지혜 있는 체하거든",
+      "word_indices": [
+        3,
+        22,
+        104,
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let him become a fool,",
+      "korean_translation": "어리석은 자가 되게 하라",
+      "word_indices": [
+        132,
+        285
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that he may be wise.",
+      "korean_translation": "그리하면 지혜로울 수 있으리라",
+      "word_indices": [
+        127
+      ]
+    }
+  ]
+}

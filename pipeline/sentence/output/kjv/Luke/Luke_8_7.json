@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 8:7",
+  "version": "KJV",
+  "original_text": "And some fell among thorns; and the thorns sprang up with it, and choked it.",
+  "korean_text": "더러는 가시떨기 속에 떨어지매 가시가 함께 자라서 기운을 막았고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And some fell among thorns",
+      "korean_translation": "그리고 어떤 씨는 가시 덤불에 떨어졌고",
+      "word_indices": [
+        129,
+        545
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the thorns sprang up with it",
+      "korean_translation": "가시들이 그것과 함께 자라났으며",
+      "word_indices": [
+        545
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and choked it",
+      "korean_translation": "그것을 질식시켰다",
+      "word_indices": []
+    }
+  ]
+}

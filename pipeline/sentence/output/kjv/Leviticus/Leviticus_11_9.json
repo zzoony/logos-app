@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Leviticus 11:9",
+  "version": "KJV",
+  "original_text": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
+  "korean_text": "물에 있는 모든 것 중에서 너희가 먹을 만한 것은 이것이니 강과 바다와 다른 물에 있는 모든 것 중에서 지느러미와 비늘 있는 것은 너희가 먹되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These shall ye eat",
+      "korean_translation": "너희는 이것들을 먹을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of all that are in the waters",
+      "korean_translation": "물에 있는 모든 것 중에서",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whatsoever hath fins and scales",
+      "korean_translation": "지느러미와 비늘이 있는 것은 무엇이든",
+      "word_indices": [
+        2235
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the waters, in the seas, and in the rivers",
+      "korean_translation": "물 속, 바다 속, 강 속에 있는",
+      "word_indices": [
+        32,
+        65,
+        120
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "them shall ye eat",
+      "korean_translation": "너희는 그것들을 먹을 것이다",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

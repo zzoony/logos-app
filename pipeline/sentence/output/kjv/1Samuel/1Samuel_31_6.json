@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Samuel 31:6",
+  "version": "KJV",
+  "original_text": "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.",
+  "korean_text": "사울과 그의 세 아들과 무기를 든 자와 그의 모든 사람이 다 그 날에 함께 죽었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Saul died",
+      "korean_translation": "그리하여 사울이 죽었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his three sons",
+      "korean_translation": "그의 세 아들도",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his armourbearer",
+      "korean_translation": "그의 무기 맨도",
+      "word_indices": [
+        1335
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all his men",
+      "korean_translation": "그의 모든 사람들도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that same day together",
+      "korean_translation": "같은 날에 함께 죽었느니라",
+      "word_indices": [
+        51,
+        90
+      ]
+    }
+  ]
+}

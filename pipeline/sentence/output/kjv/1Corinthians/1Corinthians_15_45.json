@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Corinthians 15:45",
+  "version": "KJV",
+  "original_text": "And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.",
+  "korean_text": "기록된 바 첫 사람 아담은 생령이 되었다 함과 같이 마지막 아담은 살려 주는 영이 되었나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And so it is written",
+      "korean_translation": "그래서 기록된 바",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The first man Adam was made a living soul",
+      "korean_translation": "첫 사람 아담은 살아있는 영이 되었고",
+      "word_indices": [
+        61
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the last Adam was made a quickening spirit",
+      "korean_translation": "마지막 아담은 살리는 영이 되었느니라",
+      "word_indices": [
+        379,
+        1218
+      ]
+    }
+  ]
+}

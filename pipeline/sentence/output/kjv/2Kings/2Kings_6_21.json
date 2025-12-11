@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Kings 6:21",
+  "version": "KJV",
+  "original_text": "And the king of Israel said unto Elisha, when he saw them, My father, shall I smite them? shall I smite them?",
+  "korean_text": "이스라엘 왕이 그들을 보고 엘리사에게 이르되 내 아버지여 내가 치리이까 내가 치리이까 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the king of Israel said unto Elisha",
+      "korean_translation": "이스라엘 왕이 엘리사에게 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he saw them",
+      "korean_translation": "그들을 보았을 때",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My father",
+      "korean_translation": "나의 아버지여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall I smite them?",
+      "korean_translation": "내가 그들을 치리이까?",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall I smite them?",
+      "korean_translation": "내가 그들을 치리이까?",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

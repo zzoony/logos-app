@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 15:13",
+  "version": "KJV",
+  "original_text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+  "korean_text": "사람이 친구를 위하여 자기 목숨을 버리면 이보다 더 큰 사랑이 없나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Greater love hath no man",
+      "korean_translation": "이보다 더 큰 사랑은 없나니",
+      "word_indices": [
+        414
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than this",
+      "korean_translation": "이것보다",
+      "word_indices": [
+        52
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that a man lay down his life",
+      "korean_translation": "사람이 자기 목숨을 내어 놓는 것이라",
+      "word_indices": [
+        14,
+        53
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for his friends",
+      "korean_translation": "자기 벗을 위하여",
+      "word_indices": []
+    }
+  ]
+}

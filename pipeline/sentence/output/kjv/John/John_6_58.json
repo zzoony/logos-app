@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 6:58",
+  "version": "KJV",
+  "original_text": "This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.",
+  "korean_text": "이것은 하늘에서 내려온 떡이니 조상들이 먹고도 죽은 그것과 같지 아니하여 이 떡을 먹는 자는 영원히 살리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is that bread",
+      "korean_translation": "이것이 바로 그 빵입니다",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which came down from heaven:",
+      "korean_translation": "하늘에서 내려온 것입니다",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not as your fathers did eat manna,",
+      "korean_translation": "너희 조상들이 만나를 먹은 것과 같지 아니하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and are dead:",
+      "korean_translation": "죽었지만",
+      "word_indices": [
+        78
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he that eateth of this bread",
+      "korean_translation": "이 빵을 먹는 사람은",
+      "word_indices": [
+        79,
+        566
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "shall live for ever.",
+      "korean_translation": "영원히 살 것입니다",
+      "word_indices": [
+        54
+      ]
+    }
+  ]
+}

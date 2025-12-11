@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 10:29",
+  "version": "KJV",
+  "original_text": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.",
+  "korean_text": "참새 두 마리가 한 앗사리온에 팔리지 않느냐 그러나 너희 아버지께서 허락하지 아니하시면 그 하나도 땅에 떨어지지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Are not two sparrows sold for a farthing?",
+      "korean_translation": "두 참새가 한 닢에 팔리지 않느냐?",
+      "word_indices": [
+        2528
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and one of them shall not fall on the ground",
+      "korean_translation": "그 중 하나가 땅에 떨어지지 않으며",
+      "word_indices": [
+        1,
+        3499
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "without your Father.",
+      "korean_translation": "너희 아버지께서 허락하지 않으심이 없다.",
+      "word_indices": [
+        64
+      ]
+    }
+  ]
+}

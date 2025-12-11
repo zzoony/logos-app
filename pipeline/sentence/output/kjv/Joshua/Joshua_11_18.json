@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Joshua 11:18",
+  "version": "KJV",
+  "original_text": "Joshua made war a long time with all those kings.",
+  "korean_text": "여호수아가 그 모든 왕들과 싸운 지가 오랫동안이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joshua made war",
+      "korean_translation": "여호수아가 전쟁을 했습니다",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a long time",
+      "korean_translation": "오랜 시간 동안",
+      "word_indices": [
+        30,
+        144
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with all those kings",
+      "korean_translation": "그 모든 왕들과 함께",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 12:18",
+  "version": "KJV",
+  "original_text": "In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.",
+  "korean_text": "첫째 달 그 달 열나흗날 저녁부터 이십일일 저녁까지 너희는 무교병을 먹을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the first month",
+      "korean_translation": "첫째 달에",
+      "word_indices": [
+        61,
+        95
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the fourteenth day of the month at even",
+      "korean_translation": "달의 열나흗째 날 저녁에",
+      "word_indices": [
+        95,
+        1068
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ye shall eat unleavened bread",
+      "korean_translation": "너희는 누룩 없는 빵을 먹을 것이니",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until the one and twentieth day of the month at even",
+      "korean_translation": "달의 이십일째 날 저녁까지",
+      "word_indices": [
+        95,
+        839
+      ]
+    }
+  ]
+}

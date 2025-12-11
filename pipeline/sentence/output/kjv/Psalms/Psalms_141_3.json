@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 141:3",
+  "version": "KJV",
+  "original_text": "Set a watch, O Lord, before my mouth; keep the door of my lips.",
+  "korean_text": "여호와여 내 입에 파수꾼을 세우시고 내 입술의 문을 지키소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Set a watch, O Lord,",
+      "korean_translation": "오 주여, 파수꾼을 세우소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before my mouth;",
+      "korean_translation": "내 입 앞에",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "keep the door of my lips.",
+      "korean_translation": "내 입술의 문을 지키소서",
+      "word_indices": [
+        115,
+        266
+      ]
+    }
+  ]
+}

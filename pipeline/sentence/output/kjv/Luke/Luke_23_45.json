@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 23:45",
+  "version": "KJV",
+  "original_text": "And the sun was darkened, and the veil of the temple was rent in the midst.",
+  "korean_text": "성소의 휘장이 한가운데가 찢어지더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the sun was darkened",
+      "korean_translation": "그리고 해가 어두워졌고",
+      "word_indices": [
+        1235
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the veil of the temple",
+      "korean_translation": "그리고 성전의 휘장이",
+      "word_indices": [
+        148,
+        2173
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was rent in the midst",
+      "korean_translation": "중간이 찢어졌다",
+      "word_indices": [
+        77,
+        474
+      ]
+    }
+  ]
+}

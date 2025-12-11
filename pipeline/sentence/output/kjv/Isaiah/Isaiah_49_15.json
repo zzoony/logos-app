@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Isaiah 49:15",
+  "version": "KJV",
+  "original_text": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.",
+  "korean_text": "여인이 어찌 그 젖 먹는 자식을 잊겠으며 자기 태에서 난 아들을 긍휼히 여기지 않겠느냐 그들은 혹시 잊을지라도 나는 너를 잊지 아니할 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Can a woman forget her sucking child",
+      "korean_translation": "여인이 자기 젖 먹는 아이를 잊을 수 있겠느냐",
+      "word_indices": [
+        6,
+        327,
+        1045
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that she should not have compassion",
+      "korean_translation": "그녀가 불쌍히 여기지 않을 수 있겠느냐",
+      "word_indices": [
+        718
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the son of her womb?",
+      "korean_translation": "자기 태에서 난 아들을?",
+      "word_indices": [
+        431
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "yea, they may forget",
+      "korean_translation": "그래, 그들은 잊을 수 있으나",
+      "word_indices": [
+        327
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "yet will I not forget thee.",
+      "korean_translation": "나는 너를 잊지 아니하리라",
+      "word_indices": [
+        2,
+        327
+      ]
+    }
+  ]
+}

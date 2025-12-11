@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 16:7",
+  "version": "KJV",
+  "original_text": "I will bless the Lord, who hath given me counsel: my reins also instruct me in the night seasons.",
+  "korean_text": "나를 훈계하신 여호와를 송축할지라 밤마다 내 양심이 나를 교훈하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will bless the Lord",
+      "korean_translation": "나는 주를 찬양하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who hath given me counsel",
+      "korean_translation": "그가 내게 교훈을 주셨기 때문이다",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my reins also instruct me",
+      "korean_translation": "나의 내장 또한 나를 가르치며",
+      "word_indices": [
+        9,
+        983,
+        1516
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the night seasons",
+      "korean_translation": "밤의 시간에도",
+      "word_indices": [
+        440
+      ]
+    }
+  ]
+}

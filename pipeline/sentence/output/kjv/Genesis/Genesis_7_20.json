@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 7:20",
+  "version": "KJV",
+  "original_text": "Fifteen cubits upward did the waters prevail; and the mountains were covered.",
+  "korean_text": "물이 불어서 십오 규빗이나 오르니 산들이 잠긴지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Fifteen cubits upward",
+      "korean_translation": "십오 규빗 위로",
+      "word_indices": [
+        117,
+        516,
+        1092
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "did the waters prevail",
+      "korean_translation": "물들이 창일했으며",
+      "word_indices": [
+        32,
+        467
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the mountains were covered",
+      "korean_translation": "그리고 산들이 덮였다",
+      "word_indices": [
+        94
+      ]
+    }
+  ]
+}

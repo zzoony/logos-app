@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 1:7",
+  "version": "KJV",
+  "original_text": "And they had no child, because that Elisabeth was barren, and they both were now well stricken in years.",
+  "korean_text": "엘리사벳이 잉태를 못하므로 그들에게 자식이 없고 두 사람의 나이가 많더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they had no child",
+      "korean_translation": "그들에게는 자녀가 없었고",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because that Elisabeth was barren",
+      "korean_translation": "엘리사벳이 아이를 낳지 못했기 때문이며",
+      "word_indices": [
+        1120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they both were now well stricken in years",
+      "korean_translation": "그들 두 사람은 모두 나이가 많았습니다",
+      "word_indices": [
+        23,
+        1307
+      ]
+    }
+  ]
+}

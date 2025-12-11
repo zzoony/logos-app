@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 15:24",
+  "version": "KJV",
+  "original_text": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.",
+  "korean_text": "십자가에 못 박고 그 옷을 나눌새 누가 어느 것을 가질까 하여 제비를 뽑더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when they had crucified him,",
+      "korean_translation": "그들이 그를 십자가에 못 박았을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they parted his garments,",
+      "korean_translation": "그들은 그의 옷을 나누었고,",
+      "word_indices": [
+        102,
+        168
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "casting lots upon them,",
+      "korean_translation": "그것들 위로 제비를 뽑으며,",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what every man should take.",
+      "korean_translation": "각 사람이 무엇을 가져야 할지 결정하였다.",
+      "word_indices": []
+    }
+  ]
+}

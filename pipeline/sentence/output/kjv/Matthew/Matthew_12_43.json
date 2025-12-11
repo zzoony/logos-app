@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 12:43",
+  "version": "KJV",
+  "original_text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.",
+  "korean_text": "더러운 귀신이 사람에게서 나갔을 때에 물 없는 곳으로 다니며 쉬기를 구하되 쉴 곳을 얻지 못하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When unclean spirit is gone out of a man",
+      "korean_translation": "더러운 귀신이 사람에게서 나갔을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he walketh through dry places",
+      "korean_translation": "그는 건조한 곳들을 다닙니다",
+      "word_indices": [
+        57,
+        302,
+        739
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "seeking rest",
+      "korean_translation": "안식처를 찾으며",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and findeth none",
+      "korean_translation": "그러나 찾지 못합니다",
+      "word_indices": [
+        1016
+      ]
+    }
+  ]
+}

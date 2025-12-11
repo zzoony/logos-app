@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 2:1",
+  "version": "KJV",
+  "original_text": "And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed.",
+  "korean_text": "그 때에 가이사 아구스도가 영을 내려 천하로 다 호적하라 하였으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass in those days",
+      "korean_translation": "그 때에 이 일이 있었으니",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that there went out a decree",
+      "korean_translation": "그곳에서 한 칙령이 나왔는데",
+      "word_indices": [
+        559
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from Caesar Augustus",
+      "korean_translation": "카이사르 아구스도로부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that all the world should be taxed",
+      "korean_translation": "온 세상이 등록되어야 한다고",
+      "word_indices": [
+        104,
+        2310
+      ]
+    }
+  ]
+}

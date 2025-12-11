@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 17:23",
+  "version": "KJV",
+  "original_text": "And they shall say to you, See here; or, see there: go not after them, nor follow them.",
+  "korean_text": "사람이 너희에게 말하되 보라 저기 있다 보라 여기 있다 하리라 그러나 너희는 가지도 말고 따르지도 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they shall say to you,",
+      "korean_translation": "그들이 너희에게 말하기를",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "See here;",
+      "korean_translation": "보라 여기 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or, see there:",
+      "korean_translation": "또는 보라 저기 있다",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "go not after them,",
+      "korean_translation": "그들을 따르지 말라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nor follow them.",
+      "korean_translation": "그들을 좇지 말라",
+      "word_indices": [
+        1,
+        31
+      ]
+    }
+  ]
+}

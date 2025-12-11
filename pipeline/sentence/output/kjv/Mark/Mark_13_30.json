@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 13:30",
+  "version": "KJV",
+  "original_text": "Verily I say unto you, that this generation shall not pass, till all these things be done.",
+  "korean_text": "내가 진실로 너희에게 말하노니 이 세대가 지나가기 전에 이 일이 다 일어나리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily I say unto you,",
+      "korean_translation": "진실로 너희에게 말하노니,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that this generation shall not pass,",
+      "korean_translation": "이 세대는 지나가지 않으리라",
+      "word_indices": [
+        27,
+        143
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "till all these things be done.",
+      "korean_translation": "이 모든 일이 이루기까지",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

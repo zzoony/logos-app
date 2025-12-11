@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Job 4:7",
+  "version": "KJV",
+  "original_text": "Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off?",
+  "korean_text": "생각하여 보라 죄 없이 망한 자가 누구인가 정직한 자의 끊어짐이 어디 있는가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember",
+      "korean_translation": "기억하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I pray thee",
+      "korean_translation": "내가 너에게 간청하노니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who ever perished",
+      "korean_translation": "누가 망했는가",
+      "word_indices": [
+        54,
+        224
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "being innocent?",
+      "korean_translation": "무죄한 상태에서?",
+      "word_indices": [
+        763
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or where were the righteous cut off?",
+      "korean_translation": "혹은 의로운 자들이 어디서 끊겼는가?",
+      "word_indices": [
+        15,
+        46,
+        91
+      ]
+    }
+  ]
+}

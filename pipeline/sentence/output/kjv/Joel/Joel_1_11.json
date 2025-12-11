@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Joel 1:11",
+  "version": "KJV",
+  "original_text": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
+  "korean_text": "농부들아 너희는 부끄러워할지어다 포도원을 가꾸는 자들아 곡할지어다 이는 밀과 보리 때문이라 밭의 소산이 다 없어졌음이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Be ye ashamed, O ye husbandmen;",
+      "korean_translation": "농부들아, 부끄러워하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "howl, O ye vinedressers,",
+      "korean_translation": "포도원지기들아, 통곡하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for wheat and for barley;",
+      "korean_translation": "밀과 보리 때문에",
+      "word_indices": [
+        618,
+        822
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because the harvest of the field is perished.",
+      "korean_translation": "들의 수확이 망쳐졌기 때문이다",
+      "word_indices": [
+        84,
+        224,
+        517
+      ]
+    }
+  ]
+}

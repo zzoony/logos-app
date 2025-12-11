@@ -1,0 +1,27 @@
+{
+  "verse_reference": "John 16:12",
+  "version": "KJV",
+  "original_text": "I have yet many things to say unto you, but ye cannot bear them now.",
+  "korean_text": "내가 아직도 너희에게 이를 것이 많으나 지금은 너희가 감당하지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have yet many things to say unto you",
+      "korean_translation": "나는 아직 너희에게 말할 많은 것들이 있다",
+      "word_indices": [
+        3,
+        11
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but ye cannot bear them now",
+      "korean_translation": "하지만 너희는 지금 그것들을 감당할 수 없다",
+      "word_indices": [
+        1,
+        63,
+        173
+      ]
+    }
+  ]
+}

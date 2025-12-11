@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Numbers 12:3",
+  "version": "KJV",
+  "original_text": "(Now the man Moses was very meek, above all the men which were upon the face of the earth.)",
+  "korean_text": "이 사람 모세는 온유함이 지면의 모든 사람보다 더하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the man Moses",
+      "korean_translation": "사람 모세는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was very meek",
+      "korean_translation": "매우 온순하였다",
+      "word_indices": [
+        119,
+        1376
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "above all the men",
+      "korean_translation": "모든 사람들보다",
+      "word_indices": [
+        145
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which were upon the face of the earth",
+      "korean_translation": "땅 위에 있는",
+      "word_indices": [
+        49
+      ]
+    }
+  ]
+}

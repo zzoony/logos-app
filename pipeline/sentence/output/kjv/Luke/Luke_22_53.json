@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 22:53",
+  "version": "KJV",
+  "original_text": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.",
+  "korean_text": "내가 날마다 너희와 함께 성전에 있을 때에 내게 손을 대지 아니하였도다 그러나 이제는 너희 때요 어둠의 권세로다 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I was daily with you in the temple",
+      "korean_translation": "내가 날마다 성전에서 너희와 함께 있을 때에",
+      "word_indices": [
+        3,
+        148,
+        503
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "ye stretched forth no hands against me",
+      "korean_translation": "너희는 내게 손을 대지 아니하였으나",
+      "word_indices": [
+        8,
+        25
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but this is your hour",
+      "korean_translation": "이 때는 너희의 때요",
+      "word_indices": [
+        350
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the power of darkness",
+      "korean_translation": "어둠의 권세로다",
+      "word_indices": [
+        106
+      ]
+    }
+  ]
+}

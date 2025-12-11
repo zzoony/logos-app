@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 22:32",
+  "version": "KJV",
+  "original_text": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.",
+  "korean_text": "그러나 내가 너를 위하여 네 믿음이 떨어지지 않기를 기도하였노니 너는 돌이킨 후에 네 형제를 굳게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I have prayed for thee",
+      "korean_translation": "그러나 나는 너를 위해 기도하였다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that thy faith fail not",
+      "korean_translation": "네 믿음이 실패하지 않도록",
+      "word_indices": [
+        128,
+        411
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and when thou art converted",
+      "korean_translation": "그리고 네가 돌이킬 때",
+      "word_indices": [
+        1653
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "strengthen thy brethren",
+      "korean_translation": "네 형제들을 격고하라",
+      "word_indices": [
+        432
+      ]
+    }
+  ]
+}

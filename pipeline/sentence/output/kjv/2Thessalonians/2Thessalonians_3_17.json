@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Thessalonians 3:17",
+  "version": "KJV",
+  "original_text": "The salutation of Paul with mine own hand, which is the token in every epistle: so I write.",
+  "korean_text": "나 바울은 친필로 문안하노니 이는 편지마다 표시로서 이렇게 쓰노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The salutation of Paul",
+      "korean_translation": "바울의 문안 인사는",
+      "word_indices": [
+        2352
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with mine own hand",
+      "korean_translation": "내 손으로 직접 쓴 것이니",
+      "word_indices": [
+        8,
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which is the token",
+      "korean_translation": "이것은 표징이 되며",
+      "word_indices": [
+        1183
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in every epistle:",
+      "korean_translation": "모든 편지에 있는 것이니",
+      "word_indices": [
+        1451
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so I write.",
+      "korean_translation": "내가 이렇게 씁니다.",
+      "word_indices": []
+    }
+  ]
+}

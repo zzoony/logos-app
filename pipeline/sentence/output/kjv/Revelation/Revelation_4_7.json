@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Revelation 4:7",
+  "version": "KJV",
+  "original_text": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.",
+  "korean_text": "그 첫째 생물은 사자 같고 그 둘째 생물은 송아지 같고 그 셋째 생물은 얼굴이 사람 같고 그 넷째 생물은 날아가는 독수리 같은데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the first beast was like a lion",
+      "korean_translation": "첫 번째 짐승은 사자 같았으며",
+      "word_indices": [
+        61,
+        87
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the second beast like a calf",
+      "korean_translation": "두 번째 짐승은 송아지 같았으며",
+      "word_indices": [
+        87,
+        190,
+        654
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the third beast had a face as a man",
+      "korean_translation": "세 번째 짐승은 사람의 얼굴을 가졌고",
+      "word_indices": [
+        49,
+        87,
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the fourth beast was like a flying eagle",
+      "korean_translation": "네 번째 짐승은 나는 독수리 같았더라",
+      "word_indices": [
+        87,
+        387,
+        650,
+        877
+      ]
+    }
+  ]
+}

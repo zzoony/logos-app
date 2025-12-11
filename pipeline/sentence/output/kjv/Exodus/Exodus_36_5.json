@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 36:5",
+  "version": "KJV",
+  "original_text": "And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the Lord commanded to make.",
+  "korean_text": "모세에게 말하여 이르되 백성이 너무 많이 가져오므로 여호와께서 명령하신 일에 쓰기에 남음이 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they spake unto Moses",
+      "korean_translation": "그들이 모세에게 말하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, The people bring much more than enough",
+      "korean_translation": "이르되 백성이 너무 많이 가져오나이다",
+      "word_indices": [
+        5,
+        33,
+        52,
+        105,
+        907
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the service of the work",
+      "korean_translation": "그 역사의 재료에 쓰기에",
+      "word_indices": [
+        29,
+        249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which the Lord commanded to make",
+      "korean_translation": "여호와께서 명하시고 만들라 하신 것에",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Genesis 13:9",
+  "version": "KJV",
+  "original_text": "Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left.",
+  "korean_text": "네 앞에 온 땅이 있지 아니하냐 나를 떠나가라 네가 좌하면 나는 우하고 네가 우하면 나는 좌하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is not the whole land before thee?",
+      "korean_translation": "온 땅이 네 앞에 있지 아니하냐?",
+      "word_indices": [
+        2,
+        10,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "separate thyself, I pray thee, from me:",
+      "korean_translation": "내게서 떠나게 하라, 제발,",
+      "word_indices": [
+        2,
+        146
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if thou wilt take the left hand,",
+      "korean_translation": "네가 왼쪽을 택하면,",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then I will go to the right;",
+      "korean_translation": "내가 오른쪽으로 가리라",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or if thou depart to the right hand,",
+      "korean_translation": "또는 네가 오른쪽으로 가면,",
+      "word_indices": [
+        8,
+        15,
+        80
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "then I will go to the left.",
+      "korean_translation": "내가 왼쪽으로 가리라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 11:4",
+  "version": "KJV",
+  "original_text": "And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.",
+  "korean_text": "우리가 우리에게 죄 지은 모든 사람을 용서하오니 우리 죄도 사하여 주시옵고 우리를 시험에 들게 하지 마시옵소서 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And forgive us our sins",
+      "korean_translation": "그리고 우리의 죄를 용서하소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for we also forgive every one",
+      "korean_translation": "이는 우리도 모든 사람을 용서하나니",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is indebted to us",
+      "korean_translation": "우리에게 빚진 자들이니이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And lead us not into temptation",
+      "korean_translation": "그리고 우리를 시험에 들게 하지 마시옵소서",
+      "word_indices": [
+        7,
+        256,
+        1114
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but deliver us from evil",
+      "korean_translation": "오직 우리를 악에서 구하옵소서",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

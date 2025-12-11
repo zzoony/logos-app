@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Jonah 2:10",
+  "version": "KJV",
+  "original_text": "And the Lord spake unto the fish, and it vomited out Jonah upon the dry land.",
+  "korean_text": "여호와께서 그 물고기에게 말씀하시매 요나를 육지에 토하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord spake unto the fish",
+      "korean_translation": "그리고 주께서 물고기에게 말씀하셨다",
+      "word_indices": [
+        487
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and it vomited out Jonah",
+      "korean_translation": "그리자 물고기가 요나를 토해냈다",
+      "word_indices": [
+        2021
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "upon the dry land",
+      "korean_translation": "마른 땅 위로",
+      "word_indices": [
+        10,
+        302
+      ]
+    }
+  ]
+}

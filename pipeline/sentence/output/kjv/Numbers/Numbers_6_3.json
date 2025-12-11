@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Numbers 6:3",
+  "version": "KJV",
+  "original_text": "He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.",
+  "korean_text": "포도주와 독주를 멀리하며 포도주로 된 초나 독주로 된 초를 마시지 말며 포도즙도 마시지 말며 생포도나 건포도도 먹지 말지니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He shall separate himself from wine",
+      "korean_translation": "그는 포도주를 금해야 합니다",
+      "word_indices": [
+        138
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and strong drink",
+      "korean_translation": "그리고 독주를 금해야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shall drink no vinegar of wine",
+      "korean_translation": "그리고 포도주 식초를 마시지 말아야 합니다",
+      "word_indices": [
+        138,
+        1627
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or vinegar of strong drink",
+      "korean_translation": "또는 독주 식초도 마시지 말아야 합니다",
+      "word_indices": [
+        15,
+        1627
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "neither shall he drink any liquor of grapes",
+      "korean_translation": "그는 어떤 포도즙도 마시지 말아야 합니다",
+      "word_indices": [
+        22,
+        3209
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "nor eat moist grapes",
+      "korean_translation": "그리고 신선한 포도도 먹지 말아야 합니다",
+      "word_indices": [
+        31,
+        4468
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "or dried",
+      "korean_translation": "또는 말린 포도도 먹지 말아야 합니다",
+      "word_indices": [
+        15
+      ]
+    }
+  ]
+}

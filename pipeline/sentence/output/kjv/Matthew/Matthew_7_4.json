@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 7:4",
+  "version": "KJV",
+  "original_text": "Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?",
+  "korean_text": "보라 네 눈 속에 들보가 있는데 어찌하여 형제에게 말하기를 나로 네 눈 속에 있는 티를 빼게 하라 하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Or how wilt thou say to thy brother",
+      "korean_translation": "또 너는 네 형제에게 어떻게 말하겠느냐",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let me pull out the mote out of thine eye",
+      "korean_translation": "네 눈에서 티를 빼내게 하라",
+      "word_indices": [
+        1093,
+        2552
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and, behold",
+      "korean_translation": "그리고 보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a beam is in thine own eye",
+      "korean_translation": "네 눈에는 들보가 있느냐",
+      "word_indices": [
+        37,
+        1036
+      ]
+    }
+  ]
+}

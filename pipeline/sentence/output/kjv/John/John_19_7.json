@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 19:7",
+  "version": "KJV",
+  "original_text": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.",
+  "korean_text": "유대인들이 대답하되 우리에게 법이 있으니 그 법대로 하면 그가 당연히 죽을 것은 그가 자기를 하나님의 아들이라 함이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Jews answered him",
+      "korean_translation": "유대인들이 그에게 대답하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We have a law",
+      "korean_translation": "우리에게 법이 있고",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and by our law he ought to die",
+      "korean_translation": "우리 법에 의하면 그가 죽어야 마땅하니",
+      "word_indices": [
+        42,
+        44,
+        346
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because he made himself the Son of God",
+      "korean_translation": "이는 그가 자신을 하나님의 아들이라 했기 때문이니라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 18:15",
+  "version": "KJV",
+  "original_text": "Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.",
+  "korean_text": "사울은 다윗이 크게 지혜롭게 행함을 보고 그를 두려워하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wherefore when Saul saw",
+      "korean_translation": "그러므로 사울이 볼 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he behaved himself very wisely",
+      "korean_translation": "그가 지극히 지혜롭게 행동하는 것을",
+      "word_indices": [
+        119,
+        1541
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he was afraid of him",
+      "korean_translation": "그는 그를 두려워하였다",
+      "word_indices": [
+        165
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ecclesiastes 2:25",
+  "version": "KJV",
+  "original_text": "For who can eat, or who else can hasten hereunto, more than I?",
+  "korean_text": "아, 먹고 즐기는 일을 누가 나보다 더 해 보았으랴",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For who can eat",
+      "korean_translation": "이는 누가 먹을 수 있으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or who else can hasten hereunto",
+      "korean_translation": "또 누가 이것에 더 빨리 이를 수 있겠는가",
+      "word_indices": [
+        15,
+        658,
+        4015
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "more than I?",
+      "korean_translation": "나보다 더?",
+      "word_indices": [
+        33,
+        52
+      ]
+    }
+  ]
+}

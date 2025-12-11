@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 19:28",
+  "version": "KJV",
+  "original_text": "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.",
+  "korean_text": "그 후에 예수께서 모든 일이 이미 이루어진 줄 아시고 성경을 응하게 하려 하사 이르시되 내가 목마르다 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After this",
+      "korean_translation": "이 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus knowing",
+      "korean_translation": "예수께서 아시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that all things were now accomplished",
+      "korean_translation": "모든 것이 이제 완성되었음을",
+      "word_indices": [
+        11,
+        765
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that the scripture might be fulfilled",
+      "korean_translation": "성경이 이루어지게 하려 하심이라",
+      "word_indices": [
+        55,
+        599
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "saith, I thirst.",
+      "korean_translation": "이르시되 내가 목마르다 하시니라",
+      "word_indices": [
+        13,
+        891
+      ]
+    }
+  ]
+}

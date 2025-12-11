@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Joel 1:10",
+  "version": "KJV",
+  "original_text": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
+  "korean_text": "밭이 황무하고 토지가 마르니 곡식이 떨어지며 새 포도주가 말랐고 기름이 다하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The field is wasted",
+      "korean_translation": "밭이 황폐해지고",
+      "word_indices": [
+        84,
+        466
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the land mourneth",
+      "korean_translation": "땅이 슬퍼하며",
+      "word_indices": [
+        10,
+        1783
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the corn is wasted",
+      "korean_translation": "곡식이 황폐해졌기 때문이며",
+      "word_indices": [
+        326,
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the new wine is dried up",
+      "korean_translation": "새 포도주가 말랐고",
+      "word_indices": [
+        138,
+        220
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the oil languisheth",
+      "korean_translation": "기름이 쇠잔해졌도다",
+      "word_indices": [
+        154,
+        2175
+      ]
+    }
+  ]
+}

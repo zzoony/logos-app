@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 69:2",
+  "version": "KJV",
+  "original_text": "I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me.",
+  "korean_text": "나는 설 곳이 없는 깊은 수렁에 빠지며 깊은 물에 들어가니 큰 물이 내게 넘치나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I sink in deep mire",
+      "korean_translation": "나는 깊은 진흙에 가라앉습니다",
+      "word_indices": [
+        448,
+        1478,
+        1504
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where there is no standing",
+      "korean_translation": "거기에는 설 곳이 없습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am come into deep waters",
+      "korean_translation": "나는 깊은 물에 이르렀습니다",
+      "word_indices": [
+        7,
+        32,
+        448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "where floods overflow me",
+      "korean_translation": "거기서 홍수가 나를 넘치게 합니다",
+      "word_indices": [
+        506,
+        1057
+      ]
+    }
+  ]
+}

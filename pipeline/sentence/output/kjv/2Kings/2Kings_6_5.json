@@ -1,0 +1,50 @@
+{
+  "verse_reference": "2 Kings 6:5",
+  "version": "KJV",
+  "original_text": "But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.",
+  "korean_text": "한 사람이 나무를 벨 때에 쇠도끼가 물에 떨어진지라 이에 외쳐 이르되 아아, 내 주여 이는 빌려온 것이니이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But as one was felling a beam",
+      "korean_translation": "그런데 어떤 사람이 들보를 찍어 내리는데",
+      "word_indices": [
+        129,
+        1036
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the axe head fell into the water",
+      "korean_translation": "도끼날이 물에 빠졌다",
+      "word_indices": [
+        7,
+        32,
+        129,
+        1777
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he cried",
+      "korean_translation": "그가 소리쳤다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and said, Alas, master!",
+      "korean_translation": "그리고 말했다, 아이고, 주인님!",
+      "word_indices": [
+        1250
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for it was borrowed",
+      "korean_translation": "그것은 빌린 것이었기 때문이다",
+      "word_indices": [
+        1752
+      ]
+    }
+  ]
+}

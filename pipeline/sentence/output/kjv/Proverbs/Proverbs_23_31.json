@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Proverbs 23:31",
+  "version": "KJV",
+  "original_text": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.",
+  "korean_text": "포도주는 붉고 잔에서 번쩍이며 순하게 내려가나니 너는 그것을 보지도 말지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Look not thou upon the wine",
+      "korean_translation": "그 포도주를 보지 마라",
+      "word_indices": [
+        138
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when it is red",
+      "korean_translation": "그것이 붉을 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when it giveth his colour in the cup",
+      "korean_translation": "잔 속에서 그 색을 낼 때에",
+      "word_indices": [
+        261,
+        427,
+        1025
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when it moveth itself aright",
+      "korean_translation": "그것이 바르게 움직일 때에",
+      "word_indices": [
+        626,
+        2054,
+        2754
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 144:4",
+  "version": "KJV",
+  "original_text": "Man is like to vanity: his days are as a shadow that passeth away.",
+  "korean_text": "사람은 헛것 같고 그의 날은 지나가는 그림자 같으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Man is like to vanity",
+      "korean_translation": "사람은 헛것과 같으며",
+      "word_indices": [
+        342
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his days are as a shadow",
+      "korean_translation": "그의 날은 그림자와 같고",
+      "word_indices": [
+        404
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that passeth away",
+      "korean_translation": "사라지는 그림자와 같다",
+      "word_indices": [
+        799
+      ]
+    }
+  ]
+}

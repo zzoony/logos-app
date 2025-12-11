@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 13:1",
+  "version": "KJV",
+  "original_text": "How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?",
+  "korean_text": "여호와여 어느 때까지니이까 나를 영원히 잊으시나이까 주의 얼굴을 나에게서 어느 때까지 숨기시겠나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "How long wilt thou forget me",
+      "korean_translation": "언제까지 나를 잊으시겠나이까",
+      "word_indices": [
+        144,
+        327
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord?",
+      "korean_translation": "오 주여?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for ever?",
+      "korean_translation": "영원히?",
+      "word_indices": [
+        54
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "how long wilt thou hide thy face from me?",
+      "korean_translation": "언제까지 주의 얼굴을 나에게서 숨기시겠나이까?",
+      "word_indices": [
+        49,
+        144
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 3:19",
+  "version": "KJV",
+  "original_text": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.",
+  "korean_text": "네가 흙으로 돌아갈 때까지 얼굴에 땀을 흘려야 먹을 것을 먹으리니 네가 그것에서 취함을 입었음이라 너는 흙이니 흙으로 돌아갈 것이니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the sweat of thy face shalt thou eat bread",
+      "korean_translation": "네 얼굴의 땀으로 네가 빵을 먹으리라",
+      "word_indices": [
+        49,
+        79,
+        3165
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "till thou return unto the ground",
+      "korean_translation": "네가 땅으로 돌아갈 때까지",
+      "word_indices": [
+        3499
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for out of it wast thou taken",
+      "korean_translation": "네가 거기서 취해졌기 때문이라",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for dust thou art",
+      "korean_translation": "너는 먼지이기 때문이라",
+      "word_indices": [
+        305
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and unto dust shalt thou return",
+      "korean_translation": "그리고 먼지로 돌아갈 것이라",
+      "word_indices": [
+        305
+      ]
+    }
+  ]
+}

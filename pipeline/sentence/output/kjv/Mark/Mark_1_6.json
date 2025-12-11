@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 1:6",
+  "version": "KJV",
+  "original_text": "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
+  "korean_text": "요한은 낙타털 옷을 입고 허리에 가죽 띠를 띠고 메뚜기와 석청을 먹더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And John was clothed with camel's hair",
+      "korean_translation": "요한은 낙타 털옷을 입었고",
+      "word_indices": [
+        405,
+        507,
+        1163
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and with a girdle of a skin about his loins",
+      "korean_translation": "허리에는 가죽 띠를 띠었으며",
+      "word_indices": [
+        502,
+        708
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he did eat locusts and wild honey",
+      "korean_translation": "메뚜기와 들꿀을 먹었다",
+      "word_indices": [
+        565,
+        701,
+        1002
+      ]
+    }
+  ]
+}

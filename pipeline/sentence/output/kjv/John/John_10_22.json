@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 10:22",
+  "version": "KJV",
+  "original_text": "And it was at Jerusalem the feast of the dedication, and it was winter.",
+  "korean_text": "예루살렘에 수전절이 이르니 때는 겨울이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it was at Jerusalem",
+      "korean_translation": "그리고 예루살렘에서 있었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the feast of the dedication",
+      "korean_translation": "수절절(성전봉헌절)이었고",
+      "word_indices": [
+        203,
+        1849
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and it was winter",
+      "korean_translation": "그리고 겨울이었습니다",
+      "word_indices": [
+        1455
+      ]
+    }
+  ]
+}

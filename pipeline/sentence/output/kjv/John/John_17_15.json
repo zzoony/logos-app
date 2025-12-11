@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 17:15",
+  "version": "KJV",
+  "original_text": "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.",
+  "korean_text": "내가 비옵는 것은 그들을 세상에서 데려가시기를 위함이 아니요 다만 악에 빠지지 않게 보전하시기를 위함이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I pray not",
+      "korean_translation": "나는 기도하지 않습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that thou shouldest take them out of the world",
+      "korean_translation": "당신이 그들을 세상에서 데려가기를",
+      "word_indices": [
+        1,
+        104
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but that thou shouldest keep them",
+      "korean_translation": "그러나 당신이 그들을 지키기를",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the evil",
+      "korean_translation": "악으로부터",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

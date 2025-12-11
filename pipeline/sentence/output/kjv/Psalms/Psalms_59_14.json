@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 59:14",
+  "version": "KJV",
+  "original_text": "And at evening let them return; and let them make a noise like a dog, and go round about the city.",
+  "korean_text": "그들에게 저물어 돌아와서 개처럼 울며 성으로 두루 다니게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And at evening let them return",
+      "korean_translation": "저물 때에는 그들이 돌아오게 하라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and let them make a noise like a dog",
+      "korean_translation": "그들이 개처럼 소리치게 하라",
+      "word_indices": [
+        1,
+        361,
+        744
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and go round about the city",
+      "korean_translation": "성 주위를 돌아다니게 하라",
+      "word_indices": [
+        12,
+        93
+      ]
+    }
+  ]
+}

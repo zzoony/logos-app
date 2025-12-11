@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ecclesiastes 1:5",
+  "version": "KJV",
+  "original_text": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+  "korean_text": "해는 뜨고 해는 지되 그 떴던 곳으로 빨리 돌아가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun also ariseth",
+      "korean_translation": "해도 또한 떠오르고",
+      "word_indices": [
+        9,
+        1787
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the sun goeth down",
+      "korean_translation": "해는 지고",
+      "word_indices": [
+        14,
+        240
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and hasteth to his place",
+      "korean_translation": "그리고 그 장소로 서두르니",
+      "word_indices": [
+        21,
+        2017
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "where he arose",
+      "korean_translation": "거기서 그가 떠오른 곳으로",
+      "word_indices": []
+    }
+  ]
+}

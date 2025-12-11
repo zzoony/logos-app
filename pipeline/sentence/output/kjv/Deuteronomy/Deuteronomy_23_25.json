@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Deuteronomy 23:25",
+  "version": "KJV",
+  "original_text": "When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour's standing corn.",
+  "korean_text": "네 이웃의 곡식밭에 들어갈 때에는 네가 손으로 그 이삭을 따도 되느니라 그러나 네 이웃의 곡식밭에 낫을 대지는 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When thou comest into the standing corn of thy neighbour,",
+      "korean_translation": "네가 이웃의 서 있는 곡식 밭에 들어갈 때에,",
+      "word_indices": [
+        7,
+        213,
+        326
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "then thou mayest pluck the ears with thine hand;",
+      "korean_translation": "네가 손으로 이삭을 뽑아 먹어도 좋으나",
+      "word_indices": [
+        8,
+        111,
+        286,
+        594
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but thou shalt not move a sickle unto thy neighbour's standing corn.",
+      "korean_translation": "너는 이웃의 곡식 밭에 낫을 대지 말지니라.",
+      "word_indices": [
+        213,
+        326,
+        358,
+        1699
+      ]
+    }
+  ]
+}

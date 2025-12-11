@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 20:6",
+  "version": "KJV",
+  "original_text": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?",
+  "korean_text": "제십일시에도 나가 보니 서 있는 사람들이 또 있는지라 이르되 너희는 어찌하여 종일토록 놀고 여기 서 있느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And about the eleventh hour he went out",
+      "korean_translation": "그리고 열 한 시쯤에 그가 나가서",
+      "word_indices": [
+        350,
+        1248
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and found others standing idle",
+      "korean_translation": "빈둥거리며 서 있는 다른 사람들을 발견하고",
+      "word_indices": [
+        56,
+        1753,
+        1903
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and saith unto them",
+      "korean_translation": "그들에게 말하니",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why stand ye here all the day idle?",
+      "korean_translation": "어찌하여 너희가 종일 빈둥거리며 서 있는가?",
+      "word_indices": [
+        1753
+      ]
+    }
+  ]
+}

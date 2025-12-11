@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Leviticus 8:19",
+  "version": "KJV",
+  "original_text": "And he killed it; and Moses sprinkled the blood upon the altar round about.",
+  "korean_text": "모세가 잡아 그 피를 제단 사방에 뿌리고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he killed it;",
+      "korean_translation": "그리고 그가 그것을 죽였으며",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Moses sprinkled the blood upon the altar",
+      "korean_translation": "그리고 모세가 피를 제단 위에 뿌렸으며",
+      "word_indices": [
+        59,
+        62
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "round about.",
+      "korean_translation": "사방으로.",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Corinthians 1:13",
+  "version": "KJV",
+  "original_text": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
+  "korean_text": "그리스도께서 어찌 나뉘었느냐 바울이 너희를 위하여 십자가에 못 박혔으며 바울의 이름으로 너희가 세례를 받았느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is Christ divided?",
+      "korean_translation": "그리스도가 나뉘었느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was Paul crucified for you?",
+      "korean_translation": "바울이 너희를 위하여 십자가에 못 박혔느냐?",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or were ye baptized in name of Paul?",
+      "korean_translation": "아니면 너희가 바울의 이름으로 세례를 받았느냐?",
+      "word_indices": [
+        15,
+        16
+      ]
+    }
+  ]
+}

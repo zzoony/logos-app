@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 47:21",
+  "version": "KJV",
+  "original_text": "And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end thereof.",
+  "korean_text": "요셉이 애굽 땅 이 끝에서 저 끝까지의 백성을 성읍들에 옮겼으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as for the people",
+      "korean_translation": "그리고 백성에 관해서는",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he removed them to cities",
+      "korean_translation": "그가 그들을 도시들로 옮겼다",
+      "word_indices": [
+        1,
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from one end of the borders of Egypt",
+      "korean_translation": "애굽 경계의 한 끝에서부터",
+      "word_indices": [
+        73,
+        157
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even to the other end thereof",
+      "korean_translation": "그 다른 끝까지라도",
+      "word_indices": [
+        24,
+        56,
+        73
+      ]
+    }
+  ]
+}

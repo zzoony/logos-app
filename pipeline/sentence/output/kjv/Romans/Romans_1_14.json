@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Romans 1:14",
+  "version": "KJV",
+  "original_text": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.",
+  "korean_text": "헬라인이나 야만인이나 지혜 있는 자나 어리석은 자에게 다 내가 빚진 자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am debtor",
+      "korean_translation": "나는 빚진 자입니다",
+      "word_indices": [
+        2049
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "both to Greeks",
+      "korean_translation": "헬라인에게도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to Barbarians",
+      "korean_translation": "야만인에게도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "both to wise",
+      "korean_translation": "지혜 있는 자에게도",
+      "word_indices": [
+        127
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to unwise",
+      "korean_translation": "지혜 없는 자에게도",
+      "word_indices": [
+        2917
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Exodus 19:4",
+  "version": "KJV",
+  "original_text": "Ye have seen what I did unto the Egyptians, and how I bare you on eagles' wings, and brought you unto myself.",
+  "korean_text": "내가 애굽 사람에게 어떻게 행하였음과 내가 어떻게 독수리 날개로 너희를 업어 내게로 인도하였음을 너희가 보았느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye have seen what I did unto the Egyptians",
+      "korean_translation": "너희는 내가 이집트 사람들에게 행한 것을 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and how I bare you on eagles' wings",
+      "korean_translation": "그리고 내가 독수리 날개로 너희를 날랐는지",
+      "word_indices": [
+        3,
+        171,
+        363
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and brought you unto myself",
+      "korean_translation": "그리고 너희를 내게로 인도했는지",
+      "word_indices": [
+        3,
+        271
+      ]
+    }
+  ]
+}

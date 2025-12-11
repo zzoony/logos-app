@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Psalms 116:10",
+  "version": "KJV",
+  "original_text": "I believed, therefore have I spoken: I was greatly afflicted:",
+  "korean_text": "내가 크게 고통을 당하였다고 말할 때에도 나는 믿었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I believed",
+      "korean_translation": "나는 믿었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "therefore have I spoken",
+      "korean_translation": "그러므로 나는 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was greatly afflicted",
+      "korean_translation": "나는 크게 고통받았습니다",
+      "word_indices": [
+        365,
+        377
+      ]
+    }
+  ]
+}

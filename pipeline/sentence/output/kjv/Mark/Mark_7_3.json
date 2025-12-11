@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Mark 7:3",
+  "version": "KJV",
+  "original_text": "For the Pharisees, and all the Jews, except they wash their hands oft, eat not, holding the tradition of the elders.",
+  "korean_text": "(바리새인들과 모든 유대인들은 장로들의 전통을 지키어 손을 잘 씻지 않고서는 음식을 먹지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the Pharisees, and all the Jews,",
+      "korean_translation": "바리새인들과 모든 유대인들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "except they wash their hands oft,",
+      "korean_translation": "자주 손을 씻지 않으면서",
+      "word_indices": [
+        8,
+        1647
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "eat not,",
+      "korean_translation": "먹지 않고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "holding the tradition of the elders.",
+      "korean_translation": "장로들의 전통을 지키면서",
+      "word_indices": [
+        159,
+        1655
+      ]
+    }
+  ]
+}

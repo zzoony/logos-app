@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Numbers 3:15",
+  "version": "KJV",
+  "original_text": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.",
+  "korean_text": "레위 자손을 그들의 조상의 가문과 종족을 따라 계수하되 일 개월 이상된 남자를 다 계수하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Number the children of Levi",
+      "korean_translation": "레위의 자손을 계수하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "after the house of their fathers",
+      "korean_translation": "그 조상의 집안을 따라",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by their families",
+      "korean_translation": "그 가족별로",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "every male from a month old and upward",
+      "korean_translation": "한 달 된 남자부터 위로",
+      "word_indices": [
+        74,
+        95,
+        408,
+        516
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shalt thou number them",
+      "korean_translation": "너는 그들을 계수하라",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 18:34",
+  "version": "KJV",
+  "original_text": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?",
+  "korean_text": "예수께서 대답하시되 이는 네가 스스로 하는 말이냐 다른 사람들이 나에 대하여 네게 한 말이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered him",
+      "korean_translation": "예수께서 그에게 대답하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sayest thou this thing of thyself",
+      "korean_translation": "네가 이것을 스스로 말하느냐",
+      "word_indices": [
+        146
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or did others tell it thee of me?",
+      "korean_translation": "다른 사람들이 나에 대하여 이것을 네게 말하였느냐?",
+      "word_indices": [
+        2,
+        15,
+        56
+      ]
+    }
+  ]
+}

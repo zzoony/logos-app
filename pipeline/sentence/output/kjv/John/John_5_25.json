@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 5:25",
+  "version": "KJV",
+  "original_text": "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.",
+  "korean_text": "진실로 진실로 너희에게 이르노니 죽은 자들이 하나님의 아들의 음성을 들을 때가 오나니 곧 이 때라 듣는 자는 살아나리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로, 진실로 내가 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The hour is coming",
+      "korean_translation": "때가 오고 있다",
+      "word_indices": [
+        350
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and now is",
+      "korean_translation": "지금이 바로 그 때이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when the dead shall hear the voice of the Son of God",
+      "korean_translation": "죽은 자들이 하나님의 아들의 음성을 들을 때가",
+      "word_indices": [
+        45,
+        78
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they that hear shall live",
+      "korean_translation": "듣는 자들은 살게 될 것이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Luke 22:50",
+  "version": "KJV",
+  "original_text": "And one of them smote the servant of the high priest, and cut off his right ear.",
+  "korean_text": "그 중의 한 사람이 대제사장의 종을 쳐 그 오른쪽 귀를 떨어뜨린지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And one of them smote the servant of the high priest",
+      "korean_translation": "그들 중 한 사람이 대제사장의 종을 치고",
+      "word_indices": [
+        1,
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and cut off his right ear",
+      "korean_translation": "그의 오른쪽 귀를 잘라버렸다",
+      "word_indices": [
+        46,
+        80,
+        91,
+        111
+      ]
+    }
+  ]
+}

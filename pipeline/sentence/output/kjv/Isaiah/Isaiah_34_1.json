@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Isaiah 34:1",
+  "version": "KJV",
+  "original_text": "Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.",
+  "korean_text": "열국이여 너희는 나아와 들을지어다 민족들이여 귀를 기울일지어다 땅과 땅에 충만한 것, 세계와 세계에서 나는 모든 것이여 들을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come near, ye nations, to hear",
+      "korean_translation": "여러 나라들아, 들으러 가까이 오라",
+      "word_indices": [
+        150
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and hearken, ye people",
+      "korean_translation": "백성들아, 들으라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let the earth hear",
+      "korean_translation": "땅은 듣게 하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all that is therein",
+      "korean_translation": "그 안에 있는 모든 것도",
+      "word_indices": [
+        141
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the world",
+      "korean_translation": "세계가",
+      "word_indices": [
+        104
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and all things that come forth of it",
+      "korean_translation": "그로부터 나오는 모든 것들이 듣게 하라",
+      "word_indices": [
+        11,
+        25
+      ]
+    }
+  ]
+}

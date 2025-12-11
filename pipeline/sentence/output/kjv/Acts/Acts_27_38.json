@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Acts 27:38",
+  "version": "KJV",
+  "original_text": "And when they had eaten enough, they lightened the ship, and cast out the wheat into the sea.",
+  "korean_text": "배부르게 먹고 밀을 바다에 버려 배를 가볍게 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when they had eaten enough",
+      "korean_translation": "그들이 충분히 먹었을 때",
+      "word_indices": [
+        907
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they lightened the ship",
+      "korean_translation": "그들은 배를 가볍게 했다",
+      "word_indices": [
+        301,
+        1705
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cast out the wheat into the sea",
+      "korean_translation": "밀을 바다에 버렸다",
+      "word_indices": [
+        7,
+        65,
+        618
+      ]
+    }
+  ]
+}

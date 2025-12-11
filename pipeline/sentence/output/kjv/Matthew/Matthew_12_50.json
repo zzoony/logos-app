@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 12:50",
+  "version": "KJV",
+  "original_text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.",
+  "korean_text": "누구든지 하늘에 계신 내 아버지의 뜻대로 하는 자가 내 형제요 자매요 어머니이니라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For whosoever shall do the will of my Father",
+      "korean_translation": "누구든지 내 아버지의 뜻을 행하는 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which is in heaven",
+      "korean_translation": "하늘에 계신",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the same is my brother",
+      "korean_translation": "그가 내 형이요",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and sister",
+      "korean_translation": "자매요",
+      "word_indices": [
+        241
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and mother",
+      "korean_translation": "어머니니라",
+      "word_indices": []
+    }
+  ]
+}

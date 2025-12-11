@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 32:23",
+  "version": "KJV",
+  "original_text": "And he took them, and sent them over the brook, and sent over that he had.",
+  "korean_text": "그들을 인도하여 시내를 건너가게 하며 그의 소유도 건너가게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he took them",
+      "korean_translation": "그가 그들을 데리고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and sent them over the brook",
+      "korean_translation": "그들을 시내 건너편으로 보냈으며",
+      "word_indices": [
+        1,
+        18,
+        585
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and sent over that he had",
+      "korean_translation": "그가 가진 것도 보냈다",
+      "word_indices": [
+        18
+      ]
+    }
+  ]
+}

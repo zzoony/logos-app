@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 3:6",
+  "version": "KJV",
+  "original_text": "I will not be afraid of ten thousands of people, that have set themselves against me round about.",
+  "korean_text": "천만인이 나를 에워싸 진 친다 하여도 나는 두려워하지 아니하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will not be afraid",
+      "korean_translation": "나는 두려워하지 않겠다",
+      "word_indices": [
+        165
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of ten thousands of people",
+      "korean_translation": "만 명의 사람들을",
+      "word_indices": [
+        5,
+        38,
+        122
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that have set themselves against me",
+      "korean_translation": "나를 대항하여 스스로를 세운",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "round about",
+      "korean_translation": "사방에서",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

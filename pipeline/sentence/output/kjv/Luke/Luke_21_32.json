@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 21:32",
+  "version": "KJV",
+  "original_text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled.",
+  "korean_text": "내가 진실로 너희에게 말하노니 이 세대가 지나가기 전에 모든 일이 다 이루어지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily I say unto you",
+      "korean_translation": "진실로 너희에게 말하노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This generation shall not pass away",
+      "korean_translation": "이 세대는 지나가지 아니하리라",
+      "word_indices": [
+        27,
+        143
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "till all be fulfilled",
+      "korean_translation": "모든 것이 이루어지기까지",
+      "word_indices": []
+    }
+  ]
+}

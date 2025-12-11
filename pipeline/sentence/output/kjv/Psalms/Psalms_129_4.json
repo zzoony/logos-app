@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 129:4",
+  "version": "KJV",
+  "original_text": "The Lord is righteous: he hath cut asunder the cords of the wicked.",
+  "korean_text": "여호와께서는 의로우사 악인들의 줄을 끊으셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is righteous",
+      "korean_translation": "주님은 의로우시다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he hath cut asunder",
+      "korean_translation": "그분은 끊어버리셨다",
+      "word_indices": [
+        91,
+        1202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the cords of the wicked",
+      "korean_translation": "악인들의 줄들을",
+      "word_indices": [
+        916
+      ]
+    }
+  ]
+}

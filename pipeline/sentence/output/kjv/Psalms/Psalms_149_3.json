@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 149:3",
+  "version": "KJV",
+  "original_text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+  "korean_text": "춤 추며 그의 이름을 찬양하며 소고와 수금으로 그를 찬양할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let them praise his name in the dance",
+      "korean_translation": "그들이 춤으로 그의 이름을 찬양하게 하라",
+      "word_indices": [
+        1,
+        16,
+        1028
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let them sing praises unto him",
+      "korean_translation": "그들이 그에게 찬송을 부르게 하라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the timbrel and harp",
+      "korean_translation": "소고와 수금으로",
+      "word_indices": [
+        600,
+        1831
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 17:22",
+  "version": "KJV",
+  "original_text": "And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and saluted his brethren.",
+  "korean_text": "다윗이 자기의 짐을 짐 지키는 자의 손에 맡기고 군대로 달려가서 형들에게 문안하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And David left his carriage",
+      "korean_translation": "다윗은 그의 수레를 남겨두고",
+      "word_indices": [
+        2449
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the hand of the keeper of the carriage",
+      "korean_translation": "수레지기의 손에 맡겼으며",
+      "word_indices": [
+        8,
+        721,
+        2449
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ran into the army",
+      "korean_translation": "군대로 달려갔고",
+      "word_indices": [
+        7,
+        263
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and came and saluted his brethren",
+      "korean_translation": "와서 그의 형제들에게 인사했다",
+      "word_indices": []
+    }
+  ]
+}

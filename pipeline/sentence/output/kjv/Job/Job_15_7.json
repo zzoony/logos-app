@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Job 15:7",
+  "version": "KJV",
+  "original_text": "Art thou the first man that was born? or wast thou made before the hills?",
+  "korean_text": "네가 제일 먼저 난 사람이냐 산들이 있기 전에 네가 출생하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Art thou the first man",
+      "korean_translation": "네가 첫 번째 사람이냐",
+      "word_indices": [
+        61
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that was born?",
+      "korean_translation": "태어난 자이냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or wast thou made",
+      "korean_translation": "아니면 네가 만들어졌느냐",
+      "word_indices": [
+        15,
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before hills?",
+      "korean_translation": "언덕들보다 먼저?",
+      "word_indices": [
+        232
+      ]
+    }
+  ]
+}

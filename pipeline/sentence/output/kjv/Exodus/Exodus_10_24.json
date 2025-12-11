@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Exodus 10:24",
+  "version": "KJV",
+  "original_text": "And Pharaoh called unto Moses, and said, Go ye, serve the Lord; only let your flocks and your herds be stayed: let your little ones also go with you.",
+  "korean_text": "바로가 모세를 불러서 이르되 너희는 가서 여호와를 섬기되 너희의 양과 소는 머물러 두고 너희 어린 것들은 너희와 함께 갈지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Pharaoh called unto Moses",
+      "korean_translation": "바로가 모세를 불렀습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "그리고 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Go ye, serve the Lord",
+      "korean_translation": "가서 주를 섬기라",
+      "word_indices": [
+        103
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "only let your flocks and your herds be stayed",
+      "korean_translation": "너희의 가축 떼와 소 떼만 머물게 하라",
+      "word_indices": [
+        121,
+        166,
+        576
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "let your little ones also go with you",
+      "korean_translation": "너희의 어린 아이들도 너희와 함께 가게 하라",
+      "word_indices": [
+        3,
+        9,
+        131
+      ]
+    }
+  ]
+}

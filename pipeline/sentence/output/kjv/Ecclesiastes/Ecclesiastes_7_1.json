@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ecclesiastes 7:1",
+  "version": "KJV",
+  "original_text": "A good name is better than precious ointment; and the day of death than the day of one's birth.",
+  "korean_text": "좋은 이름이 좋은 기름보다 낫고 죽는 날이 출생하는 날보다 나으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A good name is better",
+      "korean_translation": "좋은 이름이 더 낫다",
+      "word_indices": [
+        16,
+        274
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than precious ointment",
+      "korean_translation": "귀한 향유보다",
+      "word_indices": [
+        52,
+        915
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the day of death",
+      "korean_translation": "그리고 죽는 날이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than the day of one's birth",
+      "korean_translation": "사람이 태어나는 날보다",
+      "word_indices": [
+        52,
+        1484
+      ]
+    }
+  ]
+}

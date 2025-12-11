@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 16:25",
+  "version": "KJV",
+  "original_text": "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.",
+  "korean_text": "누구든지 제 목숨을 구원하고자 하면 잃을 것이요 누구든지 나를 위하여 제 목숨을 잃으면 찾으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For whosoever will save his life",
+      "korean_translation": "누구든지 자기 목숨을 구원하려는 이는",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall lose it:",
+      "korean_translation": "잃을 것이요",
+      "word_indices": [
+        553
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and whosoever will lose his life for my sake",
+      "korean_translation": "누구든지 나를 인하여 자기 목숨을 잃는 자는",
+      "word_indices": [
+        53,
+        181,
+        553
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall find it.",
+      "korean_translation": "얻으리라",
+      "word_indices": [
+        39
+      ]
+    }
+  ]
+}

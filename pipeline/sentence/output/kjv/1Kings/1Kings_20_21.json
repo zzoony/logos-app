@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Kings 20:21",
+  "version": "KJV",
+  "original_text": "And the king of Israel went out, and smote the horses and chariots, and slew the Syrians with a great slaughter.",
+  "korean_text": "이스라엘 왕이 나가서 말과 병거를 치고 또 아람 사람을 쳐서 크게 이겼더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the king of Israel went out",
+      "korean_translation": "이스라엘 왕이 나아가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and smote horses and chariots",
+      "korean_translation": "말들과 병거들을 쳐서",
+      "word_indices": [
+        179
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and slew Syrians with a great slaughter",
+      "korean_translation": "수리아 사람들을 크게 죽였다",
+      "word_indices": [
+        162,
+        561
+      ]
+    }
+  ]
+}

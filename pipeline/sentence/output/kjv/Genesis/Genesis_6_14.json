@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 6:14",
+  "version": "KJV",
+  "original_text": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
+  "korean_text": "너는 고페르 나무로 너를 위하여 방주를 만들되 그 안에 칸들을 막고 역청을 그 안팎에 칠하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Make thee an ark of gopher wood",
+      "korean_translation": "네게 고페르 나무로 방주를 만들라",
+      "word_indices": [
+        2,
+        140,
+        233,
+        4345
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rooms shalt thou make in the ark",
+      "korean_translation": "방주 안에 방들을 만들고",
+      "word_indices": [
+        140,
+        772
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shalt pitch it within and without with pitch",
+      "korean_translation": "역청으로 그것을 안팎에 칠하라",
+      "word_indices": [
+        64,
+        328
+      ]
+    }
+  ]
+}

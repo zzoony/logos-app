@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 17:7",
+  "version": "KJV",
+  "original_text": "And Jesus came and touched them, and said, Arise, and be not afraid.",
+  "korean_text": "예수께서 나아와 그들에게 손을 대시며 이르시되 일어나라 두려워하지 말라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus came and touched them",
+      "korean_translation": "예수께서 오사 그들을 만지시고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Arise",
+      "korean_translation": "일어나라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and be not afraid",
+      "korean_translation": "두려워하지 말라",
+      "word_indices": [
+        165
+      ]
+    }
+  ]
+}

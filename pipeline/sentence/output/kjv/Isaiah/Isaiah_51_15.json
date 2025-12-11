@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Isaiah 51:15",
+  "version": "KJV",
+  "original_text": "But I am the Lord thy God, that divided the sea, whose waves roared: The Lord of hosts is his name.",
+  "korean_text": "나는 네 하나님 여호와라 바다를 휘저어서 그 물결을 뒤흔들게 하는 자이니 그의 이름은 만군의 여호와니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I am the Lord thy God",
+      "korean_translation": "그러나 나는 너의 하나님 여호와이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that divided the sea",
+      "korean_translation": "바다를 가르신 이시며",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose waves roared",
+      "korean_translation": "그 파도가 울부짖었느니라",
+      "word_indices": [
+        711
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Lord of hosts is his name",
+      "korean_translation": "만군의 여호와가 그의 이름이시니라",
+      "word_indices": [
+        16,
+        47
+      ]
+    }
+  ]
+}

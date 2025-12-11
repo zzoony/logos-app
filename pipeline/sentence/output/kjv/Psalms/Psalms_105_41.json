@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 105:41",
+  "version": "KJV",
+  "original_text": "He opened the rock, and the waters gushed out; they ran in the dry places like a river.",
+  "korean_text": "반석을 여신즉 물이 흘러나와 마른 땅에 강 같이 흘렀으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He opened the rock",
+      "korean_translation": "그가 바위를 열었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the waters gushed out",
+      "korean_translation": "물들이 솟아 나왔고",
+      "word_indices": [
+        32,
+        2472
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they ran in the dry places",
+      "korean_translation": "그것들이 마른 곳들에서 흘러갔으니",
+      "word_indices": [
+        302
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like a river",
+      "korean_translation": "강과 같이",
+      "word_indices": [
+        120
+      ]
+    }
+  ]
+}

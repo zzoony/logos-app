@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 22:10",
+  "version": "KJV",
+  "original_text": "I was cast upon thee from the womb: thou art my God from my mother's belly.",
+  "korean_text": "내가 날 때부터 주께 맡긴 바 되었고 모태에서 나올 때부터 주는 나의 하나님이 되셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I was cast upon thee from the womb",
+      "korean_translation": "내가 모태로부터 주께 던져졌나이다",
+      "word_indices": [
+        2,
+        431
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thou art my God",
+      "korean_translation": "주는 나의 하나님이시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from my mother's belly",
+      "korean_translation": "어미 배로부터",
+      "word_indices": [
+        627
+      ]
+    }
+  ]
+}

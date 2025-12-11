@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 7:15",
+  "version": "KJV",
+  "original_text": "And the Jews marvelled, saying, How knoweth this man letters, having never learned?",
+  "korean_text": "유대인들이 놀랍게 여겨 이르되 이 사람은 배우지 아니하였거늘 어떻게 글을 아느냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Jews marvelled",
+      "korean_translation": "그리고 유대인들이 놀라워하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying",
+      "korean_translation": "말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How knoweth this man letters",
+      "korean_translation": "이 사람이 어떻게 글을 아는가",
+      "word_indices": [
+        313,
+        439
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "having never learned?",
+      "korean_translation": "배운 적이 없는데?",
+      "word_indices": []
+    }
+  ]
+}

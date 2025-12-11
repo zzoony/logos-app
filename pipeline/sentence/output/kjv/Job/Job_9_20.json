@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Job 9:20",
+  "version": "KJV",
+  "original_text": "If I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse.",
+  "korean_text": "가령 내가 의로울지라도 내 입이 나를 정죄하리니 가령 내가 온전할지라도 나를 정죄하시리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I justify myself",
+      "korean_translation": "내가 나 자신을 의롭게 하면",
+      "word_indices": [
+        271,
+        568
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "mine own mouth shall condemn me",
+      "korean_translation": "내 입이 나를 정죄할 것이며",
+      "word_indices": [
+        37,
+        60,
+        672
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if I say, I am perfect",
+      "korean_translation": "내가 내가 완전하다고 말하면",
+      "word_indices": [
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it shall also prove me perverse",
+      "korean_translation": "그것 또한 내가 패역함을 증명할 것입니다",
+      "word_indices": [
+        9,
+        726,
+        1253
+      ]
+    }
+  ]
+}

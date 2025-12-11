@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 94:6",
+  "version": "KJV",
+  "original_text": "They slay the widow and the stranger, and murder the fatherless.",
+  "korean_text": "과부와 나그네를 죽이며 고아들을 살해하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They slay the widow",
+      "korean_translation": "그들은 과부를 죽이고",
+      "word_indices": [
+        397
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the stranger",
+      "korean_translation": "나그네를 죽이며",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and murder the fatherless",
+      "korean_translation": "고아를 살해하니",
+      "word_indices": [
+        1652
+      ]
+    }
+  ]
+}

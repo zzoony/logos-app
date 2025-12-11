@@ -1,3 +1,10 @@
 node_modules/
 dist/
 .DS_Store
+
+# Temp analysis files
+*_clauses.json
+*_analysis.json
+*_analysis.py
+analyze_*.py
+test_model/

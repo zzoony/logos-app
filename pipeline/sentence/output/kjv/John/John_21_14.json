@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 21:14",
+  "version": "KJV",
+  "original_text": "This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.",
+  "korean_text": "이것은 예수께서 죽은 자 가운데서 살아나신 후에 세 번째로 제자들에게 나타나신 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is now the third time",
+      "korean_translation": "이것이 이제 세 번째 때입니다",
+      "word_indices": [
+        30,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Jesus shewed himself to his disciples",
+      "korean_translation": "예수님께서 자신을 제자들에게 보이신 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "after that he was risen from the dead",
+      "korean_translation": "죽은 자 가운데서 살아나신 후에",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

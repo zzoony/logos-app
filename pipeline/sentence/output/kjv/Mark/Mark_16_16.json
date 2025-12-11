@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Mark 16:16",
+  "version": "KJV",
+  "original_text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
+  "korean_text": "믿고 세례를 받는 사람은 구원을 얻을 것이요 믿지 않는 사람은 정죄를 받으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that believeth",
+      "korean_translation": "믿는 자는",
+      "word_indices": [
+        699
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and is baptized",
+      "korean_translation": "세례를 받으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall be saved",
+      "korean_translation": "구원을 받을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he that believeth not",
+      "korean_translation": "그러나 믿지 않는 자는",
+      "word_indices": [
+        699
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall be damned",
+      "korean_translation": "정죄를 받을 것이다",
+      "word_indices": [
+        3557
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 9:10",
+  "version": "KJV",
+  "original_text": "And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the Lord, and the king's house,",
+  "korean_text": "솔로몬이 두 집 곧 여호와의 성전과 왕궁을 이십 년 만에 건축하기를 마치고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass at the end of twenty years,",
+      "korean_translation": "이십 년이 끝났을 때 일어났으니,",
+      "word_indices": [
+        23,
+        27,
+        73,
+        101
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when Solomon had built the two houses,",
+      "korean_translation": "솔로몬이 두 집을 건축했을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the house of the Lord,",
+      "korean_translation": "주의 집과,",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the king's house,",
+      "korean_translation": "왕의 집을,",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

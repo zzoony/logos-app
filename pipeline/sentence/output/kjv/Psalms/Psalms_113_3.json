@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 113:3",
+  "version": "KJV",
+  "original_text": "From the rising of the sun unto the going down of the same the Lord's name is to be praised.",
+  "korean_text": "해 돋는 데에서부터 해 지는 데에까지 여호와의 이름이 찬양을 받으시리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From the rising of the sun",
+      "korean_translation": "해가 뜨는 때부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unto the going down of the same",
+      "korean_translation": "지는 때까지",
+      "word_indices": [
+        14,
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Lord's name is to be praised",
+      "korean_translation": "주의 이름이 찬송을 받으리라",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

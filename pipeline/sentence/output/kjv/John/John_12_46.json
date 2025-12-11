@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 12:46",
+  "version": "KJV",
+  "original_text": "I am come a light into the world, that whosoever believeth on me should not abide in darkness.",
+  "korean_text": "나는 빛으로 세상에 왔나니 무릇 나를 믿는 자로 어둠에 거하지 않게 하려 함이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am come a light into the world",
+      "korean_translation": "나는 세상에 빛으로 왔다",
+      "word_indices": [
+        7,
+        104
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that whosoever believeth on me",
+      "korean_translation": "나를 믿는 누구든지",
+      "word_indices": [
+        699
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "should not abide in darkness",
+      "korean_translation": "어둠에 머무르지 않게 하려 함이라",
+      "word_indices": []
+    }
+  ]
+}

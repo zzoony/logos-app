@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 135:16",
+  "version": "KJV",
+  "original_text": "They have mouths, but they speak not; eyes have they, but they see not;",
+  "korean_text": "입이 있어도 말하지 못하며 눈이 있어도 보지 못하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They have mouths",
+      "korean_translation": "그들은 입을 가지고 있지만",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but they speak not",
+      "korean_translation": "말하지 못하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "eyes have they",
+      "korean_translation": "눈을 가지고 있지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but they see not",
+      "korean_translation": "보지 못한다",
+      "word_indices": []
+    }
+  ]
+}

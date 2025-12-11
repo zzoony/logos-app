@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Acts 17:8",
+  "version": "KJV",
+  "original_text": "And they troubled the people and the rulers of the city, when they heard these things.",
+  "korean_text": "무리와 읍장들이 이 말을 듣고 소동하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they troubled the people",
+      "korean_translation": "그들이 백성을 불안하게 했고",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and rulers of the city",
+      "korean_translation": "그리고 그 도시의 통치자들을 불안하게 했다",
+      "word_indices": [
+        12,
+        201
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when they heard these things",
+      "korean_translation": "그들이 이것들을 들었을 때",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

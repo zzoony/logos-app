@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 22:21",
+  "version": "KJV",
+  "original_text": "Save me from the lion's mouth: for thou hast heard me from the horns of the unicorns.",
+  "korean_text": "나를 사자의 입에서 구하소서 주께서 내게 응답하시고 들소의 뿔에서 구원하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Save me from the lion's mouth",
+      "korean_translation": "나를 사자의 입에서 구하소서",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for thou hast heard me",
+      "korean_translation": "이는 주께서 나를 들으셨음이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the horns of the unicorns",
+      "korean_translation": "유니콘의 뿔로부터",
+      "word_indices": [
+        319,
+        1975
+      ]
+    }
+  ]
+}

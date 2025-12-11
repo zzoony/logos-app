@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Samuel 12:7",
+  "version": "KJV",
+  "original_text": "And Nathan said to David, Thou art the man. Thus saith the Lord God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;",
+  "korean_text": "나단이 다윗에게 이르되 당신이 그 사람이라 이스라엘의 하나님 여호와께서 이와 같이 이르시기를 내가 너를 이스라엘 왕으로 기름 붓기 위하여 너를 사울의 손에서 구원하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Nathan said to David,",
+      "korean_translation": "그때 나단이 다윗에게 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Thou art the man.",
+      "korean_translation": "당신이 그 사람입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Thus saith the Lord God of Israel,",
+      "korean_translation": "이스라엘의 주 하나님이 말씀하시기를,",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I anointed thee king over Israel,",
+      "korean_translation": "내가 너를 이스라엘의 왕으로 기름부었고,",
+      "word_indices": [
+        2,
+        18,
+        208
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and I delivered thee out of the hand of Saul;",
+      "korean_translation": "내가 너를 사울의 손에서 건져냈느니라.",
+      "word_indices": [
+        2,
+        8
+      ]
+    }
+  ]
+}

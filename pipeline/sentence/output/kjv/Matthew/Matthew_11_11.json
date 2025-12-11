@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Matthew 11:11",
+  "version": "KJV",
+  "original_text": "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.",
+  "korean_text": "내가 진실로 너희에게 말하노니 여자가 낳은 자 중에 세례 요한보다 큰 이가 일어남이 없도다 그러나 천국에서는 극히 작은 자라도 그보다 크니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily I say unto you",
+      "korean_translation": "진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Among them that are born of women",
+      "korean_translation": "여자에게서 난 자 중에",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there hath not risen a greater than John the Baptist",
+      "korean_translation": "세례 요한보다 더 큰 자가 일어나지 아니하였느니라",
+      "word_indices": [
+        52,
+        414
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nevertheless",
+      "korean_translation": "그러나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he that is least in the kingdom of heaven",
+      "korean_translation": "하늘 나라에서 가장 작은 자라도",
+      "word_indices": [
+        71,
+        777
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "is greater than he",
+      "korean_translation": "그보다 크니라",
+      "word_indices": [
+        52,
+        414
+      ]
+    }
+  ]
+}

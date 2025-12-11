@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 13:30",
+  "version": "KJV",
+  "original_text": "And, behold, there are last which shall be first, and there are first which shall be last.",
+  "korean_text": "보라 나중 된 자로서 먼저 될 자도 있고 먼저 된 자로서 나중 될 자도 있느니라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And, behold",
+      "korean_translation": "그리고, 보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there are last which shall be first",
+      "korean_translation": "마지막 된 자가 첫째 될 것이 있고",
+      "word_indices": [
+        61,
+        379
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there are first which shall be last",
+      "korean_translation": "첫째 된 자가 마지막 될 것이 있다",
+      "word_indices": [
+        61,
+        379
+      ]
+    }
+  ]
+}

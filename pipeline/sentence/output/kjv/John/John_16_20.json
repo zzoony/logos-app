@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 16:20",
+  "version": "KJV",
+  "original_text": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 너희는 곡하고 애통하겠으나 세상은 기뻐하리라 너희는 근심하겠으나 너희 근심이 도리어 기쁨이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로 진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That ye shall weep and lament",
+      "korean_translation": "너희가 울고 애통할 것이나",
+      "word_indices": [
+        921
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the world shall rejoice",
+      "korean_translation": "세상이 기뻐할 것이라",
+      "word_indices": [
+        104
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ye shall be sorrowful",
+      "korean_translation": "너희가 근심하겠으나",
+      "word_indices": [
+        1336
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but your sorrow shall be turned into joy",
+      "korean_translation": "너희의 근심이 기쁨으로 변하리라",
+      "word_indices": [
+        7,
+        194,
+        351
+      ]
+    }
+  ]
+}

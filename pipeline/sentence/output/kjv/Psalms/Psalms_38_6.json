@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 38:6",
+  "version": "KJV",
+  "original_text": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+  "korean_text": "내가 아프고 심히 구부러졌으며 종일토록 슬픔 중에 다니나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am troubled",
+      "korean_translation": "나는 괴로워합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am bowed down greatly",
+      "korean_translation": "나는 크게 굽혀집니다",
+      "word_indices": [
+        14,
+        377
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I go mourning all the day long",
+      "korean_translation": "나는 종일 슬퍼하며 삽니다",
+      "word_indices": [
+        144,
+        273
+      ]
+    }
+  ]
+}

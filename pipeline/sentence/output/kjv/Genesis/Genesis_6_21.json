@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Genesis 6:21",
+  "version": "KJV",
+  "original_text": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them.",
+  "korean_text": "너는 먹을 모든 양식을 네게로 가져다가 저축하라 이것이 너와 그들의 먹을 것이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And take thou unto thee",
+      "korean_translation": "너는 가져오라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of all food that is eaten",
+      "korean_translation": "먹는 모든 음식 중에서",
+      "word_indices": [
+        571
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and thou shalt gather it to thee",
+      "korean_translation": "너는 그것을 너에게 거두어들이라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it shall be for food for thee",
+      "korean_translation": "그것은 너를 위한 음식이 되리라",
+      "word_indices": [
+        2,
+        571
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and for them",
+      "korean_translation": "그리고 그들을 위해서도",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 18:1",
+  "version": "KJV",
+  "original_text": "I will love thee, O Lord, my strength.",
+  "korean_text": "나의 힘이신 여호와여 내가 주를 사랑하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will love thee",
+      "korean_translation": "내가 주를 사랑하리라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my strength",
+      "korean_translation": "나의 힘이시여",
+      "word_indices": []
+    }
+  ]
+}

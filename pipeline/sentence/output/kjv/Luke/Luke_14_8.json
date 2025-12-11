@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 14:8",
+  "version": "KJV",
+  "original_text": "When thou art bidden of any man to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;",
+  "korean_text": "네가 누구에게나 혼인 잔치에 청함을 받았을 때에 높은 자리에 앉지 말라 그렇지 않으면 너보다 더 높은 사람이 청함을 받은 경우에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When thou art bidden of any man to a wedding",
+      "korean_translation": "네가 어떤 사람에게 혼인 잔치에 청함을 받을 때에",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sit not down in highest room",
+      "korean_translation": "높은 자리에 앉지 말라",
+      "word_indices": [
+        14,
+        772
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lest a more honourable man than thou",
+      "korean_translation": "네보다 더 존귀한 사람이",
+      "word_indices": [
+        33,
+        52,
+        946
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "be bidden of him",
+      "korean_translation": "그에게 청함을 받을까 하노라",
+      "word_indices": []
+    }
+  ]
+}

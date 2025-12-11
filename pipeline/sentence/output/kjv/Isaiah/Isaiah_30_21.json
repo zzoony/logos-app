@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Isaiah 30:21",
+  "version": "KJV",
+  "original_text": "And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.",
+  "korean_text": "너희가 오른쪽으로 치우치든지 왼쪽으로 치우치든지 네 뒤에서 말소리가 네 귀에 들려 이르기를 이것이 바른 길이니 너희는 이리로 가라 할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And thine ears shall hear a word behind thee",
+      "korean_translation": "그리고 네 귀는 네 뒤에서 들려오는 말을 듣게 되리라",
+      "word_indices": [
+        2,
+        111,
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, This is the way",
+      "korean_translation": "이르기를 이것이 길이라",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "walk ye in it",
+      "korean_translation": "너희는 그 길로 걸으라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when ye turn to the right hand",
+      "korean_translation": "너희가 오른쪽으로 돌 때에",
+      "word_indices": [
+        8,
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and when ye turn to the left",
+      "korean_translation": "그리고 왼쪽으로 돌 때에",
+      "word_indices": []
+    }
+  ]
+}

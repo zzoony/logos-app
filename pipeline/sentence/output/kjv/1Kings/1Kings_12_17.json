@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Kings 12:17",
+  "version": "KJV",
+  "original_text": "But as for the children of Israel which dwelt in the cities of Judah, Rehoboam reigned over them.",
+  "korean_text": "그러나 유다 성읍들에 사는 이스라엘 자손에게는 르호보암이 그들의 왕이 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But as for children of Israel",
+      "korean_translation": "하지만 이스라엘 자손에 대하여는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which dwelt in cities of Judah",
+      "korean_translation": "유다 성읍에 거하는 자들",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Rehoboam reigned over them",
+      "korean_translation": "르호보암이 그들을 다스렸더라",
+      "word_indices": [
+        1,
+        18
+      ]
+    }
+  ]
+}

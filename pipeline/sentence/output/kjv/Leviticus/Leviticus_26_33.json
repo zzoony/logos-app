@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Leviticus 26:33",
+  "version": "KJV",
+  "original_text": "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.",
+  "korean_text": "내가 너희를 여러 민족 중에 흩을 것이요 내가 칼을 빼어 너희를 따르게 하리니 너희의 땅이 황무하며 너희의 성읍이 황폐하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will scatter you among the heathen",
+      "korean_translation": "내가 너희를 이방인 가운데 흩으리라",
+      "word_indices": [
+        3,
+        221,
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and will draw out a sword after you",
+      "korean_translation": "그리고 너희 뒤로 칼을 빼들리라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and your land shall be desolate",
+      "korean_translation": "너희 땅은 황폐해질 것이며",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your cities waste",
+      "korean_translation": "너희 성읍은 황폐해지리라",
+      "word_indices": [
+        12,
+        372
+      ]
+    }
+  ]
+}

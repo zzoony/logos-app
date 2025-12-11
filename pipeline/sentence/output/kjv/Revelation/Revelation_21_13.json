@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Revelation 21:13",
+  "version": "KJV",
+  "original_text": "On the east three gates; on the north three gates; on the south three gates; and on the west three gates.",
+  "korean_text": "동쪽에 세 문, 북쪽에 세 문, 남쪽에 세 문, 서쪽에 세 문이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On the east three gates;",
+      "korean_translation": "동쪽에 세 개의 문이 있고",
+      "word_indices": [
+        50,
+        212,
+        1225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the north three gates;",
+      "korean_translation": "북쪽에 세 개의 문이 있고",
+      "word_indices": [
+        50,
+        248,
+        1225
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the south three gates;",
+      "korean_translation": "남쪽에 세 개의 문이 있고",
+      "word_indices": [
+        50,
+        231,
+        1225
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and on the west three gates.",
+      "korean_translation": "서쪽에 세 개의 문이 있다.",
+      "word_indices": [
+        50,
+        449,
+        1225
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Leviticus 19:26",
+  "version": "KJV",
+  "original_text": "Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times.",
+  "korean_text": "너희는 무엇이든지 피째 먹지 말며 점을 치지 말며 술법을 행하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye shall not eat any thing with the blood:",
+      "korean_translation": "너희는 피와 함께 아무것도 먹지 말라",
+      "word_indices": [
+        22,
+        59
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither shall ye use enchantment,",
+      "korean_translation": "너희는 주술을 사용하지 말라",
+      "word_indices": [
+        525,
+        1605
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor observe times.",
+      "korean_translation": "때를 살피지도 말라",
+      "word_indices": [
+        31,
+        473
+      ]
+    }
+  ]
+}

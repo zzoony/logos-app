@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Ecclesiastes 1:18",
+  "version": "KJV",
+  "original_text": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+  "korean_text": "지혜가 많으면 번뇌도 많으니 지식을 더하는 자는 근심을 더하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For in much wisdom is much grief:",
+      "korean_translation": "지혜가 많으면 근심도 많으니",
+      "word_indices": [
+        105,
+        1021
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he that increaseth knowledge",
+      "korean_translation": "지식을 더하는 자는",
+      "word_indices": [
+        186,
+        1515
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "increaseth sorrow.",
+      "korean_translation": "슬픔을 더한다.",
+      "word_indices": [
+        351,
+        1515
+      ]
+    }
+  ]
+}

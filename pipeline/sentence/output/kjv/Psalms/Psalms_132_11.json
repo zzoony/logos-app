@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 132:11",
+  "version": "KJV",
+  "original_text": "The Lord hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
+  "korean_text": "여호와께서 다윗에게 성실히 맹세하셨으니 변하지 아니하실지라 이르시기를 네 몸의 소생을 네 왕위에 둘지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord hath sworn in truth unto David",
+      "korean_translation": "주께서 진실로 다윗에게 맹세하셨으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he will not turn from it",
+      "korean_translation": "그가 그것을 돌이키지 아니하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Of the fruit of thy body",
+      "korean_translation": "네 몸의 열매 중에서",
+      "word_indices": [
+        124,
+        152
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will I set upon thy throne",
+      "korean_translation": "내가 네 왕위에 세우리라",
+      "word_indices": [
+        172
+      ]
+    }
+  ]
+}

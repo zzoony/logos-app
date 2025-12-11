@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Luke 17:27",
+  "version": "KJV",
+  "original_text": "They did eat, they drank, they married wives, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all.",
+  "korean_text": "노아가 방주에 들어가던 날까지 사람들이 먹고 마시고 장가 들고 시집 가더니 홍수가 나서 그들을 다 멸망시켰으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They did eat",
+      "korean_translation": "그들은 먹었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they drank",
+      "korean_translation": "그들은 마셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they married wives",
+      "korean_translation": "그들은 아내를 맞이했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they were given in marriage",
+      "korean_translation": "그들은 결혼했고",
+      "word_indices": [
+        1157
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until the day that Noah entered into the ark",
+      "korean_translation": "노아가 방주에 들어간 그 날까지",
+      "word_indices": [
+        7,
+        140
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the flood came",
+      "korean_translation": "그리고 홍수가 와서",
+      "word_indices": [
+        506
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and destroyed them all",
+      "korean_translation": "그들을 모두 멸망시켰다",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 102:24",
+  "version": "KJV",
+  "original_text": "I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.",
+  "korean_text": "나의 말이 나의 하나님이여 나의 중년에 나를 데려가지 마옵소서 주의 연대는 대대에 무궁하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I said, O my God",
+      "korean_translation": "내가 말했노라, 오 나의 하나님이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "take me not away",
+      "korean_translation": "나를 데려가지 마소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the midst of my days",
+      "korean_translation": "내 날의 한가운데서",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "thy years are throughout all generations",
+      "korean_translation": "주의 연수는 대대에 미치나이다",
+      "word_indices": [
+        23,
+        143,
+        206
+      ]
+    }
+  ]
+}

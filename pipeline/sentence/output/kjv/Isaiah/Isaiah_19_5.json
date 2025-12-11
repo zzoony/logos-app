@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Isaiah 19:5",
+  "version": "KJV",
+  "original_text": "And the waters shall fail from the sea, and the river shall be wasted and dried up.",
+  "korean_text": "바닷물이 없어지겠고 강이 잦아서 마르겠고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the waters shall fail from the sea",
+      "korean_translation": "물이 바다에서 말라 없어지고",
+      "word_indices": [
+        32,
+        65,
+        411
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the river shall be wasted",
+      "korean_translation": "강은 소모되어",
+      "word_indices": [
+        120,
+        466
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and dried up",
+      "korean_translation": "마르게 될 것이라",
+      "word_indices": []
+    }
+  ]
+}

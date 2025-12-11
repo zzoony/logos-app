@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Romans 11:6",
+  "version": "KJV",
+  "original_text": "And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then it is no more grace: otherwise work is no more work.",
+  "korean_text": "만일 은혜로 된 것이면 행위로 말미암지 않음이니 그렇지 않으면 은혜가 은혜 되지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if by grace",
+      "korean_translation": "그리고 만일 은혜로 말미암아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "then is it no more of works",
+      "korean_translation": "그것은 더 이상 행위에서 난 것이 아니다",
+      "word_indices": [
+        29,
+        33
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "otherwise grace is no more grace",
+      "korean_translation": "그렇지 않으면 은혜는 더 이상 은혜가 아니다",
+      "word_indices": [
+        33,
+        1503
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But if it be of works",
+      "korean_translation": "그러나 만일 행위에서 난 것이라면",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "then it is no more grace",
+      "korean_translation": "그것은 더 이상 은혜가 아니다",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "otherwise work is no more work",
+      "korean_translation": "그렇지 않으면 행위는 더 이상 행위가 아니다",
+      "word_indices": [
+        29,
+        33,
+        1503
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 1:1",
+  "version": "KJV",
+  "original_text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+  "korean_text": "아브라함과 다윗의 자손 예수 그리스도의 계보라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The book of the generation",
+      "korean_translation": "그 족보의 책",
+      "word_indices": [
+        143,
+        163
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of Jesus Christ",
+      "korean_translation": "예수 그리스도의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "son of David",
+      "korean_translation": "다윗의 아들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "son of Abraham",
+      "korean_translation": "아브라함의 아들",
+      "word_indices": []
+    }
+  ]
+}

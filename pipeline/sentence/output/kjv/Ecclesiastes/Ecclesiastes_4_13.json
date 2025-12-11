@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Ecclesiastes 4:13",
+  "version": "KJV",
+  "original_text": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished.",
+  "korean_text": "가난하여도 지혜로운 젊은이가 늙고 둔하여 경고를 더 받을 줄 모르는 왕보다 나으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Better is a poor and a wise child",
+      "korean_translation": "가난하고 지혜로운 아이가 더 낫다",
+      "word_indices": [
+        6,
+        127,
+        153,
+        274
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than an old and foolish king",
+      "korean_translation": "늙고 어리석은 왕보다",
+      "word_indices": [
+        52,
+        74,
+        610
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who will no more be admonished",
+      "korean_translation": "더 이상 꾸지람을 듣지 않을",
+      "word_indices": [
+        33,
+        2040
+      ]
+    }
+  ]
+}

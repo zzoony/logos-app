@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Kings 19:6",
+  "version": "KJV",
+  "original_text": "And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again.",
+  "korean_text": "본즉 머리맡에 숯불에 구운 떡과 한 병 물이 있더라 이에 먹고 마시고 다시 누웠더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he looked",
+      "korean_translation": "그가 보니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and, behold",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there was a cake baken on the coals",
+      "korean_translation": "불에 구운 떡이 있었고",
+      "word_indices": [
+        791,
+        956,
+        1960
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a cruse of water at his head",
+      "korean_translation": "그의 머리맡에 물 한 그릇이 있었다",
+      "word_indices": [
+        32,
+        2002
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And he did eat and drink",
+      "korean_translation": "그가 먹고 마셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and laid him down again",
+      "korean_translation": "다시 누웠다",
+      "word_indices": [
+        14
+      ]
+    }
+  ]
+}

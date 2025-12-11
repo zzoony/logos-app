@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 36:15",
+  "version": "KJV",
+  "original_text": "The length of one curtain was thirty cubits, and four cubits was the breadth of one curtain: the eleven curtains were of one size.",
+  "korean_text": "각 폭의 길이는 서른 규빗, 너비는 네 규빗으로 열한 폭의 장단을 같게 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The length of one curtain was thirty cubits",
+      "korean_translation": "한 커튼의 길이는 삼십 규빗이었다",
+      "word_indices": [
+        117,
+        183,
+        415,
+        554
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and four cubits was the breadth of one curtain",
+      "korean_translation": "그리고 네 규빗이 한 커튼의 너비였다",
+      "word_indices": [
+        117,
+        369,
+        554
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the eleven curtains were of one size",
+      "korean_translation": "열한 개의 커튼들은 같은 크기였다",
+      "word_indices": [
+        554,
+        1099,
+        2625
+      ]
+    }
+  ]
+}

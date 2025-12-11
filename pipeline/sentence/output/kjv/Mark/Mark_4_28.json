@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Mark 4:28",
+  "version": "KJV",
+  "original_text": "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.",
+  "korean_text": "땅이 스스로 열매를 맺되 처음에는 싹이요 다음에는 이삭이요 그 다음에는 이삭에 충실한 곡식이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the earth bringeth forth fruit of herself",
+      "korean_translation": "땅은 스스로 열매를 맺으니",
+      "word_indices": [
+        25,
+        124,
+        407,
+        722
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "first the blade",
+      "korean_translation": "먼저 싹이 나고",
+      "word_indices": [
+        61,
+        2672
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then the ear",
+      "korean_translation": "그 다음 이삭이 생기고",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "after that the full corn in the ear",
+      "korean_translation": "그 후에 이삭 속에 완전한 곡식이 생긴다",
+      "word_indices": [
+        111,
+        326
+      ]
+    }
+  ]
+}

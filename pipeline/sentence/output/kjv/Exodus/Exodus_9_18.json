@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Exodus 9:18",
+  "version": "KJV",
+  "original_text": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.",
+  "korean_text": "내일 이맘때면 내가 무거운 우박을 내리리니 애굽 나라가 세워진 그 날로부터 지금까지 그와 같은 일이 없었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold, to morrow about this time",
+      "korean_translation": "보라, 내일 이맘때에",
+      "word_indices": [
+        30,
+        325
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will cause it to rain",
+      "korean_translation": "내가 비를 내리게 하리니",
+      "word_indices": [
+        299
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a very grievous hail",
+      "korean_translation": "매우 무거운 우박이 될 것이라",
+      "word_indices": [
+        119
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "such as hath not been in Egypt",
+      "korean_translation": "애굽에서는 없던 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "since the foundation thereof",
+      "korean_translation": "그것이 세워진 이래로",
+      "word_indices": [
+        24,
+        384
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "even until now",
+      "korean_translation": "지금까지 없던 것이라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 119:43",
+  "version": "KJV",
+  "original_text": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
+  "korean_text": "진리의 말씀이 내 입에서 조금도 떠나지 말게 하소서 내가 주의 규례를 바랐음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And take not the word of truth",
+      "korean_translation": "그리고 진리의 말씀을 빼앗지 마소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "utterly out of my mouth",
+      "korean_translation": "완전히 내 입에서",
+      "word_indices": [
+        60,
+        333
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I have hoped in thy judgments",
+      "korean_translation": "이는 내가 주의 판단을 바랐기 때문이니이다",
+      "word_indices": [
+        66,
+        1649
+      ]
+    }
+  ]
+}

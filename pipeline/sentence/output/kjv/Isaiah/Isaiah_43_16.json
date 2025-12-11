@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Isaiah 43:16",
+  "version": "KJV",
+  "original_text": "Thus saith the Lord, which maketh a way in the sea, and a path in the mighty waters;",
+  "korean_text": "나 여호와가 이같이 말하노라 바다 가운데에 길을, 큰 물 가운데에 지름길을 내고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus saith the Lord",
+      "korean_translation": "주께서 이와 같이 말씀하시되",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which maketh a way in the sea",
+      "korean_translation": "바다에서 길을 만드시는 이",
+      "word_indices": [
+        26,
+        65,
+        262
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a path in the mighty waters",
+      "korean_translation": "그리고 장대한 물들 중에 길을 내시는 이",
+      "word_indices": [
+        32,
+        483
+      ]
+    }
+  ]
+}

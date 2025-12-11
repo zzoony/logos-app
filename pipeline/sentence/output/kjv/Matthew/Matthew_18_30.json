@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 18:30",
+  "version": "KJV",
+  "original_text": "And he would not: but went and cast him into prison, till he should pay the debt.",
+  "korean_text": "허락하지 아니하고 이에 가서 그가 빚을 갚도록 옥에 가두거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he would not:",
+      "korean_translation": "그러나 그는 거절하였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but went and cast him into prison,",
+      "korean_translation": "그를 감옥에 던져 넣었으며",
+      "word_indices": [
+        7,
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "till he should pay the debt.",
+      "korean_translation": "그가 빚을 갚을 때까지였다.",
+      "word_indices": [
+        2000
+      ]
+    }
+  ]
+}

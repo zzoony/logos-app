@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 90:6",
+  "version": "KJV",
+  "original_text": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
+  "korean_text": "풀은 아침에 꽃이 피어 자라다가 저녁에는 시들어 마르나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the morning it flourisheth",
+      "korean_translation": "아침에 그것은 무성하게 자라며",
+      "word_indices": [
+        3957
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and groweth up",
+      "korean_translation": "성장하며",
+      "word_indices": [
+        1546
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the evening it is cut down",
+      "korean_translation": "저녁에 그것은 베어지며",
+      "word_indices": [
+        14,
+        91
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and withereth",
+      "korean_translation": "말라버린다",
+      "word_indices": [
+        2153
+      ]
+    }
+  ]
+}

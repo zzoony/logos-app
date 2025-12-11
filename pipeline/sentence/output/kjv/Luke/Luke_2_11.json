@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 2:11",
+  "version": "KJV",
+  "original_text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+  "korean_text": "오늘 다윗의 동네에 너희를 위하여 구주가 나셨으니 곧 그리스도 주시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For unto you is born this day",
+      "korean_translation": "오늘 너희를 위해 한 아기가 태어났으니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the city of David",
+      "korean_translation": "다윗의 동네에서",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a Saviour",
+      "korean_translation": "구세주가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which is Christ the Lord",
+      "korean_translation": "곧 그리스도 주시니라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Psalms 106:22",
+  "version": "KJV",
+  "original_text": "Wondrous works in the land of Ham, and terrible things by the Red sea.",
+  "korean_text": "그는 함의 땅에서 기사와 홍해에서 놀랄 만한 일을 행하신 이시로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wondrous works in the land of Ham",
+      "korean_translation": "함의 땅에서 행하신 경이로운 일들",
+      "word_indices": [
+        10,
+        29
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and terrible things by the Red sea",
+      "korean_translation": "그리고 홍해에서 행하신 두려운 일들",
+      "word_indices": [
+        11,
+        65,
+        609
+      ]
+    }
+  ]
+}

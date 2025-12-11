@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Hosea 13:5",
+  "version": "KJV",
+  "original_text": "I did know thee in the wilderness, in the land of great drought.",
+  "korean_text": "내가 광야 마른 땅에서 너를 알았거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I did know thee",
+      "korean_translation": "내가 너를 알았더라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the wilderness",
+      "korean_translation": "광야에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the land of great drought",
+      "korean_translation": "큰 가뭄이 있는 땅에서",
+      "word_indices": [
+        10,
+        1822
+      ]
+    }
+  ]
+}

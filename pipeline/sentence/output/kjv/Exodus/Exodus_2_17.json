@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 2:17",
+  "version": "KJV",
+  "original_text": "And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.",
+  "korean_text": "목자들이 와서 그들을 쫓는지라 모세가 일어나 그들을 도와 그 양 떼에게 먹이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the shepherds came",
+      "korean_translation": "그리고 목자들이 와서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drove them away",
+      "korean_translation": "그들을 쫓아냈습니다",
+      "word_indices": [
+        1,
+        4369
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but Moses stood up",
+      "korean_translation": "하지만 모세가 일어나서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and helped them",
+      "korean_translation": "그들을 도와주었습니다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and watered their flock",
+      "korean_translation": "그들의 양 떼에게 물을 주었습니다",
+      "word_indices": [
+        32,
+        166
+      ]
+    }
+  ]
+}

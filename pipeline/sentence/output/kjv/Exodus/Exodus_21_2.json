@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 21:2",
+  "version": "KJV",
+  "original_text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.",
+  "korean_text": "네가 히브리 종을 사면 그는 여섯 해 동안 섬길 것이요 일곱째 해에는 몸값을 물지 않고 나가 자유인이 될 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If thou buy an Hebrew servant",
+      "korean_translation": "네가 히브리 종을 사면",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "six years he shall serve",
+      "korean_translation": "그는 여섯 해 동안 섬기리라",
+      "word_indices": [
+        23,
+        103
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in the seventh",
+      "korean_translation": "그리고 일곱째 해에는",
+      "word_indices": [
+        268
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he shall go out free for nothing",
+      "korean_translation": "그는 값을 받지 않고 나가 자유롭게 되리라",
+      "word_indices": [
+        521
+      ]
+    }
+  ]
+}

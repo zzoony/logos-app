@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 2:9",
+  "version": "KJV",
+  "original_text": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,",
+  "korean_text": "연회장은 물로 된 포도주를 맛보고도 어디서 났는지 알지 못하되 물 떠온 하인들은 알더라 연회장이 신랑을 불러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the ruler of the feast had tasted the water",
+      "korean_translation": "잔치 집사가 물을 맛보았을 때",
+      "word_indices": [
+        32,
+        201,
+        203
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that was made wine",
+      "korean_translation": "그것이 포도주로 변한 것을",
+      "word_indices": [
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and knew not whence it was",
+      "korean_translation": "그것이 어디서 온 것인지 알지 못하였으나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but the servants which drew the water knew",
+      "korean_translation": "물을 길어온 하인들은 알았더라",
+      "word_indices": [
+        19,
+        32
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the governor of the feast called the bridegroom",
+      "korean_translation": "잔치 관리가 신랑을 불렀다",
+      "word_indices": [
+        203,
+        1118
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 2:14",
+  "version": "KJV",
+  "original_text": "And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates.",
+  "korean_text": "셋째 강의 이름은 힛데겔이라 앗수르 동쪽으로 흘렀으며 넷째 강은 유브라데더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the name of the third river is Hiddekel:",
+      "korean_translation": "세 번째 강의 이름은 힛데겔이며",
+      "word_indices": [
+        16,
+        120,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that is it which goeth toward the east of Assyria.",
+      "korean_translation": "그것은 앗수르의 동쪽으로 흐르는 강입니다.",
+      "word_indices": [
+        86,
+        212,
+        240
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the fourth river is Euphrates.",
+      "korean_translation": "그리고 네 번째 강은 유브라데입니다.",
+      "word_indices": [
+        120,
+        387
+      ]
+    }
+  ]
+}

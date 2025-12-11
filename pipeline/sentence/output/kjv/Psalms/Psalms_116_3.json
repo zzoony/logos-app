@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 116:3",
+  "version": "KJV",
+  "original_text": "The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.",
+  "korean_text": "사망의 줄이 나를 두르고 스올의 고통이 내게 이르므로 내가 환난과 슬픔을 만났을 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sorrows of death compassed me",
+      "korean_translation": "죽음의 슬픔이 나를 둘러쌌고",
+      "word_indices": [
+        351,
+        383
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and pains of hell gat hold upon me",
+      "korean_translation": "음부의 고통이 나를 붙잡았으며",
+      "word_indices": [
+        882,
+        1225
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I found trouble and sorrow",
+      "korean_translation": "나는 환난과 슬픔을 만났나이다",
+      "word_indices": [
+        351,
+        1903
+      ]
+    }
+  ]
+}

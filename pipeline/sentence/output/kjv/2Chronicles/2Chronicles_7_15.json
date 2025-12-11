@@ -1,0 +1,32 @@
+{
+  "verse_reference": "2 Chronicles 7:15",
+  "version": "KJV",
+  "original_text": "Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place.",
+  "korean_text": "이제 이 곳에서 하는 기도에 내가 눈을 들고 귀를 기울이리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now mine eyes shall be open",
+      "korean_translation": "이제 내 눈이 열릴 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and mine ears attent unto the prayer",
+      "korean_translation": "내 귀는 기도에 기울어지며",
+      "word_indices": [
+        111,
+        245,
+        3839
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is made in this place",
+      "korean_translation": "이곳에서 행해지는 기도에",
+      "word_indices": [
+        21
+      ]
+    }
+  ]
+}

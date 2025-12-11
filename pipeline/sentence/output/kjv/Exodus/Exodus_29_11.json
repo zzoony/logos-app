@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 29:11",
+  "version": "KJV",
+  "original_text": "And thou shalt kill the bullock before the Lord, by the door of the tabernacle of the congregation.",
+  "korean_text": "너는 회막 문 여호와 앞에서 그 송아지를 잡고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And thou shalt kill the bullock",
+      "korean_translation": "그리고 너는 그 수소를 죽일지니",
+      "word_indices": [
+        161,
+        219
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before the Lord",
+      "korean_translation": "여호와 앞에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the door of the tabernacle",
+      "korean_translation": "성막 문 앞에서",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the congregation",
+      "korean_translation": "회중의",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

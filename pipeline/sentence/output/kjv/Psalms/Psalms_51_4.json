@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 51:4",
+  "version": "KJV",
+  "original_text": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.",
+  "korean_text": "내가 주께만 범죄하여 주의 목전에 악을 행하였사오니 주께서 말씀하실 때에 의로우시다 하고 주께서 심판하실 때에 순전하시다 하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Against thee, thee only, have I sinned",
+      "korean_translation": "오직 주 앞에 내가 죄를 범했으며",
+      "word_indices": [
+        2,
+        121
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and done this evil in thy sight",
+      "korean_translation": "주의 눈앞에서 이 악을 행했나이다",
+      "word_indices": [
+        35,
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that thou mightest be justified when thou speakest",
+      "korean_translation": "주께서 말씀하실 때에 의로우시며",
+      "word_indices": [
+        1290
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and be clear when thou judgest",
+      "korean_translation": "심판하실 때에 순전하시려 함이니이다",
+      "word_indices": [
+        1351,
+        2165
+      ]
+    }
+  ]
+}

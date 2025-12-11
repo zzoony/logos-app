@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Ecclesiastes 3:5",
+  "version": "KJV",
+  "original_text": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+  "korean_text": "돌을 던져 버릴 때가 있고 돌을 거둘 때가 있으며 안을 때가 있고 안는 일을 멀리 할 때가 있으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A time to cast away stones",
+      "korean_translation": "돌을 던져 버릴 때가 있고",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a time to gather stones together",
+      "korean_translation": "돌을 모아 놓을 때가 있으며",
+      "word_indices": [
+        30,
+        51
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a time to embrace",
+      "korean_translation": "포옹할 때가 있고",
+      "word_indices": [
+        30,
+        1464
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a time to refrain from embracing",
+      "korean_translation": "포옹을 멀리할 때가 있다",
+      "word_indices": [
+        30
+      ]
+    }
+  ]
+}

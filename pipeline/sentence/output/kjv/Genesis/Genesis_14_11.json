@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Genesis 14:11",
+  "version": "KJV",
+  "original_text": "And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.",
+  "korean_text": "네 왕이 소돔과 고모라의 모든 재물과 양식을 빼앗아 가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they took all the goods of Sodom and Gomorrah",
+      "korean_translation": "그들이 소돔과 고모라의 모든 재물을 가져가고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all their victuals",
+      "korean_translation": "그들의 모든 식량을",
+      "word_indices": [
+        1152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and went their way",
+      "korean_translation": "그리고 자기 길을 갔더라",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

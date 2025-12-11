@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 32:5",
+  "version": "KJV",
+  "original_text": "And when Aaron saw it, he built an altar before it; and Aaron made proclamation, and said, To morrow is a feast to the Lord.",
+  "korean_text": "아론이 보고 그 앞에 제단을 쌓고 이에 아론이 공포하여 이르되 내일은 여호와의 절일이니라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when Aaron saw it",
+      "korean_translation": "아론이 그것을 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he built an altar before it",
+      "korean_translation": "그는 그것 앞에 제단을 쌓았고",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Aaron made proclamation",
+      "korean_translation": "아론이 선포하여 말하되",
+      "word_indices": [
+        1953
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "To morrow is a feast to the Lord",
+      "korean_translation": "내일은 여호와를 위한 절일이라",
+      "word_indices": [
+        203,
+        325
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Isaiah 45:7",
+  "version": "KJV",
+  "original_text": "I form the light, and create darkness: I make peace, and create evil: I the Lord do all these things.",
+  "korean_text": "나는 빛도 짓고 어둠도 창조하며 나는 평안도 짓고 환난도 창조하나니 나는 여호와라 이 모든 일들을 행하는 자니라 하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I form light",
+      "korean_translation": "나는 빛을 형성하며",
+      "word_indices": [
+        527
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and create darkness",
+      "korean_translation": "어두움을 창조하노라",
+      "word_indices": [
+        588
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I make peace",
+      "korean_translation": "나는 평화를 이루며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and create evil",
+      "korean_translation": "재앙을 창조하노라",
+      "word_indices": [
+        35,
+        588
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I the Lord do all these things",
+      "korean_translation": "나 주는 이 모든 일을 행하느니라",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

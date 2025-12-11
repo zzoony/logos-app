@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 36:10",
+  "version": "KJV",
+  "original_text": "These are the names of Esau's sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.",
+  "korean_text": "그 자손의 이름은 이러하니라 에서의 아내 아다의 아들은 엘리바스요 에서의 아내 바스맛의 아들은 르우엘이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These are the names of Esau's sons",
+      "korean_translation": "이것은 에서의 아들들의 이름이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Eliphaz the son of Adah",
+      "korean_translation": "엘리바스는 아다의 아들이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the wife of Esau",
+      "korean_translation": "에서의 아내이다",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Reuel the son of Bashemath",
+      "korean_translation": "르우엘은 바세맛의 아들이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the wife of Esau",
+      "korean_translation": "에서의 아내이다",
+      "word_indices": [
+        43
+      ]
+    }
+  ]
+}

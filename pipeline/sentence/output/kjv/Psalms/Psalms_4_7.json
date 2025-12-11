@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 4:7",
+  "version": "KJV",
+  "original_text": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.",
+  "korean_text": "주께서 내 마음에 두신 기쁨은 그들의 곡식과 새 포도주가 풍성할 때보다 더하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou hast put gladness in my heart",
+      "korean_translation": "주께서 내 마음에 기쁨을 두셨다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "more than in the time",
+      "korean_translation": "그 시간보다 더 많이",
+      "word_indices": [
+        30,
+        33,
+        52
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that their corn and their wine increased",
+      "korean_translation": "그들의 곡식과 포도주가 증가했을 때",
+      "word_indices": [
+        138,
+        326
+      ]
+    }
+  ]
+}

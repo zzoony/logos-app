@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Deuteronomy 27:24",
+  "version": "KJV",
+  "original_text": "Cursed be he that smiteth his neighbour secretly. And all the people shall say, Amen.",
+  "korean_text": "그의 이웃을 암살하는 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be he",
+      "korean_translation": "저주를 받을지어다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that smiteth his neighbour secretly",
+      "korean_translation": "이웃을 은밀히 치는 자는",
+      "word_indices": [
+        213,
+        1228,
+        1612
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And all the people shall say, Amen",
+      "korean_translation": "모든 백성은 아멘이라 말할지니라",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

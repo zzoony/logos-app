@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Numbers 19:19",
+  "version": "KJV",
+  "original_text": "And the clean person shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even.",
+  "korean_text": "그 정결한 자가 셋째 날과 일곱째 날에 그 부정한 자에게 뿌려서 일곱째 날에 그를 정결하게 할 것이며 그는 자기 옷을 빨고 물로 몸을 씻을 것이라 저녁이면 정결하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the clean person shall sprinkle upon the unclean",
+      "korean_translation": "그리고 깨끗한 자는 부정한 자에게 뿌릴 것이니",
+      "word_indices": [
+        244,
+        295
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the third day, and on the seventh day:",
+      "korean_translation": "셋째 날과 일곱째 날에",
+      "word_indices": [
+        176,
+        268
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and on the seventh day he shall purify himself,",
+      "korean_translation": "그리고 일곱째 날에 그는 스스로를 정결케 할 것이며",
+      "word_indices": [
+        268,
+        802
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and wash his clothes,",
+      "korean_translation": "자기 옷을 빨 것이며",
+      "word_indices": [
+        1163
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and bathe himself in water,",
+      "korean_translation": "물로 몸을 씻을 것이니",
+      "word_indices": [
+        32,
+        1329
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and shall be clean at even.",
+      "korean_translation": "저물 때에는 깨끗하게 되리라",
+      "word_indices": [
+        244
+      ]
+    }
+  ]
+}

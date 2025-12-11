@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 18:42",
+  "version": "KJV",
+  "original_text": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.",
+  "korean_text": "내가 그들을 바람 앞에 티끌 같이 부숴뜨리고 거리의 진흙 같이 쏟아 버렸나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then did I beat them small as the dust",
+      "korean_translation": "그때 내가 그들을 먼지처럼 작게 부수니",
+      "word_indices": [
+        1,
+        305,
+        345,
+        406
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before the wind:",
+      "korean_translation": "바람 앞에서",
+      "word_indices": [
+        184
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I did cast them out",
+      "korean_translation": "내가 그들을 내어던지니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as the dirt in the streets.",
+      "korean_translation": "거리의 먼지처럼",
+      "word_indices": [
+        330,
+        3281
+      ]
+    }
+  ]
+}

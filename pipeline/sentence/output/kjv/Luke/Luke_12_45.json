@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 12:45",
+  "version": "KJV",
+  "original_text": "But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;",
+  "korean_text": "만일 그 종이 마음에 생각하기를 주인이 더디 오리라 하여 남녀 종들을 때리며 먹고 마시고 취하게 되면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if that servant say in his heart",
+      "korean_translation": "그러나 그 종이 마음속에 말하기를",
+      "word_indices": [
+        19,
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My lord delayeth his coming",
+      "korean_translation": "내 주인이 오시는 것을 더디신다",
+      "word_indices": [
+        4174
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shall begin to beat the menservants and maidens",
+      "korean_translation": "그리고 남종들과 여종들을 때리기 시작할 것이며",
+      "word_indices": [
+        92,
+        406,
+        1047
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to eat and drink",
+      "korean_translation": "먹고 마시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to be drunken",
+      "korean_translation": "그리고 취하게 되리라",
+      "word_indices": [
+        887
+      ]
+    }
+  ]
+}

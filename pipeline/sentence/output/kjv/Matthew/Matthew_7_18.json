@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Matthew 7:18",
+  "version": "KJV",
+  "original_text": "A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.",
+  "korean_text": "좋은 나무가 나쁜 열매를 맺을 수 없고 못된 나무가 아름다운 열매를 맺을 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A good tree",
+      "korean_translation": "좋은 나무는",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "cannot bring forth evil fruit",
+      "korean_translation": "악한 열매를 맺을 수 없고",
+      "word_indices": [
+        25,
+        35,
+        124,
+        173
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither can a corrupt tree",
+      "korean_translation": "썩은 나무도",
+      "word_indices": [
+        81,
+        651
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bring forth good fruit",
+      "korean_translation": "좋은 열매를 맺을 수 없다",
+      "word_indices": [
+        25,
+        124
+      ]
+    }
+  ]
+}

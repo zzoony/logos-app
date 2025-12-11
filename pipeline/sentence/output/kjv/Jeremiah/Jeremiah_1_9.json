@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Jeremiah 1:9",
+  "version": "KJV",
+  "original_text": "Then the Lord put forth his hand, and touched my mouth. And the Lord said unto me, Behold, I have put my words in thy mouth.",
+  "korean_text": "여호와께서 그의 손을 내밀어 내 입에 대시며 여호와께서 내게 이르시되 보라 내가 내 말을 네 입에 두었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord put forth his hand",
+      "korean_translation": "그때 주께서 그분의 손을 내밀으시고",
+      "word_indices": [
+        8,
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and touched my mouth",
+      "korean_translation": "내 입에 touching 하셨습니다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the Lord said unto me",
+      "korean_translation": "그리고 주께서 내게 말씀하시기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Behold",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I have put my words in thy mouth",
+      "korean_translation": "내가 나의 말을 네 입에 두었노라",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

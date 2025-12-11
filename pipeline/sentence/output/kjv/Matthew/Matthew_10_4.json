@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Matthew 10:4",
+  "version": "KJV",
+  "original_text": "Simon the Canaanite, and Judas Iscariot, who also betrayed him.",
+  "korean_text": "가나나인 시몬 및 가룟 유다 곧 예수를 판 자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon the Canaanite",
+      "korean_translation": "가나안 사람 시몬",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Judas Iscariot",
+      "korean_translation": "그리고 가룟 유다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who also betrayed him",
+      "korean_translation": "그를 배신한 자",
+      "word_indices": [
+        9,
+        837
+      ]
+    }
+  ]
+}

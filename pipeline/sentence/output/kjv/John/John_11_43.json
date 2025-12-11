@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 11:43",
+  "version": "KJV",
+  "original_text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+  "korean_text": "이 말씀을 하시고 큰 소리로 나사로야 나오라 부르시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when he thus had spoken",
+      "korean_translation": "그가 이렇게 말했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he cried with a loud voice",
+      "korean_translation": "그가 큰 소리로 외쳤다",
+      "word_indices": [
+        45,
+        524
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Lazarus, come forth",
+      "korean_translation": "나사로야, 나오너라",
+      "word_indices": [
+        25
+      ]
+    }
+  ]
+}

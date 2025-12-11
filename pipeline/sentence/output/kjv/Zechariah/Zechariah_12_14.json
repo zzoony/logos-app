@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Zechariah 12:14",
+  "version": "KJV",
+  "original_text": "All the families that remain, every family apart, and their wives apart.",
+  "korean_text": "모든 남은 족속도 각기 따로 하고 그들의 아내들이 따로 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the families that remain",
+      "korean_translation": "남아있는 모든 가족이",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "every family apart",
+      "korean_translation": "각 가족이 따로따로",
+      "word_indices": [
+        100,
+        1104
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and their wives apart",
+      "korean_translation": "그들의 아내들도 따로따로",
+      "word_indices": [
+        1104
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 6:3",
+  "version": "KJV",
+  "original_text": "But when thou doest alms, let not thy left hand know what thy right hand doeth:",
+  "korean_text": "너는 구제할 때에 오른손이 하는 것을 왼손이 모르게 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when thou doest alms,",
+      "korean_translation": "그러나 네가 구제할 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let not thy left hand know",
+      "korean_translation": "네 왼손이 알지 못하게 하라",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what thy right hand doeth:",
+      "korean_translation": "네 오른손이 하는 것을",
+      "word_indices": [
+        8,
+        80,
+        353
+      ]
+    }
+  ]
+}

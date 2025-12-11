@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Matthew 8:22",
+  "version": "KJV",
+  "original_text": "But Jesus said unto him, Follow me; and let the dead bury their dead.",
+  "korean_text": "예수께서 이르시되 죽은 자들이 그들의 죽은 자들을 장사하게 하고 너는 나를 따르라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Jesus said unto him",
+      "korean_translation": "예수께서 그에게 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Follow me",
+      "korean_translation": "나를 따르라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let the dead bury their dead",
+      "korean_translation": "죽은 자들이 자기의 죽은 자들을 장사하게 하라",
+      "word_indices": [
+        78,
+        222
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 13:12",
+  "version": "KJV",
+  "original_text": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.",
+  "korean_text": "아브람은 가나안 땅에 거주하였고 롯은 그 지역의 도시들에 머무르며 그 장막을 옮겨 소돔까지 이르렀더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abram dwelled in the land of Canaan",
+      "korean_translation": "아브람은 가나안 땅에 거주했고",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Lot dwelled in the cities of the plain",
+      "korean_translation": "롯은 평지의 성들에 거주했으며",
+      "word_indices": [
+        12,
+        335
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and pitched his tent toward Sodom",
+      "korean_translation": "그의 장막을 소돔 쪽으로 치았다",
+      "word_indices": [
+        86,
+        199,
+        328
+      ]
+    }
+  ]
+}

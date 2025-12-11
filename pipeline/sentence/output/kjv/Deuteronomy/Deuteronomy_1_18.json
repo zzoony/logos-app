@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Deuteronomy 1:18",
+  "version": "KJV",
+  "original_text": "And I commanded you at that time all the things which ye should do.",
+  "korean_text": "내가 너희의 행할 모든 일을 그 때에 너희에게 다 명령하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I commanded you",
+      "korean_translation": "그리고 내가 너희에게 명령했으니",
+      "word_indices": [
+        3,
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at that time",
+      "korean_translation": "그 때에",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all the things which ye should do",
+      "korean_translation": "너희가 행해야 할 모든 것을",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

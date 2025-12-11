@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 14:12",
+  "version": "KJV",
+  "original_text": "Arise thou therefore, get thee to thine own house: and when thy feet enter into the city, the child shall die.",
+  "korean_text": "너는 일어나 네 집으로 가라 네 발이 성읍에 들어갈 때에 그 아이가 죽을지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Arise thou therefore",
+      "korean_translation": "그러므로 일어나라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "get thee to thine own house",
+      "korean_translation": "네 집으로 돌아가라",
+      "word_indices": [
+        2,
+        4,
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and when thy feet enter into the city",
+      "korean_translation": "그리고 네 발이 성에 들어갈 때",
+      "word_indices": [
+        7,
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the child shall die",
+      "korean_translation": "그 아이가 죽으리라",
+      "word_indices": [
+        6,
+        44
+      ]
+    }
+  ]
+}

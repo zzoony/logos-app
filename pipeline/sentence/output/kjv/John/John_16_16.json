@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 16:16",
+  "version": "KJV",
+  "original_text": "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.",
+  "korean_text": "조금 있으면 너희가 나를 보지 못하겠고 또 조금 있으면 나를 보리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A little while",
+      "korean_translation": "잠시 동안",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ye shall not see me:",
+      "korean_translation": "그러면 너희는 나를 보지 못할 것이요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and again, a little while,",
+      "korean_translation": "그러고 다시 잠시 후에는",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ye shall see me,",
+      "korean_translation": "너희가 나를 보게 될 것이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because I go to the Father.",
+      "korean_translation": "내가 아버지께로 감이니라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Samuel 18:20",
+  "version": "KJV",
+  "original_text": "And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king's son is dead.",
+  "korean_text": "요압이 그에게 이르되 너는 오늘 소식을 전하는 자가 되지 말고 다른 날에 전할 것이니라 왕의 아들이 죽었나니 네가 오늘 소식을 전하지 못하리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Joab said unto him",
+      "korean_translation": "요압이 그에게 이르기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Thou shalt not bear tidings this day",
+      "korean_translation": "너는 오늘 소식을 전하지 못하리라",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but thou shalt bear tidings another day",
+      "korean_translation": "그러나 다른 날에는 소식을 전하리라",
+      "word_indices": [
+        58,
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but this day thou shalt bear no tidings",
+      "korean_translation": "그러나 오늘은 너가 소식을 전하지 못하리라",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because the king's son is dead",
+      "korean_translation": "왕의 아들이 죽었기 때문이니라",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

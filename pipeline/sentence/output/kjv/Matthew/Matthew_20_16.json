@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 20:16",
+  "version": "KJV",
+  "original_text": "So the last shall be first, and the first last: for many be called, but few chosen.",
+  "korean_text": "이와 같이 나중 된 자로서 먼저 되고 먼저 된 자로서 나중 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So the last shall be first",
+      "korean_translation": "그러므로 마지막이 첫째가 될 것이요",
+      "word_indices": [
+        61,
+        379
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the first last",
+      "korean_translation": "첫째가 마지막이 될 것이라",
+      "word_indices": [
+        61,
+        379
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for many be called",
+      "korean_translation": "이는 많은 사람이 부르심을 받되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but few chosen",
+      "korean_translation": "택함을 받는 자는 적음이라",
+      "word_indices": [
+        480
+      ]
+    }
+  ]
+}

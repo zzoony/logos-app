@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Romans 8:36",
+  "version": "KJV",
+  "original_text": "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.",
+  "korean_text": "기록된 바 우리가 종일 주를 위하여 죽임을 당하게 되며 도살 당할 양 같이 여김을 받았나이다 함과 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As it is written,",
+      "korean_translation": "기록된 바와 같이,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For thy sake",
+      "korean_translation": "주를 위하여",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we are killed all the day long;",
+      "korean_translation": "우리가 종일 죽임을 당하며",
+      "word_indices": [
+        144,
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we are accounted as sheep",
+      "korean_translation": "우리는 양으로 여김을 받나니",
+      "word_indices": [
+        170,
+        936
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for the slaughter.",
+      "korean_translation": "도살을 위함이라.",
+      "word_indices": [
+        561
+      ]
+    }
+  ]
+}

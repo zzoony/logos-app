@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 7:19",
+  "version": "KJV",
+  "original_text": "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?",
+  "korean_text": "요한이 그 제자 중 둘을 불러 주께 보내어 이르되 오실 그이가 당신이오니이까 우리가 다른 이를 기다리오리이까 하라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And John calling unto him two of his disciples",
+      "korean_translation": "요한이 그의 제자 둘을 부르며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sent them to Jesus",
+      "korean_translation": "그들을 예수께 보내며",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying",
+      "korean_translation": "말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Art thou he that should come?",
+      "korean_translation": "오실 이가 당신입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or look we for another?",
+      "korean_translation": "아니면 다른 이를 찾으리이까?",
+      "word_indices": [
+        15,
+        58
+      ]
+    }
+  ]
+}

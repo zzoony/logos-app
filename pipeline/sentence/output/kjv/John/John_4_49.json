@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 4:49",
+  "version": "KJV",
+  "original_text": "The nobleman saith unto him, Sir, come down ere my child die.",
+  "korean_text": "신하가 이르되 주여 내 아이가 죽기 전에 내려오소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The nobleman saith unto him",
+      "korean_translation": "귀인이 그에게 말하길",
+      "word_indices": [
+        13,
+        3563
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sir, come down",
+      "korean_translation": "주인님, 내려오소서",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "ere my child die",
+      "korean_translation": "내 아이가 죽기 전에",
+      "word_indices": [
+        6,
+        44,
+        1830
+      ]
+    }
+  ]
+}

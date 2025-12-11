@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 50:17",
+  "version": "KJV",
+  "original_text": "Israel is a scattered sheep; the lions have driven him away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.",
+  "korean_text": "이스라엘은 흩어진 양이라 사자들이 그를 따르도다 처음에는 앗수르 왕이 먹었고 다음에는 바벨론의 느부갓네살 왕이 그의 뼈를 꺾도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Israel is a scattered sheep",
+      "korean_translation": "이스라엘은 흩어진 양과 같다",
+      "word_indices": [
+        170,
+        303
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the lions have driven him away",
+      "korean_translation": "사자들이 그를 쫓아내었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "first the king of Assyria hath devoured him",
+      "korean_translation": "먼저 앗수르 왕이 그를 삼켰고",
+      "word_indices": [
+        61,
+        252
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and last this Nebuchadrezzar king of Babylon hath broken his bones",
+      "korean_translation": "마지막으로 바벨론 왕 느부갓네살이 그의 뼈를 부쉈다",
+      "word_indices": [
+        379
+      ]
+    }
+  ]
+}

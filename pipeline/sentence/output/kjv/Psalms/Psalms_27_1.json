@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 27:1",
+  "version": "KJV",
+  "original_text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?",
+  "korean_text": "여호와는 나의 빛이요 나의 구원이시니 내가 누구를 두려워하리요 여호와는 내 생명의 능력이시니 내가 누구를 무서워하리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is my light",
+      "korean_translation": "주님은 나의 빛이시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and my salvation",
+      "korean_translation": "나의 구원이시다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whom shall I fear?",
+      "korean_translation": "내가 누구를 두려워하리요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Lord is the strength of my life",
+      "korean_translation": "주님은 내 생명의 힘이시다",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "of whom shall I be afraid?",
+      "korean_translation": "내가 누구를 무서워하리요",
+      "word_indices": [
+        165
+      ]
+    }
+  ]
+}

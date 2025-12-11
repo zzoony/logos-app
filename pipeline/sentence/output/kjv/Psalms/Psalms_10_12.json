@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 10:12",
+  "version": "KJV",
+  "original_text": "Arise, O Lord; O God, lift up thine hand: forget not the humble.",
+  "korean_text": "여호와여 일어나옵소서 하나님이여 손을 드옵소서 가난한 자들을 잊지 마옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Arise, O Lord",
+      "korean_translation": "일어나소서, 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O God, lift up thine hand",
+      "korean_translation": "오 하나님이여, 주의 손을 들으소서",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "forget not the humble",
+      "korean_translation": "겸손한 자들을 잊지 마소서",
+      "word_indices": [
+        327
+      ]
+    }
+  ]
+}

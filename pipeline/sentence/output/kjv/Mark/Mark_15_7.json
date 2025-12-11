@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 15:7",
+  "version": "KJV",
+  "original_text": "And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection.",
+  "korean_text": "민란을 꾸미고 그 민란중에 살인하고 체포된 자 중에 바라바라 하는 자가 있는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And there was one named Barabbas",
+      "korean_translation": "그리고 바라바라고 불리는 한 사람이 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which lay bound",
+      "korean_translation": "그는 묶여 있었고",
+      "word_indices": [
+        2086
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with them that had made insurrection with him",
+      "korean_translation": "그와 함께 반란을 일으킨 자들과 함께",
+      "word_indices": [
+        1,
+        2720
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who had committed murder in the insurrection",
+      "korean_translation": "그 반란 중에 살인을 저질렀던 자였습니다",
+      "word_indices": [
+        1652,
+        2720
+      ]
+    }
+  ]
+}

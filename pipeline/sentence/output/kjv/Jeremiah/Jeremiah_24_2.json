@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Jeremiah 24:2",
+  "version": "KJV",
+  "original_text": "One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.",
+  "korean_text": "한 광주리에는 처음 익은 듯한 극히 좋은 무화과가 있고 한 광주리에는 나빠서 먹을 수 없는 극히 나쁜 무화과가 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One basket had very good figs",
+      "korean_translation": "한 바구니에는 아주 좋은 무화과가 있었고",
+      "word_indices": [
+        119,
+        465,
+        798
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even like the figs that are first ripe",
+      "korean_translation": "마치 처음 익은 무화과와 같았으며",
+      "word_indices": [
+        61,
+        465,
+        2218
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the other basket had very naughty figs",
+      "korean_translation": "다른 바구니에는 아주 나쁜 무화과가 있었으니",
+      "word_indices": [
+        56,
+        119,
+        465,
+        798,
+        3450
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which could not be eaten",
+      "korean_translation": "먹을 수 없었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they were so bad",
+      "korean_translation": "그것들이 너무나 나빴기 때문이었습니다",
+      "word_indices": [
+        1308
+      ]
+    }
+  ]
+}

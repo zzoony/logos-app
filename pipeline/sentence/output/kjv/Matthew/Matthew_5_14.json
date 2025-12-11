@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 5:14",
+  "version": "KJV",
+  "original_text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+  "korean_text": "너희는 세상의 빛이라 산 위에 있는 동네가 숨겨지지 못할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye are the light of the world.",
+      "korean_translation": "너희는 세상의 빛이다.",
+      "word_indices": [
+        104
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A city that is set on an hill",
+      "korean_translation": "산 위에 세운 도시는",
+      "word_indices": [
+        12,
+        232
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "cannot be hid.",
+      "korean_translation": "숨길 수 없다.",
+      "word_indices": [
+        173
+      ]
+    }
+  ]
+}

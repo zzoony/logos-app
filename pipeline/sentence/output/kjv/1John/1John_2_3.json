@@ -1,0 +1,28 @@
+{
+  "verse_reference": "1 John 2:3",
+  "version": "KJV",
+  "original_text": "And hereby we do know that we know him, if we keep his commandments.",
+  "korean_text": "우리가 그의 계명을 지키면 이로써 우리가 그를 아는 줄로 알 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And hereby we do know",
+      "korean_translation": "그리하여 우리가 아는 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that we know him",
+      "korean_translation": "우리가 그를 안다는 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if we keep his commandments",
+      "korean_translation": "만약 우리가 그의 계명들을 지키면",
+      "word_indices": [
+        85
+      ]
+    }
+  ]
+}

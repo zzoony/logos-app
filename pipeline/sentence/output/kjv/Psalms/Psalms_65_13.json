@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Psalms 65:13",
+  "version": "KJV",
+  "original_text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.",
+  "korean_text": "초장은 양 떼로 옷 입었고 골짜기는 곡식으로 덮였으매 그들이 다 즐거이 외치고 또 노래하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The pastures are clothed with flocks",
+      "korean_translation": "초원은 양 떼로 뒤덮여 있습니다",
+      "word_indices": [
+        166,
+        1163
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the valleys also are covered over with corn",
+      "korean_translation": "골짜기들 또한 곡식으로 덮여 있습니다",
+      "word_indices": [
+        9,
+        18,
+        192,
+        326
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they shout for joy",
+      "korean_translation": "그들은 기쁨으로 외칩니다",
+      "word_indices": [
+        194
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they also sing",
+      "korean_translation": "그들은 또한 노래합니다",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

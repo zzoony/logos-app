@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 9:9",
+  "version": "KJV",
+  "original_text": "Some said, This is he: others said, He is like him: but he said, I am he.",
+  "korean_text": "어떤 사람은 그 사람이라 하며 어떤 사람은 아니라 그와 비슷하다 하거늘 자기 말은 내가 그라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some said, This is he",
+      "korean_translation": "어떤 사람들은 말하기를, 이 사람이 그라고 했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "others said, He is like him",
+      "korean_translation": "다른 사람들은 말하기를, 그 사람은 그와 같다고 했다",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but he said, I am he",
+      "korean_translation": "하지만 그는 말하기를, 내가 그라고 했다",
+      "word_indices": []
+    }
+  ]
+}

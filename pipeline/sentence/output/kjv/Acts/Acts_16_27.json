@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Acts 16:27",
+  "version": "KJV",
+  "original_text": "And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.",
+  "korean_text": "간수가 자다가 깨어 옥문들이 열린 것을 보고 죄수들이 도망한 줄 생각하고 칼을 빼어 자결하려 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And keeper of the prison awaking out of his sleep",
+      "korean_translation": "그리고 옥사장이 잠에서 깨어나",
+      "word_indices": [
+        359,
+        721
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and seeing the prison doors open",
+      "korean_translation": "옥문들이 열린 것을 보고",
+      "word_indices": [
+        115,
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he drew out his sword",
+      "korean_translation": "그는 칼을 뽑았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and would have killed himself",
+      "korean_translation": "그리고 자신을 죽이려 하였다",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "supposing that the prisoners had been fled",
+      "korean_translation": "죄수들이 도망했다고 생각하며",
+      "word_indices": [
+        875
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Genesis 11:3",
+  "version": "KJV",
+  "original_text": "And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for morter.",
+  "korean_text": "서로 말하되 자, 벽돌을 만들어 견고히 굽자 하고 이에 벽돌로 돌을 대신하며 역청으로 진흙을 대신하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they said one to another",
+      "korean_translation": "그들이 서로에게 말하기를",
+      "word_indices": [
+        58
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go to",
+      "korean_translation": "자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us make brick",
+      "korean_translation": "우리 벽돌을 만들자",
+      "word_indices": [
+        1659
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and burn them thoroughly",
+      "korean_translation": "그것들을 완전히 굽자",
+      "word_indices": [
+        1,
+        34,
+        2822
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And they had brick for stone",
+      "korean_translation": "그들에게는 돌 대신 벽돌이 있었고",
+      "word_indices": [
+        72,
+        1659
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and slime had they for morter",
+      "korean_translation": "회반리 대신 역청이 있었다",
+      "word_indices": [
+        1729,
+        3614
+      ]
+    }
+  ]
+}

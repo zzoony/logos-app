@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 8:22",
+  "version": "KJV",
+  "original_text": "Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.",
+  "korean_text": "유대인들이 이르되 그가 말하기를 내가 가는 곳에는 너희가 오지 못하리라 하니 그가 자결하려는가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then said the Jews",
+      "korean_translation": "그러자 유대인들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Will he kill himself?",
+      "korean_translation": "그가 자살할 것인가?",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he saith",
+      "korean_translation": "그가 말하기 때문이다",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Whither I go",
+      "korean_translation": "내가 가는 곳에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "ye cannot come",
+      "korean_translation": "너희가 올 수 없다",
+      "word_indices": [
+        173
+      ]
+    }
+  ]
+}

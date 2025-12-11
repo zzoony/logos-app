@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 72:20",
+  "version": "KJV",
+  "original_text": "The prayers of David the son of Jesse are ended.",
+  "korean_text": "이새의 아들 다윗의 기도가 끝나니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The prayers of David",
+      "korean_translation": "다윗의 기도들은",
+      "word_indices": [
+        245
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "son of Jesse",
+      "korean_translation": "이새의 아들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are ended",
+      "korean_translation": "끝이 났다",
+      "word_indices": [
+        73
+      ]
+    }
+  ]
+}

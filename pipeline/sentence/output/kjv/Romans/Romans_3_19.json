@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Romans 3:19",
+  "version": "KJV",
+  "original_text": "Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.",
+  "korean_text": "우리가 알거니와 무릇 율법이 말하는 바는 율법 아래에 있는 자들에게 말하는 것이니 이는 모든 입을 막고 온 세상으로 하나님의 심판 아래에 있게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now we know",
+      "korean_translation": "이제 우리는 알다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that what things soever the law saith",
+      "korean_translation": "율법이 말하는 모든 것은",
+      "word_indices": [
+        11,
+        13,
+        42,
+        1426
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it saith to them who are under the law:",
+      "korean_translation": "율법 아래 있는 자들에게 말하는 것이니",
+      "word_indices": [
+        1,
+        13,
+        42
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that every mouth may be stopped,",
+      "korean_translation": "모든 입이 막히게 하려 함이라",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and all the world may become guilty before God.",
+      "korean_translation": "온 세상이 하나님 앞에서 유죄하게 되려 함이라",
+      "word_indices": [
+        104,
+        132,
+        1049
+      ]
+    }
+  ]
+}

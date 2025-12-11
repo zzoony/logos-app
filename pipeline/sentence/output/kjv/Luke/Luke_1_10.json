@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 1:10",
+  "version": "KJV",
+  "original_text": "And the whole multitude of the people were praying without at the time of incense.",
+  "korean_text": "모든 백성은 그 분향하는 시간에 밖에서 기도하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the whole multitude of people",
+      "korean_translation": "그리고 모든 무리의 백성들이",
+      "word_indices": [
+        5,
+        113,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were praying outside",
+      "korean_translation": "밖에서 기도하고 있었다",
+      "word_indices": [
+        2123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "at the time of incense.",
+      "korean_translation": "분향하는 시간에",
+      "word_indices": [
+        30,
+        250
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 8:42",
+  "version": "KJV",
+  "original_text": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.",
+  "korean_text": "이는 자기에게 열두 살 된 외딸이 있어 죽어감이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he had one only daughter",
+      "korean_translation": "그에게는 딸이 한 명 있었는데",
+      "word_indices": [
+        121
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about twelve years of age",
+      "korean_translation": "약 열두 살이었습니다",
+      "word_indices": [
+        23,
+        577
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and she lay a dying",
+      "korean_translation": "그녀는 죽어가고 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But as he went",
+      "korean_translation": "그러나 그가 갈 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the people thronged him",
+      "korean_translation": "무리가 그를 에워쌌습니다",
+      "word_indices": [
+        5,
+        2795
+      ]
+    }
+  ]
+}

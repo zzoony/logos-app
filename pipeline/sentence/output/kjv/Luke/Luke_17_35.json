@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 17:35",
+  "version": "KJV",
+  "original_text": "Two women shall be grinding together; the one shall be taken, and the other left.",
+  "korean_text": "두 여자가 함께 맷돌을 갈고 있으매 하나는 데려감을 얻고 하나는 버려둠을 당할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two women shall be grinding together",
+      "korean_translation": "두 여자가 함께 맷돌을 갈고 있을 것이다",
+      "word_indices": [
+        51,
+        155
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "one shall be taken",
+      "korean_translation": "한 사람은 데려가지고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and other left",
+      "korean_translation": "다른 한 사람은 남겨질 것이다",
+      "word_indices": [
+        56
+      ]
+    }
+  ]
+}

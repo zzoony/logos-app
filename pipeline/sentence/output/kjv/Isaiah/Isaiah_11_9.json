@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 11:9",
+  "version": "KJV",
+  "original_text": "They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.",
+  "korean_text": "내 거룩한 산 모든 곳에서 해 됨도 없고 상함도 없을 것이니 이는 물이 바다를 덮음 같이 여호와를 아는 지식이 세상에 충만할 것임이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They shall not hurt",
+      "korean_translation": "그들은 상처를 입히지 않을 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor destroy",
+      "korean_translation": "파괴하지도 않을 것이라",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in all my holy mountain:",
+      "korean_translation": "나의 모든 거룩한 산에서",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the earth",
+      "korean_translation": "이는 땅이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall be full of the knowledge of the Lord,",
+      "korean_translation": "주님에 대한 지식으로 가득할 것이기 때문이라",
+      "word_indices": [
+        186
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "as waters cover the sea.",
+      "korean_translation": "마치 물이 바다를 덮는 것과 같으리라.",
+      "word_indices": [
+        32,
+        65
+      ]
+    }
+  ]
+}

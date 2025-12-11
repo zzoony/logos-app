@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Luke 5:7",
+  "version": "KJV",
+  "original_text": "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.",
+  "korean_text": "이에 다른 배에 있는 동무들에게 손짓하여 와서 도와 달라 하니 그들이 와서 두 배에 채우매 잠기게 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they beckoned unto their partners",
+      "korean_translation": "그들이 그들의 동료에게 손짓했으며",
+      "word_indices": [
+        2190,
+        2765
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which were in the other ship",
+      "korean_translation": "그들은 다른 배에 있었는데",
+      "word_indices": [
+        56,
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that they should come and help them",
+      "korean_translation": "그들이 와서 도와주기를",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And they came",
+      "korean_translation": "그들이 왔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and filled both the ships",
+      "korean_translation": "두 배를 모두 채웠으며",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "so that they began to sink",
+      "korean_translation": "그래서 그들이 가라앉기 시작했다",
+      "word_indices": [
+        1478
+      ]
+    }
+  ]
+}

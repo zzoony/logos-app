@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 48:10",
+  "version": "KJV",
+  "original_text": "Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood.",
+  "korean_text": "여호와의 일을 게을리 하는 자는 저주를 받을 것이요 자기 칼을 금하여 피를 흘리지 아니하는 자도 저주를 받을 것이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be he",
+      "korean_translation": "저주를 받을 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that doeth the work of the Lord deceitfully",
+      "korean_translation": "주의 일을 속이는 자니라",
+      "word_indices": [
+        29,
+        353,
+        1745
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cursed be he",
+      "korean_translation": "또 저주를 받을 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that keepeth back his sword from blood",
+      "korean_translation": "자기 칼을 피에서 면하게 하는 자니라",
+      "word_indices": [
+        59,
+        205,
+        684
+      ]
+    }
+  ]
+}

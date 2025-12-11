@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 10:10",
+  "version": "KJV",
+  "original_text": "But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,",
+  "korean_text": "어느 동네에 들어가든지 너희를 영접하지 아니하거든 그 거리로 나와서 말하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But into whatsoever city ye enter,",
+      "korean_translation": "그러나 너희가 어떤 도시에 들어가든지,",
+      "word_indices": [
+        7,
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they receive you not,",
+      "korean_translation": "그들이 너희를 받아들이지 않으면,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "go your ways out into the streets of the same,",
+      "korean_translation": "그 도시의 거리로 나가서",
+      "word_indices": [
+        7,
+        26,
+        90,
+        330
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and say,",
+      "korean_translation": "그리고 말하라,",
+      "word_indices": []
+    }
+  ]
+}

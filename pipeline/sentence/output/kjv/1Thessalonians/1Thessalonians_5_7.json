@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Thessalonians 5:7",
+  "version": "KJV",
+  "original_text": "For they that sleep sleep in the night; and they that be drunken are drunken in the night.",
+  "korean_text": "자는 자들은 밤에 자고 취하는 자들은 밤에 취하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For they that sleep",
+      "korean_translation": "자는 사람들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sleep in the night",
+      "korean_translation": "밤에 잠을 잔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they that be drunken",
+      "korean_translation": "그리고 취한 사람들은",
+      "word_indices": [
+        887
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "are drunken in the night",
+      "korean_translation": "밤에 취한다",
+      "word_indices": [
+        887
+      ]
+    }
+  ]
+}

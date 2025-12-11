@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Corinthians 15:48",
+  "version": "KJV",
+  "original_text": "As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly.",
+  "korean_text": "무릇 흙에 속한 자들은 저 흙에 속한 자와 같고 무릇 하늘에 속한 자들은 저 하늘에 속한 이와 같으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As is the earthy",
+      "korean_translation": "땅에 속한 자와 같이",
+      "word_indices": [
+        3155
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "such are they also that are earthy",
+      "korean_translation": "땅에 속한 자들도 그러하고",
+      "word_indices": [
+        9,
+        3155
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and as is the heavenly",
+      "korean_translation": "하늘에 속한 자와 같이",
+      "word_indices": [
+        1145
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "such are they also that are heavenly",
+      "korean_translation": "하늘에 속한 자들도 그러하니라",
+      "word_indices": [
+        9,
+        1145
+      ]
+    }
+  ]
+}

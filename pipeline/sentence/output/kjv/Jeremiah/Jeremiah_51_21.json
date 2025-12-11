@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Jeremiah 51:21",
+  "version": "KJV",
+  "original_text": "And with thee will I break in pieces the horse and his rider; and with thee will I break in pieces the chariot and his rider;",
+  "korean_text": "네가 말과 기마병을 분쇄하며 네가 병거와 병거대를 부수며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And with thee will I break in pieces",
+      "korean_translation": "그리고 너와 함께 내가 부수리라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "horse and his rider;",
+      "korean_translation": "말과 그 말을 탄 자를",
+      "word_indices": [
+        216,
+        1675
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and with thee will I break in pieces",
+      "korean_translation": "그리고 너와 함께 내가 부수리라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "chariot and his rider;",
+      "korean_translation": "전차와 그 전차를 탄 자를",
+      "word_indices": [
+        179,
+        1675
+      ]
+    }
+  ]
+}

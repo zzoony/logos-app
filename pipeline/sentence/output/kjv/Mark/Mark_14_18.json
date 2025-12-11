@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Mark 14:18",
+  "version": "KJV",
+  "original_text": "And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.",
+  "korean_text": "다 앉아 먹을 때에 예수께서 이르시되 내가 진실로 너희에게 이르노니 너희 중의 한 사람 곧 나와 함께 먹는 자가 나를 팔리라 하신대",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as they sat and did eat,",
+      "korean_translation": "그들이 앉아서 먹고 있을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said,",
+      "korean_translation": "예수께서 말씀하시되,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Verily I say unto you,",
+      "korean_translation": "내가 진실로 너희에게 이르노니,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "One of you which eateth with me",
+      "korean_translation": "나와 함께 먹는 너희 중 한 사람이",
+      "word_indices": [
+        3,
+        566
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall betray me.",
+      "korean_translation": "나를 배신하리라.",
+      "word_indices": [
+        837
+      ]
+    }
+  ]
+}

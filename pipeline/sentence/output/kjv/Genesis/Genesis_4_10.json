@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Genesis 4:10",
+  "version": "KJV",
+  "original_text": "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.",
+  "korean_text": "이르시되 네가 무엇을 하였느냐 네 아우의 핏소리가 땅에서부터 내게 호소하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그가 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What hast thou done?",
+      "korean_translation": "네가 무엇을 하였느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the voice of thy brother's blood",
+      "korean_translation": "네 형제의 피의 소리가",
+      "word_indices": [
+        45,
+        59
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "crieth unto me from the ground",
+      "korean_translation": "땅에서부터 내게 부르짖고 있느니라",
+      "word_indices": [
+        1346,
+        3499
+      ]
+    }
+  ]
+}

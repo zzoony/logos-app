@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Job 7:12",
+  "version": "KJV",
+  "original_text": "Am I a sea, or a whale, that thou settest a watch over me?",
+  "korean_text": "내가 바다니이까 바다 괴물이니이까 주께서 어찌하여 나를 지키시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Am I a sea",
+      "korean_translation": "내가 바다인가",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or a whale",
+      "korean_translation": "아니면 고래인가",
+      "word_indices": [
+        15,
+        2816
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that thou settest a watch over me",
+      "korean_translation": "당신이 나를 감시하고 있는가",
+      "word_indices": [
+        18,
+        2264
+      ]
+    }
+  ]
+}

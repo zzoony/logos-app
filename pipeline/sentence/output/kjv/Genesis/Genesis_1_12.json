@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Genesis 1:12",
+  "version": "KJV",
+  "original_text": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.",
+  "korean_text": "땅이 풀과 각기 종류대로 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내니 하나님이 보시기에 좋았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the earth brought forth grass",
+      "korean_translation": "그리고 땅이 풀을 내었고",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and herb yielding seed after his kind",
+      "korean_translation": "씨를 맺는 풀도 그 종류대로 났으며",
+      "word_indices": [
+        570,
+        687,
+        808
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the tree yielding fruit",
+      "korean_translation": "열매 맺는 나무도",
+      "word_indices": [
+        81,
+        124,
+        687
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whose seed was in itself",
+      "korean_translation": "그 씨가 그 자체에 있는",
+      "word_indices": [
+        626
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "after his kind",
+      "korean_translation": "그 종류대로 나았고",
+      "word_indices": [
+        570
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and God saw that it was good",
+      "korean_translation": "하나님이 보시기에 좋았더라",
+      "word_indices": []
+    }
+  ]
+}

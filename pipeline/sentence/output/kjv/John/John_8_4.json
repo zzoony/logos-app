@@ -1,0 +1,29 @@
+{
+  "verse_reference": "John 8:4",
+  "version": "KJV",
+  "original_text": "They say unto him, Master, this woman was taken in adultery, in the very act.",
+  "korean_text": "예수께 말하되 선생이여 이 여자가 간음하다가 현장에서 잡혔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They say unto him, Master",
+      "korean_translation": "그들이 그에게 말하길, 선생님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this woman was taken in adultery",
+      "korean_translation": "이 여자는 간음하다가 잡혔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the very act",
+      "korean_translation": "바로 그 행위 중에",
+      "word_indices": [
+        119,
+        447
+      ]
+    }
+  ]
+}

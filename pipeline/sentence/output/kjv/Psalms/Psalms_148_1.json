@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 148:1",
+  "version": "KJV",
+  "original_text": "Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.",
+  "korean_text": "할렐루야 하늘에서 여호와를 찬양하며 높은 데서 그를 찬양할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise ye the Lord.",
+      "korean_translation": "너희는 여호와를 찬양하라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Praise ye the Lord from the heavens:",
+      "korean_translation": "너희는 하늘에서부터 여호와를 찬양하라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "praise him in the heights.",
+      "korean_translation": "높은 곳에서 그를 찬양하라.",
+      "word_indices": [
+        489
+      ]
+    }
+  ]
+}

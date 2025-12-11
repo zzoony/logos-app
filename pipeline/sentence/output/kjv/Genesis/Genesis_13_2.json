@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 13:2",
+  "version": "KJV",
+  "original_text": "And Abram was very rich in cattle, in silver, and in gold.",
+  "korean_text": "아브람에게 가축과 은과 금이 풍부하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Abram was very rich",
+      "korean_translation": "그리고 아브람은 매우 부유했으며",
+      "word_indices": [
+        119,
+        178
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in cattle",
+      "korean_translation": "가축에서",
+      "word_indices": [
+        217
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in silver",
+      "korean_translation": "은에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and in gold",
+      "korean_translation": "그리고 금에서",
+      "word_indices": [
+        69
+      ]
+    }
+  ]
+}

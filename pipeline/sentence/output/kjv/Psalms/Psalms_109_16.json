@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 109:16",
+  "version": "KJV",
+  "original_text": "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.",
+  "korean_text": "그가 인자를 베풀 일을 생각하지 아니하고 가난하고 궁핍한 자와 마음이 상한 자를 핍박하여 죽이려 하였기 때문이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because that he remembered not to shew mercy",
+      "korean_translation": "그가 자비를 베풀지 않았기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but persecuted the poor and needy man",
+      "korean_translation": "가난하고 궁핍한 사람을 핍박했으며",
+      "word_indices": [
+        153,
+        803
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he might even slay the broken in heart",
+      "korean_translation": "마음이 상한 자를 죽이려 하였도다",
+      "word_indices": [
+        20,
+        55
+      ]
+    }
+  ]
+}

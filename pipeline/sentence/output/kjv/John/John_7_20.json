@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 7:20",
+  "version": "KJV",
+  "original_text": "The people answered and said, Thou hast a devil: who goeth about to kill thee?",
+  "korean_text": "무리가 대답하되 당신은 귀신이 들렸도다 누가 당신을 죽이려 하나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people answered and said",
+      "korean_translation": "백성들이 대답하여 이르되",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Thou hast a devil",
+      "korean_translation": "당신은 귀신이 들렸나이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who goeth about to kill thee",
+      "korean_translation": "당신을 죽이려고 하는 자가 누구니이까",
+      "word_indices": [
+        2,
+        161,
+        240
+      ]
+    }
+  ]
+}

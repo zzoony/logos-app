@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 4:18",
+  "version": "KJV",
+  "original_text": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.",
+  "korean_text": "갈릴리 해변에 다니시다가 두 형제 곧 베드로라 하는 시몬과 그의 형제 안드레가 바다에 그물 던지는 것을 보시니 그들은 어부라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus, walking by the sea of Galilee",
+      "korean_translation": "그리고 예수님께서 갈릴리 바닷가를 걸어가시다가",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saw two brethren",
+      "korean_translation": "두 형제를 보셨으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Simon called Peter",
+      "korean_translation": "베드로라는 시몬과",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and Andrew his brother",
+      "korean_translation": "그의 형제 안드레였더라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "casting a net into the sea",
+      "korean_translation": "그들이 바다에 그물을 던지고 있었으니",
+      "word_indices": [
+        7,
+        65,
+        608
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for they were fishers",
+      "korean_translation": "이는 그들이 어부이었기 때문이라",
+      "word_indices": [
+        2174
+      ]
+    }
+  ]
+}

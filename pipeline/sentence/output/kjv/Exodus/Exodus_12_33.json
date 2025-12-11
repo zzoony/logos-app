@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 12:33",
+  "version": "KJV",
+  "original_text": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men.",
+  "korean_text": "애굽 사람들은 말하기를 우리가 다 죽은 자가 되도다 하고 그 백성을 재촉하여 그 땅에서 속히 내보내려 하므로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Egyptians were urgent upon the people",
+      "korean_translation": "이집트 사람들은 백성들에게 재촉하여",
+      "word_indices": [
+        5,
+        3648
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that they might send them out of the land in haste",
+      "korean_translation": "그들이 급히 그 땅에서 나가게 하려고 했다",
+      "word_indices": [
+        1,
+        10,
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for they said",
+      "korean_translation": "이는 그들이 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We be all dead men",
+      "korean_translation": "우리는 모두 죽은 사람이라고 했다",
+      "word_indices": [
+        78
+      ]
+    }
+  ]
+}

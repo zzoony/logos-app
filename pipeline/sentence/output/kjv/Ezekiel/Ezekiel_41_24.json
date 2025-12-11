@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ezekiel 41:24",
+  "version": "KJV",
+  "original_text": "And the doors had two leaves apiece, two turning leaves; two leaves for the one door, and two leaves for the other door.",
+  "korean_text": "문마다 각기 두 문짝 곧 접는 두 문짝이 있어 이 문에 두 짝이요 저 문에 두 짝이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And doors had two leaves apiece",
+      "korean_translation": "그리고 문들은 각각 두 개의 날개를 가졌으며",
+      "word_indices": [
+        115,
+        2105
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "two turning leaves",
+      "korean_translation": "두 개의 돌아가는 날개였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "two leaves for the one door",
+      "korean_translation": "한 문에는 두 개의 날개가 있었고",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and two leaves for the other door",
+      "korean_translation": "다른 문에도 두 개의 날개가 있었다",
+      "word_indices": [
+        56,
+        115
+      ]
+    }
+  ]
+}

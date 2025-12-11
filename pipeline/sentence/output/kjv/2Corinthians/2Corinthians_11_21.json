@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Corinthians 11:21",
+  "version": "KJV",
+  "original_text": "I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.",
+  "korean_text": "나는 우리가 약한 것 같이 욕되게 말하노라 그러나 누가 무슨 일에 담대하면 어리석은 말이나마 나도 담대하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I speak as concerning reproach",
+      "korean_translation": "나는 비난에 대하여 말합니다",
+      "word_indices": [
+        130,
+        308
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as though we had been weak",
+      "korean_translation": "마치 우리가 약했던 것처럼",
+      "word_indices": [
+        685
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Howbeit whereinsoever any is bold",
+      "korean_translation": "그러나 누가든지 담대하다면",
+      "word_indices": [
+        22,
+        500,
+        1804,
+        5745
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I speak foolishly",
+      "korean_translation": "내가 어리석게 말하는 것입니다",
+      "word_indices": [
+        1668
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am bold also",
+      "korean_translation": "나도 담대합니다",
+      "word_indices": [
+        9,
+        1804
+      ]
+    }
+  ]
+}

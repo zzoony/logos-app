@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 43:8",
+  "version": "KJV",
+  "original_text": "Bring forth the blind people that have eyes, and the deaf that have ears.",
+  "korean_text": "눈이 있어도 보지 못하고 귀가 있어도 듣지 못하는 백성을 이끌어 내라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bring forth blind people",
+      "korean_translation": "소경들을 이끌어 내라",
+      "word_indices": [
+        5,
+        25,
+        380
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that have eyes",
+      "korean_translation": "눈을 가졌으나 보지 못하는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bring forth deaf",
+      "korean_translation": "그리고 귀머거리들을 이끌어 내라",
+      "word_indices": [
+        25,
+        1477
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that have ears",
+      "korean_translation": "귀를 가졌으나 듣지 못하는",
+      "word_indices": [
+        111
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 37:31",
+  "version": "KJV",
+  "original_text": "And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;",
+  "korean_text": "그들이 요셉의 옷을 가져다가 숫염소를 죽여 그 옷을 피에 적시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they took Joseph's coat",
+      "korean_translation": "그들이 요셉의 겉옷을 가져가고",
+      "word_indices": [
+        771
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and killed a kid of the goats",
+      "korean_translation": "염소 새끼를 죽이고",
+      "word_indices": [
+        161,
+        246,
+        617
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and dipped the coat in the blood",
+      "korean_translation": "그 겉옷을 피에 적셨습니다",
+      "word_indices": [
+        59,
+        771
+      ]
+    }
+  ]
+}

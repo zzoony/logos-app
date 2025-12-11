@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 10:33",
+  "version": "KJV",
+  "original_text": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.",
+  "korean_text": "유대인들이 대답하되 선한 일로 말미암아 우리가 너를 돌로 치려는 것이 아니라 신성모독으로 인함이니 네가 사람이 되어 자칭 하나님이라 함이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Jews answered him, saying,",
+      "korean_translation": "유대인들이 그에게 대답하여 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For a good work we stone thee not;",
+      "korean_translation": "선한 일 때문에 우리가 너를 돌로 치는 것이 아니고",
+      "word_indices": [
+        2,
+        29,
+        72
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but for blasphemy;",
+      "korean_translation": "하나님을 모독하기 때문이며",
+      "word_indices": [
+        1263
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and because that thou, being a man,",
+      "korean_translation": "또한 네가 사람이면서도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "makest thyself God.",
+      "korean_translation": "스스로를 하나님으로 만들기 때문이다",
+      "word_indices": [
+        146,
+        1060
+      ]
+    }
+  ]
+}

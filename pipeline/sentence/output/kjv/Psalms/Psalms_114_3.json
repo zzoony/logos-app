@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 114:3",
+  "version": "KJV",
+  "original_text": "The sea saw it, and fled: Jordan was driven back.",
+  "korean_text": "바다가 보고 도망하며 요단은 물러갔으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sea saw it",
+      "korean_translation": "바다가 그것을 보고",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and fled",
+      "korean_translation": "도망하였으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jordan was driven back",
+      "korean_translation": "요단강은 뒤로 물러갔습니다",
+      "word_indices": [
+        205
+      ]
+    }
+  ]
+}

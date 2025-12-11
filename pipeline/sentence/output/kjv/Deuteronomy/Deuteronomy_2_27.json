@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Deuteronomy 2:27",
+  "version": "KJV",
+  "original_text": "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.",
+  "korean_text": "나를 네 땅으로 통과하게 하라 내가 큰길로만 행하고 좌로나 우로나 치우치지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let me pass through thy land:",
+      "korean_translation": "네 땅을 지나가게 하다:",
+      "word_indices": [
+        10,
+        27,
+        57
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will go along by the high way,",
+      "korean_translation": "나는 대로를 따라 갈 것이다,",
+      "word_indices": [
+        26,
+        950
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will neither turn unto the right hand",
+      "korean_translation": "나는 오른쪽으로 돌지 않을 것이다",
+      "word_indices": [
+        8,
+        80
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor to the left.",
+      "korean_translation": "왼쪽으로도 돌지 않을 것이다.",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

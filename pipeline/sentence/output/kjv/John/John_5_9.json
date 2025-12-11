@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 5:9",
+  "version": "KJV",
+  "original_text": "And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.",
+  "korean_text": "그 사람이 곧 나아서 자리를 들고 걸어가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And immediately the man was made whole,",
+      "korean_translation": "그리고 그 사람은 즉시 온전하게 되었고,",
+      "word_indices": [
+        125,
+        581
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and took up his bed,",
+      "korean_translation": "그의 침상을 들고,",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and walked:",
+      "korean_translation": "걸어갔으며:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and on the same day was the sabbath.",
+      "korean_translation": "그리고 바로 그 날은 안식일이었다.",
+      "word_indices": [
+        90,
+        188
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 13:4",
+  "version": "KJV",
+  "original_text": "He riseth from supper, and laid aside his garments; and took a towel, and girded himself.",
+  "korean_text": "저녁 잡수시던 자리에서 일어나 겉옷을 벗고 수건을 가져다가 허리에 두르시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He riseth from supper",
+      "korean_translation": "그는 저녁 식사에서 일어나며",
+      "word_indices": [
+        1563,
+        1590
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and laid aside his garments",
+      "korean_translation": "그의 옷을 벗어두었고",
+      "word_indices": [
+        168,
+        437
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and took a towel",
+      "korean_translation": "수건을 가져다가",
+      "word_indices": [
+        4206
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and girded himself",
+      "korean_translation": "자신에게 두르셨다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Genesis 6:15",
+  "version": "KJV",
+  "original_text": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
+  "korean_text": "네가 만들 방주는 이러하니 그 길이는 삼백 규빗, 너비는 오십 규빗, 높이는 삼십 규빗이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And this is the fashion",
+      "korean_translation": "그리고 이것이 그 형식입니다",
+      "word_indices": [
+        1148
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which thou shalt make it of",
+      "korean_translation": "네가 그것으로 만들어야 할",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The length of the ark shall be three hundred cubits",
+      "korean_translation": "방주의 길이는 삼백 규빗이 될 것이요",
+      "word_indices": [
+        50,
+        117,
+        140,
+        415
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the breadth of it fifty cubits",
+      "korean_translation": "그 너비는 오십 규빗이며",
+      "word_indices": [
+        117,
+        196,
+        369
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the height of it thirty cubits",
+      "korean_translation": "그 높이는 삼십 규빗이리라",
+      "word_indices": [
+        117,
+        183,
+        489
+      ]
+    }
+  ]
+}

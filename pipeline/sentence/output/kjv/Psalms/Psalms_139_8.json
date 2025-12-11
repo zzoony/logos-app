@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 139:8",
+  "version": "KJV",
+  "original_text": "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.",
+  "korean_text": "내가 하늘에 올라갈지라도 거기 계시며 스올에 내 자리를 펼지라도 거기 계시니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I ascend up into heaven",
+      "korean_translation": "내가 하늘에 올라간다 할지라도",
+      "word_indices": [
+        7,
+        815
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thou art there",
+      "korean_translation": "주께서 거기 계시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if I make my bed in hell",
+      "korean_translation": "내가 스올에 자리를 편다 할지라도",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "behold, thou art there",
+      "korean_translation": "보소서, 주께서 거기 계십니다",
+      "word_indices": []
+    }
+  ]
+}

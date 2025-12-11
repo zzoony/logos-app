@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 4:37",
+  "version": "KJV",
+  "original_text": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.",
+  "korean_text": "큰 광풍이 일어나며 물결이 배에 부딪쳐 들어와 배에 가득하게 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And there arose a great storm of wind",
+      "korean_translation": "그리고 큰 바람의 폭풍이 일어났고",
+      "word_indices": [
+        184,
+        1579
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the waves beat into the ship",
+      "korean_translation": "파도들이 배를 때렸으며",
+      "word_indices": [
+        7,
+        301,
+        406
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that it was now full",
+      "korean_translation": "그리하여 이제 배는 가득 찼다",
+      "word_indices": []
+    }
+  ]
+}

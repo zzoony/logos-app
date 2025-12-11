@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 6:32",
+  "version": "KJV",
+  "original_text": "And they departed into a desert place by ship privately.",
+  "korean_text": "이에 배를 타고 따로 한적한 곳에 갈새",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they departed",
+      "korean_translation": "그리고 그들이 떠났다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into a desert place",
+      "korean_translation": "황무지로",
+      "word_indices": [
+        7,
+        21,
+        661
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by ship privately",
+      "korean_translation": "배를 타고 사적으로",
+      "word_indices": [
+        301,
+        2186
+      ]
+    }
+  ]
+}

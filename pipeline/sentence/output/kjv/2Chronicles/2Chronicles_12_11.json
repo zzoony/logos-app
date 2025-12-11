@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Chronicles 12:11",
+  "version": "KJV",
+  "original_text": "And when the king entered into the house of the Lord, the guard came and fetched them, and brought them again into the guard chamber.",
+  "korean_text": "왕이 여호와의 전에 들어갈 때마다 경호하는 자가 그 방패를 들고 갔다가 경호실로 도로 가져갔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when the king entered into the house of the Lord",
+      "korean_translation": "왕이 여호와의 집에 들어갔을 때에",
+      "word_indices": [
+        4,
+        7
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the guard came",
+      "korean_translation": "경비병이 와서",
+      "word_indices": [
+        620
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and fetched them",
+      "korean_translation": "그들을 데리고 가서",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and brought them again into the guard chamber",
+      "korean_translation": "다시 경비실로 데려갔더라",
+      "word_indices": [
+        1,
+        7,
+        269,
+        620
+      ]
+    }
+  ]
+}

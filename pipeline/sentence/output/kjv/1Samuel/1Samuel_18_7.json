@@ -1,0 +1,47 @@
+{
+  "verse_reference": "1 Samuel 18:7",
+  "version": "KJV",
+  "original_text": "And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.",
+  "korean_text": "여인들이 뛰놀며 노래하여 이르되 사울이 죽인 자는 천천이요 다윗은 만만이로다 한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the women answered one another",
+      "korean_translation": "여인들이 서로 대답하여",
+      "word_indices": [
+        58
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as they played",
+      "korean_translation": "노래하며",
+      "word_indices": [
+        725
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said",
+      "korean_translation": "말하였으되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Saul hath slain his thousands",
+      "korean_translation": "사울은 천 명을 죽였고",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and David his ten thousands",
+      "korean_translation": "다윗은 만 명을 죽였다",
+      "word_indices": [
+        38,
+        122
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 3:4",
+  "version": "KJV",
+  "original_text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?",
+  "korean_text": "니고데모가 이르되 사람이 늙으면 어떻게 날 수 있사옵나이까 두 번째 모태에 들어갔다가 날 수 있사옵나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nicodemus saith unto him",
+      "korean_translation": "니고데모스가 그에게 이르되",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How can a man be born",
+      "korean_translation": "사람이 어떻게 나을 수 있나이까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when he is old?",
+      "korean_translation": "그가 늙었을 때에요?",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "can he enter the second time",
+      "korean_translation": "그가 두 번째로 들어갈 수 있나이까",
+      "word_indices": [
+        30,
+        190
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "into his mother's womb",
+      "korean_translation": "그의 어머니의 태 안에",
+      "word_indices": [
+        7,
+        431
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and be born?",
+      "korean_translation": "그리고 나나이까?",
+      "word_indices": []
+    }
+  ]
+}

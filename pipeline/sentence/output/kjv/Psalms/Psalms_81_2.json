@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 81:2",
+  "version": "KJV",
+  "original_text": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
+  "korean_text": "시를 읊으며 소고를 치고 아름다운 수금에 비파를 아우를지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Take a psalm",
+      "korean_translation": "시편을 가져오라",
+      "word_indices": [
+        1511
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bring hither the timbrel",
+      "korean_translation": "작은 소리 나는 악기를 이리 가져오라",
+      "word_indices": [
+        462,
+        1831
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the pleasant harp with psaltery",
+      "korean_translation": "즐거운 수금과 비파를",
+      "word_indices": [
+        544,
+        600,
+        1038
+      ]
+    }
+  ]
+}

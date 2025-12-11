@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Isaiah 36:17",
+  "version": "KJV",
+  "original_text": "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.",
+  "korean_text": "내가 와서 너희를 너희 본토와 같이 곡식과 포도주와 떡과 포도원이 있는 땅에 옮기기까지 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Until I come",
+      "korean_translation": "내가 올 때까지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and take you away",
+      "korean_translation": "너희를 데려가리라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to a land like your own land",
+      "korean_translation": "너희의 땅과 같은 땅으로",
+      "word_indices": [
+        10,
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a land of corn and wine",
+      "korean_translation": "곡식과 포도주가 나는 땅",
+      "word_indices": [
+        10,
+        138,
+        326
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a land of bread and vineyards",
+      "korean_translation": "빵과 포도원이 있는 땅",
+      "word_indices": [
+        10,
+        79,
+        287
+      ]
+    }
+  ]
+}

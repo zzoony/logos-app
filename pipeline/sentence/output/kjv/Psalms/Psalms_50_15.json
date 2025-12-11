@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 50:15",
+  "version": "KJV",
+  "original_text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
+  "korean_text": "환난 날에 나를 부르라 내가 너를 건지리니 네가 나를 영화롭게 하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And call upon me",
+      "korean_translation": "나를 불러",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the day of trouble:",
+      "korean_translation": "환난 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will deliver thee,",
+      "korean_translation": "내가 너를 건지리니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and thou shalt glorify me.",
+      "korean_translation": "네가 나를 영화롭게 하리라",
+      "word_indices": [
+        413
+      ]
+    }
+  ]
+}

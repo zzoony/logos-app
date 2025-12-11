@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Ecclesiastes 1:4",
+  "version": "KJV",
+  "original_text": "One generation passeth away, and another generation cometh: but the earth abideth for ever.",
+  "korean_text": "한 세대는 가고 한 세대는 오되 땅은 영원히 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One generation passeth away,",
+      "korean_translation": "한 세대는 사라지고",
+      "word_indices": [
+        143,
+        799
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and another generation cometh:",
+      "korean_translation": "다른 세대는 오지만",
+      "word_indices": [
+        58,
+        109,
+        143
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the earth abideth for ever.",
+      "korean_translation": "땅은 영원히 남아있네.",
+      "word_indices": [
+        54,
+        959
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 19:4",
+  "version": "KJV",
+  "original_text": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.",
+  "korean_text": "앞으로 달려가서 보기 위하여 돌무화과나무에 올라가니 이는 예수께서 그리로 지나가시게 됨이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he ran before",
+      "korean_translation": "그는 앞서 달려갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and climbed up into a sycomore tree",
+      "korean_translation": "무화과나무에 올라갔습니다",
+      "word_indices": [
+        7,
+        81,
+        2300,
+        2455
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to see him",
+      "korean_translation": "그를 보기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for he was to pass that way",
+      "korean_translation": "그는 그 길로 지나갈 것이었기 때문입니다",
+      "word_indices": [
+        26,
+        27
+      ]
+    }
+  ]
+}

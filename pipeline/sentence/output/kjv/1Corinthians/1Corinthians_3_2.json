@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Corinthians 3:2",
+  "version": "KJV",
+  "original_text": "I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.",
+  "korean_text": "내가 너희를 젖으로 먹이고 밥으로 아니하였노니 이는 너희가 감당하지 못하였음이거니와 지금도 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have fed you with milk",
+      "korean_translation": "내가 너희를 젖으로 먹였고",
+      "word_indices": [
+        3,
+        655
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and not with meat",
+      "korean_translation": "고기로 먹이지 아니하였노라",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for hitherto ye were not able to bear it",
+      "korean_translation": "이는 너희가 감당하지 못하였음이라",
+      "word_indices": [
+        63,
+        209
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "neither yet now are ye able",
+      "korean_translation": "지금도 못하느니라",
+      "word_indices": [
+        209
+      ]
+    }
+  ]
+}

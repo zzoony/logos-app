@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Leviticus 11:19",
+  "version": "KJV",
+  "original_text": "And the stork, the heron after her kind, and the lapwing, and the bat.",
+  "korean_text": "황새와 백로 종류와 오디새와 박쥐니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the stork",
+      "korean_translation": "그리고 황새는",
+      "word_indices": [
+        2627
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the heron after her kind",
+      "korean_translation": "같은 종류의 왜가리는",
+      "word_indices": [
+        570,
+        3677
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the lapwing",
+      "korean_translation": "물총새는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the bat",
+      "korean_translation": "그리고 박쥐는",
+      "word_indices": [
+        3227
+      ]
+    }
+  ]
+}

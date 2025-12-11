@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 12:51",
+  "version": "KJV",
+  "original_text": "Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:",
+  "korean_text": "내가 세상에 화평을 주려고 온 줄로 아느냐 내가 너희에게 이르노니 아니라 도리어 분쟁하게 하려 함이로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Suppose ye that I am come",
+      "korean_translation": "내가 온 것이라고 생각하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to give peace on earth?",
+      "korean_translation": "땅에 평화를 주려고?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I tell you, Nay;",
+      "korean_translation": "내가 너희에게 말하노니, 아니라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but rather division:",
+      "korean_translation": "도리어 분열을 위함이라",
+      "word_indices": [
+        512,
+        1127
+      ]
+    }
+  ]
+}

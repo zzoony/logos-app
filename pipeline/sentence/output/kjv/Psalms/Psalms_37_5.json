@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 37:5",
+  "version": "KJV",
+  "original_text": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass.",
+  "korean_text": "네 길을 여호와께 맡기라 그를 의지하면 그가 이루시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Commit thy way unto the Lord",
+      "korean_translation": "네 길을 여호와께 맡기라",
+      "word_indices": [
+        26,
+        191
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "trust also in him",
+      "korean_translation": "그를 믿으라",
+      "word_indices": [
+        9,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he shall bring it to pass",
+      "korean_translation": "그가 이루시리라",
+      "word_indices": [
+        27
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Romans 1:8",
+  "version": "KJV",
+  "original_text": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.",
+  "korean_text": "먼저 내가 예수 그리스도로 말미암아 너희 모든 사람에 관하여 내 하나님께 감사함은 너희 믿음이 온 세상에 전파됨이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "First, I thank my God through Jesus Christ",
+      "korean_translation": "먼저, 나는 예수 그리스도를 통해 나의 하나님께 감사합니다",
+      "word_indices": [
+        57,
+        61,
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for you all",
+      "korean_translation": "너희 모두를 위하여",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that your faith is spoken of",
+      "korean_translation": "너희의 믿음이 전해지고 있다는 것",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "throughout the whole world",
+      "korean_translation": "온 세상에 두루",
+      "word_indices": [
+        104,
+        125,
+        206
+      ]
+    }
+  ]
+}

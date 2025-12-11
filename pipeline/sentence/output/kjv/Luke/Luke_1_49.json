@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Luke 1:49",
+  "version": "KJV",
+  "original_text": "For he that is mighty hath done to me great things; and holy is his name.",
+  "korean_text": "능하신 이가 큰 일을 내게 행하셨으니 그 이름이 거룩하시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he that is mighty",
+      "korean_translation": "전능하신 이가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "hath done to me great things",
+      "korean_translation": "나에게 큰 일을 행하셨고",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and holy is his name",
+      "korean_translation": "그 이름은 거룩하시도다",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

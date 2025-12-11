@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Genesis 7:7",
+  "version": "KJV",
+  "original_text": "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.",
+  "korean_text": "노아는 아들들과 아내와 며느리들과 함께 홍수를 피하여 방주에 들어갔고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Noah went in",
+      "korean_translation": "그리고 노아가 들어갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his sons",
+      "korean_translation": "그의 아들들과",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his wife",
+      "korean_translation": "그의 아내와",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his sons' wives with him",
+      "korean_translation": "그의 아들들의 아내들도 그와 함께",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "into the ark",
+      "korean_translation": "방주로 들어갔습니다",
+      "word_indices": [
+        7,
+        140
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because of the waters of the flood",
+      "korean_translation": "홍수의 물 때문이었습니다",
+      "word_indices": [
+        32,
+        506
+      ]
+    }
+  ]
+}

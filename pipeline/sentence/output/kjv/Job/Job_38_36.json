@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Job 38:36",
+  "version": "KJV",
+  "original_text": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?",
+  "korean_text": "가슴 속의 지혜는 누가 준 것이냐 수탉에게 슬기를 준 자가 누구냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who hath put wisdom",
+      "korean_translation": "누가 지혜를 두었는가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the inward parts?",
+      "korean_translation": "속 깊은 곳에?",
+      "word_indices": [
+        102,
+        1080
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or who hath given understanding",
+      "korean_translation": "또 누가 명철을 주었는가",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to the heart?",
+      "korean_translation": "마음에?",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

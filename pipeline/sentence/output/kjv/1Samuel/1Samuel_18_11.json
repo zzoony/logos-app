@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 18:11",
+  "version": "KJV",
+  "original_text": "And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.",
+  "korean_text": "그가 스스로 이르기를 내가 다윗을 벽에 박으리라 하고 사울이 그 창을 던졌으나 다윗이 그의 앞에서 두 번 피하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Saul cast the javelin;",
+      "korean_translation": "그리고 사울이 창을 던졌으며",
+      "word_indices": [
+        2253
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for he said,",
+      "korean_translation": "그가 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will smite David even to the wall with it.",
+      "korean_translation": "내가 이것으로 다윗을 벽에 이르게까지 치리라.",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And David avoided out of his presence twice.",
+      "korean_translation": "그리고 다윗이 그의 앞에서 두 번 피했다.",
+      "word_indices": [
+        278,
+        1359,
+        2131
+      ]
+    }
+  ]
+}

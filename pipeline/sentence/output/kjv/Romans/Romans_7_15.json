@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Romans 7:15",
+  "version": "KJV",
+  "original_text": "For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.",
+  "korean_text": "내가 행하는 것을 내가 알지 못하노니 곧 내가 원하는 것은 행하지 아니하고 도리어 미워하는 것을 행함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For that which I do I allow not",
+      "korean_translation": "내가 행하는 것을 내가 허락하지 않으니",
+      "word_indices": [
+        3126
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for what I would, that do I not",
+      "korean_translation": "내가 원하는 바는 내가 행하지 아니하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but what I hate, that do I",
+      "korean_translation": "도리어 미워하는 바는 내가 행하노라",
+      "word_indices": [
+        378
+      ]
+    }
+  ]
+}

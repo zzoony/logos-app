@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Amos 3:4",
+  "version": "KJV",
+  "original_text": "Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?",
+  "korean_text": "사자가 움킨 것이 없는데 어찌 수풀에서 부르짖겠으며 젊은 사자가 잡은 것이 없는데 어찌 굴에서 소리를 내겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Will a lion roar in the forest",
+      "korean_translation": "사자가 숲에서 울부짖을까",
+      "word_indices": [
+        711,
+        752
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he hath no prey?",
+      "korean_translation": "그가 먹이가 없을 때에",
+      "word_indices": [
+        433
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will a young lion cry out of his den",
+      "korean_translation": "어린 사자가 그의 굴에서 외칠까",
+      "word_indices": [
+        1009
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if he have taken nothing?",
+      "korean_translation": "그가 아무것도 잡지 못했으면",
+      "word_indices": []
+    }
+  ]
+}

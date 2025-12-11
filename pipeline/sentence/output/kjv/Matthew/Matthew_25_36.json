@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 25:36",
+  "version": "KJV",
+  "original_text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+  "korean_text": "헐벗었을 때에 옷을 입혔고 병들었을 때에 돌보았고 옥에 갇혔을 때에 와서 보았느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I was naked",
+      "korean_translation": "내가 벗은 몸이었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you clothed me",
+      "korean_translation": "너희가 나를 입혀주었다",
+      "word_indices": [
+        3,
+        1163
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was sick",
+      "korean_translation": "내가 병들었을 때",
+      "word_indices": [
+        376
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you visited me",
+      "korean_translation": "너희가 나를 찾아왔다",
+      "word_indices": [
+        3,
+        478
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I was in prison",
+      "korean_translation": "내가 감옥에 있었을 때",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and you came unto me",
+      "korean_translation": "너희가 내게로 왔다",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

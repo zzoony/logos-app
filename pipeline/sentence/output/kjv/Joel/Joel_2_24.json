@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Joel 2:24",
+  "version": "KJV",
+  "original_text": "And the floors shall be full of wheat, and the vats shall overflow with wine and oil.",
+  "korean_text": "마당에는 밀이 가득하고 독에는 새 포도주와 기름이 넘치리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the floors shall be full of wheat",
+      "korean_translation": "그리고 마룻간은 밀로 가득할 것이며",
+      "word_indices": [
+        618,
+        1234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the vats shall overflow with wine",
+      "korean_translation": "틀은 포도주로 넘쳐흐를 것이며",
+      "word_indices": [
+        138,
+        1057,
+        5351
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and oil",
+      "korean_translation": "기름으로도 넘쳐흐를 것입니다",
+      "word_indices": [
+        154
+      ]
+    }
+  ]
+}

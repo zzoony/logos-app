@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 19:9",
+  "version": "KJV",
+  "original_text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.",
+  "korean_text": "예수께서 이르시되 오늘 구원이 이 집에 이르렀으니 이 사람도 아브라함의 자손임이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said unto him",
+      "korean_translation": "예수께서 그에게 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This day is salvation come to this house",
+      "korean_translation": "오늘 구원이 이 집에 이르렀도다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "forsomuch as he also is a son of Abraham",
+      "korean_translation": "이는 그도 아브라함의 자손임이니라",
+      "word_indices": [
+        9,
+        5490
+      ]
+    }
+  ]
+}

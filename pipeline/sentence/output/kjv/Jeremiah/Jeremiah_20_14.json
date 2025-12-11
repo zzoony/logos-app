@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 20:14",
+  "version": "KJV",
+  "original_text": "Cursed be the day wherein I was born: let not the day wherein my mother bare me be blessed.",
+  "korean_text": "내 생일이 저주를 받았더면, 나의 어머니가 나를 낳던 날이 복이 없었더면,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be the day",
+      "korean_translation": "저주를 받을 날이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "wherein I was born",
+      "korean_translation": "내가 태어난 날",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let not the day",
+      "korean_translation": "그 날이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "wherein my mother bare me",
+      "korean_translation": "내 어머니가 나를 낳은 날이",
+      "word_indices": [
+        171
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "be blessed",
+      "korean_translation": "복을 받지 않기를",
+      "word_indices": []
+    }
+  ]
+}

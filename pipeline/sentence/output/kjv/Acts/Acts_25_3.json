@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Acts 25:3",
+  "version": "KJV",
+  "original_text": "And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.",
+  "korean_text": "베스도의 호의로 바울을 예루살렘으로 옮기기를 청하니 이는 길에 매복하였다가 그를 죽이고자 함이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And desired favour against him",
+      "korean_translation": "그에게 호의를 구했으며",
+      "word_indices": [
+        388
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he would send for him to Jerusalem",
+      "korean_translation": "그가 그를 예루살렘으로 데려오도록 요청했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "laying wait in the way to kill him",
+      "korean_translation": "그를 죽이기 위해 길에 매복하면서",
+      "word_indices": [
+        26,
+        161,
+        223
+      ]
+    }
+  ]
+}

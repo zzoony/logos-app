@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Exodus 21:12",
+  "version": "KJV",
+  "original_text": "He that smiteth a man, so that he die, shall be surely put to death.",
+  "korean_text": "사람을 쳐죽인 자는 반드시 죽일 것이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that smiteth a man",
+      "korean_translation": "사람을 때리는 자는",
+      "word_indices": [
+        1612
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that he die",
+      "korean_translation": "죽게 하는 경우에는",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall be surely put to death",
+      "korean_translation": "반드시 죽임을 당해야 한다",
+      "word_indices": []
+    }
+  ]
+}

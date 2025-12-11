@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 6:30",
+  "version": "KJV",
+  "original_text": "Give to every man that asketh of thee; and of him that taketh away thy goods ask them not again.",
+  "korean_text": "네게 구하는 자에게 주며 네 것을 가져가는 자에게 다시 달라 하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Give to every man",
+      "korean_translation": "모든 사람에게 주라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that asketh of thee",
+      "korean_translation": "네게 구하는 자에게",
+      "word_indices": [
+        2,
+        1741
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and of him",
+      "korean_translation": "그리고 그에게서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that taketh away thy goods",
+      "korean_translation": "네 물건을 가져가는 자에게서",
+      "word_indices": [
+        429
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "ask them not again",
+      "korean_translation": "다시 요구하지 말라",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

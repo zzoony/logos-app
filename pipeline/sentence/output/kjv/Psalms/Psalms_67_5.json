@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 67:5",
+  "version": "KJV",
+  "original_text": "Let the people praise thee, O God; let all the people praise thee.",
+  "korean_text": "하나님이여 민족들이 주를 찬송하게 하시며 모든 민족으로 주를 찬송하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let the people praise thee",
+      "korean_translation": "백성들이 주를 찬양하게 하소서",
+      "word_indices": [
+        2,
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O God",
+      "korean_translation": "오 하나님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let all the people praise thee",
+      "korean_translation": "모든 백성이 주를 찬양하게 하소서",
+      "word_indices": [
+        2,
+        5
+      ]
+    }
+  ]
+}

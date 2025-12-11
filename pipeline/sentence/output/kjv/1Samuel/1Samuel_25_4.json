@@ -1,0 +1,29 @@
+{
+  "verse_reference": "1 Samuel 25:4",
+  "version": "KJV",
+  "original_text": "And David heard in the wilderness that Nabal did shear his sheep.",
+  "korean_text": "다윗이 나발이 자기 양 털을 깎는다 함을 광야에서 들은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And David heard",
+      "korean_translation": "그리고 다윗이 들었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the wilderness",
+      "korean_translation": "광야에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that Nabal did shear his sheep",
+      "korean_translation": "나발이 그의 양을 털고 있다는 것을",
+      "word_indices": [
+        170,
+        2215
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "verse_reference": "1 Timothy 5:18",
+  "version": "KJV",
+  "original_text": "For the scripture saith, thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward.",
+  "korean_text": "성경에 일렀으되 곡식을 밟아 떠는 소의 입에 망을 씌우지 말라 하였고 또 일꾼이 그 삯을 받는 것은 마땅하다 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the scripture saith",
+      "korean_translation": "성경은 말하되",
+      "word_indices": [
+        13,
+        599
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thou shalt not muzzle the ox",
+      "korean_translation": "너는 소의 입에 막을 씌우지 말라",
+      "word_indices": [
+        195,
+        3264
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that treadeth out the corn",
+      "korean_translation": "곡식을 밟는 소에게",
+      "word_indices": [
+        326,
+        1862
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And",
+      "korean_translation": "또한",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The labourer is worthy",
+      "korean_translation": "일꾼은 합당하니",
+      "word_indices": [
+        1807
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "of his reward",
+      "korean_translation": "그의 보상을 받을 만하다",
+      "word_indices": [
+        329
+      ]
+    }
+  ]
+}

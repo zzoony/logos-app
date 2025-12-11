@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Exodus 17:3",
+  "version": "KJV",
+  "original_text": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?",
+  "korean_text": "거기서 백성이 목이 말라 물을 찾으매 그들이 모세에게 대하여 원망하여 이르되 당신이 어찌하여 우리를 애굽에서 인도해 내어서 우리와 우리 자녀와 우리 가축이 목말라 죽게 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And people thirsted there for water",
+      "korean_translation": "사람들이 그곳에서 물을 목말라 했으며",
+      "word_indices": [
+        5,
+        32,
+        891
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the people murmured against Moses",
+      "korean_translation": "백성들이 모세를 원망하여",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said, Wherefore is this",
+      "korean_translation": "말하기를, 어찌하여 이것이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that thou hast brought us up out of Egypt",
+      "korean_translation": "당신이 우리를 애굽에서 인도해 낸 것입니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to kill us and our children",
+      "korean_translation": "우리와 우리 자녀들을 죽이려 함이니이까",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and our cattle with thirst?",
+      "korean_translation": "그리고 우리 가축들을 목마름으로 죽이려 하시나이까?",
+      "word_indices": [
+        217,
+        891
+      ]
+    }
+  ]
+}

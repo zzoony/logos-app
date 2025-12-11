@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 97:1",
+  "version": "KJV",
+  "original_text": "The Lord reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+  "korean_text": "여호와께서 다스리시나니 땅은 즐거워하며 허다한 섬은 기뻐할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord reigneth",
+      "korean_translation": "주께서 통치하시니",
+      "word_indices": [
+        1639
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let the earth rejoice",
+      "korean_translation": "땅이 즐거워하게 하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let the multitude of isles be glad thereof",
+      "korean_translation": "수많은 섬들이 그것으로 기뻐하게 하라",
+      "word_indices": [
+        24,
+        113,
+        371
+      ]
+    }
+  ]
+}

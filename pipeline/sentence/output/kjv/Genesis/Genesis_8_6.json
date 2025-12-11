@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 8:6",
+  "version": "KJV",
+  "original_text": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
+  "korean_text": "사십 일을 지나서 노아가 그 방주에 낸 창문을 열고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass at the end of forty days",
+      "korean_translation": "40일이 끝났을 때",
+      "word_indices": [
+        27,
+        73
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Noah opened the window of the ark",
+      "korean_translation": "노아가 방주의 창문을 열었으니",
+      "word_indices": [
+        140,
+        678
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which he had made",
+      "korean_translation": "그가 만들었던 것",
+      "word_indices": []
+    }
+  ]
+}

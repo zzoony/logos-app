@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Psalms 9:13",
+  "version": "KJV",
+  "original_text": "Have mercy upon me, O Lord; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+  "korean_text": "여호와여 내게 은혜를 베푸소서 나를 사망의 문에서 일으키시는 주여 나를 미워하는 자에게서 받는 나의 고통을 보소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Have mercy upon me",
+      "korean_translation": "나에게 자비를 베푸소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "consider my trouble",
+      "korean_translation": "나의 고난을 헤아려 보소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which I suffer of them that hate me",
+      "korean_translation": "나를 미워하는 자들에게서 내가 받는 고난",
+      "word_indices": [
+        1,
+        378
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "thou that liftest me up",
+      "korean_translation": "나를 일으키시는 주시여",
+      "word_indices": [
+        3015
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "from the gates of death",
+      "korean_translation": "죽음의 문에서",
+      "word_indices": [
+        1225
+      ]
+    }
+  ]
+}

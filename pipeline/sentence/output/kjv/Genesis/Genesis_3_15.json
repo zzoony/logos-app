@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 3:15",
+  "version": "KJV",
+  "original_text": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.",
+  "korean_text": "내가 너로 여자와 원수가 되게 하고 네 후손도 여자의 후손과 원수가 되게 하리니 여자의 후손은 네 머리를 상하게 할 것이요 너는 그의 발꿈치를 상하게 할 것이니라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will put enmity",
+      "korean_translation": "그리고 내가 원수 관계를 두겠다",
+      "word_indices": [
+        2056
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "between thee and the woman",
+      "korean_translation": "너와 그 여자 사이에",
+      "word_indices": [
+        2,
+        139
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and between thy seed and her seed",
+      "korean_translation": "그리고 네 씨와 그 여자의 씨 사이에",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it shall bruise thy head",
+      "korean_translation": "그것이 네 머리를 상하게 할 것이다",
+      "word_indices": [
+        1222
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and thou shalt bruise his heel",
+      "korean_translation": "그리고 너는 그의 발꿈치를 상하게 할 것이다",
+      "word_indices": [
+        1222,
+        1812
+      ]
+    }
+  ]
+}

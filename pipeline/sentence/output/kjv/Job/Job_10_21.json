@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Job 10:21",
+  "version": "KJV",
+  "original_text": "Before I go whence I shall not return, even to the land of darkness and the shadow of death;",
+  "korean_text": "내가 돌아오지 못할 땅 곧 어둡고 죽음의 그늘진 땅으로 가기 전에 그리하옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Before I go",
+      "korean_translation": "내가 가기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whence I shall not return",
+      "korean_translation": "내가 돌아오지 못할 곳으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even to the land of darkness",
+      "korean_translation": "어둠의 땅으로",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the shadow of death",
+      "korean_translation": "사망의 그늘로",
+      "word_indices": [
+        404
+      ]
+    }
+  ]
+}

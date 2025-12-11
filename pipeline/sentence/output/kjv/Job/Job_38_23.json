@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Job 38:23",
+  "version": "KJV",
+  "original_text": "Which I have reserved against the time of trouble, against the day of battle and war?",
+  "korean_text": "내가 환난 때와 교전과 전쟁의 날을 위하여 이것을 남겨 두었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Which I have reserved",
+      "korean_translation": "내가 예비해 둔 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "against the time of trouble",
+      "korean_translation": "환난의 때를 위하여",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "against the day of battle and war",
+      "korean_translation": "전쟁과 싸움의 날을 위하여",
+      "word_indices": [
+        123,
+        182
+      ]
+    }
+  ]
+}

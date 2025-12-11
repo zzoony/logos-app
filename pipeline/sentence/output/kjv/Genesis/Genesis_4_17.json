@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Genesis 4:17",
+  "version": "KJV",
+  "original_text": "And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.",
+  "korean_text": "아내와 동침하매 그가 임신하여 에녹을 낳은지라 가인이 성을 쌓고 그의 아들의 이름으로 성을 이름하여 에녹이라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Cain knew his wife",
+      "korean_translation": "가인은 자기 아내를 알았고",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and she conceived",
+      "korean_translation": "그녀는 임태하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bare Enoch",
+      "korean_translation": "에녹을 낳았더라",
+      "word_indices": [
+        171
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he builded a city",
+      "korean_translation": "그가 성을 쌓았으며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and called the name of the city",
+      "korean_translation": "그 성의 이름을 불렀으니",
+      "word_indices": [
+        12,
+        16
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "after the name of his son, Enoch",
+      "korean_translation": "자기 아들의 이름 에녹을 따라라",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

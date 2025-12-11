@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Romans 5:7",
+  "version": "KJV",
+  "original_text": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.",
+  "korean_text": "의인을 위하여 죽는 자가 쉽지 않고 선인을 위하여 용감히 죽는 자가 혹 있거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For scarcely for a righteous man will one die",
+      "korean_translation": "이는 의로운 사람을 위해서는 거의 아무도 죽지 않기 때문이다",
+      "word_indices": [
+        44,
+        4242
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet peradventure for a good man",
+      "korean_translation": "그러나 어쩌면 선한 사람을 위해서는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "some would even dare to die",
+      "korean_translation": "어떤 이들은 감히 죽기까지도 할 것이다",
+      "word_indices": [
+        44,
+        2748
+      ]
+    }
+  ]
+}

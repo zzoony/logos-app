@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 69:15",
+  "version": "KJV",
+  "original_text": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.",
+  "korean_text": "큰 물이 나를 휩쓸거나 깊음이 나를 삼키지 못하게 하시며 웅덩이가 내 위에 덮쳐 그것의 입을 닫지 못하게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let not the waterflood overflow me",
+      "korean_translation": "홍수가 나를 덮지 못하게 하소서",
+      "word_indices": [
+        1057,
+        4924
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither let the deep swallow me up",
+      "korean_translation": "깊은 물이 나를 삼키지 못하게 하소서",
+      "word_indices": [
+        448,
+        645
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let not the pit shut her mouth upon me",
+      "korean_translation": "그리고 구덩이가 나를 위해 그 입을 닫지 못하게 하소서",
+      "word_indices": [
+        60,
+        311,
+        357
+      ]
+    }
+  ]
+}

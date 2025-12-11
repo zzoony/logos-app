@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 21:11",
+  "version": "KJV",
+  "original_text": "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken.",
+  "korean_text": "시몬 베드로가 올라가서 그물을 육지에 끌어 올리니 가득히 찬 큰 물고기가 백쉰세 마리라 이같이 많으나 그물이 찢어지지 아니하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon Peter went up",
+      "korean_translation": "시몬 베드로가 올라갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and drew the net to land",
+      "korean_translation": "그물을 육지로 끌어왔는데",
+      "word_indices": [
+        10,
+        608
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "full of great fishes",
+      "korean_translation": "큰 물고기들로 가득했다",
+      "word_indices": [
+        487
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "an hundred and fifty and three",
+      "korean_translation": "백쉰세 마리였다",
+      "word_indices": [
+        50,
+        196
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and for all there were so many",
+      "korean_translation": "비록 그렇게 많았지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "yet was not the net broken",
+      "korean_translation": "그물은 찢어지지 않았다",
+      "word_indices": [
+        608
+      ]
+    }
+  ]
+}

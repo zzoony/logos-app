@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 6:50",
+  "version": "KJV",
+  "original_text": "This is the bread which cometh down from heaven, that a man may eat thereof, and not die.",
+  "korean_text": "이는 하늘에서 내려오는 떡이니 사람으로 하여금 먹고 죽지 아니하게 하는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the bread",
+      "korean_translation": "이것은 그 빵입니다",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which cometh down from heaven",
+      "korean_translation": "하늘에서 내려오는",
+      "word_indices": [
+        14,
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that a man may eat thereof",
+      "korean_translation": "사람이 그것을 먹을 수 있도록",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and not die",
+      "korean_translation": "그리고 죽지 않도록",
+      "word_indices": [
+        44
+      ]
+    }
+  ]
+}

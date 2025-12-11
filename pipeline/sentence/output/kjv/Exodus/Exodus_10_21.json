@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 10:21",
+  "version": "KJV",
+  "original_text": "And the Lord said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.",
+  "korean_text": "여호와께서 모세에게 이르시되 하늘을 향하여 네 손을 내밀어 애굽 땅 위에 흑암이 있게 하라 곧 더듬을 만한 흑암이리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said unto Moses",
+      "korean_translation": "주께서 모세에게 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Stretch out thine hand toward heaven",
+      "korean_translation": "네 손을 하늘을 향해 내밀라",
+      "word_indices": [
+        8,
+        86
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that there may be darkness over the land of Egypt",
+      "korean_translation": "애굽 땅에 어둠이 있게 하려 함이라",
+      "word_indices": [
+        10,
+        18
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even darkness which may be felt",
+      "korean_translation": "곧 만질 수 있는 어둠이니라",
+      "word_indices": [
+        2590
+      ]
+    }
+  ]
+}

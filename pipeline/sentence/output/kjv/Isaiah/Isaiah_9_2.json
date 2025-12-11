@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Isaiah 9:2",
+  "version": "KJV",
+  "original_text": "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.",
+  "korean_text": "흑암에 행하던 백성이 큰 빛을 보고 사망의 그늘진 땅에 거주하던 자에게 빛이 비치도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people that walked in darkness",
+      "korean_translation": "어둠 속을 걷던 백성이",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "have seen a great light",
+      "korean_translation": "큰 빛을 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they that dwell in the land of the shadow of death",
+      "korean_translation": "사망의 그늘 땅에 사는 자들에게",
+      "word_indices": [
+        10,
+        404
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "upon them hath the light shined",
+      "korean_translation": "그들 위에 빛이 비췄다",
+      "word_indices": [
+        1,
+        1258
+      ]
+    }
+  ]
+}

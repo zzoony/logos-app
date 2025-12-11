@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 9:6",
+  "version": "KJV",
+  "original_text": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,",
+  "korean_text": "이 말씀을 하시고 땅에 침을 뱉어 진흙을 이겨 그의 눈에 바르시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he had thus spoken,",
+      "korean_translation": "그가 이렇게 말씀하신 후에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he spat on the ground,",
+      "korean_translation": "그는 땅에 침을 뱉고,",
+      "word_indices": [
+        3499,
+        5514
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and made clay of the spittle,",
+      "korean_translation": "그 침으로 진흙을 만들고,",
+      "word_indices": [
+        901,
+        3314
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he anointed the eyes of the blind man",
+      "korean_translation": "그는 소경의 눈에 바르고,",
+      "word_indices": [
+        208,
+        380
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with the clay,",
+      "korean_translation": "그 진흙을 사용했습니다.",
+      "word_indices": [
+        901
+      ]
+    }
+  ]
+}

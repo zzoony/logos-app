@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Ecclesiastes 12:2",
+  "version": "KJV",
+  "original_text": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
+  "korean_text": "해와 빛과 달과 별들이 어둡기 전에, 비 뒤에 구름이 다시 일어나기 전에 그리하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While the sun be not darkened",
+      "korean_translation": "해가 어두워지지 않는 동안",
+      "word_indices": [
+        1235
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or the light be not darkened",
+      "korean_translation": "빛이 어두워지지 않는 동안",
+      "word_indices": [
+        15,
+        1235
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or the moon be not darkened",
+      "korean_translation": "달이 어두워지지 않는 동안",
+      "word_indices": [
+        15,
+        1235
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or the stars be not darkened",
+      "korean_translation": "별들이 어두워지지 않는 동안",
+      "word_indices": [
+        15,
+        1235
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "nor the clouds return after the rain",
+      "korean_translation": "비 온 후에 구름이 돌아오지 않는 동안",
+      "word_indices": [
+        31,
+        214,
+        299
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 27:21",
+  "version": "KJV",
+  "original_text": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not.",
+  "korean_text": "이삭이 야곱에게 이르되 내 아들아 가까이 오라 네가 과연 내 아들 에서인지 아닌지 내가 너를 만져보려 하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Isaac said unto Jacob",
+      "korean_translation": "이삭이 야곱에게 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Come near, I pray thee",
+      "korean_translation": "부디 내게 가까이 오라",
+      "word_indices": [
+        2,
+        150
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I may feel thee, my son",
+      "korean_translation": "내가 너를 만져보기 위함이니, 내 아들아",
+      "word_indices": [
+        2,
+        1923
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whether thou be my very son Esau or not",
+      "korean_translation": "네가 참으로 내 아들 에서인지 아닌지 알기 위함이라",
+      "word_indices": [
+        15,
+        119
+      ]
+    }
+  ]
+}

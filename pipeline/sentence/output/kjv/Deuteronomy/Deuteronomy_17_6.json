@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Deuteronomy 17:6",
+  "version": "KJV",
+  "original_text": "At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; but at the mouth of one witness he shall not be put to death.",
+  "korean_text": "죽일 자를 두 사람이나 세 사람의 증언으로 죽일 것이요 한 사람의 증언으로는 죽이지 말 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At the mouth of two witnesses",
+      "korean_translation": "두 증인의 입으로",
+      "word_indices": [
+        60,
+        169
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or three witnesses",
+      "korean_translation": "또는 세 증인의 입으로",
+      "word_indices": [
+        15,
+        50,
+        169
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall he that is worthy of death be put to death",
+      "korean_translation": "사형에 합당한 자는 죽여야 하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but at the mouth of one witness",
+      "korean_translation": "그러나 한 증인의 입으로는",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he shall not be put to death",
+      "korean_translation": "그를 죽이지 못할 것이며",
+      "word_indices": []
+    }
+  ]
+}

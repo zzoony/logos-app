@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 7:2",
+  "version": "KJV",
+  "original_text": "And a certain centurion's servant, who was dear unto him, was sick, and ready to die.",
+  "korean_text": "어떤 백부장의 사랑하는 종이 병들어 죽게 되었더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And a certain centurion's servant",
+      "korean_translation": "그리고 어떤 백부장의 종이",
+      "word_indices": [
+        19,
+        164,
+        1119
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who was dear unto him",
+      "korean_translation": "그에게 귀한 자가",
+      "word_indices": [
+        2344
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was sick",
+      "korean_translation": "병들었고",
+      "word_indices": [
+        376
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ready to die",
+      "korean_translation": "죽게 되었더라",
+      "word_indices": [
+        44,
+        336
+      ]
+    }
+  ]
+}

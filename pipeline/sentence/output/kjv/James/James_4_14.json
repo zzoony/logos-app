@@ -1,0 +1,56 @@
+{
+  "verse_reference": "James 4:14",
+  "version": "KJV",
+  "original_text": "Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.",
+  "korean_text": "내일 일을 너희가 알지 못하는도다 너희 생명이 무엇이냐 너희는 잠깐 보이다가 없어지는 안개니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whereas ye know not",
+      "korean_translation": "그러나 너희는 알지 못하느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what shall be on the morrow.",
+      "korean_translation": "내일 일이 어떻게 될는지를",
+      "word_indices": [
+        325
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For what is your life?",
+      "korean_translation": "너희의 생명이 무엇이냐",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is even a vapour,",
+      "korean_translation": "너희의 생명은 한 날의 안개와 같아서",
+      "word_indices": [
+        2159
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that appeareth for a little time,",
+      "korean_translation": "잠시 나타났다가",
+      "word_indices": [
+        30,
+        131,
+        1847
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and then vanisheth away.",
+      "korean_translation": "곧 사라지느니라",
+      "word_indices": [
+        3877
+      ]
+    }
+  ]
+}

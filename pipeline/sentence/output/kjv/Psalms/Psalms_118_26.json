@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 118:26",
+  "version": "KJV",
+  "original_text": "Blessed be he that cometh in the name of the Lord: we have blessed you out of the house of the Lord.",
+  "korean_text": "여호와의 이름으로 오는 자가 복이 있음이여 우리가 여호와의 집에서 너희를 축복하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed be he that cometh",
+      "korean_translation": "복이 있을지어다 오는 자는",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the name of the Lord",
+      "korean_translation": "주의 이름으로 오는 자는",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we have blessed you",
+      "korean_translation": "우리가 너희를 축복하였노라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "out of the house of the Lord",
+      "korean_translation": "주의 집에서 나와서",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

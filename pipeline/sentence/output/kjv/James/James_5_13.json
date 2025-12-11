@@ -1,0 +1,41 @@
+{
+  "verse_reference": "James 5:13",
+  "version": "KJV",
+  "original_text": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms.",
+  "korean_text": "너희 중에 고난 당하는 자가 있느냐 그는 기도할 것이요 즐거워하는 자가 있느냐 그는 찬송할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is any among you afflicted?",
+      "korean_translation": "너희 중에 고난 당하는 자가 있느냐?",
+      "word_indices": [
+        3,
+        22,
+        365
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "let him pray.",
+      "korean_translation": "그는 기도할지니라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Is any merry?",
+      "korean_translation": "기쁜 자가 있느냐?",
+      "word_indices": [
+        22,
+        998
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "let him sing psalms.",
+      "korean_translation": "그는 시를 찬송할지니라.",
+      "word_indices": [
+        1511
+      ]
+    }
+  ]
+}

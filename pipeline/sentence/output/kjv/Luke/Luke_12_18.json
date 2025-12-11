@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 12:18",
+  "version": "KJV",
+  "original_text": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.",
+  "korean_text": "또 이르되 내가 이렇게 하리라 내 곳간을 헐고 더 크게 짓고 내 모든 곡식과 물건을 거기 쌓아 두리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그가 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This will I do",
+      "korean_translation": "내가 이렇게 하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will pull down my barns",
+      "korean_translation": "내가 내 창고를 허물고",
+      "word_indices": [
+        14,
+        1093,
+        2160
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and build greater",
+      "korean_translation": "더 크게 지으리라",
+      "word_indices": [
+        414
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and there will I bestow all my fruits and my goods",
+      "korean_translation": "거기 내 모든 곡물과 물건을 쌓아두리라",
+      "word_indices": [
+        124,
+        1130
+      ]
+    }
+  ]
+}

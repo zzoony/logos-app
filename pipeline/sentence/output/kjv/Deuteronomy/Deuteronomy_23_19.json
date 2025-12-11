@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Deuteronomy 23:19",
+  "version": "KJV",
+  "original_text": "Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:",
+  "korean_text": "네가 형제에게 꾸어주거든 이자를 받지 말지니 곧 돈의 이자, 식물의 이자, 이자를 낼 만한 모든 것의 이자를 받지 말 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou shalt not lend upon usury to thy brother",
+      "korean_translation": "너는 네 형제에게 이자를 놓고 빌려주지 말라",
+      "word_indices": [
+        1105,
+        1128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "usury of money",
+      "korean_translation": "돈의 이자",
+      "word_indices": [
+        234,
+        1105
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "usury of victuals",
+      "korean_translation": "식물의 이자",
+      "word_indices": [
+        1105,
+        1152
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "usury of any thing that is lent upon usury",
+      "korean_translation": "이자를 놓고 빌려주는 모든 것의 이자",
+      "word_indices": [
+        22,
+        1105
+      ]
+    }
+  ]
+}

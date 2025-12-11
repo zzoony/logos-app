@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 73:25",
+  "version": "KJV",
+  "original_text": "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.",
+  "korean_text": "하늘에서는 주 외에 누가 내게 있으리요 땅에서는 주 밖에 내가 사모할 이 없나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whom have I in heaven",
+      "korean_translation": "내가 하늘에서 누구를 있겠는가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but thee?",
+      "korean_translation": "오직 주님 외에는",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and there is none upon earth",
+      "korean_translation": "땅에는 아무도 없고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I desire beside thee.",
+      "korean_translation": "내가 주님 외에 원하는 이는 없도다",
+      "word_indices": [
+        2,
+        180,
+        247
+      ]
+    }
+  ]
+}

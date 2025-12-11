@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 10:27",
+  "version": "KJV",
+  "original_text": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.",
+  "korean_text": "예수께서 그들을 보시며 이르시되 사람으로는 할 수 없으되 하나님으로는 그렇지 아니하니 하나님으로서는 다 하실 수 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus looking upon them saith",
+      "korean_translation": "예수께서 그들을 보시고 말씀하시되",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "With men it is impossible",
+      "korean_translation": "사람으로서는 불가능하나",
+      "word_indices": [
+        2051
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but not with God",
+      "korean_translation": "하나님으로서는不然",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for with God all things are possible",
+      "korean_translation": "하나님에게는 모든 것이 가능하니라",
+      "word_indices": [
+        11,
+        1528
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 5:11",
+  "version": "KJV",
+  "original_text": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.",
+  "korean_text": "나로 말미암아 너희를 욕하고 박해하고 거짓으로 너희를 거슬러 모든 악한 말을 할 때에는 너희에게 복이 있나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed are ye",
+      "korean_translation": "너희는 복이 있나니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when men shall revile you",
+      "korean_translation": "사람들이 너희를 욕할 때",
+      "word_indices": [
+        3,
+        2088
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and persecute you",
+      "korean_translation": "너희를 박해하고",
+      "word_indices": [
+        3,
+        686
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and shall say all manner of evil against you falsely",
+      "korean_translation": "거짓으로 너희를 거슬러 모든 악한 말을 할 때",
+      "word_indices": [
+        3,
+        35,
+        156,
+        1185
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for my sake",
+      "korean_translation": "나를 위함이라",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

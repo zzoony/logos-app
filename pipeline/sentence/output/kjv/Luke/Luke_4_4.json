@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 4:4",
+  "version": "KJV",
+  "original_text": "And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.",
+  "korean_text": "예수께서 대답하시되 기록된 바 사람이 떡으로만 살 것이 아니라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus answered him, saying,",
+      "korean_translation": "예수께서 그에게 대답하여 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is written,",
+      "korean_translation": "기록된 바",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That man shall not live by bread alone,",
+      "korean_translation": "사람이 떡으로만 살 것이 아니요",
+      "word_indices": [
+        79,
+        306
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but by every word of God.",
+      "korean_translation": "하나님의 모든 말씀으로 살 것이다",
+      "word_indices": []
+    }
+  ]
+}

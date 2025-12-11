@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Luke 9:13",
+  "version": "KJV",
+  "original_text": "But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.",
+  "korean_text": "예수께서 이르시되 너희가 먹을 것을 주라 하시니 여짜오되 우리에게 떡 다섯 개와 물고기 두 마리밖에 없으니 이 모든 사람을 위하여 먹을 것을 사지 아니하고서는 할 수 없사옵나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But he said unto them",
+      "korean_translation": "그러나 그가 그들에게 말하기를",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Give ye them to eat",
+      "korean_translation": "너희가 그들에게 먹을 것을 주라",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And they said",
+      "korean_translation": "그들이 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We have no more but five loaves",
+      "korean_translation": "우리에게는 다섯 개의 떡밖에 없다",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and two fishes",
+      "korean_translation": "그리고 두 마리의 생선",
+      "word_indices": [
+        487
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "except we should go",
+      "korean_translation": "우리가 가야 하는 것을 제외하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and buy meat for all this people",
+      "korean_translation": "이 모든 사람들을 위해 고기를 사다",
+      "word_indices": [
+        5,
+        99
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 1:1",
+  "version": "KJV",
+  "original_text": "Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.",
+  "korean_text": "다윗 왕이 나이가 많아 늙으니 이불을 덮어도 따뜻하지 아니한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now king David was old",
+      "korean_translation": "이제 다윗 왕은 늙었고",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and stricken in years",
+      "korean_translation": "나이가 많았으며",
+      "word_indices": [
+        23,
+        1307
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they covered him with clothes",
+      "korean_translation": "그들이 그를 옷으로 덮었으나",
+      "word_indices": [
+        1163
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he gat no heat",
+      "korean_translation": "그는 온기를 얻지 못하였더라",
+      "word_indices": [
+        871,
+        1225
+      ]
+    }
+  ]
+}

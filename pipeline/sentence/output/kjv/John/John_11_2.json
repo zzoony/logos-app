@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 11:2",
+  "version": "KJV",
+  "original_text": "(It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)",
+  "korean_text": "이 마리아는 향유를 주께 붓고 머리털로 주의 발을 닦던 자요 병든 나사로는 그의 오라버니더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It was that Mary",
+      "korean_translation": "그 마리아였으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which anointed the Lord with ointment",
+      "korean_translation": "주님에게 향유를 부은",
+      "word_indices": [
+        208,
+        915
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and wiped his feet with her hair",
+      "korean_translation": "그리고 자신의 머리털로 주님의 발을 닦아드린",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whose brother Lazarus was sick",
+      "korean_translation": "그녀의 오라버니 나사로가 병들었던",
+      "word_indices": [
+        376
+      ]
+    }
+  ]
+}

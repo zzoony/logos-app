@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Acts 23:27",
+  "version": "KJV",
+  "original_text": "This man was taken of the Jews, and should have been killed of them: then came I with an army, and rescued him, having understood that he was a Roman.",
+  "korean_text": "이 사람이 유대인들에게 잡혀 죽게 된 것을 내가 로마 사람인 줄 들어 알고 군대를 거느리고 가서 구원하여다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This man was taken of the Jews",
+      "korean_translation": "이 사람은 유대인들에게 붙잡혔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and should have been killed of them",
+      "korean_translation": "그들에게 죽임을 당했어야 했습니다",
+      "word_indices": [
+        1,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then came I with an army",
+      "korean_translation": "그때 내가 군대를 이끌고 왔습니다",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and rescued him",
+      "korean_translation": "그를 구출했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "having understood that he was a Roman",
+      "korean_translation": "그가 로마 사람이라는 것을 이해하고",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Timothy 4:11",
+  "version": "KJV",
+  "original_text": "These things command and teach.",
+  "korean_text": "너는 이것들을 명하고 가르치라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These things",
+      "korean_translation": "이것들을",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "command",
+      "korean_translation": "명령하라",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and teach",
+      "korean_translation": "그리고 가르치라",
+      "word_indices": [
+        147
+      ]
+    }
+  ]
+}

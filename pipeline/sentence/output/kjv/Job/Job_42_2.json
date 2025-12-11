@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Job 42:2",
+  "version": "KJV",
+  "original_text": "I know that thou canst do every thing, and that no thought can be withholden from thee.",
+  "korean_text": "주께서는 못 하실 일이 없사오며 무슨 계획이든지 못 이루실 것이 없는 줄 아오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know",
+      "korean_translation": "나는 안다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that thou canst do every thing",
+      "korean_translation": "당신이 모든 것을 할 수 있다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and that no thought",
+      "korean_translation": "그리고 어떤 생각도",
+      "word_indices": [
+        546
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "can be withholden from thee",
+      "korean_translation": "당신에게서 숨겨질 수 없다는 것을",
+      "word_indices": [
+        2,
+        1881
+      ]
+    }
+  ]
+}

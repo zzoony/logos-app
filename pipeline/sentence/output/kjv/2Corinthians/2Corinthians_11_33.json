@@ -1,0 +1,35 @@
+{
+  "verse_reference": "2 Corinthians 11:33",
+  "version": "KJV",
+  "original_text": "And through a window in a basket was I let down by the wall, and escaped his hands.",
+  "korean_text": "나는 광주리를 타고 들창문으로 성벽을 내려가 그 손에서 벗어났노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And through a window in a basket",
+      "korean_translation": "그리고 창문을 통해 바구니 안에 있어",
+      "word_indices": [
+        57,
+        678,
+        798
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was I let down by the wall",
+      "korean_translation": "나는 성벽을 통해 내려보내졌다",
+      "word_indices": [
+        14,
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and escaped his hands",
+      "korean_translation": "그리고 그의 손을 피해 도망쳤다",
+      "word_indices": [
+        8
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Job 7:5",
+  "version": "KJV",
+  "original_text": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
+  "korean_text": "내 살에는 구더기와 흙 덩이가 의복처럼 입혀졌고 내 피부는 굳어졌다가 터지는구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My flesh is clothed with worms",
+      "korean_translation": "나의 살은 벌레로 덮여 있고",
+      "word_indices": [
+        67,
+        1160,
+        1163
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and clods of dust",
+      "korean_translation": "흙 덩어리로 뒤덮여 있으며",
+      "word_indices": [
+        305,
+        2501
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my skin is broken",
+      "korean_translation": "나의 피부는 터져서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and become loathsome",
+      "korean_translation": "역겨워졌다",
+      "word_indices": [
+        132,
+        2898
+      ]
+    }
+  ]
+}

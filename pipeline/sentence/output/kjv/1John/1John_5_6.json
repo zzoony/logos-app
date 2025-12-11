@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 John 5:6",
+  "version": "KJV",
+  "original_text": "This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.",
+  "korean_text": "이는 물과 피로 임하신 이시니 곧 예수 그리스도시라 물로만 아니요 물과 피로 임하셨고 증언하는 이는 성령이시니 성령은 진리니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is he that came by water and blood",
+      "korean_translation": "이 분이 물과 피로 오신 이시니",
+      "word_indices": [
+        32,
+        59
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even Jesus Christ",
+      "korean_translation": "곧 예수 그리스도시라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "not by water only",
+      "korean_translation": "물로만 아니요",
+      "word_indices": [
+        32,
+        121
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but by water and blood",
+      "korean_translation": "물과 피로 오셨느니라",
+      "word_indices": [
+        32,
+        59
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And it is the Spirit that beareth witness",
+      "korean_translation": "증거하는 이는 성령이시니",
+      "word_indices": [
+        1082
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because the Spirit is truth",
+      "korean_translation": "성령은 진리이심이라",
+      "word_indices": []
+    }
+  ]
+}

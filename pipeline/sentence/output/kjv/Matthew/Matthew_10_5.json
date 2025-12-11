@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 10:5",
+  "version": "KJV",
+  "original_text": "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:",
+  "korean_text": "예수께서 이 열둘을 내보내시며 명하여 이르시되 이방인의 길로도 가지 말고 사마리아인의 고을에도 들어가지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These twelve Jesus sent forth,",
+      "korean_translation": "예수님은 이 열두 사람을 보내시고,",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and commanded them,",
+      "korean_translation": "그들에게 명령하여 말씀하셨다.",
+      "word_indices": [
+        1,
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying,",
+      "korean_translation": "말씀하시기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Go not into the way of the Gentiles,",
+      "korean_translation": "이방인의 길로 들어가지 말고,",
+      "word_indices": [
+        7,
+        26
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and into any city of the Samaritans",
+      "korean_translation": "사마리아인의 어떤 도시에도",
+      "word_indices": [
+        7,
+        12,
+        22
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "enter ye not:",
+      "korean_translation": "들어가지 말라.",
+      "word_indices": []
+    }
+  ]
+}

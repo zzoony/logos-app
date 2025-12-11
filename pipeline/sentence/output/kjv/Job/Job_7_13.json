@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Job 7:13",
+  "version": "KJV",
+  "original_text": "When I say, My bed shall comfort me, my couch shall ease my complaints;",
+  "korean_text": "혹시 내가 말하기를 내 잠자리가 나를 위로하고 내 침상이 내 수심을 풀리라 할 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I say,",
+      "korean_translation": "내가 말할 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My bed shall comfort me,",
+      "korean_translation": "내 침대가 나를 위로할 것이다,",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my couch shall ease my complaints;",
+      "korean_translation": "내 소파가 나의 불평을 덜어줄 것이다.",
+      "word_indices": [
+        1601,
+        1995
+      ]
+    }
+  ]
+}

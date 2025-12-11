@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Deuteronomy 2:6",
+  "version": "KJV",
+  "original_text": "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.",
+  "korean_text": "너희는 돈으로 그들에게서 양식을 사서 먹고 돈으로 그들에게서 물을 사서 마시라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye shall buy meat of them for money",
+      "korean_translation": "너희는 돈을 주고 그들에게서 고기를 사야 한다",
+      "word_indices": [
+        1,
+        99,
+        234
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that ye may eat",
+      "korean_translation": "그리하여 너희가 먹을 수 있게 하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ye shall also buy water of them for money",
+      "korean_translation": "그리고 너희는 또한 돈을 주고 그들에게서 물을 사야 한다",
+      "word_indices": [
+        1,
+        9,
+        32,
+        234
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that ye may drink",
+      "korean_translation": "그리하여 너희가 마실 수 있게 하라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Matthew 20:5",
+  "version": "KJV",
+  "original_text": "Again he went out about the sixth and ninth hour, and did likewise.",
+  "korean_text": "제육시와 제구시에 또 나가 그와 같이 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Again he went out",
+      "korean_translation": "그가 다시 나아가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about the sixth and ninth hour",
+      "korean_translation": "여섯 시와 아홉 시쯤에",
+      "word_indices": [
+        350,
+        668,
+        879
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and did likewise",
+      "korean_translation": "그와 같이 하였다",
+      "word_indices": [
+        310
+      ]
+    }
+  ]
+}

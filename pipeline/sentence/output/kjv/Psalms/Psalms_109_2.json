@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 109:2",
+  "version": "KJV",
+  "original_text": "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.",
+  "korean_text": "그들이 악한 입과 거짓된 입을 열어 나를 치며 속이는 혀로 내게 말하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the mouth of the wicked",
+      "korean_translation": "악인의 입은",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the mouth of the deceitful",
+      "korean_translation": "그리고 속이는 자의 입은",
+      "word_indices": [
+        60,
+        1217
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are opened against me:",
+      "korean_translation": "나를 향해 열렸습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they have spoken against me",
+      "korean_translation": "그들은 나를 대항하여 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with a lying tongue.",
+      "korean_translation": "거짓된 혀로",
+      "word_indices": [
+        197
+      ]
+    }
+  ]
+}

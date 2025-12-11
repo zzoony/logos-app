@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Psalms 51:1",
+  "version": "KJV",
+  "original_text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+  "korean_text": "하나님이여 주의 인자를 따라 내게 은혜를 베푸시며 주의 많은 긍휼을 따라 내 죄악을 지워 주소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Have mercy upon me",
+      "korean_translation": "나에게 자비를 베푸소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O God",
+      "korean_translation": "오 하나님이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "according to thy lovingkindness",
+      "korean_translation": "주의 인자하심을 따라",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "according unto multitude of thy tender mercies",
+      "korean_translation": "주의 긍휼이 많으심을 따라",
+      "word_indices": [
+        28,
+        113,
+        775
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "blot out my transgressions",
+      "korean_translation": "나의 죄악을 지워주소서",
+      "word_indices": [
+        341,
+        1240
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Exodus 17:11",
+  "version": "KJV",
+  "original_text": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed.",
+  "korean_text": "모세가 손을 들면 이스라엘이 이기고 손을 내리면 아말렉이 이기더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And it came to pass",
+      "korean_translation": "그때 이렇게 되었으니",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when Moses held up his hand",
+      "korean_translation": "모세가 그 손을 들었을 때",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that Israel prevailed",
+      "korean_translation": "이스라엘이 이겼고",
+      "word_indices": [
+        467
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and when he let down his hand",
+      "korean_translation": "그리고 그가 손을 내렸을 때",
+      "word_indices": [
+        8,
+        14
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Amalek prevailed",
+      "korean_translation": "아말렉이 이겼더라",
+      "word_indices": [
+        467
+      ]
+    }
+  ]
+}

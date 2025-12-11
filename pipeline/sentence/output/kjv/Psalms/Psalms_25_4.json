@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 25:4",
+  "version": "KJV",
+  "original_text": "Shew me thy ways, O Lord; teach me thy paths.",
+  "korean_text": "여호와여 주의 도를 내게 보이시고 주의 길을 내게 가르치소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Shew me thy ways",
+      "korean_translation": "주여, 당신의 길을 내게 보이소서",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "teach me thy paths",
+      "korean_translation": "당신의 경로를 내게 가르치소서",
+      "word_indices": [
+        147,
+        483
+      ]
+    }
+  ]
+}

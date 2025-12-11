@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 93:4",
+  "version": "KJV",
+  "original_text": "The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
+  "korean_text": "높이 계신 여호와의 능력은 많은 물 소리와 바다의 큰 파도보다 크니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord on high",
+      "korean_translation": "높은 곳에 계신 주님은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is mightier than the noise of many waters",
+      "korean_translation": "많은 물소리보다 더 강하시며",
+      "word_indices": [
+        32,
+        52,
+        361,
+        1593
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yea, than the mighty waves of the sea",
+      "korean_translation": "진실로, 바다의 거센 물결보다 더 강하시다",
+      "word_indices": [
+        52,
+        65
+      ]
+    }
+  ]
+}

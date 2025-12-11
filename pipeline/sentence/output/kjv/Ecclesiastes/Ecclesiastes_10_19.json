@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Ecclesiastes 10:19",
+  "version": "KJV",
+  "original_text": "A feast is made for laughter, and wine maketh merry: but money answereth all things.",
+  "korean_text": "잔치는 희락을 위하여 베푸는 것이요 포도주는 생명을 기쁘게 하는 것이나 돈은 범사에 이용되느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A feast is made for laughter",
+      "korean_translation": "잔치는 웃음을 위해 만들어지고",
+      "word_indices": [
+        203,
+        2331
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and wine maketh merry",
+      "korean_translation": "포도주는 마음을 즐겁게 하느라",
+      "word_indices": [
+        138,
+        262,
+        998
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but money answereth all things",
+      "korean_translation": "그러나 돈은 모든 것에 대답하느니라",
+      "word_indices": [
+        11,
+        234,
+        1641
+      ]
+    }
+  ]
+}

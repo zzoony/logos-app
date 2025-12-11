@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 8:37",
+  "version": "KJV",
+  "original_text": "I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you.",
+  "korean_text": "나도 너희가 아브라함의 자손인 줄 아노라 그러나 내 말이 너희 안에 있을 곳이 없으므로 나를 죽이려 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that ye are Abraham's seed",
+      "korean_translation": "내가 너희가 아브라함의 자손인 줄 아노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but ye seek to kill me",
+      "korean_translation": "그러나 너희가 나를 죽이려 하느니라",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because my word hath no place in you",
+      "korean_translation": "이는 내 말이 너희 속에 있지 아니함이니라",
+      "word_indices": [
+        3,
+        21
+      ]
+    }
+  ]
+}

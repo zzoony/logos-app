@@ -1,0 +1,64 @@
+{
+  "verse_reference": "John 10:10",
+  "version": "KJV",
+  "original_text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+  "korean_text": "도둑이 오는 것은 도둑질하고 죽이고 멸망시키려는 것뿐이요 내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The thief cometh not",
+      "korean_translation": "도둑이 오는 것은 아닙니다",
+      "word_indices": [
+        109,
+        707
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but for to steal",
+      "korean_translation": "도둑질하려는 것뿐입니다",
+      "word_indices": [
+        689
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to kill",
+      "korean_translation": "죽이려고",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to destroy",
+      "korean_translation": "멸망시키려는 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am come",
+      "korean_translation": "내가 온 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that they might have life",
+      "korean_translation": "그들이 생명을 얻게 하려 함이요",
+      "word_indices": [
+        53,
+        55
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and that they might have it more abundantly",
+      "korean_translation": "더 풍성히 얻게 하려 함이라",
+      "word_indices": [
+        33,
+        55,
+        904
+      ]
+    }
+  ]
+}

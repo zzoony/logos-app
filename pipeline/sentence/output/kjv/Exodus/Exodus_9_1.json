@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 9:1",
+  "version": "KJV",
+  "original_text": "Then the Lord said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the Lord God of the Hebrews, Let my people go, that they may serve me.",
+  "korean_text": "여호와께서 모세에게 이르시되 바로에게 들어가서 그에게 이르라 히브리 사람의 하나님 여호와께서 말씀하시기를 내 백성을 보내라 그들이 나를 섬길 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said unto Moses",
+      "korean_translation": "그때 주께서 모세에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go in unto Pharaoh",
+      "korean_translation": "바로에게 들어가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and tell him",
+      "korean_translation": "그에게 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Thus saith the Lord God of the Hebrews",
+      "korean_translation": "히브리인의 주 하나님이 말씀하시기를",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Let my people go",
+      "korean_translation": "내 백성을 보내라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that they may serve me",
+      "korean_translation": "그들이 나를 섬기게 하기 위함이라",
+      "word_indices": [
+        103
+      ]
+    }
+  ]
+}

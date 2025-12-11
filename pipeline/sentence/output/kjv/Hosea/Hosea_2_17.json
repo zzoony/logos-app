@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Hosea 2:17",
+  "version": "KJV",
+  "original_text": "For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name.",
+  "korean_text": "내가 바알들의 이름을 그의 입에서 제거하여 다시는 그의 이름을 기억하여 부르는 일이 없게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I will take away the names of Baalim",
+      "korean_translation": "내가 바알의 이름들을 제거하리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "out of her mouth",
+      "korean_translation": "그녀의 입에서",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they shall no more be remembered by their name",
+      "korean_translation": "그들은 더 이상 그들의 이름으로 기억되지 않으리라",
+      "word_indices": [
+        16,
+        33
+      ]
+    }
+  ]
+}

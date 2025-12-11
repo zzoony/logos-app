@@ -1,0 +1,46 @@
+{
+  "verse_reference": "2 Chronicles 10:11",
+  "version": "KJV",
+  "original_text": "For whereas my father put a heavy yoke upon you, I will put more to your yoke: my father chastised you with whips, but I will chastise you with scorpions.",
+  "korean_text": "내 아버지가 너희에게 무거운 멍에를 메게 하였으나 이제 나는 너희의 멍에를 더욱 무겁게 할지라 내 아버지는 가죽 채찍으로 너희를 치셨으나 나는 전갈 채찍으로 하리라 하소서 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For whereas my father put a heavy yoke upon you",
+      "korean_translation": "이는 내 아버지가 너희에게 무거운 멍에를 씌웠기 때문이니",
+      "word_indices": [
+        3,
+        493,
+        762
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will put more to your yoke",
+      "korean_translation": "나는 너희의 멍에에 더 많은 것을 더할 것이니라",
+      "word_indices": [
+        33,
+        493
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my father chastised you with whips",
+      "korean_translation": "내 아버지는 채찍으로 너희를 징계하였으나",
+      "word_indices": [
+        3,
+        2471
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but I will chastise you with scorpions",
+      "korean_translation": "나는 전갈로 너희를 징계하겠노라",
+      "word_indices": [
+        3,
+        1427,
+        1774
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Luke 16:25",
+  "version": "KJV",
+  "original_text": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.",
+  "korean_text": "아브라함이 이르되 얘 너는 살았을 때에 좋은 것을 받았고 나사로는 고난을 받았으니 이것을 기억하라 이제 그는 여기서 위로를 받고 너는 괴로움을 받느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Abraham said",
+      "korean_translation": "그러나 아브라함이 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Son, remember",
+      "korean_translation": "아들아, 기억하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that thou in thy lifetime receivedst thy good things",
+      "korean_translation": "네가 살았을 때 좋은 것들을 받았고",
+      "word_indices": [
+        11,
+        3324,
+        5485
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and likewise Lazarus evil things",
+      "korean_translation": "나사로 또한 악한 것들을 받았느니라",
+      "word_indices": [
+        11,
+        35,
+        310
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but now he is comforted",
+      "korean_translation": "그러나 이제 그는 위로를 받고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and thou art tormented",
+      "korean_translation": "너는 고통을 받느니라",
+      "word_indices": [
+        1220
+      ]
+    }
+  ]
+}

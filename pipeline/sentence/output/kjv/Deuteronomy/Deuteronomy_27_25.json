@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Deuteronomy 27:25",
+  "version": "KJV",
+  "original_text": "Cursed be he that taketh reward to slay an innocent person. And all the people shall say, Amen.",
+  "korean_text": "무죄한 자를 죽이려고 뇌물을 받는 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be he that taketh reward",
+      "korean_translation": "뇌물을 받는 자는 저주를 받을지니",
+      "word_indices": [
+        329,
+        429
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to slay an innocent person.",
+      "korean_translation": "죄 없는 자를 죽이려 함이라.",
+      "word_indices": [
+        295,
+        763
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And all the people shall say,",
+      "korean_translation": "모든 백성은 말할지니",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Amen.",
+      "korean_translation": "아멘.",
+      "word_indices": []
+    }
+  ]
+}

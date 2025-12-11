@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 23:33",
+  "version": "KJV",
+  "original_text": "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left.",
+  "korean_text": "해골이라 하는 곳에 이르러 거기서 예수를 십자가에 못 박고 두 행악자도 그렇게 하니 하나는 우편에, 하나는 좌편에 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when they were come to the place",
+      "korean_translation": "그들이 그곳에 이르렀을 때",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which is called Calvary",
+      "korean_translation": "그곳은 갈보리라고 불리는 곳인데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there they crucified him",
+      "korean_translation": "그들이 거기서 그를 십자가에 못 박았고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the malefactors",
+      "korean_translation": "그리고 죄인들도",
+      "word_indices": [
+        3130
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "one on the right hand",
+      "korean_translation": "한 명은 오른편에",
+      "word_indices": [
+        8,
+        80
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and the other on the left",
+      "korean_translation": "다른 한 명은 왼편에",
+      "word_indices": [
+        56
+      ]
+    }
+  ]
+}

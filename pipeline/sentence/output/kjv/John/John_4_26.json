@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 4:26",
+  "version": "KJV",
+  "original_text": "Jesus saith unto her, I that speak unto thee am he.",
+  "korean_text": "예수께서 이르시되 네게 말하는 내가 그라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus saith unto her",
+      "korean_translation": "예수께서 그녀에게 말씀하시니",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I that speak unto thee",
+      "korean_translation": "너에게 말하는 내가",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "am he",
+      "korean_translation": "바로 그 사람이라",
+      "word_indices": []
+    }
+  ]
+}

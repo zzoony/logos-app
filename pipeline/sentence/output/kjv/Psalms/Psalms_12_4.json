@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 12:4",
+  "version": "KJV",
+  "original_text": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?",
+  "korean_text": "그들이 말하기를 우리의 혀가 이기리라 우리 입술은 우리 것이니 우리를 주관할 자 누구리요 함이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who have said",
+      "korean_translation": "말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "With our tongue will we prevail",
+      "korean_translation": "우리 혀로 우리가 이기리라",
+      "word_indices": [
+        197,
+        467
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "our lips are our own",
+      "korean_translation": "우리 입술은 우리 것이라",
+      "word_indices": [
+        37,
+        266
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who is lord over us?",
+      "korean_translation": "누가 우리 위에 주관자가 되리요",
+      "word_indices": [
+        18
+      ]
+    }
+  ]
+}

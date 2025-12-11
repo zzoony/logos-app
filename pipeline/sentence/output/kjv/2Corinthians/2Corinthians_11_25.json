@@ -1,0 +1,48 @@
+{
+  "verse_reference": "2 Corinthians 11:25",
+  "version": "KJV",
+  "original_text": "Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;",
+  "korean_text": "세 번 태장으로 맞고 한 번 돌로 맞고 세 번 파선하고 일 주야를 깊은 바다에서 지냈으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thrice was I beaten with rods",
+      "korean_translation": "내가 막대로 매를 맞은 것이 세 번이며",
+      "word_indices": [
+        331,
+        1486
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "once was I stoned",
+      "korean_translation": "돌에 맞은 것이 한 번이고",
+      "word_indices": [
+        530
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thrice I suffered shipwreck",
+      "korean_translation": "배가 난파된 것이 세 번이며",
+      "word_indices": [
+        1486,
+        4279
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a night and a day",
+      "korean_translation": "밤낮 하루를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I have been in the deep",
+      "korean_translation": "깊은 바다에서 있었노라",
+      "word_indices": [
+        448
+      ]
+    }
+  ]
+}

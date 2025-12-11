@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 19:25",
+  "version": "KJV",
+  "original_text": "Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the wife of Cleophas, and Mary Magdalene.",
+  "korean_text": "예수의 십자가 곁에는 그 어머니와 이모와 글로바의 아내 마리아와 막달라 마리아가 섰는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now there stood by the cross of Jesus",
+      "korean_translation": "예수님의 십자가 곁에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his mother",
+      "korean_translation": "어머니가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his mother's sister",
+      "korean_translation": "어머니의 동생",
+      "word_indices": [
+        241
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Mary the wife of Cleophas",
+      "korean_translation": "글로바의 아내 마리아",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and Mary Magdalene",
+      "korean_translation": "막달라 마리아가 있었다",
+      "word_indices": []
+    }
+  ]
+}

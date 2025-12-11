@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Samuel 31:3",
+  "version": "KJV",
+  "original_text": "And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.",
+  "korean_text": "사울이 패전하매 활 쏘는 자가 따라잡으니 사울이 그 활 쏘는 자에게 중상을 입은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the battle went sore against Saul",
+      "korean_translation": "전투가 사울에게 매우 불리하게 진행되었고",
+      "word_indices": [
+        182,
+        324
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the archers hit him",
+      "korean_translation": "궁수들이 그를 맞혔으며",
+      "word_indices": [
+        1534,
+        3774
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he was sore wounded of the archers",
+      "korean_translation": "그는 궁수들에게 심하게 부상을 입었다",
+      "word_indices": [
+        324,
+        611,
+        1534
+      ]
+    }
+  ]
+}

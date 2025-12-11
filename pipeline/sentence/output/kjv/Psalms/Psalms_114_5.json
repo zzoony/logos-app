@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 114:5",
+  "version": "KJV",
+  "original_text": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?",
+  "korean_text": "바다야 네가 도망함은 어찌함이며 요단아 네가 물러감은 어찌함인가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What ailed thee, O thou sea",
+      "korean_translation": "네게 무슨 일이 있었느냐, 오 바다야",
+      "word_indices": [
+        2,
+        65,
+        4957
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that thou fleddest?",
+      "korean_translation": "네가 도망쳤느냐?",
+      "word_indices": [
+        3626
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thou Jordan",
+      "korean_translation": "오 요단강이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that thou wast driven back?",
+      "korean_translation": "네가 물러갔느냐?",
+      "word_indices": [
+        205,
+        466
+      ]
+    }
+  ]
+}

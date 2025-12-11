@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 1:50",
+  "version": "KJV",
+  "original_text": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.",
+  "korean_text": "예수께서 대답하여 이르시되 내가 너를 무화과나무 아래에서 보았다 하므로 믿느냐 이보다 더 큰 일을 보리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered and said unto him",
+      "korean_translation": "예수께서 그에게 대답하여 말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because I said unto thee",
+      "korean_translation": "내가 너에게 말하기를",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I saw thee under the fig tree",
+      "korean_translation": "내가 너를 무화과나무 아래서 보았다",
+      "word_indices": [
+        2,
+        81,
+        465
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "believest thou?",
+      "korean_translation": "네가 믿느냐?",
+      "word_indices": [
+        2189
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "thou shalt see greater things than these",
+      "korean_translation": "네가 이것보다 더 큰 것들을 보게 되리라",
+      "word_indices": [
+        11,
+        52,
+        414
+      ]
+    }
+  ]
+}

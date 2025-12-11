@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 113:1",
+  "version": "KJV",
+  "original_text": "Praise ye the Lord. Praise, O ye servants of the Lord, praise the name of the Lord.",
+  "korean_text": "할렐루야, 여호와의 종들아 찬양하라 여호와의 이름을 찬양하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise ye the Lord.",
+      "korean_translation": "너희는 여호와를 찬양하라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Praise, O ye servants of the Lord,",
+      "korean_translation": "여호와의 종들아, 찬양하라,",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "praise the name of the Lord.",
+      "korean_translation": "여호와의 이름을 찬양하라.",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

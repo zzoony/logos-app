@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Thessalonians 2:5",
+  "version": "KJV",
+  "original_text": "Remember ye not, that, when I was yet with you, I told you these things?",
+  "korean_text": "내가 너희와 함께 있을 때에 이 일을 너희에게 말한 것을 기억하지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember ye not",
+      "korean_translation": "너희가 기억하지 못하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that, when I was yet with you",
+      "korean_translation": "내가 아직 너희와 함께 있을 때",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I told you these things?",
+      "korean_translation": "내가 너희에게 이것들을 말하지 않았느냐?",
+      "word_indices": [
+        3,
+        11
+      ]
+    }
+  ]
+}

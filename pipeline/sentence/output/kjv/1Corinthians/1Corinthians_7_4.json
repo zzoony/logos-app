@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 Corinthians 7:4",
+  "version": "KJV",
+  "original_text": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.",
+  "korean_text": "아내는 자기 몸을 주장하지 못하고 오직 그 남편이 하며 남편도 그와 같이 자기 몸을 주장하지 못하고 오직 그 아내가 하나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wife hath not power of her own body",
+      "korean_translation": "아내는 자신의 몸에 대한 권리가 없고",
+      "word_indices": [
+        37,
+        43,
+        106,
+        152
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but husband",
+      "korean_translation": "남편에게 있습니다",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and likewise also",
+      "korean_translation": "그와 같이",
+      "word_indices": [
+        9,
+        310
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "husband hath not power of his own body",
+      "korean_translation": "남편은 자신의 몸에 대한 권리가 없고",
+      "word_indices": [
+        37,
+        106,
+        152,
+        229
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but wife",
+      "korean_translation": "아내에게 있습니다",
+      "word_indices": [
+        43
+      ]
+    }
+  ]
+}

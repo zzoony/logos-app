@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Numbers 1:46",
+  "version": "KJV",
+  "original_text": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+  "korean_text": "계수된 자의 총계는 육십만 삼천오백오십 명이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even all they that were numbered",
+      "korean_translation": "계수된 모든 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were six hundred thousand",
+      "korean_translation": "육십만이었고",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and three thousand",
+      "korean_translation": "삼천이었으며",
+      "word_indices": [
+        38,
+        50
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and five hundred and fifty",
+      "korean_translation": "오백오십이었습니다",
+      "word_indices": [
+        196
+      ]
+    }
+  ]
+}

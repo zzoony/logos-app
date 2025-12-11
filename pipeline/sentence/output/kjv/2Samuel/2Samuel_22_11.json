@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Samuel 22:11",
+  "version": "KJV",
+  "original_text": "And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind.",
+  "korean_text": "그룹을 타고 날으심이여 바람 날개 위에 나타나셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he rode upon a cherub",
+      "korean_translation": "그는 그룹을 탔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and did fly",
+      "korean_translation": "날아갔으며",
+      "word_indices": [
+        650
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he was seen upon the wings of the wind",
+      "korean_translation": "그는 바람의 날개 위에서 보였다",
+      "word_indices": [
+        184,
+        363
+      ]
+    }
+  ]
+}

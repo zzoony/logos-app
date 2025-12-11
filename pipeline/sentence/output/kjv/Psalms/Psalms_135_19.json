@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 135:19",
+  "version": "KJV",
+  "original_text": "Bless the Lord, O house of Israel: bless the Lord, O house of Aaron:",
+  "korean_text": "이스라엘 족속아 여호와를 송축하라 아론의 족속아 여호와를 송축하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bless the Lord",
+      "korean_translation": "주를 송축하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O house of Israel",
+      "korean_translation": "이스라엘 족속아",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "bless the Lord",
+      "korean_translation": "주를 송축하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "O house of Aaron",
+      "korean_translation": "아론 족속아",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

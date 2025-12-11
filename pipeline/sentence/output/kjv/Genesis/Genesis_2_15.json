@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 2:15",
+  "version": "KJV",
+  "original_text": "And the Lord God took the man, and put him into the garden of Eden to dress it and to keep it.",
+  "korean_text": "여호와 하나님이 그 사람을 이끌어 에덴 동산에 두어 그것을 경작하며 지키게 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord God took the man",
+      "korean_translation": "그리고 주 하나님이 그 사람을 데려가사",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and put him into the garden of Eden",
+      "korean_translation": "그를 에덴 동산에 두시고",
+      "word_indices": [
+        7,
+        488
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to dress it",
+      "korean_translation": "그것을 경작하게 하시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to keep it",
+      "korean_translation": "그것을 지키게 하셨더라",
+      "word_indices": []
+    }
+  ]
+}

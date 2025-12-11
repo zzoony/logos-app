@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 19:45",
+  "version": "KJV",
+  "original_text": "And he went into the temple, and began to cast out them that sold therein, and them that bought;",
+  "korean_text": "성전에 들어가사 장사하는 자들을 내쫓으시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he went into the temple",
+      "korean_translation": "그가 성전에 들어가서",
+      "word_indices": [
+        7,
+        148
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and began to cast out them that sold therein",
+      "korean_translation": "그 안에서 물건 파는 사람들을 내쫓기 시작하였고",
+      "word_indices": [
+        1,
+        141
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and them that bought",
+      "korean_translation": "사는 사람들도 내쫓았다",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

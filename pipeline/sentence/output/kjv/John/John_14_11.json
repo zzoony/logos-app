@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 14:11",
+  "version": "KJV",
+  "original_text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake.",
+  "korean_text": "내가 아버지 안에 거하고 아버지께서 내 안에 계심을 믿으라 그렇지 못하겠거든 행하는 그 일로 말미암아 나를 믿으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Believe me that I am in the Father",
+      "korean_translation": "내가 아버지 안에 있는 것을 나를 믿으라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the Father in me",
+      "korean_translation": "아버지가 내 안에 계시는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or else believe me for the very works' sake",
+      "korean_translation": "그렇지 않으면 이 일들 때문에 나를 믿으라",
+      "word_indices": [
+        15,
+        29,
+        119,
+        181,
+        658
+      ]
+    }
+  ]
+}

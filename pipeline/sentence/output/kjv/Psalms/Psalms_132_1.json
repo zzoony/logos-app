@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Psalms 132:1",
+  "version": "KJV",
+  "original_text": "Lord, remember David, and all his afflictions:",
+  "korean_text": "여호와여 다윗을 위하여 그의 모든 겸손을 기억하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "remember David",
+      "korean_translation": "다윗을 기억하소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all his afflictions",
+      "korean_translation": "그의 모든 고난을",
+      "word_indices": [
+        374
+      ]
+    }
+  ]
+}

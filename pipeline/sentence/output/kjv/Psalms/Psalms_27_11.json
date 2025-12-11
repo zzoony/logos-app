@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Psalms 27:11",
+  "version": "KJV",
+  "original_text": "Teach me thy way, O Lord, and lead me in a plain path, because of mine enemies.",
+  "korean_text": "여호와여 주의 도를 내게 가르치시고 내 원수를 생각하셔서 평탄한 길로 나를 인도하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Teach me thy way, O Lord",
+      "korean_translation": "주님, 주의 길을 가르쳐 주소서",
+      "word_indices": [
+        26,
+        147
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and lead me in a plain path",
+      "korean_translation": "그리고 평탄한 길로 나를 인도하여 주소서",
+      "word_indices": [
+        256,
+        335,
+        483
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of mine enemies",
+      "korean_translation": "나의 원수들 때문입니다",
+      "word_indices": [
+        75
+      ]
+    }
+  ]
+}

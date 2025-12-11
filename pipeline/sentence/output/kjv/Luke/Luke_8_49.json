@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 8:49",
+  "version": "KJV",
+  "original_text": "While he yet spake, there cometh one from the ruler of the synagogue's house, saying to him, Thy daughter is dead; trouble not the Master.",
+  "korean_text": "아직 말씀하실 때에 회당장의 집에서 사람이 와서 말하되 당신의 딸이 죽었나이다 선생님을 더 괴롭게 하지 마소서 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While he yet spake",
+      "korean_translation": "그가 아직 말씀하실 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there cometh one from ruler of the synagogue's house",
+      "korean_translation": "회당장의 집에서 한 사람이 와서",
+      "word_indices": [
+        4,
+        109,
+        201,
+        454
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying to him",
+      "korean_translation": "그에게 이르되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Thy daughter is dead",
+      "korean_translation": "당신의 딸이 죽었나이다",
+      "word_indices": [
+        78
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "trouble not the Master",
+      "korean_translation": "선생을 괴롭게 마옵소서",
+      "word_indices": []
+    }
+  ]
+}

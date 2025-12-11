@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 8:2",
+  "version": "KJV",
+  "original_text": "And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.",
+  "korean_text": "한 나병환자가 나아와 절하며 이르되 주여 원하시면 저를 깨끗하게 하실 수 있나이다 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And, behold, there came a leper",
+      "korean_translation": "그런데 보라 나병환자가 와서",
+      "word_indices": [
+        1133
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and worshipped him",
+      "korean_translation": "그에게 경배하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saying, Lord",
+      "korean_translation": "말하되 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if thou wilt, thou canst make me clean",
+      "korean_translation": "원하시면 나를 깨끗하게 하실 수 있나이다",
+      "word_indices": [
+        244
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 John 5:12",
+  "version": "KJV",
+  "original_text": "He that hath the Son hath life; and he that hath not the Son of God hath not life.",
+  "korean_text": "아들이 있는 자에게는 생명이 있고 하나님의 아들이 없는 자에게는 생명이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that hath the Son",
+      "korean_translation": "아들을 가진 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "hath life",
+      "korean_translation": "생명을 가지니",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he that hath not the Son of God",
+      "korean_translation": "하나님의 아들을 가지지 않은 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hath not life",
+      "korean_translation": "생명을 가지지 못하느니라",
+      "word_indices": [
+        53
+      ]
+    }
+  ]
+}

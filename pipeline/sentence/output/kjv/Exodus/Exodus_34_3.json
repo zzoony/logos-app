@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 34:3",
+  "version": "KJV",
+  "original_text": "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.",
+  "korean_text": "아무도 너와 함께 오르지 말며 온 산에 아무도 나타나지 못하게 하고 양과 소도 산 앞에서 먹지 못하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And no man shall come up with thee",
+      "korean_translation": "그리고 아무도 너와 함께 올라오지 못하리라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither let any man be seen throughout all the mount",
+      "korean_translation": "온 산에서 아무도 보이지 말게 하라",
+      "word_indices": [
+        22,
+        112,
+        206
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither let the flocks nor herds feed before that mount",
+      "korean_translation": "떼와 소떼도 그 산 앞에서 먹지 말게 하라",
+      "word_indices": [
+        31,
+        112,
+        166,
+        576
+      ]
+    }
+  ]
+}

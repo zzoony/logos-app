@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Joshua 11:4",
+  "version": "KJV",
+  "original_text": "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many.",
+  "korean_text": "그들이 그 모든 군대를 거느리고 나왔으니 백성이 많아 해변의 수많은 모래 같고 말과 병거도 심히 많았으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they went out",
+      "korean_translation": "그들이 나아갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they and all their hosts with them",
+      "korean_translation": "그들과 그들의 모든 군대를 데리고",
+      "word_indices": [
+        1,
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "much people",
+      "korean_translation": "수많은 백성이",
+      "word_indices": [
+        5,
+        105
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even as the sand that is upon the sea shore",
+      "korean_translation": "바닷가의 모래처럼",
+      "word_indices": [
+        65,
+        994,
+        1350
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in multitude",
+      "korean_translation": "무리를 이루어",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "with horses and chariots very many",
+      "korean_translation": "매우 많은 말과 전차를 가지고",
+      "word_indices": [
+        119,
+        179
+      ]
+    }
+  ]
+}

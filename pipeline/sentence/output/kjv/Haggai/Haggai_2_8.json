@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Haggai 2:8",
+  "version": "KJV",
+  "original_text": "The silver is mine, and the gold is mine, saith the Lord of hosts.",
+  "korean_text": "은도 내 것이요 금도 내 것이니라 만군의 여호와의 말이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The silver is mine",
+      "korean_translation": "은물은 내 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the gold is mine",
+      "korean_translation": "그리고 금물도 내 것이다",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saith the Lord of hosts",
+      "korean_translation": "만군의 주께서 말씀하시느니라",
+      "word_indices": [
+        13,
+        47
+      ]
+    }
+  ]
+}

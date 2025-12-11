@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 25:42",
+  "version": "KJV",
+  "original_text": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:",
+  "korean_text": "내가 주릴 때에 너희가 먹을 것을 주지 아니하였고 목마를 때에 마시게 하지 아니하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I was an hungred",
+      "korean_translation": "내가 굶주렸을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ye gave me no meat",
+      "korean_translation": "너희가 나에게 먹을 것을 주지 않았고",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was thirsty",
+      "korean_translation": "내가 목마랐을 때",
+      "word_indices": [
+        1385
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ye gave me no drink",
+      "korean_translation": "너희가 나에게 마실 것을 주지 않았더라",
+      "word_indices": []
+    }
+  ]
+}

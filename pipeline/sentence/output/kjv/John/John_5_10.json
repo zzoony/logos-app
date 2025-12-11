@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 5:10",
+  "version": "KJV",
+  "original_text": "The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry thy bed.",
+  "korean_text": "유대인들이 병 나은 사람에게 이르되 안식일인데 네가 자리를 들고 가는 것이 옳지 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Jews therefore said unto him",
+      "korean_translation": "유대인들이 그에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that was cured",
+      "korean_translation": "고침을 받은 그에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is the sabbath day:",
+      "korean_translation": "오늘은 안식일이라",
+      "word_indices": [
+        188
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it is not lawful for thee",
+      "korean_translation": "네가 침대를 메고 가는 것이",
+      "word_indices": [
+        2,
+        789
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to carry thy bed.",
+      "korean_translation": "법에 어긋난다",
+      "word_indices": [
+        332
+      ]
+    }
+  ]
+}

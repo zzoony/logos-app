@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 130:1",
+  "version": "KJV",
+  "original_text": "Out of the depths have I cried unto thee, O Lord.",
+  "korean_text": "여호와여 내가 깊은 곳에서 주께 부르짖었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Out of the depths",
+      "korean_translation": "깊은 곳에서부터",
+      "word_indices": [
+        975
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "have I cried unto thee",
+      "korean_translation": "내가 주께 부르짖었나이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Leviticus 18:14",
+  "version": "KJV",
+  "original_text": "Thou shalt not uncover the nakedness of thy father's brother, thou shalt not approach to his wife: she is thine aunt.",
+  "korean_text": "너는 네 아버지 형제의 아내를 가까이 하여 그의 하체를 범하지 말라 그는 네 숙모니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou shalt not uncover the nakedness of thy father's brother",
+      "korean_translation": "네 아버지의 형제의 나체를 드러내지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thou shalt not approach to his wife",
+      "korean_translation": "그의 아내에게 가까이 하지 말라",
+      "word_indices": [
+        43,
+        1135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "she is thine aunt",
+      "korean_translation": "그녀는 너의 숙모(고모)이다",
+      "word_indices": [
+        4443
+      ]
+    }
+  ]
+}

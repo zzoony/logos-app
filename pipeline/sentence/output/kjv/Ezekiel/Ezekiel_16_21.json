@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ezekiel 16:21",
+  "version": "KJV",
+  "original_text": "That thou hast slain my children, and delivered them to cause them to pass through the fire for them?",
+  "korean_text": "나의 자녀들을 죽여 우상에게 넘겨 불 가운데로 지나가게 하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That thou hast slain my children",
+      "korean_translation": "네가 내 자녀들을 죽였다는 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and delivered them",
+      "korean_translation": "그리고 그들을 넘겨주었다",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to cause them to pass through the fire",
+      "korean_translation": "그들이 불을 통과하게 하려고",
+      "word_indices": [
+        1,
+        27,
+        41,
+        57
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for them?",
+      "korean_translation": "그들을 위해?",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

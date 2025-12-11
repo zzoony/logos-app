@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 4:8",
+  "version": "KJV",
+  "original_text": "(For his disciples were gone away unto the city to buy meat.)",
+  "korean_text": "이는 제자들이 먹을 것을 사러 그 동네에 들어갔음이러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For his disciples were gone away",
+      "korean_translation": "이는 그의 제자들이 멀리 떠나갔기 때문이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unto the city",
+      "korean_translation": "도시로 가서",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to buy meat",
+      "korean_translation": "음식을 사려 했기 때문입니다",
+      "word_indices": [
+        99
+      ]
+    }
+  ]
+}

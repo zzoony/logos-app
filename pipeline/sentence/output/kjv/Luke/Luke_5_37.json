@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 5:37",
+  "version": "KJV",
+  "original_text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.",
+  "korean_text": "새 포도주를 낡은 가죽 부대에 넣는 자가 없나니 만일 그렇게 하면 새 포도주가 부대를 터뜨려 포도주가 쏟아지고 부대도 못쓰게 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And no man putteth new wine into old bottles",
+      "korean_translation": "아무도 새 포도주를 낡은 가죽 부대에 넣지 않느니라",
+      "word_indices": [
+        7,
+        74,
+        138,
+        220,
+        953
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "else new wine will burst the bottles",
+      "korean_translation": "그렇게 하면 새 포도주가 부대를 터뜨릴 것이요",
+      "word_indices": [
+        138,
+        220,
+        658,
+        1898
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and be spilled",
+      "korean_translation": "쏟아지게 될 것이며",
+      "word_indices": [
+        2840
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the bottles shall perish",
+      "korean_translation": "그 부대들도 망하게 될 것이라",
+      "word_indices": [
+        224
+      ]
+    }
+  ]
+}

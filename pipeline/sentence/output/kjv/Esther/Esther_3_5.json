@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Esther 3:5",
+  "version": "KJV",
+  "original_text": "And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.",
+  "korean_text": "하만이 모르드개가 무릎을 꿇지도 아니하고 절하지도 아니함을 보고 매우 노하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when Haman saw that Mordecai bowed not",
+      "korean_translation": "그리고 하만은 모르드개가 절하지 않은 것을 보고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor did him reverence",
+      "korean_translation": "그에게 경의도 표하지 않았으므로",
+      "word_indices": [
+        31,
+        1556
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "then was Haman full of wrath",
+      "korean_translation": "하만은 분노로 가득 찼더라",
+      "word_indices": [
+        160
+      ]
+    }
+  ]
+}

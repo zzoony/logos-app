@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 37:14",
+  "version": "KJV",
+  "original_text": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.",
+  "korean_text": "악인이 칼을 빼고 활을 당겨 가난하고 궁핍한 자를 엎드러뜨리며 행위가 정직한 자를 죽이고자 하나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The wicked have drawn out the sword",
+      "korean_translation": "악인들은 칼을 뽑았으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and have bent their bow",
+      "korean_translation": "그들의 활을 당겼습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to cast down the poor and needy",
+      "korean_translation": "가난하고 궁핍한 자를 쓰러뜨리려고",
+      "word_indices": [
+        14,
+        153,
+        803
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to slay such as be of upright conversation",
+      "korean_translation": "정직한 행실을 하는 자를 죽이려고 합니다",
+      "word_indices": [
+        458,
+        1267
+      ]
+    }
+  ]
+}

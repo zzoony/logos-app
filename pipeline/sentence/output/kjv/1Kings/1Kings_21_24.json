@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Kings 21:24",
+  "version": "KJV",
+  "original_text": "Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.",
+  "korean_text": "아합에게 속한 자로서 성읍에서 죽은 자는 개들이 먹고 들에서 죽은 자는 공중의 새가 먹으리라고 하셨느니라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Him that dieth of Ahab in the city",
+      "korean_translation": "아합의 자손 중에서 성읍에서 죽는 자는",
+      "word_indices": [
+        12,
+        955
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "dogs shall eat",
+      "korean_translation": "개들이 먹을 것이며",
+      "word_indices": [
+        744
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and him that dieth in the field",
+      "korean_translation": "또한 들에서 죽는 자는",
+      "word_indices": [
+        84,
+        955
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall the fowls of the air eat",
+      "korean_translation": "공중의 새가 먹을 것이라",
+      "word_indices": [
+        381,
+        769
+      ]
+    }
+  ]
+}

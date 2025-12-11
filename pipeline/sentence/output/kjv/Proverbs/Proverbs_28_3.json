@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 28:3",
+  "version": "KJV",
+  "original_text": "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.",
+  "korean_text": "가난한 자를 학대하는 가난한 자는 곡식을 남기지 아니하는 폭우 같으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A poor man that oppresseth the poor",
+      "korean_translation": "가난한 자를 학대하는 가난한 사람은",
+      "word_indices": [
+        153,
+        2638
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is like a sweeping rain",
+      "korean_translation": "쓸어가는 비와 같으니",
+      "word_indices": [
+        299,
+        2122
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which leaveth no food",
+      "korean_translation": "음식을 남기지 않느니라",
+      "word_indices": [
+        571,
+        2516
+      ]
+    }
+  ]
+}

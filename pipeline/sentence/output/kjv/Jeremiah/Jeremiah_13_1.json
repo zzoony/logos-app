@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Jeremiah 13:1",
+  "version": "KJV",
+  "original_text": "Thus saith the Lord unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.",
+  "korean_text": "여호와께서 이와 같이 내게 이르시되 너는 가서 베 띠를 사서 네 허리에 띠고 물에 적시지 말라 하시기로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus saith the Lord unto me",
+      "korean_translation": "이와 같이 주께서 내게 이르시기를",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go and get thee a linen girdle",
+      "korean_translation": "가서 베 허리띠를 가져다가",
+      "word_indices": [
+        2,
+        314,
+        708
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and put it upon thy loins",
+      "korean_translation": "너의 허리에 띠고",
+      "word_indices": [
+        502
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and put it not in water",
+      "korean_translation": "물에 담그지 말라",
+      "word_indices": [
+        32
+      ]
+    }
+  ]
+}

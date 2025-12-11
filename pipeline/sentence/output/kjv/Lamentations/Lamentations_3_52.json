@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Lamentations 3:52",
+  "version": "KJV",
+  "original_text": "Mine enemies chased me sore, like a bird, without cause.",
+  "korean_text": "나의 원수들이 이유없이 나를 새처럼 사냥하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mine enemies chased me sore",
+      "korean_translation": "나의 원수들이 나를 심하게 쫓았다",
+      "word_indices": [
+        75,
+        324
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like a bird",
+      "korean_translation": "새처럼",
+      "word_indices": [
+        582
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "without cause",
+      "korean_translation": "이유 없이",
+      "word_indices": [
+        64
+      ]
+    }
+  ]
+}

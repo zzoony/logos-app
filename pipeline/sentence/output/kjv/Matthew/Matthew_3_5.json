@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Matthew 3:5",
+  "version": "KJV",
+  "original_text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
+  "korean_text": "이 때에 예루살렘과 온 유대와 요단 강 사방에서 다 그에게 나아와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then went out to him Jerusalem",
+      "korean_translation": "그때 예루살렘이 그에게 나아갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and all Judaea",
+      "korean_translation": "온 유대도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all the region round about Jordan",
+      "korean_translation": "그리고 요단강 주위의 모든 지역이",
+      "word_indices": [
+        93,
+        1289
+      ]
+    }
+  ]
+}

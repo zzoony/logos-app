@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 88:7",
+  "version": "KJV",
+  "original_text": "Thy wrath lieth hard upon me, and thou hast afflicted me with all thy waves. Selah.",
+  "korean_text": "주의 노가 나를 심히 누르시고 주의 모든 파도가 나를 괴롭게 하셨나이다 (셀라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thy wrath lieth hard upon me",
+      "korean_translation": "주의 진노가 나를 심하게 누르고",
+      "word_indices": [
+        160,
+        528,
+        688
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and thou hast afflicted me",
+      "korean_translation": "주께서 나를 괴롭히셨나이다",
+      "word_indices": [
+        365
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with all thy waves",
+      "korean_translation": "주의 모든 물결로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Selah",
+      "korean_translation": "셀라",
+      "word_indices": []
+    }
+  ]
+}

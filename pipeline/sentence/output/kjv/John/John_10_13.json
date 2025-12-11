@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 10:13",
+  "version": "KJV",
+  "original_text": "The hireling fleeth, because he is an hireling, and careth not for the sheep.",
+  "korean_text": "달아나는 것은 그가 삯꾼인 까닭에 양을 돌보지 아니함이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The hireling fleeth",
+      "korean_translation": "삯꾼은 도망간다",
+      "word_indices": [
+        1981
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he is an hireling",
+      "korean_translation": "그는 삯꾼이기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and careth not for the sheep",
+      "korean_translation": "양들을 돌보지 않는다",
+      "word_indices": [
+        170,
+        2256
+      ]
+    }
+  ]
+}

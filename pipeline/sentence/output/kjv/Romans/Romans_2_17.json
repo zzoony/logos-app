@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Romans 2:17",
+  "version": "KJV",
+  "original_text": "Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,",
+  "korean_text": "유대인이라 불리는 네가 율법을 의지하며 하나님을 자랑하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Behold, thou art called a Jew,",
+      "korean_translation": "보라, 너는 유대인이라 칭함을 받고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and restest in the law,",
+      "korean_translation": "율법 안에서 안식하며",
+      "word_indices": [
+        42,
+        5648
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and makest thy boast of God,",
+      "korean_translation": "하나님을 자랑하도다",
+      "word_indices": [
+        937,
+        1060
+      ]
+    }
+  ]
+}

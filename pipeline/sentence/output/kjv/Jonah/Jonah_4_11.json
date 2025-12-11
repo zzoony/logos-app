@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Jonah 4:11",
+  "version": "KJV",
+  "original_text": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?",
+  "korean_text": "하물며 이 큰 성읍 니느웨에는 좌우를 분변하지 못하는 자가 십이만여 명이요 가축도 많이 있나니 내가 어찌 아끼지 아니하겠느냐 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And should not I spare Nineveh",
+      "korean_translation": "내가 니느웨를 아끼지 않겠느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that great city",
+      "korean_translation": "그 큰 성읍을",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "wherein are more than sixscore thousand persons",
+      "korean_translation": "그 가운데에는 십이만 이천 명 이상의 사람이 있으니",
+      "word_indices": [
+        33,
+        38,
+        52,
+        295,
+        3806
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that cannot discern between their right hand and their left hand",
+      "korean_translation": "그들은 오른손과 왼손을 분별하지 못하는 자들이라",
+      "word_indices": [
+        8,
+        80,
+        139,
+        173
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and also much cattle",
+      "korean_translation": "또한 가축도 많이 있느니라",
+      "word_indices": [
+        9,
+        105,
+        217
+      ]
+    }
+  ]
+}

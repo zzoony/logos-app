@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 7:1",
+  "version": "KJV",
+  "original_text": "And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
+  "korean_text": "여호와께서 노아에게 이르시되 너와 네 온 집은 방주로 들어가라 이 세대에서 네가 내 앞에 의로움을 내가 보았음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said unto Noah",
+      "korean_translation": "주께서 노아에게 말씀하시기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Come thou and all thy house into the ark",
+      "korean_translation": "너와 네 온 집안은 방주로 들어오라",
+      "word_indices": [
+        4,
+        7,
+        140
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for thee have I seen righteous before me",
+      "korean_translation": "내가 네게 의인임을 보았노라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in this generation",
+      "korean_translation": "이 세대에서",
+      "word_indices": [
+        143
+      ]
+    }
+  ]
+}

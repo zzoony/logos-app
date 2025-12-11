@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 118:17",
+  "version": "KJV",
+  "original_text": "I shall not die, but live, and declare the works of the Lord.",
+  "korean_text": "내가 죽지 않고 살아서 여호와께서 하시는 일을 선포하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I shall not die",
+      "korean_translation": "나는 죽지 않을 것이다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but live",
+      "korean_translation": "그러나 살 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and declare the works of the Lord",
+      "korean_translation": "그리고 주님의 행적을 선포할 것이다",
+      "word_indices": [
+        29
+      ]
+    }
+  ]
+}

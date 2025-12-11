@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Job 42:5",
+  "version": "KJV",
+  "original_text": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
+  "korean_text": "내가 주께 대하여 귀로 듣기만 하였사오나 이제는 눈으로 주를 뵈옵나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have heard of thee",
+      "korean_translation": "내가 당신에 대해 들어왔었고",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by the hearing of the ear:",
+      "korean_translation": "귀로 듣기만 했었지만",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but now mine eye seeth thee.",
+      "korean_translation": "이제는 내 눈이 당신을 봅니다.",
+      "word_indices": [
+        2,
+        583
+      ]
+    }
+  ]
+}

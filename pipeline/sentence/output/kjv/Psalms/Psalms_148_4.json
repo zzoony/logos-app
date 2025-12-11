@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Psalms 148:4",
+  "version": "KJV",
+  "original_text": "Praise him, ye heavens of heavens, and ye waters that be above the heavens.",
+  "korean_text": "하늘의 하늘도 그를 찬양하며 하늘 위에 있는 물들도 그를 찬양할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Praise him",
+      "korean_translation": "그를 찬양하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "ye heavens of heavens",
+      "korean_translation": "너희 하늘의 하늘들이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ye waters",
+      "korean_translation": "그리고 너희 물들이여",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that be above the heavens",
+      "korean_translation": "하늘 위에 있는 것들",
+      "word_indices": [
+        145
+      ]
+    }
+  ]
+}

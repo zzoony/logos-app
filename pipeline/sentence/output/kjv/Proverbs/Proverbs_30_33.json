@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Proverbs 30:33",
+  "version": "KJV",
+  "original_text": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.",
+  "korean_text": "대저 젖을 저으면 엉긴 젖이 되고 코를 비틀면 피가 나는 것 같이 노를 격동하면 다툼이 남이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Surely the churning of milk bringeth forth butter",
+      "korean_translation": "진실로 우유를 짜면 버터가 나오고",
+      "word_indices": [
+        25,
+        407,
+        655,
+        1733,
+        5045
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the wringing of the nose bringeth forth blood",
+      "korean_translation": "코를 짜면 피가 나오는 것처럼",
+      "word_indices": [
+        25,
+        59,
+        407,
+        1557,
+        1958
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so the forcing of wrath bringeth forth strife",
+      "korean_translation": "이와 같이 분노를 강요하면 다툼이 생긴다",
+      "word_indices": [
+        25,
+        160,
+        407,
+        713
+      ]
+    }
+  ]
+}

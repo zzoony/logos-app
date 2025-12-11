@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 98:5",
+  "version": "KJV",
+  "original_text": "Sing unto the Lord with the harp; with the harp, and the voice of a psalm.",
+  "korean_text": "수금으로 여호와를 노래하라 수금과 음성으로 노래할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sing unto the Lord",
+      "korean_translation": "주께 노래하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with the harp",
+      "korean_translation": "하프로",
+      "word_indices": [
+        600
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the harp, and the voice of a psalm",
+      "korean_translation": "하프로, 시의 목소리로",
+      "word_indices": [
+        45,
+        600,
+        1511
+      ]
+    }
+  ]
+}

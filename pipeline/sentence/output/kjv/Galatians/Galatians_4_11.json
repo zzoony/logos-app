@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Galatians 4:11",
+  "version": "KJV",
+  "original_text": "I am afraid of you, lest I have bestowed upon you labour in vain.",
+  "korean_text": "내가 너희를 위하여 수고한 것이 헛될까 두려워하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am afraid of you",
+      "korean_translation": "내가 너희를 두려워하노니",
+      "word_indices": [
+        3,
+        165
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "lest I have bestowed upon you labour in vain",
+      "korean_translation": "이는 내가 너희에게 헛된 수고를 베풀까 염려함이라",
+      "word_indices": [
+        3,
+        264,
+        297,
+        1130
+      ]
+    }
+  ]
+}

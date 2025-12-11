@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 4:19",
+  "version": "KJV",
+  "original_text": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.",
+  "korean_text": "라멕이 두 아내를 맞이하였으니 하나의 이름은 아다요 하나의 이름은 씰라였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Lamech took unto him two wives",
+      "korean_translation": "라멕은 그에게 두 아내를 맞이했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the name of the one was Adah",
+      "korean_translation": "한 사람의 이름은 아다였으며",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the name of the other Zillah",
+      "korean_translation": "다른 사람의 이름은 실라였다",
+      "word_indices": [
+        16,
+        56
+      ]
+    }
+  ]
+}

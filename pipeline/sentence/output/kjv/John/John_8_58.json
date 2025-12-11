@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 8:58",
+  "version": "KJV",
+  "original_text": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.",
+  "korean_text": "예수께서 이르시되 진실로 진실로 너희에게 이르노니 아브라함이 나기 전부터 내가 있느니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said unto them",
+      "korean_translation": "예수께서 그들에게 이르시되",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Verily, verily, I say unto you",
+      "korean_translation": "진실로 진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Before Abraham was",
+      "korean_translation": "아브라함이 나기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am",
+      "korean_translation": "내가 있느니라",
+      "word_indices": []
+    }
+  ]
+}

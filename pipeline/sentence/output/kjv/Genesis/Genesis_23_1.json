@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 23:1",
+  "version": "KJV",
+  "original_text": "And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah.",
+  "korean_text": "사라가 백이십칠 세를 살았으니 이것이 곧 사라가 누린 햇수라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Sarah was an hundred",
+      "korean_translation": "사라는 백세가 되었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and seven and twenty years old",
+      "korean_translation": "스물일곱 살이 되었다",
+      "word_indices": [
+        23,
+        74,
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "these were the years",
+      "korean_translation": "이것이 그녀의 나이였다",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the life of Sarah",
+      "korean_translation": "사라의 생애의",
+      "word_indices": [
+        53
+      ]
+    }
+  ]
+}

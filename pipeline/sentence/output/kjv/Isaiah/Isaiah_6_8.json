@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 6:8",
+  "version": "KJV",
+  "original_text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.",
+  "korean_text": "내가 또 주의 목소리를 들으니 주께서 이르시되 내가 누구를 보내며 누가 우리를 위하여 갈꼬 하시니 그 때에 내가 이르되 내가 여기 있나이다 나를 보내소서 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Also I heard the voice of the Lord",
+      "korean_translation": "또한 내가 주의 음성을 들었으니",
+      "word_indices": [
+        9,
+        45
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, Whom shall I send",
+      "korean_translation": "이르시되 내가 누구를 보내며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and who will go for us?",
+      "korean_translation": "누가 우리를 위하여 갈꼬 하시니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then said I, Here am I",
+      "korean_translation": "그 때에 내가 이르되 내가 여기 있나이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "send me.",
+      "korean_translation": "나를 보내소서",
+      "word_indices": []
+    }
+  ]
+}

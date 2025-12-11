@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 26:2",
+  "version": "KJV",
+  "original_text": "The length of one curtain shall be eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.",
+  "korean_text": "매 폭의 길이는 스물여덟 규빗, 너비는 네 규빗으로 각 폭의 장단을 같게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The length of one curtain shall be eight and twenty cubits,",
+      "korean_translation": "한 장의 휘장 길이는 스물여덟 규빗이 되고,",
+      "word_indices": [
+        101,
+        117,
+        400,
+        415,
+        554
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the breadth of one curtain four cubits:",
+      "korean_translation": "너비는 네 규빗이며:",
+      "word_indices": [
+        117,
+        369,
+        554
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and every one of the curtains shall have one measure.",
+      "korean_translation": "모든 휘장은 동일한 규격으로 만들어야 하느니라.",
+      "word_indices": [
+        198,
+        554
+      ]
+    }
+  ]
+}

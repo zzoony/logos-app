@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Leviticus 21:18",
+  "version": "KJV",
+  "original_text": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,",
+  "korean_text": "누구든지 흠이 있는 자는 가까이 하지 못할지니 곧 맹인이나 다리 저는 자나 코가 불완전한 자나 지체가 더한 자나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For whatsoever man he be that hath a blemish",
+      "korean_translation": "어떤 남자든지 흠이 있는 자는",
+      "word_indices": [
+        496
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he shall not approach",
+      "korean_translation": "가까이 가지 못할 것이니",
+      "word_indices": [
+        1135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a blind man",
+      "korean_translation": "소경인 자",
+      "word_indices": [
+        380
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or a lame",
+      "korean_translation": "절뚝발이인 자",
+      "word_indices": [
+        15,
+        1033
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or he that hath a flat nose",
+      "korean_translation": "코가 납작한 자",
+      "word_indices": [
+        15,
+        1557,
+        2887
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or any thing superfluous",
+      "korean_translation": "지나친 것이 있는 자",
+      "word_indices": [
+        15,
+        22
+      ]
+    }
+  ]
+}

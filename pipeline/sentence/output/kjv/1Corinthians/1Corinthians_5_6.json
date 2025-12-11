@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Corinthians 5:6",
+  "version": "KJV",
+  "original_text": "Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?",
+  "korean_text": "너희가 자랑하는 것이 옳지 아니하도다 적은 누룩이 온 덩어리에 퍼지는 것을 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your glorying is not good",
+      "korean_translation": "너희의 자랑은 좋지 않으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Know ye not",
+      "korean_translation": "너희가 알지 못하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that a little leaven",
+      "korean_translation": "적은 누룩이",
+      "word_indices": [
+        131,
+        823
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "leaveneth the whole lump",
+      "korean_translation": "전체 반죽을 부패시킨다는 것을",
+      "word_indices": [
+        125,
+        2308,
+        4256
+      ]
+    }
+  ]
+}

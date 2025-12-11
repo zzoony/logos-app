@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 9:5",
+  "version": "KJV",
+  "original_text": "And they will deceive every one his neighbour, and will not speak the truth: they have taught their tongue to speak lies, and weary themselves to commit iniquity.",
+  "korean_text": "그들은 각기 이웃을 속이며 진실을 말하지 아니하며 그들의 혀로 거짓말하기를 가르치며 악을 행하기에 지치거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And they will deceive every one his neighbour",
+      "korean_translation": "그들은 각자 이웃을 속일 것이라",
+      "word_indices": [
+        213
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and will not speak the truth",
+      "korean_translation": "진실을 말하지 않을 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they have taught their tongue to speak lies",
+      "korean_translation": "그들은 거짓말하도록 자기 혀를 가르쳤다",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and weary themselves to commit iniquity",
+      "korean_translation": "죄를 짓도록 스스로를 수고하게 한다",
+      "word_indices": [
+        89,
+        191,
+        563
+      ]
+    }
+  ]
+}

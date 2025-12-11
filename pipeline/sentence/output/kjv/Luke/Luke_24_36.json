@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 24:36",
+  "version": "KJV",
+  "original_text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.",
+  "korean_text": "이 말을 할 때에 예수께서 친히 그들 가운데 서서 이르시되 너희에게 평강이 있을지어다 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as they thus spake",
+      "korean_translation": "그들이 이렇게 말할 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus himself stood in the midst of them",
+      "korean_translation": "예수께서 친히 그들 가운데 서서",
+      "word_indices": [
+        1,
+        77
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and saith unto them",
+      "korean_translation": "그들에게 이르시되",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Peace be unto you",
+      "korean_translation": "너희에게 평강이 있을지어다",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

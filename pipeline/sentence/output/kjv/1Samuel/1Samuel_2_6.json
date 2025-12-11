@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Samuel 2:6",
+  "version": "KJV",
+  "original_text": "The Lord killeth, and maketh alive: he bringeth down to the grave, and bringeth up.",
+  "korean_text": "여호와는 죽이기도 하시고 살리기도 하시며 스올에 내리게도 하시고 거기에서 올리기도 하시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord killeth",
+      "korean_translation": "주님은 죽이시고",
+      "word_indices": [
+        1134
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and maketh alive",
+      "korean_translation": "살리시니",
+      "word_indices": [
+        262,
+        373
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he bringeth down to the grave",
+      "korean_translation": "그는 무덤으로 내려가게 하시고",
+      "word_indices": [
+        14,
+        257,
+        407
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and bringeth up",
+      "korean_translation": "올려보내시느니라",
+      "word_indices": [
+        407
+      ]
+    }
+  ]
+}

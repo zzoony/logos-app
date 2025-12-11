@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 8:13",
+  "version": "KJV",
+  "original_text": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.",
+  "korean_text": "예수께서 백부장에게 이르시되 가라 네 믿은 대로 될지어다 하시니 그 즉시 하인이 나으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said unto the centurion",
+      "korean_translation": "예수께서 백부장에게 말씀하시되",
+      "word_indices": [
+        1119
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go thy way",
+      "korean_translation": "가라 네 길을",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and as thou hast believed",
+      "korean_translation": "네가 믿은 바대로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so be it done unto thee",
+      "korean_translation": "될지어다 하시니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And his servant was healed",
+      "korean_translation": "그 하인이 나았더라",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in the selfsame hour",
+      "korean_translation": "바로 그 시간에",
+      "word_indices": [
+        350,
+        1454
+      ]
+    }
+  ]
+}

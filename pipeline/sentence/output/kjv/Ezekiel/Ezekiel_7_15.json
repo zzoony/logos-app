@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Ezekiel 7:15",
+  "version": "KJV",
+  "original_text": "The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him.",
+  "korean_text": "밖에는 칼이 있고 안에는 전염병과 기근이 있어서 밭에 있는 자는 칼에 죽을 것이요 성읍에 있는 자는 기근과 전염병에 망할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sword is without",
+      "korean_translation": "검은 밖에 있고",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the pestilence and famine within",
+      "korean_translation": "역병과 기근은 안에 있으니",
+      "word_indices": [
+        340,
+        644
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he that is in the field",
+      "korean_translation": "들에 있는 자는",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall die with the sword",
+      "korean_translation": "검으로 죽을 것이요",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he that is in the city",
+      "korean_translation": "성에 있는 자는",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "famine and pestilence shall devour him",
+      "korean_translation": "기근과 역병이 그를 삼키리라",
+      "word_indices": [
+        252,
+        340,
+        644
+      ]
+    }
+  ]
+}

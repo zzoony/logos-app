@@ -1,0 +1,40 @@
+{
+  "verse_reference": "2 Thessalonians 3:10",
+  "version": "KJV",
+  "original_text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat.",
+  "korean_text": "우리가 너희와 함께 있을 때에도 너희에게 명하기를 누구든지 일하기 싫어하거든 먹지도 말게 하라 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For even when we were with you",
+      "korean_translation": "우리가 너희와 함께 있을 때에도",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this we commanded you",
+      "korean_translation": "우리가 너희에게 이것을 명령하였으니",
+      "word_indices": [
+        3,
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that if any would not work",
+      "korean_translation": "만일 누가 일하기 싫어하면",
+      "word_indices": [
+        22,
+        29
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "neither should he eat",
+      "korean_translation": "그도 먹지 못하게 하라",
+      "word_indices": []
+    }
+  ]
+}

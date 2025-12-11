@@ -1,0 +1,74 @@
+{
+  "verse_reference": "John 10:12",
+  "version": "KJV",
+  "original_text": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.",
+  "korean_text": "삯꾼은 목자가 아니요 양도 제 양이 아니라 이리가 오는 것을 보면 양을 버리고 달아나나니 이리가 양을 물어 가고 또 헤치느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But he that is an hireling",
+      "korean_translation": "그러나 삯꾼인 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and not the shepherd",
+      "korean_translation": "목자가 아니며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose own the sheep are not",
+      "korean_translation": "양들이 자기 것이 아닌 사람은",
+      "word_indices": [
+        37,
+        170
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "seeth the wolf coming",
+      "korean_translation": "이리가 오는 것을 보고",
+      "word_indices": [
+        583,
+        1604
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and leaveth the sheep",
+      "korean_translation": "양을 버려두고",
+      "word_indices": [
+        170,
+        2516
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and fleeth",
+      "korean_translation": "달아나고",
+      "word_indices": [
+        1981
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and the wolf catcheth them",
+      "korean_translation": "이리가 그들을 붙잡고",
+      "word_indices": [
+        1,
+        1604,
+        3232
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and scattereth the sheep",
+      "korean_translation": "양들을 흩어 버리느니라",
+      "word_indices": [
+        170,
+        1900
+      ]
+    }
+  ]
+}

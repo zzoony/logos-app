@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 18:15",
+  "version": "KJV",
+  "original_text": "And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.",
+  "korean_text": "시몬 베드로와 또 다른 제자 한 사람이 예수를 따르니 이 제자는 대제사장과 아는 사람이라 예수와 함께 대제사장의 집 뜰에 들어가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Simon Peter followed Jesus",
+      "korean_translation": "시몬 베드로는 예수를 따랐고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and so did another disciple",
+      "korean_translation": "다른 제자도 그랬습니다",
+      "word_indices": [
+        58,
+        110
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that disciple was known unto the high priest",
+      "korean_translation": "그 제자는 대제사장에게 알려진 사람이었고",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and went in with Jesus into the palace of the high priest",
+      "korean_translation": "예수와 함께 대제사장의 궁으로 들어갔습니다",
+      "word_indices": [
+        7,
+        399
+      ]
+    }
+  ]
+}

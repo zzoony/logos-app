@@ -1,0 +1,39 @@
+{
+  "verse_reference": "2 Timothy 2:12",
+  "version": "KJV",
+  "original_text": "If we suffer, we shall also reign with him: if we deny him, he also will deny us:",
+  "korean_text": "참으면 또한 함께 왕 노릇 할 것이요 우리가 주를 부인하면 주도 우리를 부인하실 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If we suffer",
+      "korean_translation": "우리가 고난을 받으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we shall also reign with him",
+      "korean_translation": "우리도 그와 함께 다스릴 것입니다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if we deny him",
+      "korean_translation": "우리가 그를 부인하면",
+      "word_indices": [
+        669
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he also will deny us",
+      "korean_translation": "그도 우리를 부인하실 것입니다",
+      "word_indices": [
+        9,
+        669
+      ]
+    }
+  ]
+}

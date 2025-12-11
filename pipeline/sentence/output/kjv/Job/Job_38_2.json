@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Job 38:2",
+  "version": "KJV",
+  "original_text": "Who is this that darkeneth counsel by words without knowledge?",
+  "korean_text": "무지한 말로 생각을 어둡게 하는 자가 누구냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Who is this",
+      "korean_translation": "이 자가 누구냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that darkeneth counsel",
+      "korean_translation": "경륜을 어둡게 하는가",
+      "word_indices": [
+        211,
+        4847
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by words without knowledge?",
+      "korean_translation": "지식 없는 말로 하는가",
+      "word_indices": [
+        64,
+        186
+      ]
+    }
+  ]
+}

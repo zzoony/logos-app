@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 68:25",
+  "version": "KJV",
+  "original_text": "The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels.",
+  "korean_text": "소고 치는 처녀들 중에서 노래 부르는 자들은 앞서고 악기를 연주하는 자들은 뒤따르나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The singers went before",
+      "korean_translation": "노래하는 사람들이 앞에 갔으며",
+      "word_indices": [
+        768
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the players on instruments followed after",
+      "korean_translation": "악기 연주자들이 뒤를 따랐으며",
+      "word_indices": [
+        532,
+        3308
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "among them were the damsels",
+      "korean_translation": "그들 중에는 소녀들이 있었으니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "playing with timbrels",
+      "korean_translation": "소구를 치고 있었다",
+      "word_indices": [
+        725,
+        1831
+      ]
+    }
+  ]
+}

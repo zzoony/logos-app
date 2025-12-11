@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Joshua 24:5",
+  "version": "KJV",
+  "original_text": "I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.",
+  "korean_text": "내가 모세와 아론을 보내었고 또 애굽에 재앙을 내렸나니 곧 내가 그들 가운데 행한 것과 같고 그 후에 너희를 인도하여 내었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I sent Moses also and Aaron,",
+      "korean_translation": "나는 모세와 아론도 보냈고,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I plagued Egypt,",
+      "korean_translation": "그리고 애굽에 재앙을 내렸으며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "according to that which I did among them:",
+      "korean_translation": "내가 그들 가운데서 행한 것 같이 하였으니",
+      "word_indices": [
+        1,
+        28
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and afterward I brought you out.",
+      "korean_translation": "그 후에 내가 너희를 인도해냈다.",
+      "word_indices": [
+        3,
+        468
+      ]
+    }
+  ]
+}

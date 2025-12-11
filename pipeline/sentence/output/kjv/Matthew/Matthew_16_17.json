@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 16:17",
+  "version": "KJV",
+  "original_text": "And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.",
+  "korean_text": "예수께서 대답하여 이르시되 바요나 시몬아 네가 복이 있도다 이를 네게 알게 한 이는 혈육이 아니요 하늘에 계신 내 아버지시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus answered and said unto him",
+      "korean_translation": "예수께서 그에게 대답하여 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Blessed art thou, Simon Barjona",
+      "korean_translation": "복이 있도다 시몬 바요나야",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for flesh and blood hath not revealed it unto thee",
+      "korean_translation": "이것을 네게 알게 한 것이 혈육이 아니요",
+      "word_indices": [
+        2,
+        59,
+        67,
+        698
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but my Father which is in heaven",
+      "korean_translation": "하늘에 계신 내 아버지이시니라",
+      "word_indices": []
+    }
+  ]
+}

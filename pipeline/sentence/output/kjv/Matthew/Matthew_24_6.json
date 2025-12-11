@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Matthew 24:6",
+  "version": "KJV",
+  "original_text": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.",
+  "korean_text": "난리와 난리 소문을 듣겠으나 너희는 삼가 두려워하지 말라 이런 일이 있어야 하되 아직 끝은 아니니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And ye shall hear of wars",
+      "korean_translation": "너희가 전쟁에 대한 소문을 듣겠고",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and rumours of wars",
+      "korean_translation": "전쟁에 대한 소문을 듣겠으나",
+      "word_indices": [
+        123,
+        1713
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "see that ye be not troubled",
+      "korean_translation": "두려워하지 말라 보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for all these things must come to pass",
+      "korean_translation": "이 모든 일이 반드시 있을 것이나",
+      "word_indices": [
+        11,
+        27
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but the end is not yet",
+      "korean_translation": "끝은 아직 아니니라",
+      "word_indices": [
+        73
+      ]
+    }
+  ]
+}

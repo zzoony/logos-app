@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Chronicles 10:1",
+  "version": "KJV",
+  "original_text": "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.",
+  "korean_text": "블레셋 사람들과 이스라엘이 싸우더니 이스라엘 사람들이 블레셋 사람들 앞에서 도망하다가 길보아 산에서 죽임을 당하여 엎드러지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now the Philistines fought against Israel",
+      "korean_translation": "이제 블레셋 사람이 이스라엘과 싸우니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the men of Israel fled from before the Philistines",
+      "korean_translation": "이스라엘 사람들이 블레셋 사람 앞에서 도망하였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and fell down slain in mount Gilboa",
+      "korean_translation": "길보아 산에서 죽어 넘어졌더라",
+      "word_indices": [
+        14,
+        112,
+        129
+      ]
+    }
+  ]
+}

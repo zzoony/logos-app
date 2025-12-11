@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 6:1",
+  "version": "KJV",
+  "original_text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+  "korean_text": "여호와여 주의 분노로 나를 책망하지 마시오며 주의 진노로 나를 징계하지 마옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "rebuke me not in thine anger",
+      "korean_translation": "진노 중에 나를 책망하지 마옵소서",
+      "word_indices": [
+        136,
+        420
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither chasten me in thy hot displeasure",
+      "korean_translation": "분노 중에 나를 징계하지 마옵소서",
+      "word_indices": [
+        930,
+        1254,
+        2648
+      ]
+    }
+  ]
+}

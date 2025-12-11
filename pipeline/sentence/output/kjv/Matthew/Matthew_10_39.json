@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 10:39",
+  "version": "KJV",
+  "original_text": "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.",
+  "korean_text": "자기 목숨을 얻는 자는 잃을 것이요 나를 위하여 자기 목숨을 잃는 자는 얻으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that findeth his life",
+      "korean_translation": "자기 목숨을 찾는 자는",
+      "word_indices": [
+        53,
+        1016
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall lose it",
+      "korean_translation": "잃을 것이요",
+      "word_indices": [
+        553
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he that loseth his life for my sake",
+      "korean_translation": "나를 위해 자기 목숨을 잃는 자는",
+      "word_indices": [
+        53,
+        181,
+        5423
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall find it",
+      "korean_translation": "찾으리라",
+      "word_indices": [
+        39
+      ]
+    }
+  ]
+}

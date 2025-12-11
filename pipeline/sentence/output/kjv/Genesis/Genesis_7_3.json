@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 7:3",
+  "version": "KJV",
+  "original_text": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.",
+  "korean_text": "공중의 새도 암수 일곱씩을 데려와 그 씨를 온 지면에 유전하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Of fowls also of the air by sevens",
+      "korean_translation": "공중의 새들도 일곱 쌍으로",
+      "word_indices": [
+        9,
+        381,
+        769
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the male and the female",
+      "korean_translation": "수컷과 암컷",
+      "word_indices": [
+        408,
+        1090
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to keep seed alive",
+      "korean_translation": "씨를 살리기 위해",
+      "word_indices": [
+        373
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "upon the face of all the earth",
+      "korean_translation": "온 땅 위에",
+      "word_indices": [
+        49
+      ]
+    }
+  ]
+}

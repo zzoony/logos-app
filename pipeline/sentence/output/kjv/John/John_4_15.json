@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 4:15",
+  "version": "KJV",
+  "original_text": "The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw.",
+  "korean_text": "여자가 이르되 주여 그런 물을 내게 주사 목마르지도 않고 또 여기 물 길으러 오지도 않게 하옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman saith unto him, Sir,",
+      "korean_translation": "여자가 그에게 말하되, 주여,",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "give me this water,",
+      "korean_translation": "이 물을 내게 주소서,",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I thirst not,",
+      "korean_translation": "내가 다시 목마르지 않게 하시고",
+      "word_indices": [
+        891
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "neither come hither to draw.",
+      "korean_translation": "물 길으러 다시 이리 오지 않게 하옵소서.",
+      "word_indices": [
+        462
+      ]
+    }
+  ]
+}

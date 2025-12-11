@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 4:20",
+  "version": "KJV",
+  "original_text": "Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.",
+  "korean_text": "우리 조상들은 이 산에서 예배하였는데 당신들의 말은 예배할 곳이 예루살렘에 있다 하더이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our fathers worshipped in this mountain",
+      "korean_translation": "우리 조상들은 이 산에서 예배했고",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ye say",
+      "korean_translation": "그리고 당신들은 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that in Jerusalem is the place",
+      "korean_translation": "예루살렘에 그 장소가 있다고",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "where men ought to worship",
+      "korean_translation": "사람들이 마땅히 예배해야 할",
+      "word_indices": [
+        174,
+        346
+      ]
+    }
+  ]
+}

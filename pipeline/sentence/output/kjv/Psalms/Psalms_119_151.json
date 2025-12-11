@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 119:151",
+  "version": "KJV",
+  "original_text": "Thou art near, O Lord; and all thy commandments are truth.",
+  "korean_text": "여호와여 주께서 가까이 계시오니 주의 모든 계명들은 진리니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou art near",
+      "korean_translation": "주께서 가까이 계시며",
+      "word_indices": [
+        150
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all thy commandments are truth",
+      "korean_translation": "주의 모든 계명들은 진리로다",
+      "word_indices": [
+        85
+      ]
+    }
+  ]
+}

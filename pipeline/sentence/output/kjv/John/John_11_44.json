@@ -1,0 +1,58 @@
+{
+  "verse_reference": "John 11:44",
+  "version": "KJV",
+  "original_text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.",
+  "korean_text": "죽은 자가 수족을 베로 동인 채로 나오는데 그 얼굴은 수건에 싸였더라 예수께서 이르시되 풀어 놓아 다니게 하라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he that was dead came forth",
+      "korean_translation": "죽었던 자가 나아오고",
+      "word_indices": [
+        25,
+        78
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "bound hand and foot with graveclothes",
+      "korean_translation": "수의로 손과 발이 묶인 채",
+      "word_indices": [
+        8,
+        83,
+        2086
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his face was bound about with a napkin",
+      "korean_translation": "그의 얼굴은 수건으로 묶여 있었더라",
+      "word_indices": [
+        49,
+        2086,
+        3564
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus saith unto them",
+      "korean_translation": "예수께서 그들에게 이르시되",
+      "word_indices": [
+        1,
+        13
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Loose him",
+      "korean_translation": "그를 풀어",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and let him go",
+      "korean_translation": "가게 하라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Proverbs 22:13",
+  "version": "KJV",
+  "original_text": "The slothful man saith, There is a lion without, I shall be slain in the streets.",
+  "korean_text": "게으른 자는 말하기를 사자가 밖에 있은즉 내가 나가면 거리에서 찢기겠다 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The slothful man saith",
+      "korean_translation": "게으른 자가 말하되",
+      "word_indices": [
+        13,
+        1500
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There is a lion without",
+      "korean_translation": "밖에 사자가 있다",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I shall be slain in the streets",
+      "korean_translation": "내가 거리에서 죽임을 당하리라",
+      "word_indices": [
+        330
+      ]
+    }
+  ]
+}

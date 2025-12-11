@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Kings 19:33",
+  "version": "KJV",
+  "original_text": "By the way that he came, by the same shall he return, and shall not come into this city, saith the Lord.",
+  "korean_text": "오던 길로 돌아가고 이 성에 이르지 못하리라 하셨으니 이는 여호와의 말씀이시라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By the way that he came",
+      "korean_translation": "그가 왔던 그 길로",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by the same shall he return",
+      "korean_translation": "같은 길로 그가 돌아오리라",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shall not come into this city",
+      "korean_translation": "그리고 이 성에 들어오지 못하리라",
+      "word_indices": [
+        7,
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "saith the Lord",
+      "korean_translation": "주께서 말씀하시느니라",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

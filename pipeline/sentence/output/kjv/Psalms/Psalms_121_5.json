@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 121:5",
+  "version": "KJV",
+  "original_text": "The Lord is thy keeper: the Lord is thy shade upon thy right hand.",
+  "korean_text": "여호와는 너를 지키시는 이시라 여호와께서 네 오른쪽에서 네 그늘이 되시나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is thy keeper",
+      "korean_translation": "주님은 너의 지키시는 자이시며",
+      "word_indices": [
+        721
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Lord is thy shade",
+      "korean_translation": "주님은 너의 그늘이 되시며",
+      "word_indices": [
+        4962
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "upon thy right hand",
+      "korean_translation": "너의 오른편에 있느니라",
+      "word_indices": [
+        8,
+        80
+      ]
+    }
+  ]
+}

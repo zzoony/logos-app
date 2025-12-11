@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Genesis 47:20",
+  "version": "KJV",
+  "original_text": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's.",
+  "korean_text": "그러므로 요셉이 애굽의 모든 토지를 다 사서 바로에게 바치니 애굽의 모든 사람들이 기근에 시달려 각기 토지를 팔았음이라 땅이 바로의 소유가 되니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Joseph bought all the land of Egypt",
+      "korean_translation": "그리고 요셉이 이집트의 모든 땅을 샀습니다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for Pharaoh",
+      "korean_translation": "바로를 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the Egyptians sold every man his field",
+      "korean_translation": "이집트 사람들은 각자 자신의 밭을 팔았습니다",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because the famine prevailed over them",
+      "korean_translation": "기근이 그들에게 심했기 때문입니다",
+      "word_indices": [
+        1,
+        18,
+        340,
+        467
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so the land became Pharaoh's",
+      "korean_translation": "그래서 땅은 바로의 것이 되었습니다",
+      "word_indices": [
+        10
+      ]
+    }
+  ]
+}

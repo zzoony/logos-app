@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Romans 2:21",
+  "version": "KJV",
+  "original_text": "Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?",
+  "korean_text": "그러면 다른 사람을 가르치는 네가 네 자신은 가르치지 아니하느냐 도둑질하지 말라 선포하는 네가 도둑질하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou therefore which teachest another",
+      "korean_translation": "그러므로 네가 다른 사람을 가르치면서",
+      "word_indices": [
+        58,
+        2166
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "teachest thou not thyself?",
+      "korean_translation": "네 자신은 가르치지 않느냐?",
+      "word_indices": [
+        146,
+        2166
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thou that preachest a man should not steal",
+      "korean_translation": "사람이 훔치지 말아야 한다고 전파하는 네가",
+      "word_indices": [
+        689,
+        5651
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "dost thou steal?",
+      "korean_translation": "네가 훔치느냐?",
+      "word_indices": [
+        689
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 22:7",
+  "version": "KJV",
+  "original_text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?",
+  "korean_text": "이삭이 그 아버지 아브라함에게 말하여 이르되 내 아버지여 하니 그가 이르되 내 아들아 내가 여기 있노라 이삭이 이르되 불과 나무는 있거니와 번제할 어린 양은 어디 있나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Isaac spake unto Abraham his father",
+      "korean_translation": "이삭이 그 아버지 아브라함에게 말하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said, My father:",
+      "korean_translation": "이르되 내 아버지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he said, Here am I, my son.",
+      "korean_translation": "대답하되 내 아들아 내가 여기 있노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And he said, Behold the fire and the wood:",
+      "korean_translation": "이삭이 가로되 불과 나무는 있거니와",
+      "word_indices": [
+        41,
+        233
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but where is the lamb for a burnt offering?",
+      "korean_translation": "번제할 어린 양은 어디 있나이까",
+      "word_indices": [
+        17
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 23:12",
+  "version": "KJV",
+  "original_text": "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.",
+  "korean_text": "누구든지 자기를 높이는 자는 낮아지고 누구든지 자기를 낮추는 자는 높아지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And whosoever shall exalt himself",
+      "korean_translation": "누구든지 자기를 높이면",
+      "word_indices": [
+        367
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall be abased",
+      "korean_translation": "낮아지게 될 것이요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he that shall humble himself",
+      "korean_translation": "누구든지 자기를 낮추면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall be exalted",
+      "korean_translation": "높아지게 될 것이다",
+      "word_indices": [
+        367
+      ]
+    }
+  ]
+}

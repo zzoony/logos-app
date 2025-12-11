@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 24:10",
+  "version": "KJV",
+  "original_text": "It was Mary Magdalene and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles.",
+  "korean_text": "(이 여자들은 막달라 마리아와 요안나와 야고보의 모친 마리아라 또 그들과 함께 한 다른 여자들도 이것을 사도들에게 알리니라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It was Mary Magdalene and Joanna",
+      "korean_translation": "그것은 막달라 마리아와 요안나였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Mary the mother of James",
+      "korean_translation": "야고보의 어머니 마리아와",
+      "word_indices": [
+        732
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and other women that were with them",
+      "korean_translation": "그들과 함께 있던 다른 여자들이었는데",
+      "word_indices": [
+        1,
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which told these things unto the apostles",
+      "korean_translation": "그들이 이런 일들을 사도들에게 말했다",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

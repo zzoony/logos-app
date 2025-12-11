@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Leviticus 18:22",
+  "version": "KJV",
+  "original_text": "Thou shalt not lie with mankind, as with womankind: it is abomination.",
+  "korean_text": "너는 여자와 동침함 같이 남자와 동침하지 말라 이는 가증한 일이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou shalt not lie with mankind",
+      "korean_translation": "너는 남성과 동침하지 말라",
+      "word_indices": [
+        2422
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as with womankind",
+      "korean_translation": "여성과 하는 것처럼",
+      "word_indices": [
+        4444
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it is abomination",
+      "korean_translation": "그것은 가증한 일이다",
+      "word_indices": [
+        218
+      ]
+    }
+  ]
+}

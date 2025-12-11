@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Deuteronomy 30:8",
+  "version": "KJV",
+  "original_text": "And thou shalt return and obey the voice of the Lord, and do all his commandments which I command thee this day.",
+  "korean_text": "너는 돌아와 다시 여호와의 말씀을 청종하고 내가 오늘 네게 명령하는 그 모든 명령을 행할 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And thou shalt return",
+      "korean_translation": "그리고 너는 돌아올 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and obey the voice of the Lord",
+      "korean_translation": "그리고 주의 목소리를 순종할 것이다",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and do all his commandments",
+      "korean_translation": "그리고 그의 모든 명령을 지킬 것이다",
+      "word_indices": [
+        85
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which I command thee this day",
+      "korean_translation": "내가 오늘 너에게 명령하는",
+      "word_indices": [
+        2,
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 18:10",
+  "version": "KJV",
+  "original_text": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.",
+  "korean_text": "그룹을 타고 다니심이여 바람 날개를 타고 높이 솟아오르셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he rode upon a cherub",
+      "korean_translation": "그는 그룹 위를 탔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and did fly",
+      "korean_translation": "날았다",
+      "word_indices": [
+        650
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yea, he did fly",
+      "korean_translation": "그래, 그는 날았다",
+      "word_indices": [
+        650
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "upon the wings of the wind",
+      "korean_translation": "바람의 날개 위에서",
+      "word_indices": [
+        184,
+        363
+      ]
+    }
+  ]
+}

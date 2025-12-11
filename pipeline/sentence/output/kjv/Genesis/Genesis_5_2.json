@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 5:2",
+  "version": "KJV",
+  "original_text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
+  "korean_text": "남자와 여자를 창조하셨고 그들이 창조되던 날에 하나님이 그들에게 복을 주시고 그들의 이름을 사람이라 일컬으셨더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Male and female created he them",
+      "korean_translation": "그가 그들을 남자와 여자로 창조하셨고",
+      "word_indices": [
+        1,
+        408,
+        1090
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and blessed them",
+      "korean_translation": "그들에게 복을 주셨으며",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and called their name Adam",
+      "korean_translation": "그들의 이름을 아님이라 불렀으니",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the day when they were created",
+      "korean_translation": "그들이 창조된 날에",
+      "word_indices": []
+    }
+  ]
+}

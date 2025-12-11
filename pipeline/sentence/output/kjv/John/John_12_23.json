@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 12:23",
+  "version": "KJV",
+  "original_text": "And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.",
+  "korean_text": "예수께서 대답하여 이르시되 인자가 영광을 얻을 때가 왔도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus answered them",
+      "korean_translation": "예수께서 그들에게 대답하여",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying",
+      "korean_translation": "말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The hour is come",
+      "korean_translation": "때가 이르렀도다",
+      "word_indices": [
+        350
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that the Son of man should be glorified",
+      "korean_translation": "인자가 영광을 받을 때가",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 26:19",
+  "version": "KJV",
+  "original_text": "And Isaac's servants digged in the valley, and found there a well of springing water.",
+  "korean_text": "이삭의 종들이 골짜기를 파서 샘 근원을 얻었더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Isaac's servants digged in the valley",
+      "korean_translation": "이삭의 종들이 골짜기에서 파서",
+      "word_indices": [
+        19,
+        192
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and found there a well",
+      "korean_translation": "거기서 우물을 발견했으니",
+      "word_indices": [
+        1903
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of springing water",
+      "korean_translation": "샘물이 솟아나는 우물이었다",
+      "word_indices": [
+        32
+      ]
+    }
+  ]
+}

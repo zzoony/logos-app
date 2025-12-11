@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 15:11",
+  "version": "KJV",
+  "original_text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.",
+  "korean_text": "내가 이것을 너희에게 이름은 내 기쁨이 너희 안에 있어 너희 기쁨을 충만하게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These things have I spoken unto you",
+      "korean_translation": "나는 너희에게 이런 것들을 말하였다",
+      "word_indices": [
+        3,
+        11
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that my joy might remain in you",
+      "korean_translation": "나의 기쁨이 너희 안에 머물게 하려는 것이다",
+      "word_indices": [
+        3,
+        55,
+        194
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and that your joy might be full",
+      "korean_translation": "그리고 너희의 기쁨이 가득하게 하려는 것이다",
+      "word_indices": [
+        55,
+        194
+      ]
+    }
+  ]
+}

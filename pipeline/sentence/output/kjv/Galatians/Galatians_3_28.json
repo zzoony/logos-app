@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Galatians 3:28",
+  "version": "KJV",
+  "original_text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
+  "korean_text": "너희는 유대인이나 헬라인이나 종이나 자유인이나 남자나 여자나 다 그리스도 예수 안에서 하나이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is neither Jew nor Greek",
+      "korean_translation": "유대인도 헬라인도 없고",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there is neither bond nor free",
+      "korean_translation": "종도 자유인도 없고",
+      "word_indices": [
+        31,
+        521,
+        697
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there is neither male nor female",
+      "korean_translation": "남자도 여자도 없고",
+      "word_indices": [
+        31,
+        408,
+        1090
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for ye are all one in Christ Jesus",
+      "korean_translation": "너희는 다 그리스도 예수 안에서 하나이기 때문이라",
+      "word_indices": []
+    }
+  ]
+}

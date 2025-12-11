@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 3:5",
+  "version": "KJV",
+  "original_text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.",
+  "korean_text": "예수께서 대답하시되 진실로 진실로 네게 이르노니 사람이 물과 성령으로 나지 아니하면 하나님의 나라에 들어갈 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Verily, verily, I say unto thee",
+      "korean_translation": "진실로 진실로 네게 이르노니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Except a man be born of water and of the Spirit",
+      "korean_translation": "사람이 물과 성령으로 나지 아니하면",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he cannot enter into the kingdom of God",
+      "korean_translation": "하나님의 나라에 들어갈 수 없느니라",
+      "word_indices": [
+        7,
+        71,
+        173
+      ]
+    }
+  ]
+}

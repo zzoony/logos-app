@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 31:12",
+  "version": "KJV",
+  "original_text": "I am forgotten as a dead man out of mind: I am like a broken vessel.",
+  "korean_text": "내가 잊어버린 바 됨이 죽은 자를 마음에 두지 아니함 같고 깨진 그릇과 같으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am forgotten",
+      "korean_translation": "나는 잊혔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as a dead man out of mind",
+      "korean_translation": "마치 마음에서 사라진 죽은 사람처럼",
+      "word_indices": [
+        78,
+        258
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am like a broken vessel",
+      "korean_translation": "나는 부서진 그릇과 같다",
+      "word_indices": [
+        158
+      ]
+    }
+  ]
+}

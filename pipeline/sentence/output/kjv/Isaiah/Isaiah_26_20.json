@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Isaiah 26:20",
+  "version": "KJV",
+  "original_text": "Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.",
+  "korean_text": "내 백성아 갈지어다 네 밀실에 들어가서 네 문을 닫고 분노가 지나기까지 잠깐 숨을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come, my people",
+      "korean_translation": "오라, 나의 백성들아",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "enter thou into thy chambers",
+      "korean_translation": "네 방으로 들어가라",
+      "word_indices": [
+        7,
+        269
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shut thy doors about thee",
+      "korean_translation": "그리고 네 문을 닫아라",
+      "word_indices": [
+        2,
+        115,
+        311
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "hide thyself as it were",
+      "korean_translation": "마치 그런 것처럼 너를 숨기라",
+      "word_indices": [
+        146
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for a little moment",
+      "korean_translation": "잠시 동안",
+      "word_indices": [
+        131,
+        1164
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "until the indignation be overpast",
+      "korean_translation": "분노가 지나갈 때까지",
+      "word_indices": [
+        749,
+        3939
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Jeremiah 17:21",
+  "version": "KJV",
+  "original_text": "Thus saith the Lord; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;",
+  "korean_text": "여호와께서 이와 같이 말씀하시되 너희는 스스로 삼가서 안식일에 짐을 지고 예루살렘 문으로 들어오지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thus saith the Lord",
+      "korean_translation": "이와 같이 주께서 말씀하시니라",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take heed to yourselves",
+      "korean_translation": "너희는 스스로 삼가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bear no burden on sabbath day",
+      "korean_translation": "안식일에 짐을 지지 말며",
+      "word_indices": [
+        63,
+        188,
+        354
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor bring it in by gates of Jerusalem",
+      "korean_translation": "예루살렘 문으로 들여오지 말라",
+      "word_indices": [
+        31,
+        1225
+      ]
+    }
+  ]
+}

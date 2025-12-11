@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 7:21",
+  "version": "KJV",
+  "original_text": "And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt.",
+  "korean_text": "나일 강의 고기가 죽고 그 물에서는 악취가 나니 애굽 사람들이 나일 강 물을 마시지 못하며 애굽 온 땅에는 피가 있으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the fish that was in the river died",
+      "korean_translation": "그리고 강에 있던 고기가 죽었고",
+      "word_indices": [
+        120,
+        487
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the river stank",
+      "korean_translation": "강에서는 악취가 났으며",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the Egyptians could not drink of the water of the river",
+      "korean_translation": "이집트 사람들은 강물을 마실 수 없었고",
+      "word_indices": [
+        32,
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and there was blood throughout all the land of Egypt",
+      "korean_translation": "이집트 온 땅에 피가 있었습니다",
+      "word_indices": [
+        10,
+        59,
+        206
+      ]
+    }
+  ]
+}

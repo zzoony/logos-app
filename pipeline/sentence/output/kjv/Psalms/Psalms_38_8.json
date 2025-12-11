@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 38:8",
+  "version": "KJV",
+  "original_text": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
+  "korean_text": "내가 피곤하고 심히 상하였으매 마음이 불안하여 신음하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am feeble",
+      "korean_translation": "나는 연약합니다",
+      "word_indices": [
+        1227
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and sore broken",
+      "korean_translation": "그리고 깊이 상처받았습니다",
+      "word_indices": [
+        324
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have roared",
+      "korean_translation": "나는 소리쳤습니다",
+      "word_indices": [
+        711
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by reason of the disquietness of my heart",
+      "korean_translation": "내 마음의 불안함 때문에",
+      "word_indices": [
+        20,
+        366
+      ]
+    }
+  ]
+}

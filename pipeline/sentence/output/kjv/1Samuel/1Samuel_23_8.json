@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 23:8",
+  "version": "KJV",
+  "original_text": "And Saul called all the people together to war, to go down to Keilah, to besiege David and his men.",
+  "korean_text": "사울이 모든 백성을 군사로 불러모으고 그일라로 내려가서 다윗과 그의 사람들을 에워싸려 하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Saul called all the people together",
+      "korean_translation": "사울이 모든 백성을 불러 모았고",
+      "word_indices": [
+        5,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to war",
+      "korean_translation": "전쟁을 위해",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to go down to Keilah",
+      "korean_translation": "기라아로 내려가",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to besiege David and his men",
+      "korean_translation": "다윗과 그의 사람들을 포위하기 위해",
+      "word_indices": [
+        881
+      ]
+    }
+  ]
+}

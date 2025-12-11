@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 107:42",
+  "version": "KJV",
+  "original_text": "The righteous shall see it, and rejoice: and all iniquity shall stop her mouth.",
+  "korean_text": "정직한 자는 보고 기뻐하며 모든 사악한 자는 자기 입을 봉하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The righteous shall see it,",
+      "korean_translation": "의인들이 그것을 보고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and rejoice:",
+      "korean_translation": "기뻐할 것이요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all iniquity",
+      "korean_translation": "모든 불의가",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall stop her mouth.",
+      "korean_translation": "입을 막으리라.",
+      "word_indices": [
+        60,
+        1149
+      ]
+    }
+  ]
+}

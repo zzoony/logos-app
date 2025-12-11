@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 8:20",
+  "version": "KJV",
+  "original_text": "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head.",
+  "korean_text": "예수께서 이르시되 여우도 굴이 있고 공중의 새도 거처가 있으되 인자는 머리 둘 곳이 없다 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus saith unto him",
+      "korean_translation": "예수께서 그에게 이르시되",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The foxes have holes",
+      "korean_translation": "여우는 굴이 있고",
+      "word_indices": [
+        1871
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the birds of the air have nests",
+      "korean_translation": "공중의 새는 깃들이 있으되",
+      "word_indices": [
+        582,
+        769,
+        1287
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but the Son of man hath not where to lay his head",
+      "korean_translation": "인자는 머리 둘 곳이 없다",
+      "word_indices": []
+    }
+  ]
+}

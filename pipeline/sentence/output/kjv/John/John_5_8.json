@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 5:8",
+  "version": "KJV",
+  "original_text": "Jesus saith unto him, Rise, take up thy bed, and walk.",
+  "korean_text": "예수께서 이르시되 일어나 네 자리를 들고 걸어가라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus saith unto him",
+      "korean_translation": "예수께서 그에게 말씀하시니",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Rise",
+      "korean_translation": "일어나라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "take up thy bed",
+      "korean_translation": "네 침상을 들고",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and walk",
+      "korean_translation": "걸어가라",
+      "word_indices": []
+    }
+  ]
+}

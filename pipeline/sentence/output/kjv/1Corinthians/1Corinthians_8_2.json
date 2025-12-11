@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Corinthians 8:2",
+  "version": "KJV",
+  "original_text": "And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.",
+  "korean_text": "만일 누구든지 무엇을 아는 줄로 생각하면 아직도 마땅히 알 것을 알지 못하는 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if any man think",
+      "korean_translation": "그리고 만약 어떤 사람이 생각한다면",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he knoweth any thing",
+      "korean_translation": "그가 무엇을 안다고",
+      "word_indices": [
+        22,
+        313
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he knoweth nothing yet",
+      "korean_translation": "그는 아직 아무것도 모르는 것이다",
+      "word_indices": [
+        313
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as he ought to know",
+      "korean_translation": "그가 알아야 하는 대로",
+      "word_indices": [
+        346
+      ]
+    }
+  ]
+}

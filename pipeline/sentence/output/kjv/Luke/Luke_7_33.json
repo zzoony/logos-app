@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 7:33",
+  "version": "KJV",
+  "original_text": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.",
+  "korean_text": "세례 요한이 와서 떡도 먹지 아니하며 포도주도 마시지 아니하매 너희 말이 귀신이 들렸다 하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For John the Baptist came",
+      "korean_translation": "세례 요한이 왔으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither eating bread nor drinking wine",
+      "korean_translation": "떡도 먹지 않고 포도주도 마시지 않으며",
+      "word_indices": [
+        31,
+        79,
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and ye say",
+      "korean_translation": "너희는 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He hath a devil",
+      "korean_translation": "그에게 귀신이 들었다",
+      "word_indices": []
+    }
+  ]
+}

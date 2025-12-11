@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Deuteronomy 13:9",
+  "version": "KJV",
+  "original_text": "But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people.",
+  "korean_text": "너는 용서 없이 그를 죽이되 죽일 때에 네가 먼저 그에게 손을 대고 후에 뭇 백성이 손을 대라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But thou shalt surely kill him;",
+      "korean_translation": "그러나 너는 반드시 그를 죽일 것이며",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thine hand shall be first upon him",
+      "korean_translation": "네 손이 먼저 그에게 임할 것이요",
+      "word_indices": [
+        8,
+        61
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to put him to death,",
+      "korean_translation": "그를 죽이기 위함이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and afterwards the hand of all the people.",
+      "korean_translation": "그 후에는 모든 백성의 손이 그에게 임할 것이니라",
+      "word_indices": [
+        5,
+        8,
+        468
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 9:9",
+  "version": "KJV",
+  "original_text": "And I, behold, I establish my covenant with you, and with your seed after you;",
+  "korean_text": "내가 내 언약을 너희와 너희 후손과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I, behold,",
+      "korean_translation": "그리고 나, 보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I establish my covenant with you,",
+      "korean_translation": "나는 너와 나의 언약을 세우며,",
+      "word_indices": [
+        3,
+        98,
+        272
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and with your seed after you;",
+      "korean_translation": "그리고 네 뒤에 있는 네 자손과 함께 하리라.",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

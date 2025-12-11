@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 41:44",
+  "version": "KJV",
+  "original_text": "And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.",
+  "korean_text": "바로가 요셉에게 이르되 나는 바로라 애굽 온 땅에서 네 허락이 없이는 수족을 놀릴 자가 없으리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Pharaoh said unto Joseph",
+      "korean_translation": "그리고 바로가 요셉에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am Pharaoh",
+      "korean_translation": "내가 바로니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and without thee shall no man lift up his hand",
+      "korean_translation": "그리고 네가 없이는 아무도 그의 손을 들지 못하리라",
+      "word_indices": [
+        2,
+        8,
+        64
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or foot in all the land of Egypt",
+      "korean_translation": "혹은 애굽 온 땅에서 그의 발을 들지 못하리라",
+      "word_indices": [
+        10,
+        15,
+        83
+      ]
+    }
+  ]
+}

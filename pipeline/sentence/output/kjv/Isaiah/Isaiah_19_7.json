@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Isaiah 19:7",
+  "version": "KJV",
+  "original_text": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no more.",
+  "korean_text": "나일 가까운 곳 나일 언덕의 초장과 나일 강 가까운 곡식 밭이 다 말라서 날려가 없어질 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The paper reeds by the brooks",
+      "korean_translation": "시냇가의 갈대들이",
+      "word_indices": [
+        585,
+        712,
+        4039
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by the mouth of the brooks",
+      "korean_translation": "시냇가 입구에 있는",
+      "word_indices": [
+        60,
+        585
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and every thing sown by the brooks",
+      "korean_translation": "그리고 시냇가에 심겨진 모든 것들이",
+      "word_indices": [
+        585
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall wither",
+      "korean_translation": "말라 버릴 것이며",
+      "word_indices": [
+        845
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "be driven away",
+      "korean_translation": "쓸려 가고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and be no more",
+      "korean_translation": "더 이상 존재하지 않을 것이다",
+      "word_indices": [
+        33
+      ]
+    }
+  ]
+}

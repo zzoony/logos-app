@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Joshua 5:9",
+  "version": "KJV",
+  "original_text": "And the Lord said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.",
+  "korean_text": "여호와께서 여호수아에게 이르시되 내가 오늘 애굽의 수치를 너희에게서 떠나가게 하였다 하셨으므로 그 곳 이름을 오늘까지 길갈이라 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord said unto Joshua,",
+      "korean_translation": "여호와께서 여호수아에게 이르시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This day have I rolled away",
+      "korean_translation": "내가 오늘 굴렀노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the reproach of Egypt from off you.",
+      "korean_translation": "너희에게서 애굝의 수치를",
+      "word_indices": [
+        3,
+        46,
+        308
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Wherefore the name of the place",
+      "korean_translation": "그러므로 그곳 이름이",
+      "word_indices": [
+        16,
+        21
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "is called Gilgal unto this day.",
+      "korean_translation": "오늘까지 길갈이라 불리니라",
+      "word_indices": []
+    }
+  ]
+}

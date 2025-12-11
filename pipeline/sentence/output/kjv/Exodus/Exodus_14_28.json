@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Exodus 14:28",
+  "version": "KJV",
+  "original_text": "And the waters returned, and covered the chariots, and the horsemen, and all the host of Pharaoh that came into the sea after them; there remained not so much as one of them.",
+  "korean_text": "물이 다시 흘러 병거들과 기병들을 덮되 그들의 뒤를 따라 바다에 들어간 바로의 군대를 다 덮으니 하나도 남지 아니하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the waters returned",
+      "korean_translation": "그리고 물이 돌아왔고",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and covered the chariots",
+      "korean_translation": "전차들을 덮었고",
+      "word_indices": [
+        179
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the horsemen",
+      "korean_translation": "기병들을 덮었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all the host of Pharaoh",
+      "korean_translation": "바로의 모든 군대를 덮었고",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that came into the sea after them",
+      "korean_translation": "그들을 따라 바다에 들어온",
+      "word_indices": [
+        1,
+        7,
+        65
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "there remained not so much as one of them",
+      "korean_translation": "그들 중 단 한 사람도 남지 않았다",
+      "word_indices": [
+        1,
+        105
+      ]
+    }
+  ]
+}

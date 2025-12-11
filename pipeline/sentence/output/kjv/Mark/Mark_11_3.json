@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Mark 11:3",
+  "version": "KJV",
+  "original_text": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.",
+  "korean_text": "만일 누가 너희에게 왜 이렇게 하느냐 묻거든 주가 쓰시겠다 하라 그리하면 즉시 이리로 보내리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if any man say unto you",
+      "korean_translation": "그리고 만약 누군가 너희에게 말하면",
+      "word_indices": [
+        3,
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why do ye this?",
+      "korean_translation": "너희는 왜 이것을 하느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "say ye that the Lord hath need of him",
+      "korean_translation": "주님이 그를 필요로 하신다고 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and straightway he will send him hither",
+      "korean_translation": "그러면 즉시 그가 그를 이리로 보낼 것이다",
+      "word_indices": [
+        462,
+        730
+      ]
+    }
+  ]
+}

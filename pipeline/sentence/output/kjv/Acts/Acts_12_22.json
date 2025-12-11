@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Acts 12:22",
+  "version": "KJV",
+  "original_text": "And the people gave a shout, saying, It is the voice of a god, and not of a man.",
+  "korean_text": "백성들이 크게 부르되 이것은 신의 소리요 사람의 소리가 아니라 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the people gave a shout",
+      "korean_translation": "그리고 백성들이 소리를 질렀다",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying",
+      "korean_translation": "말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is the voice of a god",
+      "korean_translation": "이것은 신의 목소리다",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and not of a man",
+      "korean_translation": "그리고 사람의 목소리가 아니다",
+      "word_indices": []
+    }
+  ]
+}

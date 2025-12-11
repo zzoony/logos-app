@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Isaiah 66:6",
+  "version": "KJV",
+  "original_text": "A voice of noise from the city, a voice from the temple, a voice of the Lord that rendereth recompence to his enemies.",
+  "korean_text": "떠드는 소리가 성읍에서부터 들려 오며 목소리가 성전에서부터 들리니 이는 여호와께서 그의 원수에게 보응하시는 목소리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A voice of noise from the city",
+      "korean_translation": "성에서 들려오는 소음의 목소리",
+      "word_indices": [
+        12,
+        45,
+        361
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a voice from the temple",
+      "korean_translation": "성전에서 들려오는 목소리",
+      "word_indices": [
+        45,
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a voice of the Lord",
+      "korean_translation": "주님의 목소리",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that rendereth recompence to his enemies",
+      "korean_translation": "원수들에게 보응을 주시는",
+      "word_indices": [
+        75,
+        1257,
+        5180
+      ]
+    }
+  ]
+}

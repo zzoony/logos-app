@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Acts 3:1",
+  "version": "KJV",
+  "original_text": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.",
+  "korean_text": "제 구 시 기도 시간에 베드로와 요한이 성전에 올라갈새",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Peter and John went up together",
+      "korean_translation": "이제 베드로와 요한이 함께 올라갔습니다",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "into the temple",
+      "korean_translation": "성전으로",
+      "word_indices": [
+        7,
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "at the hour of prayer",
+      "korean_translation": "기도 시간에",
+      "word_indices": [
+        245,
+        350
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "being the ninth hour",
+      "korean_translation": "아홉 시였습니다",
+      "word_indices": [
+        350,
+        879
+      ]
+    }
+  ]
+}

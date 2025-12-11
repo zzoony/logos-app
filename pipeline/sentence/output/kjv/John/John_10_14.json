@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 10:14",
+  "version": "KJV",
+  "original_text": "I am the good shepherd, and know my sheep, and am known of mine.",
+  "korean_text": "나는 선한 목자라 나는 내 양을 알고 양도 나를 아는 것이",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am good shepherd",
+      "korean_translation": "나는 선한 목자이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and know my sheep",
+      "korean_translation": "내 양들을 알며",
+      "word_indices": [
+        170
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and am known of mine",
+      "korean_translation": "나의 것들에게 알려져 있노라",
+      "word_indices": []
+    }
+  ]
+}

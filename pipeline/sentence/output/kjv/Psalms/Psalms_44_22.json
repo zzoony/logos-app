@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 44:22",
+  "version": "KJV",
+  "original_text": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
+  "korean_text": "우리가 종일 주를 위하여 죽임을 당하게 되며 도살할 양 같이 여김을 받았나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yea, for thy sake",
+      "korean_translation": "그렇습니다, 당신 때문에",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "are we killed all the day long",
+      "korean_translation": "우리는 종일 죽임을 당합니다",
+      "word_indices": [
+        144,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we are counted as sheep",
+      "korean_translation": "우리는 양으로 여겨집니다",
+      "word_indices": [
+        170,
+        461
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the slaughter",
+      "korean_translation": "도살을 위해",
+      "word_indices": [
+        561
+      ]
+    }
+  ]
+}

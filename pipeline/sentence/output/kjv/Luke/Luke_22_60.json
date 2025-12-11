@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 22:60",
+  "version": "KJV",
+  "original_text": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.",
+  "korean_text": "베드로가 이르되 이 사람아 나는 네가 하는 말을 알지 못하노라고 아직 말하고 있을 때에 닭이 곧 울더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Peter said,",
+      "korean_translation": "베드로가 말하길,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Man, I know not",
+      "korean_translation": "사람여, 나는 모르노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what thou sayest.",
+      "korean_translation": "당신이 말하는 것을.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And immediately,",
+      "korean_translation": "그리고 즉시,",
+      "word_indices": [
+        581
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "while he yet spake,",
+      "korean_translation": "그가 아직 말하는 동안에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the cock crew.",
+      "korean_translation": "수탉이 울었다.",
+      "word_indices": [
+        1723,
+        2794
+      ]
+    }
+  ]
+}

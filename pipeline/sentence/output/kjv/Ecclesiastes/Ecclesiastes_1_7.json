@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Ecclesiastes 1:7",
+  "version": "KJV",
+  "original_text": "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.",
+  "korean_text": "모든 강물은 다 바다로 흐르되 바다를 채우지 못하며 강물은 어느 곳으로 흐르든지 그리로 연하여 흐르느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the rivers run into the sea",
+      "korean_translation": "모든 강은 바다로 흘러 들어간다",
+      "word_indices": [
+        7,
+        65,
+        120
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yet the sea is not full",
+      "korean_translation": "그러나 바다는 차지 않는다",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "unto the place from whence the rivers come",
+      "korean_translation": "강물이 나오던 그 곳으로",
+      "word_indices": [
+        21,
+        120
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "thither they return again",
+      "korean_translation": "그곳으로 그들이 다시 돌아간다",
+      "word_indices": [
+        355
+      ]
+    }
+  ]
+}

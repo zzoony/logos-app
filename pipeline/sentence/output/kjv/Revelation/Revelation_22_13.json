@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Revelation 22:13",
+  "version": "KJV",
+  "original_text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+  "korean_text": "나는 알파와 오메가요 처음과 마지막이요 시작과 마침이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am Alpha and Omega",
+      "korean_translation": "나는 알파와 오메가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "beginning and end",
+      "korean_translation": "시작과 끝이라",
+      "word_indices": [
+        73
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "first and the last",
+      "korean_translation": "처음과 마지막이라",
+      "word_indices": [
+        61,
+        379
+      ]
+    }
+  ]
+}

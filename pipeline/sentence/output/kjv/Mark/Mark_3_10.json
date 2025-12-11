@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Mark 3:10",
+  "version": "KJV",
+  "original_text": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.",
+  "korean_text": "이는 많은 사람을 고치셨으므로 병으로 고생하는 자들이 예수를 만지고자 하여 몰려왔음이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he had healed many",
+      "korean_translation": "그가 많은 사람을 고쳤기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "insomuch that they pressed upon him",
+      "korean_translation": "그들이 그에게 몰려들었으니",
+      "word_indices": [
+        1019,
+        1268
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for to touch him",
+      "korean_translation": "그를 만지려고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as many as had plagues",
+      "korean_translation": "질병을 가진 모든 사람들이",
+      "word_indices": []
+    }
+  ]
+}

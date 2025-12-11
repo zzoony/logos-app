@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 42:3",
+  "version": "KJV",
+  "original_text": "And Joseph's ten brethren went down to buy corn in Egypt.",
+  "korean_text": "요셉의 형 열 사람이 애굽에서 곡식을 사려고 내려갔으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Joseph's ten brethren",
+      "korean_translation": "요셉의 형제 열 명은",
+      "word_indices": [
+        122
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "went down to buy corn",
+      "korean_translation": "곡식을 사러 내려갔고",
+      "word_indices": [
+        14,
+        326
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Egypt.",
+      "korean_translation": "애굽에서였습니다.",
+      "word_indices": []
+    }
+  ]
+}

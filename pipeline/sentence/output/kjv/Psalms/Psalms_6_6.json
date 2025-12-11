@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Psalms 6:6",
+  "version": "KJV",
+  "original_text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+  "korean_text": "내가 탄식함으로 피곤하여 밤마다 눈물로 내 침상을 띄우며 내 요를 적시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am weary with my groaning",
+      "korean_translation": "나는 나의 탄식으로 피곤하여라",
+      "word_indices": [
+        563,
+        1366
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the night",
+      "korean_translation": "밤새도록",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "make I my bed to swim",
+      "korean_translation": "나는 내 침대가 헤엄치게 만들며",
+      "word_indices": [
+        332,
+        2475
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I water my couch with my tears",
+      "korean_translation": "나는 나의 눈물로 내 소파를 적신다",
+      "word_indices": [
+        32,
+        470,
+        1601
+      ]
+    }
+  ]
+}

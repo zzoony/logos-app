@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Acts 1:12",
+  "version": "KJV",
+  "original_text": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day's journey.",
+  "korean_text": "제자들이 감람원이라 하는 산으로부터 예루살렘에 돌아오니 이 산은 예루살렘에서 가까워 안식일에 가기 알맞은 길이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then returned they unto Jerusalem",
+      "korean_translation": "그들이 예루살렘으로 돌아갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from mount called Olivet",
+      "korean_translation": "올리브라고 불리는 산에서",
+      "word_indices": [
+        112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which is from Jerusalem a sabbath day's journey",
+      "korean_translation": "그것은 예루살렘에서 안식일의 여정 길이입니다",
+      "word_indices": [
+        188,
+        312
+      ]
+    }
+  ]
+}

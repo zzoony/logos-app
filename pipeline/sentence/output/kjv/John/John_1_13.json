@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 1:13",
+  "version": "KJV",
+  "original_text": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+  "korean_text": "이는 혈통으로나 육정으로나 사람의 뜻으로 나지 아니하고 오직 하나님께로부터 난 자들이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Which were born",
+      "korean_translation": "태어난 자들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "not of blood",
+      "korean_translation": "혈통으로 난 것이 아니요",
+      "word_indices": [
+        59
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor of the will of the flesh",
+      "korean_translation": "육체의 뜻으로 난 것도 아니요",
+      "word_indices": [
+        31,
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor of the will of man",
+      "korean_translation": "사람의 뜻으로 난 것도 아니요",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but of God",
+      "korean_translation": "오직 하나님께로서 난 자들이다",
+      "word_indices": []
+    }
+  ]
+}

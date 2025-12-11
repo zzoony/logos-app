@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 7:34",
+  "version": "KJV",
+  "original_text": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!",
+  "korean_text": "인자는 와서 먹고 마시매 너희 말이 보라 먹기를 탐하고 포도주를 즐기는 사람이요 세리와 죄인의 친구로다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Son of man is come eating and drinking;",
+      "korean_translation": "인자는 먹고 마시기 위해 왔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ye say,",
+      "korean_translation": "너희는 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Behold a gluttonous man,",
+      "korean_translation": "보라, 식탐하는 사람이요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a winebibber,",
+      "korean_translation": "술고동이며",
+      "word_indices": [
+        4161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a friend of publicans and sinners!",
+      "korean_translation": "세리와 죄인들의 친구라!",
+      "word_indices": [
+        450,
+        1144
+      ]
+    }
+  ]
+}

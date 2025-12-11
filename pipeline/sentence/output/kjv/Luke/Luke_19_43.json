@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 19:43",
+  "version": "KJV",
+  "original_text": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,",
+  "korean_text": "날이 이를지라 네 원수들이 토둔을 쌓고 너를 둘러 사면으로 가두고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the days shall come upon thee",
+      "korean_translation": "이는 그 날들이 네게 임할 것임이라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that thine enemies shall cast a trench about thee",
+      "korean_translation": "네 원수들이 너를 둘러 흙을 쌓고",
+      "word_indices": [
+        2,
+        75,
+        2129
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and compass thee round",
+      "korean_translation": "네를 사방으로 둘러싸며",
+      "word_indices": [
+        2,
+        93
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and keep thee in on every side",
+      "korean_translation": "모든 면에서 너를 가두어 두리라",
+      "word_indices": [
+        2,
+        48
+      ]
+    }
+  ]
+}

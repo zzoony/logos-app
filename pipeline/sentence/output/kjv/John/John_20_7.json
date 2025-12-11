@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 20:7",
+  "version": "KJV",
+  "original_text": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.",
+  "korean_text": "또 머리를 쌌던 수건은 세마포와 함께 놓이지 않고 딴 곳에 쌌던 대로 놓여 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the napkin, that was about his head",
+      "korean_translation": "그리고 그의 머리에 두르었던 수건은",
+      "word_indices": [
+        3564
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "not lying with the linen clothes",
+      "korean_translation": "세마포 옷들과 함께 눕지 않고",
+      "word_indices": [
+        314,
+        1163
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but wrapped together in a place by itself",
+      "korean_translation": "따로 한 곳에 함께 감겨 있더라",
+      "word_indices": [
+        21,
+        51,
+        626
+      ]
+    }
+  ]
+}

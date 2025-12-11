@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 5:2",
+  "version": "KJV",
+  "original_text": "Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches.",
+  "korean_text": "예루살렘에 있는 양문 곁에 히브리 말로 베데스다라 하는 못이 있는데 거기 행각 다섯이 있고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now there is at Jerusalem",
+      "korean_translation": "예루살렘에 이제",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by the sheep market a pool",
+      "korean_translation": "양의 시장 근처에 연못이 하나 있고",
+      "word_indices": [
+        170,
+        1027,
+        1805
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which is called in the Hebrew tongue Bethesda",
+      "korean_translation": "히브리 말로 베데스다라고 불리며",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "having five porches",
+      "korean_translation": "다섯 개의 주랑(행랑)을 가지고 있음",
+      "word_indices": [
+        750
+      ]
+    }
+  ]
+}

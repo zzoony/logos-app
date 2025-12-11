@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 9:27",
+  "version": "KJV",
+  "original_text": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the Lord is righteous, and I and my people are wicked.",
+  "korean_text": "바로가 사람을 보내어 모세와 아론을 불러 그들에게 이르되 이번은 내가 범죄하였노라 여호와는 의로우시고 나와 나의 백성은 악하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Pharaoh sent",
+      "korean_translation": "그리고 바로가 보냈으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and called for Moses and Aaron",
+      "korean_translation": "모세와 아론을 불렀고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and said unto them",
+      "korean_translation": "그들에게 말하기를",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have sinned this time",
+      "korean_translation": "내가 이번에 죄를 지었습니다",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the Lord is righteous",
+      "korean_translation": "주는 의로우시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and I and my people are wicked",
+      "korean_translation": "나와 내 백성은 악합니다",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

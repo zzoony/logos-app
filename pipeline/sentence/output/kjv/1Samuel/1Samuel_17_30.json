@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Samuel 17:30",
+  "version": "KJV",
+  "original_text": "And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.",
+  "korean_text": "돌아서서 다른 사람을 향하여 전과 같이 말하매 백성이 전과 같이 대답하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he turned from him",
+      "korean_translation": "그가 그에게서 돌아서서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "toward another",
+      "korean_translation": "다른 사람을 향하여",
+      "word_indices": [
+        58,
+        86
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and spake after the same manner",
+      "korean_translation": "같은 방식으로 말하니",
+      "word_indices": [
+        90,
+        156
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the people answered him again",
+      "korean_translation": "백성들이 그에게 다시 대답하니",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "after the former manner",
+      "korean_translation": "이전의 방식대로",
+      "word_indices": [
+        156,
+        634
+      ]
+    }
+  ]
+}

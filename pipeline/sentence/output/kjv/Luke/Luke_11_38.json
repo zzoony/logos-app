@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 11:38",
+  "version": "KJV",
+  "original_text": "And when the Pharisee saw it, he marvelled that he had not first washed before dinner.",
+  "korean_text": "잡수시기 전에 손 씻지 아니하심을 그 바리새인이 보고 이상히 여기는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when the Pharisee saw it,",
+      "korean_translation": "그리고 바리새인이 그것을 보았을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he marvelled",
+      "korean_translation": "그는 놀라웠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he had not first washed",
+      "korean_translation": "그가 먼저 씻지 않았다는 것에",
+      "word_indices": [
+        61
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before dinner.",
+      "korean_translation": "저녁 식사 전에.",
+      "word_indices": [
+        3056
+      ]
+    }
+  ]
+}

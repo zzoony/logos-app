@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 6:10",
+  "version": "KJV",
+  "original_text": "And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home:",
+  "korean_text": "그 사람들이 그같이 하여 젖 나는 소 둘을 끌어다가 수레를 메우고 송아지들은 집에 가두고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the men did so;",
+      "korean_translation": "그 사람들이 그렇게 하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and took two milch kine,",
+      "korean_translation": "젖소 두 마리를 데려오고",
+      "word_indices": [
+        1098,
+        3183
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and tied them to the cart,",
+      "korean_translation": "그것들을 수레에 매었으며",
+      "word_indices": [
+        1,
+        1502
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and shut up their calves at home:",
+      "korean_translation": "그 송아지들은 집에 가두었더라",
+      "word_indices": [
+        311,
+        621
+      ]
+    }
+  ]
+}

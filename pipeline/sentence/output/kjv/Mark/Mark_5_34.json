@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Mark 5:34",
+  "version": "KJV",
+  "original_text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+  "korean_text": "예수께서 이르시되 딸아 네 믿음이 너를 구원하였으니 평안히 가라 네 병에서 놓여 건강할지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said unto her",
+      "korean_translation": "그가 그녀에게 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Daughter",
+      "korean_translation": "딸아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thy faith hath made thee whole",
+      "korean_translation": "네 믿음이 너를 온전하게 하였다",
+      "word_indices": [
+        2,
+        125,
+        128
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "go in peace",
+      "korean_translation": "평안히 가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and be whole of thy plague",
+      "korean_translation": "그리고 너의 질병에서 온전하여라",
+      "word_indices": [
+        125,
+        255
+      ]
+    }
+  ]
+}

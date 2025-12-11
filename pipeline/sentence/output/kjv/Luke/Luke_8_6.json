@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 8:6",
+  "version": "KJV",
+  "original_text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.",
+  "korean_text": "더러는 바위 위에 떨어지매 싹이 났다가 습기가 없으므로 말랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And some fell upon a rock",
+      "korean_translation": "그리고 어떤 씨앗이 바위 위에 떨어졌고",
+      "word_indices": [
+        129
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and as soon as it was sprung up",
+      "korean_translation": "그것이 싹이 나자마자",
+      "word_indices": [
+        477
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it withered away",
+      "korean_translation": "그것은 시들어 버렸다",
+      "word_indices": [
+        845
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because it lacked moisture",
+      "korean_translation": "왜냐하면 그것은 수분이 부족했기 때문이다",
+      "word_indices": [
+        873,
+        3922
+      ]
+    }
+  ]
+}

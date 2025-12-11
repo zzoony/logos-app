@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Romans 2:12",
+  "version": "KJV",
+  "original_text": "For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;",
+  "korean_text": "무릇 율법 없이 범죄한 자는 또한 율법 없이 망하고 무릇 율법이 있고 범죄한 자는 율법으로 말미암아 심판을 받으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For as many as have sinned without law",
+      "korean_translation": "율법 없이 죄 지은 자들은",
+      "word_indices": [
+        42,
+        64
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall also perish without law",
+      "korean_translation": "율법 없이 멸망할 것이요",
+      "word_indices": [
+        9,
+        42,
+        64,
+        224
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and as many as have sinned in the law",
+      "korean_translation": "율법 안에서 죄 지은 자들은",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall be judged by the law",
+      "korean_translation": "율법으로 심판을 받으리라",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

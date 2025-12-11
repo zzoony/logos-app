@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 32:20",
+  "version": "KJV",
+  "original_text": "Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass.",
+  "korean_text": "모든 물 가에 씨를 뿌리고 소와 나귀를 그리로 모는 너희는 복이 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed are ye",
+      "korean_translation": "너희는 복이 있나니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that sow beside all waters",
+      "korean_translation": "모든 물가에 씨를 뿌리는 자는",
+      "word_indices": [
+        32,
+        247,
+        396
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that send forth thither",
+      "korean_translation": "그리로 보내는 자는",
+      "word_indices": [
+        25,
+        355
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "feet of ox and ass",
+      "korean_translation": "소와 나귀의 발을",
+      "word_indices": [
+        195
+      ]
+    }
+  ]
+}

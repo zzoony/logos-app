@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Leviticus 11:20",
+  "version": "KJV",
+  "original_text": "All fowls that creep, going upon all four, shall be an abomination unto you.",
+  "korean_text": "날개가 있고 네 발로 기어 다니는 곤충은 너희가 혐오할 것이로되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All fowls that creep",
+      "korean_translation": "기어 다니는 모든 새",
+      "word_indices": [
+        381,
+        809
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "going upon all four",
+      "korean_translation": "네 발로 다니는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall be an abomination unto you",
+      "korean_translation": "너희에게 가증한 것이 될 것이다",
+      "word_indices": [
+        3,
+        218
+      ]
+    }
+  ]
+}

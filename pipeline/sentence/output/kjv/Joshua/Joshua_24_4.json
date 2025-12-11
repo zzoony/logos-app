@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Joshua 24:4",
+  "version": "KJV",
+  "original_text": "And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.",
+  "korean_text": "이삭에게는 야곱과 에서를 주었고 에서에게는 세일 산을 소유로 주었으나 야곱과 그의 자손들은 애굽으로 내려갔으므로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I gave unto Isaac Jacob and Esau",
+      "korean_translation": "내가 이삭에게 야곱과 에서를 주었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I gave unto Esau mount Seir",
+      "korean_translation": "내가 에서에게 세일 산을 주었으니",
+      "word_indices": [
+        112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to possess it",
+      "korean_translation": "그것을 소유하게 하려 함이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but Jacob and his children",
+      "korean_translation": "그러나 야곱과 그의 자손들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "went down into Egypt",
+      "korean_translation": "애굽으로 내려갔더라",
+      "word_indices": [
+        7,
+        14
+      ]
+    }
+  ]
+}

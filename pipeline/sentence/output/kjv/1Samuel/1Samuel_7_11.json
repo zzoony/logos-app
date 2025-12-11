@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Samuel 7:11",
+  "version": "KJV",
+  "original_text": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Bethcar.",
+  "korean_text": "이스라엘 사람들이 미스바에서 나가서 블레셋 사람들을 추격하여 벧갈 아래에 이르기까지 쳤더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the men of Israel went out of Mizpeh",
+      "korean_translation": "이스라엘 사람들이 미스바에서 나오고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and pursued the Philistines",
+      "korean_translation": "블레셋 사람들을 쫓아갔으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and smote them",
+      "korean_translation": "그들을 쳤고",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until they came under Bethcar",
+      "korean_translation": "그들이 벧갈 아래에 이를 때까지였다",
+      "word_indices": []
+    }
+  ]
+}

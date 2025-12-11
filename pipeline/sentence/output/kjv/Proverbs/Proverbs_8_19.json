@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Proverbs 8:19",
+  "version": "KJV",
+  "original_text": "My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.",
+  "korean_text": "내 열매는 금이나 정금보다 나으며 내 소득은 순은보다 나으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My fruit is better than gold",
+      "korean_translation": "내 열매는 금보다 더 낫다",
+      "word_indices": [
+        52,
+        69,
+        124,
+        274
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "yea, than fine gold",
+      "korean_translation": "정금보다 더 나으니라",
+      "word_indices": [
+        52,
+        69,
+        291
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and my revenue than choice silver",
+      "korean_translation": "나의 소득은 가장 좋은 은보다 나으니라",
+      "word_indices": [
+        52,
+        1186,
+        2487
+      ]
+    }
+  ]
+}

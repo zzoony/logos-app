@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Genesis 9:11",
+  "version": "KJV",
+  "original_text": "And I will establish my covenant with you, neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
+  "korean_text": "내가 너희와 언약을 세우리니 다시는 모든 생물을 홍수로 멸하지 아니할 것이라 땅을 멸할 홍수가 다시 있지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will establish my covenant with you",
+      "korean_translation": "내가 너와 내 언약을 세우리라",
+      "word_indices": [
+        3,
+        98,
+        272
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither shall all flesh be cut off any more",
+      "korean_translation": "다시는 모든 육체가 끊어지지 아니할 것이며",
+      "word_indices": [
+        22,
+        33,
+        46,
+        67,
+        91
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by the waters of a flood",
+      "korean_translation": "홍수의 물로 말미암아",
+      "word_indices": [
+        32,
+        506
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "neither shall there any more be a flood",
+      "korean_translation": "다시는 홍수가 있지 아니할 것이니",
+      "word_indices": [
+        22,
+        33,
+        506
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to destroy the earth",
+      "korean_translation": "땅을 멸망시키려 할 것이 없음이라",
+      "word_indices": []
+    }
+  ]
+}

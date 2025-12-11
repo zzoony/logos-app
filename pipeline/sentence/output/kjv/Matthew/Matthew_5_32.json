@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Matthew 5:32",
+  "version": "KJV",
+  "original_text": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.",
+  "korean_text": "나는 너희에게 이르노니 누구든지 음행한 이유 없이 아내를 버리면 이는 그로 간음하게 함이요 또 누구든지 버림받은 여자에게 장가드는 자도 간음함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I say unto you",
+      "korean_translation": "그러나 나는 너희에게 말하노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whosoever shall put away his wife",
+      "korean_translation": "누구든지 자기 아내를 버리면",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "saving for the cause of fornication",
+      "korean_translation": "음행의 경우를 제외하고는",
+      "word_indices": [
+        788
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "causeth her to commit adultery",
+      "korean_translation": "그로 간음하게 하느니라",
+      "word_indices": [
+        191,
+        919
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and whosoever shall marry her",
+      "korean_translation": "누구든지 그녀와 혼인하면",
+      "word_indices": [
+        584
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that is divorced",
+      "korean_translation": "이혼한 자를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "committeth adultery",
+      "korean_translation": "간행하는 것이니라",
+      "word_indices": [
+        1284
+      ]
+    }
+  ]
+}

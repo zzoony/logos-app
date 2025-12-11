@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Luke 3:23",
+  "version": "KJV",
+  "original_text": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,",
+  "korean_text": "예수께서 가르치심을 시작하실 때에 삼십 세쯤 되시니라 사람들이 아는 대로는 요셉의 아들이니 요셉의 위는 헬리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus himself began to be about thirty years of age",
+      "korean_translation": "예수님께서 약 서른 살이 되셨을 때",
+      "word_indices": [
+        23,
+        183,
+        577
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "being (as was supposed) the son of Joseph",
+      "korean_translation": "(사람들이 생각하기로) 요셉의 아들이 되셨는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which was the son of Heli",
+      "korean_translation": "요셉은 헬리의 아들이었고",
+      "word_indices": []
+    }
+  ]
+}

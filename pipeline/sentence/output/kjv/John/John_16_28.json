@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 16:28",
+  "version": "KJV",
+  "original_text": "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.",
+  "korean_text": "내가 아버지에게서 나와 세상에 왔고 다시 세상을 떠나 아버지께로 가노라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I came forth from the Father",
+      "korean_translation": "나는 아버지께로부터 나왔습니다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and am come into the world",
+      "korean_translation": "그리고 세상에 왔습니다",
+      "word_indices": [
+        7,
+        104
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "again, I leave the world",
+      "korean_translation": "다시, 나는 세상을 떠납니다",
+      "word_indices": [
+        104
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and go to the Father",
+      "korean_translation": "그리고 아버지께로 갑니다",
+      "word_indices": []
+    }
+  ]
+}

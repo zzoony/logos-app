@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 11:1",
+  "version": "KJV",
+  "original_text": "Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.",
+  "korean_text": "어떤 병자가 있으니 이는 마리아와 그 자매 마르다의 마을 베다니에 사는 나사로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now a certain man was sick",
+      "korean_translation": "이때 어떤 사람이 아팠는데",
+      "word_indices": [
+        164,
+        376
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "named Lazarus",
+      "korean_translation": "이름은 나사로였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of Bethany",
+      "korean_translation": "베다니 출신이었으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the town of Mary and her sister Martha",
+      "korean_translation": "마리아와 그의 누이 마르가가 사는 동네였다",
+      "word_indices": [
+        241,
+        537
+      ]
+    }
+  ]
+}

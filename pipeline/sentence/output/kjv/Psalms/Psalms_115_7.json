@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Psalms 115:7",
+  "version": "KJV",
+  "original_text": "They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.",
+  "korean_text": "손이 있어도 만지지 못하며 발이 있어도 걷지 못하며 목구멍이 있어도 작은 소리조차 내지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They have hands",
+      "korean_translation": "그들은 손을 가지고 있으나",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but they handle not",
+      "korean_translation": "쓰지 못하며",
+      "word_indices": [
+        1347
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "feet have they",
+      "korean_translation": "발을 가지고 있으나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but they walk not",
+      "korean_translation": "걷지 못하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "neither speak they through their throat",
+      "korean_translation": "목을 통해서도 말하지 못한다",
+      "word_indices": [
+        57,
+        2325
+      ]
+    }
+  ]
+}

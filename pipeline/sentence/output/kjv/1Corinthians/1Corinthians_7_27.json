@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Corinthians 7:27",
+  "version": "KJV",
+  "original_text": "Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.",
+  "korean_text": "네가 아내에게 매였느냐 놓이기를 구하지 말며 아내에게서 놓였느냐 아내를 구하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Art thou bound unto a wife?",
+      "korean_translation": "네가 아내에게 매여 있느냐?",
+      "word_indices": [
+        43,
+        2086
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "seek not to be loosed.",
+      "korean_translation": "풀려나려고 하지 말라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Art thou loosed from a wife?",
+      "korean_translation": "네가 아내에게서 풀려났느냐?",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "seek not a wife.",
+      "korean_translation": "아내를 구하지 말라.",
+      "word_indices": [
+        43
+      ]
+    }
+  ]
+}

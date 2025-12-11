@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 4:1",
+  "version": "KJV",
+  "original_text": "When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,",
+  "korean_text": "예수께서 제자를 삼고 세례를 베푸시는 것이 요한보다 많다 하는 말을 바리새인들이 들은 줄을 주께서 아신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When therefore the Lord knew",
+      "korean_translation": "그러므로 주께서 아셨을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "how the Pharisees had heard",
+      "korean_translation": "바리새인들이 들었다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that Jesus made and baptized more disciples",
+      "korean_translation": "예수께서 요한보다 더 많은 제자를 만들고 세례를 베풀었다는 것을",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than John,",
+      "korean_translation": "요한보다 더 많은",
+      "word_indices": [
+        52
+      ]
+    }
+  ]
+}

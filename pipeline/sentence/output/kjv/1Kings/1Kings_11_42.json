@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Kings 11:42",
+  "version": "KJV",
+  "original_text": "And the time that Solomon reigned in Jerusalem over all Israel was forty years.",
+  "korean_text": "솔로몬이 예루살렘에서 온 이스라엘을 다스린 날 수가 사십 년이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the time that Solomon reigned",
+      "korean_translation": "솔로몬이 통치하던 시간은",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Jerusalem over all Israel",
+      "korean_translation": "온 이스라엘을 다스리며 예루살렘에서",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was forty years.",
+      "korean_translation": "40년이었다.",
+      "word_indices": [
+        23
+      ]
+    }
+  ]
+}

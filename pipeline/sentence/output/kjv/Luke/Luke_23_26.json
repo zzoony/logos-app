@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 23:26",
+  "version": "KJV",
+  "original_text": "And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.",
+  "korean_text": "그들이 예수를 끌고 갈 때에 시몬이라는 구레네 사람이 시골에서 오는 것을 붙들어 그에게 십자가를 지워 예수를 따르게 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And as they led him away",
+      "korean_translation": "그들이 그를 이끌고 갈 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they laid hold upon one Simon",
+      "korean_translation": "그들은 시몬 한 사람을 붙잡았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a Cyrenian",
+      "korean_translation": "그는 구레네 사람이었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "coming out of the country",
+      "korean_translation": "시골에서 나오는",
+      "word_indices": [
+        137
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and on him they laid the cross",
+      "korean_translation": "그리고 그에게 십자가를 지웠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that he might bear it after Jesus",
+      "korean_translation": "그가 예수 뒤에서 그것을 지게 하기 위함이었다",
+      "word_indices": [
+        55,
+        63
+      ]
+    }
+  ]
+}

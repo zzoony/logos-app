@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 17:24",
+  "version": "KJV",
+  "original_text": "And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin.",
+  "korean_text": "아브라함이 그의 포피를 벤 때는 구십구 세였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Abraham was ninety years old and nine",
+      "korean_translation": "그리고 아브라함은 구십구 세였고",
+      "word_indices": [
+        23,
+        74,
+        628,
+        1091
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he was circumcised",
+      "korean_translation": "그가 할례를 받았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the flesh of his foreskin",
+      "korean_translation": "그의 포피 살에서",
+      "word_indices": [
+        67,
+        1533
+      ]
+    }
+  ]
+}

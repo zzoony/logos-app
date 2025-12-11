@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 30:9",
+  "version": "KJV",
+  "original_text": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+  "korean_text": "내가 무덤에 내려갈 때에 나의 피가 무슨 유익이 있으리요 진토가 어떻게 주를 찬송하며 주의 진리를 선포하리이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What profit is there in my blood",
+      "korean_translation": "내 피에 무슨 이익이 있겠습니까",
+      "word_indices": [
+        59,
+        604
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I go down to the pit",
+      "korean_translation": "내가 구렁으로 내려갈 때",
+      "word_indices": [
+        14,
+        357
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Shall dust praise thee",
+      "korean_translation": "먼지가 주를 찬송하겠습니까",
+      "word_indices": [
+        2,
+        305
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall it declare thy truth",
+      "korean_translation": "그것이 주의 진리를 선포하겠습니까",
+      "word_indices": []
+    }
+  ]
+}

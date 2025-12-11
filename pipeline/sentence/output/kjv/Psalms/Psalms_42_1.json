@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 42:1",
+  "version": "KJV",
+  "original_text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+  "korean_text": "하나님이여 사슴이 시냇물을 찾기에 갈급함 같이 내 영혼이 주를 찾기에 갈급하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As the hart panteth after the water brooks",
+      "korean_translation": "사슴이 시냇물을 그리워하듯이",
+      "word_indices": [
+        32,
+        585,
+        1775,
+        3432
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so panteth my soul after thee",
+      "korean_translation": "내 영혼도 주를 그리워하나이다",
+      "word_indices": [
+        2,
+        3432
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "O God",
+      "korean_translation": "오 하나님",
+      "word_indices": []
+    }
+  ]
+}

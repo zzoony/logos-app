@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 26:5",
+  "version": "KJV",
+  "original_text": "But they said, Not on the feast day, lest there be an uproar among the people.",
+  "korean_text": "말하기를 민란이 날까 하노니 명절에는 하지 말자 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But they said",
+      "korean_translation": "하지만 그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Not on the feast day",
+      "korean_translation": "명절 날에는 하지 말자",
+      "word_indices": [
+        203
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "lest there be an uproar among the people",
+      "korean_translation": "백성 중에 소요가 일어날까 하여서",
+      "word_indices": [
+        5,
+        2137
+      ]
+    }
+  ]
+}

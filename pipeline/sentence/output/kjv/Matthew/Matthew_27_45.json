@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Matthew 27:45",
+  "version": "KJV",
+  "original_text": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+  "korean_text": "제육시로부터 온 땅에 어둠이 임하여 제구시까지 계속되더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now from the sixth hour",
+      "korean_translation": "이제 여섯 시째부터",
+      "word_indices": [
+        350,
+        668
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was darkness over all the land",
+      "korean_translation": "온 땅에 어둠이 있었고",
+      "word_indices": [
+        10,
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "unto the ninth hour",
+      "korean_translation": "아홉 시까지 계속되었다",
+      "word_indices": [
+        350,
+        879
+      ]
+    }
+  ]
+}

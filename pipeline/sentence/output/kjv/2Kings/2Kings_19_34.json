@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Kings 19:34",
+  "version": "KJV",
+  "original_text": "For I will defend this city, to save it, for mine own sake, and for my servant David's sake.",
+  "korean_text": "내가 나와 나의 종 다윗을 위하여 이 성을 보호하여 구원하리라 하셨나이다 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I will defend this city",
+      "korean_translation": "내가 이 성을 보호하리니",
+      "word_indices": [
+        12,
+        1569
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to save it",
+      "korean_translation": "그것을 구원하기 위함이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for mine own sake",
+      "korean_translation": "나 자신을 위함이요",
+      "word_indices": [
+        37,
+        181
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and for my servant David's sake",
+      "korean_translation": "나의 종 다윗을 위함이라",
+      "word_indices": [
+        19,
+        181
+      ]
+    }
+  ]
+}

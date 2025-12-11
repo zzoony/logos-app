@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 10:4",
+  "version": "KJV",
+  "original_text": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way.",
+  "korean_text": "전대나 배낭이나 신발을 가지지 말며 길에서 아무에게도 문안하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Carry neither purse",
+      "korean_translation": "지갑도 가지지 말고",
+      "word_indices": [
+        2533
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor scrip",
+      "korean_translation": "자루도 가지지 말며",
+      "word_indices": [
+        31,
+        2287
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor shoes",
+      "korean_translation": "신발도 가지지 말라",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and salute no man by the way",
+      "korean_translation": "그리고 길가에서 아무에게도 문안하지 말라",
+      "word_indices": [
+        26,
+        666
+      ]
+    }
+  ]
+}

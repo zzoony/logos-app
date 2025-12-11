@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Kings 3:15",
+  "version": "KJV",
+  "original_text": "But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the Lord came upon him.",
+  "korean_text": "이제 내게로 거문고 탈 자를 불러오소서 하니라 거문고 타는 자가 거문고를 탈 때에 여호와의 손이 엘리사 위에 있더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But now bring me a minstrel.",
+      "korean_translation": "그러나 이제 나에게 수금하는 자를 데려오라.",
+      "word_indices": [
+        3349
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And it came to pass,",
+      "korean_translation": "그리고 이렇게 되었으니",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when the minstrel played,",
+      "korean_translation": "수금하는 자가 연주할 때",
+      "word_indices": [
+        725,
+        3349
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that the hand of the Lord came upon him.",
+      "korean_translation": "여호와의 손이 그에게 임하였다.",
+      "word_indices": [
+        8
+      ]
+    }
+  ]
+}

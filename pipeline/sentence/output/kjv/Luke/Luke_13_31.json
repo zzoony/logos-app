@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 13:31",
+  "version": "KJV",
+  "original_text": "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.",
+  "korean_text": "곧 그 때에 어떤 바리새인들이 나아와서 이르되 나가서 여기를 떠나소서 헤롯이 당신을 죽이고자 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The same day there came certain of the Pharisees",
+      "korean_translation": "그 날 어떤 바리새인들이 와서",
+      "word_indices": [
+        90,
+        164
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying unto him",
+      "korean_translation": "그에게 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Get thee out, and depart hence",
+      "korean_translation": "떠나서 여기를 떠나라",
+      "word_indices": [
+        2,
+        947
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for Herod will kill thee",
+      "korean_translation": "헤롯이 너를 죽이려 하느니라",
+      "word_indices": [
+        2,
+        161
+      ]
+    }
+  ]
+}

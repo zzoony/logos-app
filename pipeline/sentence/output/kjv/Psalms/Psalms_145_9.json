@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 145:9",
+  "version": "KJV",
+  "original_text": "The Lord is good to all: and his tender mercies are over all his works.",
+  "korean_text": "여호와께서는 모든 것을 선대하시며 그 지으신 모든 것에 긍휼을 베푸시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is good to all",
+      "korean_translation": "주님은 모든 이에게 선하시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his tender mercies",
+      "korean_translation": "그의 부드러운 자비는",
+      "word_indices": [
+        775
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are over all his works",
+      "korean_translation": "그의 모든 행위 위에 있다",
+      "word_indices": [
+        18,
+        29
+      ]
+    }
+  ]
+}

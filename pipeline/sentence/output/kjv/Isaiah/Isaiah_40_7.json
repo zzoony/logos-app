@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Isaiah 40:7",
+  "version": "KJV",
+  "original_text": "The grass withereth, the flower fadeth: because the spirit of the Lord bloweth upon it: surely the people is grass.",
+  "korean_text": "풀은 마르고 꽃이 시듦은 여호와의 기운이 그 위에 붊이라 이 백성은 실로 풀이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The grass withereth",
+      "korean_translation": "풀은 마르고",
+      "word_indices": [
+        2153
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the flower fadeth",
+      "korean_translation": "꽃은 시드니",
+      "word_indices": [
+        830,
+        2337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because the spirit of the Lord bloweth upon it",
+      "korean_translation": "이는 주의 영이 그 위에 불기 때문이니",
+      "word_indices": [
+        3074
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "surely the people is grass",
+      "korean_translation": "진실로 백성은 풀과 같도다",
+      "word_indices": [
+        5
+      ]
+    }
+  ]
+}

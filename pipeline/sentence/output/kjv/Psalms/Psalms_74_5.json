@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 74:5",
+  "version": "KJV",
+  "original_text": "A man was famous according as he had lifted up axes upon the thick trees.",
+  "korean_text": "그들은 마치 도끼를 들어 삼림을 베는 사람 같으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man was famous",
+      "korean_translation": "한 사람은 유명해졌다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "according as he had lifted up axes",
+      "korean_translation": "그가 도끼를 들어 올렸기 때문에",
+      "word_indices": [
+        28,
+        2284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "upon the thick trees",
+      "korean_translation": "무성한 나무들 위로",
+      "word_indices": [
+        780
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Corinthians 13:3",
+  "version": "KJV",
+  "original_text": "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+  "korean_text": "내가 내게 있는 모든 것으로 구제하고 또 내 몸을 불사르게 내줄지라도 사랑이 없으면 내게 아무 유익이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And though I bestow all my goods to feed the poor",
+      "korean_translation": "내가 모든 소유를 나누어 가난한 자들을 먹일지라도",
+      "word_indices": [
+        153,
+        1130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and though I give my body to be burned",
+      "korean_translation": "내가 몸을 불사를지라도",
+      "word_indices": [
+        34,
+        152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and have not charity",
+      "korean_translation": "사랑이 없으면",
+      "word_indices": [
+        1014
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it profiteth me nothing",
+      "korean_translation": "내게 아무 유익이 없느니라",
+      "word_indices": [
+        2515
+      ]
+    }
+  ]
+}

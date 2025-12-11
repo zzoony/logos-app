@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Luke 8:32",
+  "version": "KJV",
+  "original_text": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.",
+  "korean_text": "마침 그 곳에 많은 돼지 떼가 산에서 먹고 있는지라 귀신들이 그 돼지에게로 들어가게 허락하심을 간구하니 이에 허락하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And there was there an herd of many swine",
+      "korean_translation": "그리고 그곳에 많은 돼지 떼가 있었다",
+      "word_indices": [
+        576,
+        1242
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "feeding on the mountain",
+      "korean_translation": "산에서 먹고 있었다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they besought him",
+      "korean_translation": "그리고 그들은 그에게 간청했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that he would suffer them to enter into them",
+      "korean_translation": "그가 그들이 그들 안으로 들어가도록 허락해 달라고",
+      "word_indices": [
+        1,
+        7
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And he suffered them",
+      "korean_translation": "그리고 그는 그들을 허락했다",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

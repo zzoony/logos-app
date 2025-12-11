@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 15:11",
+  "version": "KJV",
+  "original_text": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.",
+  "korean_text": "입으로 들어가는 것이 사람을 더럽게 하는 것이 아니라 입에서 나오는 그것이 사람을 더럽게 하는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Not that which goeth into the mouth",
+      "korean_translation": "입에 들어가는 것이 아니라",
+      "word_indices": [
+        7,
+        60,
+        240
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "defileth a man",
+      "korean_translation": "사람을 더럽히는 것이다",
+      "word_indices": [
+        1952
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but that which cometh out of the mouth",
+      "korean_translation": "그러나 입에서 나오는 것이",
+      "word_indices": [
+        60,
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "this defileth a man",
+      "korean_translation": "이것이 사람을 더럽히는 것이다",
+      "word_indices": [
+        1952
+      ]
+    }
+  ]
+}

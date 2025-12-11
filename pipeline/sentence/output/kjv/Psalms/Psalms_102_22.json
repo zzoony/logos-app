@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 102:22",
+  "version": "KJV",
+  "original_text": "When the people are gathered together, and the kingdoms, to serve the Lord.",
+  "korean_text": "그 때에 민족들과 나라들이 함께 모여 여호와를 섬기리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the people are gathered together",
+      "korean_translation": "백성이 함께 모일 때에",
+      "word_indices": [
+        5,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the kingdoms",
+      "korean_translation": "그리고 왕국들이",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to serve the Lord",
+      "korean_translation": "주를 섬기기 위해",
+      "word_indices": [
+        103
+      ]
+    }
+  ]
+}

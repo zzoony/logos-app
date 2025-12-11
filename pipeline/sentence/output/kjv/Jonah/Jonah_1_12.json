@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Jonah 1:12",
+  "version": "KJV",
+  "original_text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.",
+  "korean_text": "그가 대답하되 나를 들어 바다에 던지라 그리하면 바다가 너희를 위하여 잔잔하리라 너희가 이 큰 폭풍을 만난 것이 나 때문인 줄을 내가 아노라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said unto them",
+      "korean_translation": "그가 그들에게 말하기를",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take me up",
+      "korean_translation": "나를 들어 올려라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cast me forth into the sea",
+      "korean_translation": "그리고 나를 바다에 던져라",
+      "word_indices": [
+        7,
+        25,
+        65
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so shall the sea be calm unto you",
+      "korean_translation": "그리하면 바다가 너희에게 잔잔해지리라",
+      "word_indices": [
+        3,
+        65,
+        2529
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for I know",
+      "korean_translation": "내가 알기에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that for my sake",
+      "korean_translation": "나 때문에",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "this great tempest is upon you",
+      "korean_translation": "이 큰 폭풍이 너희에게 닥쳤음을",
+      "word_indices": [
+        3,
+        1340
+      ]
+    }
+  ]
+}

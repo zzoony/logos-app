@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 12:10",
+  "version": "KJV",
+  "original_text": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.",
+  "korean_text": "아침까지 남겨두지 말며 아침까지 남은 것은 곧 불사르라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And ye shall let nothing of it remain",
+      "korean_translation": "너희는 그것 중 아무것도 남겨두지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "until the morning",
+      "korean_translation": "아침까지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and that which remaineth of it",
+      "korean_translation": "그리고 그것 중 남은 것을",
+      "word_indices": [
+        811
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until the morning",
+      "korean_translation": "아침까지 남은 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "ye shall burn with fire",
+      "korean_translation": "너희는 불로 태워야 한다",
+      "word_indices": [
+        34,
+        41
+      ]
+    }
+  ]
+}

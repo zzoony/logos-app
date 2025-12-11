@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 128:1",
+  "version": "KJV",
+  "original_text": "Blessed is every one that feareth the Lord; that walketh in his ways.",
+  "korean_text": "여호와를 경외하며 그의 길을 걷는 자마다 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is every one",
+      "korean_translation": "모든 사람이 복이 있나니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that feareth the Lord",
+      "korean_translation": "주를 경외하는 자",
+      "word_indices": [
+        1261
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that walketh in his ways",
+      "korean_translation": "그의 길을 걷는 자",
+      "word_indices": [
+        26,
+        739
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 5:27",
+  "version": "KJV",
+  "original_text": "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:",
+  "korean_text": "또 간음하지 말라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye have heard",
+      "korean_translation": "너희는 들었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it was said",
+      "korean_translation": "그것이 말하여졌다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "by them of old time,",
+      "korean_translation": "옛날 사람들에 의하여",
+      "word_indices": [
+        1,
+        30,
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Thou shalt not commit adultery:",
+      "korean_translation": "간음하지 말라",
+      "word_indices": [
+        191
+      ]
+    }
+  ]
+}

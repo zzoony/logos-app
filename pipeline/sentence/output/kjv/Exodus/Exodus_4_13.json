@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 4:13",
+  "version": "KJV",
+  "original_text": "And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send.",
+  "korean_text": "모세가 이르되 오 주여 보낼 만한 자를 보내소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그가 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O my Lord",
+      "korean_translation": "오 나의 주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "send, I pray thee",
+      "korean_translation": "보내 주시옵소서, 간구하나이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "by the hand of him",
+      "korean_translation": "그의 손을 통해",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "whom thou wilt send",
+      "korean_translation": "당신이 보내기로 하신 사람",
+      "word_indices": []
+    }
+  ]
+}

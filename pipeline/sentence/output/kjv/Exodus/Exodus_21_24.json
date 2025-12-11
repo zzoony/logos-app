@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Exodus 21:24",
+  "version": "KJV",
+  "original_text": "Eye for eye, tooth for tooth, hand for hand, foot for foot,",
+  "korean_text": "눈은 눈으로, 이는 이로, 손은 손으로, 발은 발로,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Eye for eye",
+      "korean_translation": "눈에는 눈으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "tooth for tooth",
+      "korean_translation": "이에는 이로",
+      "word_indices": [
+        1680
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hand for hand",
+      "korean_translation": "손에는 손으로",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "foot for foot",
+      "korean_translation": "발에는 발로",
+      "word_indices": [
+        83
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 6:25",
+  "version": "KJV",
+  "original_text": "Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.",
+  "korean_text": "화 있을진저 너희 지금 배부른 자여 너희는 주리리로다 화 있을진저 너희 지금 웃는 자여 너희가 애통하며 울리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Woe unto you that are full!",
+      "korean_translation": "배부른 자들에게 화가 있으리라!",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for ye shall hunger.",
+      "korean_translation": "이는 너희가 주릴 것임이니라.",
+      "word_indices": [
+        1051
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Woe unto you that laugh now!",
+      "korean_translation": "이제 웃는 자들에게 화가 있으리라!",
+      "word_indices": [
+        3,
+        906
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for ye shall mourn and weep.",
+      "korean_translation": "이는 너희가 슬피 울 것임이니라.",
+      "word_indices": [
+        273
+      ]
+    }
+  ]
+}

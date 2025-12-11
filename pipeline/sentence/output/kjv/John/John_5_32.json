@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 5:32",
+  "version": "KJV",
+  "original_text": "There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.",
+  "korean_text": "나를 위하여 증언하시는 이가 따로 있으니 나를 위하여 증언하시는 그 증언이 참인 줄 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is another",
+      "korean_translation": "다른 이가 있으니",
+      "word_indices": [
+        58
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that beareth witness of me",
+      "korean_translation": "그가 나를 증언하며",
+      "word_indices": [
+        1082
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I know",
+      "korean_translation": "내가 아노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that the witness which he witnesseth of me",
+      "korean_translation": "그가 나에 대해 증언하는 그 증언이",
+      "word_indices": [
+        4205
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "is true",
+      "korean_translation": "참되었음을",
+      "word_indices": []
+    }
+  ]
+}

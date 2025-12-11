@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 6:44",
+  "version": "KJV",
+  "original_text": "For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.",
+  "korean_text": "나무는 각각 그 열매로 아나니 가시나무에서 무화과를, 또는 찔레에서 포도를 따지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For every tree is known by his own fruit.",
+      "korean_translation": "이는 각 나무가 그 열매로 알려지기 때문입니다.",
+      "word_indices": [
+        37,
+        81,
+        124
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For of thorns men do not gather figs,",
+      "korean_translation": "사람들이 가시나무에서 무화과를 거두지 않으며,",
+      "word_indices": [
+        465,
+        545
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor of a bramble bush gather they grapes.",
+      "korean_translation": "찔레나무에서 포도를 거두지 않습니다.",
+      "word_indices": [
+        31,
+        1542,
+        2676
+      ]
+    }
+  ]
+}

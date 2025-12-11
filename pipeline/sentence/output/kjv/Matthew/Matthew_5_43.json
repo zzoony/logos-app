@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 5:43",
+  "version": "KJV",
+  "original_text": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.",
+  "korean_text": "또 네 이웃을 사랑하고 네 원수를 미워하라 하였다는 것을 너희가 들었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ye have heard",
+      "korean_translation": "너희는 들었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that it hath been said",
+      "korean_translation": "이르기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Thou shalt love thy neighbour",
+      "korean_translation": "네 이웃을 사랑하고",
+      "word_indices": [
+        213
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and hate thine enemy",
+      "korean_translation": "네 원수를 미워하라 하였다는 것을",
+      "word_indices": [
+        75,
+        378
+      ]
+    }
+  ]
+}

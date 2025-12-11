@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 103:16",
+  "version": "KJV",
+  "original_text": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more.",
+  "korean_text": "그것은 바람이 지나가면 없어지나니 그 있던 자리도 다시 알지 못하거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the wind passeth over it",
+      "korean_translation": "바람이 그것을 지나가면",
+      "word_indices": [
+        18,
+        184,
+        799
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and it is gone",
+      "korean_translation": "그것은 사라지고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the place thereof shall know it no more",
+      "korean_translation": "그 장소는 그것을 더 이상 알지 못하리라",
+      "word_indices": [
+        21,
+        24,
+        33
+      ]
+    }
+  ]
+}

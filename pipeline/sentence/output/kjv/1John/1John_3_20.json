@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 John 3:20",
+  "version": "KJV",
+  "original_text": "For if our heart condemn us, God is greater than our heart, and knoweth all things.",
+  "korean_text": "이는 우리 마음이 혹 우리를 책망할 일이 있어도 하나님은 우리 마음보다 크시고 모든 것을 아시기 때문이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For if our heart condemn us",
+      "korean_translation": "이는 만일 우리 마음이 우리를 정죄하면",
+      "word_indices": [
+        20,
+        672
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God is greater than our heart",
+      "korean_translation": "하나님은 우리 마음보다 더 크시며",
+      "word_indices": [
+        20,
+        52,
+        414
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and knoweth all things",
+      "korean_translation": "모든 것을 아시느니라",
+      "word_indices": [
+        11,
+        313
+      ]
+    }
+  ]
+}

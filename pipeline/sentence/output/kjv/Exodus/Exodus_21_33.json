@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 21:33",
+  "version": "KJV",
+  "original_text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;",
+  "korean_text": "사람이 구덩이를 열어두거나 구덩이를 파고 덮지 아니하므로 소나 나귀가 거기에 빠지면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if a man shall open a pit",
+      "korean_translation": "만약 어떤 사람이 구덩이를 열면",
+      "word_indices": [
+        357
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or if a man shall dig a pit",
+      "korean_translation": "또는 만약 어떤 사람이 구덩이를 파면",
+      "word_indices": [
+        15,
+        357,
+        1613
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and not cover it",
+      "korean_translation": "그리고 그것을 덮지 않으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and an ox or an ass fall therein",
+      "korean_translation": "그리고 소나 나귀가 그 안에 빠지면",
+      "word_indices": [
+        15,
+        141,
+        195
+      ]
+    }
+  ]
+}

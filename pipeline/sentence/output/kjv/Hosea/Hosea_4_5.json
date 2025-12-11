@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Hosea 4:5",
+  "version": "KJV",
+  "original_text": "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.",
+  "korean_text": "너는 낮에 넘어지겠고 너와 함께 있는 선지자는 밤에 넘어지리라 내가 네 어머니를 멸하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore shalt thou fall in the day",
+      "korean_translation": "그러므로 너는 낮에 넘어지리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the prophet also shall fall with thee in the night",
+      "korean_translation": "선지자도 밤에 너와 함께 넘어지리라",
+      "word_indices": [
+        2,
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will destroy thy mother",
+      "korean_translation": "내가 네 어미를 멸하리라",
+      "word_indices": []
+    }
+  ]
+}

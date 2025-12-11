@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Lamentations 5:10",
+  "version": "KJV",
+  "original_text": "Our skin was black like an oven because of the terrible famine.",
+  "korean_text": "굶주림의 열기로 말미암아 우리의 피부가 아궁이처럼 검으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our skin was black",
+      "korean_translation": "우리의 피부는 검었고",
+      "word_indices": [
+        1328
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like an oven",
+      "korean_translation": "화로 같았으며",
+      "word_indices": [
+        1606
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of the terrible famine",
+      "korean_translation": "무서운 기근 때문이었습니다",
+      "word_indices": [
+        340,
+        609
+      ]
+    }
+  ]
+}

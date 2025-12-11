@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 10:35",
+  "version": "KJV",
+  "original_text": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.",
+  "korean_text": "내가 온 것은 사람이 그 아버지와, 딸이 어머니와, 며느리가 시어머니와 불화하게 하려 함이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For I am come",
+      "korean_translation": "내가 온 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to set a man at variance against his father",
+      "korean_translation": "사람을 그 아버지와 대립하게 하려 함이며",
+      "word_indices": [
+        4159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the daughter against her mother",
+      "korean_translation": "딸을 그 어머니와 대립하게 하려 함이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the daughter in law against her mother in law",
+      "korean_translation": "며느리를 그 시어머니와 대립하게 하려 함이라",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

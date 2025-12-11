@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Deuteronomy 28:42",
+  "version": "KJV",
+  "original_text": "All thy trees and fruit of thy land shall the locust consume.",
+  "korean_text": "네 모든 나무와 토지 소산은 메뚜기가 먹을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All thy trees",
+      "korean_translation": "네 모든 나무들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and fruit of thy land",
+      "korean_translation": "네 땅의 모든 열매를",
+      "word_indices": [
+        10,
+        124
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall the locust consume",
+      "korean_translation": "메뚜기가 먹을 것이다",
+      "word_indices": [
+        215,
+        1002
+      ]
+    }
+  ]
+}

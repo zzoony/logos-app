@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Mark 8:26",
+  "version": "KJV",
+  "original_text": "And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town.",
+  "korean_text": "예수께서 그 사람을 집으로 보내시며 이르시되 마을에는 들어가지 말라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he sent him away to his house",
+      "korean_translation": "그리고 그는 그를 그의 집으로 보냈다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, Neither go into the town",
+      "korean_translation": "말하길, 동네에 들어가지도 말고",
+      "word_indices": [
+        7,
+        537
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor tell it to any in the town",
+      "korean_translation": "동네의 아무에게도 그것을 말하지 말라",
+      "word_indices": [
+        22,
+        31,
+        537
+      ]
+    }
+  ]
+}

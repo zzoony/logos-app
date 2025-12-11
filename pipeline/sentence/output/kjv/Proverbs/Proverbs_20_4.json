@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Proverbs 20:4",
+  "version": "KJV",
+  "original_text": "The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing.",
+  "korean_text": "게으른 자는 가을에 밭 갈지 아니하나니 그러므로 거둘 때에는 구걸할지라도 얻지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sluggard will not plow",
+      "korean_translation": "게으른 자는 쟁기를질하지 않을 것이다",
+      "word_indices": [
+        1382,
+        2534
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "by reason of the cold",
+      "korean_translation": "추위 때문에",
+      "word_indices": [
+        366,
+        1305
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "therefore shall he beg in harvest",
+      "korean_translation": "그러므로 추수 때 구걸할 것이다",
+      "word_indices": [
+        517,
+        2033
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and have nothing",
+      "korean_translation": "그리고 아무것도 갖지 못할 것이다",
+      "word_indices": []
+    }
+  ]
+}

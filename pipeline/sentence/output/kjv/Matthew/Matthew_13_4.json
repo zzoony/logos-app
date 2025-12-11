@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 13:4",
+  "version": "KJV",
+  "original_text": "And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:",
+  "korean_text": "뿌릴새 더러는 길 가에 떨어지매 새들이 와서 먹어버렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when he sowed",
+      "korean_translation": "그가 씨를 뿌릴 때",
+      "word_indices": [
+        396
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some seeds fell by the way side",
+      "korean_translation": "어떤 씨들이 길가에 떨어졌고",
+      "word_indices": [
+        26,
+        48,
+        107,
+        129
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and fowls came",
+      "korean_translation": "그리고 새들이 와서",
+      "word_indices": [
+        381
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and devoured them up:",
+      "korean_translation": "그것들을 먹어 버렸습니다",
+      "word_indices": [
+        1,
+        252
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 33:12",
+  "version": "KJV",
+  "original_text": "Blessed is the nation whose God is the Lord; and the people whom he hath chosen for his own inheritance.",
+  "korean_text": "여호와를 자기 하나님으로 삼은 나라 곧 하나님의 기업으로 선택된 백성은 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed is the nation whose God is the Lord",
+      "korean_translation": "하나님이 여호와인 그 나라는 복이 있도다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the people whom he hath chosen",
+      "korean_translation": "그가 택하신 백성은",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for his own inheritance",
+      "korean_translation": "자기의 기업으로 삼으신 바로다",
+      "word_indices": [
+        37,
+        133
+      ]
+    }
+  ]
+}

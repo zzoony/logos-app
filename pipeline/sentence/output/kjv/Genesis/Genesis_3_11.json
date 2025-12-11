@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Genesis 3:11",
+  "version": "KJV",
+  "original_text": "And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?",
+  "korean_text": "이르시되 누가 너의 벗었음을 네게 알렸느냐 내가 네게 먹지 말라 명한 그 나무 열매를 네가 먹었느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who told thee",
+      "korean_translation": "누가 너에게 말했느냐",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that thou wast naked?",
+      "korean_translation": "네가 벌거벗었는가를",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Hast thou eaten",
+      "korean_translation": "네가 먹었느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "of the tree",
+      "korean_translation": "그 나무에서",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "whereof I commanded thee",
+      "korean_translation": "내가 너에게 명령했던 것",
+      "word_indices": [
+        2,
+        40,
+        435
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that thou shouldest not eat?",
+      "korean_translation": "네가 먹지 말아야 할 것을",
+      "word_indices": []
+    }
+  ]
+}

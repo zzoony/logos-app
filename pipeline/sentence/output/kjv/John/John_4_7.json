@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 4:7",
+  "version": "KJV",
+  "original_text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.",
+  "korean_text": "사마리아 여자 한 사람이 물을 길으러 왔으매 예수께서 물을 좀 달라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There cometh a woman of Samaria",
+      "korean_translation": "사마리아 여자 한 사람이 오고",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to draw water",
+      "korean_translation": "물을 길으려고",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus saith unto her",
+      "korean_translation": "예수께서 그녀에게 말씀하시되",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Give me to drink",
+      "korean_translation": "내가 마실 물을 주라",
+      "word_indices": []
+    }
+  ]
+}

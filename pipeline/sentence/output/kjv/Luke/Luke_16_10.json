@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 16:10",
+  "version": "KJV",
+  "original_text": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.",
+  "korean_text": "지극히 작은 것에 충성된 자는 큰 것에도 충성되고 지극히 작은 것에 불의한 자는 큰 것에도 불의하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that is faithful in that which is least",
+      "korean_translation": "가장 작은 일에 충성스러운 사람은",
+      "word_indices": [
+        777
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is faithful also in much",
+      "korean_translation": "큰 일에도 충성스럽다",
+      "word_indices": [
+        9,
+        105
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he that is unjust in the least",
+      "korean_translation": "가장 작은 일에 불의한 사람은",
+      "word_indices": [
+        777,
+        1401
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is unjust also in much",
+      "korean_translation": "큰 일에도 불의하다",
+      "word_indices": [
+        9,
+        105,
+        1401
+      ]
+    }
+  ]
+}

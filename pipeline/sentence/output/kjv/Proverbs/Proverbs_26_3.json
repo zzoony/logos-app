@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 26:3",
+  "version": "KJV",
+  "original_text": "A whip for the horse, a bridle for the ass, and a rod for the fool's back.",
+  "korean_text": "말에게는 채찍이요 나귀에게는 재갈이요 미련한 자의 등에는 막대기니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A whip for the horse",
+      "korean_translation": "말에게는 채찍이 필요하다",
+      "word_indices": [
+        216,
+        2471
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a bridle for the ass",
+      "korean_translation": "나귀에게는 재갈이 필요하다",
+      "word_indices": [
+        1887
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and a rod for the fool's back",
+      "korean_translation": "그리고 어리석은 자의 등에는 지팡이가 필요하다",
+      "word_indices": [
+        205,
+        285,
+        331
+      ]
+    }
+  ]
+}

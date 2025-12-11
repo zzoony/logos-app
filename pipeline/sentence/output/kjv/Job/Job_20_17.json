@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Job 20:17",
+  "version": "KJV",
+  "original_text": "He shall not see the rivers, the floods, the brooks of honey and butter.",
+  "korean_text": "그는 강 곧 꿀과 엉긴 젖이 흐르는 강을 보지 못할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He shall not see the rivers",
+      "korean_translation": "그는 강들을 보지 못할 것이며",
+      "word_indices": [
+        120
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the floods",
+      "korean_translation": "홍수들을",
+      "word_indices": [
+        506
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the brooks of honey and butter",
+      "korean_translation": "꿀과 버터의 시냇물들을 보지 못할 것이다",
+      "word_indices": [
+        565,
+        585,
+        1733
+      ]
+    }
+  ]
+}

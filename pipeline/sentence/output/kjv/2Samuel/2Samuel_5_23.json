@@ -1,0 +1,45 @@
+{
+  "verse_reference": "2 Samuel 5:23",
+  "version": "KJV",
+  "original_text": "And when David enquired of the Lord, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees.",
+  "korean_text": "다윗이 여호와께 여쭈니 이르시되 올라가지 말고 그들 뒤로 돌아서 뽕나무 수풀 맞은편에서 그들을 기습하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when David enquired of the Lord",
+      "korean_translation": "다윗이 주께 물었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said",
+      "korean_translation": "그가 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Thou shalt not go up",
+      "korean_translation": "너는 올라가지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but fetch a compass behind them",
+      "korean_translation": "그들 뒤로 돌아가",
+      "word_indices": [
+        1,
+        425
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and come upon them over against the mulberry trees",
+      "korean_translation": "뽕나무 맞은편에서 그들을 공격하라",
+      "word_indices": [
+        1,
+        18,
+        2948
+      ]
+    }
+  ]
+}

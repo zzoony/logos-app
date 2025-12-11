@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Romans 14:2",
+  "version": "KJV",
+  "original_text": "For one believeth that he may eat all things: another, who is weak, eateth herbs.",
+  "korean_text": "어떤 사람은 모든 것을 먹을 만한 믿음이 있고 믿음이 연약한 자는 채소만 먹느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For one believeth",
+      "korean_translation": "한 사람은 믿으며",
+      "word_indices": [
+        699
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he may eat all things",
+      "korean_translation": "자신이 모든 것을 먹을 수 있다고 믿는다",
+      "word_indices": [
+        11
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "another, who is weak",
+      "korean_translation": "다른 사람은, 약한 사람으로서",
+      "word_indices": [
+        58,
+        685
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "eateth herbs",
+      "korean_translation": "채소를 먹는다",
+      "word_indices": [
+        566,
+        808
+      ]
+    }
+  ]
+}

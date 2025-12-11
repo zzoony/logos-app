@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 22:20",
+  "version": "KJV",
+  "original_text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.",
+  "korean_text": "저녁 먹은 후에 잔도 그와 같이 하여 이르시되 이 잔은 내 피로 세우는 새 언약이니 곧 너희를 위하여 붓는 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Likewise also the cup after supper",
+      "korean_translation": "저녁 식사 후에 잔도 그와 같이",
+      "word_indices": [
+        9,
+        310,
+        427,
+        1590
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, This cup is the new testament",
+      "korean_translation": "이 잔은 새 언약이라 말하며",
+      "word_indices": [
+        220,
+        427,
+        1589
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in my blood",
+      "korean_translation": "내 피로 세워진 것이라",
+      "word_indices": [
+        59
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which is shed for you",
+      "korean_translation": "이것이 너희를 위해 흘려지는 피니라",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

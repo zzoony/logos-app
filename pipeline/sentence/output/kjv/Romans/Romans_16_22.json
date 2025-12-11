@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Romans 16:22",
+  "version": "KJV",
+  "original_text": "I Tertius, who wrote this epistle, salute you in the Lord.",
+  "korean_text": "이 편지를 기록하는 나 더디오도 주 안에서 너희에게 문안하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I Tertius",
+      "korean_translation": "나는 테르티우스입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who wrote this epistle",
+      "korean_translation": "이 서신을 쓴 사람",
+      "word_indices": [
+        1451
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "salute you in Lord",
+      "korean_translation": "주 안에서 너희에게 문안합니다",
+      "word_indices": [
+        3,
+        666
+      ]
+    }
+  ]
+}

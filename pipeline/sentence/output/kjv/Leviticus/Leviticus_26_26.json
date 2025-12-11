@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Leviticus 26:26",
+  "version": "KJV",
+  "original_text": "And when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver you your bread again by weight: and ye shall eat, and not be satisfied.",
+  "korean_text": "내가 너희가 의뢰하는 양식을 끊을 때에 열 여인이 한 화덕에서 너희 떡을 구워 저울에 달아 주리니 너희가 먹어도 배부르지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when I have broken the staff of your bread",
+      "korean_translation": "그리고 내가 너희 양식의 지팡이를 꺾을 때에",
+      "word_indices": [
+        79,
+        716
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "ten women shall bake your bread in one oven",
+      "korean_translation": "열 여인이 한 화덕에서 너희 떡을 굽겠고",
+      "word_indices": [
+        79,
+        122,
+        1591,
+        1606
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they shall deliver you your bread again by weight",
+      "korean_translation": "그들이 너희에게 무게로 다시 떡을 주겠으며",
+      "word_indices": [
+        3,
+        79,
+        492
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and ye shall eat",
+      "korean_translation": "너희가 먹으리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and not be satisfied",
+      "korean_translation": "그러나 만족하지 못하리라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 21:16",
+  "version": "KJV",
+  "original_text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
+  "korean_text": "사람을 납치한 자가 그 사람을 팔았든지 자기 수하에 두었든지 그를 반드시 죽일지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he that stealeth a man",
+      "korean_translation": "그리고 사람을 훔치는 자는",
+      "word_indices": [
+        3206
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and selleth him",
+      "korean_translation": "그를 팔면",
+      "word_indices": [
+        2228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or if he be found in his hand",
+      "korean_translation": "또는 그가 그의 손에서 발견되면",
+      "word_indices": [
+        8,
+        15,
+        1903
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he shall surely be put to death",
+      "korean_translation": "그는 반드시 죽임을 당할 것이다",
+      "word_indices": []
+    }
+  ]
+}

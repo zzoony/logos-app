@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Revelation 5:14",
+  "version": "KJV",
+  "original_text": "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.",
+  "korean_text": "네 생물이 이르되 아멘 하고 장로들은 엎드려 경배하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the four beasts said, Amen.",
+      "korean_translation": "네 생물이 아멘이라 말하고",
+      "word_indices": [
+        87
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And the four and twenty elders fell down",
+      "korean_translation": "이십사 장로들이 엎드리고",
+      "word_indices": [
+        14,
+        101,
+        129,
+        159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and worshipped him",
+      "korean_translation": "경배하였더라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that liveth for ever and ever.",
+      "korean_translation": "그는 영원무궁토록 살아있는 이시니",
+      "word_indices": [
+        54,
+        352
+      ]
+    }
+  ]
+}

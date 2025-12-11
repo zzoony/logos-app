@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Psalms 56:3",
+  "version": "KJV",
+  "original_text": "What time I am afraid, I will trust in thee.",
+  "korean_text": "내가 두려워하는 날에는 내가 주를 의지하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What time I am afraid",
+      "korean_translation": "내가 두려워할 때",
+      "word_indices": [
+        30,
+        165
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will trust in thee",
+      "korean_translation": "내가 주를 의지하리라",
+      "word_indices": [
+        2,
+        202
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 John 2:4",
+  "version": "KJV",
+  "original_text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.",
+  "korean_text": "그를 아노라 하고 그의 계명을 지키지 아니하는 자는 거짓말하는 자요 진리가 그 속에 있지 아니하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He that saith, I know him",
+      "korean_translation": "그가 말하기를, 내가 그를 안다고 하면서도",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and keepeth not his commandments",
+      "korean_translation": "그의 계명을 지키지 아니하면",
+      "word_indices": [
+        85,
+        684
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is a liar",
+      "korean_translation": "거짓말쟁이니",
+      "word_indices": [
+        1213
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the truth is not in him",
+      "korean_translation": "그에게 진리가 없느니라",
+      "word_indices": []
+    }
+  ]
+}

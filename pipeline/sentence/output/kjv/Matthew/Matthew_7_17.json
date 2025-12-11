@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Matthew 7:17",
+  "version": "KJV",
+  "original_text": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.",
+  "korean_text": "이와 같이 좋은 나무마다 아름다운 열매를 맺고 못된 나무가 나쁜 열매를 맺나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even so every good tree",
+      "korean_translation": "이와 같이 모든 좋은 나무는",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "bringeth forth good fruit;",
+      "korean_translation": "좋은 열매를 맺고",
+      "word_indices": [
+        25,
+        124,
+        407
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but a corrupt tree",
+      "korean_translation": "그러나 썩은 나무는",
+      "word_indices": [
+        81,
+        651
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "bringeth forth evil fruit.",
+      "korean_translation": "악한 열매를 맺느니라.",
+      "word_indices": [
+        25,
+        35,
+        124,
+        407
+      ]
+    }
+  ]
+}

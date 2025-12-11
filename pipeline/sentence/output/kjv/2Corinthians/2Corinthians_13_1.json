@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Corinthians 13:1",
+  "version": "KJV",
+  "original_text": "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.",
+  "korean_text": "내가 이제 세 번째 너희에게 가리니 두세 증인의 입으로 말마다 확정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the third time",
+      "korean_translation": "이것은 세 번째입니다",
+      "word_indices": [
+        30,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am coming to you",
+      "korean_translation": "내가 너희에게 가고 있습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "In the mouth of two or three witnesses",
+      "korean_translation": "두세 증인의 입으로",
+      "word_indices": [
+        15,
+        50,
+        60,
+        169
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall every word be established",
+      "korean_translation": "모든 말이 확증되어야 합니다",
+      "word_indices": [
+        272
+      ]
+    }
+  ]
+}

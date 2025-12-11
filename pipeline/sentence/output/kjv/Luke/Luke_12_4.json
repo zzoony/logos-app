@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Luke 12:4",
+  "version": "KJV",
+  "original_text": "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.",
+  "korean_text": "내가 내 친구 너희에게 말하노니 몸을 죽이고 그 후에는 능히 더 못하는 자들을 두려워하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I say unto you my friends",
+      "korean_translation": "내가 내 친구들에게 너희에게 말한다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Be not afraid of them",
+      "korean_translation": "그들을 두려워하지 말라",
+      "word_indices": [
+        1,
+        165
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that kill the body",
+      "korean_translation": "몸을 죽이는 자들을",
+      "word_indices": [
+        152,
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and after that have no more",
+      "korean_translation": "그 후에는 더 이상 갖지 못하는 자들을",
+      "word_indices": [
+        33
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that they can do",
+      "korean_translation": "그들이 할 수 있는 것을",
+      "word_indices": []
+    }
+  ]
+}

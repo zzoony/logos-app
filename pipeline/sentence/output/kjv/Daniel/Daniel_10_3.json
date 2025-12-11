@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Daniel 10:3",
+  "version": "KJV",
+  "original_text": "I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.",
+  "korean_text": "세 이레가 차기까지 좋은 떡을 먹지 아니하며 고기와 포도주를 입에 대지 아니하며 또 기름을 바르지 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I ate no pleasant bread",
+      "korean_translation": "나는 맛있는 빵을 먹지 않았다",
+      "word_indices": [
+        79,
+        544
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "neither came flesh",
+      "korean_translation": "고기도 들지 않았다",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor wine in my mouth",
+      "korean_translation": "포도주도 내 입에 들지 않았다",
+      "word_indices": [
+        31,
+        60,
+        138
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "neither did I anoint myself at all",
+      "korean_translation": "나는 전혀 몸에 기름을 바르지 않았다",
+      "word_indices": [
+        208,
+        271
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "till three whole weeks were fulfilled",
+      "korean_translation": "이틀이 완전히 채워질 때까지",
+      "word_indices": [
+        50,
+        125,
+        996
+      ]
+    }
+  ]
+}

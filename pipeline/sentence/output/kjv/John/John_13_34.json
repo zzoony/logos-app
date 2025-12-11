@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 13:34",
+  "version": "KJV",
+  "original_text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+  "korean_text": "새 계명을 너희에게 주노니 서로 사랑하라 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A new commandment I give unto you",
+      "korean_translation": "내가 너희에게 새 계명을 주노니",
+      "word_indices": [
+        3,
+        85,
+        220
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That ye love one another",
+      "korean_translation": "너희가 서로 사랑하라",
+      "word_indices": [
+        58
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as I have loved you",
+      "korean_translation": "내가 너희를 사랑한 것 같이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that ye also love one another",
+      "korean_translation": "너희도 서로 사랑하라",
+      "word_indices": [
+        9,
+        58
+      ]
+    }
+  ]
+}

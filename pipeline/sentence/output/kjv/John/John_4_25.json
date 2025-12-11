@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 4:25",
+  "version": "KJV",
+  "original_text": "The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.",
+  "korean_text": "여자가 이르되 메시야 곧 그리스도라 하는 이가 오실 줄을 내가 아노니 그가 오시면 모든 것을 우리에게 알려 주시리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman saith unto him,",
+      "korean_translation": "여인이 그에게 말하니",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I know that Messias cometh,",
+      "korean_translation": "내가 메시야가 오심을 아노라",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which is called Christ:",
+      "korean_translation": "그리스도라 불리우는 분",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when he is come,",
+      "korean_translation": "그가 오실 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he will tell us all things.",
+      "korean_translation": "그가 우리에게 모든 것을 알려주시리라",
+      "word_indices": [
+        11
+      ]
+    }
+  ]
+}

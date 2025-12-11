@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Joel 1:19",
+  "version": "KJV",
+  "original_text": "O Lord, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+  "korean_text": "여호와여 내가 주께 부르짖으오니 불이 목장의 풀을 살랐고 불꽃이 들의 모든 나무를 살랐음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord, to thee will I cry:",
+      "korean_translation": "오 주여, 내가 주께 부르짖나이다:",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the fire hath devoured the pastures of the wilderness,",
+      "korean_translation": "불이 광야의 초장을 삼켰으며,",
+      "word_indices": [
+        41,
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the flame hath burned all the trees of the field.",
+      "korean_translation": "불꽃이 밭의 모든 나무를 태웠나이다.",
+      "word_indices": [
+        34,
+        84,
+        676
+      ]
+    }
+  ]
+}

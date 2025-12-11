@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 1:16",
+  "version": "KJV",
+  "original_text": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.",
+  "korean_text": "갈릴리 해변으로 지나가시다가 시몬과 그 형제 안드레가 바다에 그물 던지는 것을 보시니 그들은 어부라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now as he walked by the sea of Galilee,",
+      "korean_translation": "이제 그가 갈릴리 바다를 걸어갈 때,",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he saw Simon and Andrew his brother",
+      "korean_translation": "그는 시몬과 그의 형제 안드레를 보았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "casting a net into the sea:",
+      "korean_translation": "바다에 그물을 던지고 있었습니다",
+      "word_indices": [
+        7,
+        65,
+        608
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for they were fishers.",
+      "korean_translation": "왜냐하면 그들은 어부였기 때문입니다",
+      "word_indices": [
+        2174
+      ]
+    }
+  ]
+}

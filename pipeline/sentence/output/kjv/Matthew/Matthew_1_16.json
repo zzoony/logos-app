@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 1:16",
+  "version": "KJV",
+  "original_text": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.",
+  "korean_text": "야곱은 마리아의 남편 요셉을 낳았으니 마리아에게서 그리스도라 칭하는 예수가 나시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jacob begat Joseph",
+      "korean_translation": "야곱이 요셉을 낳고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "husband of Mary",
+      "korean_translation": "마리아의 남편",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of whom was born Jesus",
+      "korean_translation": "그에게서 예수가 태어났으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who is called Christ",
+      "korean_translation": "그리스도라 불리는 이",
+      "word_indices": []
+    }
+  ]
+}

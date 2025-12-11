@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 103:8",
+  "version": "KJV",
+  "original_text": "The Lord is merciful and gracious, slow to anger, and plenteous in mercy.",
+  "korean_text": "여호와는 긍휼이 많으시고 은혜로우시며 노하기를 더디 하시고 인자하심이 풍부하시도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord is merciful",
+      "korean_translation": "주님은 자비로우시며",
+      "word_indices": [
+        758
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and gracious",
+      "korean_translation": "은혜로우시며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "slow to anger",
+      "korean_translation": "노하기를 더디시며",
+      "word_indices": [
+        136,
+        1476
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and plenteous in mercy",
+      "korean_translation": "자비가 풍성하시도다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 4:12",
+  "version": "KJV",
+  "original_text": "Now when Jesus had heard that John was cast into prison, he departed into Galilee;",
+  "korean_text": "예수께서 요한이 잡혔음을 들으시고 갈릴리로 물러가셨다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now when Jesus had heard",
+      "korean_translation": "이제 예수께서 들으셨을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that John was cast into prison",
+      "korean_translation": "요한이 감옥에 던져졌다는 것을",
+      "word_indices": [
+        7,
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he departed into Galilee",
+      "korean_translation": "그는 갈릴리로 떠나셨다",
+      "word_indices": [
+        7
+      ]
+    }
+  ]
+}

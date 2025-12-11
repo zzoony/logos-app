@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Mark 2:11",
+  "version": "KJV",
+  "original_text": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house.",
+  "korean_text": "내가 네게 이르노니 일어나 네 상을 가지고 집으로 가라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I say unto thee,",
+      "korean_translation": "내가 네게 말하노라,",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Arise,",
+      "korean_translation": "일어나라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and take up thy bed,",
+      "korean_translation": "네 침상을 들고,",
+      "word_indices": [
+        332
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and go thy way into thine house.",
+      "korean_translation": "네 집으로 가라.",
+      "word_indices": [
+        4,
+        7,
+        26
+      ]
+    }
+  ]
+}

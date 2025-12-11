@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 2:12",
+  "version": "KJV",
+  "original_text": "And the gold of that land is good: there is bdellium and the onyx stone.",
+  "korean_text": "그 땅의 금은 순금이요 그 곳에는 베델리엄과 호마노도 있으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the gold of that land is good:",
+      "korean_translation": "그 땅의 금은 좋으며",
+      "word_indices": [
+        10,
+        69
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there is bdellium",
+      "korean_translation": "그곳에는 블델리움이 있고",
+      "word_indices": [
+        3608
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the onyx stone.",
+      "korean_translation": "호박석도 있다.",
+      "word_indices": [
+        72,
+        1728
+      ]
+    }
+  ]
+}

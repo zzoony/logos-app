@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Romans 13:12",
+  "version": "KJV",
+  "original_text": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.",
+  "korean_text": "밤이 깊고 낮이 가까웠으니 그러므로 우리가 어둠의 일을 벗고 빛의 갑옷을 입자",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The night is far spent",
+      "korean_translation": "밤이 거의 지났으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the day is at hand",
+      "korean_translation": "날이 가까이 왔도다",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "let us therefore cast off the works of darkness",
+      "korean_translation": "그러므로 우리는 어두움의 행위를 벗어버리고",
+      "word_indices": [
+        29,
+        46
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and let us put on the armour of light",
+      "korean_translation": "빛의 갑옷을 입자",
+      "word_indices": [
+        1115
+      ]
+    }
+  ]
+}

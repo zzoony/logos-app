@@ -1,0 +1,34 @@
+{
+  "verse_reference": "2 Kings 23:1",
+  "version": "KJV",
+  "original_text": "And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.",
+  "korean_text": "왕이 보내 유다와 예루살렘의 모든 장로를 자기에게로 모으고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the king sent",
+      "korean_translation": "왕이 보내었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they gathered unto him",
+      "korean_translation": "그들이 그에게 모였으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all the elders of Judah",
+      "korean_translation": "유다의 모든 장로들과",
+      "word_indices": [
+        159
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and of Jerusalem",
+      "korean_translation": "예루살렘의 모든 장로들을",
+      "word_indices": []
+    }
+  ]
+}

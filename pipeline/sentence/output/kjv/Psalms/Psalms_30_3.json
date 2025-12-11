@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 30:3",
+  "version": "KJV",
+  "original_text": "O Lord, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+  "korean_text": "여호와여 주께서 내 영혼을 스올에서 끌어내어 나를 살리사 무덤으로 내려가지 아니하게 하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thou hast brought up my soul from the grave",
+      "korean_translation": "주께서 내 영혼을 무덤에서 끌어내셨나이다",
+      "word_indices": [
+        257
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thou hast kept me alive",
+      "korean_translation": "주께서 나를 살아있게 하셨나이다",
+      "word_indices": [
+        373
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I should not go down to the pit",
+      "korean_translation": "내가 구렁으로 내려가지 않게 하시려고",
+      "word_indices": [
+        14,
+        357
+      ]
+    }
+  ]
+}

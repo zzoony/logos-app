@@ -1,0 +1,41 @@
+{
+  "verse_reference": "James 3:12",
+  "version": "KJV",
+  "original_text": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh.",
+  "korean_text": "내 형제들아 어찌 무화과나무가 감람 열매를, 포도나무가 무화과를 맺겠느냐 이와 같이 짠 물이 단 물을 내지 못하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Can a fig tree, my brethren, bear olive berries?",
+      "korean_translation": "나의 형제들아, 무화과나무가 감람 열매를 맺을 수 있겠느냐?",
+      "word_indices": [
+        63,
+        81,
+        465,
+        591,
+        4037
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "either a vine, figs?",
+      "korean_translation": "포도나무가 무화과를 맺을 수 있겠느냐?",
+      "word_indices": [
+        426,
+        465,
+        740
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so can no fountain both yield salt water and fresh.",
+      "korean_translation": "이와 같이 샘도 짠 물과 단 물을 함께 낼 수 없느니라.",
+      "word_indices": [
+        32,
+        652,
+        687,
+        2897
+      ]
+    }
+  ]
+}

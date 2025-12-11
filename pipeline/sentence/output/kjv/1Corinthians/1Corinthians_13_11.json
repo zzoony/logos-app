@@ -1,0 +1,56 @@
+{
+  "verse_reference": "1 Corinthians 13:11",
+  "version": "KJV",
+  "original_text": "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.",
+  "korean_text": "내가 어렸을 때에는 말하는 것이 어린 아이와 같고 깨닫는 것이 어린 아이와 같고 생각하는 것이 어린 아이와 같다가 장성한 사람이 되어서는 어린 아이의 일을 버렸노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I was a child,",
+      "korean_translation": "내가 어릴 때에는,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I spake as a child,",
+      "korean_translation": "어린아이처럼 말하였고,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I understood as a child,",
+      "korean_translation": "어린아이처럼 깨달았고,",
+      "word_indices": [
+        6
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I thought as a child:",
+      "korean_translation": "어린아이처럼 생각하였으나,",
+      "word_indices": [
+        6,
+        546
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but when I became a man,",
+      "korean_translation": "장성한 사람이 되매,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I put away childish things.",
+      "korean_translation": "어린아이의 일을 버렸노라.",
+      "word_indices": [
+        11,
+        5712
+      ]
+    }
+  ]
+}

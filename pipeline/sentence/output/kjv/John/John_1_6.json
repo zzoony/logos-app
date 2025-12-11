@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 1:6",
+  "version": "KJV",
+  "original_text": "There was a man sent from God, whose name was John.",
+  "korean_text": "하나님께로부터 보내심을 받은 사람이 있으니 그의 이름은 요한이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There was a man",
+      "korean_translation": "한 사람이 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sent from God",
+      "korean_translation": "하나님으로부터 보내심을 받은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whose name was John",
+      "korean_translation": "그의 이름은 요한이었더라",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

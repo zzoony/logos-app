@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Matthew 8:6",
+  "version": "KJV",
+  "original_text": "And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.",
+  "korean_text": "이르되 주여 내 하인이 중풍병으로 집에 누워 몹시 괴로워하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And saying",
+      "korean_translation": "그리고 말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my servant lieth at home",
+      "korean_translation": "나의 종이 집에 누워 있사옵니다",
+      "word_indices": [
+        19,
+        528,
+        621
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "sick of the palsy",
+      "korean_translation": "중풍병으로 아파 있사옵니다",
+      "word_indices": [
+        376,
+        1587
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "grievously tormented",
+      "korean_translation": "몹시 고통받고 있사옵니다",
+      "word_indices": [
+        1220,
+        2339
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Genesis 1:9",
+  "version": "KJV",
+  "original_text": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.",
+  "korean_text": "하나님이 이르시되 천하의 물이 한 곳으로 모이고 뭍이 드러나라 하시니 그대로 되니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And God said",
+      "korean_translation": "그리고 하나님이 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Let the waters under the heaven",
+      "korean_translation": "하늘 아래의 물들이",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "be gathered together unto one place",
+      "korean_translation": "한 곳으로 모이게 하라",
+      "word_indices": [
+        21,
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and let the dry land appear",
+      "korean_translation": "그리고 마른 땅이 나타나게 하라",
+      "word_indices": [
+        10,
+        251,
+        302
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and it was so",
+      "korean_translation": "그리고 그대로 되었다",
+      "word_indices": []
+    }
+  ]
+}

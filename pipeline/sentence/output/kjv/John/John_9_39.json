@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 9:39",
+  "version": "KJV",
+  "original_text": "And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.",
+  "korean_text": "예수께서 이르시되 내가 심판하러 이 세상에 왔으니 보지 못하는 자들은 보게 하고 보는 자들은 맹인이 되게 하려 함이라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said",
+      "korean_translation": "예수께서 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "For judgment I am come into this world",
+      "korean_translation": "나는 심판하려고 이 세상에 왔노라",
+      "word_indices": [
+        7,
+        66,
+        104
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that they which see not might see",
+      "korean_translation": "보지 못하는 자들이 보게 하려 함이요",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and that they which see might be made blind",
+      "korean_translation": "보는 자들은 눈먼 자 되게 하려 함이라",
+      "word_indices": [
+        55,
+        380
+      ]
+    }
+  ]
+}

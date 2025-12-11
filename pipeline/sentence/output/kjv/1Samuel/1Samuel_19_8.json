@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Samuel 19:8",
+  "version": "KJV",
+  "original_text": "And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.",
+  "korean_text": "전쟁이 다시 있으므로 다윗이 나가서 블레셋 사람들과 싸워 그들을 크게 쳐죽이매 그들이 그 앞에서 도망하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And there was war again",
+      "korean_translation": "그리고 다시 전쟁이 있었고",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and David went out",
+      "korean_translation": "다윗이 나아가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and fought with the Philistines",
+      "korean_translation": "블레셋 사람들과 싸워서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and slew them with a great slaughter",
+      "korean_translation": "그들을 크게 쳐서 죽이고",
+      "word_indices": [
+        1,
+        162,
+        561
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they fled from him",
+      "korean_translation": "그들이 그에게서 도망하였다",
+      "word_indices": []
+    }
+  ]
+}

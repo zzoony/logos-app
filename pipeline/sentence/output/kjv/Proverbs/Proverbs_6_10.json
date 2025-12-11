@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Proverbs 6:10",
+  "version": "KJV",
+  "original_text": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
+  "korean_text": "좀더 자자, 좀더 졸자, 손을 모으고 좀더 누워 있자 하면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yet a little sleep",
+      "korean_translation": "그러나 잠시 자고",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a little slumber",
+      "korean_translation": "잠시 졸고",
+      "word_indices": [
+        131,
+        1802
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a little folding of the hands",
+      "korean_translation": "손을 잠시 접고",
+      "word_indices": [
+        8,
+        131,
+        1333
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to sleep",
+      "korean_translation": "자려 함이라",
+      "word_indices": []
+    }
+  ]
+}

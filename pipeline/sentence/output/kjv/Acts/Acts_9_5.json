@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Acts 9:5",
+  "version": "KJV",
+  "original_text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.",
+  "korean_text": "대답하되 주여 누구시니이까 이르시되 나는 네가 박해하는 예수라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said",
+      "korean_translation": "그가 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who art thou, Lord?",
+      "korean_translation": "주님, 당신은 누구십니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And the Lord said",
+      "korean_translation": "주님께서 말씀하시기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am Jesus",
+      "korean_translation": "나는 예수이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "whom thou persecutest",
+      "korean_translation": "네가 핍박하는 자이니라",
+      "word_indices": [
+        2565
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "it is hard for thee",
+      "korean_translation": "네가 가시를 찌르는 것은",
+      "word_indices": [
+        2,
+        688
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to kick against the pricks",
+      "korean_translation": "너에게 어려운 일이니라",
+      "word_indices": [
+        2431,
+        2918
+      ]
+    }
+  ]
+}

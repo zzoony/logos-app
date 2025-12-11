@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Ezra 1:9",
+  "version": "KJV",
+  "original_text": "And this is the number of them: thirty chargers of gold, a thousand chargers of silver, nine and twenty knives,",
+  "korean_text": "그 수는 금 접시가 서른 개요 은 접시가 천 개요 칼이 스물아홉 개요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And this is the number of them:",
+      "korean_translation": "그리고 그것들의 수는 이러합니다:",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "thirty chargers of gold,",
+      "korean_translation": "금으로 만든 대접 서른 개,",
+      "word_indices": [
+        69,
+        183,
+        1247
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a thousand chargers of silver,",
+      "korean_translation": "은으로 만든 대접 천 개,",
+      "word_indices": [
+        38,
+        1247
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nine and twenty knives,",
+      "korean_translation": "스물아홉 개의 칼,",
+      "word_indices": [
+        101,
+        628
+      ]
+    }
+  ]
+}

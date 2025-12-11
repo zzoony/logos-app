@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Numbers 24:25",
+  "version": "KJV",
+  "original_text": "And Balaam rose up, and went and returned to his place: and Balak also went his way.",
+  "korean_text": "발람이 일어나 자기 곳으로 돌아가고 발락도 자기 길로 갔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Balaam rose up",
+      "korean_translation": "그리고 발람이 일어나서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and went and returned to his place",
+      "korean_translation": "가서 자기 처소로 돌아갔고",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Balak also went his way",
+      "korean_translation": "발락도 자기 길로 갔더라",
+      "word_indices": [
+        9,
+        26
+      ]
+    }
+  ]
+}

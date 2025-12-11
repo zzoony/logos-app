@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Psalms 49:1",
+  "version": "KJV",
+  "original_text": "Hear this, all ye people; give ear, all ye inhabitants of the world:",
+  "korean_text": "뭇 백성들아 이를 들으라 세상의 거민들아 모두 귀를 기울이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hear this",
+      "korean_translation": "이것을 들으라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all ye people",
+      "korean_translation": "너희 모든 백성이여",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "give ear",
+      "korean_translation": "귀를 기울이고",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all ye inhabitants of the world",
+      "korean_translation": "세상의 모든 거주자들이여",
+      "word_indices": [
+        104,
+        135
+      ]
+    }
+  ]
+}

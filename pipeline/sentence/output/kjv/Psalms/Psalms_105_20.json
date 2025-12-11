@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Psalms 105:20",
+  "version": "KJV",
+  "original_text": "The king sent and loosed him; even the ruler of the people, and let him go free.",
+  "korean_text": "왕이 사람을 보내어 그를 석방함이여 뭇 백성의 통치자가 그를 자유롭게 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king sent and loosed him",
+      "korean_translation": "왕이 사람을 보내어 그를 풀어주었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even the ruler of the people",
+      "korean_translation": "곧 백성의 통치자라도",
+      "word_indices": [
+        5,
+        201
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let him go free",
+      "korean_translation": "그를 자유롭게 놓아주었다",
+      "word_indices": [
+        521
+      ]
+    }
+  ]
+}

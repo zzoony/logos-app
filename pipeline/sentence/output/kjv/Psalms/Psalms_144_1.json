@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 144:1",
+  "version": "KJV",
+  "original_text": "Blessed be the Lord my strength which teacheth my hands to war, and my fingers to fight:",
+  "korean_text": "나의 반석이신 여호와를 찬송하리로다 그가 내 손을 가르쳐 싸우게 하시며 손가락을 가르쳐 전쟁하게 하시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Blessed be the Lord my strength",
+      "korean_translation": "나의 힘이 되시는 주를 찬송하리로다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which teacheth my hands to war",
+      "korean_translation": "그는 내 손을 전쟁하게 하시며",
+      "word_indices": [
+        8,
+        123,
+        1440
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and my fingers to fight",
+      "korean_translation": "내 손가락을 싸우게 하시는도다",
+      "word_indices": [
+        743
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Psalms 121:1",
+  "version": "KJV",
+  "original_text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+  "korean_text": "내가 산을 향하여 눈을 들리라 나의 도움이 어디서 올까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will lift up mine eyes",
+      "korean_translation": "나는 내 눈을 들겠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "unto the hills",
+      "korean_translation": "언덕을 향하여",
+      "word_indices": [
+        232
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from whence cometh my help",
+      "korean_translation": "나의 도움이 오는 곳으로부터",
+      "word_indices": [
+        109
+      ]
+    }
+  ]
+}

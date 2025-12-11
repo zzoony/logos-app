@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 13:10",
+  "version": "KJV",
+  "original_text": "Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.",
+  "korean_text": "예수께서 이르시되 이미 목욕한 자는 발밖에 씻을 필요가 없느니라 온 몸이 깨끗하니라 너희가 깨끗하나 다는 아니니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus saith to him",
+      "korean_translation": "예수께서 그에게 이르시되",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He that is washed",
+      "korean_translation": "목욕한 자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "needeth not save to wash his feet",
+      "korean_translation": "발만 씻을 필요가 없느니라",
+      "word_indices": [
+        2378
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but is clean every whit",
+      "korean_translation": "온전히 깨끗하며",
+      "word_indices": [
+        244,
+        2651
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and ye are clean",
+      "korean_translation": "너희가 깨끗하다",
+      "word_indices": [
+        244
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but not all",
+      "korean_translation": "그러나 다는 아니니라",
+      "word_indices": []
+    }
+  ]
+}

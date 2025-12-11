@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Psalms 41:5",
+  "version": "KJV",
+  "original_text": "Mine enemies speak evil of me, When shall he die, and his name perish?",
+  "korean_text": "나의 원수가 내게 대하여 악담하기를 그가 어느 때에나 죽고 그의 이름이 언제나 없어질까 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mine enemies speak evil of me",
+      "korean_translation": "나의 원수들이 나를 해하려 말하며",
+      "word_indices": [
+        35,
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When shall he die",
+      "korean_translation": "그가 언제 죽으리요",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his name perish?",
+      "korean_translation": "그의 이름이 없어지리요",
+      "word_indices": [
+        16,
+        224
+      ]
+    }
+  ]
+}

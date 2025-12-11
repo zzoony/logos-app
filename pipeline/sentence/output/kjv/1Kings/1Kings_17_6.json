@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 17:6",
+  "version": "KJV",
+  "original_text": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.",
+  "korean_text": "까마귀들이 아침에도 떡과 고기를, 저녁에도 떡과 고기를 가져왔고 그가 시냇물을 마셨으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the ravens brought him bread",
+      "korean_translation": "그리고 까마귀들이 그에게 빵을 가져왔고",
+      "word_indices": [
+        79,
+        1406
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and flesh in the morning",
+      "korean_translation": "아침에는 고기를 가져왔으며",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bread and flesh in the evening",
+      "korean_translation": "저녁에는 빵과 고기를 가져왔고",
+      "word_indices": [
+        67,
+        79
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he drank of the brook",
+      "korean_translation": "그는 시냇물을 마셨다",
+      "word_indices": [
+        585
+      ]
+    }
+  ]
+}

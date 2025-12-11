@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Psalms 138:1",
+  "version": "KJV",
+  "original_text": "I will praise thee with my whole heart: before the gods will I sing praise unto thee.",
+  "korean_text": "내가 전심으로 주께 감사하며 신들 앞에서 주께 찬송하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will praise thee with my whole heart",
+      "korean_translation": "내 마음을 다해 주를 찬송하리라",
+      "word_indices": [
+        2,
+        20,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before the gods",
+      "korean_translation": "신들 앞에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will I sing praise unto thee",
+      "korean_translation": "내가 주께 찬송을 부르리라",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

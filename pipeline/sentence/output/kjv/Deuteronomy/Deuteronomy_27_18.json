@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Deuteronomy 27:18",
+  "version": "KJV",
+  "original_text": "Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen.",
+  "korean_text": "맹인에게 길을 잃게 하는 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cursed be he",
+      "korean_translation": "저주를 받을지니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that maketh the blind to wander out of the way",
+      "korean_translation": "소경으로 하여금 길에서 잃어버리게 하는 자는",
+      "word_indices": [
+        26,
+        262,
+        380,
+        944
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And all the people shall say",
+      "korean_translation": "모든 백성은 말하기를",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Amen",
+      "korean_translation": "아멘",
+      "word_indices": []
+    }
+  ]
+}

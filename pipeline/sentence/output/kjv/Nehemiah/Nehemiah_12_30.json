@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Nehemiah 12:30",
+  "version": "KJV",
+  "original_text": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.",
+  "korean_text": "제사장들과 레위 사람들이 몸을 정결하게 하고 또 백성과 성문과 성벽을 정결하게 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "the priests purified themselves",
+      "korean_translation": "제사장들은 스스로를 정결케 하였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Levites purified themselves",
+      "korean_translation": "레위 사람들도 스스로를 정결케 하였으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they purified the people",
+      "korean_translation": "백성들을 정결케 하고",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the gates",
+      "korean_translation": "성문들을",
+      "word_indices": [
+        1225
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the wall",
+      "korean_translation": "성벽을 정결케 하였다",
+      "word_indices": [
+        126
+      ]
+    }
+  ]
+}

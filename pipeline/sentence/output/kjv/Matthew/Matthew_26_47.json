@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 26:47",
+  "version": "KJV",
+  "original_text": "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.",
+  "korean_text": "말씀하실 때에 열둘 중의 하나인 유다가 왔는데 대제사장들과 백성의 장로들에게서 파송된 큰 무리가 칼과 몽치를 가지고 그와 함께 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And while he yet spake",
+      "korean_translation": "그가 아직 말하고 있을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "lo, Judas, one of the twelve, came",
+      "korean_translation": "보라, 열두 제자 중 하나인 유다가 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and with him a great multitude",
+      "korean_translation": "그와 함께 큰 무리가 있었다",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with swords and staves",
+      "korean_translation": "검과 몽둥이를 가진",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from the chief priests and elders of the people",
+      "korean_translation": "대제사장들과 백성의 장로들에게서 온",
+      "word_indices": [
+        5,
+        108,
+        159
+      ]
+    }
+  ]
+}

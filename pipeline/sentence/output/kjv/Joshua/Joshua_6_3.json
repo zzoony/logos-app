@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Joshua 6:3",
+  "version": "KJV",
+  "original_text": "And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days.",
+  "korean_text": "너희 모든 군사는 그 성을 둘러 성 주위를 매일 한 번씩 돌되 엿새 동안을 그리하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And ye shall compass the city",
+      "korean_translation": "너희는 그 성을 에워싸고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all ye men of war",
+      "korean_translation": "너희 모든 군사들은",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and go round about the city once",
+      "korean_translation": "성을 한 번 돌라",
+      "word_indices": [
+        12,
+        93,
+        530
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Thus shalt thou do six days",
+      "korean_translation": "너는 여섯 날 동안 이렇게 행할지니라",
+      "word_indices": []
+    }
+  ]
+}

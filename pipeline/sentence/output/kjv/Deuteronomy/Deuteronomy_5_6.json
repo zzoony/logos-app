@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Deuteronomy 5:6",
+  "version": "KJV",
+  "original_text": "I am the Lord thy God, which brought thee out of the land of Egypt, from the house of bondage.",
+  "korean_text": "나는 너를 애굽 땅, 종 되었던 집에서 인도하여 낸 네 하나님 여호와라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord thy God",
+      "korean_translation": "나는 너의 하나님 여호와이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which brought thee out of the land of Egypt",
+      "korean_translation": "너를 애굽 땅에서 인도하여 낸 자니",
+      "word_indices": [
+        2,
+        10
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the house of bondage",
+      "korean_translation": "종 되었던 집에서",
+      "word_indices": [
+        4,
+        779
+      ]
+    }
+  ]
+}

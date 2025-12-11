@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Judges 9:45",
+  "version": "KJV",
+  "original_text": "And Abimelech fought against the city all that day; and he took the city, and slew the people that was therein, and beat down the city, and sowed it with salt.",
+  "korean_text": "아비멜렉이 그 날 종일토록 그 성을 쳐서 마침내는 점령하고 거기 있는 백성을 죽이며 그 성을 헐고 소금을 뿌리니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Abimelech fought against the city",
+      "korean_translation": "아비멜렉이 그 성과 싸우니",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all that day",
+      "korean_translation": "그 종일",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he took the city",
+      "korean_translation": "그가 성을 점령하고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and slew the people that was therein",
+      "korean_translation": "그 안의 백성을 죽이며",
+      "word_indices": [
+        5,
+        141,
+        162
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and beat down the city",
+      "korean_translation": "성을 헐고",
+      "word_indices": [
+        12,
+        14,
+        406
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and sowed it with salt",
+      "korean_translation": "소금을 뿌렸더라",
+      "word_indices": [
+        396
+      ]
+    }
+  ]
+}

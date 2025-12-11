@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ecclesiastes 3:6",
+  "version": "KJV",
+  "original_text": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
+  "korean_text": "찾을 때가 있고 잃을 때가 있으며 지킬 때가 있고 버릴 때가 있으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A time to get",
+      "korean_translation": "얻을 때가 있고",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a time to lose",
+      "korean_translation": "잃을 때가 있으며",
+      "word_indices": [
+        30,
+        553
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a time to keep",
+      "korean_translation": "지킬 때가 있고",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and a time to cast away",
+      "korean_translation": "버릴 때가 있다",
+      "word_indices": [
+        30
+      ]
+    }
+  ]
+}

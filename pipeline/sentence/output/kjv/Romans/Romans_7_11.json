@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Romans 7:11",
+  "version": "KJV",
+  "original_text": "For sin, taking occasion by the commandment, deceived me, and by it slew me.",
+  "korean_text": "죄가 기회를 타서 계명으로 말미암아 나를 속이고 그것으로 나를 죽였는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For sin",
+      "korean_translation": "죄가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "taking occasion by the commandment",
+      "korean_translation": "계명을 기회로 삼아",
+      "word_indices": [
+        85,
+        1073
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "deceived me",
+      "korean_translation": "나를 속였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and by it slew me",
+      "korean_translation": "그것으로 나를 죽였습니다",
+      "word_indices": [
+        162
+      ]
+    }
+  ]
+}

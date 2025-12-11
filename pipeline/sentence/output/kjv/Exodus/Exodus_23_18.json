@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 23:18",
+  "version": "KJV",
+  "original_text": "Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.",
+  "korean_text": "너는 네 제물의 피를 유교병과 함께 드리지 말며 내 절기 제물의 기름을 아침까지 남겨두지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thou shalt not offer the blood of my sacrifice",
+      "korean_translation": "너는 내 제사의 피를 드리지 말라",
+      "word_indices": [
+        17,
+        59
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with leavened bread",
+      "korean_translation": "누룩 넣은 빵과 함께",
+      "word_indices": [
+        79,
+        823
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither shall the fat of my sacrifice remain",
+      "korean_translation": "내 제사의 기름도 남아있지 말라",
+      "word_indices": [
+        237
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until the morning",
+      "korean_translation": "아침까지",
+      "word_indices": []
+    }
+  ]
+}

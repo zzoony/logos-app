@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 4:13",
+  "version": "KJV",
+  "original_text": "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:",
+  "korean_text": "예수께서 대답하여 이르시되 이 물을 마시는 자마다 다시 목마르려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered and said unto her",
+      "korean_translation": "예수께서 그녀에게 대답하여 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whosoever drinketh of this water",
+      "korean_translation": "이 물을 마시는 사람은 누구든지",
+      "word_indices": [
+        32,
+        1362
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "shall thirst again",
+      "korean_translation": "다시 목마를 것이니라",
+      "word_indices": [
+        891
+      ]
+    }
+  ]
+}

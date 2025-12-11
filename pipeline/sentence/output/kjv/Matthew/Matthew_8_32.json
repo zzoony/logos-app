@@ -1,0 +1,83 @@
+{
+  "verse_reference": "Matthew 8:32",
+  "version": "KJV",
+  "original_text": "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.",
+  "korean_text": "그들에게 가라 하시니 귀신들이 나와서 돼지에게로 들어가는지라 온 떼가 비탈로 내리달아 바다에 들어가서 물에서 몰사하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he said unto them",
+      "korean_translation": "그가 그들에게 말하기를",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go",
+      "korean_translation": "가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And when they were come out",
+      "korean_translation": "그리고 그들이 나왔을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they went into the herd of swine",
+      "korean_translation": "그들은 돼지 떼로 들어갔고",
+      "word_indices": [
+        7,
+        576,
+        1242
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and, behold",
+      "korean_translation": "그리고 보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the whole herd of swine",
+      "korean_translation": "온 돼지 떼가",
+      "word_indices": [
+        125,
+        576,
+        1242
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "ran violently down a steep place",
+      "korean_translation": "험한 곳을 거칠게 달려내려가",
+      "word_indices": [
+        14,
+        21,
+        1816,
+        2783
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "into the sea",
+      "korean_translation": "바다로",
+      "word_indices": [
+        7,
+        65
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "and perished in the waters",
+      "korean_translation": "물 속에서 멸망하였더라",
+      "word_indices": [
+        32,
+        224
+      ]
+    }
+  ]
+}

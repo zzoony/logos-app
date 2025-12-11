@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Genesis 26:16",
+  "version": "KJV",
+  "original_text": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.",
+  "korean_text": "아비멜렉이 이삭에게 이르되 네가 우리보다 크게 강성한즉 우리를 떠나라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Abimelech said unto Isaac",
+      "korean_translation": "아비멜렉이 이삭에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go from us",
+      "korean_translation": "우리에게서 떠나라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for thou art much mightier than we",
+      "korean_translation": "이는 네가 우리보다 훨씬 강하기 때문이라",
+      "word_indices": [
+        52,
+        105,
+        1593
+      ]
+    }
+  ]
+}

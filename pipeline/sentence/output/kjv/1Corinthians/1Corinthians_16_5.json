@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Corinthians 16:5",
+  "version": "KJV",
+  "original_text": "Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.",
+  "korean_text": "내가 마게도냐를 지날 터이니 마게도냐를 지난 후에 너희에게 가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now I will come unto you",
+      "korean_translation": "이제 내가 너희에게 가겠노라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I shall pass through Macedonia",
+      "korean_translation": "내가 마게도냐를 지나갈 때에",
+      "word_indices": [
+        27,
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I do pass through Macedonia",
+      "korean_translation": "내가 참으로 마게도냐를 지나고 있노라",
+      "word_indices": [
+        27,
+        57
+      ]
+    }
+  ]
+}

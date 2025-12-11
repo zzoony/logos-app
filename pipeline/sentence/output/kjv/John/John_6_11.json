@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 6:11",
+  "version": "KJV",
+  "original_text": "And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.",
+  "korean_text": "예수께서 떡을 가져 축사하신 후에 앉아 있는 자들에게 나눠 주시고 물고기도 그렇게 그들의 원대로 주시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus took the loaves",
+      "korean_translation": "예수께서 떡을 가져오시고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and when he had given thanks",
+      "korean_translation": "감사 기도를 드리신 후에",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he distributed to the disciples",
+      "korean_translation": "제자들에게 나누어주시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the disciples to them that were set down",
+      "korean_translation": "제자들이 앉아 있는 사람들에게 나누어주었다",
+      "word_indices": [
+        1,
+        14
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and likewise of the fishes",
+      "korean_translation": "물고기도 그와 같이",
+      "word_indices": [
+        310,
+        487
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "as much as they would",
+      "korean_translation": "그들이 원하는 만큼 주셨다",
+      "word_indices": [
+        105
+      ]
+    }
+  ]
+}

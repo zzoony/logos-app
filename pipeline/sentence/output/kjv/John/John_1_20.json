@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 1:20",
+  "version": "KJV",
+  "original_text": "And he confessed, and denied not; but confessed, I am not the Christ.",
+  "korean_text": "요한이 드러내어 말하고 숨기지 아니하니 드러내어 하는 말이 나는 그리스도가 아니라 한대",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And he confessed",
+      "korean_translation": "그가 고백하며",
+      "word_indices": [
+        801
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and denied not",
+      "korean_translation": "부인하지 않고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but confessed",
+      "korean_translation": "그러나 고백하였으니",
+      "word_indices": [
+        801
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am not Christ",
+      "korean_translation": "나는 그리스도가 아니로다",
+      "word_indices": []
+    }
+  ]
+}

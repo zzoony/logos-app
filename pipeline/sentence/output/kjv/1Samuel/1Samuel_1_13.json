@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Samuel 1:13",
+  "version": "KJV",
+  "original_text": "Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.",
+  "korean_text": "한나가 속으로 말하매 입술만 움직이고 음성은 들리지 아니하므로 엘리는 그가 취한 줄로 생각한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Hannah, she spake in her heart",
+      "korean_translation": "이제 한나는 그녀의 마음속으로 말하였고",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "only her lips moved",
+      "korean_translation": "오직 그녀의 입술만 움직였으며",
+      "word_indices": [
+        121,
+        266
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but her voice was not heard",
+      "korean_translation": "하지만 그녀의 목소리는 들리지 않았다",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "therefore Eli thought she had been drunken",
+      "korean_translation": "그러므로 엘리는 그녀가 취했다고 생각했다",
+      "word_indices": [
+        546,
+        887
+      ]
+    }
+  ]
+}

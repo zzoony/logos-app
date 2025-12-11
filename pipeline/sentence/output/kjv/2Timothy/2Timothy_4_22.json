@@ -1,0 +1,28 @@
+{
+  "verse_reference": "2 Timothy 4:22",
+  "version": "KJV",
+  "original_text": "The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.",
+  "korean_text": "나는 주께서 네 심령에 함께 계시기를 바라노니 은혜가 너희와 함께 있을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord Jesus Christ be with thy spirit.",
+      "korean_translation": "주 예수 그리스도께서 네 영과 함께 계시기를.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Grace be with you.",
+      "korean_translation": "은혜가 너희와 함께 있기를.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Amen.",
+      "korean_translation": "아멘.",
+      "word_indices": []
+    }
+  ]
+}

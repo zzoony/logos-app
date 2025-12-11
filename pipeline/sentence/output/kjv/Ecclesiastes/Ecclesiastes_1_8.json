@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ecclesiastes 1:8",
+  "version": "KJV",
+  "original_text": "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.",
+  "korean_text": "모든 만물이 피곤하다는 것을 사람이 말로 다 말할 수는 없나니 눈은 보아도 족함이 없고 귀는 들어도 가득 차지 아니하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All things are full of labour",
+      "korean_translation": "모든 것들은 수고로 가득하며",
+      "word_indices": [
+        11,
+        264
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "man cannot utter it",
+      "korean_translation": "사람은 그것을 다 말할 수 없다",
+      "word_indices": [
+        173,
+        504
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the eye is not satisfied with seeing",
+      "korean_translation": "눈은 보는 것으로 만족하지 못하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor the ear filled with hearing",
+      "korean_translation": "귀는 듣는 것으로 채워지지 못한다",
+      "word_indices": [
+        31,
+        111
+      ]
+    }
+  ]
+}

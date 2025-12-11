@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 19:23",
+  "version": "KJV",
+  "original_text": "Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.",
+  "korean_text": "예수께서 제자들에게 이르시되 내가 진실로 너희에게 이르노니 부자는 천국에 들어가기가 어려우니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then said Jesus unto his disciples",
+      "korean_translation": "예수께서 제자들에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Verily I say unto you",
+      "korean_translation": "진실로 너희에게 이르노니",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That a rich man shall hardly enter",
+      "korean_translation": "부자는 거의 들어가지 못하리라",
+      "word_indices": [
+        178,
+        2060
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "into kingdom of heaven",
+      "korean_translation": "천국에",
+      "word_indices": [
+        7,
+        71
+      ]
+    }
+  ]
+}

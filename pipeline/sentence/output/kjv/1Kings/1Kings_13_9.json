@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 13:9",
+  "version": "KJV",
+  "original_text": "For so was it charged me by the word of the Lord, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest.",
+  "korean_text": "이는 곧 여호와의 말씀이 내게 명령하여 이르시기를 떡도 먹지 말며 물도 마시지 말고 왔던 길로 되돌아가지 말라 하셨음이니이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For so was it charged me by the word of the Lord",
+      "korean_translation": "이렇게 주님의 말씀으로 내게 명령을 받았으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "saying, Eat no bread,",
+      "korean_translation": "이르기를, 떡을 먹지 말고",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor drink water,",
+      "korean_translation": "물도 마시지 말라",
+      "word_indices": [
+        31,
+        32
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor turn again by the same way that thou camest.",
+      "korean_translation": "네가 왔던 그 길로 다시 돌아가지 말라.",
+      "word_indices": [
+        26,
+        31,
+        90
+      ]
+    }
+  ]
+}

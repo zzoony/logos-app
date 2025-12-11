@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 21:13",
+  "version": "KJV",
+  "original_text": "Jesus then cometh, and taketh bread, and giveth them, and fish likewise.",
+  "korean_text": "예수께서 가셔서 떡을 가져다가 그들에게 주시고 생선도 그와 같이 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus then cometh",
+      "korean_translation": "예수께서 그 때 오셨고",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and taketh bread",
+      "korean_translation": "빵을 가져가시고",
+      "word_indices": [
+        79,
+        429
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and giveth them",
+      "korean_translation": "그들에게 주시고",
+      "word_indices": [
+        1,
+        261
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and fish likewise",
+      "korean_translation": "물고기도 마찬가지로 주셨다",
+      "word_indices": [
+        310,
+        487
+      ]
+    }
+  ]
+}

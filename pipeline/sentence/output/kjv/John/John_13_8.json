@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 13:8",
+  "version": "KJV",
+  "original_text": "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.",
+  "korean_text": "베드로가 이르되 내 발을 절대로 씻지 못하시리이다 예수께서 대답하시되 내가 너를 씻어 주지 아니하면 네가 나와 상관이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter saith unto him",
+      "korean_translation": "베드로가 그에게 말하되",
+      "word_indices": [
+        13
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Thou shalt never wash my feet",
+      "korean_translation": "당신은 내 발을 결코 씻지 못할 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus answered him",
+      "korean_translation": "예수께서 그에게 대답하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If I wash thee not",
+      "korean_translation": "만약 내가 너를 씻지 않으면",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "thou hast no part with me",
+      "korean_translation": "너는 나와 아무 상관이 없느니라",
+      "word_indices": [
+        102
+      ]
+    }
+  ]
+}

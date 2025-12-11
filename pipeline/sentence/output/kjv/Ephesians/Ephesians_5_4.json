@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Ephesians 5:4",
+  "version": "KJV",
+  "original_text": "Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.",
+  "korean_text": "누추함과 어리석은 말이나 희롱의 말이 마땅치 아니하니 오히려 감사하는 말을 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither filthiness",
+      "korean_translation": "더러움도 없고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor foolish talking",
+      "korean_translation": "어리석은 말도 없고",
+      "word_indices": [
+        31,
+        423,
+        610
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor jesting",
+      "korean_translation": "농담도 없어야 하며",
+      "word_indices": [
+        31,
+        5771
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which are not convenient",
+      "korean_translation": "이것들은 합당하지 않습니다",
+      "word_indices": [
+        2039
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but rather giving of thanks",
+      "korean_translation": "오히려 감사하는 것이 마땅합니다",
+      "word_indices": [
+        315,
+        512
+      ]
+    }
+  ]
+}

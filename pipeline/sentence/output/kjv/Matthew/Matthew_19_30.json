@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 19:30",
+  "version": "KJV",
+  "original_text": "But many that are first shall be last; and the last shall be first.",
+  "korean_text": "그러나 먼저 된 자로서 나중 되고 나중 된 자로서 먼저 될 자가 많으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But many that are first",
+      "korean_translation": "그러나 첫째 되는 많은 사람이",
+      "word_indices": [
+        61
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shall be last;",
+      "korean_translation": "꼴찌가 될 것이요",
+      "word_indices": [
+        379
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the last",
+      "korean_translation": "꼴찌 되는 사람은",
+      "word_indices": [
+        379
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shall be first.",
+      "korean_translation": "첫째가 될 것이다",
+      "word_indices": [
+        61
+      ]
+    }
+  ]
+}

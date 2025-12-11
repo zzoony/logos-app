@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 3:12",
+  "version": "KJV",
+  "original_text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?",
+  "korean_text": "내가 땅의 일을 말하여도 너희가 믿지 아니하거든 하물며 하늘의 일을 말하면 어떻게 믿겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I have told you earthly things",
+      "korean_translation": "내가 너희에게 땅의 것들을 말하였는데",
+      "word_indices": [
+        3,
+        11,
+        2799
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and ye believe not",
+      "korean_translation": "너희가 믿지 아니하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "how shall ye believe",
+      "korean_translation": "어찌 믿겠느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if I tell you of heavenly things?",
+      "korean_translation": "내가 하늘의 것들을 말하면",
+      "word_indices": [
+        3,
+        11,
+        1145
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Lamentations 3:54",
+  "version": "KJV",
+  "original_text": "Waters flowed over mine head; then I said, I am cut off.",
+  "korean_text": "물이 내 머리 위로 넘치니 내가 스스로 이르기를 이제는 멸절되었다 하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Waters flowed over mine head",
+      "korean_translation": "물이 내 머리 위로 흘렀다",
+      "word_indices": [
+        18,
+        32,
+        1001
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "then I said",
+      "korean_translation": "그때 내가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am cut off",
+      "korean_translation": "나는 끊겼다",
+      "word_indices": [
+        46,
+        91
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Ezekiel 1:14",
+  "version": "KJV",
+  "original_text": "And the living creatures ran and returned as the appearance of a flash of lightning.",
+  "korean_text": "그 생물들은 번개 모양 같이 왕래하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And living creatures ran",
+      "korean_translation": "그리고 생물들이 달렸고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and returned",
+      "korean_translation": "돌아왔으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as the appearance of a flash of lightning",
+      "korean_translation": "번개가 번쩍하는 모양 같더라",
+      "word_indices": [
+        766,
+        5260
+      ]
+    }
+  ]
+}

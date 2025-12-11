@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 2:11",
+  "version": "KJV",
+  "original_text": "And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.",
+  "korean_text": "다윗이 이스라엘 왕이 된 지 사십 년이라 헤브론에서 칠 년 동안 다스렸고 예루살렘에서 삼십삼 년 동안 다스렸더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the days that David reigned over Israel",
+      "korean_translation": "그리고 다윗이 이스라엘을 다스린 날들은",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were forty years:",
+      "korean_translation": "사십년이었으니",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "seven years reigned he in Hebron,",
+      "korean_translation": "칠 년을 헤브론에서 다스렸고",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and thirty and three years reigned he in Jerusalem.",
+      "korean_translation": "서른세 년을 예루살렘에서 다스렸더라",
+      "word_indices": [
+        23,
+        50,
+        183
+      ]
+    }
+  ]
+}

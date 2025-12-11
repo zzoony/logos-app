@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 103:15",
+  "version": "KJV",
+  "original_text": "As for man, his days are as grass: as a flower of the field, so he flourisheth.",
+  "korean_text": "인생은 그 날이 풀과 같으며 그 영화가 들의 꽃과 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As for man",
+      "korean_translation": "사람에 관하여는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his days are as grass",
+      "korean_translation": "그의 날들이 풀과 같으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as a flower of the field",
+      "korean_translation": "들에 핀 꽃처럼",
+      "word_indices": [
+        84,
+        830
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so he flourisheth",
+      "korean_translation": "그가 이렇게 피어난다",
+      "word_indices": [
+        3957
+      ]
+    }
+  ]
+}

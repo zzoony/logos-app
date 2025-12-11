@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Acts 23:12",
+  "version": "KJV",
+  "original_text": "And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.",
+  "korean_text": "날이 새매 유대인들이 당을 지어 맹세하되 바울을 죽이기 전에는 먹지도 아니하고 마시지도 아니하겠다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when it was day",
+      "korean_translation": "그리고 날이 밝았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "certain of the Jews banded together",
+      "korean_translation": "어떤 유대인들이 함께 모였다",
+      "word_indices": [
+        51,
+        164,
+        471
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and bound themselves under a curse",
+      "korean_translation": "그리고 저주를 맹세했다",
+      "word_indices": [
+        2086
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "saying that they would neither eat nor drink",
+      "korean_translation": "그들이 먹지도 마시지도 않겠다고 말하며",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "till they had killed Paul",
+      "korean_translation": "바울을 죽일 때까지는",
+      "word_indices": [
+        161
+      ]
+    }
+  ]
+}

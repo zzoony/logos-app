@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Psalms 37:16",
+  "version": "KJV",
+  "original_text": "A little that a righteous man hath is better than the riches of many wicked.",
+  "korean_text": "의인의 적은 소유가 악인의 풍부함보다 낫도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A little that a righteous man hath",
+      "korean_translation": "의인이 가진 적은 것",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is better than",
+      "korean_translation": "보다 낫다",
+      "word_indices": [
+        52,
+        274
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the riches of many wicked",
+      "korean_translation": "많은 악인들의 부유함",
+      "word_indices": [
+        178
+      ]
+    }
+  ]
+}

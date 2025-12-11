@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Leviticus 25:16",
+  "version": "KJV",
+  "original_text": "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee.",
+  "korean_text": "연수가 많으면 너는 그것의 값을 많이 매기고 연수가 적으면 너는 그것의 값을 적게 매길지니 곧 그가 소출의 다소를 따라서 네게 팔 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "According to multitude of years thou shalt increase price thereof",
+      "korean_translation": "년 수가 많을수록 너는 그 가격을 높게 할지니라",
+      "word_indices": [
+        23,
+        24,
+        28,
+        113,
+        880
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and according to fewness of years thou shalt diminish price of it",
+      "korean_translation": "그리고 년 수가 적을수록 너는 그 가격을 낮게 할지니라",
+      "word_indices": [
+        23,
+        28,
+        880,
+        1544
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for according to number of years of the fruits",
+      "korean_translation": "이는 그 열매의 년 수에 따라",
+      "word_indices": [
+        23,
+        28,
+        124
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "doth he sell unto thee",
+      "korean_translation": "그가 너에게 파는 것이기 때문이라",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

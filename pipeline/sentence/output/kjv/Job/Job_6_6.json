@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Job 6:6",
+  "version": "KJV",
+  "original_text": "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?",
+  "korean_text": "싱거운 것이 소금 없이 먹히겠느냐 닭의 알 흰자위가 맛이 있겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Can that which is unsavoury be eaten",
+      "korean_translation": "맛이 없는 것을 먹을 수 있습니까",
+      "word_indices": [
+        3795
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "without salt?",
+      "korean_translation": "소금 없이?",
+      "word_indices": [
+        64
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or is there any taste",
+      "korean_translation": "또는 어떤 맛이 있습니까",
+      "word_indices": [
+        15,
+        22,
+        952
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the white of an egg?",
+      "korean_translation": "달걀 흰자에?",
+      "word_indices": [
+        416,
+        1982
+      ]
+    }
+  ]
+}

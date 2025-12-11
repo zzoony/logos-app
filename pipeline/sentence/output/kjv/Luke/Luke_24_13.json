@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 24:13",
+  "version": "KJV",
+  "original_text": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs.",
+  "korean_text": "그 날에 그들 중 둘이 예루살렘에서 이십오 리 되는 엠마오라 하는 마을로 가면서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And, behold, two of them went",
+      "korean_translation": "그때, 보라, 그들 중 두 사람이 갔으니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that same day to a village",
+      "korean_translation": "그 날 한 마을로",
+      "word_indices": [
+        90,
+        386
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "called Emmaus,",
+      "korean_translation": "엠마오라 불리는 곳으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which was from Jerusalem about threescore furlongs.",
+      "korean_translation": "예루살렘에서 약 60 스타디온 떨어진 곳이었더라",
+      "word_indices": [
+        2798
+      ]
+    }
+  ]
+}

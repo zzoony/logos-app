@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Psalms 72:12",
+  "version": "KJV",
+  "original_text": "For he shall deliver the needy when he crieth; the poor also, and him that hath no helper.",
+  "korean_text": "그는 궁핍한 자가 부르짖을 때에 건지며 도움이 없는 가난한 자도 건지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For he shall deliver the needy",
+      "korean_translation": "그는 가난한 자를 건지시리니",
+      "word_indices": [
+        803
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he crieth",
+      "korean_translation": "그가 부르짖을 때에",
+      "word_indices": [
+        1346
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the poor also",
+      "korean_translation": "가난한 자도",
+      "word_indices": [
+        9,
+        153
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and him that hath no helper",
+      "korean_translation": "돕는 자가 없는 자도",
+      "word_indices": [
+        1443
+      ]
+    }
+  ]
+}

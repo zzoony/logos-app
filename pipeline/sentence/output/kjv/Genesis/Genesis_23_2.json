@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 23:2",
+  "version": "KJV",
+  "original_text": "And Sarah died in Kirjatharba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.",
+  "korean_text": "사라가 가나안 땅 헤브론 곧 기럇아르바에서 죽으매 아브라함이 들어가서 사라를 위하여 슬퍼하며 애통하다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Sarah died in Kirjatharba",
+      "korean_translation": "그리고 사라가 기럇아르바에서 죽었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the same is Hebron in the land of Canaan",
+      "korean_translation": "그곳은 가나안 땅의 헤브론이라",
+      "word_indices": [
+        10,
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Abraham came to mourn for Sarah",
+      "korean_translation": "아브라함이 사라를 위해 슬퍼하러 와서",
+      "word_indices": [
+        273
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to weep for her",
+      "korean_translation": "그녀를 위해 울었다",
+      "word_indices": []
+    }
+  ]
+}

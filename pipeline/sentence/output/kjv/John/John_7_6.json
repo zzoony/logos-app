@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 7:6",
+  "version": "KJV",
+  "original_text": "Then Jesus said unto them, My time is not yet come: but your time is alway ready.",
+  "korean_text": "예수께서 이르시되 내 때는 아직 이르지 아니하였거니와 너희 때는 늘 준비되어 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus said unto them",
+      "korean_translation": "그때 예수님께서 그들에게 말씀하시니",
+      "word_indices": [
+        1
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My time is not yet come",
+      "korean_translation": "나의 때는 아직 이르지 않았다",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but your time is alway ready",
+      "korean_translation": "그러나 너희의 때는 항상 준비되어 있다",
+      "word_indices": [
+        30,
+        336,
+        1322
+      ]
+    }
+  ]
+}

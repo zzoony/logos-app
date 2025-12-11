@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 19:6",
+  "version": "KJV",
+  "original_text": "And Lot went out at the door unto them, and shut the door after him,",
+  "korean_text": "롯이 문 밖의 무리에게로 나가서 뒤로 문을 닫고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Lot went out",
+      "korean_translation": "그리고 롯이 나아가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the door unto them",
+      "korean_translation": "문 앞으로 그들에게",
+      "word_indices": [
+        1,
+        115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and shut the door after him",
+      "korean_translation": "그의 뒤로 문을 닫았더라",
+      "word_indices": [
+        115,
+        311
+      ]
+    }
+  ]
+}

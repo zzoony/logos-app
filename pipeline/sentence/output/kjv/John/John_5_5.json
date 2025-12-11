@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 5:5",
+  "version": "KJV",
+  "original_text": "And a certain man was there, which had an infirmity thirty and eight years.",
+  "korean_text": "거기 서른여덟 해 된 병자가 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And a certain man was there",
+      "korean_translation": "그리고 어떤 사람이 그곳에 있었는데",
+      "word_indices": [
+        164
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which had an infirmity",
+      "korean_translation": "그는 병을 앓고 있었으니",
+      "word_indices": [
+        1166
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "thirty and eight years",
+      "korean_translation": "서른여덟 해 동안이었더라",
+      "word_indices": [
+        23,
+        183,
+        400
+      ]
+    }
+  ]
+}

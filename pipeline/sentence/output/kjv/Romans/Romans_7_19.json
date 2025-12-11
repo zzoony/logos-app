@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Romans 7:19",
+  "version": "KJV",
+  "original_text": "For the good that I would I do not: but the evil which I would not, that I do.",
+  "korean_text": "내가 원하는 바 선은 행하지 아니하고 도리어 원하지 아니하는 바 악을 행하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For the good that I would I do not:",
+      "korean_translation": "내가 하려는 선을 내가 하지 아니하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but the evil which I would not,",
+      "korean_translation": "도리어 내가 하려 하지 아니하는 악을",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I do.",
+      "korean_translation": "내가 행하는도다",
+      "word_indices": []
+    }
+  ]
+}

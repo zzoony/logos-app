@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 10:14",
+  "version": "KJV",
+  "original_text": "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.",
+  "korean_text": "누구든지 너희를 영접하지도 아니하고 너희 말을 듣지도 아니하거든 그 집이나 성에서 나가 너희 발의 먼지를 떨어 버리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And whosoever shall not receive you",
+      "korean_translation": "누구든지 너희를 영접하지 아니하면",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor hear your words",
+      "korean_translation": "또 너희 말을 듣지 아니하거든",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when ye depart out of that house or city",
+      "korean_translation": "너희가 그 집이나 성에서 떠날 때에",
+      "word_indices": [
+        4,
+        12,
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "shake off the dust of your feet",
+      "korean_translation": "너희 발의 먼지를 떨어버리라",
+      "word_indices": [
+        46,
+        305,
+        392
+      ]
+    }
+  ]
+}

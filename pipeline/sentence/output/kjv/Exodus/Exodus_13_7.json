@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 13:7",
+  "version": "KJV",
+  "original_text": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.",
+  "korean_text": "이레 동안에는 무교병을 먹고 유교병을 네게 보이지 아니하게 하며 네 땅에서 누룩을 네게 보이지 아니하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Unleavened bread shall be eaten seven days",
+      "korean_translation": "누룩 없는 떡을 칠 일 동안 먹을지니",
+      "word_indices": [
+        79
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there shall no leavened bread be seen with thee",
+      "korean_translation": "네게서 누룩 있는 떡이 보이지 않을 것이며",
+      "word_indices": [
+        2,
+        79,
+        823
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "neither shall there be leaven seen with thee in all thy quarters",
+      "korean_translation": "네 모든 지경 안에서 네게서 누룩이 보이지 않을지니라",
+      "word_indices": [
+        2,
+        823,
+        1349
+      ]
+    }
+  ]
+}

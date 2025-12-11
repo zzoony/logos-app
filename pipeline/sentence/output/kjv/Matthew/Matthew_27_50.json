@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 27:50",
+  "version": "KJV",
+  "original_text": "Jesus, when he had cried again with a loud voice, yielded up the ghost.",
+  "korean_text": "예수께서 다시 크게 소리 지르시고 영혼이 떠나시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus, when he had cried again",
+      "korean_translation": "예수께서 다시 소리 지르실 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with a loud voice",
+      "korean_translation": "큰 소리로",
+      "word_indices": [
+        45,
+        524
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yielded up the ghost",
+      "korean_translation": "숨을 거두셨다",
+      "word_indices": [
+        687
+      ]
+    }
+  ]
+}

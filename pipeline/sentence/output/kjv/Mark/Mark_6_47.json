@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 6:47",
+  "version": "KJV",
+  "original_text": "And when even was come, the ship was in the midst of the sea, and he alone on the land.",
+  "korean_text": "저물매 배는 바다 가운데 있고 예수께서는 홀로 뭍에 계시다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And when even was come",
+      "korean_translation": "그리고 저녁이 되었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "ship was in midst of the sea",
+      "korean_translation": "배는 바다 한가운데에 있었고",
+      "word_indices": [
+        65,
+        77,
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he alone on the land",
+      "korean_translation": "그는 홀로 뭍에 있었다",
+      "word_indices": [
+        10,
+        306
+      ]
+    }
+  ]
+}

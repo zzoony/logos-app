@@ -1,0 +1,22 @@
+{
+  "verse_reference": "Genesis 19:23",
+  "version": "KJV",
+  "original_text": "The sun was risen upon the earth when Lot entered into Zoar.",
+  "korean_text": "롯이 소알에 들어갈 때에 해가 돋았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun was risen upon the earth",
+      "korean_translation": "해가 땅 위에 떠올랐을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when Lot entered into Zoar",
+      "korean_translation": "롯이 소알에 들어갔을 때",
+      "word_indices": [
+        7
+      ]
+    }
+  ]
+}

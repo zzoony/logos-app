@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 6:32",
+  "version": "KJV",
+  "original_text": "For if ye love them which love you, what thank have ye? for sinners also love those that love them.",
+  "korean_text": "너희가 만일 너희를 사랑하는 자만을 사랑하면 칭찬 받을 것이 무엇이냐 죄인들도 사랑하는 자는 사랑하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For if ye love them which love you",
+      "korean_translation": "너희가 자기를 사랑하는 자들을 사랑하면",
+      "word_indices": [
+        1,
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what thank have ye?",
+      "korean_translation": "무슨 감사를 받겠느냐?",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for sinners also love",
+      "korean_translation": "이는 죄인들도 또한 사랑하며",
+      "word_indices": [
+        9,
+        450
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "those that love them",
+      "korean_translation": "자기를 사랑하는 자들을 사랑하기 때문이라",
+      "word_indices": [
+        1
+      ]
+    }
+  ]
+}

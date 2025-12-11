@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Isaiah 26:6",
+  "version": "KJV",
+  "original_text": "The foot shall tread it down, even the feet of the poor, and the steps of the needy.",
+  "korean_text": "발이 그것을 밟으리니 곧 빈궁한 자의 발과 곤핍한 자의 걸음이리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The foot shall tread it down",
+      "korean_translation": "발이 그것을 짓밟을 것이라",
+      "word_indices": [
+        14,
+        83,
+        499
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even the feet of the poor",
+      "korean_translation": "가난한 자들의 발까지도",
+      "word_indices": [
+        153
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the steps of the needy",
+      "korean_translation": "궁핍한 자들의 걸음까지도",
+      "word_indices": [
+        745,
+        803
+      ]
+    }
+  ]
+}

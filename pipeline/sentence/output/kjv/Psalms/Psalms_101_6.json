@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 101:6",
+  "version": "KJV",
+  "original_text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+  "korean_text": "내 눈이 이 땅의 충성된 자를 살펴 나와 함께 살게 하리니 완전한 길에 행하는 자가 나를 따르리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mine eyes shall be upon the faithful of the land",
+      "korean_translation": "나의 눈이 이 땅의 신실한 자들에게 있을 것이다",
+      "word_indices": [
+        10
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that they may dwell with me",
+      "korean_translation": "그들이 나와 함께 거하게 하려는 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he that walketh in a perfect way",
+      "korean_translation": "완전한 길을 행하는 자는",
+      "word_indices": [
+        26,
+        304,
+        739
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he shall serve me",
+      "korean_translation": "그가 나를 섬길 것이다",
+      "word_indices": [
+        103
+      ]
+    }
+  ]
+}

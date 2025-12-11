@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 23:2",
+  "version": "KJV",
+  "original_text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+  "korean_text": "그가 나를 푸른 풀밭에 누이시며 쉴 만한 물 가로 인도하시는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He maketh me to lie down",
+      "korean_translation": "그는 나를 눕게 하시고",
+      "word_indices": [
+        14,
+        262
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in green pastures:",
+      "korean_translation": "푸른 초장에서",
+      "word_indices": [
+        734
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he leadeth me",
+      "korean_translation": "그는 나를 인도하시고",
+      "word_indices": [
+        1571
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "beside the still waters.",
+      "korean_translation": "고요한 물가로",
+      "word_indices": [
+        32,
+        247,
+        317
+      ]
+    }
+  ]
+}

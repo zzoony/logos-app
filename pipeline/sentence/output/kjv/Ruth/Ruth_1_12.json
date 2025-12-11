@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Ruth 1:12",
+  "version": "KJV",
+  "original_text": "Turn again, my daughters, go your way; for I am too old to have an husband. If I should say, I have hope, if I should have an husband also to night, and should also bear sons;",
+  "korean_text": "내 딸들아 되돌아 가라 나는 늙었으니 남편을 두지 못할지라 가령 내가 소망이 있다고 말한다든지 오늘 밤에 남편을 두어 아들들을 낳는다 하더라도",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Turn again, my daughters",
+      "korean_translation": "돌아가거라, 내 딸들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "go your way",
+      "korean_translation": "너희 길을 가라",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for I am too old to have an husband",
+      "korean_translation": "나는 남편을 얻기에 너무 늙었으니",
+      "word_indices": [
+        74,
+        229,
+        615
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If I should say, I have hope",
+      "korean_translation": "만약 내가 소망이 있다고 말한다면",
+      "word_indices": [
+        253
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "if I should have an husband also to night",
+      "korean_translation": "만약 내가 오늘 밤에 남편을 얻게 된다면",
+      "word_indices": [
+        9,
+        229
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and should also bear sons",
+      "korean_translation": "그리고 또 아들들을 낳게 된다면",
+      "word_indices": [
+        9,
+        63
+      ]
+    }
+  ]
+}

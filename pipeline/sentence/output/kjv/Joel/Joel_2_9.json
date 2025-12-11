@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Joel 2:9",
+  "version": "KJV",
+  "original_text": "They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.",
+  "korean_text": "성중에 뛰어 들어가며 성 위에 달리며 집에 기어 오르며 도둑 같이 창으로 들어가니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They shall run to and fro in the city",
+      "korean_translation": "그들이 성안에서 이리저리 달릴 것이다",
+      "word_indices": [
+        12,
+        1066
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They shall run upon the wall",
+      "korean_translation": "그들이 성벽 위를 달릴 것이다",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They shall climb up upon the houses",
+      "korean_translation": "그들이 집 위로 올라갈 것이다",
+      "word_indices": [
+        2455
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They shall enter in at the windows like a thief",
+      "korean_translation": "그들은 도적처럼 창문으로 들어올 것이다",
+      "word_indices": [
+        678,
+        707
+      ]
+    }
+  ]
+}

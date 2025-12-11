@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Daniel 5:31",
+  "version": "KJV",
+  "original_text": "And Darius the Median took the kingdom, being about threescore and two years old.",
+  "korean_text": "메대 사람 다리오가 나라를 얻었는데 그 때에 다리오는 육십이 세였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Darius the Median",
+      "korean_translation": "메대 사람 다리우스가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "took the kingdom",
+      "korean_translation": "나라를 차지하였으니",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "being about threescore and two years old",
+      "korean_translation": "나이가 약 육십이 세였더라",
+      "word_indices": [
+        23,
+        74
+      ]
+    }
+  ]
+}

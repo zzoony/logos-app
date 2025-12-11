@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 26:35",
+  "version": "KJV",
+  "original_text": "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.",
+  "korean_text": "베드로가 이르되 내가 주와 함께 죽을지언정 주를 부인하지 않겠나이다 하고 모든 제자도 그와 같이 말하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter said unto him",
+      "korean_translation": "베드로가 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Though I should die with thee",
+      "korean_translation": "비록 내가 당신과 함께 죽는다 할지라도",
+      "word_indices": [
+        2,
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "yet will I not deny thee",
+      "korean_translation": "그러나 나는 당신을 부인하지 않겠습니다",
+      "word_indices": [
+        2,
+        669
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Likewise also said all the disciples",
+      "korean_translation": "이와 같이 모든 제자들도 말했다",
+      "word_indices": [
+        9,
+        310
+      ]
+    }
+  ]
+}

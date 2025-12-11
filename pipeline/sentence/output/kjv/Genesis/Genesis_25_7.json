@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 25:7",
+  "version": "KJV",
+  "original_text": "And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.",
+  "korean_text": "아브라함의 향년이 백칠십오 세라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And these are the days of the years",
+      "korean_translation": "그리고 이것은 그 해들의 날들이다",
+      "word_indices": [
+        23
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of Abraham's life",
+      "korean_translation": "아브라함의 삶의",
+      "word_indices": [
+        53
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which he lived",
+      "korean_translation": "그가 살았던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "an hundred threescore and fifteen years",
+      "korean_translation": "백칠십오 년",
+      "word_indices": [
+        23,
+        1092
+      ]
+    }
+  ]
+}

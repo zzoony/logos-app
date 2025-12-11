@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 23:27",
+  "version": "KJV",
+  "original_text": "I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee.",
+  "korean_text": "내가 내 위엄을 네 앞서 보내어 네가 이를 곳의 모든 백성을 물리치고 네 모든 원수들이 네게 등을 돌려 도망하게 할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will send my fear before thee",
+      "korean_translation": "내가 두려움을 네 앞에 보내리니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and will destroy all the people",
+      "korean_translation": "모든 백성을 멸하리라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to whom thou shalt come",
+      "korean_translation": "네가 이르는 모든 백성을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I will make all thine enemies turn their backs unto thee",
+      "korean_translation": "또 내가 네 모든 대적에게 등을 보이게 하리라",
+      "word_indices": [
+        2,
+        75,
+        205
+      ]
+    }
+  ]
+}

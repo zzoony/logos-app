@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 9:3",
+  "version": "KJV",
+  "original_text": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.",
+  "korean_text": "예수께서 대답하시되 이 사람이나 그 부모의 죄로 인한 것이 아니라 그에게서 하나님이 하시는 일을 나타내고자 하심이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수님께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Neither hath this man sinned",
+      "korean_translation": "이 사람이 죄를 지은 것이 아니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor his parents",
+      "korean_translation": "그의 부모도 아니라",
+      "word_indices": [
+        31,
+        1221
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but that the works of God",
+      "korean_translation": "오직 하나님의 하시는 일들이",
+      "word_indices": [
+        29
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "should be made manifest in him",
+      "korean_translation": "그에게 나타나기 위함이라",
+      "word_indices": [
+        649
+      ]
+    }
+  ]
+}

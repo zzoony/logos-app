@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Matthew 27:56",
+  "version": "KJV",
+  "original_text": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedees children.",
+  "korean_text": "그 중에는 막달라 마리아와 또 야고보와 요셉의 어머니 마리아와 또 세베대의 아들들의 어머니도 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Among which was Mary Magdalene",
+      "korean_translation": "그 중에는 막달라 마리아가 있었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Mary mother of James and Joses",
+      "korean_translation": "야고보와 요세의 어머니 마리아",
+      "word_indices": [
+        732
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and mother of Zebedees children",
+      "korean_translation": "그리고 세베대 자식들의 어머니도 있었다",
+      "word_indices": []
+    }
+  ]
+}

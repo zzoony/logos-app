@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Mark 9:37",
+  "version": "KJV",
+  "original_text": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.",
+  "korean_text": "누구든지 내 이름으로 이런 어린 아이 하나를 영접하면 곧 나를 영접함이요 누구든지 나를 영접하면 나를 영접함이 아니요 나를 보내신 이를 영접함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whosoever shall receive one of such children",
+      "korean_translation": "누구든지 이런 어린이 중 하나를 받아들이면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in my name",
+      "korean_translation": "내 이름으로",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "receiveth me",
+      "korean_translation": "나를 받아들이는 것이라",
+      "word_indices": [
+        835
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and whosoever shall receive me",
+      "korean_translation": "그리고 누구든지 나를 받아들이면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "receiveth not me",
+      "korean_translation": "나를 받아들이는 것이 아니라",
+      "word_indices": [
+        835
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but him that sent me",
+      "korean_translation": "나를 보내신 그분을 받아들이는 것이라",
+      "word_indices": []
+    }
+  ]
+}

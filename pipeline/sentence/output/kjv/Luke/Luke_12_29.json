@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 12:29",
+  "version": "KJV",
+  "original_text": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.",
+  "korean_text": "너희는 무엇을 먹을까 무엇을 마실까 하여 구하지 말며 근심하지도 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And seek not ye",
+      "korean_translation": "그리고 너희는 구하지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what ye shall eat",
+      "korean_translation": "무엇을 먹을지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or what ye shall drink",
+      "korean_translation": "또 무엇을 마실지",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "neither be ye of doubtful mind",
+      "korean_translation": "의심하는 마음도 갖지 말라",
+      "word_indices": [
+        258,
+        4196
+      ]
+    }
+  ]
+}

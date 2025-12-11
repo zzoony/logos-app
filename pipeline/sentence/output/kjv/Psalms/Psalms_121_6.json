@@ -1,0 +1,24 @@
+{
+  "verse_reference": "Psalms 121:6",
+  "version": "KJV",
+  "original_text": "The sun shall not smite thee by day, nor the moon by night.",
+  "korean_text": "낮의 해가 너를 상하게 하지 아니하며 밤의 달도 너를 해치지 아니하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun shall not smite thee by day",
+      "korean_translation": "해가 낮에 너를 치지 아니하며",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nor the moon by night",
+      "korean_translation": "달도 밤에 너를 치지 아니하리로다",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

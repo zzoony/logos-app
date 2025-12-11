@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jonah 2:5",
+  "version": "KJV",
+  "original_text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+  "korean_text": "물이 나를 영혼까지 둘렀사오며 깊음이 나를 에워싸고 바다 풀이 내 머리를 감쌌나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The waters compassed me about",
+      "korean_translation": "물이 나를 둘러쌌다",
+      "word_indices": [
+        32,
+        383
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even to my soul",
+      "korean_translation": "심지어 내 영혼까지도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the deep closed me round about",
+      "korean_translation": "깊음이 나를 둘러 막았다",
+      "word_indices": [
+        93,
+        448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "weeds were wrapped about my head",
+      "korean_translation": "해초가 내 머리를 감쌌다",
+      "word_indices": [
+        5365
+      ]
+    }
+  ]
+}

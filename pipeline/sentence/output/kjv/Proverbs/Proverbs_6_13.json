@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Proverbs 6:13",
+  "version": "KJV",
+  "original_text": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;",
+  "korean_text": "눈짓을 하며 발로 뜻을 보이며 손가락질을 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He winketh with his eyes",
+      "korean_translation": "그는 눈으로 윙크한다",
+      "word_indices": [
+        3978
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he speaketh with his feet",
+      "korean_translation": "그는 발로 말한다",
+      "word_indices": [
+        428
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he teacheth with his fingers",
+      "korean_translation": "그는 손가락으로 가르친다",
+      "word_indices": [
+        743,
+        1440
+      ]
+    }
+  ]
+}

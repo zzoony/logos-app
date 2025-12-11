@@ -1,0 +1,29 @@
+{
+  "verse_reference": "John 9:37",
+  "version": "KJV",
+  "original_text": "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.",
+  "korean_text": "예수께서 이르시되 네가 그를 보았거니와 지금 너와 말하는 자가 그이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Jesus said unto him",
+      "korean_translation": "예수께서 그에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Thou hast both seen him",
+      "korean_translation": "네가 그를 보았으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and it is he that talketh with thee",
+      "korean_translation": "네와 말하는 이가 그이니라",
+      "word_indices": [
+        2,
+        3928
+      ]
+    }
+  ]
+}

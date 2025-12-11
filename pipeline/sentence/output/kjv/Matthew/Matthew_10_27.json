@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 10:27",
+  "version": "KJV",
+  "original_text": "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.",
+  "korean_text": "내가 너희에게 어두운 데서 이르는 것을 광명한 데서 말하며 너희가 귓속말로 듣는 것을 집 위에서 전파하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "What I tell you in darkness",
+      "korean_translation": "내가 너희에게 어둠 속에서 말하는 것을",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that speak ye in light",
+      "korean_translation": "너희는 빛 가운데서 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and what ye hear in the ear",
+      "korean_translation": "그리고 너희가 귀로 듣는 것을",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that preach ye upon the housetops",
+      "korean_translation": "너희는 집 지붕 위에서 전파하라",
+      "word_indices": [
+        236,
+        1584
+      ]
+    }
+  ]
+}

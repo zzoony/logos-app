@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 4:28",
+  "version": "KJV",
+  "original_text": "The woman then left her waterpot, and went her way into the city, and saith to the men,",
+  "korean_text": "여자가 물동이를 버려 두고 동네로 들어가서 사람들에게 이르되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman then left her waterpot",
+      "korean_translation": "그 여자는 그때 물병을 두고",
+      "word_indices": [
+        5508
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and went her way into the city",
+      "korean_translation": "그리고 도시로 자기 길을 가서",
+      "word_indices": [
+        7,
+        12,
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and saith to the men",
+      "korean_translation": "그리고 남자들에게 말하니라",
+      "word_indices": [
+        13
+      ]
+    }
+  ]
+}

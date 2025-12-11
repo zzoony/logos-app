@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 20:18",
+  "version": "KJV",
+  "original_text": "Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty.",
+  "korean_text": "요나단이 다윗에게 이르되 내일은 초하루인즉 네 자리가 비므로 네가 없음을 자세히 물으실 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jonathan said to David",
+      "korean_translation": "그때 요나단이 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tomorrow is the new moon",
+      "korean_translation": "내일은 월삭(초승달)이다",
+      "word_indices": [
+        220
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and thou shalt be missed",
+      "korean_translation": "그리고 너는 없어진 것처럼 보일 것이다",
+      "word_indices": [
+        2281
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because thy seat will be empty",
+      "korean_translation": "왜냐하면 네 자리가 비어있을 것이기 때문이다",
+      "word_indices": [
+        446,
+        682
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Acts 26:17",
+  "version": "KJV",
+  "original_text": "Delivering thee from the people, and from the Gentiles, unto whom now I send thee,",
+  "korean_text": "이스라엘과 이방인들에게서 내가 너를 구원하여 그들에게 보내어",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Delivering thee from the people",
+      "korean_translation": "네가 백성들에게서 구원을 받으리니",
+      "word_indices": [
+        2,
+        5
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and from the Gentiles",
+      "korean_translation": "이방인들에게서도 구원을 받으리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "unto whom now I send thee",
+      "korean_translation": "내가 이제 너를 그들에게 보내노라",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

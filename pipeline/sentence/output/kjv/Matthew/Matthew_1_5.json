@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Matthew 1:5",
+  "version": "KJV",
+  "original_text": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;",
+  "korean_text": "살몬은 라합에게서 보아스를 낳고 보아스는 룻에게서 오벳을 낳고 오벳은 이새를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Salmon begat Booz of Rachab",
+      "korean_translation": "살몬은 라합에게서 부스를 낳고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and Booz begat Obed of Ruth",
+      "korean_translation": "부스는 룻에게서 오벳을 낳고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and Obed begat Jesse",
+      "korean_translation": "오벳은 이새를 낳았다",
+      "word_indices": []
+    }
+  ]
+}

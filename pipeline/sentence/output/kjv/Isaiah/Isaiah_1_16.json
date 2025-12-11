@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Isaiah 1:16",
+  "version": "KJV",
+  "original_text": "Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;",
+  "korean_text": "너희는 스스로 씻으며 스스로 깨끗하게 하여 내 목전에서 너희 악한 행실을 버리며 행악을 그치고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Wash you, make you clean",
+      "korean_translation": "너희는 스스로 씻고 스스로 깨끗하게 하라",
+      "word_indices": [
+        3,
+        244
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "put away the evil of your doings",
+      "korean_translation": "너희 행위의 악을 제거하라",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from before mine eyes",
+      "korean_translation": "내 눈 앞에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "cease to do evil",
+      "korean_translation": "악을 행하기를 그치라",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

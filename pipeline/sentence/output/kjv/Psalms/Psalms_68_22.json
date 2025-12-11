@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Psalms 68:22",
+  "version": "KJV",
+  "original_text": "The Lord said, I will bring again from Bashan, I will bring my people again from the depths of the sea:",
+  "korean_text": "주께서 말씀하시기를 내가 그들을 바산에서 돌아오게 하며 바다 깊은 곳에서 도로 나오게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said,",
+      "korean_translation": "주께서 말씀하시기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will bring again from Bashan,",
+      "korean_translation": "내가 바산에서부터 다시 데려오리라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will bring my people again",
+      "korean_translation": "내가 내 백성을 다시 데려오리라",
+      "word_indices": [
+        5
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the depths of the sea:",
+      "korean_translation": "바다 깊은 곳에서부터 데려오리라",
+      "word_indices": [
+        65,
+        975
+      ]
+    }
+  ]
+}

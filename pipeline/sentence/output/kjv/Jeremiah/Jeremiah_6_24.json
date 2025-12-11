@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Jeremiah 6:24",
+  "version": "KJV",
+  "original_text": "We have heard the fame thereof: our hands wax feeble: anguish hath taken hold of us, and pain, as of a woman in travail.",
+  "korean_text": "우리가 그 소문을 들었으므로 손이 약하여졌고 고통이 우리를 잡았으므로 그 아픔이 해산하는 여인 같도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We have heard the fame thereof",
+      "korean_translation": "우리는 그 소문을 들었습니다",
+      "word_indices": [
+        24,
+        1101
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "our hands wax feeble",
+      "korean_translation": "우리의 손이 약해지고",
+      "word_indices": [
+        8,
+        508,
+        1227
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "anguish hath taken hold of us",
+      "korean_translation": "고통이 우리를 붙잡았으며",
+      "word_indices": [
+        1360
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and pain, as of a woman in travail",
+      "korean_translation": "해산하는 여인의 고통이 우리에게 찾아왔습니다",
+      "word_indices": [
+        778,
+        882
+      ]
+    }
+  ]
+}

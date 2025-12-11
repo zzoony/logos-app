@@ -1,0 +1,73 @@
+{
+  "verse_reference": "Deuteronomy 13:6",
+  "version": "KJV",
+  "original_text": "If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;",
+  "korean_text": "네 어머니의 아들 곧 네 형제나 네 자녀나 네 품의 아내나 너와 생명을 함께 하는 친구가 가만히 너를 꾀어 이르기를 너와 네 조상들이 알지 못하던 다른 신들",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If thy brother, the son of thy mother,",
+      "korean_translation": "네 어미의 아들인 네 형제가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or thy son, or thy daughter,",
+      "korean_translation": "또는 네 아들이나 네 딸이",
+      "word_indices": [
+        15
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or the wife of thy bosom,",
+      "korean_translation": "또는 네 품의 아내가",
+      "word_indices": [
+        15,
+        43,
+        735
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or thy friend, which is as thine own soul,",
+      "korean_translation": "또는 네 자신의 영혼 같은 네 친구가",
+      "word_indices": [
+        15,
+        37
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "entice thee secretly,",
+      "korean_translation": "너를 몰래 꾀어 이르되",
+      "word_indices": [
+        2,
+        1228
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "saying, Let us go and serve other gods,",
+      "korean_translation": "우리가 가서 다른 신들을 섬기자",
+      "word_indices": [
+        56,
+        103
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "which thou hast not known,",
+      "korean_translation": "너와 네 조상이 알지 못하던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "thou, nor thy fathers;",
+      "korean_translation": "너와 네 조상이 알지 못하던",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

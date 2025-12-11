@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Psalms 133:2",
+  "version": "KJV",
+  "original_text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;",
+  "korean_text": "머리에 있는 보배로운 기름이 수염 곧 아론의 수염에 흘러서 그의 옷깃까지 내림 같고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is like the precious ointment upon the head",
+      "korean_translation": "그것은 머리에 부어진 귀한 향유와 같으니",
+      "word_indices": [
+        915
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that ran down upon the beard",
+      "korean_translation": "수염으로 흘러내려서",
+      "word_indices": [
+        14,
+        1243
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even Aaron's beard",
+      "korean_translation": "곧 아론의 수염으로 흘러내리며",
+      "word_indices": [
+        1243
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that went down to the skirts of his garments",
+      "korean_translation": "그의 옷깃까지 내려갔도다",
+      "word_indices": [
+        14,
+        168,
+        1294
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 17:2",
+  "version": "KJV",
+  "original_text": "And I will make my covenant between me and thee, and will multiply thee exceedingly.",
+  "korean_text": "내가 내 언약을 나와 너 사이에 두어 너를 크게 번성하게 하리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will make my covenant",
+      "korean_translation": "그리고 내가 내 언약을 세우리라",
+      "word_indices": [
+        98
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "between me and thee",
+      "korean_translation": "나와 너 사이에",
+      "word_indices": [
+        2,
+        139
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and will multiply thee exceedingly",
+      "korean_translation": "그리고 너를 심히 번성하게 하리라",
+      "word_indices": [
+        2,
+        360,
+        756
+      ]
+    }
+  ]
+}

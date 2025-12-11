@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Psalms 86:1",
+  "version": "KJV",
+  "original_text": "Bow down thine ear, O Lord, hear me: for I am poor and needy.",
+  "korean_text": "여호와여 나는 가난하고 궁핍하오니 주의 귀를 기울여 내게 응답하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bow down thine ear",
+      "korean_translation": "귀를 숙여 주소서",
+      "word_indices": [
+        14,
+        111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "O Lord",
+      "korean_translation": "오 주여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "hear me",
+      "korean_translation": "나를 들어주소서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for I am poor and needy",
+      "korean_translation": "나는 가난하고 궁핍하니이다",
+      "word_indices": [
+        153,
+        803
+      ]
+    }
+  ]
+}

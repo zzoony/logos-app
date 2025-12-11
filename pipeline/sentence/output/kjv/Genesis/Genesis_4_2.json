@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 4:2",
+  "version": "KJV",
+  "original_text": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.",
+  "korean_text": "그가 또 가인의 아우 아벨을 낳았는데 아벨은 양 치는 자였고 가인은 농사하는 자였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And she again bare his brother Abel.",
+      "korean_translation": "그녀가 다시 그의 아벨을 낳았다.",
+      "word_indices": [
+        171
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And Abel was a keeper of sheep",
+      "korean_translation": "아벨은 양을 돌보는 자였다.",
+      "word_indices": [
+        170,
+        721
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but Cain was a tiller of the ground.",
+      "korean_translation": "하지만 가인은 땅을 가는 자였다.",
+      "word_indices": [
+        3499,
+        4342
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Psalms 107:4",
+  "version": "KJV",
+  "original_text": "They wandered in the wilderness in a solitary way; they found no city to dwell in.",
+  "korean_text": "그들이 광야 사막 길에서 방황하며 거주할 성읍을 찾지 못하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They wandered in the wilderness",
+      "korean_translation": "그들은 광야를 방황하며",
+      "word_indices": [
+        944
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in a solitary way",
+      "korean_translation": "외로운 길을 갔으며",
+      "word_indices": [
+        26,
+        2315
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they found no city",
+      "korean_translation": "그들은 도시를 찾지 못하고",
+      "word_indices": [
+        12,
+        1903
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to dwell in",
+      "korean_translation": "거할 곳이 없었더라",
+      "word_indices": []
+    }
+  ]
+}

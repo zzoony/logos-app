@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Samuel 5:5",
+  "version": "KJV",
+  "original_text": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.",
+  "korean_text": "헤브론에서 칠 년 육 개월 동안 유다를 다스렸고 예루살렘에서 삼십삼 년 동안 온 이스라엘과 유다를 다스렸더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In Hebron he reigned over Judah",
+      "korean_translation": "헤브론에서 그는 유다를 다스렸다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "seven years and six months:",
+      "korean_translation": "칠 년과 여섯 달 동안",
+      "word_indices": [
+        23,
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in Jerusalem he reigned",
+      "korean_translation": "그리고 예루살렘에서 그는 다스렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "thirty and three years",
+      "korean_translation": "서른세 년 동안",
+      "word_indices": [
+        23,
+        50,
+        183
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "over all Israel and Judah.",
+      "korean_translation": "모든 이스라엘과 유다를 다스렸다",
+      "word_indices": [
+        18
+      ]
+    }
+  ]
+}

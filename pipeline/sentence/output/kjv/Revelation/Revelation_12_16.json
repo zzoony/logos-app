@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Revelation 12:16",
+  "version": "KJV",
+  "original_text": "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.",
+  "korean_text": "땅이 여자를 도와 그 입을 벌려 용의 입에서 토한 강물을 삼키니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the earth helped the woman",
+      "korean_translation": "그리고 땅이 여자를 도와주었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the earth opened her mouth",
+      "korean_translation": "땅이 그 입을 열었습니다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and swallowed up the flood",
+      "korean_translation": "홍수를 삼켜버렸습니다",
+      "word_indices": [
+        506,
+        645
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which the dragon cast out of his mouth",
+      "korean_translation": "그것은 용이 자기 입에서 내뱉은 홍수였습니다",
+      "word_indices": [
+        60,
+        865
+      ]
+    }
+  ]
+}

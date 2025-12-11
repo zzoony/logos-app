@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Exodus 20:10",
+  "version": "KJV",
+  "original_text": "But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:",
+  "korean_text": "일곱째 날은 네 하나님 여호와의 안식일인즉 너나 네 아들이나 네 딸이나 네 남종이나 네 여종이나 네 가축이나 네 문안에 머무는 객이라도 아무 일도 하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the seventh day is the sabbath",
+      "korean_translation": "그러나 일곱째 날은 안식일이다",
+      "word_indices": [
+        188,
+        268
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of the Lord thy God",
+      "korean_translation": "주 너의 하나님의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in it thou shalt not do any work",
+      "korean_translation": "그날에는 어떤 일도 하지 말라",
+      "word_indices": [
+        22,
+        29
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "thou, nor thy son, nor thy daughter",
+      "korean_translation": "너와 네 아들과 네 딸도",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "thy manservant, nor thy maidservant",
+      "korean_translation": "네 남종과 여종도",
+      "word_indices": [
+        31,
+        1018,
+        1094
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "nor thy cattle",
+      "korean_translation": "네 가축도",
+      "word_indices": [
+        31,
+        217
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "nor thy stranger that is within thy gates",
+      "korean_translation": "네 성문 안에 있는 이방인도",
+      "word_indices": [
+        31,
+        151,
+        1225
+      ]
+    }
+  ]
+}

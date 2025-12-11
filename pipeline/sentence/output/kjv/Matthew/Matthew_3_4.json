@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 3:4",
+  "version": "KJV",
+  "original_text": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
+  "korean_text": "이 요한은 낙타털 옷을 입고 허리에 가죽 띠를 띠고 음식은 메뚜기와 석청이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And same John had his raiment of camel's hair",
+      "korean_translation": "그리고 요한은 낙타 털로 만든 옷을 입고 있었고",
+      "word_indices": [
+        90,
+        405,
+        507,
+        549
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and a leathern girdle about his loins",
+      "korean_translation": "허리에는 가죽 띠를 두르고 있었으며",
+      "word_indices": [
+        502,
+        708,
+        5414
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and his meat was locusts and wild honey",
+      "korean_translation": "그의 음식은 메뚜기와 야생 꿀이었습니다",
+      "word_indices": [
+        99,
+        565,
+        701,
+        1002
+      ]
+    }
+  ]
+}

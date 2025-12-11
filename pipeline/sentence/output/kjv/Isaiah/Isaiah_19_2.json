@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Isaiah 19:2",
+  "version": "KJV",
+  "original_text": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom.",
+  "korean_text": "내가 애굽인을 격동하여 애굽인을 치리니 그들이 각기 형제를 치며 각기 이웃을 칠 것이요 성읍이 성읍을 치며 나라가 나라를 칠 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I will set the Egyptians against the Egyptians",
+      "korean_translation": "내가 이집트 사람들을 서로 대적하게 하리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they shall fight every one against his brother",
+      "korean_translation": "그들이 각각 형제와 싸우며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and every one against his neighbour",
+      "korean_translation": "각각 이웃과 싸우고",
+      "word_indices": [
+        213
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "city against city",
+      "korean_translation": "성읍이 성읍과",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and kingdom against kingdom",
+      "korean_translation": "나라가 나라와 싸우리라",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

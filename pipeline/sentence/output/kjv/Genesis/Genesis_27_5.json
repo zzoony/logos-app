@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 27:5",
+  "version": "KJV",
+  "original_text": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it.",
+  "korean_text": "이삭이 그의 아들 에서에게 말할 때에 리브가가 들었더니 에서가 사냥하여 오려고 들로 나가매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Rebekah heard",
+      "korean_translation": "르베가는 들었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when Isaac spake to Esau his son",
+      "korean_translation": "이삭이 그의 아들 에서에게 말할 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And Esau went to the field",
+      "korean_translation": "에서는 밭으로 갔습니다",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to hunt for venison",
+      "korean_translation": "사냥하러",
+      "word_indices": [
+        1463,
+        2064
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to bring it",
+      "korean_translation": "그리고 그것을 가져오려고",
+      "word_indices": []
+    }
+  ]
+}

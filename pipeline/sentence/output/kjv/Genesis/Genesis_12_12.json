@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Genesis 12:12",
+  "version": "KJV",
+  "original_text": "Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive.",
+  "korean_text": "애굽 사람이 그대를 볼 때에 이르기를 이는 그의 아내라 하여 나는 죽이고 그대는 살리리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Therefore it shall come to pass",
+      "korean_translation": "그러므로 그 일이 일어날 것이다",
+      "word_indices": [
+        27
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the Egyptians shall see thee",
+      "korean_translation": "이집트 사람들이 당신을 볼 때",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that they shall say",
+      "korean_translation": "그들이 말할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This is his wife",
+      "korean_translation": "이것은 그의 아내이다",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they will kill me",
+      "korean_translation": "그리고 그들은 나를 죽일 것이다",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but they will save thee alive",
+      "korean_translation": "그러나 그들은 당신을 살려줄 것이다",
+      "word_indices": [
+        2,
+        373
+      ]
+    }
+  ]
+}
