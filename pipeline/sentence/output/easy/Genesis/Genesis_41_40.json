@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Genesis 41:40",
+  "version": "EASY",
+  "original_text": "I will give you authority in my palace. All my people will do whatever you tell them to do. Only I will be greater than you, because I am the king.’",
+  "korean_text": "너는 내 집을 다스리라 내 백성이 다 네 명령에 복종하리니 내가 너보다 높은 것은 내 왕좌뿐이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will give you authority",
+      "korean_translation": "내가 너에게 권위를 주겠다",
+      "word_indices": [
+        4,
+        110
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in my palace",
+      "korean_translation": "나의 궁궐에서",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "All my people will do",
+      "korean_translation": "나의 모든 백성들은 행할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whatever you tell them to do",
+      "korean_translation": "네가 그들에게 하라고 말하는 것은 무엇이든",
+      "word_indices": [
+        492
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Only I will be greater than you",
+      "korean_translation": "오직 나만이 너보다 더 위대할 것이다",
+      "word_indices": [
+        561
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because I am the king",
+      "korean_translation": "왜냐하면 내가 왕이기 때문이다",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

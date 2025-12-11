@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 16:25",
+  "version": "EASY",
+  "original_text": "I have spoken to you with words and stories that are like pictures. But there will be a time when I will not speak like that any more. Instead, I will speak clearly to you about the Father.",
+  "korean_text": "이것을 비유로 너희에게 일렀거니와 때가 이르면 다시는 비유로 너희에게 이르지 않고 아버지에 대한 것을 밝히 이르리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have spoken to you with words",
+      "korean_translation": "나는 너희에게 말로 말하였다",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and stories that are like pictures",
+      "korean_translation": "그림과 같은 비유로 말하였다",
+      "word_indices": [
+        515
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But there will be a time",
+      "korean_translation": "그러나 때가 이를 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when I will not speak like that any more",
+      "korean_translation": "내가 더 이상 그렇게 말하지 아니할 때가",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Instead, I will speak clearly to you",
+      "korean_translation": "대신, 내가 너희에게 분명히 말하리라",
+      "word_indices": [
+        18,
+        352
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "about the Father",
+      "korean_translation": "아버지에 대하여",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

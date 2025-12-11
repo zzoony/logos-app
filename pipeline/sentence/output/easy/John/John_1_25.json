@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 1:25",
+  "version": "EASY",
+  "original_text": "They said to John, ‘You say that you are not the Messiah, nor Elijah, nor the Prophet. So why do you baptize people?’",
+  "korean_text": "또 물어 이르되 네가 만일 그리스도도 아니요 엘리야도 아니요 그 선지자도 아닐진대 어찌하여 세례를 베푸느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said to John",
+      "korean_translation": "그들이 요한에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You say that you are not the Messiah",
+      "korean_translation": "당신은 자신이 메시아가 아니라고 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "nor Elijah",
+      "korean_translation": "엘리야도 아니고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nor the Prophet",
+      "korean_translation": "그 예언자도 아니라고",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So why do you baptize people?",
+      "korean_translation": "그런데 어째서 사람들을 세례주는 것입니까?",
+      "word_indices": [
+        554
+      ]
+    }
+  ]
+}

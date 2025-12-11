@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 6:31",
+  "version": "EASY",
+  "original_text": "Our ancestors ate manna in the wilderness. We know that it says in the Bible, “God gave bread to them from heaven for them to eat.” ’",
+  "korean_text": "기록된 바 하늘에서 그들에게 떡을 주어 먹게 하였다 함과 같이 우리 조상들은 광야에서 만나를 먹었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our ancestors ate manna in the wilderness.",
+      "korean_translation": "우리 조상들은 광야에서 만나를 먹었습니다.",
+      "word_indices": [
+        145,
+        954
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We know that it says in the Bible,",
+      "korean_translation": "우리는 성경에 기록된 것을 압니다,",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God gave bread to them from heaven",
+      "korean_translation": "하나님께서 그들에게 하늘에서 온 빵을 주셨고",
+      "word_indices": [
+        4,
+        170,
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for them to eat.",
+      "korean_translation": "그들이 먹도록 하셨습니다.",
+      "word_indices": []
+    }
+  ]
+}

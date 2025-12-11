@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 10:17",
+  "version": "EASY",
+  "original_text": "The Father loves me because I choose to die for my sheep. But after I give my life like that, I will become alive again.",
+  "korean_text": "내가 내 목숨을 버리는 것은 그것을 내가 다시 얻기 위함이니 이로 말미암아 아버지께서 나를 사랑하시느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Father loves me",
+      "korean_translation": "아버지께서 나를 사랑하신다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because I choose to die for my sheep",
+      "korean_translation": "내가 내 양들을 위해 죽기로 선택했기 때문이다",
+      "word_indices": [
+        51,
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But after I give my life like that",
+      "korean_translation": "하지만 내가 그렇게 내 생명을 바친 후에",
+      "word_indices": [
+        4,
+        41
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will become alive again",
+      "korean_translation": "나는 다시 살아날 것이다",
+      "word_indices": [
+        151
+      ]
+    }
+  ]
+}

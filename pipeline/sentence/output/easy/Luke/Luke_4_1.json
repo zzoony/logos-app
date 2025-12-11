@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 4:1",
+  "version": "EASY",
+  "original_text": "Then Jesus returned from the Jordan River. He was full of the Holy Spirit and the Holy Spirit led him into the wilderness.",
+  "korean_text": "예수께서 성령의 충만함을 입어 요단 강에서 돌아오사 광야에서 사십 일 동안 성령에게 이끌리시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus returned from the Jordan River.",
+      "korean_translation": "그때 예수님은 요단강에서 돌아오셨습니다.",
+      "word_indices": [
+        115,
+        136
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He was full of the Holy Spirit",
+      "korean_translation": "그는 성령으로 가득 찼으며",
+      "word_indices": [
+        84,
+        92,
+        387
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the Holy Spirit led him into the wilderness.",
+      "korean_translation": "성령께서 그를 광야로 이끄셨습니다.",
+      "word_indices": [
+        84,
+        92
+      ]
+    }
+  ]
+}

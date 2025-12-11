@@ -1,0 +1,65 @@
+{
+  "verse_reference": "1 Kings 22:27",
+  "version": "EASY",
+  "original_text": "Say to them, “The king commands you to put this man in prison. Feed him with only a little bread and water until I return safely from the battle.” ’",
+  "korean_text": "말하기를 왕의 말씀이 이 놈을 옥에 가두고 내가 평안히 돌아올 때까지 고생의 떡과 고생의 물을 먹이라 하였다 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Say to them",
+      "korean_translation": "그들에게 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The king commands you",
+      "korean_translation": "왕이 너희에게 명령한다",
+      "word_indices": [
+        3,
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to put this man in prison",
+      "korean_translation": "이 사람을 감옥에 가두라고",
+      "word_indices": [
+        349
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Feed him with only a little bread",
+      "korean_translation": "그에게 조금의 빵만 주라",
+      "word_indices": [
+        229,
+        401
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and water",
+      "korean_translation": "그리고 물도",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "until I return safely",
+      "korean_translation": "내가 안전하게 돌아올 때까지",
+      "word_indices": [
+        115,
+        371
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "from the battle",
+      "korean_translation": "전투에서",
+      "word_indices": [
+        205
+      ]
+    }
+  ]
+}

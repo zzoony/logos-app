@@ -1,0 +1,46 @@
+{
+  "verse_reference": "2 Peter 1:12",
+  "version": "EASY",
+  "original_text": "You already know these things. You know that they are completely true. But because they are important, I will continue to tell you about them again and again.",
+  "korean_text": "그러므로 너희가 이것을 알고 이미 있는 진리에 서 있으나 내가 항상 너희에게 생각나게 하려 하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You already know these things.",
+      "korean_translation": "너희는 이미 이것들을 알고 있다.",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You know that they are completely true.",
+      "korean_translation": "너희는 그것들이 완전히 참된 것임을 안다.",
+      "word_indices": [
+        12,
+        69,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But because they are important,",
+      "korean_translation": "하지만 그것들이 중요하기 때문에,",
+      "word_indices": [
+        138
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will continue to tell you about them",
+      "korean_translation": "나는 계속해서 너희에게 그것들에 대해 말할 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "again and again.",
+      "korean_translation": "거듭해서.",
+      "word_indices": []
+    }
+  ]
+}

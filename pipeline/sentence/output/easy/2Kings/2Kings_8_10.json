@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Kings 8:10",
+  "version": "EASY",
+  "original_text": "Elisha answered, ‘Go back to the king. Tell him, “Certainly, you will get well again.” But the Lord has shown me that the king will surely die.’",
+  "korean_text": "엘리사가 이르되 너는 가서 그에게 말하기를 왕이 반드시 나으리라 하라 그러나 여호와께서 그가 반드시 죽으리라고 내게 알게 하셨느니라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elisha answered",
+      "korean_translation": "엘리사가 대답했다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go back to the king",
+      "korean_translation": "왕에게 돌아가십시오",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Tell him",
+      "korean_translation": "그에게 말하십시오",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Certainly, you will get well again",
+      "korean_translation": "반드시 다시 나으실 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But the Lord has shown me",
+      "korean_translation": "그러나 주님께서 나에게 보여주셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that the king will surely die",
+      "korean_translation": "왕이 반드시 죽을 것이라는 것을",
+      "word_indices": [
+        3,
+        307
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 30:18",
+  "version": "EASY",
+  "original_text": "‘Use bronze to make a large bowl for water. Also use bronze to make a base for it to stand on. Put it between the Tent of Meeting and the altar. Fill it with water.",
+  "korean_text": "너는 물두멍을 놋으로 만들고 그 받침도 놋으로 만들어 씻게 하되 그것을 회막과 제단 사이에 두고 그 속에 물을 담으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Use bronze to make a large bowl for water",
+      "korean_translation": "청동을 사용하여 물을 담을 큰 대야를 만드라",
+      "word_indices": [
+        60,
+        316,
+        341
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Also use bronze to make a base for it to stand on",
+      "korean_translation": "또한 청동을 사용하여 그것이 올라갈 받침대를 만드라",
+      "word_indices": [
+        9,
+        77,
+        341
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Put it between the Tent of Meeting and the altar",
+      "korean_translation": "그것을 회막과 제단 사이에 두라",
+      "word_indices": [
+        119
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Fill it with water",
+      "korean_translation": "그것을 물로 채우라",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

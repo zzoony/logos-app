@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Luke 12:41",
+  "version": "EASY",
+  "original_text": "Peter asked Jesus, ‘Master, are you only telling this story to us, your disciples? Or is this story for everyone to hear?’",
+  "korean_text": "베드로가 여짜오되 주께서 이 비유를 우리에게 하심이니이까 모든 사람에게 하심이니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter asked Jesus",
+      "korean_translation": "베드로가 예수님께 물었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Master,",
+      "korean_translation": "주님,",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are you only telling this story to us",
+      "korean_translation": "당신은 이 이야기를 우리에게만 말씀하십니까",
+      "word_indices": [
+        515
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your disciples?",
+      "korean_translation": "당신의 제자들에게?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Or is this story for everyone to hear?",
+      "korean_translation": "아니면 이 이야기는 모든 사람이 듣기 위한 것입니까?",
+      "word_indices": [
+        42,
+        97,
+        515
+      ]
+    }
+  ]
+}

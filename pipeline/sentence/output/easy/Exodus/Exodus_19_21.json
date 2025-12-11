@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Exodus 19:21",
+  "version": "EASY",
+  "original_text": "The Lord said to Moses, ‘Go down to the people. Warn them that they must stay away from the mountain. They must not cross the line to try to see me, the Lord. If they do that, many of them will die.",
+  "korean_text": "여호와께서 모세에게 이르시되 내려가서 백성을 경고하라 백성이 밀고 들어와 나 여호와에게로 와서 보려고 하다가 많이 죽을까 하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Moses",
+      "korean_translation": "주께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go down to the people",
+      "korean_translation": "백성에게 내려가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Warn them that they must stay away from the mountain",
+      "korean_translation": "그들이 산에서 멀리 떨어져 있어야 한다고 경고하라",
+      "word_indices": [
+        175
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They must not cross the line",
+      "korean_translation": "그들은 경계선을 넘어서는 안 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to try to see me, the Lord",
+      "korean_translation": "나 주를 보려고 시도해서는 안 된다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "If they do that",
+      "korean_translation": "만약 그들이 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "many of them will die",
+      "korean_translation": "그들 중 많은 사람이 죽을 것이다",
+      "word_indices": []
+    }
+  ]
+}

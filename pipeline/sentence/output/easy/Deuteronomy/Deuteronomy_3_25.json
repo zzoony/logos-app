@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 3:25",
+  "version": "EASY",
+  "original_text": "Please let me go across the Jordan River! I want to see the good land over there. I want to see the beautiful hills and the mountains in Lebanon.’",
+  "korean_text": "구하옵나니 나를 건너가게 하사 요단 저쪽에 있는 아름다운 땅, 아름다운 산과 레바논을 보게 하옵소서 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Please let me go across the Jordan River!",
+      "korean_translation": "제가 요단 강을 건너가게 해주세요!",
+      "word_indices": [
+        76,
+        136
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I want to see the good land over there.",
+      "korean_translation": "저는 저那边에 있는 좋은 땅을 보고 싶습니다.",
+      "word_indices": [
+        14,
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I want to see the beautiful hills",
+      "korean_translation": "저는 아름다운 언덕들을 보고 싶습니다.",
+      "word_indices": [
+        180,
+        182
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the mountains in Lebanon.",
+      "korean_translation": "그리고 레바논의 산들을 보고 싶습니다.",
+      "word_indices": [
+        175
+      ]
+    }
+  ]
+}

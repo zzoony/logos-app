@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Corinthians 15:22",
+  "version": "EASY",
+  "original_text": "As people, all of us belong to Adam's family. So all of us must die. But all people who belong to Christ will live again after death.",
+  "korean_text": "아담 안에서 모든 사람이 죽은 것 같이 그리스도 안에서 모든 사람이 삶을 얻으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As people, all of us belong to Adam's family.",
+      "korean_translation": "사람으로서 우리 모두는 아담의 가족에 속합니다.",
+      "word_indices": [
+        45,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So all of us must die.",
+      "korean_translation": "그러므로 우리 모두는 죽어야 합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But all people who belong to Christ",
+      "korean_translation": "하지만 그리스도에게 속한 모든 사람은",
+      "word_indices": [
+        45,
+        61
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will live again after death.",
+      "korean_translation": "죽음 후에 다시 살아날 것입니다.",
+      "word_indices": [
+        8,
+        153
+      ]
+    }
+  ]
+}

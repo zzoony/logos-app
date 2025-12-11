@@ -1,0 +1,67 @@
+{
+  "verse_reference": "2 Corinthians 11:27",
+  "version": "EASY",
+  "original_text": "I have worked very hard, and I have been in pain. Many times I have not slept. I have often been hungry and thirsty. Many times I have had no food. I have often been cold and without enough clothes.",
+  "korean_text": "또 수고하며 애쓰고 여러 번 자지 못하고 주리며 목마르고 여러 번 굶고 춥고 헐벗었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have worked very hard",
+      "korean_translation": "나는 매우 열심히 일했다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I have been in pain",
+      "korean_translation": "그리고 나는 고통을 겪었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Many times I have not slept",
+      "korean_translation": "여러 번 나는 잠을 못 잤다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have often been hungry",
+      "korean_translation": "나는 자주 굶주렸다",
+      "word_indices": [
+        402,
+        620
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and thirsty",
+      "korean_translation": "그리고 목마랐다",
+      "word_indices": [
+        705
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Many times I have had no food",
+      "korean_translation": "여러 번 나는 음식이 없었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I have often been cold",
+      "korean_translation": "나는 자주 추웠다",
+      "word_indices": [
+        620
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and without enough clothes",
+      "korean_translation": "그리고 옷이 부족했다",
+      "word_indices": [
+        228
+      ]
+    }
+  ]
+}

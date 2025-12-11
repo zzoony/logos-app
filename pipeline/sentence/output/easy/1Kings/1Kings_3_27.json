@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 3:27",
+  "version": "EASY",
+  "original_text": "So King Solomon said, ‘Do not kill the child! Give him to the first woman. She is his mother.’",
+  "korean_text": "왕이 대답하여 이르되 산 아이를 저 여자에게 주고 결코 죽이지 말라 저가 그의 어머니이니라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So King Solomon said",
+      "korean_translation": "그래서 솔로몬 왕이 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not kill the child",
+      "korean_translation": "그 아이를 죽이지 마라",
+      "word_indices": [
+        26,
+        65
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Give him to the first woman",
+      "korean_translation": "그 아이를 첫 번째 여자에게 주어라",
+      "word_indices": [
+        4,
+        46
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "She is his mother",
+      "korean_translation": "그녀가 그의 어머니이다",
+      "word_indices": [
+        202
+      ]
+    }
+  ]
+}

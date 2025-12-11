@@ -1,0 +1,58 @@
+{
+  "verse_reference": "John 11:9",
+  "version": "EASY",
+  "original_text": "Jesus answered, ‘You know that there are 12 hours in the day. Anyone who walks during the day will not fall down. He will not fall down because he sees this world's light.",
+  "korean_text": "예수께서 대답하시되 낮이 열두 시간이 아니냐 사람이 낮에 다니면 이 세상의 빛을 보므로 실족하지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You know that there are 12 hours in the day",
+      "korean_translation": "낮에는 12시간이 있다는 것을 너희는 알고 있다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Anyone who walks during the day",
+      "korean_translation": "낮에 걷는 사람은",
+      "word_indices": [
+        109,
+        204
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will not fall down",
+      "korean_translation": "넘어지지 않을 것이다",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He will not fall down",
+      "korean_translation": "그는 넘어지지 않을 것이다",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because he sees this world's light",
+      "korean_translation": "이 세상의 빛을 보기 때문이다",
+      "word_indices": [
+        159,
+        225
+      ]
+    }
+  ]
+}

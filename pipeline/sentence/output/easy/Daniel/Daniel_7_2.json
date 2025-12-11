@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Daniel 7:2",
+  "version": "EASY",
+  "original_text": "Daniel wrote, ‘I had a vision at night. I saw the four winds of the sky. They caused big waves in the great sea.",
+  "korean_text": "다니엘이 진술하여 이르되 내가 밤에 환상을 보았는데 하늘의 네 바람이 큰 바다로 몰려 불더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Daniel wrote",
+      "korean_translation": "다니엘은 썼습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I had a vision at night",
+      "korean_translation": "나는 밤에 환상을 보았습니다",
+      "word_indices": [
+        211,
+        444
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I saw the four winds of the sky",
+      "korean_translation": "나는 하늘의 네 바람을 보았습니다",
+      "word_indices": [
+        303
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They caused big waves",
+      "korean_translation": "그것들은 큰 파도를 일으켰습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the great sea",
+      "korean_translation": "큰 바다에서",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

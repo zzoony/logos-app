@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Revelation 9:16",
+  "version": "EASY",
+  "original_text": "I heard how many soldiers there were in their great army. There were 200 million soldiers who rode on horses.",
+  "korean_text": "마병대의 수는 이만 만이니 내가 그들의 수를 들었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I heard how many soldiers there were",
+      "korean_translation": "나는 얼마나 많은 군인들이 있는지 들었다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in their great army",
+      "korean_translation": "그들의 위대한 군대에서",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There were 200 million soldiers",
+      "korean_translation": "2억 명의 군인들이 있었다",
+      "word_indices": [
+        36,
+        1411
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who rode on horses",
+      "korean_translation": "말을 타고 있는",
+      "word_indices": []
+    }
+  ]
+}

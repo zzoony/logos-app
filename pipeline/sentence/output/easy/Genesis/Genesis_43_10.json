@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 43:10",
+  "version": "EASY",
+  "original_text": "We must go now! We have already talked for too long. By now, we could have gone to Egypt and returned twice!’",
+  "korean_text": "우리가 지체하지 아니하였더라면 벌써 두 번 갔다 왔으리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We must go now!",
+      "korean_translation": "우리는 지금 가야 합니다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We have already talked for too long.",
+      "korean_translation": "우리는 이미 너무 오래 이야기했습니다.",
+      "word_indices": [
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "By now,",
+      "korean_translation": "이제는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we could have gone to Egypt",
+      "korean_translation": "우리는 애굽에 갔다 왔을 수도 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and returned twice!'",
+      "korean_translation": "그리고 두 번이나 돌아왔을 수도 있습니다!'",
+      "word_indices": [
+        115,
+        803
+      ]
+    }
+  ]
+}

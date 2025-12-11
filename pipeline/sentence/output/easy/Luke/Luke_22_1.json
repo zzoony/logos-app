@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 22:1",
+  "version": "EASY",
+  "original_text": "The Passover festival when the Jews eat flat bread was coming soon.",
+  "korean_text": "유월절이라 하는 무교절이 다가오매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Passover festival",
+      "korean_translation": "유월절",
+      "word_indices": [
+        436,
+        516
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the Jews eat flat bread",
+      "korean_translation": "유대인들이 누룩 없는 빵을 먹는 때",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "was coming soon",
+      "korean_translation": "가까워지고 있었다",
+      "word_indices": []
+    }
+  ]
+}

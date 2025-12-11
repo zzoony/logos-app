@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Leviticus 8:34",
+  "version": "EASY",
+  "original_text": "The Lord said that you must do this to atone for your sin.",
+  "korean_text": "오늘 행한 것은 여호와께서 너희를 위하여 속죄하게 하시려고 명령하신 것이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said",
+      "korean_translation": "주께서 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you must do this",
+      "korean_translation": "너는 이것을 행해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to atone for your sin",
+      "korean_translation": "네 죄를 속죄하기 위해",
+      "word_indices": [
+        1100
+      ]
+    }
+  ]
+}

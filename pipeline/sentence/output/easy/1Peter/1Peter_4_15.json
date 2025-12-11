@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Peter 4:15",
+  "version": "EASY",
+  "original_text": "Do not murder anyone. Do not rob anyone. Do not do evil things. Do not try to cause trouble for other people. If you do those things, you deserve to have trouble.",
+  "korean_text": "너희 중에 누구든지 살인이나 도둑질이나 악행이나 남의 일을 간섭하는 자로 고난을 받지 말려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not murder anyone",
+      "korean_translation": "누구도 죽이지 마라",
+      "word_indices": [
+        109,
+        537
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not rob anyone",
+      "korean_translation": "누구도 강도질하지 마라",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not do evil things",
+      "korean_translation": "악한 일을 하지 마라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not try to cause trouble for other people",
+      "korean_translation": "다른 사람에게 고통을 주려고 하지 마라",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If you do those things",
+      "korean_translation": "만약 당신이 그런 일을 한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you deserve to have trouble",
+      "korean_translation": "당신은 고통을 받을 마땅함이 있다",
+      "word_indices": [
+        353
+      ]
+    }
+  ]
+}

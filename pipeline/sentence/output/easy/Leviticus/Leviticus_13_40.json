@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Leviticus 13:40",
+  "version": "EASY",
+  "original_text": "The hair may fall from the head of a man until he is bald. That man remains clean.",
+  "korean_text": "누구든지 그 머리털이 빠지면 그는 대머리니 정하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The hair may fall from the head of a man",
+      "korean_translation": "사람의 머리에서 머리카락이 빠질 수 있다",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "until he is bald",
+      "korean_translation": "그가 대머리가 될 때까지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That man remains clean",
+      "korean_translation": "그 사람은 깨끗한 상태로 남는다",
+      "word_indices": [
+        184,
+        253
+      ]
+    }
+  ]
+}

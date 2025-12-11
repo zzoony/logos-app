@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 3:21",
+  "version": "EASY",
+  "original_text": "While John was still baptizing all the people, he also baptized Jesus. While Jesus was praying, the sky opened.",
+  "korean_text": "백성이 다 세례를 받을새 예수도 세례를 받으시고 기도하실 때에 하늘이 열리며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While John was still baptizing all the people",
+      "korean_translation": "요한이 아직 모든 사람들을 세례주고 있을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he also baptized Jesus",
+      "korean_translation": "그는 또한 예수에게 세례를 주었다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "While Jesus was praying",
+      "korean_translation": "예수가 기도하고 있을 때",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the sky opened",
+      "korean_translation": "하늘이 열렸다",
+      "word_indices": []
+    }
+  ]
+}

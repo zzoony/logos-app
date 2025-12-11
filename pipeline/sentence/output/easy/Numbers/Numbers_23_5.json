@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Numbers 23:5",
+  "version": "EASY",
+  "original_text": "God told Balaam the message that he should speak to Balak.",
+  "korean_text": "여호와께서 발람의 입에 말씀을 주시며 이르시되 발락에게 돌아가서 이렇게 말할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God told Balaam",
+      "korean_translation": "하나님은 발람에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the message",
+      "korean_translation": "그 메시지를",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he should speak",
+      "korean_translation": "그가 말해야 하는",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to Balak",
+      "korean_translation": "발락에게",
+      "word_indices": []
+    }
+  ]
+}

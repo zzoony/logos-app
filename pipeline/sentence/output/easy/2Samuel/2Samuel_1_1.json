@@ -1,0 +1,48 @@
+{
+  "verse_reference": "2 Samuel 1:1",
+  "version": "EASY",
+  "original_text": "After David had won the fight against the Amalekites, he returned to Ziklag. He stayed in Ziklag for two days. Saul had already died.",
+  "korean_text": "사울이 죽은 후에 다윗이 아말렉 사람을 쳐죽이고 돌아와 다윗이 시글락에서 이틀을 머물더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After David had won the fight",
+      "korean_translation": "다윗이 전투에서 승리한 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "against the Amalekites",
+      "korean_translation": "아말렉 사람들과의",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he returned to Ziklag",
+      "korean_translation": "그는 시글락으로 돌아왔습니다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He stayed in Ziklag",
+      "korean_translation": "그는 시글락에 머물렀습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for two days",
+      "korean_translation": "이틀 동안",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Saul had already died",
+      "korean_translation": "사울은 이미 죽어 있었습니다",
+      "word_indices": []
+    }
+  ]
+}

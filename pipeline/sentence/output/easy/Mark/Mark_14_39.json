@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 14:39",
+  "version": "EASY",
+  "original_text": "Jesus went away again and he prayed in the same words.",
+  "korean_text": "다시 나아가 동일한 말씀으로 기도하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus went away again",
+      "korean_translation": "예수님은 다시 떠나셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he prayed",
+      "korean_translation": "그리고 그분은 기도하셨습니다",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the same words",
+      "korean_translation": "같은 말로",
+      "word_indices": [
+        74,
+        128
+      ]
+    }
+  ]
+}

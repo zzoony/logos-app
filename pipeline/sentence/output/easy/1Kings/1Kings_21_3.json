@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 21:3",
+  "version": "EASY",
+  "original_text": "Naboth replied to Ahab, ‘The Lord will never allow that to happen! It belongs to me because it belonged to my ancestors.’",
+  "korean_text": "나봇이 아합에게 말하되 내 조상의 유산을 왕에게 주기를 여호와께서 금하실지로다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Naboth replied to Ahab",
+      "korean_translation": "나봇이 아합에게 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'The Lord will never allow that to happen!",
+      "korean_translation": "주님께서 결코 그런 일이 일어나도록 허락하지 않으실 것입니다!",
+      "word_indices": [
+        2,
+        22,
+        651
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It belongs to me",
+      "korean_translation": "그것은 나의 소유입니다",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because it belonged to my ancestors.'",
+      "korean_translation": "왜냐하면 그것은 내 조상들의 소유였기 때문입니다.'",
+      "word_indices": [
+        45,
+        145
+      ]
+    }
+  ]
+}

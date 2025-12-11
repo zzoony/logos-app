@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Luke 18:39",
+  "version": "EASY",
+  "original_text": "The people who were walking at the front of the crowd were angry with him. They told him that he should be quiet. But he started to shout even louder, ‘Son of David! Please help me!’",
+  "korean_text": "앞서 가는 자들이 그를 꾸짖어 잠잠하라 하되 그가 더욱 크게 소리 질러 다윗의 자손이여 나를 불쌍히 여기소서 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people who were walking at the front of the crowd",
+      "korean_translation": "무리 앞에서 걷고 있던 사람들이",
+      "word_indices": [
+        123,
+        204,
+        265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were angry with him",
+      "korean_translation": "그에게 화가 났다",
+      "word_indices": [
+        106
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They told him",
+      "korean_translation": "그들은 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that he should be quiet",
+      "korean_translation": "조용히 있어야 한다고",
+      "word_indices": [
+        550
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But he started to shout even louder",
+      "korean_translation": "하지만 그는 더 크게 외치기 시작했다",
+      "word_indices": [
+        174,
+        222,
+        1137
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "'Son of David!",
+      "korean_translation": "'다윗의 자손이여!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Please help me!'",
+      "korean_translation": "나를 도와주세요!'",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

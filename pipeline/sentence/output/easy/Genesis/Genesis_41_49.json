@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Genesis 41:49",
+  "version": "EASY",
+  "original_text": "In this way, Joseph stored a lot of food. The food grains were as many as the sand by the sea! Joseph stopped counting how much food he had stored because there was too much food to measure.",
+  "korean_text": "쌓아 둔 곡식이 바다 모래 같이 심히 많아 세기를 그쳤으니 그 수가 한이 없음이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In this way, Joseph stored a lot of food.",
+      "korean_translation": "이렇게 요셉은 많은 양식을 저장했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The food grains were as many as the sand by the sea!",
+      "korean_translation": "식물 곡식은 바닷가의 모래처럼 많았습니다!",
+      "word_indices": [
+        256
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Joseph stopped counting how much food he had stored",
+      "korean_translation": "요셉은 저장한 양식의 양을 세는 것을 멈췄습니다",
+      "word_indices": [
+        398
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because there was too much food to measure.",
+      "korean_translation": "측량할 수 있을 만큼 양식이 너무 많았기 때문입니다.",
+      "word_indices": [
+        499
+      ]
+    }
+  ]
+}

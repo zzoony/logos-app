@@ -1,0 +1,24 @@
+{
+  "verse_reference": "Isaiah 37:25",
+  "version": "EASY",
+  "original_text": "I dug wells and they gave me water to drink.",
+  "korean_text": "내가 우물을 파서 물을 마셨으니 내 발바닥으로 애굽의 모든 하수를 말리리라 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I dug wells",
+      "korean_translation": "나는 우물을 팠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they gave me water to drink",
+      "korean_translation": "그리고 그들은 마시라고 나에게 물을 주었다",
+      "word_indices": [
+        4,
+        60,
+        118
+      ]
+    }
+  ]
+}

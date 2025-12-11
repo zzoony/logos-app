@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Chronicles 28:19",
+  "version": "EASY",
+  "original_text": "David said, ‘I have written down everything about these things, as the Lord told me to do. He helped me to understand how these plans would work.’",
+  "korean_text": "다윗이 이르되 여호와의 손이 내게 임하여 이 모든 일의 설계를 그려 나에게 알려 주셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said",
+      "korean_translation": "다윗이 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have written down everything about these things",
+      "korean_translation": "나는 이 모든 것들을 기록하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as the Lord told me to do",
+      "korean_translation": "주께서 내게 명하신 대로",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He helped me to understand",
+      "korean_translation": "그가 내게 깨닫게 하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "how these plans would work",
+      "korean_translation": "이 계획들이 어떻게 실행될지를",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

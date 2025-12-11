@@ -1,0 +1,51 @@
+{
+  "verse_reference": "John 1:47",
+  "version": "EASY",
+  "original_text": "Jesus saw Nathanael, who was coming towards him. Jesus said, ‘Here is a completely honest man. That is what a person from Israel should really be like.’",
+  "korean_text": "예수께서 나다나엘이 자기에게 오는 것을 보시고 그를 가리켜 이르시되 보라 이는 참으로 이스라엘 사람이라 그 속에 간사한 것이 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus saw Nathanael",
+      "korean_translation": "예수님은 나다나엘을 보셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who was coming towards him",
+      "korean_translation": "그가 자기에게로 오고 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Here is a completely honest man",
+      "korean_translation": "보라, 진실한 사람이 여기 있도다",
+      "word_indices": [
+        161,
+        443
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is what a person from Israel",
+      "korean_translation": "그것이 이스라엘 사람이",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "should really be like",
+      "korean_translation": "정말로 그래야 할 모습이다",
+      "word_indices": [
+        146
+      ]
+    }
+  ]
+}

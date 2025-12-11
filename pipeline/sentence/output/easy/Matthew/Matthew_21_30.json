@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 21:30",
+  "version": "EASY",
+  "original_text": "The man went to his other son and he said the same thing to him. The second son replied, “Yes, father, I will go.” But then he did not go to work in the field.",
+  "korean_text": "둘째 아들에게 가서 또 그와 같이 말하니 대답하여 이르되 싫소이다 하였다가 그 후에 뉘우치고 갔으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man went to his other son",
+      "korean_translation": "그 사람은 다른 아들에게 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he said the same thing to him",
+      "korean_translation": "그리고 그에게 똑같은 말을 했습니다",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The second son replied",
+      "korean_translation": "둘째 아들이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Yes, father, I will go",
+      "korean_translation": "예, 아버지, 제가 가겠습니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But then he did not go",
+      "korean_translation": "하지만 그는 가지 않았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to work in the field",
+      "korean_translation": "밭에서 일하러",
+      "word_indices": [
+        35,
+        152
+      ]
+    }
+  ]
+}

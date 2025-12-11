@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 7:19",
+  "version": "EASY",
+  "original_text": "A farmer will cut down any tree that does not make good fruit. He will burn it on a fire.",
+  "korean_text": "아름다운 열매를 맺지 아니하는 나무마다 찍혀 불에 던져지느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A farmer will cut down any tree",
+      "korean_translation": "농부는 어떤 나무든 잘라낼 것입니다",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that does not make good fruit",
+      "korean_translation": "좋은 열매를 맺지 않는",
+      "word_indices": [
+        19,
+        278
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He will burn it on a fire",
+      "korean_translation": "그는 그것을 불에 태울 것입니다",
+      "word_indices": [
+        121
+      ]
+    }
+  ]
+}

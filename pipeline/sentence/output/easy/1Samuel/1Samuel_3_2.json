@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 3:2",
+  "version": "EASY",
+  "original_text": "Eli's eyes had become weak. He could not see very well. One night, he was sleeping in his usual place.",
+  "korean_text": "엘리의 눈이 점점 어두워 가서 잘 보지 못하는 그 때에 그가 자기 처소에 누웠고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Eli's eyes had become weak.",
+      "korean_translation": "엘리의 눈이 약해졌습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He could not see very well.",
+      "korean_translation": "그는 매우 잘 볼 수 없었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "One night, he was sleeping in his usual place.",
+      "korean_translation": "어느 날 밤, 그는 평소의 장소에서 잠을 자고 있었습니다.",
+      "word_indices": [
+        16,
+        211,
+        361,
+        1016
+      ]
+    }
+  ]
+}

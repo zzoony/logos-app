@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Jonah 4:7",
+  "version": "EASY",
+  "original_text": "But at dawn the next day, God sent a worm to attack the plant. So then the plant died.",
+  "korean_text": "하나님이 벌레를 예비하사 이튿날 새벽에 그 박넝쿨을 갉아먹게 하시매 시드니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But at dawn the next day",
+      "korean_translation": "하지만 다음 날 동이 트자",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God sent a worm to attack the plant",
+      "korean_translation": "하나님께서 식물을 공격하도록 벌레를 보내셨다",
+      "word_indices": [
+        62,
+        199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So then the plant died",
+      "korean_translation": "그래서 그 식물은 죽었다",
+      "word_indices": [
+        199
+      ]
+    }
+  ]
+}

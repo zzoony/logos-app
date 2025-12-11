@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 13:33",
+  "version": "EASY",
+  "original_text": "The person must cut the hair off his head. He must not cut the hair off where the mark is. Then the priest must keep the person separate from everyone else for seven more days.",
+  "korean_text": "그는 모발을 밀되 환부는 밀지 말 것이요 제사장은 옴 환자를 또 이레 동안 가두어둘 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The person must cut the hair off his head",
+      "korean_translation": "그 사람은 자기 머리의 머리카락을 자르고",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He must not cut the hair off where the mark is",
+      "korean_translation": "그는 표가 있는 곳의 머리카락은 자르지 말아야 하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the priest must keep the person separate",
+      "korean_translation": "그러면 제사장은 그 사람을 분리하여 두어야 하고",
+      "word_indices": [
+        24,
+        32,
+        101,
+        384
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from everyone else for seven more days",
+      "korean_translation": "모든 다른 사람들로부터 이레 더 두어야 한다",
+      "word_indices": [
+        97,
+        198
+      ]
+    }
+  ]
+}

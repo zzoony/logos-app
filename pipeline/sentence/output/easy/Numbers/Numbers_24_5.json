@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Numbers 24:5",
+  "version": "EASY",
+  "original_text": "The tents where the Israelites live are beautiful!",
+  "korean_text": "야곱이여 네 장막들이, 이스라엘이여 네 거처들이 어찌 그리 아름다운고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The tents",
+      "korean_translation": "그 장막들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "where the Israelites live",
+      "korean_translation": "이스라엘 사람들이 사는",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are beautiful!",
+      "korean_translation": "아름답습니다!",
+      "word_indices": [
+        180
+      ]
+    }
+  ]
+}

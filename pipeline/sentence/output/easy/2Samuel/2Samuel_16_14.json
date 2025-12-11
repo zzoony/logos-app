@@ -1,0 +1,45 @@
+{
+  "verse_reference": "2 Samuel 16:14",
+  "version": "EASY",
+  "original_text": "When King David and all the people who were with him reached the Jordan River, they were tired and weak. So they rested there.",
+  "korean_text": "왕과 그와 함께 있는 백성들이 다 피곤하여 한 곳에 이르러 거기서 쉬니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When King David and all the people",
+      "korean_translation": "다윗 왕과 모든 백성이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who were with him",
+      "korean_translation": "그와 함께 있던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "reached the Jordan River,",
+      "korean_translation": "요단 강에 도착했을 때",
+      "word_indices": [
+        136,
+        449
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they were tired and weak.",
+      "korean_translation": "그들은 지치고 약했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So they rested there.",
+      "korean_translation": "그래서 그들은 그곳에서 쉬었습니다.",
+      "word_indices": [
+        269
+      ]
+    }
+  ]
+}

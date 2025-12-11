@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 12:30",
+  "version": "EASY",
+  "original_text": "Jesus said, ‘When this voice spoke, it was not so that it could help me. No, it spoke so that it could help you.",
+  "korean_text": "예수께서 대답하여 이르시되 이 소리가 난 것은 나를 위한 것이 아니요 너희를 위한 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님이 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'When this voice spoke",
+      "korean_translation": "이 목소리가 말했을 때",
+      "word_indices": [
+        335
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it was not so that it could help me",
+      "korean_translation": "그것은 나를 돕기 위함이 아니었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "No, it spoke so that it could help you.'",
+      "korean_translation": "아니, 그것은 너희를 돕기 위해 말했다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Kings 18:17",
+  "version": "EASY",
+  "original_text": "When Ahab saw Elijah, he said to him, ‘Is that really you, the man who brings trouble to Israel?’",
+  "korean_text": "엘리야를 볼 때에 아합이 그에게 이르되 이스라엘을 괴롭게 하는 자여 너냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Ahab saw Elijah",
+      "korean_translation": "아합이 엘리야를 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said to him",
+      "korean_translation": "그가 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Is that really you",
+      "korean_translation": "정말로 당신인가요",
+      "word_indices": [
+        146
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the man who brings trouble to Israel",
+      "korean_translation": "이스라엘에게 재앙을 가져오는 사람",
+      "word_indices": [
+        17
+      ]
+    }
+  ]
+}

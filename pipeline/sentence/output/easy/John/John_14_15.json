@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 14:15",
+  "version": "EASY",
+  "original_text": "Jesus then said, ‘If you love me, do what I have told you to do.",
+  "korean_text": "너희가 나를 사랑하면 나의 계명을 지키리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus then said",
+      "korean_translation": "예수님께서 그때 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If you love me",
+      "korean_translation": "너희가 나를 사랑하면",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do what I have told you to do",
+      "korean_translation": "내가 너희에게 명한 것을 지키라",
+      "word_indices": []
+    }
+  ]
+}

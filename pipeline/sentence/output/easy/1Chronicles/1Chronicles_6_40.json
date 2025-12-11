@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Chronicles 6:40",
+  "version": "EASY",
+  "original_text": "Shimea was Michael's son. Michael was Baaseiah's son. Baaseiah was Malkijah's son.",
+  "korean_text": "시므아는 미가엘의 아들이요 미가엘은 바아세야의 아들이요 바아세야는 말기야의 아들이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Shimea was Michael's son",
+      "korean_translation": "시므아는 미가엘의 아들이었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Michael was Baaseiah's son",
+      "korean_translation": "미가엘은 바아세야의 아들이었습니다",
+      "word_indices": [
+        1516
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Baaseiah was Malkijah's son",
+      "korean_translation": "바아세야는 말기야의 아들이었습니다",
+      "word_indices": [
+        1516
+      ]
+    }
+  ]
+}

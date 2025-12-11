@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Acts 3:7",
+  "version": "EASY",
+  "original_text": "Peter held the man's right hand and he helped him to stand up. Immediately the man's feet and ankles became strong.",
+  "korean_text": "오른손을 잡아 일으키니 발과 발목이 곧 힘을 얻고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter held the man's right hand",
+      "korean_translation": "베드로는 그 사람의 오른손을 잡았다",
+      "word_indices": [
+        38,
+        132
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he helped him to stand up",
+      "korean_translation": "그리고 그가 일어서도록 도왔다",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Immediately the man's feet and ankles",
+      "korean_translation": "즉시 그 사람의 발과 발목이",
+      "word_indices": [
+        414
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "became strong",
+      "korean_translation": "강건해졌다",
+      "word_indices": [
+        43
+      ]
+    }
+  ]
+}

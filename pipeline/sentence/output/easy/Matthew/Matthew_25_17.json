@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 25:17",
+  "version": "EASY",
+  "original_text": "The servant who had received 2,000 gold coins did the same thing. This servant got 2,000 more gold coins.",
+  "korean_text": "두 달란트 받은 자도 그같이 하여 또 두 달란트를 남겼으되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The servant who had received 2,000 gold coins",
+      "korean_translation": "이천 금화를 받았던 종은",
+      "word_indices": [
+        44,
+        130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "did the same thing.",
+      "korean_translation": "똑같은 일을 했습니다.",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This servant",
+      "korean_translation": "이 종은",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "got 2,000 more gold coins.",
+      "korean_translation": "이천 금화를 더 얻었습니다.",
+      "word_indices": [
+        130
+      ]
+    }
+  ]
+}

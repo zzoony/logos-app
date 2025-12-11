@@ -1,0 +1,80 @@
+{
+  "verse_reference": "Philippians 4:12",
+  "version": "EASY",
+  "original_text": "I know what it is like to need things. I also know what it is like to have more than enough. I have learned this secret. I know how to be happy whatever happens. I can be happy when I have enough food to eat, and also when I am hungry. I can be happy when I have plenty of things, and also when I have nothing.",
+  "korean_text": "나는 비천에 처할 줄도 알고 풍부에 처할 줄도 알아 모든 일 곧 배부름과 배고픔과 풍부와 궁핍에도 처할 줄 아는 일체의 비결을 배웠노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know what it is like to need things.",
+      "korean_translation": "나는 필요한 것이 있을 때가 어떤 것인지 압니다.",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I also know what it is like to have more than enough.",
+      "korean_translation": "나는 또한 넉넉할 때가 어떤 것인지 압니다.",
+      "word_indices": [
+        9,
+        12,
+        228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have learned this secret.",
+      "korean_translation": "나는 이 비밀을 배웠습니다.",
+      "word_indices": [
+        544
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I know how to be happy whatever happens.",
+      "korean_translation": "나는 무슨 일이든 행복해지는 방법을 압니다.",
+      "word_indices": [
+        12,
+        22,
+        57,
+        492
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I can be happy when I have enough food to eat,",
+      "korean_translation": "나는 먹을 것이 충분할 때 행복할 수 있고,",
+      "word_indices": [
+        57,
+        228
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and also when I am hungry.",
+      "korean_translation": "배고플 때도 행복할 수 있습니다.",
+      "word_indices": [
+        9,
+        402
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I can be happy when I have plenty of things,",
+      "korean_translation": "나는 많은 것을 가질 때 행복할 수 있고,",
+      "word_indices": [
+        57,
+        451
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and also when I have nothing.",
+      "korean_translation": "아무것도 없을 때도 행복할 수 있습니다.",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

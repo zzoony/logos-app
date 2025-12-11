@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 20:21",
+  "version": "EASY",
+  "original_text": "Jesus said again, ‘Peace be with you. As the Father has sent me, in the same way I am now sending you.’",
+  "korean_text": "예수께서 또 이르시되 너희에게 평강이 있을지어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said again",
+      "korean_translation": "예수님께서 다시 말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Peace be with you",
+      "korean_translation": "너희에게 평화가 있기를",
+      "word_indices": [
+        302
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As the Father has sent me",
+      "korean_translation": "아버지께서 나를 보내신 것처럼",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the same way I am now sending you",
+      "korean_translation": "나도 지금 너희를 보내노라",
+      "word_indices": [
+        25,
+        74
+      ]
+    }
+  ]
+}

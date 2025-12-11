@@ -1,0 +1,29 @@
+{
+  "verse_reference": "1 Samuel 18:9",
+  "version": "EASY",
+  "original_text": "After that, Saul was jealous of David and he watched David carefully.",
+  "korean_text": "그 날 후로 사울이 다윗을 주목하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After that",
+      "korean_translation": "그 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Saul was jealous of David",
+      "korean_translation": "사울은 다윗을 질투했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he watched David carefully",
+      "korean_translation": "그리고 그는 다윗을 주의 깊게 지켜보았습니다",
+      "word_indices": [
+        217,
+        273
+      ]
+    }
+  ]
+}

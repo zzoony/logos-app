@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Deuteronomy 1:2",
+  "version": "EASY",
+  "original_text": "(It is a journey of 11 days from Sinai to Kadesh-Barnea, along the road past Mount Seir.)",
+  "korean_text": "호렙 산에서 세일 산을 지나 가데스 바네아까지 열 하룻길이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is a journey of 11 days",
+      "korean_translation": "그것은 11일의 여정입니다",
+      "word_indices": [
+        427
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from Sinai to Kadesh-Barnea",
+      "korean_translation": "시내에서 가데스-바네아까지",
+      "word_indices": [
+        1145
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "along the road past Mount Seir",
+      "korean_translation": "세일산을 지나는 길을 따라",
+      "word_indices": [
+        445,
+        512
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Exodus 11:5",
+  "version": "EASY",
+  "original_text": "I will cause all the firstborn sons in Egypt to die. The firstborn son of Pharaoh, king of Egypt, will die. The firstborn son of the female slave who makes flour, will die. Even the firstborn of the farm animals will die.",
+  "korean_text": "애굽 땅에 있는 모든 처음 난 것은 왕위에 앉아 있는 바로의 장자로부터 맷돌 뒤에 있는 몸종의 장자와 모든 가축의 처음 난 것까지 죽으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will cause all the firstborn sons in Egypt to die",
+      "korean_translation": "나는 이집트의 모든 맏아들이 죽게 할 것이다",
+      "word_indices": [
+        30,
+        500
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The firstborn son of Pharaoh",
+      "korean_translation": "바로의 맏아들은",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "king of Egypt, will die",
+      "korean_translation": "이집트의 왕이 죽을 것이다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The firstborn son of the female slave",
+      "korean_translation": "여성 노예의 맏아들은",
+      "word_indices": [
+        214,
+        455,
+        500
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who makes flour, will die",
+      "korean_translation": "가루를 만드는 자가 죽을 것이다",
+      "word_indices": [
+        435
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Even the firstborn of the farm animals",
+      "korean_translation": "심지어 가축의 맏것들도",
+      "word_indices": [
+        48,
+        500
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "will die",
+      "korean_translation": "죽을 것이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 8:19",
+  "version": "EASY",
+  "original_text": "Remember that I used five loaves of bread to feed 5,000 men. How many baskets did you fill with pieces of food that were left?’",
+  "korean_text": "내가 떡 다섯 개를 오천 명에게 떼어 줄 때에 조각 몇 바구니를 거두었더냐 이르되 열둘이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember that I used five loaves of bread",
+      "korean_translation": "내가 빵 다섯 개를 사용했다는 것을 기억하라",
+      "word_indices": [
+        139,
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to feed 5,000 men",
+      "korean_translation": "5천 명의 남자를 먹이기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "How many baskets did you fill",
+      "korean_translation": "너희는 몇 개의 바구니를 채웠는가",
+      "word_indices": [
+        667
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with pieces of food that were left",
+      "korean_translation": "남은 음식 조각들로",
+      "word_indices": []
+    }
+  ]
+}

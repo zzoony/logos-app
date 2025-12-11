@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Genesis 12:19",
+  "version": "EASY",
+  "original_text": "You told me “She is my sister”. As a result, I took her to be my wife. Now, here is your wife. Take her and go away!’",
+  "korean_text": "네가 어찌 그를 누이라 하여 내가 그를 데려다가 아내를 삼게 하였느냐 네 아내가 여기 있으니 이제 데려가라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You told me",
+      "korean_translation": "당신은 나에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She is my sister",
+      "korean_translation": "그녀는 나의 여동생입니다",
+      "word_indices": [
+        374
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As a result",
+      "korean_translation": "그 결과",
+      "word_indices": [
+        215
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I took her to be my wife",
+      "korean_translation": "나는 그녀를 아내로 삼았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Now",
+      "korean_translation": "이제",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "here is your wife",
+      "korean_translation": "당신의 아내가 여기 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Take her",
+      "korean_translation": "그녀를 데려가세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and go away",
+      "korean_translation": "그리고 떠나세요",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 12:11",
+  "version": "EASY",
+  "original_text": "My father made you work hard. I will make you work even harder! My father punished you with little whips. I will punish you with whips that bite your skin!” ’",
+  "korean_text": "내 아버지께서 너희에게 무거운 멍에를 메게 하였으나 이제 나는 너희의 멍에를 더욱 무겁게 할지라 내 아버지는 채찍으로 너희를 징계하였으나 나는 전갈 채찍으로 너희를 징계하리라 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My father made you work hard.",
+      "korean_translation": "내 아버지가 너희를 힘들게 일하게 했다.",
+      "word_indices": [
+        35,
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will make you work even harder!",
+      "korean_translation": "나는 너희를 훨씬 더 힘들게 일하게 하겠다!",
+      "word_indices": [
+        35,
+        1505
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My father punished you with little whips.",
+      "korean_translation": "내 아버지는 작은 채찍으로 너희를 벌했다.",
+      "word_indices": [
+        37,
+        401
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will punish you with whips that bite your skin!",
+      "korean_translation": "나는 너희 살을 파고드는 채찍으로 벌하겠다!",
+      "word_indices": []
+    }
+  ]
+}

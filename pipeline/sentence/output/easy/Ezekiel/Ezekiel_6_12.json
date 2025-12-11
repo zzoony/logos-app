@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Ezekiel 6:12",
+  "version": "EASY",
+  "original_text": "Illness will kill the people who live far away. Enemy soldiers will kill those who live near to the city. Famine will kill those people who are still alive. Because I am very angry with them, I will punish them very much.",
+  "korean_text": "먼 데 있는 자는 전염병에 죽고 가까운 데 있는 자는 칼에 엎드러지고 남아 있어 에워싸인 자는 기근에 죽으리라 이같이 내 진노를 그들에게 이룬즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Illness will kill the people who live far away.",
+      "korean_translation": "질병이 먼 곳에 사는 사람들을 죽일 것이다.",
+      "word_indices": [
+        8,
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Enemy soldiers will kill those who live near to the city.",
+      "korean_translation": "적군은 도시 근처에 사는 사람들을 죽일 것이다.",
+      "word_indices": [
+        8,
+        20,
+        26,
+        36,
+        50
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Famine will kill those people who are still alive.",
+      "korean_translation": "기근이 아직 살아있는 그 사람들을 죽일 것이다.",
+      "word_indices": [
+        26,
+        151,
+        509
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Because I am very angry with them,",
+      "korean_translation": "내가 그들에게 매우 분노하기 때문에,",
+      "word_indices": [
+        106
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will punish them very much.",
+      "korean_translation": "나는 그들을 크게 벌할 것이다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Proverbs 7:19",
+  "version": "EASY",
+  "original_text": "My husband is not at home. He has gone away on a long journey.",
+  "korean_text": "남편은 집을 떠나 먼 길을 갔는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My husband is not at home.",
+      "korean_translation": "내 남편은 집에 없어요.",
+      "word_indices": [
+        282
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He has gone away",
+      "korean_translation": "그는 떠났어요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on a long journey.",
+      "korean_translation": "긴 여행을 위해요.",
+      "word_indices": [
+        134,
+        427
+      ]
+    }
+  ]
+}

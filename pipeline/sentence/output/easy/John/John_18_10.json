@@ -1,0 +1,57 @@
+{
+  "verse_reference": "John 18:10",
+  "version": "EASY",
+  "original_text": "Simon Peter had a sword. He took hold of it and he attacked the servant of the leader of the priests. He cut off the servant's right ear. The servant's name was Malchus.",
+  "korean_text": "이에 시몬 베드로가 칼을 가졌는데 그것을 빼어 대제사장의 종을 쳐서 오른편 귀를 베어버리니 그 종의 이름은 말고라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon Peter had a sword",
+      "korean_translation": "시몬 베드로는 검을 가지고 있었다",
+      "word_indices": [
+        292
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He took hold of it",
+      "korean_translation": "그는 그것을 붙잡았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he attacked the servant",
+      "korean_translation": "그리고 그는 종을 공격했다",
+      "word_indices": [
+        44,
+        62
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the leader of the priests",
+      "korean_translation": "대제사장의",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He cut off the servant's right ear",
+      "korean_translation": "그는 종의 오른쪽 귀를 잘라냈다",
+      "word_indices": [
+        38,
+        44
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The servant's name was Malchus",
+      "korean_translation": "그 종의 이름은 말코스였다",
+      "word_indices": [
+        44,
+        90
+      ]
+    }
+  ]
+}

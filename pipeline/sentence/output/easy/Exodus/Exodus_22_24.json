@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Exodus 22:24",
+  "version": "EASY",
+  "original_text": "I will be very angry with you. I will kill you in war. Your wives will become widows. Your children will no longer have any family.",
+  "korean_text": "나의 노가 맹렬하므로 내가 칼로 너희를 죽이리니 너희의 아내는 과부가 되고 너희 자녀는 고아가 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will be very angry with you.",
+      "korean_translation": "내가 너희에게 진노하여",
+      "word_indices": [
+        106
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will kill you in war.",
+      "korean_translation": "너희가 칼에 망하리니",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your wives will become widows.",
+      "korean_translation": "너희 아내들은 과부가 되고",
+      "word_indices": [
+        543
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Your children will no longer have any family.",
+      "korean_translation": "너희 자녀들은 고아가 되리라",
+      "word_indices": [
+        56,
+        171
+      ]
+    }
+  ]
+}

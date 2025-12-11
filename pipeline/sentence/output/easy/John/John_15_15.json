@@ -1,0 +1,69 @@
+{
+  "verse_reference": "John 15:15",
+  "version": "EASY",
+  "original_text": "A servant does not know what his master is doing. So I do not call you servants any more. No, I call you my friends. This is because I have told you everything that I have heard from my Father.",
+  "korean_text": "이제부터는 너희를 종이라 하지 아니하리니 종은 주인이 하는 것을 알지 못함이라 너희를 친구라 하였노니 내가 내 아버지께 들은 것을 다 너희에게 알게 하였음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A servant does not know",
+      "korean_translation": "종은 알지 못합니다",
+      "word_indices": [
+        12,
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what his master is doing",
+      "korean_translation": "그의 주인이 무엇을 하고 있는지를",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So I do not call you servants",
+      "korean_translation": "그래서 나는 너희를 종이라고 부르지 않는다",
+      "word_indices": [
+        44,
+        47
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "any more",
+      "korean_translation": "더 이상",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "No, I call you my friends",
+      "korean_translation": "아니요, 나는 너희를 내 친구라고 부른다",
+      "word_indices": [
+        47,
+        113
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "This is because",
+      "korean_translation": "이것은 왜냐하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I have told you everything",
+      "korean_translation": "내가 너희에게 모든 것을 말했기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "that I have heard from my Father",
+      "korean_translation": "내가 내 아버지께 들은 모든 것을",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

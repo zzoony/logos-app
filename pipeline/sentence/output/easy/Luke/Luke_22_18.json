@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 22:18",
+  "version": "EASY",
+  "original_text": "I tell you this. I will not drink wine again until God begins to rule in his kingdom.’",
+  "korean_text": "내가 너희에게 이르노니 내가 이제부터 하나님의 나라가 임할 때까지 포도나무에서 난 것을 다시 마시지 아니하리라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this.",
+      "korean_translation": "내가 너희에게 이것을 말한다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will not drink wine again",
+      "korean_translation": "나는 다시는 포도주를 마시지 않겠다.",
+      "word_indices": [
+        118,
+        219
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until God begins to rule",
+      "korean_translation": "하나님이 다스리기 시작할 때까지",
+      "word_indices": [
+        28,
+        220
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in his kingdom.",
+      "korean_translation": "그의 나라에서.",
+      "word_indices": [
+        188
+      ]
+    }
+  ]
+}

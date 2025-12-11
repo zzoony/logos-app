@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Deuteronomy 28:38",
+  "version": "EASY",
+  "original_text": "You will plant many seeds in your fields, but you will not have much food at harvest time. Instead, locusts will eat your crops.",
+  "korean_text": "네가 많은 종자를 들에 뿌릴지라도 메뚜기가 먹으므로 거둘 것이 적을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will plant many seeds in your fields",
+      "korean_translation": "당신은 밭에 많은 씨를 심을 것입니다",
+      "word_indices": [
+        152,
+        199
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you will not have much food at harvest time",
+      "korean_translation": "하지만 수확할 때에 음식이 많지 않을 것입니다",
+      "word_indices": [
+        474
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Instead, locusts will eat your crops",
+      "korean_translation": "대신에 메뚜기들이 당신의 곡식을 먹을 것입니다",
+      "word_indices": [
+        675
+      ]
+    }
+  ]
+}

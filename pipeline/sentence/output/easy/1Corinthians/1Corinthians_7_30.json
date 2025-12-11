@@ -1,0 +1,54 @@
+{
+  "verse_reference": "1 Corinthians 7:30",
+  "version": "EASY",
+  "original_text": "People who are sad should live as if they were not sad. People who are happy should live as if they had nothing to laugh about. People who buy things should live as if those things do not belong to them.",
+  "korean_text": "우는 자들은 울지 않는 자 같이 하며 기쁜 자들은 기쁘지 않은 자 같이 하며 매매하는 자들은 없는 자 같이 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People who are sad",
+      "korean_translation": "슬퍼하는 사람들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "should live as if they were not sad",
+      "korean_translation": "슬퍼하지 않은 것처럼 살아야 합니다",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "People who are happy",
+      "korean_translation": "기쁜 사람들은",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "should live as if they had nothing to laugh about",
+      "korean_translation": "웃을 것이 없는 것처럼 살아야 합니다",
+      "word_indices": [
+        8,
+        405
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "People who buy things",
+      "korean_translation": "물건을 사는 사람들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "should live as if those things do not belong to them",
+      "korean_translation": "그 물건들이 자신의 것이 아닌 것처럼 살아야 합니다",
+      "word_indices": [
+        8,
+        45
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Leviticus 11:16",
+  "version": "EASY",
+  "original_text": "They must not eat any owl, seagull or hawk.",
+  "korean_text": "타조와 타흐마스와 갈매기와 새매 종류와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They must not eat any owl",
+      "korean_translation": "그들은 어떤 부엉이도 먹어서는 안 됩니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "any seagull",
+      "korean_translation": "어떤 갈매기도",
+      "word_indices": [
+        1473
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or hawk",
+      "korean_translation": "또는 매도",
+      "word_indices": []
+    }
+  ]
+}

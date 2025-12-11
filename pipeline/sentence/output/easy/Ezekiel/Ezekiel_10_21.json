@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Ezekiel 10:21",
+  "version": "EASY",
+  "original_text": "Each of them had four faces and four wings. They had something with the shape of human hands under their wings.",
+  "korean_text": "각기 네 얼굴과 네 날개가 있으며 날개 밑에는 사람의 손 형상이 있으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Each of them had four faces",
+      "korean_translation": "그들 각자는 네 개의 얼굴을 가졌고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and four wings",
+      "korean_translation": "네 개의 날개를 가졌습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They had something",
+      "korean_translation": "그들에게는 무언가가 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with the shape of human hands",
+      "korean_translation": "인간의 손 모양을 한 것이",
+      "word_indices": [
+        132,
+        350,
+        546
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "under their wings",
+      "korean_translation": "그들의 날개 아래에 있었습니다",
+      "word_indices": []
+    }
+  ]
+}

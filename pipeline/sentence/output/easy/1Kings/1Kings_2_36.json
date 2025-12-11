@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Kings 2:36",
+  "version": "EASY",
+  "original_text": "Then the king told Shimei to come to him. He said to Shimei, ‘Build a house for yourself here in Jerusalem. Live in it all the time. Never leave to go anywhere else.",
+  "korean_text": "왕이 사람을 보내어 시므이를 불러서 이르되 너는 예루살렘에서 너를 위하여 집을 짓고 거기서 살고 어디든지 나가지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the king told Shimei to come to him.",
+      "korean_translation": "그때 왕은 시므이가 자기에게 오라고 명령했습니다.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said to Shimei",
+      "korean_translation": "그는 시므이에게 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Build a house for yourself here in Jerusalem.",
+      "korean_translation": "예루살렘 여기서 당신을 위해 집을 짓습니다.",
+      "word_indices": [
+        67,
+        99
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Live in it all the time.",
+      "korean_translation": "항상 그곳에서 사십시오.",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Never leave to go anywhere else.",
+      "korean_translation": "어디든 다른 곳에 가려고 떠나지 마십시오.",
+      "word_indices": [
+        66,
+        684
+      ]
+    }
+  ]
+}

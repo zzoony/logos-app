@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Ezekiel 16:46",
+  "version": "EASY",
+  "original_text": "Your older sister was Samaria. She and her daughters lived north of you. Your younger sister was Sodom. She and her daughters lived south of you.",
+  "korean_text": "네 형은 그 딸들과 함께 네 왼쪽에 거주하는 사마리아요 네 아우는 그 딸들과 함께 네 오른쪽에 거주하는 소돔이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your older sister was Samaria.",
+      "korean_translation": "네 언니는 사마리아였다.",
+      "word_indices": [
+        374
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She and her daughters lived north of you.",
+      "korean_translation": "그녀와 그녀의 딸들은 너의 북쪽에 살았다.",
+      "word_indices": [
+        173,
+        259
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your younger sister was Sodom.",
+      "korean_translation": "네 여동생은 소돔이었다.",
+      "word_indices": [
+        374,
+        752
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "She and her daughters lived south of you.",
+      "korean_translation": "그녀와 그녀의 딸들은 너의 남쪽에 살았다.",
+      "word_indices": [
+        173,
+        285
+      ]
+    }
+  ]
+}

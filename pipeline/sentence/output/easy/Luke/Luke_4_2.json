@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 4:2",
+  "version": "EASY",
+  "original_text": "He stayed there for 40 days and he did not eat anything. During this time the Devil tried to cause Jesus to do wrong things. At the end of 40 days, Jesus was very hungry.",
+  "korean_text": "마귀에게 시험을 받으시더라 이 모든 날에 아무 것도 잡수시지 아니하시니 날 수가 다하매 주리신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He stayed there for 40 days",
+      "korean_translation": "그는 그곳에 40일 동안 머물렀습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he did not eat anything",
+      "korean_translation": "그리고 아무것도 먹지 않았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "During this time",
+      "korean_translation": "이 기간 동안",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Devil tried to cause Jesus to do wrong things",
+      "korean_translation": "악마는 예수님을 잘못된 행동을 하게 하려고 시도했습니다",
+      "word_indices": [
+        30,
+        71,
+        631
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "At the end of 40 days",
+      "korean_translation": "40일이 끝났을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Jesus was very hungry",
+      "korean_translation": "예수님은 매우 배고프셨습니다",
+      "word_indices": [
+        402
+      ]
+    }
+  ]
+}

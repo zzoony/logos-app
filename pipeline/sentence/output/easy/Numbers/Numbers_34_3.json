@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Numbers 34:3",
+  "version": "EASY",
+  "original_text": "The south edge will start at the Zin desert and it will go along the border of Edom land. It will continue to the east, and it will reach the south end of the Salt Sea.",
+  "korean_text": "너희 남쪽은 에돔 곁에 접근한 신 광야니 너희의 남쪽 경계는 동쪽으로 염해 끝에서 시작하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The south edge will start at the Zin desert",
+      "korean_translation": "남쪽 경계는 신 광야에서 시작될 것입니다",
+      "word_indices": [
+        222,
+        235,
+        285
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and it will go along the border of Edom land",
+      "korean_translation": "그리고 에돔 땅의 경계를 따라 갈 것입니다",
+      "word_indices": [
+        14,
+        433
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It will continue to the east",
+      "korean_translation": "그것은 동쪽으로 계속될 것입니다",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it will reach the south end of the Salt Sea",
+      "korean_translation": "그리고 소금 바다의 남쪽 끝에 이를 것입니다",
+      "word_indices": [
+        285,
+        449
+      ]
+    }
+  ]
+}

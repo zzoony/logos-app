@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 22:57",
+  "version": "EASY",
+  "original_text": "Peter replied, ‘Woman, that is not true! I do not even know him.’",
+  "korean_text": "베드로가 부인하여 이르되 이 여자여 내가 그를 알지 못하노라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter replied",
+      "korean_translation": "베드로가 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Woman, that is not true!",
+      "korean_translation": "여자여, 그것은 사실이 아니오!",
+      "word_indices": [
+        46,
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I do not even know him",
+      "korean_translation": "나는 그를 전혀 모르오",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

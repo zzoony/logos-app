@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Acts 1:5",
+  "version": "EASY",
+  "original_text": "John baptized people with water, but after a few days God will baptize you with the Holy Spirit.’",
+  "korean_text": "요한은 물로 세례를 베풀었으나 너희는 몇 날이 못되어 성령으로 세례를 받으리라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John baptized people with water",
+      "korean_translation": "요한은 물로 사람들을 세례 주었고",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but after a few days",
+      "korean_translation": "그러나 며칠 후에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God will baptize you with the Holy Spirit",
+      "korean_translation": "하나님이 성령으로 너희에게 세례를 주실 것이다",
+      "word_indices": [
+        84,
+        92,
+        554
+      ]
+    }
+  ]
+}

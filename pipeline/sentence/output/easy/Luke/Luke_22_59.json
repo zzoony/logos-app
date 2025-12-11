@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 22:59",
+  "version": "EASY",
+  "original_text": "After about an hour, another man said, ‘I am sure that this man was a friend of Jesus. He also is from Galilee.’",
+  "korean_text": "한 시간쯤 있다가 또 한 사람이 장담하여 이르되 이는 갈릴리 사람이니 참으로 그와 함께 있었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After about an hour,",
+      "korean_translation": "약 한 시간 후에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "another man said,",
+      "korean_translation": "또 다른 사람이 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am sure",
+      "korean_translation": "나는 확신합니다",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that this man was a friend of Jesus.",
+      "korean_translation": "이 사람은 예수님의 친구였습니다.",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He also is from Galilee.",
+      "korean_translation": "그는 또한 갈릴리 사람입니다.",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 12:1",
+  "version": "EASY",
+  "original_text": "Six days before the Passover festival, Jesus went to Bethany, the village where Lazarus lived. He was the man who had been dead, but Jesus had raised him.",
+  "korean_text": "유월절 엿새 전에 예수께서 베다니에 이르시니 이 곳은 예수께서 죽은 자 가운데서 살리신 나사로가 있는 곳이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Six days before the Passover festival",
+      "korean_translation": "유월절 축제 6일 전에",
+      "word_indices": [
+        436,
+        516
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus went to Bethany",
+      "korean_translation": "예수께서 베다니에 가셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the village where Lazarus lived",
+      "korean_translation": "나사로가 살던 마을",
+      "word_indices": [
+        438
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He was the man who had been dead",
+      "korean_translation": "그는 죽었던 사람이었다",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but Jesus had raised him",
+      "korean_translation": "하지만 예수께서 그를 살리셨다",
+      "word_indices": []
+    }
+  ]
+}

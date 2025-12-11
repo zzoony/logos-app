@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 37:11",
+  "version": "EASY",
+  "original_text": "He covered the wood with gold. He built up the edges of the table with gold.",
+  "korean_text": "순금으로 싸고 위쪽 가장자리로 돌아가며 금 테를 둘렀으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He covered the wood with gold",
+      "korean_translation": "그는 나무를 금으로 덮었다",
+      "word_indices": [
+        130,
+        238,
+        239
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He built up the edges of the table",
+      "korean_translation": "그는 테두리를 만들었다",
+      "word_indices": [
+        536
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the edges of the table with gold",
+      "korean_translation": "상자의 테두리를 금으로",
+      "word_indices": [
+        130,
+        536
+      ]
+    }
+  ]
+}

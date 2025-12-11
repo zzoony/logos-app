@@ -1,0 +1,78 @@
+{
+  "verse_reference": "Luke 3:11",
+  "version": "EASY",
+  "original_text": "John answered, ‘If you have two shirts, give one away. Give it to someone who does not have even one shirt. If you have some food, give some of it away. Give some to someone who has no food.’",
+  "korean_text": "대답하여 이르되 옷 두 벌 있는 자는 옷 없는 자에게 나눠 줄 것이요 먹을 것이 있는 자도 그렇게 할 것이니라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John answered",
+      "korean_translation": "요한이 대답하였다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If you have two shirts",
+      "korean_translation": "만약 당신이 셔츠 두 벌을 가지고 있다면",
+      "word_indices": [
+        863
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "give one away",
+      "korean_translation": "한 벌을 주어라",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Give it to someone",
+      "korean_translation": "그것을 어떤 사람에게 주어라",
+      "word_indices": [
+        4,
+        94
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who does not have even one shirt",
+      "korean_translation": "셔츠 한 벌조차 가지고 있지 않은",
+      "word_indices": [
+        863
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "If you have some food",
+      "korean_translation": "만약 당신이 약간의 음식을 가지고 있다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "give some of it away",
+      "korean_translation": "그중 일부를 나누어 주어라",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Give some to someone",
+      "korean_translation": "일부를 어떤 사람에게 주어라",
+      "word_indices": [
+        4,
+        94
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "who has no food",
+      "korean_translation": "음식이 없는",
+      "word_indices": []
+    }
+  ]
+}

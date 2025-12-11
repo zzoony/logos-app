@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Genesis 37:7",
+  "version": "EASY",
+  "original_text": "We were out in the field tying the crops together into bundles. Then my bundle stood up. Your bundles stood in a circle round my bundle. And all your bundles bent down to respect my bundle.’",
+  "korean_text": "우리가 밭에서 곡식 단을 묶더니 내 단은 일어서고 당신들의 단은 내 단을 둘러서서 절하더이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We were out in the field",
+      "korean_translation": "우리는 밖에 들에 나가 있었고",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "tying the crops together into bundles",
+      "korean_translation": "곡식을 단으로 묶고 있었어요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then my bundle stood up",
+      "korean_translation": "그때 내 단이 일어났어요",
+      "word_indices": [
+        1234
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Your bundles stood in a circle",
+      "korean_translation": "너희 단들은 원형으로 서 있었어요",
+      "word_indices": [
+        1328
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "round my bundle",
+      "korean_translation": "내 단을 둘러싸고",
+      "word_indices": [
+        355,
+        1234
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And all your bundles bent down",
+      "korean_translation": "그리고 너희 모든 단들은 허리를 굽혔어요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to respect my bundle",
+      "korean_translation": "내 단을 경의하기 위해",
+      "word_indices": [
+        1234
+      ]
+    }
+  ]
+}

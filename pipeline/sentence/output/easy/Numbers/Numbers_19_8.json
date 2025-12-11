@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Numbers 19:8",
+  "version": "EASY",
+  "original_text": "And the man who burns the animal must also wash his clothes in water. And he must wash his body in water. He will not be clean until the evening.",
+  "korean_text": "송아지를 불사른 자도 자기의 옷을 물로 빨고 물로 그 몸을 씻을 것이라 그도 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the man who burns the animal",
+      "korean_translation": "그리고 그 동물을 태우는 사람은",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must also wash his clothes in water",
+      "korean_translation": "물로 그의 옷을 씻어야 합니다",
+      "word_indices": [
+        9,
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he must wash his body in water",
+      "korean_translation": "그리고 그는 물로 자신의 몸을 씻어야 합니다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He will not be clean until the evening",
+      "korean_translation": "그는 저녁 때까지 깨끗해지지 않을 것입니다",
+      "word_indices": [
+        184
+      ]
+    }
+  ]
+}

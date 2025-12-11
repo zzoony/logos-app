@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 12:20",
+  "version": "EASY",
+  "original_text": "But once there were seven brothers. The oldest brother married a woman. But he died before they had any children.",
+  "korean_text": "칠 형제가 있었는데 맏이가 아내를 취하였다가 상속자가 없이 죽고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But once there were seven brothers.",
+      "korean_translation": "그러나 일곱 형제가 있었습니다.",
+      "word_indices": [
+        135,
+        198
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The oldest brother married a woman.",
+      "korean_translation": "가장 큰 형이 한 여자와 결혼했습니다.",
+      "word_indices": [
+        46,
+        135,
+        882
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But he died before they had any children.",
+      "korean_translation": "그러나 그들이 아이를 갖기 전에 그가 죽었습니다.",
+      "word_indices": []
+    }
+  ]
+}

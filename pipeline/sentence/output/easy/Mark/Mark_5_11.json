@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Mark 5:11",
+  "version": "EASY",
+  "original_text": "A large group of pigs was eating on the hill.",
+  "korean_text": "마침 거기 돼지의 큰 떼가 산 곁에서 먹고 있는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A large group of pigs",
+      "korean_translation": "돼지들의 큰 무리가",
+      "word_indices": [
+        316
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was eating",
+      "korean_translation": "먹고 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the hill",
+      "korean_translation": "언덕 위에서",
+      "word_indices": [
+        182
+      ]
+    }
+  ]
+}

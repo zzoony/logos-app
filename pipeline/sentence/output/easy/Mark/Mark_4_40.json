@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Mark 4:40",
+  "version": "EASY",
+  "original_text": "Jesus said to his disciples, ‘You should not be afraid like that. You should trust me.’",
+  "korean_text": "이에 제자들에게 이르시되 어찌하여 이렇게 무서워하느냐 너희가 어찌 믿음이 없느냐 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to his disciples",
+      "korean_translation": "예수께서 제자들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You should not be afraid like that",
+      "korean_translation": "너희는 그렇게 두려워하지 말아야 한다",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should trust me",
+      "korean_translation": "너희는 나를 믿어야 한다",
+      "word_indices": [
+        165
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "James 5:2",
+  "version": "EASY",
+  "original_text": "Your money no longer has any value. Insects have eaten your beautiful clothes and they have spoiled them.",
+  "korean_text": "너희 재물은 썩었고 너희 옷은 좀먹었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your money no longer has any value",
+      "korean_translation": "당신의 돈은 더 이상 가치가 없습니다",
+      "word_indices": [
+        142,
+        171,
+        782
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Insects have eaten your beautiful clothes",
+      "korean_translation": "벌레들이 당신의 아름다운 옷을 먹어치웠습니다",
+      "word_indices": [
+        180,
+        942
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they have spoiled them",
+      "korean_translation": "그리고 그것들을 망가뜨렸습니다",
+      "word_indices": [
+        604
+      ]
+    }
+  ]
+}

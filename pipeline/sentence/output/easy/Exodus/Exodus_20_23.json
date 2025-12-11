@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Exodus 20:23",
+  "version": "EASY",
+  "original_text": "Do not make any idols to take my place. Do not use silver or gold to make an idol that you will worship.",
+  "korean_text": "너희는 나를 비겨서 은으로나 금으로나 너희를 위하여 신상을 만들지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not make any idols",
+      "korean_translation": "어떤 우상도 만들지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to take my place",
+      "korean_translation": "나를 대신할",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not use silver or gold",
+      "korean_translation": "은이나 금을 사용하지 말라",
+      "word_indices": [
+        130,
+        195
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to make an idol",
+      "korean_translation": "우상을 만들기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you will worship",
+      "korean_translation": "네가 경배할",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

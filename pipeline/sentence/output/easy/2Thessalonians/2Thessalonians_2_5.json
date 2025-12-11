@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Thessalonians 2:5",
+  "version": "EASY",
+  "original_text": "I told you these things when I was with you. I am sure that you remember that.",
+  "korean_text": "내가 너희와 함께 있을 때에 이 일을 너희에게 말한 것을 기억하지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I told you these things",
+      "korean_translation": "나는 너희에게 이것들을 말했었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I was with you",
+      "korean_translation": "내가 너희와 함께 있을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am sure",
+      "korean_translation": "나는 확신한다",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you remember that",
+      "korean_translation": "너희가 그것을 기억한다는 것을",
+      "word_indices": [
+        139
+      ]
+    }
+  ]
+}

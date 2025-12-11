@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 22:15",
+  "version": "EASY",
+  "original_text": "The angel of the Lord called from heaven to Abraham again.",
+  "korean_text": "여호와의 사자가 하늘에서부터 두 번째 아브라함을 불러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel of the Lord",
+      "korean_translation": "여호와의 천사가",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "called from heaven",
+      "korean_translation": "하늘에서 불렀습니다",
+      "word_indices": [
+        47,
+        170
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Abraham again",
+      "korean_translation": "아브라함에게 다시",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 12:49",
+  "version": "EASY",
+  "original_text": "I came to start a fire on earth. I would be happy if that fire were already burning.",
+  "korean_text": "내가 불을 땅에 던지러 왔노니 이 불이 이미 붙었으면 내가 무엇을 원하리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I came to start a fire on earth.",
+      "korean_translation": "내가 땅에 불을 지르러 왔다.",
+      "word_indices": [
+        93,
+        121,
+        222
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I would be happy",
+      "korean_translation": "내가 기뻐할 것이다.",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if that fire were already burning.",
+      "korean_translation": "만약 그 불이 이미 타고 있다면.",
+      "word_indices": [
+        121
+      ]
+    }
+  ]
+}

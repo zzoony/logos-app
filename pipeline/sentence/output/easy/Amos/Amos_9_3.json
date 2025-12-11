@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Amos 9:3",
+  "version": "EASY",
+  "original_text": "They might try to hide on the top of Mount Carmel. But I will find them and I will take them from there. They might try to hide from me deep down in the sea. But I will command the great sea snake to bite them.",
+  "korean_text": "갈멜 산 꼭대기에 숨을지라도 내가 거기에서 찾아낼 것이요 내 눈을 피하여 바다 밑에 숨을지라도 내가 거기에서 뱀을 명령하여 물게 할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They might try to hide on the top of Mount Carmel.",
+      "korean_translation": "그들이 갈멜산 꼭대기에 숨으려고 할지 모르지만",
+      "word_indices": [
+        445
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But I will find them",
+      "korean_translation": "내가 그들을 찾아낼 것이며",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I will take them from there.",
+      "korean_translation": "거기에서 그들을 데려갈 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They might try to hide from me deep down in the sea.",
+      "korean_translation": "그들이 나를 피해 바다 깊은 곳에 숨으려고 할지 모르지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But I will command the great sea snake to bite them.",
+      "korean_translation": "내가 큰 바다 뱀을 명령하여 그들을 물게 할 것이다",
+      "word_indices": [
+        40,
+        127,
+        493
+      ]
+    }
+  ]
+}

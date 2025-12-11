@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ecclesiastes 2:6",
+  "version": "EASY",
+  "original_text": "I made large pools of water. I used the water to help my trees to grow well.",
+  "korean_text": "나를 위하여 수목을 기르는 삼림에 물을 주기 위하여 못들을 팠으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I made large pools of water.",
+      "korean_translation": "나는 큰 물 웅덩이들을 만들었다.",
+      "word_indices": [
+        60,
+        316
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I used the water",
+      "korean_translation": "나는 그 물을 사용했다.",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to help my trees to grow well.",
+      "korean_translation": "내 나무들이 잘 자라도록 돕기 위해.",
+      "word_indices": [
+        156
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Leviticus 15:6",
+  "version": "EASY",
+  "original_text": "If anyone sits on anything that he has sat on, they will also become unclean. So they must wash their clothes and their body. They will also be unclean until evening.",
+  "korean_text": "유출병이 있는 자가 앉았던 자리에 앉는 자는 그의 옷을 빨고 물로 씻을 것이요 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If anyone sits on anything",
+      "korean_translation": "만약 누군가 무언가에 앉으면",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he has sat on",
+      "korean_translation": "그가 앉았던 것에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they will also become unclean",
+      "korean_translation": "그들도 부정하게 될 것이다",
+      "word_indices": [
+        9,
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So they must wash their clothes",
+      "korean_translation": "그러므로 그들은 자신의 옷을 씻어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and their body",
+      "korean_translation": "그리고 자신의 몸도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They will also be unclean until evening",
+      "korean_translation": "그들은 저녁까지 부정하게 될 것이다",
+      "word_indices": [
+        9,
+        304
+      ]
+    }
+  ]
+}

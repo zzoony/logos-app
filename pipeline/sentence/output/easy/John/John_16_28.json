@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 16:28",
+  "version": "EASY",
+  "original_text": "Yes, I came from the Father, and I came into this world. Now I will leave this world and I will return to the Father.’",
+  "korean_text": "내가 아버지에게서 나와 세상에 왔고 다시 세상을 떠나 아버지께로 가노라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yes, I came from the Father",
+      "korean_translation": "네, 나는 아버지께로부터 왔고",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I came into this world",
+      "korean_translation": "이 세상에 왔노라",
+      "word_indices": [
+        159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Now I will leave this world",
+      "korean_translation": "이제 내가 이 세상을 떠나",
+      "word_indices": [
+        66,
+        159
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I will return to the Father",
+      "korean_translation": "아버지께로 돌아가겠노라",
+      "word_indices": [
+        37,
+        115
+      ]
+    }
+  ]
+}

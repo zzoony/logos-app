@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 6:71",
+  "version": "EASY",
+  "original_text": "He was speaking about Judas, the son of Simon Iscariot. Judas was one of the 12 apostles, but later he would sell Jesus to Jesus' enemies.",
+  "korean_text": "이 말씀은 가룟 시몬의 아들 유다를 가리키심이라 그는 열둘 중의 하나로 예수를 팔 자러라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He was speaking about Judas",
+      "korean_translation": "그는 유다에 대해 말하고 있었다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the son of Simon Iscariot",
+      "korean_translation": "시몬 이스가리옷의 아들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Judas was one of the 12 apostles",
+      "korean_translation": "유다는 12 사도 중 한 사람이었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but later he would sell Jesus",
+      "korean_translation": "하지만 나중에 그는 예수를 팔 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to Jesus' enemies",
+      "korean_translation": "예수의 원수에게",
+      "word_indices": [
+        50
+      ]
+    }
+  ]
+}

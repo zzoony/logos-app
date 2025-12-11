@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Leviticus 27:5",
+  "version": "EASY",
+  "original_text": "For a male between five years and 20 years old, they must give to God 20 pieces of silver. For a female, they must give ten pieces of silver.",
+  "korean_text": "다섯 살로부터 스무 살까지는 남자면 그 값을 이십 세겔로 하고 여자면 열 세겔로 하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For a male between five years and 20 years old",
+      "korean_translation": "다섯 살에서 스무 살 사이의 남성은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they must give to God 20 pieces of silver",
+      "korean_translation": "하나님께 은 20개를 바쳐야 합니다",
+      "word_indices": [
+        4,
+        195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For a female",
+      "korean_translation": "여성은",
+      "word_indices": [
+        455
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they must give ten pieces of silver",
+      "korean_translation": "은 10개를 바쳐야 합니다",
+      "word_indices": [
+        4,
+        195
+      ]
+    }
+  ]
+}

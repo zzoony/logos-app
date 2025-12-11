@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Luke 4:4",
+  "version": "EASY",
+  "original_text": "‘No!’ Jesus replied, ‘The Bible says that food alone cannot cause people to live.’",
+  "korean_text": "예수께서 대답하시되 기록된 바 사람이 떡으로만 살 것이 아니라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "'No!' Jesus replied,",
+      "korean_translation": "'아니요!' 예수께서 대답하셨다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'The Bible says that",
+      "korean_translation": "'성경은 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "food alone cannot cause people to live.'",
+      "korean_translation": "음식만으로는 사람들이 살 수 없다고.'",
+      "word_indices": [
+        8,
+        30,
+        114
+      ]
+    }
+  ]
+}

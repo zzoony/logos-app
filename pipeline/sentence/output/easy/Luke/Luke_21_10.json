@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 21:10",
+  "version": "EASY",
+  "original_text": "Jesus then said to them, ‘People from one country will attack the people from another country. Kings and their armies will fight against other kings and their armies.",
+  "korean_text": "또 이르시되 민족이 민족을, 나라가 나라를 대적하여 일어나겠고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus then said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "People from one country will attack the people from another country",
+      "korean_translation": "한 나라 사람들이 다른 나라 사람들을 공격할 것이다",
+      "word_indices": [
+        62,
+        117
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Kings and their armies",
+      "korean_translation": "왕들과 그들의 군대들이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will fight against other kings and their armies",
+      "korean_translation": "다른 왕들과 그들의 군대들과 싸울 것이다",
+      "word_indices": [
+        3,
+        31
+      ]
+    }
+  ]
+}

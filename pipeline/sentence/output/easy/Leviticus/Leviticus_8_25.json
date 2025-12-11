@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Leviticus 8:25",
+  "version": "EASY",
+  "original_text": "Moses took the fat tail and the fat and the kidneys from inside the animal. He took the best piece of the liver from inside the animal. He took the top part of the right back leg.",
+  "korean_text": "그가 또 그 기름과 기름진 꼬리와 내장에 덮인 모든 기름과 간 꺼풀과 두 콩팥과 그 기름과 오른쪽 뒷다리를 떼어내고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses took the fat tail",
+      "korean_translation": "모세는 기름진 꼬리를 가져왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the fat",
+      "korean_translation": "그리고 기름을 가져왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the kidneys from inside the animal",
+      "korean_translation": "그리고 동물 내부의 콩팥을 가져왔습니다",
+      "word_indices": [
+        48,
+        252,
+        1098
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He took the best piece of the liver",
+      "korean_translation": "그는 간의 가장 좋은 부분을 가져왔습니다",
+      "word_indices": [
+        149,
+        1037
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from inside the animal",
+      "korean_translation": "동물 내부에서 가져왔습니다",
+      "word_indices": [
+        48,
+        252
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He took the top part",
+      "korean_translation": "그는 꼭대기 부분을 가져왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "of the right back leg",
+      "korean_translation": "오른쪽 뒷다리의",
+      "word_indices": [
+        38
+      ]
+    }
+  ]
+}

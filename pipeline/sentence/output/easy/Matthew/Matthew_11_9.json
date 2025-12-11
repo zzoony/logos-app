@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 11:9",
+  "version": "EASY",
+  "original_text": "So what did you go to see? Did you go to see a prophet sent by God? Yes! But I tell you, John was even more important than a prophet.",
+  "korean_text": "그러면 너희가 어찌하여 나갔더냐 선지자를 보기 위함이었더냐 옳다 내가 너희에게 이르노니 선지자보다 더 나은 자니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So what did you go to see?",
+      "korean_translation": "그래서 무엇을 보러 갔습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Did you go to see a prophet sent by God?",
+      "korean_translation": "하나님께서 보내신 선지자를 보러 갔습니까?",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Yes!",
+      "korean_translation": "그렇습니다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But I tell you,",
+      "korean_translation": "하지만 내가 너희에게 말하노니,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "John was even more important than a prophet.",
+      "korean_translation": "요한은 선지자보다 더 중요한 사람입니다.",
+      "word_indices": [
+        100,
+        138
+      ]
+    }
+  ]
+}

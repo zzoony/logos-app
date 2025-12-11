@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 23:24",
+  "version": "EASY",
+  "original_text": "You are like blind people, but you show other people which way to go. You carefully take a small fly out of your water so that you do not drink it. But then you drink the large animal that is swimming in it!",
+  "korean_text": "맹인 된 인도자여 하루살이는 걸러 내고 낙타는 삼키는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are like blind people",
+      "korean_translation": "너희는 소경과 같다",
+      "word_indices": [
+        505
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you show other people which way to go",
+      "korean_translation": "하지만 다른 사람들에게 갈 길을 보여준다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You carefully take a small fly out of your water",
+      "korean_translation": "너희는 물에서 작은 파리를 조심스럽게 건져낸다",
+      "word_indices": [
+        60,
+        217,
+        295
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that you do not drink it",
+      "korean_translation": "그것을 마시지 않기 위해",
+      "word_indices": [
+        118
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But then you drink the large animal",
+      "korean_translation": "하지만 그러고 나서 너희는 큰 동물을 마신다",
+      "word_indices": [
+        48,
+        118,
+        316
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that is swimming in it",
+      "korean_translation": "그것이 물속에서 헤엄치고 있음에도",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 15:5",
+  "version": "EASY",
+  "original_text": "Saul and his army went to the city of the Amalekites. They waited in a small valley to attack their enemy.",
+  "korean_text": "사울이 아말렉 성에 이르러 골짜기에 복병시키니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Saul and his army",
+      "korean_translation": "사울과 그의 군대는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "went to the city of the Amalekites.",
+      "korean_translation": "아말렉 사람들의 성으로 갔습니다.",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They waited in a small valley",
+      "korean_translation": "그들은 작은 골짜기에서 기다렸습니다",
+      "word_indices": [
+        266,
+        295
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to attack their enemy.",
+      "korean_translation": "그들의 적을 공격하기 위해.",
+      "word_indices": [
+        50,
+        62
+      ]
+    }
+  ]
+}

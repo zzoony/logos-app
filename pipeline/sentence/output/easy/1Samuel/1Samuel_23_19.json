@@ -1,0 +1,47 @@
+{
+  "verse_reference": "1 Samuel 23:19",
+  "version": "EASY",
+  "original_text": "Some people from Ziph went to visit Saul at Gibeah. They said to Saul, ‘David is hiding among our people. He is on Hakilah hill, south of Jeshimon. He is hiding in the Horesh hills.",
+  "korean_text": "그 때에 십 사람들이 기브아에 이르러 사울에게 나아와 이르되 다윗이 우리와 함께 광야 남쪽 하길라 산 수풀 요새에 숨지 아니하였나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some people from Ziph went to visit Saul at Gibeah.",
+      "korean_translation": "깊의 어떤 사람들이 기브아에서 사울을 만나러 갔다.",
+      "word_indices": [
+        380
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They said to Saul,",
+      "korean_translation": "그들이 사울에게 말했다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'David is hiding among our people.",
+      "korean_translation": "'다윗이 우리 백성들 사이에 숨어 있습니다.",
+      "word_indices": [
+        112
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He is on Hakilah hill, south of Jeshimon.",
+      "korean_translation": "그는 예시몬 남쪽의 하길라 언덕에 있습니다.",
+      "word_indices": [
+        182,
+        285
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He is hiding in the Horesh hills.'",
+      "korean_translation": "그는 호레스 언덕들에서 숨어 있습니다.'",
+      "word_indices": [
+        182
+      ]
+    }
+  ]
+}

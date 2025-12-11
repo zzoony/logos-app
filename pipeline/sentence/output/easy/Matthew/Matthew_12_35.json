@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 12:35",
+  "version": "EASY",
+  "original_text": "It is like things that you bring out of a room where you keep them. The good man says good things because he keeps good thoughts in his mind. The bad man says bad things because he keeps bad thoughts in his mind.",
+  "korean_text": "선한 사람은 그 쌓은 선에서 선한 것을 내고 악한 사람은 그 쌓은 악에서 악한 것을 내느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is like things that you bring out",
+      "korean_translation": "그것은 당신이 꺼내는 것들과 같습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "out of a room where you keep them",
+      "korean_translation": "당신이 그것들을 보관하는 방에서",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The good man says good things",
+      "korean_translation": "선한 사람은 선한 것을 말합니다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because he keeps good thoughts in his mind",
+      "korean_translation": "그는 마음속에 선한 생각을 간직하기 때문입니다",
+      "word_indices": [
+        19,
+        101,
+        372
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The bad man says bad things",
+      "korean_translation": "악한 사람은 악한 것을 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because he keeps bad thoughts in his mind",
+      "korean_translation": "그는 마음속에 악한 생각을 간직하기 때문입니다",
+      "word_indices": [
+        101,
+        372
+      ]
+    }
+  ]
+}

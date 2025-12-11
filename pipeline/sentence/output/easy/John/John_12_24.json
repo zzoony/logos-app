@@ -1,0 +1,60 @@
+{
+  "verse_reference": "John 12:24",
+  "version": "EASY",
+  "original_text": "I tell you this: A seed of wheat continues to be only a single seed unless it falls into the ground. It must fall into the ground and then it must die. If it dies like that, it will grow to give a lot of seeds.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 한 알의 밀이 땅에 떨어져 죽지 아니하면 한 알 그대로 있고 죽으면 많은 열매를 맺느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 너희에게 이것을 말한다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A seed of wheat continues to be only a single seed",
+      "korean_translation": "밀 알곡은 계속해서 단 한 알의 씨앗으로만 남아있다",
+      "word_indices": [
+        617,
+        955
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "unless it falls into the ground.",
+      "korean_translation": "만약 그것이 땅에 떨어지지 않는다면 말이다.",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It must fall into the ground",
+      "korean_translation": "그것은 땅에 떨어져야만 한다",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and then it must die.",
+      "korean_translation": "그리고 그 다음에는 죽어야만 한다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "If it dies like that,",
+      "korean_translation": "만약 그것이 그렇게 죽는다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "it will grow to give a lot of seeds.",
+      "korean_translation": "그것은 많은 씨앗을 주기 위해 자라날 것이다.",
+      "word_indices": [
+        4,
+        156
+      ]
+    }
+  ]
+}

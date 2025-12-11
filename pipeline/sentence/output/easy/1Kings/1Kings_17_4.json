@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 17:4",
+  "version": "EASY",
+  "original_text": "You will drink water from the stream. I have also commanded the ravens to feed you there.’",
+  "korean_text": "그 시냇물을 마시라 내가 까마귀들에게 명령하여 거기서 너를 먹이게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will drink water from the stream.",
+      "korean_translation": "당신은 그 시내에서 물을 마실 것입니다.",
+      "word_indices": [
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have also commanded the ravens",
+      "korean_translation": "나는 또한 까마귀들에게 명령했습니다",
+      "word_indices": [
+        9,
+        127,
+        1051
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to feed you there.'",
+      "korean_translation": "거기서 당신을 먹이도록.'",
+      "word_indices": []
+    }
+  ]
+}

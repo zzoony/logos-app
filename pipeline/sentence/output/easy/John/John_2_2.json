@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 2:2",
+  "version": "EASY",
+  "original_text": "People had asked Jesus and his disciples to come to the party too.",
+  "korean_text": "예수와 그 제자들도 혼례에 청함을 받았더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People had asked Jesus",
+      "korean_translation": "사람들이 예수님께 요청했었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his disciples",
+      "korean_translation": "그리고 그의 제자들도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to come to the party too.",
+      "korean_translation": "파티에 오도록 요청했습니다.",
+      "word_indices": [
+        622
+      ]
+    }
+  ]
+}

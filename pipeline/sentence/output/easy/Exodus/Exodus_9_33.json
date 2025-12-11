@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Exodus 9:33",
+  "version": "EASY",
+  "original_text": "Then Moses left Pharaoh and he went out of the city. He lifted up his hands to the Lord and he prayed. Then the storms and the hail stopped. The heavy rain stopped falling on the earth.",
+  "korean_text": "모세가 바로를 떠나 성에서 나가 여호와를 향하여 손을 펴매 우렛소리와 우박이 그치고 비가 땅에 내리지 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Moses left Pharaoh",
+      "korean_translation": "그때 모세는 바로를 떠나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he went out of the city",
+      "korean_translation": "그리고 성 밖으로 나갔습니다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He lifted up his hands to the Lord",
+      "korean_translation": "그는 주님께 손을 들어",
+      "word_indices": [
+        2,
+        132
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he prayed",
+      "korean_translation": "그리고 기도했습니다",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then the storms and the hail stopped",
+      "korean_translation": "그때 폭풍과 우박이 멈추고",
+      "word_indices": [
+        483
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The heavy rain stopped falling on the earth",
+      "korean_translation": "비가 땅에 내리는 것이 멈췄습니다",
+      "word_indices": [
+        93,
+        208,
+        327,
+        535
+      ]
+    }
+  ]
+}

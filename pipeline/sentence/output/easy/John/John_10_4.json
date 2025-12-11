@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 10:4",
+  "version": "EASY",
+  "original_text": "When he has brought out all his own sheep, he goes in front of them. The sheep follow him because they know his voice.",
+  "korean_text": "자기 양을 다 내놓은 후에 앞서 가면 양들이 그의 음성을 아는 고로 따라오되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he has brought out all his own sheep",
+      "korean_translation": "그가 자기 양들을 모두 이끌어냈을 때",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he goes in front of them",
+      "korean_translation": "그는 그들 앞에 간다",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The sheep follow him",
+      "korean_translation": "양들은 그를 따른다",
+      "word_indices": [
+        125,
+        388
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because they know his voice",
+      "korean_translation": "그들이 그의 목소리를 알기 때문이다",
+      "word_indices": [
+        12,
+        335
+      ]
+    }
+  ]
+}

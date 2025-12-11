@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 49:17",
+  "version": "EASY",
+  "original_text": "He will be small and dangerous, like a snake that lies beside the road. He will be like a snake that bites the legs of horses so that the riders fall off.",
+  "korean_text": "단은 길섶의 뱀이요 샛길의 독사로다 말굽을 물어서 그 탄 자를 뒤로 떨어지게 하리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He will be small and dangerous",
+      "korean_translation": "그는 작고 위험할 것이다",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like a snake that lies beside the road",
+      "korean_translation": "길가에 누워있는 뱀처럼",
+      "word_indices": [
+        343,
+        493
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He will be like a snake that bites the legs of horses",
+      "korean_translation": "그는 말의 다리를 무는 뱀처럼 될 것이다",
+      "word_indices": [
+        493
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that the riders fall off",
+      "korean_translation": "그리하여 말을 탄 사람들이 떨어지도록",
+      "word_indices": [
+        208,
+        898
+      ]
+    }
+  ]
+}

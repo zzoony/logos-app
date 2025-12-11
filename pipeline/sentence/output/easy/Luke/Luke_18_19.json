@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 18:19",
+  "version": "EASY",
+  "original_text": "Jesus asked him, ‘Why do you say that I am good? Only God is good. Nobody else.",
+  "korean_text": "예수께서 이르시되 네가 어찌하여 나를 선하다 일컫느냐 하나님 한 분 외에는 선한 이가 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus asked him",
+      "korean_translation": "예수님께서 그에게 물으셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why do you say that I am good?",
+      "korean_translation": "어찌하여 나를 선하다고 말하느냐?",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Only God is good",
+      "korean_translation": "하나님만 선하시다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Nobody else",
+      "korean_translation": "다른 이는 없다",
+      "word_indices": []
+    }
+  ]
+}

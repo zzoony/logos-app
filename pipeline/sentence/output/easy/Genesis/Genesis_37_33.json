@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 37:33",
+  "version": "EASY",
+  "original_text": "Jacob saw that it was Joseph's coat. He said, ‘It is my son's coat! A wild animal must have eaten him! The animal has torn Joseph's body into pieces.’",
+  "korean_text": "아버지가 그것을 알아보고 이르되 내 아들의 옷이라 악한 짐승이 그를 잡아 먹었도다 요셉이 분명히 찢겼도다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob saw that it was Joseph's coat.",
+      "korean_translation": "야곱은 그것이 요셉의 옷임을 보았다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said, 'It is my son's coat!'",
+      "korean_translation": "그가 말했다, '이것은 내 아들의 옷이다!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A wild animal must have eaten him!",
+      "korean_translation": "야생 동물이 그를 먹었을 것이다!",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The animal has torn Joseph's body into pieces.'",
+      "korean_translation": "그 동물이 요셉의 몸을 찢어 조각 냈다.'",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

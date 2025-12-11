@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Matthew 20:12",
+  "version": "EASY",
+  "original_text": "They said to him, “Some of these other workers came last and only worked for one hour. But you have paid them the same money as you paid us. And we have worked all day in the hot sun.”",
+  "korean_text": "나중 온 이 사람들은 한 시간밖에 일하지 아니하였거늘 그들을 종일 수고하며 더위를 견딘 우리와 같게 하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said to him",
+      "korean_translation": "그들이 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Some of these other workers came last",
+      "korean_translation": "이 다른 일꾼 중 몇 명은 나중에 왔다",
+      "word_indices": [
+        362,
+        571
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and only worked for one hour",
+      "korean_translation": "그리고 단지 한 시간만 일했다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But you have paid them the same money",
+      "korean_translation": "하지만 당신은 그들에게 똑같은 돈을 지불했다",
+      "word_indices": [
+        74,
+        142
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as you paid us",
+      "korean_translation": "우리에게 지불한 것과 똑같이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And we have worked all day",
+      "korean_translation": "그리고 우리는 종일 일했다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "in the hot sun",
+      "korean_translation": "뜨거운 햇볕 아래에서",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Luke 23:4",
+  "version": "EASY",
+  "original_text": "Pilate then said to the leaders of the priests and to all the crowd of people, ‘I cannot find any reason to say that this man is guilty.’",
+  "korean_text": "빌라도가 대제사장들과 무리에게 이르되 내가 보니 이 사람에게 죄가 없도다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pilate then said",
+      "korean_translation": "빌라도가 그때 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the leaders of the priests",
+      "korean_translation": "제사장 지도자들에게",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to all the crowd of people",
+      "korean_translation": "그리고 모든 사람들에게",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I cannot find any reason",
+      "korean_translation": "나는 어떤 이유도 찾을 수 없다",
+      "word_indices": [
+        114,
+        131,
+        453
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to say that this man is guilty",
+      "korean_translation": "이 사람이 유죄하다고 말할",
+      "word_indices": [
+        232
+      ]
+    }
+  ]
+}

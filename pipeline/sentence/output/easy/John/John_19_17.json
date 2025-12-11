@@ -1,0 +1,59 @@
+{
+  "verse_reference": "John 19:17",
+  "version": "EASY",
+  "original_text": "He was carrying the cross on which they would kill him. He went out to the place called ‘The Place of the Skull ’. This place is called ‘Golgotha’ in the Jewish language.",
+  "korean_text": "그들이 예수를 맡으매 예수께서 자기의 십자가를 지시고 해골(히브리 말로 골고다)이라 하는 곳에 나가시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He was carrying the cross",
+      "korean_translation": "그는 십자가를 지고 있었다",
+      "word_indices": [
+        201
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on which they would kill him",
+      "korean_translation": "그들이 그를 죽일 십자가를",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He went out to the place",
+      "korean_translation": "그는 그 장소로 나아갔다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "called 'The Place of the Skull'",
+      "korean_translation": "'해골의 장소'라 불리는 곳으로",
+      "word_indices": [
+        16,
+        47,
+        1080
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This place is called 'Golgotha'",
+      "korean_translation": "이 장소는 '골고다'라 불린다",
+      "word_indices": [
+        16,
+        47
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in the Jewish language",
+      "korean_translation": "유대어로",
+      "word_indices": [
+        471
+      ]
+    }
+  ]
+}

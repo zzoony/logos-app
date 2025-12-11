@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Chronicles 35:11",
+  "version": "EASY",
+  "original_text": "Some Levites killed the lambs for the Passover meal. They gave the blood to the priests, and the priests splashed the blood on the altar. At the same time, some Levites were removing the skins from the animals.",
+  "korean_text": "유월절 양을 잡으니 제사장들은 그들의 손에서 피를 받아 뿌리고 또 레위 사람들은 잡은 짐승의 가죽을 벗기고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some Levites killed the lambs for the Passover meal.",
+      "korean_translation": "어떤 레위 사람들은 유월절 식사를 위해 어린 양들을 죽였습니다.",
+      "word_indices": [
+        26,
+        516
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They gave the blood to the priests,",
+      "korean_translation": "그들은 제사장들에게 피를 주었고,",
+      "word_indices": [
+        4,
+        32,
+        221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the priests splashed the blood on the altar.",
+      "korean_translation": "제사장들은 제단에 피를 뿌렸습니다.",
+      "word_indices": [
+        32,
+        119,
+        221,
+        893
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "At the same time, some Levites were removing the skins from the animals.",
+      "korean_translation": "동시에, 어떤 레위 사람들은 동물들의 가죽을 벗기고 있었습니다.",
+      "word_indices": [
+        48,
+        74
+      ]
+    }
+  ]
+}

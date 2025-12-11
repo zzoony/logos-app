@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 John 2:23",
+  "version": "EASY",
+  "original_text": "Anyone who says that Jesus is not God's Son does not belong to the Father. But anyone who accepts Jesus as the Son of God also belongs to the Father.",
+  "korean_text": "아들을 부인하는 자에게는 또한 아버지가 없으되 아들을 시인하는 자에게는 아버지도 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who says that Jesus is not God's Son",
+      "korean_translation": "예수가 하나님의 아들이 아니라고 말하는 사람은",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "does not belong to the Father",
+      "korean_translation": "아버지께 속하지 않습니다",
+      "word_indices": [
+        37,
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But anyone who accepts Jesus as the Son of God",
+      "korean_translation": "하지만 예수를 하나님의 아들로 받아들이는 사람은",
+      "word_indices": [
+        109,
+        143
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "also belongs to the Father",
+      "korean_translation": "또한 아버지께 속합니다",
+      "word_indices": [
+        9,
+        37,
+        45
+      ]
+    }
+  ]
+}

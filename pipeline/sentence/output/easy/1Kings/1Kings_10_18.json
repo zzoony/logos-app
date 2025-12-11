@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Kings 10:18",
+  "version": "EASY",
+  "original_text": "The king used ivory to make a large throne. He covered it with gold.",
+  "korean_text": "왕이 또 상아로 큰 보좌를 만들고 정금으로 입혔으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king used ivory",
+      "korean_translation": "왕은 상아를 사용했습니다",
+      "word_indices": [
+        3,
+        1045
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to make a large throne",
+      "korean_translation": "큰 옥좌를 만들기 위해",
+      "word_indices": [
+        316,
+        479
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He covered it with gold",
+      "korean_translation": "그는 그것을 금으로 덮었습니다",
+      "word_indices": [
+        130,
+        238
+      ]
+    }
+  ]
+}

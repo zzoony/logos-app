@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Luke 21:21",
+  "version": "EASY",
+  "original_text": "People in Judea must then run away to the hills to hide. People that are inside the city must leave it. People that are outside in the fields must not go back into the city.",
+  "korean_text": "그 때에 유대에 있는 자들은 산으로 도망갈 것이며 성내에 있는 자들은 나갈 것이며 촌에 있는 자들은 그리로 들어가지 말지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People in Judea must then run away",
+      "korean_translation": "유대에 있는 사람들은 그때 도망가야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the hills to hide",
+      "korean_translation": "숨기 위해 언덕으로",
+      "word_indices": [
+        182
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "People that are inside the city",
+      "korean_translation": "성 안에 있는 사람들은",
+      "word_indices": [
+        20,
+        252
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "must leave it",
+      "korean_translation": "그곳을 떠나야 한다",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "People that are outside in the fields",
+      "korean_translation": "밖에 있는 들판의 사람들은",
+      "word_indices": [
+        152,
+        315
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "must not go back into the city",
+      "korean_translation": "성으로 돌아가지 말아야 한다",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

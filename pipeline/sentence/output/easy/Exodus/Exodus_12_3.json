@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 12:3",
+  "version": "EASY",
+  "original_text": "Tell all the Israelite people to do this on the tenth day of this month: Each man must choose a lamb to kill as a sacrifice for his family. That will be one lamb for each home.",
+  "korean_text": "너희는 이스라엘 온 회중에게 말하여 이르라 이 달 열흘에 너희 각자가 어린 양을 잡을지니 각 가족대로 그 식구를 위하여 어린 양을 취하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Tell all the Israelite people to do this",
+      "korean_translation": "모든 이스라엘 백성에게 이렇게 하라고 말하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the tenth day of this month:",
+      "korean_translation": "이 달의 열흘째 되는 날에:",
+      "word_indices": [
+        255,
+        671
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Each man must choose a lamb",
+      "korean_translation": "각 사람은 어린 양을 선택해야 한다",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to kill as a sacrifice for his family.",
+      "korean_translation": "그의 가족을 위해 희생 제물로 죽일",
+      "word_indices": [
+        26,
+        56,
+        126
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That will be one lamb for each home.",
+      "korean_translation": "그것은 각 가정에 한 마리의 어린 양이 될 것이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Leviticus 14:34",
+  "version": "EASY",
+  "original_text": "‘Canaan is my gift to you, to belong to you for ever. When you go into that land, I may put a disease called mildew in a house there.",
+  "korean_text": "내가 네게 기업으로 주는 가나안 땅에 너희가 이를 때에 너희 기업의 땅에서 어떤 집에 나병 색점을 발생하게 하거든",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Canaan is my gift to you",
+      "korean_translation": "가나안은 내가 너희에게 주는 선물이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to belong to you for ever",
+      "korean_translation": "영원히 너희의 것이 되도록",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When you go into that land",
+      "korean_translation": "너희가 그 땅에 들어갈 때",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I may put a disease called mildew in a house there",
+      "korean_translation": "내가 그곳의 집에 곰팡이라는 병을 넣을 수 있다",
+      "word_indices": [
+        47,
+        67,
+        340,
+        943
+      ]
+    }
+  ]
+}

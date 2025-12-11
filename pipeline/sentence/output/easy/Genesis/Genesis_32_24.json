@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 32:24",
+  "version": "EASY",
+  "original_text": "Then Jacob was alone. A man came and fought with him for a long time. They continued until dawn.",
+  "korean_text": "야곱은 홀로 남았더니 어떤 사람이 날이 새도록 야곱과 씨름하다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jacob was alone",
+      "korean_translation": "그때 야곱은 혼자 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A man came",
+      "korean_translation": "한 사람이 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and fought with him for a long time",
+      "korean_translation": "그리고 오랫동안 그와 싸웠다",
+      "word_indices": [
+        134
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They continued until dawn",
+      "korean_translation": "그들은 새벽까지 계속했다",
+      "word_indices": []
+    }
+  ]
+}

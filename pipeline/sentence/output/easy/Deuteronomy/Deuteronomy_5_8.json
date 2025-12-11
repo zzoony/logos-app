@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 5:8",
+  "version": "EASY",
+  "original_text": "You must not make any idol for yourself. Do not make a false god in the shape of anything that is in the sky above. Do not make one in the shape of anything on the earth or in the sea.",
+  "korean_text": "너는 자기를 위하여 새긴 우상을 만들지 말고 위로 하늘에 있는 것이나 아래로 땅에 있는 것이나 땅밑 물 속에 있는 것의 어떤 형상도 만들지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not make any idol for yourself.",
+      "korean_translation": "너는 자신을 위해 어떤 우상도 만들어서는 안 된다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not make a false god",
+      "korean_translation": "거짓 신을 만들지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the shape of anything that is in the sky above.",
+      "korean_translation": "위 하늘에 있는 어떤 것의 형상으로도",
+      "word_indices": [
+        546
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not make one in the shape of anything on the earth",
+      "korean_translation": "땅 위에 있는 어떤 것의 형상으로도 만들지 말라",
+      "word_indices": [
+        93,
+        546
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or in the sea.",
+      "korean_translation": "또는 바다에 있는 것의 형상으로도.",
+      "word_indices": []
+    }
+  ]
+}

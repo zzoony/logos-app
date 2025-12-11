@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Exodus 17:5",
+  "version": "EASY",
+  "original_text": "The Lord said to Moses, ‘Take some of the leaders of the Israelites with you and go in front of the people. Take your stick in your hand. Take the stick that you used to hit the Nile river. Now go!",
+  "korean_text": "여호와께서 모세에게 이르시되 백성 앞을 지나서 이스라엘 장로들을 데리고 나일 강을 치던 네 지팡이를 손에 잡고 가라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Moses",
+      "korean_translation": "주님께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take some of the leaders of the Israelites with you",
+      "korean_translation": "이스라엘 지도자 몇 사람을 데리고 가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and go in front of the people",
+      "korean_translation": "그리고 백성들 앞에 서라",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Take your stick in your hand",
+      "korean_translation": "네 지팡이를 손에 들어라",
+      "word_indices": [
+        132,
+        356
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Take the stick that you used to hit the Nile river",
+      "korean_translation": "나일 강을 치던 그 지팡이를 가져가라",
+      "word_indices": [
+        136,
+        356
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Now go!",
+      "korean_translation": "이제 가라!",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Genesis 25:32",
+  "version": "EASY",
+  "original_text": "Esau said, ‘Look, I am so hungry that I will die. Then my birthright will not help me at all!’",
+  "korean_text": "에서가 이르되 내가 죽게 되었으니 이 장자의 명분이 내게 무엇이 유익하리요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Esau said",
+      "korean_translation": "에서가 말하길",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look",
+      "korean_translation": "보게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am so hungry",
+      "korean_translation": "나는 너무 배가 고파서",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I will die",
+      "korean_translation": "죽을 것 같네",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then my birthright",
+      "korean_translation": "그러면 나의 장자권은",
+      "word_indices": [
+        1324
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will not help me at all",
+      "korean_translation": "전혀 도움이 되지 않겠지!",
+      "word_indices": []
+    }
+  ]
+}

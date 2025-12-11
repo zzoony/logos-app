@@ -1,0 +1,65 @@
+{
+  "verse_reference": "John 12:5",
+  "version": "EASY",
+  "original_text": "Judas said, ‘We could have sold this oil for 300 coins. That is as much money as someone would get for a year's work. Then we could have given that money to poor people.’",
+  "korean_text": "이 향유를 어찌하여 삼백 데나리온에 팔아 가난한 자들에게 주지 아니하였느냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Judas said",
+      "korean_translation": "유다가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We could have sold this oil",
+      "korean_translation": "우리는 이 기름을 팔 수 있었을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for 300 coins",
+      "korean_translation": "300 동전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "That is as much money",
+      "korean_translation": "그것은 그만큼의 돈이다",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as someone would get",
+      "korean_translation": "누군가가 받을 수 있는",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for a year's work",
+      "korean_translation": "일 년 노동에 대한",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then we could have given that money",
+      "korean_translation": "그러면 우리는 그 돈을 줄 수 있었을 것이다",
+      "word_indices": [
+        4,
+        142
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "to poor people",
+      "korean_translation": "가난한 사람들에게",
+      "word_indices": []
+    }
+  ]
+}

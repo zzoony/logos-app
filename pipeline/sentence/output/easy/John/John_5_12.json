@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 5:12",
+  "version": "EASY",
+  "original_text": "So they asked him, ‘Who is this man? Who said to you, “Pick up your mat and walk”?’",
+  "korean_text": "그들이 묻되 너에게 자리를 들고 걸어가라 한 사람이 누구냐 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they asked him",
+      "korean_translation": "그래서 그들이 그에게 물었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Who is this man?",
+      "korean_translation": "이 사람은 누구입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Who said to you",
+      "korean_translation": "당신에게 무엇이라고 말했습니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Pick up your mat and walk",
+      "korean_translation": "네 자리를 들고 걸어라",
+      "word_indices": [
+        204
+      ]
+    }
+  ]
+}

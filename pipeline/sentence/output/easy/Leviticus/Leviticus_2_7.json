@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Leviticus 2:7",
+  "version": "EASY",
+  "original_text": "A person must use flour and oil to cook the cake in a pot.",
+  "korean_text": "네가 냄비의 것으로 소제를 드리려거든 고운 가루와 기름을 섞어 만들지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person must use flour and oil",
+      "korean_translation": "한 사람은 밀가루와 기름을 사용해야 합니다",
+      "word_indices": [
+        24,
+        435
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to cook the cake",
+      "korean_translation": "케이크를 굽기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in a pot",
+      "korean_translation": "냄비에서",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Esther 6:2",
+  "version": "EASY",
+  "original_text": "The history book included a report of how two of the king's eunuchs wanted to kill King Xerxes. Their names were Bigthana and Teresh. The report said that Mordecai had told the king about this.",
+  "korean_text": "그 속에 기록하기를 문을 지키던 왕의 두 내시 빅다나와 데레스가 아하수에로 왕을 암살하려는 음모를 모르드개가 고발하였다 하였는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The history book included a report",
+      "korean_translation": "역사책에는 보고서가 포함되어 있었습니다",
+      "word_indices": [
+        598,
+        663
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of how two of the king's eunuchs wanted to kill King Xerxes",
+      "korean_translation": "왕의 두 내시가 크셀크세스 왕을 죽이려 했다는 사실에 대한",
+      "word_indices": [
+        3,
+        26,
+        1007
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Their names were Bigthana and Teresh",
+      "korean_translation": "그들의 이름은 빅다나와 데레스였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The report said that Mordecai had told the king about this",
+      "korean_translation": "그 보고서는 모르드개가 왕에게 이 사실을 알렸다고 말했습니다",
+      "word_indices": [
+        3,
+        598
+      ]
+    }
+  ]
+}

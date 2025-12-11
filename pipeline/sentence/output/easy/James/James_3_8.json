@@ -1,0 +1,41 @@
+{
+  "verse_reference": "James 3:8",
+  "version": "EASY",
+  "original_text": "But no person can rule his tongue. It continues to say bad things. It is like a bad poison that can cause death.",
+  "korean_text": "혀는 능히 길들일 사람이 없나니 쉬지 아니하는 악이요 죽이는 독이 가득한 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But no person can rule his tongue.",
+      "korean_translation": "하지만 아무도 자신의 혀를 다스릴 수 없습니다.",
+      "word_indices": [
+        24,
+        28,
+        1027
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It continues to say bad things.",
+      "korean_translation": "그것은 계속해서 나쁜 말을 합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is like a bad poison",
+      "korean_translation": "그것은 나쁜 독과 같습니다.",
+      "word_indices": [
+        855
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that can cause death.",
+      "korean_translation": "죽음을 초래할 수 있는 독입니다.",
+      "word_indices": [
+        30,
+        153
+      ]
+    }
+  ]
+}

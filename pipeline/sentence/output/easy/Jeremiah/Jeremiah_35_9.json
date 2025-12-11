@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Jeremiah 35:9",
+  "version": "EASY",
+  "original_text": "We have never built houses to be our homes. We have no fields or vineyards and we grow no crops.",
+  "korean_text": "살 집도 짓지 아니하며 포도원이나 밭이나 종자도 가지지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We have never built houses",
+      "korean_translation": "우리는 집을 한 번도 지어본 적이 없습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to be our homes",
+      "korean_translation": "우리의 집으로 삼기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We have no fields",
+      "korean_translation": "우리에게는 밭이 없습니다",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or vineyards",
+      "korean_translation": "또는 포도원도 없습니다",
+      "word_indices": [
+        542
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and we grow no crops",
+      "korean_translation": "그리고 우리는 작물을 재배하지 않습니다",
+      "word_indices": [
+        156
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Philemon 1:4",
+  "version": "EASY",
+  "original_text": "When I pray for you, I always thank my God when I think about you.",
+  "korean_text": "내가 항상 내 하나님께 감사하고 기도할 때에 너를 말함은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I pray for you",
+      "korean_translation": "내가 너를 위해 기도할 때",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I always thank my God",
+      "korean_translation": "나는 항상 나의 하나님께 감사합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when I think about you",
+      "korean_translation": "내가 너를 생각할 때",
+      "word_indices": []
+    }
+  ]
+}

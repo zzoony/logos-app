@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Leviticus 4:19",
+  "version": "EASY",
+  "original_text": "The priest will cut all the fat from the dead animal. And he will burn all the fat on the altar of burnt offering.",
+  "korean_text": "그것의 기름은 다 떼어 제단 위에서 불사르되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest will cut all the fat",
+      "korean_translation": "제사장은 모든 기름을 자를 것입니다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the dead animal",
+      "korean_translation": "죽은 동물에게서",
+      "word_indices": [
+        48,
+        133
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he will burn all the fat",
+      "korean_translation": "그리고 그는 모든 기름을 태울 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the altar of burnt offering",
+      "korean_translation": "번제단 위에서",
+      "word_indices": [
+        55,
+        119
+      ]
+    }
+  ]
+}

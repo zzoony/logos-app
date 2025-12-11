@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Ezekiel 4:2",
+  "version": "EASY",
+  "original_text": "Show that soldiers are ready to attack the city. Build heaps of earth around it so that nobody can escape. Put heavy pieces of wood around the city that the enemy could use to break its walls.",
+  "korean_text": "그 성읍을 에워싸되 그것을 향하여 사다리를 세우고 그것을 향하여 흙으로 언덕을 쌓고 그것을 향하여 진을 치고 그것을 향하여 공성퇴를 둘러 세우고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Show that soldiers are ready to attack the city",
+      "korean_translation": "군인들이 도시를 공격할 준비가 되었음을 보여라",
+      "word_indices": [
+        20,
+        36,
+        62,
+        163
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Build heaps of earth around it",
+      "korean_translation": "그것 주위에 흙더미를 쌓아라",
+      "word_indices": [
+        93,
+        99
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that nobody can escape",
+      "korean_translation": "아무도 탈출할 수 없도록",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Put heavy pieces of wood around the city",
+      "korean_translation": "도시 주변에 무거운 나무 조각들을 놓아라",
+      "word_indices": [
+        20,
+        239,
+        535
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that the enemy could use to break its walls",
+      "korean_translation": "적이 성벽을 부수는 데 사용할 수 있는",
+      "word_indices": [
+        50,
+        148,
+        246
+      ]
+    }
+  ]
+}

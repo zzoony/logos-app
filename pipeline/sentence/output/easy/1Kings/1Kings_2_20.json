@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 Kings 2:20",
+  "version": "EASY",
+  "original_text": "She said, ‘I have one small thing to ask you. Please do not refuse to do it for me.’ The king said to her, ‘Ask me, mother! I will not refuse you!’",
+  "korean_text": "밧세바가 이르되 내가 한 가지 작은 일로 왕께 구하오니 내 청을 거절하지 마소서 왕이 대답하되 내 어머니여 구하소서 내가 어머니의 청을 거절하지 아니하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She said",
+      "korean_translation": "그녀가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have one small thing to ask you",
+      "korean_translation": "당신께 부탁할 작은 일이 하나 있습니다",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Please do not refuse to do it for me",
+      "korean_translation": "제게 해주시는 것을 거절하지 마세요",
+      "word_indices": [
+        76,
+        157
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The king said to her",
+      "korean_translation": "왕이 그녀에게 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Ask me, mother",
+      "korean_translation": "어머니, 저에게 말씀하세요",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will not refuse you",
+      "korean_translation": "제가 어머니를 거절하지 않겠습니다",
+      "word_indices": [
+        157
+      ]
+    }
+  ]
+}

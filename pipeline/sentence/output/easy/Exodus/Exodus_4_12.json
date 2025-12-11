@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 4:12",
+  "version": "EASY",
+  "original_text": "Now go! I will help you to speak well. I will teach you what you must say.’",
+  "korean_text": "이제 가라 내가 네 입과 함께 있어서 할 말을 가르치리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now go!",
+      "korean_translation": "이제 가라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will help you to speak well.",
+      "korean_translation": "내가 너를 잘 말하도록 도와주겠다.",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will teach you",
+      "korean_translation": "내가 너를 가르쳐 주겠다.",
+      "word_indices": [
+        87
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what you must say.'",
+      "korean_translation": "네가 말해야 할 것을.'",
+      "word_indices": []
+    }
+  ]
+}

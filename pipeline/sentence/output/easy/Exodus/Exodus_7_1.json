@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 7:1",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Moses, ‘Look, I have made you like God to Pharaoh. Your brother Aaron will speak on your behalf, like your prophet.",
+  "korean_text": "여호와께서 모세에게 이르시되 볼지어다 내가 너를 바로에게 신 같이 되게 하였은즉 네 형 아론은 네 대언자가 되리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses",
+      "korean_translation": "그때 주님께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look, I have made you like God to Pharaoh",
+      "korean_translation": "보아라, 내가 너를 바로에게 하나님 같이 만들었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your brother Aaron will speak on your behalf",
+      "korean_translation": "네 형 아론이 너를 대신하여 말할 것이다",
+      "word_indices": [
+        18,
+        135,
+        333
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like your prophet",
+      "korean_translation": "너의 선지자처럼",
+      "word_indices": [
+        100
+      ]
+    }
+  ]
+}

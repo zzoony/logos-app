@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Esther 3:11",
+  "version": "EASY",
+  "original_text": "He said to Haman, ‘Keep your money. You should do anything that you want with these people.’",
+  "korean_text": "이르되 그 은을 네게 주고 그 백성도 그리하노니 너의 소견에 좋을 대로 행하라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to Haman",
+      "korean_translation": "그는 하만에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Keep your money",
+      "korean_translation": "네 돈을 가져라",
+      "word_indices": [
+        101,
+        142
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should do anything",
+      "korean_translation": "너는 무엇이든지 해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you want with these people",
+      "korean_translation": "이 백성들과 함께하고 싶은 것을",
+      "word_indices": []
+    }
+  ]
+}

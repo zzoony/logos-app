@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 14:2",
+  "version": "EASY",
+  "original_text": "Herod said to his servants, ‘That man Jesus is really John the Baptist. John died but he has become alive again. That is the reason why this man can do these very powerful things.’",
+  "korean_text": "그 신하들에게 이르되 이는 세례 요한이라 그가 죽은 자 가운데서 살아났으니 그러므로 이런 능력이 그 속에서 역사하는도다 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Herod said to his servants",
+      "korean_translation": "헤롯이 자기 신하들에게 말했다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That man Jesus is really John the Baptist",
+      "korean_translation": "저 사람 예수는 정말 세례 요한이다",
+      "word_indices": [
+        146
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "John died",
+      "korean_translation": "요한이 죽었지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he has become alive again",
+      "korean_translation": "그가 다시 살아났다",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is the reason",
+      "korean_translation": "그것이 이유다",
+      "word_indices": [
+        453
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "why this man can do these very powerful things",
+      "korean_translation": "왜 이 사람이 이렇게 강력한 일들을 할 수 있는가",
+      "word_indices": []
+    }
+  ]
+}

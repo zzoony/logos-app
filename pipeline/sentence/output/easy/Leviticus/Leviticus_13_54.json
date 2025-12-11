@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Leviticus 13:54",
+  "version": "EASY",
+  "original_text": "He must tell the people that they must wash the clothes. The people must keep these clothes separate from their other clothes for seven more days.",
+  "korean_text": "제사장은 명령하여 그 색점 있는 것을 빨게 하고 또 이레 동안 간직하였다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He must tell the people",
+      "korean_translation": "그는 백성에게 말해야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that they must wash the clothes",
+      "korean_translation": "그들은 옷을 씻어야 한다고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The people must keep these clothes separate",
+      "korean_translation": "백성은 이 옷들을 따로 보관해야 합니다",
+      "word_indices": [
+        101,
+        384
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from their other clothes",
+      "korean_translation": "그들의 다른 옷들과",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for seven more days",
+      "korean_translation": "이레 동안 더",
+      "word_indices": [
+        198
+      ]
+    }
+  ]
+}

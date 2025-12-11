@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 8:23",
+  "version": "EASY",
+  "original_text": "Jesus answered, ‘You belong to the things down here in the world. But I have come from above. You belong to this world, but I do not belong to this world.",
+  "korean_text": "예수께서 이르시되 너희는 아래에서 났고 나는 위에서 났으며 너희는 이 세상에 속하였고 나는 이 세상에 속하지 아니하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨습니다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You belong to the things down here in the world",
+      "korean_translation": "당신은 이 세상 아래에 속한 것들에 속해 있습니다",
+      "word_indices": [
+        45,
+        159
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I have come from above",
+      "korean_translation": "하지만 나는 위로부터 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You belong to this world",
+      "korean_translation": "당신은 이 세상에 속해 있습니다",
+      "word_indices": [
+        45,
+        159
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "but I do not belong to this world",
+      "korean_translation": "하지만 나는 이 세상에 속하지 않습니다",
+      "word_indices": [
+        45,
+        159
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Leviticus 11:38",
+  "version": "EASY",
+  "original_text": "A person might pour water on the seeds. A dead animal might fall on the wet seeds. Then those seeds are not clean.",
+  "korean_text": "만일 종자에 물이 묻었을 때에 그것이 그 위에 떨어지면 너희에게 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person might pour water on the seeds.",
+      "korean_translation": "사람이 씨앗에 물을 부을 수 있다.",
+      "word_indices": [
+        24,
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A dead animal might fall on the wet seeds.",
+      "korean_translation": "죽은 동물이 젖은 씨앗 위로 떨어질 수 있다.",
+      "word_indices": [
+        48,
+        133,
+        208
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then those seeds are not clean.",
+      "korean_translation": "그러면 그 씨앗들은 깨끗하지 않다.",
+      "word_indices": [
+        184
+      ]
+    }
+  ]
+}

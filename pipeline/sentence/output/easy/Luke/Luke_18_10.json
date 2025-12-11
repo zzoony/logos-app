@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 18:10",
+  "version": "EASY",
+  "original_text": "Jesus said, ‘One day, two men went into the temple to pray. One man was a Pharisee. The other man took taxes from people.",
+  "korean_text": "두 사람이 기도하러 성전에 올라가니 하나는 바리새인이요 하나는 세리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "One day, two men went into the temple",
+      "korean_translation": "어느 날 두 사람이 성전에 들어갔다",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to pray",
+      "korean_translation": "기도하기 위해",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "One man was a Pharisee",
+      "korean_translation": "한 사람은 바리새인이었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The other man took taxes from people",
+      "korean_translation": "다른 사람은 사람들에게서 세금을 거두었다",
+      "word_indices": []
+    }
+  ]
+}

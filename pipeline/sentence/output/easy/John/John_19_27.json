@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 19:27",
+  "version": "EASY",
+  "original_text": "Then he said to the disciple, ‘Look! There is your mother.’ From that time, the disciple took Jesus' mother to live in his own home.",
+  "korean_text": "또 그 제자에게 이르시되 보라 네 어머니라 하신대 그 때부터 그 제자가 자기 집에 모시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he said to the disciple",
+      "korean_translation": "그때 그는 제자에게 말했다",
+      "word_indices": [
+        155
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look! There is your mother",
+      "korean_translation": "보라! 네 어머니가 계시다",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "From that time",
+      "korean_translation": "그때부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the disciple took Jesus' mother",
+      "korean_translation": "제자는 예수의 어머니를 데려갔다",
+      "word_indices": [
+        155,
+        202
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to live in his own home",
+      "korean_translation": "자신의 집에 살게 하기 위해",
+      "word_indices": [
+        8
+      ]
+    }
+  ]
+}

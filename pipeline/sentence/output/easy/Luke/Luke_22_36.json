@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 22:36",
+  "version": "EASY",
+  "original_text": "‘Now it is different,’ he said. ‘If you have a purse or bag, you should take it with you. If you do not have a sword, sell your coat. Use the money to buy one.",
+  "korean_text": "이르시되 이제는 전대 있는 자는 가질 것이요 배낭도 그리하고 검 없는 자는 겉옷을 팔아 살지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "'Now it is different,' he said.",
+      "korean_translation": "'이제는 상황이 다르네,' 그가 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'If you have a purse or bag,",
+      "korean_translation": "'만약 지갑이나 가방이 있다면,",
+      "word_indices": [
+        1319
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you should take it with you.",
+      "korean_translation": "그것을 가지고 가야 합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you do not have a sword,",
+      "korean_translation": "검이 없다면,",
+      "word_indices": [
+        292
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "sell your coat.",
+      "korean_translation": "당신의 겉옷을 팔아라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Use the money to buy one.",
+      "korean_translation": "그 돈으로 검을 하나 사라.",
+      "word_indices": [
+        142
+      ]
+    }
+  ]
+}

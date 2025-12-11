@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Romans 12:15",
+  "version": "EASY",
+  "original_text": "If you are with someone who is happy, you should also be happy. If you are with someone who is sad, you should also be sad.",
+  "korean_text": "즐거워하는 자들과 함께 즐거워하고 우는 자들과 함께 울라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you are with someone who is happy",
+      "korean_translation": "만약 당신이 기쁜 사람과 함께 있다면",
+      "word_indices": [
+        57,
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you should also be happy",
+      "korean_translation": "당신 또한 기뻐해야 합니다",
+      "word_indices": [
+        9,
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you are with someone who is sad",
+      "korean_translation": "만약 당신이 슬픈 사람과 함께 있다면",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you should also be sad",
+      "korean_translation": "당신 또한 슬퍼해야 합니다",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

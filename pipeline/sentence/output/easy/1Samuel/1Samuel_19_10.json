@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Samuel 19:10",
+  "version": "EASY",
+  "original_text": "Saul threw his spear at David. He wanted to fix David to the wall. But David moved out of the way and the spear hit the wall. That night, David ran away to escape from Saul.",
+  "korean_text": "사울이 단창으로 다윗을 벽에 박으려 하였으나 그는 사울의 앞을 피하고 사울의 창은 벽에 박힌지라 다윗이 그 밤에 도피하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Saul threw his spear at David.",
+      "korean_translation": "사울이 다윗에게 자신의 창을 던졌습니다.",
+      "word_indices": [
+        574
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He wanted to fix David to the wall.",
+      "korean_translation": "그는 다윗을 벽에 고정하고 싶었습니다.",
+      "word_indices": [
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But David moved out of the way",
+      "korean_translation": "하지만 다윗은 비켜서고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the spear hit the wall.",
+      "korean_translation": "창은 벽에 부딪혔습니다.",
+      "word_indices": [
+        148,
+        574
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That night, David ran away",
+      "korean_translation": "그날 밤, 다윗은 도망쳤습니다",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to escape from Saul.",
+      "korean_translation": "사울을 피하기 위해.",
+      "word_indices": []
+    }
+  ]
+}

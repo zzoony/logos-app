@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Acts 11:10",
+  "version": "EASY",
+  "original_text": "All this happened three times. After that, the cloth went back up into heaven again.",
+  "korean_text": "이런 일이 세 번 있은 후에 모든 것이 다시 하늘로 끌려 올라가더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All this happened three times.",
+      "korean_translation": "이 모든 일이 세 번 일어났습니다.",
+      "word_indices": [
+        22,
+        166
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "After that",
+      "korean_translation": "그 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the cloth went back up into heaven again.",
+      "korean_translation": "그 천이 다시 하늘로 올라갔습니다.",
+      "word_indices": [
+        170
+      ]
+    }
+  ]
+}

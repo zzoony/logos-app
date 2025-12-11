@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 20:27",
+  "version": "EASY",
+  "original_text": "The person who wants to be the most important person among you must work hard for everyone else.",
+  "korean_text": "너희 중에 누구든지 으뜸이 되고자 하는 자는 너희의 종이 되어야 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The person who wants to be",
+      "korean_translation": "되고 싶은 사람",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the most important person among you",
+      "korean_translation": "너희 중에서 가장 중요한 사람",
+      "word_indices": [
+        24,
+        112,
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must work hard",
+      "korean_translation": "열심히 일해야 한다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for everyone else",
+      "korean_translation": "다른 모든 사람을 위해",
+      "word_indices": [
+        97
+      ]
+    }
+  ]
+}

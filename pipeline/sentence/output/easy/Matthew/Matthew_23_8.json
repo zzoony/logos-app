@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 23:8",
+  "version": "EASY",
+  "original_text": "You all belong to God's family. You have only one Teacher. So nobody should call another person, “Teacher”.",
+  "korean_text": "그러나 너희는 랍비라 칭함을 받지 말라 너희 선생은 하나요 너희는 다 형제니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You all belong to God's family.",
+      "korean_translation": "너희는 모두 하나님의 가족에 속한다.",
+      "word_indices": [
+        45,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have only one Teacher.",
+      "korean_translation": "너희는 오직 한 분의 스승만을 가지고 있다.",
+      "word_indices": [
+        280
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So nobody should call another person",
+      "korean_translation": "그러므로 아무도 다른 사람을",
+      "word_indices": [
+        24,
+        47
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "\"Teacher\".",
+      "korean_translation": "\"스승\"이라고 불러서는 안 된다.",
+      "word_indices": [
+        280
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 11:4",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘Go back to John. Tell him what you have been hearing. Also, tell him what you have been seeing.",
+  "korean_text": "예수께서 대답하여 이르시되 너희가 가서 듣고 보는 것을 요한에게 알리되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수님께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go back to John",
+      "korean_translation": "요한에게 돌아가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Tell him what you have been hearing",
+      "korean_translation": "너희가 듣고 있는 것을 그에게 알려라",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Also, tell him what you have been seeing",
+      "korean_translation": "또한 너희가 보고 있는 것도 그에게 알려라",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

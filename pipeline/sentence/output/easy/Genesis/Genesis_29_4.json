@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 29:4",
+  "version": "EASY",
+  "original_text": "Jacob asked the shepherds, ‘My brothers, where are you from?’ The shepherds replied, ‘We are from Haran.’",
+  "korean_text": "야곱이 그들에게 이르되 내 형제여 어디서 왔느냐 그들이 이르되 하란에서 왔노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob asked the shepherds",
+      "korean_translation": "야곱이 목자들에게 물었습니다",
+      "word_indices": [
+        403
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My brothers",
+      "korean_translation": "나의 형제들아",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where are you from",
+      "korean_translation": "너희는 어디서 왔느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The shepherds replied",
+      "korean_translation": "목자들이 대답했습니다",
+      "word_indices": [
+        403
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "We are from Haran",
+      "korean_translation": "우리는 하란에서 왔습니다",
+      "word_indices": []
+    }
+  ]
+}

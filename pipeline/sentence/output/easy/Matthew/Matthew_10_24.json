@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 10:24",
+  "version": "EASY",
+  "original_text": "A student is not more important than his teacher is. A servant is not more important than his master is.",
+  "korean_text": "제자가 그 선생보다, 또는 종이 그 상전보다 높지 못하나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A student is not more important",
+      "korean_translation": "제자는 더 중요하지 않습니다",
+      "word_indices": [
+        138,
+        1215
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than his teacher is",
+      "korean_translation": "자기 선생보다",
+      "word_indices": [
+        280
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A servant is not more important",
+      "korean_translation": "종은 더 중요하지 않습니다",
+      "word_indices": [
+        44,
+        138
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than his master is",
+      "korean_translation": "자기 주인보다",
+      "word_indices": [
+        176
+      ]
+    }
+  ]
+}

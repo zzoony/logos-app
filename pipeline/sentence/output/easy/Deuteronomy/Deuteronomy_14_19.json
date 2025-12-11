@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Deuteronomy 14:19",
+  "version": "EASY",
+  "original_text": "Some insects have wings but they walk on the ground. Insects like that are unclean food for you. You must not eat them.",
+  "korean_text": "또 날기도 하고 기어다니기도 하는 것은 너희에게 부정하니 너희는 먹지 말 것이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some insects have wings",
+      "korean_translation": "어떤 곤충들은 날개를 가지고 있지만",
+      "word_indices": [
+        942
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but they walk on the ground",
+      "korean_translation": "땅을 걸어 다닙니다",
+      "word_indices": [
+        204
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Insects like that are unclean food for you",
+      "korean_translation": "그런 곤충들은 너희에게 부정한 음식입니다",
+      "word_indices": [
+        304,
+        942
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You must not eat them",
+      "korean_translation": "너희는 그것들을 먹어서는 안 됩니다",
+      "word_indices": []
+    }
+  ]
+}

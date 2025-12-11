@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Leviticus 8:23",
+  "version": "EASY",
+  "original_text": "Moses killed the sheep. He put some of its blood on Aaron's right ear. He also put blood on the thumb of Aaron's right hand. And he put some on the big toe of his right foot.",
+  "korean_text": "모세가 잡고 그 피를 가져다가 아론의 오른쪽 귓부리와 그의 오른쪽 엄지 손가락과 그의 오른쪽 엄지 발가락에 바르고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses killed the sheep.",
+      "korean_translation": "모세는 양을 죽였습니다.",
+      "word_indices": [
+        26,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He put some of its blood",
+      "korean_translation": "그는 양의 피를 일부",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on Aaron's right ear.",
+      "korean_translation": "아론의 오른쪽 귀에 바르었습니다.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He also put blood",
+      "korean_translation": "그는 또한 피를",
+      "word_indices": [
+        9,
+        221
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the thumb of Aaron's right hand.",
+      "korean_translation": "아론의 오른쪽 손 엄지에 바르었습니다.",
+      "word_indices": [
+        38,
+        132,
+        1167
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And he put some",
+      "korean_translation": "그리고 그는 일부를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "on the big toe of his right foot.",
+      "korean_translation": "오른쪽 발의 엄지발가락에 바르었습니다.",
+      "word_indices": [
+        38
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 11:37",
+  "version": "EASY",
+  "original_text": "But I will make you, Jeroboam, king of Israel. You will rule over all the land that you want for yourself.",
+  "korean_text": "내가 너를 취하리니 너는 네 마음에 원하는 대로 다스려 이스라엘 위에 왕이 되되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I will make you, Jeroboam,",
+      "korean_translation": "그러나 내가 너, 여로보암을,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "king of Israel.",
+      "korean_translation": "이스라엘의 왕으로 삼겠다.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will rule over all the land",
+      "korean_translation": "너는 모든 땅을 다스릴 것이다.",
+      "word_indices": [
+        14,
+        28
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you want for yourself.",
+      "korean_translation": "네가 자신을 위해 원하는 모든 땅을.",
+      "word_indices": []
+    }
+  ]
+}

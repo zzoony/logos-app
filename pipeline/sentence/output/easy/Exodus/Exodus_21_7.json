@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 21:7",
+  "version": "EASY",
+  "original_text": "Perhaps a man may sell his daughter to someone as a slave. She is not free to leave her master after six years, as the male slaves are.",
+  "korean_text": "사람이 자기의 딸을 여종으로 팔았으면 그는 남종 같이 나오지 못할지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Perhaps a man may sell his daughter",
+      "korean_translation": "어쩌면 한 남자가 그의 딸을 팔 수도 있다",
+      "word_indices": [
+        173
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to someone as a slave",
+      "korean_translation": "누군가에게 종으로",
+      "word_indices": [
+        94,
+        214
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She is not free to leave her master",
+      "korean_translation": "그녀는 그녀의 주인을 떠날 자유가 없다",
+      "word_indices": [
+        66,
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "after six years",
+      "korean_translation": "6년 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as the male slaves are",
+      "korean_translation": "남자 종들이 그렇듯이",
+      "word_indices": []
+    }
+  ]
+}

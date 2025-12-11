@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Chronicles 11:5",
+  "version": "EASY",
+  "original_text": "The Jebusites said to David, ‘You will never get into our city.’ But David did get in and he took Zion, the city's strong place. It is now called the City of David.",
+  "korean_text": "여부스 원주민이 다윗에게 이르기를 네가 이리로 들어오지 못하리라 하나 다윗이 시온 산 성을 빼앗았으니 이는 다윗 성이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Jebusites said to David",
+      "korean_translation": "여부스 사람들이 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You will never get into our city",
+      "korean_translation": "당신은 우리 도시에 결코 들어올 수 없을 것이다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But David did get in",
+      "korean_translation": "하지만 다윗은 들어갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he took Zion",
+      "korean_translation": "그리고 그는 시온을 차지했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the city's strong place",
+      "korean_translation": "도시의 요새",
+      "word_indices": [
+        16,
+        20,
+        43
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "It is now called the City of David",
+      "korean_translation": "그것은 이제 다윗 성이라 불린다",
+      "word_indices": [
+        20,
+        47
+      ]
+    }
+  ]
+}

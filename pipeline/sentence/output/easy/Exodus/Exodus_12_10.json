@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Exodus 12:10",
+  "version": "EASY",
+  "original_text": "You must eat all the meat before morning arrives. If some of it still remains in the morning, then you must burn it.",
+  "korean_text": "아침까지 남겨두지 말며 아침까지 남은 것은 곧 불사르라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must eat all the meat",
+      "korean_translation": "너는 그 모든 고기를 먹어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before morning arrives",
+      "korean_translation": "아침이 오기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If some of it still remains in the morning",
+      "korean_translation": "만약 아침에 그것의 일부가 여전히 남아있다면",
+      "word_indices": [
+        253
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then you must burn it",
+      "korean_translation": "그러면 너는 그것을 불태워야 한다",
+      "word_indices": []
+    }
+  ]
+}

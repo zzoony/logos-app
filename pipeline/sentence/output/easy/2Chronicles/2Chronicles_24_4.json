@@ -1,0 +1,30 @@
+{
+  "verse_reference": "2 Chronicles 24:4",
+  "version": "EASY",
+  "original_text": "After some time, Joash decided to repair the Lord's temple.",
+  "korean_text": "그 후에 요아스가 여호와의 전을 보수할 뜻을 두고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After some time",
+      "korean_translation": "얼마 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Joash decided",
+      "korean_translation": "요아스는 결정했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to repair the Lord's temple",
+      "korean_translation": "주의 성전을 수리하기로",
+      "word_indices": [
+        2,
+        49,
+        587
+      ]
+    }
+  ]
+}

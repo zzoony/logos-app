@@ -1,0 +1,68 @@
+{
+  "verse_reference": "Genesis 4:25",
+  "version": "EASY",
+  "original_text": "Adam again had sex with his wife, Eve. She gave birth to another son. She called him Seth. Eve said, ‘God has given me another child to take the place of Abel, because Cain killed Abel.’",
+  "korean_text": "아담이 다시 자기 아내와 동침하매 그가 아들을 낳아 그의 이름을 셋이라 하였으니 이는 하나님이 내게 가인이 죽인 아벨 대신에 다른 씨를 주셨다 함이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Adam again had sex with his wife",
+      "korean_translation": "아담이 다시 그의 아내와 성관계를 맺었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Eve",
+      "korean_translation": "하와와",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She gave birth to another son",
+      "korean_translation": "그녀는 다른 아들을 낳았다",
+      "word_indices": [
+        4,
+        249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "She called him Seth",
+      "korean_translation": "그녀는 그를 셋이라 불렀다",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Eve said",
+      "korean_translation": "하와가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "God has given me another child",
+      "korean_translation": "하나님이 나에게 다른 자녀를 주셨다",
+      "word_indices": [
+        4,
+        65
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to take the place of Abel",
+      "korean_translation": "아벨을 대신하여",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "because Cain killed Abel",
+      "korean_translation": "가인이 아벨을 죽였기 때문이다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

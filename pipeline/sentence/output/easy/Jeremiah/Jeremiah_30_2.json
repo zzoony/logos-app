@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Jeremiah 30:2",
+  "version": "EASY",
+  "original_text": "‘The Lord, Israel's God, says, “Write all the words that I have spoken in a book.”",
+  "korean_text": "이스라엘의 하나님 여호와께서 이와 같이 말씀하여 이르시기를 내가 네게 일러 준 모든 말을 책에 기록하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord, Israel's God, says",
+      "korean_translation": "주, 이스라엘의 하나님이 말씀하시길",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Write all the words",
+      "korean_translation": "내가 말한 모든 말을 기록하라",
+      "word_indices": [
+        124,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I have spoken",
+      "korean_translation": "내가 입으로 말한 것들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in a book",
+      "korean_translation": "책에",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Luke 16:6",
+  "version": "EASY",
+  "original_text": "The man replied, “I have to give him 100 barrels of oil.” The servant said to him, “Here is the paper with your debt written down on it. Take the paper. Sit down now and write 50 barrels there.”",
+  "korean_text": "말하되 기름 백 말이니이다 이르되 여기 네 증서를 가지고 빨리 앉아 오십이라 쓰라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man replied",
+      "korean_translation": "그 남자가 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have to give him 100 barrels of oil",
+      "korean_translation": "그에게 기름 100통을 주어야 합니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The servant said to him",
+      "korean_translation": "종이 그에게 말했습니다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Here is the paper",
+      "korean_translation": "여기 종이가 있습니다",
+      "word_indices": [
+        828
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with your debt written down on it",
+      "korean_translation": "당신의 빚이 적힌",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Take the paper",
+      "korean_translation": "그 종이를 가져가세요",
+      "word_indices": [
+        828
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Sit down now",
+      "korean_translation": "이제 앉으세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and write 50 barrels there",
+      "korean_translation": "그리고 거기에 50통이라고 쓰세요",
+      "word_indices": [
+        124
+      ]
+    }
+  ]
+}

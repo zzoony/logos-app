@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Samuel 20:18",
+  "version": "EASY",
+  "original_text": "Then Jonathan said to David, ‘Tomorrow we will have the special meal because of the new moon. Nobody will be sitting in your seat, so people will know that you are not there.",
+  "korean_text": "요나단이 다윗에게 이르되 내일은 초하루인즉 네 자리가 비므로 네가 없음을 자세히 물으실 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jonathan said to David",
+      "korean_translation": "그때 요나단이 다윗에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Tomorrow we will have the special meal",
+      "korean_translation": "'내일 우리는 특별한 식사를 할 것입니다'",
+      "word_indices": [
+        68,
+        628
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of the new moon",
+      "korean_translation": "새달 때문에'",
+      "word_indices": [
+        623
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Nobody will be sitting in your seat",
+      "korean_translation": "아무도 네 자리에 앉아 있지 않을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so people will know",
+      "korean_translation": "그래서 사람들은 알게 될 것입니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that you are not there",
+      "korean_translation": "네가 그곳에 없다는 것을'",
+      "word_indices": []
+    }
+  ]
+}

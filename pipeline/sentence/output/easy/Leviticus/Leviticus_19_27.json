@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Leviticus 19:27",
+  "version": "EASY",
+  "original_text": "A man must not cut the hair on the sides of his head. He must not cut the edges of his beard.",
+  "korean_text": "머리 가를 둥글게 깎지 말며 수염 끝을 손상하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man must not cut the hair",
+      "korean_translation": "한 남자는 머리카락을 자르지 말아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the sides of his head",
+      "korean_translation": "그의 머리 옆면의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must not cut the edges",
+      "korean_translation": "그는 가장자리를 자르지 말아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of his beard",
+      "korean_translation": "그의 수염의",
+      "word_indices": [
+        1034
+      ]
+    }
+  ]
+}

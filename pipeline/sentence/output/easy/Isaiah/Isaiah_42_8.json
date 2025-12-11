@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Isaiah 42:8",
+  "version": "EASY",
+  "original_text": "I am the Lord. That is my name. I will not let anyone else share my glory. I will not let people praise idols. I am the only one that they must praise. I am the Lord. That is my name.",
+  "korean_text": "나는 여호와이니 이는 내 이름이라 나는 내 영광을 다른 자에게, 내 찬송을 우상에게 주지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord.",
+      "korean_translation": "나는 주이다.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That is my name.",
+      "korean_translation": "그것이 나의 이름이다.",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will not let anyone else share my glory.",
+      "korean_translation": "나는 다른 누구도 나의 영광을 나누게 하지 않을 것이다.",
+      "word_indices": [
+        109,
+        555,
+        562
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will not let people praise idols.",
+      "korean_translation": "나는 사람들이 우상을 찬양하게 하지 않을 것이다.",
+      "word_indices": [
+        216
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am the only one that they must praise.",
+      "korean_translation": "나는 그들이 찬양해야 할 유일한 분이다.",
+      "word_indices": [
+        216
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I am the Lord.",
+      "korean_translation": "나는 주이다.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "That is my name.",
+      "korean_translation": "그것이 나의 이름이다.",
+      "word_indices": [
+        90
+      ]
+    }
+  ]
+}

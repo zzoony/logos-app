@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 17:11",
+  "version": "EASY",
+  "original_text": "When Moses lifted up his hands, the Israelites were winning in the fight. But when Moses brought his hands down, the Amalekites were winning.",
+  "korean_text": "모세가 손을 들면 이스라엘이 이기고 손을 내리면 아말렉이 이기더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Moses lifted up his hands",
+      "korean_translation": "모세가 그의 손을 들었을 때",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Israelites were winning in the fight",
+      "korean_translation": "이스라엘 사람들이 싸움에서 이기고 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But when Moses brought his hands down",
+      "korean_translation": "하지만 모세가 그의 손을 내렸을 때",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Amalekites were winning",
+      "korean_translation": "아말렉 사람들이 이기고 있었다",
+      "word_indices": []
+    }
+  ]
+}

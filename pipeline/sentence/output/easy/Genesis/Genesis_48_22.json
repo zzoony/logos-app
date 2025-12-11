@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 48:22",
+  "version": "EASY",
+  "original_text": "I give to you more than I give to your brothers. I give to you the good part of the land that I took from the Amorites. I fought against them with my weapons to take that land.’",
+  "korean_text": "내가 네게 네 형제보다 세겜 땅을 더 주었나니 이는 내가 내 칼과 활로 아모리 족속의 손에서 빼앗은 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I give to you more than I give to your brothers.",
+      "korean_translation": "내가 너에게는 네 형들에게 주는 것보다 더 준다.",
+      "word_indices": [
+        4,
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I give to you the good part of the land",
+      "korean_translation": "내가 너에게 그 땅의 좋은 부분을 준다.",
+      "word_indices": [
+        4,
+        14,
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I took from the Amorites.",
+      "korean_translation": "내가 아모리 사람들에게서 빼앗은 땅이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I fought against them with my weapons",
+      "korean_translation": "내가 무기로 그들과 싸웠다.",
+      "word_indices": [
+        31,
+        428
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to take that land.'",
+      "korean_translation": "그 땅을 차지하기 위해서였다.'",
+      "word_indices": [
+        14
+      ]
+    }
+  ]
+}

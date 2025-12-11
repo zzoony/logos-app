@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 31:40",
+  "version": "EASY",
+  "original_text": "This is what it was like to work for you: I worked in the strong heat of the sun in the day. I had pain from the cold at night. I could not always sleep.",
+  "korean_text": "내가 이와 같이 낮에는 더위와 밤에는 추위를 무릅쓰고 눈 붙일 겨를도 없이 지냈나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what it was like to work for you:",
+      "korean_translation": "이것이 당신을 위해 일하는 것이 어떠했는지입니다:",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I worked in the strong heat of the sun in the day.",
+      "korean_translation": "나는 낮에 뜨거운 햇볕 아래에서 일했습니다.",
+      "word_indices": [
+        35,
+        43
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I had pain from the cold at night.",
+      "korean_translation": "나는 밤에 추위로 고통을 받았습니다.",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I could not always sleep.",
+      "korean_translation": "나는 항상 잘 수 없었습니다.",
+      "word_indices": [
+        361
+      ]
+    }
+  ]
+}

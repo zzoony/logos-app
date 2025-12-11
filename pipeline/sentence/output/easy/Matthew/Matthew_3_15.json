@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 3:15",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘This time, do what I ask you to do. We must do everything correctly, as God wants it.’ So John did what Jesus asked him to do.",
+  "korean_text": "예수께서 대답하여 이르시되 이제 허락하라 우리가 이와 같이 하여 모든 의를 이루는 것이 합당하니라 하시니 이에 요한이 허락하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied,",
+      "korean_translation": "예수님께서 대답하셨다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'This time, do what I ask you to do.",
+      "korean_translation": "이번에는 내가 너에게 명하는 것을 행해라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We must do everything correctly,",
+      "korean_translation": "우리는 모든 것을 올바르게 해야 한다.",
+      "word_indices": [
+        1294
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as God wants it.'",
+      "korean_translation": "하나님께서 원하시는 대로.'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So John did what Jesus asked him to do.",
+      "korean_translation": "그래서 요한은 예수님께서 요청하신 것을 행했다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Timothy 4:20",
+  "version": "EASY",
+  "original_text": "Erastus remained at Corinth city. I left Trophimus at Miletus city because he was ill.",
+  "korean_text": "에라스도는 고린도에 머물러 있고 드로비모는 병들어서 밀레도에 두었노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Erastus remained at Corinth city.",
+      "korean_translation": "에라스토는 고린도 도시에 머물렀습니다.",
+      "word_indices": [
+        20,
+        253
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I left Trophimus at Miletus city",
+      "korean_translation": "나는 드로비모를 밀레도 도시에 남겨두었습니다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he was ill.",
+      "korean_translation": "왜냐하면 그가 아팠기 때문입니다.",
+      "word_indices": []
+    }
+  ]
+}

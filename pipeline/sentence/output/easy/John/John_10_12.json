@@ -1,0 +1,91 @@
+{
+  "verse_reference": "John 10:12",
+  "version": "EASY",
+  "original_text": "Another man may take care of sheep so that he gets money. But the sheep do not belong to him. A man like that is not the shepherd. If a wolf comes, a man like that runs away when he sees it. He leaves the sheep in danger. Then the wolf attacks the sheep. It causes them to run away in all directions.",
+  "korean_text": "삯꾼은 목자가 아니요 양도 제 양이 아니라 이리가 오는 것을 보면 양을 버리고 달아나나니 이리가 양을 물어 가고 또 헤치느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Another man may take care of sheep",
+      "korean_translation": "다른 사람이 양을 돌볼 수 있습니다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that he gets money",
+      "korean_translation": "그래서 돈을 받습니다",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But the sheep do not belong to him",
+      "korean_translation": "하지만 양들은 그의 소유가 아닙니다",
+      "word_indices": [
+        45,
+        125
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "A man like that is not the shepherd",
+      "korean_translation": "그런 사람은 목자가 아닙니다",
+      "word_indices": [
+        403
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If a wolf comes",
+      "korean_translation": "만약 늑대가 오면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "a man like that runs away",
+      "korean_translation": "그런 사람은 도망갑니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "when he sees it",
+      "korean_translation": "그것을 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "He leaves the sheep in danger",
+      "korean_translation": "그는 양들을 위험에 남겨둡니다",
+      "word_indices": [
+        125,
+        558
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "Then the wolf attacks the sheep",
+      "korean_translation": "그러면 늑대가 양들을 공격합니다",
+      "word_indices": [
+        62,
+        125
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "It causes them to run away",
+      "korean_translation": "그것은 그들이 도망치게 만듭니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 11,
+      "original_text": "in all directions",
+      "korean_translation": "사방으로 흩어져서",
+      "word_indices": [
+        668
+      ]
+    }
+  ]
+}

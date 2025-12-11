@@ -1,0 +1,54 @@
+{
+  "verse_reference": "1 Samuel 30:20",
+  "version": "EASY",
+  "original_text": "David took all the sheep, goats and cows from the Amalekites. His men led these animals in front of the other animals. They said, ‘These animals will belong to David!’",
+  "korean_text": "다윗이 또 양 떼와 소 떼를 다 되찾았더니 무리가 그 가축들을 앞에 몰고 가며 이르되 이는 다윗의 전리품이라 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David took all the sheep, goats and cows",
+      "korean_translation": "다윗이 모든 양과 염소와 소를 가져갔다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the Amalekites",
+      "korean_translation": "아말렉 사람들로부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "His men led these animals",
+      "korean_translation": "그의 사람들은 이 동물들을 이끌었다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in front of the other animals",
+      "korean_translation": "다른 동물들 앞에",
+      "word_indices": [
+        48,
+        123
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "These animals will belong to David",
+      "korean_translation": "이 동물들은 다윗에게 속할 것이다",
+      "word_indices": [
+        45,
+        48
+      ]
+    }
+  ]
+}

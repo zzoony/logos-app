@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Mark 4:39",
+  "version": "EASY",
+  "original_text": "Jesus woke up and he spoke strongly to the wind and to the water. ‘Be quiet!’ he said. ‘Stop!’ Then the wind stopped and the water became quiet again.",
+  "korean_text": "예수께서 깨어 바람을 꾸짖으시며 바다더러 이르시되 잠잠하라 고요하라 하시니 바람이 그치고 아주 잔잔하여지더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus woke up",
+      "korean_translation": "예수께서 깨어나셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he spoke strongly to the wind",
+      "korean_translation": "그리고 바람에게 강하게 말씀하셨다",
+      "word_indices": [
+        303,
+        491
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to the water",
+      "korean_translation": "물에게도 말씀하셨다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Be quiet!' he said",
+      "korean_translation": "'조용히 하라!' 그가 말씀하셨다",
+      "word_indices": [
+        550
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'Stop!'",
+      "korean_translation": "'그쳐라!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then the wind stopped",
+      "korean_translation": "그러자 바람이 그쳤다",
+      "word_indices": [
+        303
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and the water became quiet again",
+      "korean_translation": "물은 다시 고요해졌다",
+      "word_indices": [
+        60,
+        550
+      ]
+    }
+  ]
+}

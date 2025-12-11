@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Kings 15:32",
+  "version": "EASY",
+  "original_text": "There was always a war between the armies of King Asa and King Nadab.",
+  "korean_text": "아사와 이스라엘의 바아사 왕 사이에 일생 동안 전쟁이 있으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There was always a war",
+      "korean_translation": "항상 전쟁이 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "between the armies of King Asa",
+      "korean_translation": "아사 왕의 군대와",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and King Nadab",
+      "korean_translation": "나답 왕의 군대 사이에",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

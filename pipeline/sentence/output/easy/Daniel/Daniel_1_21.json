@@ -1,0 +1,22 @@
+{
+  "verse_reference": "Daniel 1:21",
+  "version": "EASY",
+  "original_text": "And Daniel lived in Babylon until the year when Cyrus became king.",
+  "korean_text": "다니엘은 고레스 왕 원년까지 있으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And Daniel lived in Babylon",
+      "korean_translation": "그리고 다니엘은 바빌론에 살았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "until the year when Cyrus became king",
+      "korean_translation": "고레스가 왕이 되던 해까지",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

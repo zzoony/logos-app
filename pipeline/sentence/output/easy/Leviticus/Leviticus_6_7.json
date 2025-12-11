@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Leviticus 6:7",
+  "version": "EASY",
+  "original_text": "The priest will give the sheep to the Lord. It is an atonement for the wrong things that the person has done. Then the Lord will forgive the person.’",
+  "korean_text": "제사장은 여호와 앞에서 그를 위하여 속죄한즉 그는 무슨 허물이든지 사함을 받으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest will give the sheep to the Lord",
+      "korean_translation": "제사장은 주님께 그 양을 드릴 것입니다",
+      "word_indices": [
+        2,
+        4,
+        32,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is an atonement",
+      "korean_translation": "그것은 속죄입니다",
+      "word_indices": [
+        809
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the wrong things that the person has done",
+      "korean_translation": "그 사람이 저지른 잘못된 일들에 대한",
+      "word_indices": [
+        24,
+        71
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then the Lord will forgive the person",
+      "korean_translation": "그러면 주님께서 그 사람을 용서하실 것입니다",
+      "word_indices": [
+        2,
+        24,
+        227
+      ]
+    }
+  ]
+}

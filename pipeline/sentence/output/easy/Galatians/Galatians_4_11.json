@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Galatians 4:11",
+  "version": "EASY",
+  "original_text": "I am afraid about you. I worked very much to help you. I do not want my work to have no results.",
+  "korean_text": "내가 너희를 위하여 수고한 것이 헛될까 두려워하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am afraid about you.",
+      "korean_translation": "나는 당신에 대해 걱정하고 있습니다.",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I worked very much to help you.",
+      "korean_translation": "나는 당신을 돕기 위해 매우 열심히 일했습니다.",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I do not want my work to have no results.",
+      "korean_translation": "나는 내 일이 아무런 결과를 내지 않기를 원치 않습니다.",
+      "word_indices": [
+        35,
+        215
+      ]
+    }
+  ]
+}

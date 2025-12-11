@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Exodus 16:25",
+  "version": "EASY",
+  "original_text": "Moses said, ‘Eat the food today, because this day is a Sabbath day, to worship the Lord. You will not find any food on the ground today.",
+  "korean_text": "모세가 이르되 오늘은 그것을 먹으라 오늘은 여호와의 안식일인즉 오늘은 너희가 들에서 그것을 얻지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses said",
+      "korean_translation": "모세가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Eat the food today",
+      "korean_translation": "오늘 그 음식을 먹으라",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because this day is a Sabbath day",
+      "korean_translation": "이 날은 안식일이기 때문이다",
+      "word_indices": [
+        484
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to worship the Lord",
+      "korean_translation": "주를 경배하기 위하여",
+      "word_indices": [
+        2,
+        89
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will not find any food on the ground today",
+      "korean_translation": "너희는 오늘 땅에서 어떤 음식도 찾지 못할 것이다",
+      "word_indices": [
+        131,
+        233
+      ]
+    }
+  ]
+}

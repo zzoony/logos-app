@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Luke 1:20",
+  "version": "EASY",
+  "original_text": "Now listen to me. Because you did not believe my message, you will not be able to speak. You will not speak again until the time that your son is born. My message will really become true at the right time.’",
+  "korean_text": "보라 이 일이 되는 날까지 네가 말 못하는 자가 되어 능히 말을 못하리니 이는 네가 내 말을 믿지 아니함이거니와 때가 이르면 내 말이 이루어지리라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now listen to me.",
+      "korean_translation": "이제 내 말을 들으세요.",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because you did not believe my message,",
+      "korean_translation": "당신이 내 메시지를 믿지 않았기 때문에,",
+      "word_indices": [
+        21,
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you will not be able to speak.",
+      "korean_translation": "당신은 말할 수 없게 될 것입니다.",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You will not speak again",
+      "korean_translation": "당신은 다시 말하지 못할 것입니다.",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until the time that your son is born.",
+      "korean_translation": "당신의 아들이 태어날 때까지.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "My message will really become true",
+      "korean_translation": "나의 메시지는 정말로 사실이 될 것입니다.",
+      "word_indices": [
+        21,
+        69,
+        146
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "at the right time.'",
+      "korean_translation": "적절한 때에.'",
+      "word_indices": [
+        38
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 11:40",
+  "version": "EASY",
+  "original_text": "Jesus said to her, ‘I told you already that you must believe in me. Then you will see how great and how powerful God is.’",
+  "korean_text": "예수께서 이르시되 내 말이 네가 믿으면 하나님의 영광을 보리라 하지 아니하였느냐 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to her",
+      "korean_translation": "예수님께서 그녀에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I told you already",
+      "korean_translation": "내가 이미 너에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you must believe in me",
+      "korean_translation": "너는 나를 믿어야만 한다",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then you will see",
+      "korean_translation": "그러면 너는 볼 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "how great and how powerful God is",
+      "korean_translation": "하나님이 얼마나 위대하고 강력한지를",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

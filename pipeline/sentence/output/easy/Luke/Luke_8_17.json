@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 8:17",
+  "version": "EASY",
+  "original_text": "God hides some things now. But there will be a time when people will see them. God keeps some things secret now. But there will be a time when people will understand those things clearly.",
+  "korean_text": "숨은 것이 장차 드러나지 아니할 것이 없고 감추인 것이 장차 알려지고 나타나지 않을 것이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God hides some things now.",
+      "korean_translation": "하나님은 지금 어떤 것들을 숨기십니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But there will be a time",
+      "korean_translation": "하지만 때가 있을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when people will see them.",
+      "korean_translation": "사람들이 그것들을 볼 때가.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God keeps some things secret now.",
+      "korean_translation": "하나님은 지금 어떤 것들을 비밀로 유지하십니다.",
+      "word_indices": [
+        101,
+        544
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But there will be a time",
+      "korean_translation": "하지만 때가 있을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "when people will understand those things clearly.",
+      "korean_translation": "사람들이 그것들을 분명히 이해할 때가.",
+      "word_indices": [
+        352
+      ]
+    }
+  ]
+}

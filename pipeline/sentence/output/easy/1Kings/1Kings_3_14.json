@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Kings 3:14",
+  "version": "EASY",
+  "original_text": "And if you serve me faithfully, I will also give you a long life. But you must obey my rules and my commands, as your father David did.’",
+  "korean_text": "네가 만일 네 아버지 다윗이 행함 같이 내 길로 행하며 내 법도와 명령을 지키면 내가 또 네 날을 길게 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if you serve me faithfully",
+      "korean_translation": "만약 당신이 나를 충실하게 섬긴다면",
+      "word_indices": [
+        95,
+        582
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will also give you a long life",
+      "korean_translation": "나는 또한 당신에게 긴 생명을 주겠습니다",
+      "word_indices": [
+        4,
+        9,
+        41,
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you must obey my rules and my commands",
+      "korean_translation": "하지만 당신은 나의 규칙과 명령에 순종해야 합니다",
+      "word_indices": [
+        127
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as your father David did",
+      "korean_translation": "당신의 아버지 다윗이 그랬던 것처럼",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

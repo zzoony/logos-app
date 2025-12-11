@@ -1,0 +1,67 @@
+{
+  "verse_reference": "1 Kings 6:6",
+  "version": "EASY",
+  "original_text": "The lowest level of rooms was 2.3 metres wide. The middle level was 2.7 metres wide and the top level was 3.2 metres wide. Each floor was built on wooden beams. The beams rested on stones in the temple walls, so that there were no holes that they cut into the walls.",
+  "korean_text": "하층 다락의 너비는 다섯 규빗이요 중층 다락의 너비는 여섯 규빗이요 셋째 층 다락의 너비는 일곱 규빗이라 성전의 벽 바깥으로 돌아가며 턱을 내어 골방 들보들로 성전의 벽에 박히지 아니하게 하였으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The lowest level of rooms was 2.3 metres wide.",
+      "korean_translation": "가장 낮은 층의 방들은 폭이 2.3미터였습니다.",
+      "word_indices": [
+        466,
+        1040
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The middle level was 2.7 metres wide",
+      "korean_translation": "중간 층은 폭이 2.7미터였으며",
+      "word_indices": [
+        419,
+        466
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the top level was 3.2 metres wide.",
+      "korean_translation": "가장 높은 층은 폭이 3.2미터였습니다.",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Each floor was built on wooden beams.",
+      "korean_translation": "각 층은 목재 보 위에 지어졌습니다.",
+      "word_indices": [
+        699,
+        861
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The beams rested on stones in the temple walls,",
+      "korean_translation": "보들은 성전 벽에 있는 돌 위에 놓여 있었으며,",
+      "word_indices": [
+        49,
+        148,
+        269
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "so that there were no holes",
+      "korean_translation": "그래서 구멍이 없었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that they cut into the walls.",
+      "korean_translation": "그들이 벽에 뚫은.",
+      "word_indices": [
+        148
+      ]
+    }
+  ]
+}

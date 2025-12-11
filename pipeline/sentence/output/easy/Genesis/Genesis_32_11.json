@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Genesis 32:11",
+  "version": "EASY",
+  "original_text": "I pray that you will save me from the power of my brother Esau. I am afraid that he will come and attack me. He may also attack my family.",
+  "korean_text": "내가 주께 간구하오니 내 형의 손에서, 에서의 손에서 나를 건져내시옵소서 내가 그를 두려워함은 그가 와서 나와 내 처자들을 칠까 겁이 나기 때문이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I pray that you will save me",
+      "korean_translation": "나를 구원해 주시기를 기도합니다",
+      "word_indices": [
+        81,
+        147
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the power of my brother Esau",
+      "korean_translation": "내 형 에서의 힘으로부터",
+      "word_indices": [
+        80,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am afraid",
+      "korean_translation": "나는 두렵습니다",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that he will come and attack me",
+      "korean_translation": "그가 와서 나를 공격할 것이라고",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He may also attack my family",
+      "korean_translation": "그는 또한 내 가족도 공격할 수 있습니다",
+      "word_indices": [
+        9,
+        56,
+        62
+      ]
+    }
+  ]
+}

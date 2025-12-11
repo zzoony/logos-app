@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Genesis 8:7",
+  "version": "EASY",
+  "original_text": "He sent a raven to fly away. The raven flew away from the ship and then it returned. It continued to do this until the earth was dry.",
+  "korean_text": "까마귀를 내놓으매 까마귀가 물이 땅에서 마르기까지 날아 왕래하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He sent a raven to fly away",
+      "korean_translation": "그는 까마귀를 날아가도록 보냈습니다",
+      "word_indices": [
+        1051
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The raven flew away from the ship",
+      "korean_translation": "까마귀는 배에서 날아갔습니다",
+      "word_indices": [
+        1051
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and then it returned",
+      "korean_translation": "그리고 돌아왔습니다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It continued to do this",
+      "korean_translation": "그것은 이것을 계속했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until the earth was dry",
+      "korean_translation": "땅이 마를 때까지",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

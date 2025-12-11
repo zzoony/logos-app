@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 2:14",
+  "version": "EASY",
+  "original_text": "So Joseph got up and he took the child and his mother with him. They started on the journey to Egypt that night.",
+  "korean_text": "요셉이 일어나서 밤에 아기와 그의 어머니를 데리고 애굽으로 떠나가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Joseph got up",
+      "korean_translation": "요셉은 일어났다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he took the child and his mother with him",
+      "korean_translation": "그리고 아이와 어머니를 데려갔다",
+      "word_indices": [
+        65,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They started on the journey to Egypt",
+      "korean_translation": "그들은 애굽으로의 여정을 시작했다",
+      "word_indices": [
+        222,
+        427
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that night",
+      "korean_translation": "그날 밤에",
+      "word_indices": [
+        211
+      ]
+    }
+  ]
+}

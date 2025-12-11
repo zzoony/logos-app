@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 15:14",
+  "version": "EASY",
+  "original_text": "But Samuel said, ‘If that is true, why can I hear the noise of sheep and cows?’",
+  "korean_text": "사무엘이 이르되 그러면 내 귀에 들려오는 이 양의 소리와 내게 들리는 소의 소리는 어찌 됨이니이까 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Samuel said",
+      "korean_translation": "하지만 사무엘이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If that is true",
+      "korean_translation": "만약 그것이 사실이라면",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "why can I hear",
+      "korean_translation": "내가 어떻게 들을 수 있습니까",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the noise of sheep and cows",
+      "korean_translation": "양과 소의 소리를",
+      "word_indices": [
+        125,
+        290
+      ]
+    }
+  ]
+}

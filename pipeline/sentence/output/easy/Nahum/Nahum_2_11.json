@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Nahum 2:11",
+  "version": "EASY",
+  "original_text": "The home of the lions has gone. The place where they fed their young lions has gone. This was the place where whole families of lions once lived. It is here where their young lions were not afraid.",
+  "korean_text": "이제 사자의 굴이 어디냐 젊은 사자가 먹을 곳이 어디냐 전에는 수사자 암사자가 그 새끼 사자와 함께 거기서 다니되 그것들을 두렵게 할 자가 없었으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The home of the lions has gone",
+      "korean_translation": "사자의 집이 사라졌다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The place where they fed their young lions has gone",
+      "korean_translation": "그들이 새끼 사자에게 먹이를 주던 곳이 사라졌다",
+      "word_indices": [
+        16,
+        108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This was the place where whole families of lions once lived",
+      "korean_translation": "이곳은 사자 온 가족이 한때 살던 곳이었다",
+      "word_indices": [
+        16,
+        56,
+        169
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is here where their young lions were not afraid",
+      "korean_translation": "바로 이곳에서 그들의 새끼 사자들은 두려워하지 않았다",
+      "word_indices": [
+        96,
+        108
+      ]
+    }
+  ]
+}

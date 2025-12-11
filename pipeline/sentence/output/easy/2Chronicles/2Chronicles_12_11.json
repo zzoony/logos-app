@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Chronicles 12:11",
+  "version": "EASY",
+  "original_text": "Every time that the king went to the Lord's temple, the guards carried the shields. After that, they took them back to the guards' room where they stored them.",
+  "korean_text": "왕이 여호와의 전에 들어갈 때마다 경호하는 자가 그 방패를 들고 갔다가 경호실로 도로 가져갔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every time that the king went to the Lord's temple",
+      "korean_translation": "왕이 주의 성전에 갈 때마다",
+      "word_indices": [
+        2,
+        3,
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the guards carried the shields",
+      "korean_translation": "경비병들이 방패를 들고 다녔다",
+      "word_indices": [
+        283,
+        583
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "After that",
+      "korean_translation": "그 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they took them back to the guards' room",
+      "korean_translation": "그것들을 경비병의 방으로 가져갔다",
+      "word_indices": [
+        283
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "where they stored them",
+      "korean_translation": "그곳에서 그것들을 보관했다",
+      "word_indices": []
+    }
+  ]
+}

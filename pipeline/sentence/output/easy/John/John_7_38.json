@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 7:38",
+  "version": "EASY",
+  "original_text": "It says in the Bible, “God will cause streams of water to pour out from anyone who believes in me. Water that gives life will come out from inside that person.” ’",
+  "korean_text": "나를 믿는 자는 성경에 이름과 같이 그 배에서 생수의 강이 흘러나오리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It says in the Bible",
+      "korean_translation": "성경에 말씀하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God will cause streams of water to pour out",
+      "korean_translation": "하나님께서 물이 흘러나오게 하시리라",
+      "word_indices": [
+        30,
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from anyone who believes in me",
+      "korean_translation": "나를 믿는 사람에게서",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Water that gives life",
+      "korean_translation": "생명을 주는 물이",
+      "word_indices": [
+        4,
+        41,
+        60
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will come out from inside that person",
+      "korean_translation": "그 사람 안에서 흘러나올 것이라",
+      "word_indices": [
+        24,
+        252
+      ]
+    }
+  ]
+}

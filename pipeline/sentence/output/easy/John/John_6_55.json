@@ -1,0 +1,26 @@
+{
+  "verse_reference": "John 6:55",
+  "version": "EASY",
+  "original_text": "My body is the true food and my blood is the true drink.",
+  "korean_text": "내 살은 참된 양식이요 내 피는 참된 음료로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My body is the true food",
+      "korean_translation": "내 몸은 참된 양식이며",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and my blood is the true drink",
+      "korean_translation": "내 피는 참된 음료니라",
+      "word_indices": [
+        69,
+        118,
+        221
+      ]
+    }
+  ]
+}

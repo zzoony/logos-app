@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Timothy 2:12",
+  "version": "EASY",
+  "original_text": "I do not let a woman teach men. I do not let a woman have authority over men. Instead, she should listen quietly.",
+  "korean_text": "여자가 가르치는 것과 남자를 주관하는 것을 허락하지 아니하노니 오직 조용할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I do not let a woman teach men",
+      "korean_translation": "나는 여자가 남자들을 가르치는 것을 허락하지 않는다",
+      "word_indices": [
+        46,
+        87
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I do not let a woman have authority over men",
+      "korean_translation": "나는 여자가 남자들 위에 권위를 갖는 것을 허락하지 않는다",
+      "word_indices": [
+        46,
+        110
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Instead, she should listen quietly",
+      "korean_translation": "대신, 그녀는 조용히 들어야 한다",
+      "word_indices": [
+        63,
+        815
+      ]
+    }
+  ]
+}

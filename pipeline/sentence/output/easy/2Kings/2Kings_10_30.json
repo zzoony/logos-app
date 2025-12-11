@@ -1,0 +1,61 @@
+{
+  "verse_reference": "2 Kings 10:30",
+  "version": "EASY",
+  "original_text": "The Lord said to Jehu, ‘You have done well. You have done the things that I say are right. You have punished Ahab's family in the way that I wanted. So your descendants will be kings of Israel for four generations.’",
+  "korean_text": "여호와께서 예후에게 이르시되 네가 나보기에 정직한 일을 행하되 잘 행하여 내 마음에 있는 대로 아합 집에 다 행하였은즉 네 자손이 이스라엘 왕위를 이어 사대를 지내리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Jehu",
+      "korean_translation": "주께서 여후에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have done well",
+      "korean_translation": "네가 잘했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You have done the things that I say are right",
+      "korean_translation": "네가 내가 옳다고 하는 것들을 행했다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have punished Ahab's family",
+      "korean_translation": "네가 아합의 가족을 벌했다",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the way that I wanted",
+      "korean_translation": "내가 원했던 방식으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So your descendants will be kings of Israel",
+      "korean_translation": "그러므로 네 자손들이 이스라엘의 왕이 될 것이다",
+      "word_indices": [
+        3,
+        75
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "for four generations",
+      "korean_translation": "사 대에 걸쳐",
+      "word_indices": [
+        1011
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Kings 11:5",
+  "version": "EASY",
+  "original_text": "Solomon worshipped Ashtoreth, the female god of the Sidonian people. He also worshipped Molech, the wicked god of the Ammonite people.",
+  "korean_text": "이는 시돈 사람의 여신 아스다롯을 따르고 암몬 사람의 가증한 밀곰을 따름이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon worshipped Ashtoreth",
+      "korean_translation": "솔로몬은 아스다롯을 숭배했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the female god of the Sidonian people",
+      "korean_translation": "시돈 사람들의 여신",
+      "word_indices": [
+        455
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He also worshipped Molech",
+      "korean_translation": "그는 또한 몰렉을 숭배했습니다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the wicked god of the Ammonite people",
+      "korean_translation": "암몬 사람들의 사악한 신",
+      "word_indices": []
+    }
+  ]
+}

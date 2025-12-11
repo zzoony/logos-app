@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 21:22",
+  "version": "EASY",
+  "original_text": "Jesus answered him, ‘Perhaps I might want him to live until I return to this earth. But that should not matter to you. You must follow me!’",
+  "korean_text": "예수께서 이르시되 내가 올 때까지 그를 머물게 하고자 할지라도 네게 무슨 상관이냐 너는 나를 따르라 하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered him",
+      "korean_translation": "예수님께서 그에게 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Perhaps I might want him",
+      "korean_translation": "아마도 내가 그를 원할 수도 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to live until I return",
+      "korean_translation": "내가 돌아올 때까지 살도록",
+      "word_indices": [
+        8,
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to this earth",
+      "korean_translation": "이 땅으로",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But that should not matter to you",
+      "korean_translation": "하지만 그것이 당신에게는 중요하지 않다",
+      "word_indices": [
+        818
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You must follow me",
+      "korean_translation": "당신은 나를 따라야 한다",
+      "word_indices": [
+        388
+      ]
+    }
+  ]
+}

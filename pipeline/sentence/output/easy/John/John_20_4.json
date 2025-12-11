@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 20:4",
+  "version": "EASY",
+  "original_text": "Both of them were running. But the other disciple ran faster than Peter ran. So he reached the hole first.",
+  "korean_text": "둘이 같이 달음질하더니 그 다른 제자가 베드로보다 더 빨리 달려가서 먼저 무덤에 이르러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Both of them were running",
+      "korean_translation": "그 둘 모두 달리고 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But the other disciple ran faster",
+      "korean_translation": "하지만 다른 제자가 더 빨리 달렸다",
+      "word_indices": [
+        155,
+        1086
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "than Peter ran",
+      "korean_translation": "베드로가 달린 것보다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So he reached the hole first",
+      "korean_translation": "그래서 그가 먼저 무덤에 도착했다",
+      "word_indices": [
+        449
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Daniel 2:15",
+  "version": "EASY",
+  "original_text": "Daniel said to Arioch, ‘Why is the king's command so cruel?’ Then Arioch explained everything to Daniel.",
+  "korean_text": "왕의 근위대장 아리옥에게 물어 이르되 왕의 명령이 어찌 그리 급하냐 하니 아리옥이 그 일을 다니엘에게 알리매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Daniel said to Arioch",
+      "korean_translation": "다니엘이 아리옥에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why is the king's command so cruel?",
+      "korean_translation": "왕의 명령이 어찌如此残忍한가?",
+      "word_indices": [
+        3,
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then Arioch explained everything to Daniel",
+      "korean_translation": "그 후 아리옥은 다니엘에게 모든 것을 설명했다",
+      "word_indices": [
+        446
+      ]
+    }
+  ]
+}

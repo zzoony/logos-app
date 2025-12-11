@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 13:8",
+  "version": "EASY",
+  "original_text": "Peter said, ‘No! You will never wash my feet!’ Jesus answered, ‘If I do not wash you, you do not belong with me.’",
+  "korean_text": "베드로가 이르되 내 발을 절대로 씻지 못하시리이다 예수께서 대답하시되 내가 너를 씻어 주지 아니하면 네가 나와 상관이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter said,",
+      "korean_translation": "베드로가 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'No!'",
+      "korean_translation": "'안돼요!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will never wash my feet!'",
+      "korean_translation": "당신은 결코 제 발을 씻지 못할 겁니다!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus answered,",
+      "korean_translation": "예수께서 대답하셨습니다,",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'If I do not wash you,'",
+      "korean_translation": "'내가 당신을 씻지 않으면,'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you do not belong with me.'",
+      "korean_translation": "당신은 나와 함께할 수 없습니다.'",
+      "word_indices": [
+        45
+      ]
+    }
+  ]
+}

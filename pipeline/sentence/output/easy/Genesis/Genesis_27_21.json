@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 27:21",
+  "version": "EASY",
+  "original_text": "Isaac said to Jacob, ‘Come near to me so that I can touch you, my son. Then I will know if you really are my son Esau.’",
+  "korean_text": "이삭이 야곱에게 이르되 내 아들아 가까이 오라 네가 과연 내 아들 에서인지 아닌지 내가 너를 만져보려 하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Isaac said to Jacob",
+      "korean_translation": "이삭이 야곱에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Come near to me",
+      "korean_translation": "내게 가까이 오너라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that I can touch you",
+      "korean_translation": "내가 너를 만질 수 있도록",
+      "word_indices": [
+        348
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my son",
+      "korean_translation": "내 아들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then I will know",
+      "korean_translation": "그러면 내가 알겠다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "if you really are my son Esau",
+      "korean_translation": "너가 정말 내 아들 에서인지",
+      "word_indices": [
+        146
+      ]
+    }
+  ]
+}

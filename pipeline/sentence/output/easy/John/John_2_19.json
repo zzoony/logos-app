@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 2:19",
+  "version": "EASY",
+  "original_text": "Jesus answered them, ‘If you destroy this house of God, I will build it up again in three days.’",
+  "korean_text": "예수께서 대답하여 이르시되 너희가 이 성전을 헐라 내가 사흘 동안에 일으키리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered them",
+      "korean_translation": "예수님께서 그들에게 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If you destroy this house of God",
+      "korean_translation": "만약 너희가 이 하나님의 집을 허물면",
+      "word_indices": [
+        39,
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will build it up again",
+      "korean_translation": "내가 그것을 다시 세우겠다",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in three days",
+      "korean_translation": "사흘 안에",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Deuteronomy 11:15",
+  "version": "EASY",
+  "original_text": "I will make grass grow in your fields for your animals to eat. You will have as much food as you want to eat.’",
+  "korean_text": "또 가축을 위하여 들에 풀이 나게 하시리니 네가 먹고 배부를 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will make grass grow in your fields",
+      "korean_translation": "내가 너희 밭에 풀이 자라게 하리라",
+      "word_indices": [
+        152,
+        156
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for your animals to eat",
+      "korean_translation": "너희 가축이 먹도록",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will have as much food as you want to eat",
+      "korean_translation": "너희가 먹고 싶은 만큼 음식을 얻게 될 것이다",
+      "word_indices": []
+    }
+  ]
+}

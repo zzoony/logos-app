@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Ezekiel 1:10",
+  "version": "EASY",
+  "original_text": "This is what their faces looked like: Each of the living things had four faces. There was a human face at the front. There was a lion's face on the right side. There was a bull's face on the left side. Each of them also had the face of an eagle.",
+  "korean_text": "그 얼굴들의 모양은 넷의 앞은 사람의 얼굴이요 넷의 오른쪽은 사자의 얼굴이요 넷의 왼쪽은 소의 얼굴이요 넷의 뒤는 독수리의 얼굴이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what their faces looked like:",
+      "korean_translation": "그들의 얼굴은 이렇게 생겼습니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Each of the living things had four faces.",
+      "korean_translation": "각 생물은 네 개의 얼굴을 가지고 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was a human face at the front.",
+      "korean_translation": "앞에는 사람의 얼굴이 있었습니다.",
+      "word_indices": [
+        123,
+        299,
+        350
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "There was a lion's face on the right side.",
+      "korean_translation": "오른쪽에는 사자의 얼굴이 있었습니다.",
+      "word_indices": [
+        38,
+        299
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "There was a bull's face on the left side.",
+      "korean_translation": "왼쪽에는 소의 얼굴이 있었습니다.",
+      "word_indices": [
+        299
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Each of them also had the face of an eagle.",
+      "korean_translation": "그들 각각은 또한 독수리의 얼굴도 가지고 있었습니다.",
+      "word_indices": [
+        9,
+        299,
+        686
+      ]
+    }
+  ]
+}

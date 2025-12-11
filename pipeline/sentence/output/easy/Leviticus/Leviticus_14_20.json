@@ -1,0 +1,72 @@
+{
+  "verse_reference": "Leviticus 14:20",
+  "version": "EASY",
+  "original_text": "The priest must sacrifice the dead animal. It is a burnt offering. The priest must offer it on the altar. He must burn the flour and the oil with it on the altar. All this will make atonement for the person. This makes the person who had the disease clean.",
+  "korean_text": "제사장은 그 번제와 소제를 제단에 드려 그를 위하여 속죄할 것이라 그리하면 그가 정결하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest must sacrifice the dead animal.",
+      "korean_translation": "제사장은 죽은 동물을 제물로 바쳐야 합니다.",
+      "word_indices": [
+        32,
+        48,
+        126,
+        133
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is a burnt offering.",
+      "korean_translation": "그것은 번제물입니다.",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The priest must offer it on the altar.",
+      "korean_translation": "제사장은 그것을 제단上面에 바쳐야 합니다.",
+      "word_indices": [
+        32,
+        55,
+        119
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He must burn the flour and the oil with it",
+      "korean_translation": "그는 그것과 함께 밀가루와 기름을 태워야 합니다.",
+      "word_indices": [
+        435
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the altar.",
+      "korean_translation": "제단上面에서.",
+      "word_indices": [
+        119
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "All this will make atonement for the person.",
+      "korean_translation": "이 모든 것이 그 사람을 위해 속죄를 이룰 것입니다.",
+      "word_indices": [
+        24,
+        809
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "This makes the person who had the disease clean.",
+      "korean_translation": "이것은 질병을 앓았던 사람을 깨끗하게 만듭니다.",
+      "word_indices": [
+        24,
+        184,
+        340
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Judges 19:28",
+  "version": "EASY",
+  "original_text": "He said to her, ‘Get up. It is time to go!’ But she did not answer. Then he put her on his donkey and he started on his way home.",
+  "korean_text": "그에게 이르되 일어나라 우리가 떠나가자 하나 아무 대답이 없는지라 이에 그의 시체를 나귀에 싣고 행하여 자기 곳에 돌아가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to her",
+      "korean_translation": "그가 그녀에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Get up",
+      "korean_translation": "일어나라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is time to go",
+      "korean_translation": "떠날 시간이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But she did not answer",
+      "korean_translation": "하지만 그녀는 대답하지 않았다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then he put her on his donkey",
+      "korean_translation": "그때 그는 그녀를 자기 나귀에 태웠다",
+      "word_indices": [
+        310
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and he started on his way home",
+      "korean_translation": "그리고 집으로 가는 길을 떠났다",
+      "word_indices": [
+        222
+      ]
+    }
+  ]
+}

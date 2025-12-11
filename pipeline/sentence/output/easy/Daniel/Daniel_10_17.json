@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Daniel 10:17",
+  "version": "EASY",
+  "original_text": "I am your servant, sir. I am too weak to speak with you. It is difficult for me to breathe.’",
+  "korean_text": "내 몸에 힘이 없어졌고 호흡이 남지 아니하였사오니 내 주의 이 종이 어찌 능히 내 주와 더불어 말씀할 수 있으리이까 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am your servant, sir.",
+      "korean_translation": "저는 당신의 종입니다, 주인님.",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am too weak to speak with you.",
+      "korean_translation": "저는 당신과 말하기에 너무 약합니다.",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is difficult for me to breathe.",
+      "korean_translation": "제가 숨쉬기가 어렵습니다.",
+      "word_indices": [
+        440,
+        881
+      ]
+    }
+  ]
+}

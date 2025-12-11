@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 Kings 3:13",
+  "version": "EASY",
+  "original_text": "I will give you even more than this. I will make you rich and famous, even though you did not ask for that. As long as you live, there will be no other king who is greater than you.",
+  "korean_text": "내가 또 네가 구하지 아니한 부귀와 영광도 네게 주노니 네 평생에 왕들 중에 너와 같은 자가 없을 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will give you even more than this.",
+      "korean_translation": "나는 너에게 이것보다 더 많은 것을 주겠다.",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will make you rich and famous,",
+      "korean_translation": "나는 너를 부유하고 유명하게 만들 것이며,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even though you did not ask for that.",
+      "korean_translation": "네가 그것을 요청하지 않았음에도 불구하고.",
+      "word_indices": [
+        923
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "As long as you live,",
+      "korean_translation": "네가 사는 한,",
+      "word_indices": [
+        8,
+        134
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "there will be no other king",
+      "korean_translation": "다른 왕은 없을 것이다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who is greater than you.",
+      "korean_translation": "너보다 더 위대한.",
+      "word_indices": [
+        561
+      ]
+    }
+  ]
+}

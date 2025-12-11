@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Acts 20:29",
+  "version": "EASY",
+  "original_text": "I know that trouble will come to you after I leave. Bad people will come to teach you. They will cause trouble for the believers, like dangerous wild animals that attack sheep.",
+  "korean_text": "내가 떠난 후에 사나운 이리가 여러분에게 들어와서 그 양 떼를 아끼지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that trouble will come to you",
+      "korean_translation": "나는 너희에게 환란이 올 것을 안다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "after I leave",
+      "korean_translation": "내가 떠난 후에",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Bad people will come to teach you",
+      "korean_translation": "악한 사람들이 너희를 가르치기 위해 올 것이다",
+      "word_indices": [
+        87
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They will cause trouble for the believers",
+      "korean_translation": "그들은 믿는 자들에게 환란을 일으킬 것이다",
+      "word_indices": [
+        30,
+        185
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "like dangerous wild animals",
+      "korean_translation": "위험한 들짐승처럼",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that attack sheep",
+      "korean_translation": "양을 공격하는",
+      "word_indices": [
+        62,
+        125
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "verse_reference": "1 Kings 20:13",
+  "version": "EASY",
+  "original_text": "Then a prophet came to Ahab, the king of Israel. He said, ‘The Lord says this to you: “Look at Ben-Hadad's great army! Today I will put them under your power. Then you will know that I am the Lord.” ’",
+  "korean_text": "한 선지자가 이스라엘의 아합 왕에게 나아가서 이르되 여호와의 말씀이 네가 이 큰 무리를 보느냐 내가 오늘 그들을 네 손에 넘기리니 너는 내가 여호와인 줄을 알리라 하셨나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then a prophet came to Ahab",
+      "korean_translation": "그때 한 선지자가 아합에게 왔다",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king of Israel",
+      "korean_translation": "이스라엘 왕",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Lord says this to you",
+      "korean_translation": "주께서 너에게 이렇게 말씀하신다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Look at Ben-Hadad's great army",
+      "korean_translation": "벤하닷의 큰 군대를 보아라",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Today I will put them under your power",
+      "korean_translation": "오늘 내가 그들을 너의 권세 아래 두리라",
+      "word_indices": [
+        80,
+        233
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then you will know that I am the Lord",
+      "korean_translation": "그러면 너는 내가 주인 줄 알리라",
+      "word_indices": [
+        2,
+        12
+      ]
+    }
+  ]
+}

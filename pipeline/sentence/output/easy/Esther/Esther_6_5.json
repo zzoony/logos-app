@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Esther 6:5",
+  "version": "EASY",
+  "original_text": "The king's servants said to the king, ‘Haman is in the palace yard.’ The king said, ‘Bring him here to me.’",
+  "korean_text": "측근 신하들이 아뢰되 하만이 뜰에 섰나이다 하니 왕이 이르되 들어오게 하라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king's servants said to the king",
+      "korean_translation": "왕의 신하들이 왕에게 말했습니다",
+      "word_indices": [
+        3,
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Haman is in the palace yard",
+      "korean_translation": "하만이 궁정에 있습니다",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The king said",
+      "korean_translation": "왕이 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Bring him here to me",
+      "korean_translation": "그를 내게로 데려오너라",
+      "word_indices": []
+    }
+  ]
+}

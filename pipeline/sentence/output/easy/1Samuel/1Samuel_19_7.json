@@ -1,0 +1,50 @@
+{
+  "verse_reference": "1 Samuel 19:7",
+  "version": "EASY",
+  "original_text": "Then Jonathan called to David. He told David everything that the king had said. Jonathan took David back to Saul. So David served King Saul as he had done before.",
+  "korean_text": "요나단이 다윗을 불러 그 모든 일을 그에게 알리고 요나단이 그를 사울에게로 인도하니 그가 사울 앞에 전과 같이 있었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jonathan called to David",
+      "korean_translation": "그때 요나단이 다윗을 불렀습니다",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He told David everything",
+      "korean_translation": "그는 다윗에게 모든 것을 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the king had said",
+      "korean_translation": "왕이 말했던 모든 것을",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jonathan took David back to Saul",
+      "korean_translation": "요나단은 다윗을 사울에게 데려갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So David served King Saul",
+      "korean_translation": "그래서 다윗은 사울 왕을 섬겼습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "as he had done before",
+      "korean_translation": "이전과 같이",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Numbers 11:5",
+  "version": "EASY",
+  "original_text": "We remember the fish that we ate in Egypt. We had as much as we wanted. And we remember all the nice vegetables, cucumbers, leeks, onions and garlic. And we remember the melons.",
+  "korean_text": "우리가 애굽에 있을 때에는 값없이 생선과 오이와 참외와 부추와 파와 마늘들을 먹은 것이 생각나거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We remember the fish",
+      "korean_translation": "우리는 생선을 기억합니다",
+      "word_indices": [
+        139,
+        517
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that we ate in Egypt",
+      "korean_translation": "우리가 애굽에서 먹었던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We had as much as we wanted",
+      "korean_translation": "우리는 원하는 만큼 가졌습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And we remember all the nice vegetables",
+      "korean_translation": "그리고 우리는 모든 좋은 채소들을 기억합니다",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "cucumbers, leeks, onions and garlic",
+      "korean_translation": "오이, 부추, 양파 그리고 마늘",
+      "word_indices": [
+        1594,
+        1596,
+        1597
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And we remember the melons",
+      "korean_translation": "그리고 우리는 멜론을 기억합니다",
+      "word_indices": [
+        139,
+        1598
+      ]
+    }
+  ]
+}

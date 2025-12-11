@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Romans 16:22",
+  "version": "EASY",
+  "original_text": "I, Tertius, have written down this letter for Paul. I also belong to the Lord and I say ‘hello’ to you.",
+  "korean_text": "이 편지를 기록하는 나 더디오도 주 안에서 너희에게 문안하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, Tertius, have written down this letter",
+      "korean_translation": "나, 데르디오는 이 편지를 썼습니다",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for Paul",
+      "korean_translation": "바울을 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I also belong to the Lord",
+      "korean_translation": "나 또한 주님께 속합니다",
+      "word_indices": [
+        2,
+        9,
+        45
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I say 'hello' to you",
+      "korean_translation": "그리고 여러분에게 '안녕하세요'라고 말합니다",
+      "word_indices": []
+    }
+  ]
+}

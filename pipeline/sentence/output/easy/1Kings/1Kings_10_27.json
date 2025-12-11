@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 10:27",
+  "version": "EASY",
+  "original_text": "While Solomon ruled as king, there was as much silver in Jerusalem as stones! There was as much wood from cedar trees as there were fig trees that grew in the low hills in the west.",
+  "korean_text": "왕이 예루살렘에서 은을 돌 같이 흔하게 하고 백향목을 평지의 뽕나무 같이 많게 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While Solomon ruled as king",
+      "korean_translation": "솔로몬이 왕으로 다스리는 동안",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was as much silver in Jerusalem as stones",
+      "korean_translation": "예루살렘에는 돌만큼 많은 은이 있었다",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was as much wood from cedar trees",
+      "korean_translation": "백향목나무에서 나온 나무만큼 많았다",
+      "word_indices": [
+        239,
+        593
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as there were fig trees that grew in the low hills in the west",
+      "korean_translation": "서쪽 낮은 언덕에 자라는 무화과나무만큼 많았다",
+      "word_indices": [
+        182,
+        383
+      ]
+    }
+  ]
+}

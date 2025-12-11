@@ -1,0 +1,65 @@
+{
+  "verse_reference": "John 15:5",
+  "version": "EASY",
+  "original_text": "I am the vine, and you are the branches. You must continue to live in me and I must continue to live in you. Only if you do that will you make plenty of fruit. That is because you can do nothing without me.",
+  "korean_text": "나는 포도나무요 너희는 가지라 그가 내 안에, 내가 그 안에 거하면 사람이 열매를 많이 맺나니 나를 떠나서는 너희가 아무 것도 할 수 없음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the vine",
+      "korean_translation": "나는 포도나무입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you are the branches",
+      "korean_translation": "너희는 가지입니다",
+      "word_indices": [
+        360
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must continue to live in me",
+      "korean_translation": "너희는 내 안에 계속 살아야 합니다",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I must continue to live in you",
+      "korean_translation": "나도 너희 안에 계속 살아야 합니다",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Only if you do that",
+      "korean_translation": "오직 그렇게 할 때만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will you make plenty of fruit",
+      "korean_translation": "너희는 많은 열매를 맺을 것입니다",
+      "word_indices": [
+        278,
+        451
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "That is because",
+      "korean_translation": "그것은 왜냐하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "you can do nothing without me",
+      "korean_translation": "너희는 나 없이 아무것도 할 수 없기 때문입니다",
+      "word_indices": []
+    }
+  ]
+}

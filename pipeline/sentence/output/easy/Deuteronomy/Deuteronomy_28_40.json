@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Deuteronomy 28:40",
+  "version": "EASY",
+  "original_text": "Olive trees will grow everywhere in your land, but you will never use any oil from them. The olives will drop off the trees before they are ready to pick.",
+  "korean_text": "네 모든 경내에 감람나무가 있을지라도 그 열매가 떨어지므로 그 기름을 네 몸에 바르지 못할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Olive trees will grow everywhere in your land",
+      "korean_translation": "올리브 나무가 네 땅 모든 곳에서 자라겠지만",
+      "word_indices": [
+        14,
+        156,
+        358
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you will never use any oil from them",
+      "korean_translation": "너는 그들에게서 어떤 기름도 결코 사용하지 못할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The olives will drop off the trees",
+      "korean_translation": "올리브가 나무에서 떨어질 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before they are ready to pick",
+      "korean_translation": "따기 준비가 되기 전에",
+      "word_indices": [
+        163
+      ]
+    }
+  ]
+}

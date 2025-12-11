@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 5:31",
+  "version": "EASY",
+  "original_text": "If I say great things about myself, nobody would know that my words are true.",
+  "korean_text": "내가 만일 나를 위하여 증언하면 내 증언은 참되지 아니하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I say great things about myself",
+      "korean_translation": "만약 내가 내 자신에 대해 위대한 것들을 말한다면",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nobody would know",
+      "korean_translation": "아무도 알지 못할 것이다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that my words are true",
+      "korean_translation": "나의 말들이 진실이라는 것을",
+      "word_indices": [
+        69,
+        128
+      ]
+    }
+  ]
+}

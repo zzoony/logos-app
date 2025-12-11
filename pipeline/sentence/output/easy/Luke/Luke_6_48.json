@@ -1,0 +1,79 @@
+{
+  "verse_reference": "Luke 6:48",
+  "version": "EASY",
+  "original_text": "This man dug down in the ground to the rock. He put the first line of stones on the rock. After that, he built the house on top of the rock. Then a storm came and it brought a lot of water. The water hit the house but it could not move it. The water could not move the house because the man had built it very well.",
+  "korean_text": "집을 짓되 깊이 파고 주추를 반석 위에 놓은 사람과 같으니 큰 물이 나서 탁류가 그 집에 부딪치되 잘 지었기 때문에 능히 요동하지 못하게 하였거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This man dug down in the ground to the rock.",
+      "korean_translation": "이 사람은 땅을 파서 바위까지 갔다.",
+      "word_indices": [
+        279
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He put the first line of stones on the rock.",
+      "korean_translation": "그는 바위 위에 첫 번째 돌들을 놓았다.",
+      "word_indices": [
+        279
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "After that, he built the house on top of the rock.",
+      "korean_translation": "그 후에, 그는 바위 위에 집을 지었다.",
+      "word_indices": [
+        67,
+        279
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then a storm came",
+      "korean_translation": "그때 폭풍이 왔다",
+      "word_indices": [
+        483
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and it brought a lot of water.",
+      "korean_translation": "그리고 많은 물을 가져왔다.",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The water hit the house",
+      "korean_translation": "물이 집을 덮쳤다",
+      "word_indices": [
+        60,
+        67
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "but it could not move it.",
+      "korean_translation": "하지만 집을 움직일 수 없었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "The water could not move the house",
+      "korean_translation": "물은 집을 움직일 수 없었다",
+      "word_indices": [
+        60,
+        67
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "because the man had built it very well.",
+      "korean_translation": "그 사람이 집을 아주 잘 지었기 때문이다.",
+      "word_indices": []
+    }
+  ]
+}

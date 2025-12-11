@@ -1,0 +1,83 @@
+{
+  "verse_reference": "2 Kings 8:6",
+  "version": "EASY",
+  "original_text": "The king asked the woman about it. She told him what had happened. Then the king commanded one of his officers to take care of her. The king said to him, ‘This woman must receive back everything that belongs to her. She must also receive the value of all the crops that have grown in her fields since the day that she went away.’",
+  "korean_text": "왕이 그 여인에게 물으매 여인이 설명한지라 왕이 그를 위하여 한 관리를 임명하여 이르되 이 여인에게 속한 모든 것과 이 땅에서 떠날 때부터 이제까지 그의 밭의 소출을 다 돌려 주라 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king asked the woman about it.",
+      "korean_translation": "왕이 그 여인에게 그것에 대하여 물었다.",
+      "word_indices": [
+        3,
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She told him what had happened.",
+      "korean_translation": "그녀는 일어난 일을 그에게 말했다.",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the king commanded one of his officers",
+      "korean_translation": "그때 왕은 그의 관리 중 한 명에게 명령했다.",
+      "word_indices": [
+        3,
+        98,
+        127
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to take care of her.",
+      "korean_translation": "그녀를 돌보도록.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The king said to him,",
+      "korean_translation": "왕은 그에게 말했다,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "'This woman must receive back everything that belongs to her.",
+      "korean_translation": "'이 여인은 자신에게 속한 모든 것을 돌려받아야 한다.",
+      "word_indices": [
+        45,
+        46,
+        104
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "She must also receive the value of all the crops",
+      "korean_translation": "그녀는 또한 모든 작물의 가치를 받아야 한다.",
+      "word_indices": [
+        9,
+        104,
+        782
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "that have grown in her fields",
+      "korean_translation": "그녀의 밭에서 자란",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "since the day that she went away.'",
+      "korean_translation": "그녀가 떠난 날부터 이래로.'",
+      "word_indices": []
+    }
+  ]
+}

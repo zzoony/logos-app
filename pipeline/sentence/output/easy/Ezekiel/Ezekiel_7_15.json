@@ -1,0 +1,75 @@
+{
+  "verse_reference": "Ezekiel 7:15",
+  "version": "EASY",
+  "original_text": "The enemy is ready to attack outside the city. Inside the city, there is disease and famine. Enemy soldiers will kill the people who are in the country. Famine and disease will kill everyone who is in the city.",
+  "korean_text": "밖에는 칼이 있고 안에는 전염병과 기근이 있어서 밭에 있는 자는 칼에 죽을 것이요 성읍에 있는 자는 기근과 전염병에 망할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The enemy is ready to attack outside the city",
+      "korean_translation": "적군이 성 밖에서 공격할 준비가 되어 있다",
+      "word_indices": [
+        20,
+        50,
+        62,
+        163,
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Inside the city",
+      "korean_translation": "성 안에는",
+      "word_indices": [
+        20,
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there is disease and famine",
+      "korean_translation": "질병과 기근이 있다",
+      "word_indices": [
+        340,
+        509
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Enemy soldiers will kill the people",
+      "korean_translation": "적군은 사람들을 죽일 것이다",
+      "word_indices": [
+        26,
+        36,
+        50
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who are in the country",
+      "korean_translation": "시골에 있는",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Famine and disease will kill everyone",
+      "korean_translation": "기근과 질병은 모든 사람을 죽일 것이다",
+      "word_indices": [
+        26,
+        97,
+        340,
+        509
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "who is in the city",
+      "korean_translation": "성 안에 있는",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

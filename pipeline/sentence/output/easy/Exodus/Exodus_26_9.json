@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Exodus 26:9",
+  "version": "EASY",
+  "original_text": "Join five of the curtains together to make one set. Fix the other six curtains together to make a second set. Turn the sixth curtain of this set over itself to cover the entrance of the tent.",
+  "korean_text": "그 휘장 다섯 폭을 서로 연결하며 또 여섯 폭을 서로 연결하고 그 여섯째 폭 절반은 성막 전면에 접어 드리우고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Join five of the curtains together",
+      "korean_translation": "휘장 다섯 개를 함께 이어 붙이고",
+      "word_indices": [
+        377
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to make one set",
+      "korean_translation": "한 세트를 만드세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Fix the other six curtains together",
+      "korean_translation": "나머지 여섯 개의 휘장을 함께 고정하여",
+      "word_indices": [
+        377
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to make a second set",
+      "korean_translation": "두 번째 세트를 만드세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Turn the sixth curtain of this set over itself",
+      "korean_translation": "이 세트의 여섯 번째 휘장을 접어서",
+      "word_indices": [
+        72,
+        377,
+        891
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to cover the entrance of the tent",
+      "korean_translation": "장막 입구를 덮으세요",
+      "word_indices": [
+        238,
+        385
+      ]
+    }
+  ]
+}

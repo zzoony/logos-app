@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Leviticus 9:19",
+  "version": "EASY",
+  "original_text": "Aaron took the fat tail, the fat and the kidneys and the best piece of the liver.",
+  "korean_text": "그들이 또 수소와 숫양의 기름과 기름진 꼬리와 내장에 덮인 것과 콩팥과 간 꺼풀을 아론에게로 가져다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Aaron took the fat tail",
+      "korean_translation": "아론은 기름진 꼬리를 가져가고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the fat and the kidneys",
+      "korean_translation": "기름과 콩팥을 가져가며",
+      "word_indices": [
+        1098
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the best piece of the liver",
+      "korean_translation": "간의 가장 좋은 부분도 가져갔습니다",
+      "word_indices": [
+        149,
+        1037
+      ]
+    }
+  ]
+}

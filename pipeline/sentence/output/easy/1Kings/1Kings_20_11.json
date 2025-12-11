@@ -1,0 +1,56 @@
+{
+  "verse_reference": "1 Kings 20:11",
+  "version": "EASY",
+  "original_text": "The king of Israel replied, ‘Tell King Ben-Hadad, “Do not boast when you are preparing for a battle. Wait until the battle has finished and you know that you have won.” ’",
+  "korean_text": "이스라엘 왕이 대답하여 이르되 갑옷 입는 자가 갑옷 벗는 자 같이 자랑하지 못할 것이라 하라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of Israel replied",
+      "korean_translation": "이스라엘 왕이 대답했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tell King Ben-Hadad",
+      "korean_translation": "벤하닷 왕에게 전하라",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not boast",
+      "korean_translation": "자랑하지 말라",
+      "word_indices": [
+        678
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when you are preparing for a battle",
+      "korean_translation": "너가 전투를 준비할 때",
+      "word_indices": [
+        205
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Wait until the battle has finished",
+      "korean_translation": "전투가 끝날 때까지 기다려라",
+      "word_indices": [
+        205
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and you know that you have won",
+      "korean_translation": "그리고 네가 이겼다는 것을 알게 될 때까지",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

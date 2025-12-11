@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Luke 19:30",
+  "version": "EASY",
+  "original_text": "He told them, ‘Go into the village that is in front of you. When you arrive there, you will find a young donkey. Someone has tied it there. Nobody has yet ridden on it. Undo the rope and bring the donkey here to me.",
+  "korean_text": "이르시되 너희는 맞은편 마을로 가라 그리로 들어가면 아직 아무도 타 보지 않은 나귀 새끼가 매여 있는 것을 보리니 풀어 끌고 오라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He told them",
+      "korean_translation": "그가 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go into the village that is in front of you",
+      "korean_translation": "너희 앞에 있는 마을로 들어가라",
+      "word_indices": [
+        123,
+        438
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When you arrive there",
+      "korean_translation": "너희가 거기에 도착하면",
+      "word_indices": [
+        177
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you will find a young donkey",
+      "korean_translation": "너희는 어린 나귀를 발견할 것이다",
+      "word_indices": [
+        108,
+        131,
+        310
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Someone has tied it there",
+      "korean_translation": "누군가 그것을 거기에 묶어 놓았다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Nobody has yet ridden on it",
+      "korean_translation": "아직 아무도 그것을 타본 적이 없다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Undo the rope",
+      "korean_translation": "줄을 풀어라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and bring the donkey here to me",
+      "korean_translation": "그리고 나귀를 나에게로 이리 데려오라",
+      "word_indices": [
+        310
+      ]
+    }
+  ]
+}

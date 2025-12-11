@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Isaiah 16:3",
+  "version": "EASY",
+  "original_text": "The Moabites say, ‘Tell us what we should do! Help us in our troubles! Give us some shade in the middle of the day! Hide the people who are escaping! Our enemies are chasing us. Do not let them find us.",
+  "korean_text": "너는 방도를 베풀며 공의로 판결하며 대낮에 밤 같이 그늘을 지으며 쫓겨난 자들을 숨기며 도망한 자들을 발각되게 하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Moabites say",
+      "korean_translation": "모압 사람들이 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Tell us what we should do!'",
+      "korean_translation": "'우리가 무엇을 해야 할지 말해주세요!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Help us in our troubles!",
+      "korean_translation": "우리의 곤경에서 도와주세요!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Give us some shade in the middle of the day!",
+      "korean_translation": "한낮에 우리에게 그늘을 주세요!",
+      "word_indices": [
+        4,
+        419,
+        1031
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Hide the people who are escaping!",
+      "korean_translation": "도망치는 사람들을 숨겨주세요!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Our enemies are chasing us.",
+      "korean_translation": "우리의 원수들이 우리를 쫓고 있습니다.",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Do not let them find us.'",
+      "korean_translation": "그들이 우리를 찾지 못하게 해주세요.'",
+      "word_indices": [
+        131
+      ]
+    }
+  ]
+}

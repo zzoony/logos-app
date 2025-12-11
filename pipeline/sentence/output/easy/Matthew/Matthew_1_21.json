@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 1:21",
+  "version": "EASY",
+  "original_text": "Mary's baby will be a boy. He will save his people from their sins. Because of that, you must give him the name “Jesus”.’",
+  "korean_text": "아들을 낳으리니 이름을 예수라 하라 이는 그가 자기 백성을 그들의 죄에서 구원할 자이심이라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mary's baby will be a boy.",
+      "korean_translation": "마리아의 아기는 남자아이가 될 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He will save his people",
+      "korean_translation": "그는 그의 백성을 구원할 것입니다",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from their sins.",
+      "korean_translation": "그들의 죄로부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Because of that,",
+      "korean_translation": "그러므로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you must give him the name \"Jesus\".",
+      "korean_translation": "너는 그에게 \"예수\"라는 이름을 주어야 합니다.",
+      "word_indices": [
+        4,
+        90
+      ]
+    }
+  ]
+}

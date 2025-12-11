@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Leviticus 19:9",
+  "version": "EASY",
+  "original_text": "When a person cuts the plants in his field, he must not cut to the edge of the field. He must not pick up what he drops.",
+  "korean_text": "너희가 너희의 땅에서 곡식을 거둘 때에 너는 밭 모퉁이까지 다 거두지 말고 네 떨어진 이삭도 줍지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When a person cuts the plants in his field",
+      "korean_translation": "어떤 사람이 자기 밭의 식물을 벨 때",
+      "word_indices": [
+        24,
+        152,
+        199
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he must not cut to the edge of the field",
+      "korean_translation": "그는 밭의 가장자리까지 베어서는 안 된다",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must not pick up what he drops",
+      "korean_translation": "그는 떨어뜨린 것을 줍지 말아야 한다",
+      "word_indices": []
+    }
+  ]
+}

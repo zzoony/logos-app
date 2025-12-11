@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Numbers 11:22",
+  "version": "EASY",
+  "original_text": "Even if we killed all our sheep and cows, we would not have enough meat for them. If we caught every fish in the sea, we still would not have enough!’",
+  "korean_text": "그들을 위하여 양 떼와 소 떼를 잡은들 족하오며 바다의 모든 고기를 모은들 족하오리이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even if we killed all our sheep and cows",
+      "korean_translation": "우리가 양과 소를 다 잡는다 해도",
+      "word_indices": [
+        26,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we would not have enough meat for them",
+      "korean_translation": "그들에게 고기가 충분하지 않을 것입니다",
+      "word_indices": [
+        228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If we caught every fish in the sea",
+      "korean_translation": "바다에 있는 모든 물고기를 잡는다 해도",
+      "word_indices": [
+        517
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we still would not have enough",
+      "korean_translation": "여전히 충분하지 않을 것입니다",
+      "word_indices": [
+        228
+      ]
+    }
+  ]
+}

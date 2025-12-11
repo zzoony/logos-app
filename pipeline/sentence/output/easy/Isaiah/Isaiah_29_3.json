@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Isaiah 29:3",
+  "version": "EASY",
+  "original_text": "I will bring an army to attack you. There will be soldiers all round the city so that nobody can leave. I will build strong towers against the city's walls.",
+  "korean_text": "내가 너를 사면으로 둘러 진을 치며 너를 에워 대를 쌓아 너를 치리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will bring an army to attack you.",
+      "korean_translation": "내가 너를 공격하기 위해 군대를 데려오겠다.",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There will be soldiers all round the city",
+      "korean_translation": "성 주변에는 병사들이 있을 것이다.",
+      "word_indices": [
+        20,
+        36,
+        355
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that nobody can leave.",
+      "korean_translation": "아무도 떠날 수 없도록 하겠다.",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will build strong towers",
+      "korean_translation": "내가 견고한 망대를 세우겠다.",
+      "word_indices": [
+        43,
+        99,
+        599
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "against the city's walls.",
+      "korean_translation": "성벽에 맞서 말이다.",
+      "word_indices": [
+        20,
+        31,
+        148
+      ]
+    }
+  ]
+}

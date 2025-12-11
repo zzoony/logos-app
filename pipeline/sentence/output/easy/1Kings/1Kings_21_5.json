@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Kings 21:5",
+  "version": "EASY",
+  "original_text": "Ahab's wife, Jezebel, came in to his room. She asked him, ‘Why are you so upset? Why do you refuse to eat anything?’",
+  "korean_text": "그의 아내 이세벨이 그에게 나아와 이르되 왕의 마음에 무엇을 근심하여 식사를 아니하나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ahab's wife, Jezebel, came in to his room",
+      "korean_translation": "아합의 아내 이세벨이 그의 방으로 들어왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She asked him",
+      "korean_translation": "그녀가 그에게 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Why are you so upset?",
+      "korean_translation": "당신은 왜 그렇게 속상해 있습니까?",
+      "word_indices": [
+        322
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why do you refuse to eat anything?",
+      "korean_translation": "왜 당신은 아무것도 먹기를 거부합니까?",
+      "word_indices": [
+        157
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Genesis 13:3",
+  "version": "EASY",
+  "original_text": "Then Abram left the Negev and he went to different places. He arrived at Bethel. He returned to the place where he had put up his tent before. That place was between Bethel and Ai.",
+  "korean_text": "그가 네게브에서부터 길을 떠나 벧엘에 이르며 벧엘과 아이 사이 곧 전에 장막 쳤던 곳에 이르니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Abram left the Negev",
+      "korean_translation": "그때 아브람은 네겝을 떠났고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he went to different places",
+      "korean_translation": "그는 여러 곳으로 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He arrived at Bethel",
+      "korean_translation": "그는 베델에 도착했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He returned to the place",
+      "korean_translation": "그는 그 장소로 돌아갔습니다",
+      "word_indices": [
+        16,
+        115
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "where he had put up his tent before",
+      "korean_translation": "그가 이전에 천막을 쳤던 곳으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "That place was between Bethel and Ai",
+      "korean_translation": "그 장소는 베델과 아이 사이에 있었습니다",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

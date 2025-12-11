@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 1:2",
+  "version": "EASY",
+  "original_text": "Some people were present when these things started to happen. They saw everything that happened and they told us about it. They are the people who wrote down the Good News for us.",
+  "korean_text": "처음부터 목격자와 말씀의 일꾼 된 자들이 전하여 준 그대로 내력을 저술하려고 붓을 든 사람이 많은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some people were present",
+      "korean_translation": "어떤 사람들이 그 자리에 있었습니다",
+      "word_indices": [
+        1304
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when these things started to happen",
+      "korean_translation": "이런 일들이 시작될 때",
+      "word_indices": [
+        22,
+        222
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They saw everything that happened",
+      "korean_translation": "그들은 일어난 모든 것을 보았습니다",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they told us about it",
+      "korean_translation": "그리고 그것에 대해 우리에게 말해주었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They are the people",
+      "korean_translation": "그들이 바로 그 사람들입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who wrote down the Good News for us",
+      "korean_translation": "우리를 위해 복음을 기록한 사람들",
+      "word_indices": [
+        19
+      ]
+    }
+  ]
+}

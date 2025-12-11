@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Daniel 11:13",
+  "version": "EASY",
+  "original_text": "The king of the north will again bring together a large army. It will be even bigger than the army that he had before. After a few years, he will march forward with his great army and all their many weapons.",
+  "korean_text": "북방 왕은 돌아가서 다시 군대를 전보다 더 많이 준비하였다가 몇 때 곧 몇 해 후에 대군과 많은 물건을 거느리고 오리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of the north will again bring together a large army.",
+      "korean_translation": "북방의 왕은 다시 한번 큰 군대를 모을 것입니다.",
+      "word_indices": [
+        3,
+        259,
+        316
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It will be even bigger than the army that he had before.",
+      "korean_translation": "그 군대는 그가 이전에 가졌던 군대보다 더 클 것입니다.",
+      "word_indices": [
+        789
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "After a few years,",
+      "korean_translation": "몇 년 후에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he will march forward with his great army",
+      "korean_translation": "그는 그의 위대한 군대와 함께 전진할 것입니다",
+      "word_indices": [
+        40,
+        915
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and all their many weapons.",
+      "korean_translation": "그리고 그들의 모든 많은 무기들과 함께입니다.",
+      "word_indices": [
+        428
+      ]
+    }
+  ]
+}

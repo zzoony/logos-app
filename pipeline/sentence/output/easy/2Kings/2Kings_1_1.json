@@ -1,0 +1,34 @@
+{
+  "verse_reference": "2 Kings 1:1",
+  "version": "EASY",
+  "original_text": "After King Ahab's death, the country of Moab turned against Israel.",
+  "korean_text": "아합이 죽은 후에 모압이 이스라엘을 배반하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After King Ahab's death",
+      "korean_translation": "아합 왕이 죽은 후에",
+      "word_indices": [
+        3,
+        153
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the country of Moab",
+      "korean_translation": "모압 나라가",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "turned against Israel",
+      "korean_translation": "이스라엘을 대적하여 반역했다",
+      "word_indices": [
+        31,
+        72
+      ]
+    }
+  ]
+}

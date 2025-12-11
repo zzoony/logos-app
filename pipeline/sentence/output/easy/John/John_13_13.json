@@ -1,0 +1,32 @@
+{
+  "verse_reference": "John 13:13",
+  "version": "EASY",
+  "original_text": "You call me Teacher and Lord, and you are right. That is what I am.",
+  "korean_text": "너희가 나를 선생이라 또는 주라 하니 너희 말이 옳도다 내가 그러하다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You call me Teacher and Lord",
+      "korean_translation": "너희는 나를 선생이요 주라고 부르며",
+      "word_indices": [
+        2,
+        47,
+        280
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you are right",
+      "korean_translation": "너희 말이 옳다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That is what I am",
+      "korean_translation": "내가 그것이다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Samuel 21:10",
+  "version": "EASY",
+  "original_text": "So on that day, David escaped from Saul. He went to Gath and he visited King Achish there.",
+  "korean_text": "그 날에 다윗이 사울을 두려워하여 일어나 도망하여 가드 왕 아기스에게로 가니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So on that day",
+      "korean_translation": "그래서 그 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "David escaped from Saul",
+      "korean_translation": "다윗은 사울을 피해 도망쳤다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He went to Gath",
+      "korean_translation": "그는 가드로 갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he visited King Achish there",
+      "korean_translation": "그리고 그는 그곳에서 아기스 왕을 방문했다",
+      "word_indices": [
+        3,
+        380
+      ]
+    }
+  ]
+}

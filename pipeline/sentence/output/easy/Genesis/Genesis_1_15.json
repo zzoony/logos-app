@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 1:15",
+  "version": "EASY",
+  "original_text": "The lights in the sky will give light to the earth.’",
+  "korean_text": "또 광명체들이 하늘의 궁창에 있어 땅을 비추라 하시니 그대로 되니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The lights in the sky",
+      "korean_translation": "하늘의 빛들은",
+      "word_indices": [
+        225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will give light",
+      "korean_translation": "빛을 줄 것이다",
+      "word_indices": [
+        4,
+        225
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the earth",
+      "korean_translation": "땅에",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

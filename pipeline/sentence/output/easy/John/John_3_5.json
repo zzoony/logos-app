@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 3:5",
+  "version": "EASY",
+  "original_text": "Jesus explained, ‘I tell you this: Unless a person is born by water and by God's Spirit, he cannot come into the kingdom of God.",
+  "korean_text": "예수께서 대답하시되 진실로 진실로 네게 이르노니 사람이 물과 성령으로 나지 아니하면 하나님의 나라에 들어갈 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus explained",
+      "korean_translation": "예수께서 설명하셨다",
+      "word_indices": [
+        446
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you this",
+      "korean_translation": "내가 이것을 너희에게 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Unless a person is born by water",
+      "korean_translation": "사람이 물로 태어나지 않으면",
+      "word_indices": [
+        24,
+        60
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and by God's Spirit",
+      "korean_translation": "하나님의 영으로 태어나지 않으면",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he cannot come into",
+      "korean_translation": "그는 들어갈 수 없다",
+      "word_indices": [
+        114
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the kingdom of God",
+      "korean_translation": "하나님의 나라에",
+      "word_indices": [
+        188
+      ]
+    }
+  ]
+}

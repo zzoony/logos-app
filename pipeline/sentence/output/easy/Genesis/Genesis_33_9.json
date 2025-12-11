@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 33:9",
+  "version": "EASY",
+  "original_text": "But Esau said, ‘Keep your animals for yourself, my brother. I have enough animals of my own.’",
+  "korean_text": "에서가 이르되 내 동생아 내게 있는 것이 족하니 네 소유는 네게 두라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Esau said",
+      "korean_translation": "하지만 에서가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Keep your animals for yourself",
+      "korean_translation": "당신의 동물들을 당신이 가지세요",
+      "word_indices": [
+        48,
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my brother",
+      "korean_translation": "나의 형제여",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have enough animals of my own",
+      "korean_translation": "나는 내 동물들로 충분합니다",
+      "word_indices": [
+        48,
+        228
+      ]
+    }
+  ]
+}

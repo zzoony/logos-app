@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 27:13",
+  "version": "EASY",
+  "original_text": "So Pilate said to Jesus, ‘You hear what these men are saying against you. You should reply.’",
+  "korean_text": "이에 빌라도가 이르되 그들이 너를 쳐서 얼마나 많은 것으로 증언하는지 듣지 못하느냐 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Pilate said to Jesus",
+      "korean_translation": "그래서 빌라도가 예수께 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You hear what these men are saying against you",
+      "korean_translation": "'당신은 이 사람들이 당신을 대항해 말하는 것을 듣고 있소",
+      "word_indices": [
+        31,
+        42
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should reply.'",
+      "korean_translation": "당신은 대답해야 하소.'",
+      "word_indices": [
+        167
+      ]
+    }
+  ]
+}

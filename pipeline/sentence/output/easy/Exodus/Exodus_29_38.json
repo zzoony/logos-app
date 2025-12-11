@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Exodus 29:38",
+  "version": "EASY",
+  "original_text": "You must offer a regular gift on the altar each day. This offering must be two lambs that are one year old.",
+  "korean_text": "네가 제단 위에 드릴 것은 이러하니라 매일 일 년 된 어린 양 두 마리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must offer a regular gift on the altar each day",
+      "korean_translation": "너는 매일 제단에 정기적인 예물을 바쳐야 한다",
+      "word_indices": [
+        55,
+        119,
+        956
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This offering must be two lambs",
+      "korean_translation": "이 예물은 두 마리의 어린 양이어야 한다",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that are one year old",
+      "korean_translation": "그 양들은 일년 된 것이어야 한다",
+      "word_indices": []
+    }
+  ]
+}

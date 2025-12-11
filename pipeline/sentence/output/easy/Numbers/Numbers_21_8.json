@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Numbers 21:8",
+  "version": "EASY",
+  "original_text": "The Lord said to Moses, ‘Make a model of a snake and put it up high on a pole. When a snake bites anyone, they must look at the bronze snake. Then they will not die.’",
+  "korean_text": "여호와께서 모세에게 이르시되 불뱀을 만들어 장대 위에 매달아라 물린 자마다 그것을 보면 살리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Moses",
+      "korean_translation": "주께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Make a model of a snake",
+      "korean_translation": "뱀 모형을 만들라",
+      "word_indices": [
+        493
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and put it up high on a pole",
+      "korean_translation": "그것을 막대기 높은 곳에 달아라",
+      "word_indices": [
+        275
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When a snake bites anyone",
+      "korean_translation": "뱀이 누구든 물면",
+      "word_indices": [
+        109,
+        493
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they must look at the bronze snake",
+      "korean_translation": "그들은 놋뱀을 쳐다보아야 한다",
+      "word_indices": [
+        341,
+        493
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then they will not die",
+      "korean_translation": "그러면 그들은 죽지 않을 것이다",
+      "word_indices": []
+    }
+  ]
+}

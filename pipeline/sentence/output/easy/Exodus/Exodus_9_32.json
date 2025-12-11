@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 9:32",
+  "version": "EASY",
+  "original_text": "But the hail did not destroy the wheat and other grains. Those crops become ripe later in the year.",
+  "korean_text": "그러나 밀과 쌀보리는 자라지 아니한 고로 상하지 아니하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the hail did not destroy",
+      "korean_translation": "그러나 우박은 파괴하지 않았습니다",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the wheat and other grains",
+      "korean_translation": "밀과 다른 곡물들을",
+      "word_indices": [
+        256,
+        617
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Those crops become ripe",
+      "korean_translation": "그 작물들은 익습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "later in the year",
+      "korean_translation": "연중 더 늦게",
+      "word_indices": []
+    }
+  ]
+}

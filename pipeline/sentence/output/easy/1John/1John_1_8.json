@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 John 1:8",
+  "version": "EASY",
+  "original_text": "If we say that we never do any wrong thing, we are deceiving ourselves. Even though we may think it is true, it is a lie.",
+  "korean_text": "만일 우리가 죄가 없다고 말하면 스스로 속이고 또 진리가 우리 속에 있지 아니할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If we say that we never do any wrong thing",
+      "korean_translation": "만약 우리가 우리가 결코 잘못된 일을 하지 않는다고 말한다면",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we are deceiving ourselves",
+      "korean_translation": "우리는 자신을 속이고 있는 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Even though we may think it is true",
+      "korean_translation": "비록 우리가 그것이 사실이라고 생각할지라도",
+      "word_indices": [
+        69,
+        923
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it is a lie",
+      "korean_translation": "그것은 거짓말입니다",
+      "word_indices": []
+    }
+  ]
+}

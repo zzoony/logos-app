@@ -1,0 +1,52 @@
+{
+  "verse_reference": "2 Kings 6:26",
+  "version": "EASY",
+  "original_text": "While the king of Israel was walking on the wall of the city, a woman shouted to him, ‘Please help me, my master the king!’",
+  "korean_text": "이스라엘 왕이 성 위로 지나갈 때에 한 여인이 외쳐 이르되 나의 주 왕이여 도우소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While the king of Israel was walking",
+      "korean_translation": "이스라엘 왕이 걷고 있을 때",
+      "word_indices": [
+        3,
+        204
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the wall of the city",
+      "korean_translation": "성벽 위에서",
+      "word_indices": [
+        20,
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a woman shouted to him",
+      "korean_translation": "한 여인이 그에게 외쳤습니다",
+      "word_indices": [
+        46,
+        174
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Please help me",
+      "korean_translation": "제발 저를 도와주세요",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "my master the king",
+      "korean_translation": "나의 주인이신 왕이시여",
+      "word_indices": [
+        3,
+        176
+      ]
+    }
+  ]
+}

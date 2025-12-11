@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Deuteronomy 23:7",
+  "version": "EASY",
+  "original_text": "But do not hate anyone from Edom. The Edomites have the same ancestor as you. Do not hate an Egyptian person. You once lived as foreigners in Egypt.",
+  "korean_text": "너는 에돔 사람을 미워하지 말라 그는 네 형제임이니라 애굽 사람을 미워하지 말라 네가 그의 땅에서 객이 되었음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But do not hate anyone from Edom",
+      "korean_translation": "하지만 에돔 사람을 미워하지 말라",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Edomites have the same ancestor as you",
+      "korean_translation": "에돔 사람들은 너와 같은 조상을 가졌다",
+      "word_indices": [
+        74,
+        145
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not hate an Egyptian person",
+      "korean_translation": "애굽 사람을 미워하지 말라",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You once lived as foreigners in Egypt",
+      "korean_translation": "너는 애굽에서 이방인으로 살았었다",
+      "word_indices": [
+        666
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Deuteronomy 9:2",
+  "version": "EASY",
+  "original_text": "You know about the Anakites who live there. They are strong and tall. You have heard people say, ‘No one can fight against the Anakites and win.’",
+  "korean_text": "크고 많은 백성은 네가 아는 아낙 자손이라 그에 대한 말을 네가 들었나니 이르기를 누가 아낙 자손을 능히 당하리요 하거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know about the Anakites who live there.",
+      "korean_translation": "너는 거기에 사는 아낙 자손들에 대해 알고 있다.",
+      "word_indices": [
+        8,
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They are strong and tall.",
+      "korean_translation": "그들은 강하고 키가 크다.",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You have heard people say,",
+      "korean_translation": "너는 사람들이 말하는 것을 들었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'No one can fight against the Anakites and win.'",
+      "korean_translation": "'누구도 아낙 자손들과 싸워서 이길 수 없다.'",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

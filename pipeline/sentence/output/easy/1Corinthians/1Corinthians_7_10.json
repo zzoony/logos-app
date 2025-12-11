@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Corinthians 7:10",
+  "version": "EASY",
+  "original_text": "I will say this to people who have married. (This is not my rule. It is a rule that comes from the Lord himself.) A wife must not leave her husband.",
+  "korean_text": "결혼한 자들에게 내가 명하노니 (명하는 자는 내가 아니요 주시라) 여자는 남편에게서 갈라서지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will say this to people who have married",
+      "korean_translation": "나는 결혼한 사람들에게 이것을 말하겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This is not my rule",
+      "korean_translation": "이것은 나의 규칙이 아니다",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is a rule that comes from the Lord himself",
+      "korean_translation": "그것은 주님께서 직접 오신 규칙이다",
+      "word_indices": [
+        2,
+        28
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "A wife must not leave her husband",
+      "korean_translation": "아내는 남편을 떠나지 말아야 한다",
+      "word_indices": [
+        66,
+        282
+      ]
+    }
+  ]
+}

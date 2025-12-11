@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 9:55",
+  "version": "EASY",
+  "original_text": "Jesus turned round. ‘No!’ he said, ‘Do not do that. That would be wrong.’",
+  "korean_text": "예수께서 돌아보시며 꾸짖으시고2)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus turned round.",
+      "korean_translation": "예수님께서 몸을 돌리셨습니다.",
+      "word_indices": [
+        72,
+        355
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'No!' he said,",
+      "korean_translation": "'안돼!' 그가 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Do not do that.'",
+      "korean_translation": "'그렇게 하지 마라.'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'That would be wrong.'",
+      "korean_translation": "'그것은 잘못된 일일 것이다.'",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

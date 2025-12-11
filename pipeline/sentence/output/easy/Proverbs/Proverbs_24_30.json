@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Proverbs 24:30",
+  "version": "EASY",
+  "original_text": "I walked past the field of a lazy person. And I walked past the vineyard of a stupid person.",
+  "korean_text": "내가 게으른 자의 밭과 지혜 없는 자의 포도원을 지나며 본즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I walked past the field of a lazy person.",
+      "korean_translation": "나는 게으른 사람의 밭을 지나갔다.",
+      "word_indices": [
+        24,
+        152,
+        204,
+        512
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And I walked past the vineyard of a stupid person.",
+      "korean_translation": "그리고 나는 어리석은 사람의 포도원을 지나갔다.",
+      "word_indices": [
+        24,
+        204,
+        512,
+        542,
+        810
+      ]
+    }
+  ]
+}

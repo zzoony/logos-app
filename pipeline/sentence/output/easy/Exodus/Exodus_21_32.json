@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Exodus 21:32",
+  "version": "EASY",
+  "original_text": "If it attacks a male slave or a female slave, the man must pay 30 silver coins to the slave's master. You must also throw stones at the bull to kill it.",
+  "korean_text": "소가 만일 남종이나 여종을 받으면 소 임자가 은 삼십 세겔을 그의 상전에게 줄 것이요 소는 돌로 쳐서 죽일지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If it attacks a male slave",
+      "korean_translation": "만약 그것이 남자 노예를 공격하면",
+      "word_indices": [
+        62,
+        214
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or a female slave",
+      "korean_translation": "또는 여자 노예를 공격하면",
+      "word_indices": [
+        214,
+        455
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the man must pay 30 silver coins",
+      "korean_translation": "그 남자는 30개의 은화를 지불해야 한다",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to the slave's master",
+      "korean_translation": "노예의 주인에게",
+      "word_indices": [
+        176,
+        214
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You must also throw stones at the bull",
+      "korean_translation": "너는 또한 황소에게 돌을 던져야 한다",
+      "word_indices": [
+        9,
+        190
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to kill it",
+      "korean_translation": "그것을 죽이기 위해",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 32:14",
+  "version": "EASY",
+  "original_text": "He chose 200 female goats, 20 male goats, 200 female sheep and 20 male sheep.",
+  "korean_text": "암염소가 이백이요 숫염소가 이십이요 암양이 이백이요 숫양이 이십이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He chose 200 female goats",
+      "korean_translation": "그는 암염소 200마리를 선택했습니다",
+      "word_indices": [
+        455
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "20 male goats",
+      "korean_translation": "수염소 20마리",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "200 female sheep",
+      "korean_translation": "암양 200마리",
+      "word_indices": [
+        125,
+        455
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and 20 male sheep",
+      "korean_translation": "그리고 수양 20마리",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

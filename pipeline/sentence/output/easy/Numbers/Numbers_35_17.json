@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Numbers 35:17",
+  "version": "EASY",
+  "original_text": "Someone might hit another person with a big stone. If the person dies, the man is a murderer. He must die.",
+  "korean_text": "만일 사람을 죽일 만한 돌을 손에 들고 사람을 쳐죽이면 이는 살인한 자니 그 살인자는 반드시 죽일 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Someone might hit another person",
+      "korean_translation": "어떤 사람이 다른 사람을 칠 수 있다",
+      "word_indices": [
+        24,
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with a big stone",
+      "korean_translation": "큰 돌로",
+      "word_indices": [
+        116
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the person dies",
+      "korean_translation": "만약 그 사람이 죽으면",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the man is a murderer",
+      "korean_translation": "그 남자는 살인자이다",
+      "word_indices": [
+        773
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He must die",
+      "korean_translation": "그는 죽어야 한다",
+      "word_indices": []
+    }
+  ]
+}

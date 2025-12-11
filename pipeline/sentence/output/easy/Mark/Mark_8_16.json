@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Mark 8:16",
+  "version": "EASY",
+  "original_text": "The disciples began to say to each other, ‘Jesus is saying that because we do not have any bread.’",
+  "korean_text": "제자들이 서로 수군거리기를 이는 우리에게 떡이 없음이로다 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The disciples began to say to each other",
+      "korean_translation": "제자들이 서로에게 말하기 시작했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus is saying that",
+      "korean_translation": "예수님께서 말씀하시는 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because we do not have any bread",
+      "korean_translation": "우리에게 빵이 없기 때문이다",
+      "word_indices": [
+        229
+      ]
+    }
+  ]
+}

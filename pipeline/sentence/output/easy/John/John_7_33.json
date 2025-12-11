@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 7:33",
+  "version": "EASY",
+  "original_text": "Jesus said, ‘I will be with you for only a short time. Then I will return to the one who sent me.",
+  "korean_text": "예수께서 이르시되 내가 너희와 함께 조금 더 있다가 나를 보내신 이에게로 돌아가겠노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will be with you",
+      "korean_translation": "내가 너희와 함께 있을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for only a short time",
+      "korean_translation": "단지 잠시 동안만",
+      "word_indices": [
+        528
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then I will return",
+      "korean_translation": "그 후에 나는 돌아갈 것입니다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to the one who sent me",
+      "korean_translation": "나를 보내신 분께로",
+      "word_indices": []
+    }
+  ]
+}

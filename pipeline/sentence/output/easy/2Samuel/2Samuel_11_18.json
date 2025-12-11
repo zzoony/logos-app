@@ -1,0 +1,30 @@
+{
+  "verse_reference": "2 Samuel 11:18",
+  "version": "EASY",
+  "original_text": "Joab wrote a report to tell David about the battle.",
+  "korean_text": "요압이 사람을 보내 그 전쟁의 모든 일을 다윗에게 보고할새",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joab wrote a report",
+      "korean_translation": "요압이 보고서를 작성했습니다",
+      "word_indices": [
+        598
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to tell David",
+      "korean_translation": "다윗에게 알리기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "about the battle",
+      "korean_translation": "전투에 대해",
+      "word_indices": [
+        205
+      ]
+    }
+  ]
+}

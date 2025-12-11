@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Mark 9:37",
+  "version": "EASY",
+  "original_text": "‘If someone accepts a child like this because of me, then that person also accepts me. If he accepts me, then he is not only accepting me. He is also accepting my Father God, who sent me.’",
+  "korean_text": "누구든지 내 이름으로 이런 어린 아이 하나를 영접하면 곧 나를 영접함이요 누구든지 나를 영접하면 나를 영접함이 아니요 나를 보내신 이를 영접함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If someone accepts a child like this because of me",
+      "korean_translation": "누군가 나 때문에 이런 아이를 받아들이면",
+      "word_indices": [
+        65,
+        94,
+        143
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "then that person also accepts me",
+      "korean_translation": "그 사람 또한 나를 받아들이는 것이다",
+      "word_indices": [
+        9,
+        24,
+        143
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If he accepts me",
+      "korean_translation": "그가 나를 받아들이면",
+      "word_indices": [
+        143
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then he is not only accepting me",
+      "korean_translation": "그는 나를 받아들이는 것만이 아니라",
+      "word_indices": [
+        143
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He is also accepting my Father God",
+      "korean_translation": "나의 아버지 하나님도 받아들이는 것이다",
+      "word_indices": [
+        9,
+        37,
+        143
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who sent me",
+      "korean_translation": "나를 보내신 분",
+      "word_indices": []
+    }
+  ]
+}

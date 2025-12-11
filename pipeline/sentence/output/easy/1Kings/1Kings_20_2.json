@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Kings 20:2",
+  "version": "EASY",
+  "original_text": "He sent men to take a message to Ahab, the king of Israel, who was in the city.",
+  "korean_text": "사자들을 성 안에 있는 이스라엘의 아합 왕에게 보내 이르기를 벤하닷이 그에게 이르되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He sent men",
+      "korean_translation": "그는 사람들을 보냈다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to take a message",
+      "korean_translation": "메시지를 전달하기 위해",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Ahab",
+      "korean_translation": "아합에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the king of Israel",
+      "korean_translation": "이스라엘의 왕인",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who was in the city",
+      "korean_translation": "그 도시에 있던",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

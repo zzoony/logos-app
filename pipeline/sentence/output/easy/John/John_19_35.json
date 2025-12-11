@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 19:35",
+  "version": "EASY",
+  "original_text": "The man who saw these things has spoken about them. What he says is true. He knows that it really happened. He is telling you the truth so that you can believe.",
+  "korean_text": "이를 본 자가 증언하였으니 그 증언이 참이라 그가 자기의 말하는 것이 참인 줄 알고 너희로 믿게 하려 함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man who saw these things",
+      "korean_translation": "이런 것들을 본 그 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "has spoken about them",
+      "korean_translation": "그것들에 대해 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What he says is true",
+      "korean_translation": "그가 말하는 것은 참됩니다",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He knows that it really happened",
+      "korean_translation": "그는 그것이 정말로 일어났다는 것을 압니다",
+      "word_indices": [
+        12,
+        22,
+        146
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He is telling you the truth",
+      "korean_translation": "그는 당신에게 진실을 말하고 있습니다",
+      "word_indices": [
+        591
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "so that you can believe",
+      "korean_translation": "당신이 믿을 수 있도록",
+      "word_indices": [
+        88
+      ]
+    }
+  ]
+}

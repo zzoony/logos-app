@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 John 1:12",
+  "version": "EASY",
+  "original_text": "I want to tell you many more things, but I do not want to write about them in a letter. Instead, I hope to come and visit you. Then I can see you and we can talk together. Then we will be completely happy.",
+  "korean_text": "내가 너희에게 쓸 것이 많으나 종이와 먹으로 쓰기를 원하지 아니하고 오히려 너희에게 가서 대면하여 말하려 하니 이는 너희 기쁨을 충만하게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I want to tell you many more things",
+      "korean_translation": "내가 당신에게 더 많은 것들을 이야기하고 싶지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but I do not want to write about them in a letter",
+      "korean_translation": "편지에 그것들을 쓰고 싶지 않습니다",
+      "word_indices": [
+        124,
+        347
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Instead, I hope to come and visit you",
+      "korean_translation": "대신, 당신을 찾아뵙고 싶습니다",
+      "word_indices": [
+        380,
+        408
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then I can see you",
+      "korean_translation": "그러면 당신을 볼 수 있고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and we can talk together",
+      "korean_translation": "함께 대화할 수 있을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then we will be completely happy",
+      "korean_translation": "그러면 우리는 완전히 행복할 것입니다",
+      "word_indices": [
+        57,
+        161
+      ]
+    }
+  ]
+}

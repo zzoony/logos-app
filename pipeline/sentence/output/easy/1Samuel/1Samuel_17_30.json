@@ -1,0 +1,46 @@
+{
+  "verse_reference": "1 Samuel 17:30",
+  "version": "EASY",
+  "original_text": "So David went away and he asked other people the same question. All the men gave him the same answer.",
+  "korean_text": "돌아서서 다른 사람을 향하여 전과 같이 말하매 백성이 전과 같이 대답하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So David went away",
+      "korean_translation": "그래서 다윗은 떠나갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he asked other people",
+      "korean_translation": "그리고 다른 사람들에게 물었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the same question",
+      "korean_translation": "같은 질문을 했습니다",
+      "word_indices": [
+        74,
+        527
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "All the men gave him",
+      "korean_translation": "모든 사람들은 그에게 주었고",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the same answer",
+      "korean_translation": "같은 대답을 주었습니다",
+      "word_indices": [
+        74,
+        160
+      ]
+    }
+  ]
+}

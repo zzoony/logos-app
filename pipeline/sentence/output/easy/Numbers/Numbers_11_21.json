@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Numbers 11:21",
+  "version": "EASY",
+  "original_text": "Moses said to the Lord, ‘There are 600,000 men here. But you have said, “I will give to them meat to eat for a whole month.”",
+  "korean_text": "모세가 이르되 나와 함께 있는 이 백성의 보행자가 육십만 명이온데 주의 말씀이 한 달 동안 고기를 주어 먹게 하겠다 하시오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses said to the Lord",
+      "korean_translation": "모세가 주께 말했습니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There are 600,000 men here",
+      "korean_translation": "여기에는 60만 명의 남자가 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you have said",
+      "korean_translation": "하지만 당신이 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will give to them meat to eat",
+      "korean_translation": "내가 그들에게 먹을 고기를 주겠다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for a whole month",
+      "korean_translation": "한 달 내내",
+      "word_indices": [
+        169,
+        255
+      ]
+    }
+  ]
+}

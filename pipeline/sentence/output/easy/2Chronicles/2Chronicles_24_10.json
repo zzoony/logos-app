@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Chronicles 24:10",
+  "version": "EASY",
+  "original_text": "All the officers and all the people were happy to give this money. They brought it to Jerusalem and they threw it into the box, until the box was full.",
+  "korean_text": "모든 방백들과 백성들이 기뻐하여 마치기까지 돈을 가져다가 궤에 던지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the officers were happy to give this money",
+      "korean_translation": "모든 관리들은 이 돈을 기쁘게 드렸다",
+      "word_indices": [
+        4,
+        57,
+        98,
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the people were happy to give this money",
+      "korean_translation": "모든 백성들은 이 돈을 기쁘게 드렸다",
+      "word_indices": [
+        4,
+        57,
+        142
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They brought it to Jerusalem",
+      "korean_translation": "그들은 그것을 예루살렘으로 가져갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they threw it into the box",
+      "korean_translation": "그들은 그것을 함에 던져 넣었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until the box was full",
+      "korean_translation": "함이 가득 찰 때까지",
+      "word_indices": [
+        387
+      ]
+    }
+  ]
+}

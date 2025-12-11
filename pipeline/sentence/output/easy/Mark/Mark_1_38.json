@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Mark 1:38",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘We should go to other towns near here. Then I can teach the people there too. That is the reason why I came here.’",
+  "korean_text": "이르시되 우리가 다른 가까운 마을들로 가자 거기서도 전도하리니 내가 이를 위하여 왔노라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수님께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We should go to other towns near here",
+      "korean_translation": "우리는 이 근처 다른 동네로 가야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then I can teach the people there too",
+      "korean_translation": "그러면 나도 거기 있는 사람들을 가르칠 수 있다",
+      "word_indices": [
+        87
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "That is the reason why I came here",
+      "korean_translation": "그것이 내가 여기에 온 이유다",
+      "word_indices": [
+        453
+      ]
+    }
+  ]
+}

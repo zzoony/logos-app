@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Leviticus 27:12",
+  "version": "EASY",
+  "original_text": "The priest will decide if the animal is good or bad.",
+  "korean_text": "제사장은 우열간에 값을 정할지니 그 값이 제사장의 정한 대로 될 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest will decide",
+      "korean_translation": "제사장이 결정할 것이다",
+      "word_indices": [
+        32,
+        111
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if the animal is good",
+      "korean_translation": "동물이 좋은지",
+      "word_indices": [
+        19,
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or bad",
+      "korean_translation": "또는 나쁜지",
+      "word_indices": []
+    }
+  ]
+}

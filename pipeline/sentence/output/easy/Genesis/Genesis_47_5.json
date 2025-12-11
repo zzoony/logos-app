@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Genesis 47:5",
+  "version": "EASY",
+  "original_text": "Pharaoh said to Joseph, ‘Your father and your brothers have now come to you.",
+  "korean_text": "바로가 요셉에게 말하여 이르되 네 아버지와 형들이 네게 왔은즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pharaoh said to Joseph",
+      "korean_translation": "바로가 요셉에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your father and your brothers",
+      "korean_translation": "당신의 아버지와 당신의 형제들이",
+      "word_indices": [
+        37,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "have now come to you",
+      "korean_translation": "이제 당신에게 왔다",
+      "word_indices": []
+    }
+  ]
+}

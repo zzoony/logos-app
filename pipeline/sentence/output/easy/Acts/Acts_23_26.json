@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Acts 23:26",
+  "version": "EASY",
+  "original_text": "‘I, Claudius Lysias, write this letter. I say “hello” to you, Felix, our great ruler.",
+  "korean_text": "글라우디오 루시아는 총독 벨릭스 각하께 문안하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, Claudius Lysias, write this letter.",
+      "korean_translation": "나, 클라우디우스 리시아스는 이 편지를 씁니다.",
+      "word_indices": [
+        124,
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I say 'hello' to you, Felix, our great ruler.",
+      "korean_translation": "나는 당신에게 인사합니다, 펠릭스, 위대한 통치자여.",
+      "word_indices": [
+        40,
+        206
+      ]
+    }
+  ]
+}

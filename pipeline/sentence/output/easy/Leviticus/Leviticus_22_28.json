@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Leviticus 22:28",
+  "version": "EASY",
+  "original_text": "They must not kill a cow or a sheep and its baby on the same day.",
+  "korean_text": "암소나 암양을 막론하고 어미와 새끼를 같은 날에 잡지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They must not kill a cow",
+      "korean_translation": "그들은 암소를 죽이지 말아야 합니다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or a sheep",
+      "korean_translation": "또는 양을",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and its baby",
+      "korean_translation": "그리고 그 새끼를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the same day",
+      "korean_translation": "같은 날에",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

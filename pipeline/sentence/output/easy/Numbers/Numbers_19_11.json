@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Numbers 19:11",
+  "version": "EASY",
+  "original_text": "Any person who touches a dead body will not be clean for seven days.",
+  "korean_text": "사람의 시체를 만진 자는 이레 동안 부정하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Any person",
+      "korean_translation": "누구든지",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who touches a dead body",
+      "korean_translation": "시체를 만지는 사람은",
+      "word_indices": [
+        133,
+        348
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will not be clean",
+      "korean_translation": "깨끗하지 못하게 될 것이다",
+      "word_indices": [
+        184
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for seven days",
+      "korean_translation": "칠 일 동안",
+      "word_indices": [
+        198
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Corinthians 10:26",
+  "version": "EASY",
+  "original_text": "The Bible says this: ‘The earth, and everything in it, belongs to the Lord.’",
+  "korean_text": "이는 땅과 거기 충만한 것이 주의 것임이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Bible says this",
+      "korean_translation": "성경은 이렇게 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The earth",
+      "korean_translation": "땅은",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and everything in it",
+      "korean_translation": "그 안에 있는 모든 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "belongs to the Lord",
+      "korean_translation": "주님께 속합니다",
+      "word_indices": [
+        2,
+        45
+      ]
+    }
+  ]
+}

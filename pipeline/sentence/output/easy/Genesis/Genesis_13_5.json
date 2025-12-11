@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Genesis 13:5",
+  "version": "EASY",
+  "original_text": "Lot was travelling with Abram. Lot also had many cows, sheep and tents.",
+  "korean_text": "아브람의 일행 롯도 양과 소와 장막이 있으므로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Lot was travelling with Abram.",
+      "korean_translation": "롯은 아브람과 함께 여행하고 있었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lot also had many cows,",
+      "korean_translation": "롯은 또한 많은 소를 가지고 있었고,",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "sheep and tents.",
+      "korean_translation": "양과 장막도 가지고 있었다.",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

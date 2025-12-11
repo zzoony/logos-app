@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 21:29",
+  "version": "EASY",
+  "original_text": "The older son replied, “I do not want to go and work there today.” But after he had said that, he did go and work in the field.",
+  "korean_text": "대답하여 이르되 아버지 가겠나이다 하더니 가지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The older son replied,",
+      "korean_translation": "맏아들이 대답하였으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I do not want to go",
+      "korean_translation": "나는 가고 싶지 않다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and work there today.",
+      "korean_translation": "그리고 오늘 거기서 일하고 싶지 않다.",
+      "word_indices": [
+        35,
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But after he had said that,",
+      "korean_translation": "그러나 그가 그렇게 말한 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he did go and work",
+      "korean_translation": "그는 가서 일했다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in the field.",
+      "korean_translation": "밭에서.",
+      "word_indices": [
+        152
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Deuteronomy 23:13",
+  "version": "EASY",
+  "original_text": "Always carry a small spade with your other tools. When you go to the toilet, dig a hole with your spade. Then bury your dung in it and cover it with earth.",
+  "korean_text": "네 기구에 작은 삽을 더하여 밖에 나가서 대변을 볼 때에 그것으로 땅을 팔 것이요 몸을 돌려 그 배설물을 덮을지니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Always carry a small spade with your other tools",
+      "korean_translation": "항상 다른 도구와 함께 작은 삽을 지니고 다니세요",
+      "word_indices": [
+        201,
+        295,
+        1202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When you go to the toilet",
+      "korean_translation": "화장실에 갈 때",
+      "word_indices": [
+        1293
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "dig a hole with your spade",
+      "korean_translation": "삽으로 구멍을 파세요",
+      "word_indices": [
+        1202
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then bury your dung in it",
+      "korean_translation": "그리고 그 안에 대변을 묻으세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and cover it with earth",
+      "korean_translation": "흙으로 덮으세요",
+      "word_indices": [
+        93,
+        238
+      ]
+    }
+  ]
+}

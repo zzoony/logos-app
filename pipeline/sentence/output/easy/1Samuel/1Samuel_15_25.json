@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Samuel 15:25",
+  "version": "EASY",
+  "original_text": "Please forgive my sin. Return with me so that I can worship the Lord.’",
+  "korean_text": "청하오니 지금 내 죄를 사하고 나와 함께 돌아가서 나로 하여금 여호와께 경배하게 하소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Please forgive my sin.",
+      "korean_translation": "제 죄를 용서해 주십시오.",
+      "word_indices": [
+        76,
+        227
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Return with me",
+      "korean_translation": "나와 함께 돌아가 주십시오.",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that I can worship the Lord.",
+      "korean_translation": "그러면 제가 주를 경배할 수 있을 것입니다.",
+      "word_indices": [
+        2,
+        89
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 13:24",
+  "version": "EASY",
+  "original_text": "Then, after all these bad things have happened, the sun will become dark. The moon will not shine any more.",
+  "korean_text": "그 때에 그 환난 후 해가 어두워지며 달이 빛을 내지 아니하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then, after all these bad things have happened",
+      "korean_translation": "그 후, 이 모든 나쁜 일들이 일어난 후에",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sun will become dark",
+      "korean_translation": "해가 어두워질 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The moon will not shine any more",
+      "korean_translation": "달은 더 이상 빛나지 않을 것입니다",
+      "word_indices": [
+        397,
+        623
+      ]
+    }
+  ]
+}

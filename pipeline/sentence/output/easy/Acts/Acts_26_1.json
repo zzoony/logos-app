@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Acts 26:1",
+  "version": "EASY",
+  "original_text": "King Agrippa said to Paul, ‘You may now say what you think about this problem.’",
+  "korean_text": "아그립바가 바울에게 이르되 너를 위하여 말하기를 네게 허락하노라 하니 이에 바울이 손을 들어 변명하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Agrippa said to Paul",
+      "korean_translation": "아그립바 왕이 바울에게 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You may now say",
+      "korean_translation": "당신은 이제 말할 수 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what you think about this problem",
+      "korean_translation": "이 문제에 대해 당신이 생각하는 것을",
+      "word_indices": [
+        564
+      ]
+    }
+  ]
+}

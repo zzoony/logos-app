@@ -1,0 +1,63 @@
+{
+  "verse_reference": "John 6:35",
+  "version": "EASY",
+  "original_text": "Then Jesus said to them, ‘I am the bread that gives life to people. Anyone who comes to me will never be hungry. Anyone who believes in me will never be thirsty.",
+  "korean_text": "예수께서 이르시되 나는 생명의 떡이니 내게 오는 자는 결코 주리지 아니할 터이요 나를 믿는 자는 영원히 목마르지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus said to them",
+      "korean_translation": "그때 예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am the bread",
+      "korean_translation": "나는 생명의 떡이다",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that gives life to people",
+      "korean_translation": "사람들에게 생명을 주는",
+      "word_indices": [
+        4,
+        41
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Anyone who comes to me",
+      "korean_translation": "나에게 오는 누구든지",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will never be hungry",
+      "korean_translation": "결코 굶주리지 아니할 것이다",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Anyone who believes in me",
+      "korean_translation": "나를 믿는 누구든지",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "will never be thirsty",
+      "korean_translation": "결코 목마르지 아니할 것이다",
+      "word_indices": [
+        705
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Numbers 21:9",
+  "version": "EASY",
+  "original_text": "Moses made a bronze snake and he put it on a pole. When a snake bit anyone and they looked at the bronze snake, they did not die.",
+  "korean_text": "모세가 놋뱀을 만들어 장대 위에 다니 뱀에게 물린 자가 놋뱀을 쳐다본즉 모두 살더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses made a bronze snake",
+      "korean_translation": "모세는 놋뱀을 만들었고",
+      "word_indices": [
+        341,
+        493
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he put it on a pole",
+      "korean_translation": "그것을 장대 위에 올려놓았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When a snake bit anyone",
+      "korean_translation": "뱀이 사람을 물 때",
+      "word_indices": [
+        109,
+        493
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they looked at the bronze snake",
+      "korean_translation": "그들이 놋뱀을 바라보면",
+      "word_indices": [
+        341,
+        493
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they did not die",
+      "korean_translation": "그들은 죽지 않았다",
+      "word_indices": []
+    }
+  ]
+}

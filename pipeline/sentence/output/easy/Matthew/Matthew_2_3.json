@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 2:3",
+  "version": "EASY",
+  "original_text": "When King Herod heard what the men said, he was very upset. All the people in Jerusalem were afraid too.",
+  "korean_text": "헤롯 왕과 온 예루살렘이 듣고 소동한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When King Herod heard what the men said",
+      "korean_translation": "헤롯 왕이 그들이 말한 것을 들었을 때",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he was very upset",
+      "korean_translation": "그는 매우 불안해했습니다",
+      "word_indices": [
+        322
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "All the people in Jerusalem",
+      "korean_translation": "예루살렘의 모든 사람들도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "were afraid too",
+      "korean_translation": "두려워했습니다",
+      "word_indices": [
+        96
+      ]
+    }
+  ]
+}

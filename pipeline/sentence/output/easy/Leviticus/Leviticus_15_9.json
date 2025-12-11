@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Leviticus 15:9",
+  "version": "EASY",
+  "original_text": "An unclean man might ride on an animal. The cloth on the back of the animal will become unclean.",
+  "korean_text": "유출병이 있는 자가 탔던 안장은 다 부정하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An unclean man might ride on an animal",
+      "korean_translation": "부정한 사람이 동물을 탈 수 있다",
+      "word_indices": [
+        48,
+        304
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The cloth on the back of the animal",
+      "korean_translation": "동물 등에 있는 천은",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will become unclean",
+      "korean_translation": "부정하게 될 것이다",
+      "word_indices": [
+        304
+      ]
+    }
+  ]
+}

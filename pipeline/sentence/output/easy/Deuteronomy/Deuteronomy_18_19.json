@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Deuteronomy 18:19",
+  "version": "EASY",
+  "original_text": "He will speak on my behalf, so I myself will punish anyone who does not listen to his message.",
+  "korean_text": "누구든지 내 이름으로 전하는 내 말을 듣지 아니하는 자는 내게 벌을 받을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He will speak on my behalf",
+      "korean_translation": "그가 내 편에서 말할 것이다",
+      "word_indices": [
+        18,
+        333
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so I myself will punish",
+      "korean_translation": "그래서 내가 직접 벌을 줄 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "anyone who does not listen",
+      "korean_translation": "듣지 않는 누구든지",
+      "word_indices": [
+        63,
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to his message",
+      "korean_translation": "그의 메시지를",
+      "word_indices": [
+        21
+      ]
+    }
+  ]
+}

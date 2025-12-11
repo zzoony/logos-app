@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 12:12",
+  "version": "EASY",
+  "original_text": "You know that a man is much more valuable than a sheep. So it is right for us to do good things on our day of rest.’",
+  "korean_text": "사람이 양보다 얼마나 더 귀하냐 그러므로 안식일에 선을 행하는 것이 옳으니라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know that",
+      "korean_translation": "너희는 알다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a man is much more valuable than a sheep",
+      "korean_translation": "사람이 양보다 훨씬 더 귀하다",
+      "word_indices": [
+        125,
+        193
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So it is right for us",
+      "korean_translation": "그러므로 우리에게는 옳다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to do good things on our day of rest",
+      "korean_translation": "안식일에 선한 일을 하는 것이",
+      "word_indices": [
+        19,
+        269
+      ]
+    }
+  ]
+}

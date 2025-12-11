@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 3:3",
+  "version": "EASY",
+  "original_text": "Jesus said to the man, ‘Stand here in front of everyone.’",
+  "korean_text": "예수께서 손 마른 사람에게 이르시되 한 가운데에 일어서라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to the man",
+      "korean_translation": "예수님이 그 사람에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Stand here",
+      "korean_translation": "여기 서라",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in front of everyone",
+      "korean_translation": "모든 사람 앞에서",
+      "word_indices": [
+        97,
+        123
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Leviticus 19:16",
+  "version": "EASY",
+  "original_text": "You must not speak bad words about other people. If somebody is in danger of death, do not keep quiet if you know the truth. I am the Lord.",
+  "korean_text": "너는 네 백성 중에 돌아다니며 사람을 비방하지 말며 네 이웃의 피를 흘려 이익을 도모하지 말라 나는 여호와이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not speak bad words",
+      "korean_translation": "너는 나쁜 말을 해서는 안 된다",
+      "word_indices": [
+        18,
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about other people",
+      "korean_translation": "다른 사람들에 대하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If somebody is in danger of death",
+      "korean_translation": "만약 누군가 죽음의 위험에 처해 있다면",
+      "word_indices": [
+        153,
+        558
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "do not keep quiet",
+      "korean_translation": "침묵하지 말라",
+      "word_indices": [
+        101,
+        550
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "if you know the truth",
+      "korean_translation": "만약 네가 진실을 안다면",
+      "word_indices": [
+        12,
+        591
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

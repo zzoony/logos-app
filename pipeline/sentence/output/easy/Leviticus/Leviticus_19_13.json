@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Leviticus 19:13",
+  "version": "EASY",
+  "original_text": "You must not rob another person. You must not keep a slave's money until the morning.",
+  "korean_text": "너는 네 이웃을 억압하지 말며 착취하지 말며 품꾼의 삯을 아침까지 밤새도록 네게 두지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not rob another person.",
+      "korean_translation": "너는 다른 사람을 강탈해서는 안 된다.",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must not keep a slave's money",
+      "korean_translation": "너는 종의 품삯을 아침까지 간직해서는 안 된다.",
+      "word_indices": [
+        101,
+        142,
+        214
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until the morning.",
+      "korean_translation": "아침까지.",
+      "word_indices": []
+    }
+  ]
+}

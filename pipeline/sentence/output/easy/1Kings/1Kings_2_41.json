@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Kings 2:41",
+  "version": "EASY",
+  "original_text": "Someone told Solomon that Shimei had travelled from Jerusalem to Gath and now he had returned.",
+  "korean_text": "시므이가 예루살렘에서부터 가드에 갔다가 돌아온 일을 어떤 사람이 솔로몬에게 말한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Someone told Solomon",
+      "korean_translation": "누군가 솔로몬에게 말했었다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Shimei had travelled from Jerusalem to Gath",
+      "korean_translation": "시므이가 예루살렘에서 가드로 여행했다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and now he had returned",
+      "korean_translation": "그리고 이제 그는 돌아왔다는 것을",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Ezekiel 47:4",
+  "version": "EASY",
+  "original_text": "Then he measured another 500 metres along the stream. He took me through the water again. Here, the water was as high as my knees. He measured another 500 metres. He took me through the water and it was now as high as my belt.",
+  "korean_text": "다시 천 척을 측량하고 내게 물을 건너게 하시니 물이 무릎에 오르고 다시 천 척을 측량하고 내게 물을 건너게 하시니 물이 허리에 오르고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he measured another 500 metres",
+      "korean_translation": "그가 또다시 500미터를 측정했고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "along the stream",
+      "korean_translation": "시내를 따라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He took me through the water again",
+      "korean_translation": "그가 나를 다시 물을 통해 데려갔다",
+      "word_indices": [
+        60,
+        192
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Here, the water was as high as my knees",
+      "korean_translation": "여기서 물은 내 무릎까지 높았다",
+      "word_indices": [
+        60,
+        275
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He measured another 500 metres",
+      "korean_translation": "그가 또 500미터를 측정했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He took me through the water",
+      "korean_translation": "그가 나를 물을 통해 데려갔고",
+      "word_indices": [
+        60,
+        192
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and it was now as high as my belt",
+      "korean_translation": "그리고 물은 이제 내 허리띠까지 높아졌다",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

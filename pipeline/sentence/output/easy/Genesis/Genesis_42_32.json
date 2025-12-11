@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 42:32",
+  "version": "EASY",
+  "original_text": "We belong to a family of 12 brothers, all the sons of one father. One brother is not with us any more, and the youngest brother is at home with our father in Canaan.”",
+  "korean_text": "우리는 한 아버지의 아들 열두 형제로서 하나는 없어지고 막내는 오늘 우리 아버지와 함께 가나안 땅에 있나이다 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We belong to a family of 12 brothers",
+      "korean_translation": "우리는 12형제 가족에 속해 있습니다",
+      "word_indices": [
+        45,
+        56,
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the sons of one father",
+      "korean_translation": "모두 한 아버지의 아들들입니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "One brother is not with us any more",
+      "korean_translation": "한 형제는 더 이상 우리와 함께 있지 않습니다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the youngest brother is at home",
+      "korean_translation": "그리고 막내 동생은 집에 있습니다",
+      "word_indices": [
+        135,
+        870
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with our father in Canaan",
+      "korean_translation": "가나안 땅에 계신 우리 아버지와 함께 있습니다",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

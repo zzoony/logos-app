@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Numbers 23:25",
+  "version": "EASY",
+  "original_text": "Balak said to Balaam, ‘You do not have to curse the Israelites, but please do not bless them!’",
+  "korean_text": "발락이 발람에게 이르되 그들을 저주하지도 말고 축복하지도 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Balak said to Balaam",
+      "korean_translation": "발락이 발람에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You do not have to curse the Israelites",
+      "korean_translation": "너는 이스라엘 사람들을 저주할 필요가 없다",
+      "word_indices": [
+        373
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but please do not bless them",
+      "korean_translation": "하지만 제발 그들을 축복하지 말아라",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

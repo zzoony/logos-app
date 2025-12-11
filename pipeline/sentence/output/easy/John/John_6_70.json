@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 6:70",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘I have chosen the 12 of you. But one of you is a servant of Satan!’",
+  "korean_text": "예수께서 대답하시되 내가 너희 열둘을 택하지 아니하였느냐 그러나 너희 중의 한 사람은 마귀니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied,",
+      "korean_translation": "예수님께서 대답하셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have chosen the 12 of you.",
+      "korean_translation": "나는 너희 열두 명을 선택했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But one of you",
+      "korean_translation": "하지만 너희 중 한 명은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is a servant of Satan!",
+      "korean_translation": "사탄의 종이다!",
+      "word_indices": [
+        44,
+        545
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 25:25",
+  "version": "EASY",
+  "original_text": "The first baby to come out had a red body. Hair covered the whole of his body. They called him Esau.",
+  "korean_text": "먼저 나온 자는 붉고 전신이 털옷 같아서 이름을 에서라 하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The first baby to come out",
+      "korean_translation": "처음 나온 아기는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "had a red body",
+      "korean_translation": "붉은 몸을 가졌다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Hair covered the whole of his body",
+      "korean_translation": "온몸에 털이 덮여 있었다",
+      "word_indices": [
+        169,
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They called him Esau",
+      "korean_translation": "그들은 그를 에서라고 불렀다",
+      "word_indices": [
+        47
+      ]
+    }
+  ]
+}

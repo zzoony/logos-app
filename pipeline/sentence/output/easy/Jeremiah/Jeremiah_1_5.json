@@ -1,0 +1,68 @@
+{
+  "verse_reference": "Jeremiah 1:5",
+  "version": "EASY",
+  "original_text": "‘I already knew you before I made you inside your mother's body. I chose you to be special before you were born. I chose you to be my prophet, to speak my message to other nations.’",
+  "korean_text": "내가 너를 모태에 짓기 전에 너를 알았고 네가 배에서 나오기 전에 너를 성별하였고 너를 여러 나라의 선지자로 세웠노라 하시기로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I already knew you",
+      "korean_translation": "나는 이미 너를 알았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "before I made you",
+      "korean_translation": "내가 너를 만들기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "inside your mother's body",
+      "korean_translation": "너의 어머니 몸 안에서",
+      "word_indices": [
+        202,
+        252
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I chose you to be special",
+      "korean_translation": "나는 너를 특별하게 선택했다",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before you were born",
+      "korean_translation": "네가 태어나기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I chose you to be my prophet",
+      "korean_translation": "나는 너를 나의 선지자로 선택했다",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to speak my message",
+      "korean_translation": "나의 메시지를 전하기 위해",
+      "word_indices": [
+        18,
+        21
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "to other nations",
+      "korean_translation": "다른 나라들에게",
+      "word_indices": [
+        70
+      ]
+    }
+  ]
+}

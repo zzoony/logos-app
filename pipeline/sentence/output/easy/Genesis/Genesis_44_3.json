@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 44:3",
+  "version": "EASY",
+  "original_text": "When morning came, the men started their journey with their donkeys.",
+  "korean_text": "아침이 밝을 때에 사람들과 그들의 나귀들을 보내니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When morning came",
+      "korean_translation": "아침이 되었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the men started their journey",
+      "korean_translation": "그 사람들은 여행을 시작했다",
+      "word_indices": [
+        222,
+        427
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with their donkeys",
+      "korean_translation": "그들의 나귀들과 함께",
+      "word_indices": [
+        310
+      ]
+    }
+  ]
+}

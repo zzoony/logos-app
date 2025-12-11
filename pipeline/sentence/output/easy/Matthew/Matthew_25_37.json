@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 25:37",
+  "version": "EASY",
+  "original_text": "Then the people on the right side will say to the king, “Master, when did we see that you were hungry and give you some food? When did we see that you were thirsty and we gave you some water to drink?",
+  "korean_text": "이에 의인들이 대답하여 이르되 주여 우리가 어느 때에 주께서 주리신 것을 보고 음식을 대접하였으며 목마르신 것을 보고 마시게 하였나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the people on the right side will say to the king",
+      "korean_translation": "그러면 오른편에 있는 사람들이 왕에게 말하기를",
+      "word_indices": [
+        3,
+        38
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Master, when did we see that you were hungry",
+      "korean_translation": "주님, 우리가 언제 당신이 주린 것을 보고",
+      "word_indices": [
+        176,
+        402
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and give you some food?",
+      "korean_translation": "먹을 것을 드렸나이까?",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When did we see that you were thirsty",
+      "korean_translation": "우리가 언제 당신이 목마른 것을 보고",
+      "word_indices": [
+        705
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and we gave you some water to drink?",
+      "korean_translation": "마실 물을 주었나이까?",
+      "word_indices": [
+        4,
+        60,
+        118
+      ]
+    }
+  ]
+}

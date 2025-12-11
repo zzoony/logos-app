@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 8:14",
+  "version": "EASY",
+  "original_text": "The people swept the frogs together to make big heaps. There was a very bad smell over the whole country.",
+  "korean_text": "사람들이 모아 무더기로 쌓으니 땅에서 악취가 나더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people swept the frogs together",
+      "korean_translation": "사람들이 개구리들을 함께 쓸어모았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to make big heaps",
+      "korean_translation": "큰 더미를 만들기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was a very bad smell",
+      "korean_translation": "아주 나쁜 냄새가 났다",
+      "word_indices": [
+        448
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "over the whole country",
+      "korean_translation": "온 나라에 걸쳐",
+      "word_indices": [
+        117,
+        169
+      ]
+    }
+  ]
+}

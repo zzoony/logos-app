@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Romans 1:1",
+  "version": "EASY",
+  "original_text": "This letter is from me, Paul. I am a servant of Christ Jesus. God chose me to be his apostle. He sent me to tell his good news to people.",
+  "korean_text": "예수 그리스도의 종 바울은 사도로 부르심을 받아 하나님의 복음을 위하여 택정함을 입었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This letter is from me",
+      "korean_translation": "이 편지는 나에게서 온 것입니다",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Paul",
+      "korean_translation": "바울입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am a servant of Christ Jesus",
+      "korean_translation": "나는 그리스도 예수의 종입니다",
+      "word_indices": [
+        44,
+        61
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God chose me",
+      "korean_translation": "하나님께서 나를 선택하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to be his apostle",
+      "korean_translation": "그의 사도가 되도록",
+      "word_indices": [
+        375
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He sent me",
+      "korean_translation": "그가 나를 보내셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to tell his good news to people",
+      "korean_translation": "사람들에게 그의 복음을 전하도록",
+      "word_indices": [
+        19
+      ]
+    }
+  ]
+}

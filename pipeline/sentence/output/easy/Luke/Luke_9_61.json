@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 9:61",
+  "version": "EASY",
+  "original_text": "Another man said, ‘Sir, I will come with you. But please let me first go home to say “Goodbye” to my family.’",
+  "korean_text": "또 다른 사람이 이르되 주여 내가 주를 따르겠나이다마는 나로 먼저 내 가족을 작별하게 허락하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Another man said",
+      "korean_translation": "다른 사람이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Sir, I will come with you'",
+      "korean_translation": "'선생님, 제가 당신과 함께 가겠습니다'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But please let me first go home",
+      "korean_translation": "하지만 제가 먼저 집에 가게 해주십시오",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to say 'Goodbye' to my family'",
+      "korean_translation": "제 가족에게 '작별 인사'를 하기 위해'",
+      "word_indices": [
+        56
+      ]
+    }
+  ]
+}

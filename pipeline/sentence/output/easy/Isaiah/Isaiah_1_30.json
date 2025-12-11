@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Isaiah 1:30",
+  "version": "EASY",
+  "original_text": "You will be like an oak tree with leaves that have become dry. You will be like a garden that has no water.",
+  "korean_text": "너희는 잎사귀 마른 상수리나무 같을 것이요 물 없는 동산 같으리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will be like an oak tree",
+      "korean_translation": "너희는 참나무 같이 될 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with leaves that have become dry",
+      "korean_translation": "마른 잎사귀를 가진",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will be like a garden",
+      "korean_translation": "너희는 정원 같이 될 것이며",
+      "word_indices": [
+        442
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that has no water",
+      "korean_translation": "물이 없는",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Philippians 4:22",
+  "version": "EASY",
+  "original_text": "All God's people here say ‘hello’ to you. The Christians who live in the king's house say a special ‘hello’ to you.",
+  "korean_text": "모든 성도들이 너희에게 문안하되 특히 가이사의 집 사람들 중 몇이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All God's people here say 'hello' to you",
+      "korean_translation": "이곳의 하나님의 모든 백성이 당신에게 인사합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Christians who live in the king's house",
+      "korean_translation": "왕의 집에 사는 기독교인들이",
+      "word_indices": [
+        3,
+        8,
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "say a special 'hello' to you",
+      "korean_translation": "당신에게 특별한 인사를 드립니다",
+      "word_indices": [
+        68
+      ]
+    }
+  ]
+}

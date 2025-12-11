@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 7:7",
+  "version": "EASY",
+  "original_text": "Noah and his wife went into the ship. His sons and their wives also went in. They all went into the ship to be safe from the deep water.",
+  "korean_text": "노아는 아들들과 아내와 며느리들과 함께 홍수를 피하여 방주에 들어갔고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Noah and his wife went into the ship",
+      "korean_translation": "노아와 그의 아내는 배 안으로 들어갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "His sons and their wives also went in",
+      "korean_translation": "그의 아들들과 그들의 아내들도 또한 들어갔습니다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They all went into the ship",
+      "korean_translation": "그들은 모두 배 안으로 들어갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to be safe from the deep water",
+      "korean_translation": "깊은 물로부터 안전하게 있기 위해",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 10:15",
+  "version": "EASY",
+  "original_text": "Canaan was the father of Sidon, who was born first. Canaan was also the ancestor of the Hittites,",
+  "korean_text": "가나안은 장자 시돈과 헷을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Canaan was the father of Sidon,",
+      "korean_translation": "가나안은 시돈의 아버지였으며,",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who was born first.",
+      "korean_translation": "그는 첫째로 태어났습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Canaan was also the ancestor of the Hittites,",
+      "korean_translation": "가나안은 또한 헷 족속의 조상이었습니다.",
+      "word_indices": [
+        9,
+        145
+      ]
+    }
+  ]
+}

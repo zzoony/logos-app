@@ -1,0 +1,66 @@
+{
+  "verse_reference": "1 Kings 3:23",
+  "version": "EASY",
+  "original_text": "Then the king said, ‘One of you says, “My son is alive and your son is dead.” But the other one says, “No! Your son is dead and my son is alive.” ’",
+  "korean_text": "왕이 이르되 이 여자는 말하기를 산 것은 내 아들이요 죽은 것은 네 아들이라 하고 저 여자는 말하기를 아니라 죽은 것이 네 아들이요 산 것이 내 아들이라 하는도다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the king said",
+      "korean_translation": "그때 왕이 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "One of you says",
+      "korean_translation": "너희 중 한 사람이 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My son is alive",
+      "korean_translation": "내 아들은 살아있다",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your son is dead",
+      "korean_translation": "그리고 네 아들은 죽었다",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But the other one says",
+      "korean_translation": "하지만 다른 한 사람은 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "No!",
+      "korean_translation": "아니다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Your son is dead",
+      "korean_translation": "네 아들은 죽었다",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and my son is alive",
+      "korean_translation": "그리고 내 아들은 살아있다",
+      "word_indices": [
+        151
+      ]
+    }
+  ]
+}

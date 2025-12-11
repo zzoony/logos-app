@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Leviticus 14:41",
+  "version": "EASY",
+  "original_text": "The person must cut the clay from inside the walls of the house. The person must put the clay from the walls outside the town. The person must put it in a place for things that are not clean.",
+  "korean_text": "또 집 안 사방을 긁게 하고 그 긁은 흙을 성 밖 부정한 곳에 쏟아버리게 할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The person must cut the clay",
+      "korean_translation": "그 사람은 흙을 깎아내야 합니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from inside the walls of the house",
+      "korean_translation": "집 벽 안에서",
+      "word_indices": [
+        67,
+        148,
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The person must put the clay from the walls",
+      "korean_translation": "그 사람은 벽에서 나온 흙을 놓아야 합니다",
+      "word_indices": [
+        24,
+        148
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "outside the town",
+      "korean_translation": "성 밖으로",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The person must put it",
+      "korean_translation": "그 사람은 그것을 놓아야 합니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in a place",
+      "korean_translation": "어떤 장소에",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "for things that are not clean",
+      "korean_translation": "부정한 것들을 위한",
+      "word_indices": [
+        184
+      ]
+    }
+  ]
+}

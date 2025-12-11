@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Deuteronomy 4:11",
+  "version": "EASY",
+  "original_text": "At that time, you came and you stood at the edge of the mountain. You saw that the fire on the mountain reached up to the sky. But the sky was full of black clouds and it was dark.",
+  "korean_text": "너희가 가까이 나아와서 산 아래에 서니 그 산에 불이 붙어 불길이 충천하고 어둠과 구름과 흑암이 덮였는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At that time, you came",
+      "korean_translation": "그때, 당신이 왔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you stood at the edge of the mountain.",
+      "korean_translation": "산의 가장자리에 서 있었습니다.",
+      "word_indices": [
+        175
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You saw that the fire on the mountain",
+      "korean_translation": "당신은 산의 불이",
+      "word_indices": [
+        121,
+        175
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "reached up to the sky.",
+      "korean_translation": "하늘까지 닿는 것을 보았습니다.",
+      "word_indices": [
+        449
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But the sky was full of black clouds",
+      "korean_translation": "하지만 하늘은 검은 구름으로 가득했고",
+      "word_indices": [
+        337,
+        387,
+        835
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and it was dark.",
+      "korean_translation": "어두웠습니다.",
+      "word_indices": []
+    }
+  ]
+}

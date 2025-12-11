@@ -1,0 +1,88 @@
+{
+  "verse_reference": "Daniel 5:16",
+  "version": "EASY",
+  "original_text": "I have heard that you can tell people what their dreams mean. And I have heard that you can find the answer to difficult problems. So can you read these words? Can you tell me what they mean? If you can do that, then I will put valuable purple clothes on you. You will have a gold chain around your neck. You will become the third ruler in the kingdom.’",
+  "korean_text": "내가 네게 대하여 들은즉 너는 해석을 잘하고 의문을 푼다 하도다 그런즉 이제 네가 이 글을 읽고 그 해석을 내게 알려 주면 네게 자주색 옷을 입히고 금 사슬을 네 목에 걸어 주어 너를 나라의 셋째 통치자로 삼으리라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have heard that you can tell people",
+      "korean_translation": "내가 듣기로 너는 사람들에게 말할 수 있다고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what their dreams mean.",
+      "korean_translation": "그들의 꿈이 무엇을 의미하는지",
+      "word_indices": [
+        389
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And I have heard that you can find",
+      "korean_translation": "그리고 내가 듣기로 너는 찾을 수 있다고",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the answer to difficult problems.",
+      "korean_translation": "어려운 문제에 대한 답을",
+      "word_indices": [
+        160,
+        440,
+        564
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So can you read these words?",
+      "korean_translation": "그래서 너는 이 글자들을 읽을 수 있는가?",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Can you tell me what they mean?",
+      "korean_translation": "너는 내게 그것들이 무엇을 의미하는지 말해 줄 수 있는가?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "If you can do that,",
+      "korean_translation": "만약 네가 그것을 할 수 있다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "then I will put valuable purple clothes on you.",
+      "korean_translation": "그러면 내가 너에게 값진 보라색 옷을 입혀주겠다.",
+      "word_indices": [
+        193,
+        698
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "You will have a gold chain around your neck.",
+      "korean_translation": "너는 목에 금 사슬을 차게 될 것이다.",
+      "word_indices": [
+        130,
+        647
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "You will become the third ruler in the kingdom.'",
+      "korean_translation": "너는 왕국에서 세 번째 통치자가 될 것이다.'",
+      "word_indices": [
+        188,
+        206,
+        431
+      ]
+    }
+  ]
+}

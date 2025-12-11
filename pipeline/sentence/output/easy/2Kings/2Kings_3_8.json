@@ -1,0 +1,54 @@
+{
+  "verse_reference": "2 Kings 3:8",
+  "version": "EASY",
+  "original_text": "King Jehoram asked, ‘What road should we go on to attack Moab?’ King Jehoshaphat replied, ‘We should travel through the Edom desert.’",
+  "korean_text": "여호람이 이르되 우리가 어느 길로 올라가리이까 하니 그가 대답하되 에돔 광야 길로니이다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Jehoram asked",
+      "korean_translation": "여호람 왕이 물었습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What road should we go on",
+      "korean_translation": "우리가 어떤 길로 가야 합니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to attack Moab?",
+      "korean_translation": "모압을 공격하기 위해",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "King Jehoshaphat replied",
+      "korean_translation": "여호사밧 왕이 대답했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "We should travel through",
+      "korean_translation": "우리는 통과해야 합니다",
+      "word_indices": [
+        192
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the Edom desert.'",
+      "korean_translation": "에돔 광야를",
+      "word_indices": [
+        235
+      ]
+    }
+  ]
+}

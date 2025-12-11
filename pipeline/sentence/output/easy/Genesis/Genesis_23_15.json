@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 23:15",
+  "version": "EASY",
+  "original_text": "‘Listen to me, sir. The land is worth 400 shekels of silver. But the price is not important, because we are friends. Now bury your dead wife there.’",
+  "korean_text": "내 주여 내 말을 들으소서 땅 값은 은 사백 세겔이나 그것이 나와 당신 사이에 무슨 문제가 되리이까 당신의 죽은 자를 장사하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Listen to me, sir.",
+      "korean_translation": "나를 들어보십시오, 주인님.",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The land is worth 400 shekels of silver.",
+      "korean_translation": "이 땅은 은 400세겔의 가치가 있습니다.",
+      "word_indices": [
+        14,
+        195,
+        791
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But the price is not important,",
+      "korean_translation": "하지만 가격은 중요하지 않습니다,",
+      "word_indices": [
+        138,
+        714
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because we are friends.",
+      "korean_translation": "우리는 친구이기 때문입니다.",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Now bury your dead wife there.",
+      "korean_translation": "이제 그곳에 죽은 아내를 묻으십시오.",
+      "word_indices": [
+        133
+      ]
+    }
+  ]
+}

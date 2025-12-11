@@ -1,0 +1,24 @@
+{
+  "verse_reference": "1 Samuel 22:21",
+  "version": "EASY",
+  "original_text": "Abiathar told David that Saul had killed the Lord's priests.",
+  "korean_text": "사울이 여호와의 제사장들 죽인 일을 다윗에게 알리매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abiathar told David",
+      "korean_translation": "아비아달은 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Saul had killed the Lord's priests",
+      "korean_translation": "사울이 주의 제사장들을 죽였다고",
+      "word_indices": [
+        2,
+        26,
+        32
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 36:5",
+  "version": "EASY",
+  "original_text": "They said to Moses, ‘The people are bringing many more gifts than we need to finish the tabernacle, as the Lord commanded us to do.’",
+  "korean_text": "모세에게 말하여 이르되 백성이 너무 많이 가져오므로 여호와께서 명령하신 일에 쓰기에 남음이 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said to Moses",
+      "korean_translation": "그들이 모세에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The people are bringing many more gifts",
+      "korean_translation": "백성들이 필요한 것보다 훨씬 더 많은 예물을 가져오고 있습니다",
+      "word_indices": [
+        17
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "than we need to finish the tabernacle",
+      "korean_translation": "성막을 마치는 데 필요한 것보다",
+      "word_indices": [
+        485
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as the Lord commanded us to do",
+      "korean_translation": "주께서 우리에게 명하신 대로",
+      "word_indices": [
+        2,
+        127
+      ]
+    }
+  ]
+}

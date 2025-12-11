@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 23:37",
+  "version": "EASY",
+  "original_text": "They said, ‘If you are really the King of the Jews, save your own life.’",
+  "korean_text": "이르되 네가 만일 유대인의 왕이면 네가 너를 구원하라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If you are really the King of the Jews",
+      "korean_translation": "당신이 정말 유대인의 왕이라면",
+      "word_indices": [
+        3,
+        146
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "save your own life",
+      "korean_translation": "당신 자신의 목숨을 구하라",
+      "word_indices": [
+        41,
+        147
+      ]
+    }
+  ]
+}

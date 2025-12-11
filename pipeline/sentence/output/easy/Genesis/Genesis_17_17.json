@@ -1,0 +1,73 @@
+{
+  "verse_reference": "Genesis 17:17",
+  "version": "EASY",
+  "original_text": "Abraham fell down so that his face touched the ground. He laughed and he said to himself, ‘I am now 100 years old. That is too old to have a son. Sarah is 90 years old, so she could never give birth to a child. That is too old to have a child.’",
+  "korean_text": "아브라함이 엎드려 웃으며 마음속으로 이르되 백 세 된 사람이 어찌 자식을 낳을까 사라는 구십 세니 어찌 출산하리요 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham fell down",
+      "korean_translation": "아브라함이 엎드렸습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that his face touched the ground",
+      "korean_translation": "그의 얼굴이 땅에 닿도록",
+      "word_indices": [
+        299,
+        348
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He laughed",
+      "korean_translation": "그는 웃었습니다",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he said to himself",
+      "korean_translation": "그리고 그는 마음속으로 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am now 100 years old",
+      "korean_translation": "나는 이제 100살입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "That is too old to have a son",
+      "korean_translation": "그것은 아들을 낳기에는 너무 늙은 나이입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Sarah is 90 years old",
+      "korean_translation": "사라는 90살입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "so she could never give birth to a child",
+      "korean_translation": "그래서 그녀는 결코 아이를 낳을 수 없을 것입니다",
+      "word_indices": [
+        4,
+        65,
+        249
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "That is too old to have a child",
+      "korean_translation": "그것은 아이를 낳기에는 너무 늙은 나이입니다",
+      "word_indices": [
+        65
+      ]
+    }
+  ]
+}

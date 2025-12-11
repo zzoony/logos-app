@@ -1,0 +1,38 @@
+{
+  "verse_reference": "2 Samuel 3:38",
+  "version": "EASY",
+  "original_text": "The king said to his servants, ‘You must understand that a great leader has died today in Israel.",
+  "korean_text": "왕이 그의 신복에게 이르되 오늘 이스라엘의 지도자요 큰 인물이 죽은 것을 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king said to his servants",
+      "korean_translation": "왕이 그의 종들에게 말했습니다",
+      "word_indices": [
+        3,
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must understand",
+      "korean_translation": "너희는 알아야만 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that a great leader has died today",
+      "korean_translation": "위대한 지도자가 오늘 죽었다는 것을",
+      "word_indices": [
+        40,
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in Israel",
+      "korean_translation": "이스라엘에서",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 4:21",
+  "version": "EASY",
+  "original_text": "Jesus said to her, ‘Believe me, woman. Soon you will not worship the Father either on this mountain or at Jerusalem.",
+  "korean_text": "예수께서 이르시되 여자여 내 말을 믿으라 이 산에서도 말고 예루살렘에서도 말고 너희가 아버지께 예배할 때가 이르리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to her",
+      "korean_translation": "예수께서 그녀에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Believe me, woman",
+      "korean_translation": "여인이여, 나를 믿으라",
+      "word_indices": [
+        46,
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Soon you will not worship the Father",
+      "korean_translation": "곧 당신은 아버지를 경배하지 않을 것이다",
+      "word_indices": [
+        37,
+        89
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "either on this mountain or at Jerusalem",
+      "korean_translation": "이 산에서도 아니고 예루살렘에서도 아니고",
+      "word_indices": [
+        175,
+        644
+      ]
+    }
+  ]
+}

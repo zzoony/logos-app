@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 47:1",
+  "version": "EASY",
+  "original_text": "Joseph went to Pharaoh. He told him, ‘My father and brothers have arrived from Canaan. They have come with their animals and everything that belongs to them. They are now in Goshen.’",
+  "korean_text": "요셉이 바로에게 가서 고하여 이르되 내 아버지와 내 형들과 그들의 양과 소와 모든 소유가 가나안 땅에서 와서 고센 땅에 있나이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph went to Pharaoh",
+      "korean_translation": "요셉이 바로에게 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He told him",
+      "korean_translation": "그가 그에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My father and brothers have arrived from Canaan",
+      "korean_translation": "나의 아버지와 형제들이 가나안에서 도착했습니다",
+      "word_indices": [
+        37,
+        135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They have come with their animals",
+      "korean_translation": "그들은 그들의 가축들과 함께 왔습니다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and everything that belongs to them",
+      "korean_translation": "그리고 그들에게 속한 모든 것과 함께",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They are now in Goshen",
+      "korean_translation": "그들은 지금 고센에 있습니다",
+      "word_indices": []
+    }
+  ]
+}

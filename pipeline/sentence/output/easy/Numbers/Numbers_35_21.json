@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Numbers 35:21",
+  "version": "EASY",
+  "original_text": "Or a man might hit someone with his hand because he hates him. If the person dies as a result, you must kill the murderer. The dead person's relative must kill the murderer when he meets him.",
+  "korean_text": "악의를 가지고 손으로 쳐죽이면 그 친 자는 반드시 죽일 것이니 이는 살인하였음이라 피를 보복하는 자는 살인자를 만나면 죽일 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Or a man might hit someone with his hand",
+      "korean_translation": "또는 한 사람이 손으로 다른 사람을 때릴 수도 있습니다",
+      "word_indices": [
+        94,
+        132
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he hates him",
+      "korean_translation": "그를 미워하기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the person dies as a result",
+      "korean_translation": "만약 그 사람이 그 결과로 죽는다면",
+      "word_indices": [
+        24,
+        215
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you must kill the murderer",
+      "korean_translation": "너는 그 살인자를 죽여야 합니다",
+      "word_indices": [
+        26,
+        773
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The dead person's relative must kill the murderer",
+      "korean_translation": "죽은 사람의 친척은 그 살인자를 죽여야 합니다",
+      "word_indices": [
+        24,
+        26,
+        133,
+        441,
+        773
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "when he meets him",
+      "korean_translation": "그를 만났을 때",
+      "word_indices": []
+    }
+  ]
+}

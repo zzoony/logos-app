@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Luke 7:42",
+  "version": "EASY",
+  "original_text": "Neither of the men had enough money to pay him back. Then the man that had lent them the money forgave them. “You do not need to pay back my money,” he said to them both.’",
+  "korean_text": "갚을 것이 없으므로 둘 다 탕감하여 주었으니 둘 중에 누가 그를 더 사랑하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Neither of the men had enough money",
+      "korean_translation": "두 사람 중 어느 누구도 충분한 돈이 없었습니다",
+      "word_indices": [
+        142,
+        228,
+        997
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to pay him back",
+      "korean_translation": "그에게 갚을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the man that had lent them the money",
+      "korean_translation": "그러자 그들에게 돈을 빌려준 그 사람이",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "forgave them",
+      "korean_translation": "그들을 용서했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You do not need to pay back my money",
+      "korean_translation": "너희는 내 돈을 갚을 필요가 없다",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "he said to them both",
+      "korean_translation": "그가 둘에게 말했습니다",
+      "word_indices": []
+    }
+  ]
+}

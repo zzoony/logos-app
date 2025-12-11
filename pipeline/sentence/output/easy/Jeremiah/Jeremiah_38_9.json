@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Jeremiah 38:9",
+  "version": "EASY",
+  "original_text": "‘My master, the king, those men have done very wicked things to the prophet Jeremiah. They have put him in a deep hole. He will soon die there because there is no food in the city.’",
+  "korean_text": "내 주 왕이여 저 사람들이 선지자 예레미야에게 행한 모든 일은 악하니이다 성 중에 떡이 떨어졌거늘 그들이 그를 구덩이에 던져 넣었으니 그가 거기에서 굶어 죽으리이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My master, the king",
+      "korean_translation": "나의 주인이신 왕이시여",
+      "word_indices": [
+        3,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "those men have done very wicked things to the prophet Jeremiah",
+      "korean_translation": "그 사람들이 예레미야 선지자에게 매우 악한 일을 행했습니다",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They have put him in a deep hole",
+      "korean_translation": "그들은 그를 깊은 구덩이에 넣었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He will soon die there",
+      "korean_translation": "그는 곧 그곳에서 죽을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because there is no food in the city",
+      "korean_translation": "성 안에 음식이 없기 때문입니다",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

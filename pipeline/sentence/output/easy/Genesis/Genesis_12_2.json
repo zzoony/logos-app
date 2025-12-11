@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 12:2",
+  "version": "EASY",
+  "original_text": "I will cause your descendants to become a great nation. I will bless you. Everyone will know your name. You will bring my blessing to other people.",
+  "korean_text": "내가 너로 큰 민족을 이루고 네게 복을 주어 네 이름을 창대하게 하리니 너는 복이 될지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will cause your descendants to become a great nation",
+      "korean_translation": "내가 네 자손을 큰 민족이 되게 하리라",
+      "word_indices": [
+        30,
+        40,
+        70,
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will bless you",
+      "korean_translation": "내가 너를 축복하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Everyone will know your name",
+      "korean_translation": "모든 사람이 네 이름을 알리라",
+      "word_indices": [
+        12,
+        90,
+        97
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You will bring my blessing to other people",
+      "korean_translation": "너는 다른 사람들에게 나의 축복을 전하리라",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

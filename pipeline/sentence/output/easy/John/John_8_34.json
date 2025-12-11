@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 8:34",
+  "version": "EASY",
+  "original_text": "Jesus answered them, ‘I tell you this: Everyone who does wrong things is a slave to sin.",
+  "korean_text": "예수께서 대답하시되 진실로 진실로 너희에게 이르노니 죄를 범하는 자마다 죄의 종이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered them",
+      "korean_translation": "예수께서 그들에게 대답하시다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you this",
+      "korean_translation": "내가 너희에게 이것을 말하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Everyone who does wrong things",
+      "korean_translation": "악한 일을 행하는 모든 사람은",
+      "word_indices": [
+        71,
+        97
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "is a slave to sin",
+      "korean_translation": "죄의 종이니라",
+      "word_indices": [
+        214
+      ]
+    }
+  ]
+}

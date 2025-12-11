@@ -1,0 +1,63 @@
+{
+  "verse_reference": "John 9:8",
+  "version": "EASY",
+  "original_text": "People began to talk about him. Some of these people lived near him. Others had seen him when he was asking for money. They said, ‘This is the man who sat here. He asked people to give him money. Isn't that right?’",
+  "korean_text": "이웃 사람들과 전에 그가 걸인인 것을 보았던 사람들이 이르되 이는 앉아서 구걸하던 자가 아니냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People began to talk about him.",
+      "korean_translation": "사람들이 그에 대해 이야기하기 시작했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Some of these people lived near him.",
+      "korean_translation": "이 사람들 중 일부는 그의 근처에 살았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Others had seen him",
+      "korean_translation": "다른 사람들은 그를 보았었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when he was asking for money.",
+      "korean_translation": "그가 돈을 구걸하고 있을 때.",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They said, 'This is the man",
+      "korean_translation": "그들은 말했습니다, '이 사람이 바로 그 사람입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who sat here.'",
+      "korean_translation": "여기에 앉아 있던 사람입니다.'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "He asked people to give him money.",
+      "korean_translation": "그는 사람들에게 돈을 주라고 요청했습니다.",
+      "word_indices": [
+        4,
+        142
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Isn't that right?'",
+      "korean_translation": "그렇지 않습니까?'",
+      "word_indices": [
+        38
+      ]
+    }
+  ]
+}

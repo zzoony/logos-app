@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Leviticus 24:21",
+  "version": "EASY",
+  "original_text": "A man might hit an animal so that it dies. That man must give back an animal that is alive. But if he kills a man, you must punish him with death.",
+  "korean_text": "짐승을 죽인 자는 그것을 물어 줄 것이요 사람을 죽인 자는 죽일지니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man might hit an animal",
+      "korean_translation": "한 사람이 동물을 때릴 수 있다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that it dies",
+      "korean_translation": "그래서 그것이 죽게 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That man must give back an animal",
+      "korean_translation": "그 사람은 동물을 반환해야 한다",
+      "word_indices": [
+        4,
+        48
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is alive",
+      "korean_translation": "살아있는",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But if he kills a man",
+      "korean_translation": "하지만 그가 사람을 죽이면",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you must punish him with death",
+      "korean_translation": "너는 그를 사형으로 처벌해야 한다",
+      "word_indices": [
+        153
+      ]
+    }
+  ]
+}

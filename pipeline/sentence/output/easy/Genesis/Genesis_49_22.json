@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 49:22",
+  "version": "EASY",
+  "original_text": "Joseph is like a vine that has lots of fruit. It grows near a well and its branches go over a wall.",
+  "korean_text": "요셉은 무성한 가지 곧 샘 곁의 무성한 가지라 그 가지가 담을 넘었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph is like a vine",
+      "korean_translation": "요셉은 포도나무와 같으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that has lots of fruit",
+      "korean_translation": "많은 열매를 맺는다",
+      "word_indices": [
+        278
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It grows near a well",
+      "korean_translation": "그것은 우물 근처에서 자라며",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and its branches go over a wall",
+      "korean_translation": "그 가지들이 담을 넘어간다",
+      "word_indices": [
+        148,
+        360
+      ]
+    }
+  ]
+}

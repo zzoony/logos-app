@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Samuel 19:28",
+  "version": "EASY",
+  "original_text": "I know that you, my lord the king, would have been right to kill all my grandfather's family. We all deserved that punishment. But instead, you asked me to eat meals at your table. So it would not be right for me to ask you to do anything more for me.’",
+  "korean_text": "내 아버지의 온 집이 내 주 왕 앞에서는 다만 죽을 사람이 되지 아니하였나이까 그러나 종을 왕의 상에서 음식 먹는 자 가운데에 두셨사오니 내게 아직 무슨 공의가 있어서 다시 왕께 부르짖을 수 있사오리이까 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that you, my lord the king,",
+      "korean_translation": "내가 아나이다, 내 주 왕이시여,",
+      "word_indices": [
+        2,
+        3,
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "would have been right to kill all my grandfather's family.",
+      "korean_translation": "내 조부의 온 집을 죽이는 것이 옳았을 것임을",
+      "word_indices": [
+        26,
+        38,
+        56,
+        1161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We all deserved that punishment.",
+      "korean_translation": "우리 모두가 그 벌을 받을 만했었습니다.",
+      "word_indices": [
+        274
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But instead, you asked me to eat meals at your table.",
+      "korean_translation": "그러나 대신, 당신은 내게 당신의 식탁에서 식사하라고 요청했습니다.",
+      "word_indices": [
+        536
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So it would not be right for me to ask you to do anything more for me.'",
+      "korean_translation": "그러므로 내가 당신께 더 무엇을 해달라고 요청하는 것은 옳지 않을 것입니다.'",
+      "word_indices": [
+        38
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 6:17",
+  "version": "EASY",
+  "original_text": "I will cover the earth with deep water. I will destroy all living things, wherever they live. Everything that breathes will die.",
+  "korean_text": "내가 홍수를 땅에 일으켜 무릇 생명의 기운이 있는 모든 육체를 천하에서 멸절하리니 땅에 있는 것들이 다 죽으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will cover the earth with deep water",
+      "korean_translation": "나는 땅을 깊은 물로 덮을 것이다",
+      "word_indices": [
+        60,
+        93,
+        238
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will destroy all living things",
+      "korean_translation": "나는 모든 생명체를 멸망시킬 것이다",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "wherever they live",
+      "korean_translation": "그들이 사는 곳이면 어디든지",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Everything that breathes will die",
+      "korean_translation": "숨 쉬는 모든 것은 죽을 것이다",
+      "word_indices": [
+        735
+      ]
+    }
+  ]
+}

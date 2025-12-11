@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Kings 10:4",
+  "version": "EASY",
+  "original_text": "The Queen of Sheba saw that Solomon was very wise. She saw the palace that he had built.",
+  "korean_text": "스바의 여왕이 솔로몬의 모든 지혜와 그 건축한 왕궁과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Queen of Sheba saw",
+      "korean_translation": "스바 여왕이 보았다",
+      "word_indices": [
+        603
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Solomon was very wise",
+      "korean_translation": "솔로몬이 매우 지혜로운 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She saw the palace",
+      "korean_translation": "그녀는 궁전을 보았다",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that he had built",
+      "korean_translation": "그가 지었던",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Leviticus 10:2",
+  "version": "EASY",
+  "original_text": "The Lord was angry and he sent fire to burn them. They died there in front of the Lord's altar.",
+  "korean_text": "불이 여호와 앞에서 나와 그들을 삼키매 그들이 여호와 앞에서 죽은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord was angry",
+      "korean_translation": "주님께서 노하셨고",
+      "word_indices": [
+        2,
+        106
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he sent fire to burn them",
+      "korean_translation": "그들을 태우기 위해 불을 보내셨다",
+      "word_indices": [
+        121
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They died there",
+      "korean_translation": "그들은 그곳에서 죽었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in front of the Lord's altar",
+      "korean_translation": "주님의 제단 앞에서",
+      "word_indices": [
+        2,
+        119,
+        123
+      ]
+    }
+  ]
+}

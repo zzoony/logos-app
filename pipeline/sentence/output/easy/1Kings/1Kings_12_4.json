@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 12:4",
+  "version": "EASY",
+  "original_text": "‘Your father caused us to work too hard. Please make the work easier for us. If you do that, we will serve you as our king.’",
+  "korean_text": "왕의 아버지가 우리의 멍에를 무겁게 하였으나 왕은 이제 왕의 아버지가 우리에게 시킨 고역과 메운 무거운 멍에를 가볍게 하소서 그리하시면 우리가 왕을 섬기겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your father caused us to work too hard",
+      "korean_translation": "당신의 아버지가 우리를 너무 힘들게 일하게 했습니다",
+      "word_indices": [
+        35,
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Please make the work easier for us",
+      "korean_translation": "제발 우리에게 더 쉬운 일을 만들어 주세요",
+      "word_indices": [
+        35,
+        76,
+        1097
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you do that",
+      "korean_translation": "만약 당신이 그렇게 한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we will serve you as our king",
+      "korean_translation": "우리는 당신을 왕으로 섬길 것입니다",
+      "word_indices": [
+        3,
+        95
+      ]
+    }
+  ]
+}

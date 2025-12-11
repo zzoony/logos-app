@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 7:2",
+  "version": "EASY",
+  "original_text": "You must say everything that I command you to say. Your brother Aaron must tell Pharaoh to let the Israelites go out of his country.",
+  "korean_text": "내가 네게 명령한 바를 너는 네 형 아론에게 말하고 그는 바로에게 말하여 그에게 이스라엘 자손을 그 땅에서 내보내게 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must say everything",
+      "korean_translation": "너는 모든 것을 말해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I command you to say",
+      "korean_translation": "내가 너에게 말하라고 명하는 것을",
+      "word_indices": [
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your brother Aaron must tell Pharaoh",
+      "korean_translation": "네 형 아론은 바로에게 말해야 한다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to let the Israelites go",
+      "korean_translation": "이스라엘 자손을 가게 하라고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "out of his country",
+      "korean_translation": "그의 나라에서 나가게 하라고",
+      "word_indices": [
+        117
+      ]
+    }
+  ]
+}

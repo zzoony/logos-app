@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Genesis 42:13",
+  "version": "EASY",
+  "original_text": "Joseph's brothers replied, ‘We belong to a family of 12 brothers. We are the sons of one man who lives in Canaan. Our youngest brother stayed at home with our father. One other brother is not with us any more.’",
+  "korean_text": "그들이 이르되 당신의 종 우리들은 열두 형제로서 가나안 땅 한 사람의 아들들이라 막내 아들은 오늘 아버지와 함께 있고 또 하나는 없어졌나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph's brothers replied",
+      "korean_translation": "요셉의 형제들이 대답하였다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We belong to a family of 12 brothers",
+      "korean_translation": "우리는 12형제가 있는 가문에 속합니다",
+      "word_indices": [
+        45,
+        56,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We are the sons of one man",
+      "korean_translation": "우리는 한 사람의 아들들입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who lives in Canaan",
+      "korean_translation": "그는 가나안에 삽니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Our youngest brother stayed at home",
+      "korean_translation": "우리 막내 동생은 집에 있었습니다",
+      "word_indices": [
+        135,
+        870
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "with our father",
+      "korean_translation": "우리 아버지와 함께",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "One other brother is not with us",
+      "korean_translation": "다른 한 형제는 우리와 함께 있지 않습니다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "any more",
+      "korean_translation": "더 이상",
+      "word_indices": []
+    }
+  ]
+}

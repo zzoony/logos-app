@@ -1,0 +1,80 @@
+{
+  "verse_reference": "Esther 3:15",
+  "version": "EASY",
+  "original_text": "King Xerxes told his men to take the letters quickly to all the people. They also read the law to the people in Susa city. Then Haman and the king sat down to drink wine together. But the people in the city were very upset.",
+  "korean_text": "역졸이 왕의 명령을 받들어 급히 나가매 그 조서가 도성 수산에도 반포되니 왕은 하만과 함께 앉아 마시되 수산 성은 어지럽더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Xerxes told his men",
+      "korean_translation": "크셀크세스 왕이 그의 신하들에게 명령했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to take the letters quickly",
+      "korean_translation": "편지를 빨리 가져가도록",
+      "word_indices": [
+        248,
+        347
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to all the people",
+      "korean_translation": "모든 백성에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They also read the law",
+      "korean_translation": "그들은 또한 법을 읽었습니다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to the people in Susa city",
+      "korean_translation": "수사 성의 백성에게",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then Haman and the king sat down",
+      "korean_translation": "그리고 하만과 왕이 앉았습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to drink wine together",
+      "korean_translation": "함께 포도주를 마시기 위해",
+      "word_indices": [
+        118,
+        219
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "But the people in the city",
+      "korean_translation": "하지만 성 안의 백성들은",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "were very upset",
+      "korean_translation": "매우 불안했습니다",
+      "word_indices": [
+        322
+      ]
+    }
+  ]
+}

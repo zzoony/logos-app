@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Genesis 10:25",
+  "version": "EASY",
+  "original_text": "Eber had two sons. The name of one son was Peleg. When he was alive, people began to live in different places on the earth. That is why his name was Peleg. Peleg's brother's name was Joktan.",
+  "korean_text": "에벨은 두 아들을 낳고 하나의 이름을 벨렉이라 하였으니 그 때에 세상이 나뉘었음이요 벨렉의 아우의 이름은 욕단이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Eber had two sons.",
+      "korean_translation": "에벨에게는 아들이 두 명 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The name of one son was Peleg.",
+      "korean_translation": "한 아들의 이름은 벨렉이었습니다.",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When he was alive,",
+      "korean_translation": "그가 살아 있었을 때,",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "people began to live in different places",
+      "korean_translation": "사람들은 다른 곳에 살기 시작했습니다.",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the earth.",
+      "korean_translation": "땅 위에.",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "That is why his name was Peleg.",
+      "korean_translation": "그래서 그의 이름이 벨렉이었습니다.",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Peleg's brother's name was Joktan.",
+      "korean_translation": "벨렉의 동생 이름은 요단이었습니다.",
+      "word_indices": [
+        90,
+        135
+      ]
+    }
+  ]
+}

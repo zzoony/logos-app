@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 19:40",
+  "version": "EASY",
+  "original_text": "‘Let me tell you this,’ Jesus replied. ‘If these people were quiet, the stones of the city would shout out instead!’",
+  "korean_text": "대답하여 이르시되 내가 너희에게 말하노니 만일 이 사람들이 침묵하면 돌들이 소리 지르리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let me tell you this",
+      "korean_translation": "이것을 너희에게 말하겠노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If these people were quiet",
+      "korean_translation": "만약 이 사람들이 조용히 한다면",
+      "word_indices": [
+        550
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the stones of the city",
+      "korean_translation": "성의 돌들이",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "would shout out instead",
+      "korean_translation": "대신 소리칠 것이라",
+      "word_indices": [
+        174
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Mark 1:23",
+  "version": "EASY",
+  "original_text": "In the meeting place, there was a man who had a bad spirit. The bad spirit caused the man to shout.",
+  "korean_text": "마침 그들의 회당에 더러운 귀신 들린 사람이 있어 소리 질러 이르되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the meeting place",
+      "korean_translation": "회당에",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was a man",
+      "korean_translation": "한 사람이 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who had a bad spirit",
+      "korean_translation": "그에게는 더러운 귀신이 들려 있었다",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The bad spirit",
+      "korean_translation": "그 귀신이",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "caused the man to shout",
+      "korean_translation": "사람으로 하여금 소리치게 했다",
+      "word_indices": [
+        174
+      ]
+    }
+  ]
+}

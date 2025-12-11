@@ -1,0 +1,37 @@
+{
+  "verse_reference": "2 Kings 22:11",
+  "version": "EASY",
+  "original_text": "When the king heard the words from the Book of the Law, he was very upset. He tore his clothes.",
+  "korean_text": "왕이 율법책의 말을 듣자 곧 그의 옷을 찢으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the king heard the words",
+      "korean_translation": "왕이 그 말씀을 들었을 때",
+      "word_indices": [
+        3,
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the Book of the Law",
+      "korean_translation": "율법 책에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he was very upset",
+      "korean_translation": "그는 매우 슬퍼했습니다",
+      "word_indices": [
+        322
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He tore his clothes",
+      "korean_translation": "그는 자기 옷을 찢었습니다",
+      "word_indices": []
+    }
+  ]
+}

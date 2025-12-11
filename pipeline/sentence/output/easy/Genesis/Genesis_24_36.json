@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Genesis 24:36",
+  "version": "EASY",
+  "original_text": "Sarah is my master's wife. She has given birth to a son for him, even when she was very old. My master has given his son everything that belongs to him.",
+  "korean_text": "나의 주인의 아내 사라가 노년에 나의 주인에게 아들을 낳으매 주인이 그의 모든 소유를 그 아들에게 주었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sarah is my master's wife",
+      "korean_translation": "사라는 내 주인의 아내입니다",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She has given birth to a son for him",
+      "korean_translation": "그녀는 그를 위해 아들을 낳아주었습니다",
+      "word_indices": [
+        4,
+        249
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even when she was very old",
+      "korean_translation": "그녀가 매우 늙었을 때에도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "My master has given his son",
+      "korean_translation": "내 주인은 그의 아들에게 주었습니다",
+      "word_indices": [
+        4,
+        176
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "everything that belongs to him",
+      "korean_translation": "그에게 속한 모든 것을",
+      "word_indices": [
+        45
+      ]
+    }
+  ]
+}

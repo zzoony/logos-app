@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Exodus 10:28",
+  "version": "EASY",
+  "original_text": "Pharaoh said to Moses, ‘Go away from me! Be careful not to come back! I never want to see you again! On the day that you see my face, you will die!’",
+  "korean_text": "바로가 모세에게 이르되 너는 나를 떠나가고 스스로 삼가 다시 내 얼굴을 보지 말라 네가 내 얼굴을 보는 날에는 죽으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pharaoh said to Moses",
+      "korean_translation": "바로가 모세에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go away from me!",
+      "korean_translation": "나에게서 가라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Be careful not to come back!",
+      "korean_translation": "돌아오지 않도록 조심해라!",
+      "word_indices": [
+        309
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I never want to see you again!",
+      "korean_translation": "나는 다시는 너를 보고 싶지 않다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "On the day that you see my face",
+      "korean_translation": "네가 내 얼굴을 보는 그날에",
+      "word_indices": [
+        299
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you will die!",
+      "korean_translation": "너는 죽을 것이다!",
+      "word_indices": []
+    }
+  ]
+}

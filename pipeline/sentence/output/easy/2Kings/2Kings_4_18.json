@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Kings 4:18",
+  "version": "EASY",
+  "original_text": "One day, when the child was older, he went out to see his father. His father was working in a field with his men at harvest time.",
+  "korean_text": "그 아이가 자라매 하루는 추수꾼들에게 나가서 그의 아버지에게 이르렀더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day, when the child was older,",
+      "korean_translation": "어느 날, 그 아이가 자랐을 때,",
+      "word_indices": [
+        65
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he went out to see his father.",
+      "korean_translation": "그는 아버지를 만나러 밖으로 나갔다.",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "His father was working in a field",
+      "korean_translation": "그의 아버지는 밭에서 일하고 있었다",
+      "word_indices": [
+        35,
+        37,
+        152
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with his men at harvest time.",
+      "korean_translation": "추수 시간에 그의 사람들과 함께.",
+      "word_indices": [
+        474
+      ]
+    }
+  ]
+}

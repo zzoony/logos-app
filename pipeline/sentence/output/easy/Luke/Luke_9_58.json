@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Luke 9:58",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘Wild animals and birds have their own places to live. But I, the Son of Man, have no place of my own to lie down and rest.’",
+  "korean_text": "예수께서 이르시되 여우도 굴이 있고 공중의 새도 집이 있으되 인자는 머리 둘 곳이 없도다 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Wild animals have their own places to live",
+      "korean_translation": "들짐승들은 살 곳이 있다",
+      "word_indices": [
+        8,
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and birds have their own places to live",
+      "korean_translation": "새들도 자기 살 곳이 있다",
+      "word_indices": [
+        8,
+        344
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But I, the Son of Man",
+      "korean_translation": "그러나 나 인자는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "have no place of my own",
+      "korean_translation": "내가 머물 곳이 없다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to lie down and rest",
+      "korean_translation": "눕고 쉴 곳이 없다",
+      "word_indices": [
+        269
+      ]
+    }
+  ]
+}

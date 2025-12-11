@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 18:33",
+  "version": "EASY",
+  "original_text": "I was kind to you. You should have been kind to that other servant in the same way.”",
+  "korean_text": "내가 너를 불쌍히 여김과 같이 너도 네 동료를 불쌍히 여김이 마땅하지 아니하냐 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I was kind to you.",
+      "korean_translation": "나는 너에게 친절했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You should have been kind",
+      "korean_translation": "너는 친절했어야 했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to that other servant",
+      "korean_translation": "그 다른 종에게",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the same way.",
+      "korean_translation": "같은 방식으로.",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Ezekiel 45:21",
+  "version": "EASY",
+  "original_text": "Each year, on the 14th day of the first month, you must start the Passover festival. The festival will continue for seven days. During that time you must not eat any bread that has yeast in it.",
+  "korean_text": "첫째 달 열나흗날에는 유월절을 칠 일 동안 명절로 지키며 누룩 없는 떡을 먹을 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Each year",
+      "korean_translation": "매년",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the 14th day of the first month",
+      "korean_translation": "첫째 달 14일에",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you must start the Passover festival",
+      "korean_translation": "너는 유월절을 시작해야 한다",
+      "word_indices": [
+        222,
+        436,
+        516
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The festival will continue for seven days",
+      "korean_translation": "그 절기는 7일 동안 계속될 것이다",
+      "word_indices": [
+        198,
+        436
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "During that time",
+      "korean_translation": "그 기간 동안",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you must not eat any bread that has yeast in it",
+      "korean_translation": "너는 누룩이 든 빵을 먹어서는 안 된다",
+      "word_indices": [
+        229,
+        600
+      ]
+    }
+  ]
+}

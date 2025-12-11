@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 16:7",
+  "version": "EASY",
+  "original_text": "The disciples began to talk to each other about this. ‘Jesus is saying this because we did not bring any bread with us,’ they said.",
+  "korean_text": "제자들이 서로 논의하여 이르되 우리가 떡을 가져오지 아니하였도다 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The disciples began to talk to each other",
+      "korean_translation": "제자들은 서로 이야기하기 시작했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about this",
+      "korean_translation": "이것에 대해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus is saying this because",
+      "korean_translation": "예수님은 이렇게 말씀하시는 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we did not bring any bread with us",
+      "korean_translation": "우리가 빵을 가져오지 않았기 때문입니다",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they said",
+      "korean_translation": "그들이 말했습니다",
+      "word_indices": []
+    }
+  ]
+}

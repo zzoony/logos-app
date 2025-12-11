@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 17:7",
+  "version": "EASY",
+  "original_text": "Everything that I have comes from you. Now they know that you gave me everything.",
+  "korean_text": "지금 그들은 아버지께서 내게 주신 것이 다 아버지로부터 온 것인 줄 알았나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Everything that I have",
+      "korean_translation": "내가 가진 모든 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "comes from you.",
+      "korean_translation": "당신에게서 옵니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Now they know",
+      "korean_translation": "이제 그들은 알았습니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you gave me everything.",
+      "korean_translation": "당신이 나에게 모든 것을 주셨다는 것을.",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

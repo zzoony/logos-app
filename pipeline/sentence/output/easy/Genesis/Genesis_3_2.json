@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 3:2",
+  "version": "EASY",
+  "original_text": "The woman replied, ‘We may eat fruit from the trees in the garden.",
+  "korean_text": "여자가 뱀에게 말하되 동산 나무의 열매를 우리가 먹을 수 있으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman replied",
+      "korean_translation": "그 여자가 대답했다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We may eat fruit",
+      "korean_translation": "우리는 과일을 먹을 수 있다",
+      "word_indices": [
+        278
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the trees in the garden",
+      "korean_translation": "동산의 나무들로부터",
+      "word_indices": [
+        442
+      ]
+    }
+  ]
+}

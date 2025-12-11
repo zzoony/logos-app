@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Mark 4:22",
+  "version": "EASY",
+  "original_text": "God hides some things now. But there will be a time when people will see them. God keeps some things secret now. But there will be a time when people will understand those things.’",
+  "korean_text": "드러내려 하지 않고는 숨긴 것이 없고 나타내려 하지 않고는 감추인 것이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God hides some things now.",
+      "korean_translation": "하나님은 지금 어떤 것들을 감추십니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But there will be a time",
+      "korean_translation": "그러나 때가 있을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when people will see them.",
+      "korean_translation": "사람들이 그것들을 볼 때가.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God keeps some things secret now.",
+      "korean_translation": "하나님은 지금 어떤 것들을 비밀로 keep합니다.",
+      "word_indices": [
+        101,
+        544
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But there will be a time",
+      "korean_translation": "그러나 때가 있을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "when people will understand those things.",
+      "korean_translation": "사람들이 그것들을 이해할 때가.",
+      "word_indices": []
+    }
+  ]
+}

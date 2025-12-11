@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Ecclesiastes 2:4",
+  "version": "EASY",
+  "original_text": "I also did a lot of great things for myself. I built houses. I planted vineyards.",
+  "korean_text": "나의 사업을 크게 하였노라 내가 나를 위하여 집들을 짓고 포도원을 일구며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I also did a lot of great things for myself",
+      "korean_translation": "나 또한 나 자신을 위해 많은 위대한 일을 했다",
+      "word_indices": [
+        9,
+        40
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I built houses",
+      "korean_translation": "나는 집들을 지었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I planted vineyards",
+      "korean_translation": "나는 포도원을 심었다",
+      "word_indices": [
+        199,
+        542
+      ]
+    }
+  ]
+}

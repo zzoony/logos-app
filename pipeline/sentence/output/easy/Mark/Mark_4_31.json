@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Mark 4:31",
+  "version": "EASY",
+  "original_text": "It is like this: A man takes a seed of the plant called mustard. He plants it in the soil. It is smaller than any other seed that people plant in the soil.",
+  "korean_text": "겨자씨 한 알과 같으니 땅에 심길 때에는 땅 위의 모든 씨보다 작은 것이로되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is like this:",
+      "korean_translation": "이것은 이와 같습니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A man takes a seed of the plant called mustard.",
+      "korean_translation": "한 사람이 겨자라는 식물의 씨앗을 가져옵니다.",
+      "word_indices": [
+        47,
+        199,
+        1443
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He plants it in the soil.",
+      "korean_translation": "그는 그것을 흙에 심습니다.",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is smaller than any other seed",
+      "korean_translation": "그것은 다른 모든 씨앗보다 작습니다.",
+      "word_indices": [
+        1022
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that people plant in the soil.",
+      "korean_translation": "사람들이 흙에 심는.",
+      "word_indices": [
+        199
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Thessalonians 3:4",
+  "version": "EASY",
+  "original_text": "Even when we were there with you, we told you that troubles would come. We told you before the troubles came and now it has really happened. You know that it is true.",
+  "korean_text": "우리가 너희와 함께 있을 때에 장차 받을 환난을 너희에게 미리 말하였는데 과연 그렇게 된 것을 너희가 아느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Even when we were there with you",
+      "korean_translation": "우리가 너희와 함께 있을 때에도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we told you that troubles would come",
+      "korean_translation": "우리가 너희에게 환난이 올 것이라 말하였고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We told you before the troubles came",
+      "korean_translation": "환난이 오기 전에 너희에게 말하였으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and now it has really happened",
+      "korean_translation": "이제 과연 그렇게 되었느니라",
+      "word_indices": [
+        22,
+        146
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You know that it is true",
+      "korean_translation": "너희가 알다시피 참되니라",
+      "word_indices": [
+        12,
+        69
+      ]
+    }
+  ]
+}

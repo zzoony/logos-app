@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Joshua 5:2",
+  "version": "EASY",
+  "original_text": "The Lord said to Joshua at that time, ‘Make knives of stone and circumcise the Israelite men.’",
+  "korean_text": "그 때에 여호와께서 여호수아에게 이르시되 너는 부싯돌로 칼을 만들어 이스라엘 자손들에게 다시 할례를 행하라 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Joshua at that time",
+      "korean_translation": "여호와께서 그 때에 여호수아에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Make knives of stone",
+      "korean_translation": "돌칼을 만들라",
+      "word_indices": [
+        116
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and circumcise the Israelite men",
+      "korean_translation": "이스라엘 남자들을 할례하라",
+      "word_indices": [
+        504
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 18:13",
+  "version": "EASY",
+  "original_text": "And I tell you this: If he finds that lost sheep, he will be very happy. All the other sheep are safe together. But they do not make him as happy as this one sheep does.",
+  "korean_text": "진실로 너희에게 이르노니 만일 찾으면 길을 잃지 아니한 아흔아홉 마리보다 이것을 더 기뻐하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And I tell you this:",
+      "korean_translation": "그리고 내가 너희에게 이것을 말하겠다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If he finds that lost sheep,",
+      "korean_translation": "그가 잃어버린 양을 찾으면,",
+      "word_indices": [
+        125,
+        131
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he will be very happy.",
+      "korean_translation": "그는 매우 기쁠 것이다.",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "All the other sheep are safe together.",
+      "korean_translation": "다른 모든 양들은 함께 안전하다.",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But they do not make him as happy",
+      "korean_translation": "하지만 그들은 그를 그렇게 기쁘게 하지 않는다",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "as this one sheep does.",
+      "korean_translation": "이 한 마리의 양이 하듯이.",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

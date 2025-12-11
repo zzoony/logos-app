@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 4:11",
+  "version": "EASY",
+  "original_text": "The woman said, ‘Sir, you have no bucket, and the well is deep. Where can you get this water that gives life?",
+  "korean_text": "여자가 이르되 주여 물 길을 그릇도 없고 이 우물은 깊은데 어디서 당신이 그 생수를 얻겠사옵나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman said",
+      "korean_translation": "여자가 말했다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sir",
+      "korean_translation": "선생님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you have no bucket",
+      "korean_translation": "당신은 양동이가 없습니다",
+      "word_indices": [
+        978
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the well is deep",
+      "korean_translation": "그리고 우물은 깊습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Where can you get this water",
+      "korean_translation": "어디서 이 물을 얻을 수 있습니까",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that gives life",
+      "korean_translation": "생명을 주는",
+      "word_indices": [
+        4,
+        41
+      ]
+    }
+  ]
+}

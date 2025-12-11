@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Leviticus 11:6",
+  "version": "EASY",
+  "original_text": "The rabbit eats its food twice. But its feet are not in two separate parts. They must not eat the rabbit.",
+  "korean_text": "토끼도 새김질은 하되 굽이 갈라지지 아니하였으므로 너희에게 부정하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The rabbit eats its food twice.",
+      "korean_translation": "토끼는 그 먹이를 두 번 씹어 먹는다.",
+      "word_indices": [
+        803,
+        1382
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But its feet are not in two separate parts.",
+      "korean_translation": "하지만 그 발은 두 부분으로 나뉘어 있지 않다.",
+      "word_indices": [
+        384
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They must not eat the rabbit.",
+      "korean_translation": "그들은 토끼를 먹지 말아야 한다.",
+      "word_indices": [
+        1382
+      ]
+    }
+  ]
+}

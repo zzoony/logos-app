@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Samuel 9:18",
+  "version": "EASY",
+  "original_text": "Saul met Samuel at the gate of the town. Saul said to him, ‘Please tell me where the seer's house is.’",
+  "korean_text": "사울이 성문 안 사무엘에게 나아가 이르되 선견자의 집이 어디인지 청하건대 내게 가르치소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Saul met Samuel",
+      "korean_translation": "사울은 사무엘을 만났다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the gate of the town",
+      "korean_translation": "성문에서",
+      "word_indices": [
+        168
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Saul said to him",
+      "korean_translation": "사울이 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Please tell me",
+      "korean_translation": "제게 알려주세요",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "where the seer's house is",
+      "korean_translation": "선견자의 집이 어디에 있는지",
+      "word_indices": [
+        67
+      ]
+    }
+  ]
+}

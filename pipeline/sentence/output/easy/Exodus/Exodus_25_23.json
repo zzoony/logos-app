@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 25:23",
+  "version": "EASY",
+  "original_text": "Use acacia wood to make a table. It must be one 1 metre long, 50 centimetres wide and 75 centimetres high.",
+  "korean_text": "너는 조각목으로 상을 만들되 길이는 두 규빗, 너비는 한 규빗, 높이는 한 규빗 반이 되게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Use acacia wood to make a table.",
+      "korean_translation": "아카시아 나무로 테이블을 만드세요.",
+      "word_indices": [
+        239,
+        536,
+        840
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It must be one 1 metre long,",
+      "korean_translation": "그것은 1미터 길이여야 합니다,",
+      "word_indices": [
+        134,
+        296
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "50 centimetres wide",
+      "korean_translation": "50센티미터 너비이고",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and 75 centimetres high.",
+      "korean_translation": "75센티미터 높이입니다.",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

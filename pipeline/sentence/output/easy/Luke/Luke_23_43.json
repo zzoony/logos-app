@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 23:43",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘I promise you, today you will be with me in paradise.’",
+  "korean_text": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 네가 나와 함께 낙원에 있으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수님께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I promise you",
+      "korean_translation": "내가 너에게 약속한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "today you will be with me",
+      "korean_translation": "오늘 너는 나와 함께 있을 것이다",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in paradise.'",
+      "korean_translation": "낙원에서'",
+      "word_indices": [
+        1562
+      ]
+    }
+  ]
+}

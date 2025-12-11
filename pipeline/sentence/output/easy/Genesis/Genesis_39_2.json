@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 39:2",
+  "version": "EASY",
+  "original_text": "The Lord was with Joseph, so that good things happened to him. Joseph lived in the house of Potiphar, his Egyptian master.",
+  "korean_text": "여호와께서 요셉과 함께 하시므로 그가 형통한 자가 되어 그의 주인 애굽 사람의 집에 있으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord was with Joseph",
+      "korean_translation": "주께서 요셉과 함께 계셨으니",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that good things happened to him",
+      "korean_translation": "그에게 좋은 일들이 일어났다",
+      "word_indices": [
+        19,
+        22
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Joseph lived in the house of Potiphar",
+      "korean_translation": "요셉은 보디발의 집에 살았으니",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "his Egyptian master",
+      "korean_translation": "그의 이집트 주인이었다",
+      "word_indices": [
+        176
+      ]
+    }
+  ]
+}

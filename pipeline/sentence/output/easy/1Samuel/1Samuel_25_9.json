@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 25:9",
+  "version": "EASY",
+  "original_text": "David's men went to Carmel. They gave David's message to Nabal. They waited for Nabal to reply.",
+  "korean_text": "다윗의 소년들이 가서 다윗의 이름으로 이 모든 말을 나발에게 말하기를 마치매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David's men went to Carmel.",
+      "korean_translation": "다윗의 사람들이 갈멜로 갔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They gave David's message to Nabal.",
+      "korean_translation": "그들은 나발에게 다윗의 메시지를 전달했습니다.",
+      "word_indices": [
+        4,
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They waited for Nabal to reply.",
+      "korean_translation": "그들은 나발의 답변을 기다렸습니다.",
+      "word_indices": [
+        167
+      ]
+    }
+  ]
+}

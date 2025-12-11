@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Matthew 5:17",
+  "version": "EASY",
+  "original_text": "Jesus said, ‘You should not think that I have come to destroy God's Law. Also, I have not come to destroy the messages that God's prophets wrote down. No, I have not come to destroy their words. I have come to make what they taught become true.",
+  "korean_text": "내가 율법이나 선지자를 폐하러 온 줄로 생각하지 말라 폐하러 온 것이 아니요 완전하게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You should not think that I have come to destroy God's Law",
+      "korean_translation": "내가 하나님의 율법을 폐하러 온 것으로 생각하지 말아야 한다",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Also, I have not come to destroy the messages that God's prophets wrote down",
+      "korean_translation": "또한, 내가 하나님의 선지자들이 기록한 메시지를 폐하러 온 것도 아니다",
+      "word_indices": [
+        9,
+        39,
+        100
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "No, I have not come to destroy their words",
+      "korean_translation": "아니요, 내가 그들의 말씀을 폐하러 온 것이 아니다",
+      "word_indices": [
+        39,
+        128
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I have come to make what they taught become true",
+      "korean_translation": "내가 그들이 가르친 것들을 참되게 하러 왔다",
+      "word_indices": [
+        69
+      ]
+    }
+  ]
+}

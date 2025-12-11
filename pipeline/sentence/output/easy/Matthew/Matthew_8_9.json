@@ -1,0 +1,100 @@
+{
+  "verse_reference": "Matthew 8:9",
+  "version": "EASY",
+  "original_text": "In my work, someone has authority over me. I also have authority over other soldiers. I say to one soldier, “Go!” and he goes. I say to another one, “Come!” and he comes. I say to my servant, “Do this!” and he does it.’",
+  "korean_text": "나도 남의 수하에 있는 사람이요 내 아래에도 군사가 있으니 이더러 가라 하면 가고 저더러 오라 하면 오고 내 종더러 이것을 하라 하면 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In my work",
+      "korean_translation": "내 일에서는",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "someone has authority over me.",
+      "korean_translation": "나보다 위에 있는 권세자가 있습니다.",
+      "word_indices": [
+        94,
+        110
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I also have authority",
+      "korean_translation": "나 또한 권세를 가지고 있습니다.",
+      "word_indices": [
+        9,
+        110
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "over other soldiers.",
+      "korean_translation": "다른 병사들 위에 말입니다.",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I say to one soldier",
+      "korean_translation": "나는 한 병사에게 말하기를",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Go!",
+      "korean_translation": "가라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and he goes.",
+      "korean_translation": "그러면 그가 갑니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "I say to another one",
+      "korean_translation": "나는 다른 이에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "Come!",
+      "korean_translation": "오라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "and he comes.",
+      "korean_translation": "그러면 그가 옵니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 11,
+      "original_text": "I say to my servant",
+      "korean_translation": "나는 내 종에게 말하기를",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 12,
+      "original_text": "Do this!",
+      "korean_translation": "이것을 하라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 13,
+      "original_text": "and he does it.",
+      "korean_translation": "그러면 그가 그것을 합니다.",
+      "word_indices": []
+    }
+  ]
+}

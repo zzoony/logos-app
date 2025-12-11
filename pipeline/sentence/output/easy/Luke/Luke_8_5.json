@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Luke 8:5",
+  "version": "EASY",
+  "original_text": "‘A farmer went out to plant seeds in his field. While he was throwing the seeds, some of them fell on the path. Then people walked on them. Birds came down and they ate those seeds.",
+  "korean_text": "씨를 뿌리는 자가 그 씨를 뿌리러 나가서 뿌릴새 더러는 길 가에 떨어지매 밟히며 공중의 새들이 먹어버렸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A farmer went out",
+      "korean_translation": "농부가 나갔습니다",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to plant seeds in his field",
+      "korean_translation": "자신의 밭에 씨앗을 심으러",
+      "word_indices": [
+        152,
+        199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "While he was throwing the seeds",
+      "korean_translation": "그가 씨앗을 뿌리는 동안",
+      "word_indices": [
+        190
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "some of them fell on the path",
+      "korean_translation": "그중 일부가 길 위에 떨어졌습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then people walked on them",
+      "korean_translation": "그러면 사람들이 그것들을 밟았습니다",
+      "word_indices": [
+        204
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Birds came down",
+      "korean_translation": "새들이 내려왔습니다",
+      "word_indices": [
+        344
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and they ate those seeds",
+      "korean_translation": "그리고 그들은 그 씨앗들을 먹었습니다",
+      "word_indices": []
+    }
+  ]
+}

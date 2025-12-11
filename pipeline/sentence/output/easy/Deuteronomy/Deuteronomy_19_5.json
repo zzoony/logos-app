@@ -1,0 +1,80 @@
+{
+  "verse_reference": "Deuteronomy 19:5",
+  "version": "EASY",
+  "original_text": "For example, two men may go to the forest to cut wood. As one man cuts wood with his axe, the metal part of the axe flies off. It hits the other man and it kills him. Then the killer can run to the nearest of the three cities. He will be safe there.",
+  "korean_text": "가령 사람이 그 이웃과 함께 벌목하러 삼림에 들어가서 손에 도끼를 들고 벌목하려고 찍을 때에 도끼가 자루에서 빠져 그의 이웃을 맞춰 그를 죽게 함과 같은 것이라 이런 사람은 그 성읍 중 하나로 도피하여 생명을 보존할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For example, two men may go to the forest",
+      "korean_translation": "예를 들어, 두 사람이 숲으로 갈 수 있습니다",
+      "word_indices": [
+        602,
+        677
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to cut wood",
+      "korean_translation": "나무를 베기 위해",
+      "word_indices": [
+        239
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As one man cuts wood with his axe",
+      "korean_translation": "한 사람이 도끼로 나무를 벨 때",
+      "word_indices": [
+        239
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the metal part of the axe flies off",
+      "korean_translation": "도끼의 금속 부분이 날아갑니다",
+      "word_indices": [
+        619
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It hits the other man",
+      "korean_translation": "그것이 다른 사람을 칩니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and it kills him",
+      "korean_translation": "그리고 그를 죽입니다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then the killer can run to the nearest city",
+      "korean_translation": "그때 살인자는 가장 가까운 도시로 도망칠 수 있습니다",
+      "word_indices": [
+        20,
+        998,
+        1343
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "of the three cities",
+      "korean_translation": "세 도시 중에서",
+      "word_indices": [
+        20,
+        166
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "He will be safe there",
+      "korean_translation": "그는 그곳에서 안전할 것입니다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 25:24",
+  "version": "EASY",
+  "original_text": "Cover the wood with gold. Build up the edges of the table with gold.",
+  "korean_text": "순금으로 싸고 주위에 금 테를 두르고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Cover the wood with gold",
+      "korean_translation": "나무를 금으로 덮으라",
+      "word_indices": [
+        130,
+        238,
+        239
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Build up the edges of the table",
+      "korean_translation": "테이블의 가장자리를 만들라",
+      "word_indices": [
+        99,
+        536
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with gold",
+      "korean_translation": "금으로",
+      "word_indices": [
+        130
+      ]
+    }
+  ]
+}

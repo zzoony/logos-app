@@ -1,0 +1,92 @@
+{
+  "verse_reference": "Exodus 16:23",
+  "version": "EASY",
+  "original_text": "Moses said to them, ‘This is what the Lord has said: “Tomorrow is a special day of rest. It is a Sabbath day, to worship the Lord. Today, you must bake any food that you want to bake. Boil the meat that you want to boil. Keep until the morning whatever food you do not eat today.” ’",
+  "korean_text": "모세가 그들에게 이르되 여호와께서 이같이 말씀하셨느니라 내일은 휴일이니 여호와께 거룩한 안식일이라 너희가 구울 것은 굽고 삶을 것은 삶고 그 나머지는 다 너희를 위하여 아침까지 간수하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses said to them",
+      "korean_translation": "모세가 그들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This is what the Lord has said",
+      "korean_translation": "주님께서 말씀하신 것입니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Tomorrow is a special day of rest",
+      "korean_translation": "내일은 특별한 안식일입니다",
+      "word_indices": [
+        68,
+        269,
+        628
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is a Sabbath day",
+      "korean_translation": "그것은 안식일입니다",
+      "word_indices": [
+        484
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to worship the Lord",
+      "korean_translation": "주님을 경배하기 위함입니다",
+      "word_indices": [
+        2,
+        89
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Today, you must bake any food",
+      "korean_translation": "오늘, 너희는 먹고 싶은 음식을 구워야 합니다",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that you want to bake",
+      "korean_translation": "구우려고 하는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Boil the meat",
+      "korean_translation": "고기를 삶으세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "that you want to boil",
+      "korean_translation": "삶고 싶은 고기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "Keep until the morning",
+      "korean_translation": "아침까지 보관하세요",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 11,
+      "original_text": "whatever food you do not eat today",
+      "korean_translation": "오늘 먹지 않은 모든 음식을",
+      "word_indices": [
+        233,
+        492
+      ]
+    }
+  ]
+}

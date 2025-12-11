@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Exodus 9:11",
+  "version": "EASY",
+  "original_text": "All the Egyptians had boils, even the magicians. Because of the boils, the magicians could not stand in front of Moses.",
+  "korean_text": "요술사들도 악성 종기로 말미암아 모세 앞에 서지 못하니 악성 종기가 요술사들로부터 애굽 모든 사람에게 생겼음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the Egyptians had boils",
+      "korean_translation": "모든 이집트 사람들은 종기를 앓았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "even the magicians",
+      "korean_translation": "마술사들도 마찬가지였습니다",
+      "word_indices": [
+        823
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Because of the boils",
+      "korean_translation": "종기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the magicians could not stand",
+      "korean_translation": "마술사들은 서 있을 수 없었습니다",
+      "word_indices": [
+        77,
+        823
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in front of Moses",
+      "korean_translation": "모세 앞에서",
+      "word_indices": [
+        123
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Deuteronomy 27:18",
+  "version": "EASY",
+  "original_text": "‘God will curse anyone who leads a blind person along the wrong path.’ Then all the people will say, ‘Yes, we agree!’",
+  "korean_text": "맹인에게 길을 잃게 하는 자는 저주를 받을 것이라 할 것이요 모든 백성은 아멘 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God will curse anyone",
+      "korean_translation": "하나님은 누구든지 저주하실 것이다",
+      "word_indices": [
+        109,
+        373
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who leads a blind person",
+      "korean_translation": "소경을 인도하는 사람",
+      "word_indices": [
+        24,
+        207,
+        505
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "along the wrong path",
+      "korean_translation": "잘못된 길로",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then all the people will say",
+      "korean_translation": "그러면 모든 백성이 말할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Yes, we agree!",
+      "korean_translation": "네, 동의합니다!",
+      "word_indices": []
+    }
+  ]
+}

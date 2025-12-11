@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Kings 3:4",
+  "version": "EASY",
+  "original_text": "Mesha, the king of Moab, was a sheep farmer. Every year he had to pay the king of Israel 100,000 male lambs and the wool from 100,000 male sheep.",
+  "korean_text": "모압 왕 메사는 양을 치는 자라 새끼 양 십만 마리의 털과 숫양 십만 마리의 털을 이스라엘 왕에게 바치더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mesha, the king of Moab,",
+      "korean_translation": "모압의 왕 메사는",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was a sheep farmer.",
+      "korean_translation": "양을 치는 농부였습니다.",
+      "word_indices": [
+        125,
+        425
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Every year he had to pay the king of Israel",
+      "korean_translation": "매년 그는 이스라엘 왕에게 바쳐야 했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "100,000 male lambs",
+      "korean_translation": "십만 마리의 수양을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and the wool from 100,000 male sheep.",
+      "korean_translation": "그리고 십만 마리의 수양에서 나온 양털을.",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

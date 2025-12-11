@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Leviticus 1:1",
+  "version": "EASY",
+  "original_text": "The Lord spoke to Moses from the Tent of Meeting. He told him the rules that Israel's people must obey.",
+  "korean_text": "여호와께서 회막에서 모세를 부르시고 그에게 말씀하여 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord spoke to Moses",
+      "korean_translation": "주께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the Tent of Meeting",
+      "korean_translation": "회막에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He told him the rules",
+      "korean_translation": "그는 그에게 규칙들을 알려주셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that Israel's people must obey",
+      "korean_translation": "이스라엘 백성이 반드시 순종해야 할",
+      "word_indices": []
+    }
+  ]
+}

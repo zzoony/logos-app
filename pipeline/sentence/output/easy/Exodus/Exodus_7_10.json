@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Exodus 7:10",
+  "version": "EASY",
+  "original_text": "So Moses and Aaron went to see Pharaoh. They did everything that the Lord had commanded them. Aaron threw down his stick in front of Pharaoh and his officers. And the stick became a snake!",
+  "korean_text": "모세와 아론이 바로에게 가서 여호와께서 명령하신 대로 행하여 아론이 바로와 그의 신하 앞에 지팡이를 던지니 뱀이 된지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Moses and Aaron went to see Pharaoh.",
+      "korean_translation": "그래서 모세와 아론이 바로를 만나러 갔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They did everything",
+      "korean_translation": "그들은 모든 것을 행했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the Lord had commanded them.",
+      "korean_translation": "주께서 그들에게 명령하신 것을.",
+      "word_indices": [
+        2,
+        127
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Aaron threw down his stick",
+      "korean_translation": "아론은 자신의 지팡이를 던졌습니다.",
+      "word_indices": [
+        356
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in front of Pharaoh and his officers.",
+      "korean_translation": "바로와 그의 신하들 앞에서.",
+      "word_indices": [
+        98,
+        123
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And the stick became a snake!",
+      "korean_translation": "그러자 그 지팡이가 뱀이 되었습니다!",
+      "word_indices": [
+        356,
+        493
+      ]
+    }
+  ]
+}

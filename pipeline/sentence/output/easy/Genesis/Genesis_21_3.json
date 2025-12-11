@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 21:3",
+  "version": "EASY",
+  "original_text": "Abraham called his son ‘Isaac’. This is the son that Sarah gave birth to.",
+  "korean_text": "아브라함이 그에게 태어난 아들 곧 사라가 자기에게 낳은 아들을 이름하여 이삭이라 하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham called his son",
+      "korean_translation": "아브라함이 그의 아들을 불렀다",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his son 'Isaac'",
+      "korean_translation": "그의 아들 '이삭'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This is the son",
+      "korean_translation": "이것이 그 아들이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that Sarah gave birth to",
+      "korean_translation": "사라가 낳은",
+      "word_indices": [
+        4,
+        249
+      ]
+    }
+  ]
+}

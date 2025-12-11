@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Corinthians 1:4",
+  "version": "EASY",
+  "original_text": "I always thank God because of you. I thank him because he has been very kind to you. He has helped you like that because you belong to Christ Jesus.",
+  "korean_text": "그리스도 예수 안에서 너희에게 주신 하나님의 은혜로 말미암아 내가 너희를 위하여 항상 하나님께 감사하노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I always thank God because of you.",
+      "korean_translation": "나는 항상 너희 때문에 하나님께 감사합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I thank him",
+      "korean_translation": "내가 그에게 감사드리는 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he has been very kind to you.",
+      "korean_translation": "그가 너희에게 매우 친절하셨기 때문입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He has helped you like that",
+      "korean_translation": "그가 그렇게 너희를 도우신 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because you belong to Christ Jesus.",
+      "korean_translation": "너희가 그리스도 예수께 속해 있기 때문입니다.",
+      "word_indices": [
+        45,
+        61
+      ]
+    }
+  ]
+}

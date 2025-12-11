@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Leviticus 14:47",
+  "version": "EASY",
+  "original_text": "Any person who sleeps in a house with mildew must wash his clothes. And any person who eats in a house with mildew must wash his clothes.",
+  "korean_text": "그 집에서 자는 자는 그의 옷을 빨 것이요 그 집에서 먹는 자도 그의 옷을 빨 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Any person who sleeps in a house with mildew",
+      "korean_translation": "곰팡이가 난 집에서 자는 어떤 사람이든",
+      "word_indices": [
+        24,
+        67,
+        361,
+        943
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must wash his clothes",
+      "korean_translation": "자신의 옷을 빨아야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And any person who eats in a house with mildew",
+      "korean_translation": "그리고 곰팡이가 난 집에서 먹는 어떤 사람이든",
+      "word_indices": [
+        24,
+        67,
+        943
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "must wash his clothes",
+      "korean_translation": "자신의 옷을 빨아야 합니다",
+      "word_indices": []
+    }
+  ]
+}

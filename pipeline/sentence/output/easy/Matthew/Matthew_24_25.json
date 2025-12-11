@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Matthew 24:25",
+  "version": "EASY",
+  "original_text": "So be careful! I have told you about these things before they happen.",
+  "korean_text": "보라 내가 너희에게 미리 말하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So be careful!",
+      "korean_translation": "그러니 조심하십시오!",
+      "word_indices": [
+        309
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have told you about these things",
+      "korean_translation": "나는 당신에게 이런 일들을 일러 주었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "before they happen.",
+      "korean_translation": "그 일들이 일어나기 전에",
+      "word_indices": [
+        22
+      ]
+    }
+  ]
+}

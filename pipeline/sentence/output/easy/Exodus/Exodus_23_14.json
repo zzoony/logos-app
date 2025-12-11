@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Exodus 23:14",
+  "version": "EASY",
+  "original_text": "Three times each year, you must eat a feast to give me honour.",
+  "korean_text": "너는 매년 세 번 내게 절기를 지킬지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Three times each year",
+      "korean_translation": "매년 세 번",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you must eat a feast",
+      "korean_translation": "너는 잔치를 먹어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to give me honour",
+      "korean_translation": "나에게 영광을 주기 위해",
+      "word_indices": [
+        4,
+        291
+      ]
+    }
+  ]
+}

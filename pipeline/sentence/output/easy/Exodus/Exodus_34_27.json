@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Exodus 34:27",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Moses, ‘Write down these words. They are the rules of the covenant that I have made with you and with the Israelites.’",
+  "korean_text": "여호와께서 모세에게 이르시되 너는 이 말들을 기록하라 내가 이 말들의 뜻대로 너와 이스라엘과 언약을 세웠음이니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses",
+      "korean_translation": "그때 주께서 모세에게 말씀하시되",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Write down these words",
+      "korean_translation": "이 말들을 기록하라",
+      "word_indices": [
+        124,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They are the rules of the covenant",
+      "korean_translation": "그것들은 언약의 규칙이다",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I have made with you",
+      "korean_translation": "내가 너와 맺은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and with the Israelites",
+      "korean_translation": "그리고 이스라엘 사람들과 맺은",
+      "word_indices": []
+    }
+  ]
+}

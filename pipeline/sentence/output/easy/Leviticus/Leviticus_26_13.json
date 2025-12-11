@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Leviticus 26:13",
+  "version": "EASY",
+  "original_text": "I am the Lord your God. I brought you out of Egypt. You will not be the slaves of people in Egypt. I saved you so that you need not be ashamed.",
+  "korean_text": "나는 너희를 애굽 땅에서 인도해 내어 그들에게 종된 것을 면하게 한 너희의 하나님 여호와이니라 내가 너희의 멍에의 빗장을 부수고 너희를 바로 서서 걷게 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord your God.",
+      "korean_translation": "나는 너의 하나님이다.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I brought you out of Egypt.",
+      "korean_translation": "나는 너를 이집트에서 인도해냈다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will not be the slaves of people in Egypt.",
+      "korean_translation": "너는 이집트 사람들의 종이 되지 않을 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I saved you",
+      "korean_translation": "내가 너를 구원했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that you need not be ashamed.",
+      "korean_translation": "그리하여 너는 부끄러워할 필요가 없다.",
+      "word_indices": []
+    }
+  ]
+}

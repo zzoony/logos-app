@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 6:21",
+  "version": "EASY",
+  "original_text": "Happy are you people that are hungry now. God will feed you until you are full.",
+  "korean_text": "지금 주린 자는 복이 있나니 너희가 배부름을 얻을 것임이요 지금 우는 자는 복이 있나니 너희가 웃을 것임이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Happy are you people",
+      "korean_translation": "너희 사람들은 행복하다",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that are hungry now",
+      "korean_translation": "지금 배고픈",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God will feed you",
+      "korean_translation": "하나님께서 너희를 먹이실 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until you are full",
+      "korean_translation": "너희가 배부를 때까지",
+      "word_indices": [
+        387
+      ]
+    }
+  ]
+}

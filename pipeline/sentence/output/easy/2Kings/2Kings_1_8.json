@@ -1,0 +1,52 @@
+{
+  "verse_reference": "2 Kings 1:8",
+  "version": "EASY",
+  "original_text": "They replied, ‘He was wearing rough clothes. He had tied a leather belt around him.’ Then the king said, ‘That was Elijah, the prophet from Tishbe.’",
+  "korean_text": "그들이 그에게 대답하되 그는 털이 많은 사람인데 허리에 가죽 띠를 띠었더이다 하니 왕이 이르되 그는 디셉 사람 엘리야로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They replied",
+      "korean_translation": "그들이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He was wearing rough clothes",
+      "korean_translation": "그는 거친 옷을 입고 있었습니다",
+      "word_indices": [
+        961
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He had tied a leather belt around him",
+      "korean_translation": "그는 가죽 띠를 허리에 매고 있었습니다",
+      "word_indices": [
+        795
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then the king said",
+      "korean_translation": "그러자 왕이 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That was Elijah",
+      "korean_translation": "그는 엘리야였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the prophet from Tishbe",
+      "korean_translation": "디셉에서 온 선지자",
+      "word_indices": [
+        100
+      ]
+    }
+  ]
+}

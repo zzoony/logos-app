@@ -1,0 +1,78 @@
+{
+  "verse_reference": "Exodus 12:22",
+  "version": "EASY",
+  "original_text": "Put the blood into a dish. Then take a branch of hyssop. Make it wet with the blood that is in the dish. Then put some of the blood on the wood that is round your door. Nobody must go out of the door of his house until the morning.",
+  "korean_text": "우슬초 묶음을 가져다가 그릇에 담은 피에 적셔서 그 피를 문 인방과 좌우 설주에 뿌리고 아침까지 한 사람도 자기 집 문 밖에 나가지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Put the blood into a dish.",
+      "korean_translation": "피를 그릇에 담으세요.",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then take a branch of hyssop.",
+      "korean_translation": "그 다음 우슬초 가지를 가져오세요.",
+      "word_indices": [
+        360,
+        1115
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Make it wet with the blood",
+      "korean_translation": "그것을 피로 적시세요.",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is in the dish.",
+      "korean_translation": "그릇에 있는 피로.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then put some of the blood",
+      "korean_translation": "그 다음 피를 조금 바르세요.",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "on the wood that is round your door.",
+      "korean_translation": "문 주위에 있는 나무에.",
+      "word_indices": [
+        239,
+        267,
+        355
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Nobody must go out",
+      "korean_translation": "아무도 밖으로 나가면 안 됩니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "of the door of his house",
+      "korean_translation": "자기 집 문에서.",
+      "word_indices": [
+        67,
+        267
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "until the morning.",
+      "korean_translation": "아침까지.",
+      "word_indices": []
+    }
+  ]
+}

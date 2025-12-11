@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 20:20",
+  "version": "EASY",
+  "original_text": "I will shoot three arrows towards the rock to see where they go.",
+  "korean_text": "내가 과녁을 쏘려 함 같이 화살 셋을 그 바위 곁에 쏘고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will shoot three arrows",
+      "korean_translation": "나는 세 개의 화살을 쏠 것이다",
+      "word_indices": [
+        166,
+        424
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "towards the rock",
+      "korean_translation": "바위를 향해",
+      "word_indices": [
+        279
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to see where they go",
+      "korean_translation": "그들이 어디로 가는지 보기 위해",
+      "word_indices": []
+    }
+  ]
+}

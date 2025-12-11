@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 7:41",
+  "version": "EASY",
+  "original_text": "‘Someone had lent two men some money. He had lent one of them 500 silver coins. He had lent the other one 50 coins.",
+  "korean_text": "이르시되 빚 주는 사람에게 빚진 자가 둘이 있어 하나는 오백 데나리온을 졌고 하나는 오십 데나리온을 졌는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Someone had lent two men some money.",
+      "korean_translation": "어떤 사람이 두 사람에게 돈을 빌려주었어요.",
+      "word_indices": [
+        94,
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He had lent one of them 500 silver coins.",
+      "korean_translation": "그는 그들 중 한 사람에게 은화 500닢을 빌려주었어요.",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He had lent the other one 50 coins.",
+      "korean_translation": "그는 다른 한 사람에게 50닢을 빌려주었어요.",
+      "word_indices": []
+    }
+  ]
+}

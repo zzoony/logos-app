@@ -1,0 +1,85 @@
+{
+  "verse_reference": "Deuteronomy 11:14",
+  "version": "EASY",
+  "original_text": "If you do that, he makes this promise to you: ‘I will send rain on your land at the right time each year. There will be rain in autumn and rain in spring. Then your crops will give you food. You will also have grapes to make wine and olives to make oil.",
+  "korean_text": "여호와께서 너희의 땅에 이른 비, 늦은 비를 적당한 때에 내리시리니 너희가 곡식과 포도주와 기름을 얻을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you do that",
+      "korean_translation": "만약 너가 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he makes this promise to you",
+      "korean_translation": "그가 너에게 이 약속을 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will send rain on your land",
+      "korean_translation": "내가 네 땅에 비를 보내겠다",
+      "word_indices": [
+        14,
+        25,
+        327
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the right time each year",
+      "korean_translation": "매년 적절한 때에",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "There will be rain in autumn",
+      "korean_translation": "가을에 비가 내릴 것이다",
+      "word_indices": [
+        327,
+        1341
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and rain in spring",
+      "korean_translation": "봄에도 비가 내릴 것이다",
+      "word_indices": [
+        327
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then your crops will give you food",
+      "korean_translation": "그러면 네 작물이 너에게 음식을 줄 것이다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "You will also have grapes",
+      "korean_translation": "너는 또한 포도를 가질 것이다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "to make wine",
+      "korean_translation": "와인을 만들기 위해",
+      "word_indices": [
+        219
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "and olives to make oil",
+      "korean_translation": "기름을 만들기 위한 올리브도 있을 것이다",
+      "word_indices": []
+    }
+  ]
+}

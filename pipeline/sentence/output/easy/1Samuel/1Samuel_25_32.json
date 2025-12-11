@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Samuel 25:32",
+  "version": "EASY",
+  "original_text": "David said to Abigail, ‘I praise the Lord, Israel's God. He has sent you to meet me here today.",
+  "korean_text": "다윗이 아비가일에게 이르되 오늘 너를 보내어 나를 영접하게 하신 이스라엘의 하나님 여호와를 찬송할지로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said to Abigail",
+      "korean_translation": "다윗이 아비가일에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I praise the Lord",
+      "korean_translation": "'내가 주를 찬양하노라",
+      "word_indices": [
+        2,
+        216
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Israel's God",
+      "korean_translation": "이스라엘의 하나님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He has sent you",
+      "korean_translation": "그가 당신을 보내셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to meet me here today",
+      "korean_translation": "오늘 여기서 나를 만나러",
+      "word_indices": [
+        233
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Leviticus 23:22",
+  "version": "EASY",
+  "original_text": "When the people harvest the grain, they must not cut it to the edge of the field. They must not pick up any grain that falls. Some grain must remain in the field. It is for the poor people and for foreign people. I am the Lord your God.’",
+  "korean_text": "너희 땅의 곡물을 벨 때에 밭 모퉁이까지 다 베지 말며 떨어진 것을 줍지 말고 그것을 가난한 자와 거류민을 위하여 남겨두라 나는 너희의 하나님 여호와이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the people harvest the grain",
+      "korean_translation": "백성이 곡물을 수확할 때",
+      "word_indices": [
+        256,
+        474
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they must not cut it to the edge of the field",
+      "korean_translation": "그들은 밭의 가장자리까지 베지 말아야 합니다",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They must not pick up any grain that falls",
+      "korean_translation": "그들은 떨어진 곡물을 줍지 말아야 합니다",
+      "word_indices": [
+        208,
+        256
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Some grain must remain in the field",
+      "korean_translation": "일부 곡물은 밭에 남아 있어야 합니다",
+      "word_indices": [
+        152,
+        253,
+        256
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It is for the poor people",
+      "korean_translation": "그것은 가난한 사람들을 위한 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and for foreign people",
+      "korean_translation": "그리고 외국인들을 위한 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I am the Lord your God",
+      "korean_translation": "나는 너희 하나님 주이다",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

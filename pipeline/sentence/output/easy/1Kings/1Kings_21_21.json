@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Kings 21:21",
+  "version": "EASY",
+  "original_text": "So the Lord says, “Now I will bring great trouble on you. I will destroy you and your family. I will kill every male among Ahab's descendants in Israel, whoever they are.",
+  "korean_text": "여호와의 말씀이 내가 재앙을 네게 내려 너를 쓸어 버리되 네게 속한 남자는 이스라엘 가운데에 매인 자나 놓인 자를 다 멸할 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So the Lord says",
+      "korean_translation": "그러므로 주께서 말씀하신다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now I will bring great trouble on you",
+      "korean_translation": "내가 이제 너에게 큰 재앙을 내리겠다",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will destroy you and your family",
+      "korean_translation": "나는 너와 네 가족을 멸망시킬 것이다",
+      "word_indices": [
+        39,
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will kill every male among Ahab's descendants",
+      "korean_translation": "나는 아합의 자손 중 모든 남자를 죽일 것이다",
+      "word_indices": [
+        26,
+        75,
+        112
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in Israel, whoever they are",
+      "korean_translation": "그들이 누구든 이스라엘에서",
+      "word_indices": [
+        755
+      ]
+    }
+  ]
+}

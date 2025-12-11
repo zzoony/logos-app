@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Romans 16:6",
+  "version": "EASY",
+  "original_text": "Say ‘hello’ to Mary, who has worked very much on your behalf.",
+  "korean_text": "너희를 위하여 많이 수고한 마리아에게 문안하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Say 'hello' to Mary",
+      "korean_translation": "마리아에게 안부를 전하세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who has worked very much",
+      "korean_translation": "그녀는 매우 많이 일했습니다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on your behalf",
+      "korean_translation": "당신을 위해",
+      "word_indices": [
+        333
+      ]
+    }
+  ]
+}

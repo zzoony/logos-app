@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 6:26",
+  "version": "EASY",
+  "original_text": "If people always say good things about you now, it will be very bad for you. Their ancestors also said good things about the false prophets long ago.’",
+  "korean_text": "모든 사람이 너희를 칭찬하면 화가 있도다 그들의 조상들이 거짓 선지자들에게 이와 같이 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If people always say good things about you now",
+      "korean_translation": "만약 사람들이 지금 항상 너에 대해 좋은 말을 한다면",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it will be very bad for you",
+      "korean_translation": "그것은 너에게 매우 나쁠 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Their ancestors also said good things",
+      "korean_translation": "그들의 조상들도 좋은 말을 했다",
+      "word_indices": [
+        9,
+        19,
+        145
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "about the false prophets long ago",
+      "korean_translation": "오래전 거짓 선지자들에 대해",
+      "word_indices": [
+        100,
+        134
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Acts 21:31",
+  "version": "EASY",
+  "original_text": "The angry crowd was trying to kill Paul. But someone sent a message to the leader of the Roman soldiers. The message was, ‘People are fighting everywhere in the city.’",
+  "korean_text": "그들이 그를 죽이려 할 때에 온 예루살렘이 요란하다는 소문이 군대의 천부장에게 들리매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angry crowd was trying to kill Paul.",
+      "korean_translation": "화난 군중이 바울을 죽이려고 했습니다.",
+      "word_indices": [
+        26,
+        106,
+        265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But someone sent a message",
+      "korean_translation": "하지만 누군가 메시지를 보냈습니다",
+      "word_indices": [
+        21,
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the leader of the Roman soldiers.",
+      "korean_translation": "로마 군사들의 지도자에게.",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The message was,",
+      "korean_translation": "메시지는 이러했습니다,",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "People are fighting everywhere in the city.'",
+      "korean_translation": "도시 전역에서 사람들이 싸우고 있습니다.'",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

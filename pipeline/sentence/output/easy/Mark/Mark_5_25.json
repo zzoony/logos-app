@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Mark 5:25",
+  "version": "EASY",
+  "original_text": "There was a sick woman who had lost blood for 12 years.",
+  "korean_text": "열두 해를 혈루증으로 앓아 온 한 여자가 있어",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There was a sick woman",
+      "korean_translation": "병든 여자가 있었는데",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had lost blood",
+      "korean_translation": "피를 흘리던",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for 12 years",
+      "korean_translation": "12년 동안이었더라",
+      "word_indices": []
+    }
+  ]
+}

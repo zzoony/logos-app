@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 10:28",
+  "version": "EASY",
+  "original_text": "‘You have told me the right answer,’ Jesus said. ‘If you do this, you will have true life with God.’",
+  "korean_text": "예수께서 이르시되 네 대답이 옳도다 이를 행하라 그러면 살리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "'You have told me the right answer,'",
+      "korean_translation": "'당신은 올바른 대답을 말했습니다.'",
+      "word_indices": [
+        38,
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said.",
+      "korean_translation": "예수님께서 말씀하셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'If you do this,'",
+      "korean_translation": "'만약 당신이 이것을 한다면,'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you will have true life with God.'",
+      "korean_translation": "당신은 하나님과 함께 참된 생명을 얻을 것입니다.'",
+      "word_indices": [
+        41,
+        69
+      ]
+    }
+  ]
+}

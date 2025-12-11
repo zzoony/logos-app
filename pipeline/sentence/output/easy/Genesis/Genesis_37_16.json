@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Genesis 37:16",
+  "version": "EASY",
+  "original_text": "Joseph replied, ‘I am looking for my brothers. They have taken the sheep to eat grass. Please tell me where they are.’",
+  "korean_text": "그가 이르되 내가 내 형들을 찾으오니 청하건대 그들이 양치는 곳을 내게 가르쳐 주소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph replied",
+      "korean_translation": "요셉이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am looking for my brothers",
+      "korean_translation": "나는 내 형들을 찾고 있습니다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They have taken the sheep to eat grass",
+      "korean_translation": "그들이 양을 풀을 먹이러 데려갔습니다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Please tell me where they are",
+      "korean_translation": "제발 그들이 어디에 있는지 말해주세요",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

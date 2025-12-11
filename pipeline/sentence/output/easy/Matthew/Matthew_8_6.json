@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 8:6",
+  "version": "EASY",
+  "original_text": "‘Sir,’ he said, ‘My servant is lying in bed at home. He cannot move his legs and he has a lot of pain.’",
+  "korean_text": "이르되 주여 내 하인이 중풍병으로 집에 누워 몹시 괴로워하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "'Sir,' he said",
+      "korean_translation": "'주님,' 그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'My servant is lying in bed at home'",
+      "korean_translation": "'저의 종이 집에서 누워 있습니다'",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He cannot move his legs",
+      "korean_translation": "그는 다리를 움직일 수 없습니다",
+      "word_indices": [
+        114
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he has a lot of pain.'",
+      "korean_translation": "그리고 그는 많은 고통을 겪고 있습니다.'",
+      "word_indices": []
+    }
+  ]
+}

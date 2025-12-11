@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Hosea 4:5",
+  "version": "EASY",
+  "original_text": "You are always falling over. In the day and in the night, you trip and you fall. The false prophets are the same as you. So I will destroy Israel, your mother.",
+  "korean_text": "너는 낮에 넘어지겠고 너와 함께 있는 선지자는 밤에 넘어지리라 내가 네 어머니를 멸하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are always falling over.",
+      "korean_translation": "너는 항상 넘어지고 있다.",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "In the day and in the night,",
+      "korean_translation": "낮과 밤에",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you trip and you fall.",
+      "korean_translation": "너는 비틀거리고 넘어진다.",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The false prophets are the same as you.",
+      "korean_translation": "거짓 예언자들은 너와 같다.",
+      "word_indices": [
+        74,
+        100
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So I will destroy Israel,",
+      "korean_translation": "그래서 내가 이스라엘을 멸망시킬 것이다.",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "your mother.",
+      "korean_translation": "너의 어머니를.",
+      "word_indices": [
+        202
+      ]
+    }
+  ]
+}

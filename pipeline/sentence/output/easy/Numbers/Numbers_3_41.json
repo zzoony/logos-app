@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Numbers 3:41",
+  "version": "EASY",
+  "original_text": "The Israelites' firstborn sons belong to me. I am the Lord. But I will accept all the males among the Levites instead. The Israelites' firstborn animals also belong to me. But I will accept the animals of the Levites instead.’",
+  "korean_text": "나는 여호와라 이스라엘 자손 중 모든 처음 태어난 자 대신에 레위인을 내게 돌리고 또 이스라엘 자손의 가축 중 모든 처음 태어난 것 대신에 레위인의 가축을 내게 돌리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Israelites' firstborn sons belong to me.",
+      "korean_translation": "이스라엘 사람의 장남은 나의 것이다.",
+      "word_indices": [
+        45,
+        500
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am the Lord.",
+      "korean_translation": "나는 주이다.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I will accept all the males among the Levites instead.",
+      "korean_translation": "하지만 내 대신 레위 사람 중 모든 남자를 받겠다.",
+      "word_indices": [
+        112,
+        143
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Israelites' firstborn animals also belong to me.",
+      "korean_translation": "이스라엘 사람의 처음 난 짐승도 나의 것이다.",
+      "word_indices": [
+        9,
+        45,
+        48,
+        500
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But I will accept the animals of the Levites instead.",
+      "korean_translation": "하지만 내 대신 레위 사람의 짐승을 받겠다.",
+      "word_indices": [
+        48,
+        143
+      ]
+    }
+  ]
+}

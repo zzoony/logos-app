@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 17:3",
+  "version": "EASY",
+  "original_text": "‘Leave here! Go to the east. Hide in the Kerith valley, east of the Jordan River.",
+  "korean_text": "너는 여기서 떠나 동쪽으로 가서 요단 앞 그릿 시냇가에 숨고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Leave here!",
+      "korean_translation": "이곳을 떠나라!",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go to the east.",
+      "korean_translation": "동쪽으로 가라.",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Hide in the Kerith valley,",
+      "korean_translation": "그릿 골짜기에 숨어라.",
+      "word_indices": [
+        266
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "east of the Jordan River.",
+      "korean_translation": "요단 강 동쪽에.",
+      "word_indices": [
+        136,
+        284
+      ]
+    }
+  ]
+}

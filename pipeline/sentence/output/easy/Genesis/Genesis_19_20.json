@@ -1,0 +1,73 @@
+{
+  "verse_reference": "Genesis 19:20",
+  "version": "EASY",
+  "original_text": "Look! See that town over there. It is near and I can run to it safely. And it is a small town. So please let me run there. You can see that it is only a small place. If I go there, I will stay alive.’",
+  "korean_text": "보소서 저 성읍은 도망하기에 가깝고 작기도 하오니 나를 그 곳으로 도망하게 하소서 이는 작은 성읍이 아니니이까 내 생명이 보존되리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Look!",
+      "korean_translation": "보세요!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "See that town over there.",
+      "korean_translation": "저기 저 도시를 보세요.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is near",
+      "korean_translation": "그것은 가까워요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and I can run to it safely.",
+      "korean_translation": "그리고 나는 안전하게 그곳까지 달려갈 수 있어요.",
+      "word_indices": [
+        371
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And it is a small town.",
+      "korean_translation": "그리고 그것은 작은 도시예요.",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So please let me run there.",
+      "korean_translation": "그러니 제가 그곳까지 달려가게 해주세요.",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "You can see that it is only a small place.",
+      "korean_translation": "당신은 그것이 작은 곳이라는 것을 볼 수 있어요.",
+      "word_indices": [
+        16,
+        295
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "If I go there,",
+      "korean_translation": "만약 내가 그곳에 간다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "I will stay alive.'",
+      "korean_translation": "나는 살아남을 거예요.'",
+      "word_indices": [
+        151
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "2 Samuel 5:9",
+  "version": "EASY",
+  "original_text": "Then David went to live in the strong place of the city. He called it ‘The City of David ’. He built more houses all around it, from the edge of the hill into the city.",
+  "korean_text": "다윗이 그 산성에 살면서 다윗 성이라 이름하고 다윗이 밀로에서부터 안으로 성을 둘러 쌓으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then David went to live in the strong place of the city",
+      "korean_translation": "그때 다윗은 그 도시의 요새에서 살기 위해 갔습니다",
+      "word_indices": [
+        8,
+        16,
+        20,
+        43
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He called it 'The City of David'",
+      "korean_translation": "그는 그곳을 '다윗 성'이라고 불렀습니다",
+      "word_indices": [
+        20,
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He built more houses all around it",
+      "korean_translation": "그는 그곳 주위에 더 많은 집들을 지었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the edge of the hill into the city",
+      "korean_translation": "언덕의 가장자리부터 도시 안까지",
+      "word_indices": [
+        20,
+        182
+      ]
+    }
+  ]
+}

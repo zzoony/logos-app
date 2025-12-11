@@ -1,0 +1,71 @@
+{
+  "verse_reference": "Job 1:17",
+  "version": "EASY",
+  "original_text": "Before that servant had finished speaking, a third servant arrived. He said to Job, ‘Some robbers from Chaldea suddenly attacked us. They took away all your camels and they killed your servants. I was the only one who escaped. I ran here to tell you what has happened.’",
+  "korean_text": "그가 아직 말하는 동안에 또 한 사람이 와서 아뢰되 갈대아 사람이 세 무리를 지어 갑자기 낙타에게 달려들어 그것을 빼앗으며 칼로 종들을 죽였나이다 나만 홀로 피하였으므로 주인께 아뢰러 왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Before that servant had finished speaking",
+      "korean_translation": "그 종이 말을 마치기 전에",
+      "word_indices": [
+        18,
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a third servant arrived",
+      "korean_translation": "세 번째 종이 도착했다",
+      "word_indices": [
+        44,
+        431
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said to Job",
+      "korean_translation": "그가 욥에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Some robbers from Chaldea suddenly attacked us",
+      "korean_translation": "갈데아에서 온 강도들이 우리를 갑자기 공격했다",
+      "word_indices": [
+        62,
+        590,
+        696
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They took away all your camels",
+      "korean_translation": "그들이 당신의 모든 낙타를 가져갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and they killed your servants",
+      "korean_translation": "그리고 그들은 당신의 종들을 죽였다",
+      "word_indices": [
+        26,
+        44
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I was the only one who escaped",
+      "korean_translation": "나만이 탈출한 유일한 사람이었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "I ran here to tell you what has happened",
+      "korean_translation": "무슨 일이 일어났는지 당신에게 말하기 위해 여기로 달려왔다",
+      "word_indices": [
+        22
+      ]
+    }
+  ]
+}

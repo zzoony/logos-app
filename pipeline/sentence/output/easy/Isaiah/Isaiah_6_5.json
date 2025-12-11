@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 6:5",
+  "version": "EASY",
+  "original_text": "Then I said, ‘It is bad for me! My life is at an end! I have lips that are unclean. I live among people with lips that are unclean. With my own eyes I have seen the King, the Lord Almighty.’",
+  "korean_text": "그 때에 내가 말하되 화로다 나여 망하게 되었도다 나는 입술이 부정한 사람이요 나는 입술이 부정한 백성 중에 거주하면서 만군의 여호와이신 왕을 뵈었음이로다 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then I said, 'It is bad for me!'",
+      "korean_translation": "그때 내가 말했습니다, '나는 불행합니다!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My life is at an end!",
+      "korean_translation": "내 생명이 끝났습니다!",
+      "word_indices": [
+        41
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have lips that are unclean.",
+      "korean_translation": "나는 부정한 입술을 가지고 있습니다.",
+      "word_indices": [
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I live among people with lips that are unclean.",
+      "korean_translation": "나는 부정한 입술을 가진 사람들 사이에 살고 있습니다.",
+      "word_indices": [
+        8,
+        112,
+        304
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "With my own eyes I have seen the King, the Lord Almighty.'",
+      "korean_translation": "내 눈으로 만군의 주이신 왕을 보았습니다.'",
+      "word_indices": [
+        2,
+        3,
+        102
+      ]
+    }
+  ]
+}

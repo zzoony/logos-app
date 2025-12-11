@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 21:34",
+  "version": "EASY",
+  "original_text": "Then the man who dug the hole must pay for the loss of the animal. He must pay money to the animal's owner, but he may keep the dead animal for himself.",
+  "korean_text": "그 구덩이 주인이 잘 보상하여 짐승의 임자에게 돈을 줄 것이요 죽은 것은 그가 차지할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the man who dug the hole",
+      "korean_translation": "그때 구덩이를 판 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must pay for the loss of the animal",
+      "korean_translation": "그 동물의 손실에 대해 배상해야 합니다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must pay money to the animal's owner",
+      "korean_translation": "그는 동물의 주인에게 돈을 지불해야 합니다",
+      "word_indices": [
+        48,
+        142,
+        976
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he may keep the dead animal for himself",
+      "korean_translation": "하지만 그는 죽은 동물을 자기가 가질 수 있습니다",
+      "word_indices": [
+        48,
+        101,
+        133
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Deuteronomy 2:6",
+  "version": "EASY",
+  "original_text": "When you eat their food and you drink their water, you must pay them for it.",
+  "korean_text": "너희는 돈으로 그들에게서 양식을 사서 먹고 돈으로 그들에게서 물을 사서 마시라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you eat their food",
+      "korean_translation": "너희가 그들의 음식을 먹을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you drink their water,",
+      "korean_translation": "그리고 그들의 물을 마실 때",
+      "word_indices": [
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you must pay them for it.",
+      "korean_translation": "너희는 그것에 대해 그들에게 값을 지불해야 한다.",
+      "word_indices": []
+    }
+  ]
+}

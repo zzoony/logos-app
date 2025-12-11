@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 11:1",
+  "version": "EASY",
+  "original_text": "One day, Jesus was praying in a certain place. He finished praying. Then, one of his disciples said to him, ‘Master, John taught his disciples how to pray. Please teach us as he did.’",
+  "korean_text": "예수께서 한 곳에서 기도하시고 마치시매 제자 중 하나가 여짜오되 주여 요한이 자기 제자들에게 기도를 가르친 것과 같이 우리에게도 가르쳐 주옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day, Jesus was praying in a certain place.",
+      "korean_translation": "어느 날, 예수님은 어떤 곳에서 기도하고 계셨습니다.",
+      "word_indices": [
+        16,
+        81,
+        637
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He finished praying.",
+      "korean_translation": "그는 기도를 마쳤습니다.",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then, one of his disciples said to him,",
+      "korean_translation": "그때, 그의 제자 중 한 사람이 그에게 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Master, John taught his disciples how to pray.'",
+      "korean_translation": "'선생님, 요한은 그의 제자들에게 기도하는 방법을 가르쳤습니다.'",
+      "word_indices": [
+        81,
+        176
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'Please teach us as he did.'",
+      "korean_translation": "'그가 했던 것처럼 우리도 가르쳐 주십시오.'",
+      "word_indices": [
+        76,
+        87
+      ]
+    }
+  ]
+}

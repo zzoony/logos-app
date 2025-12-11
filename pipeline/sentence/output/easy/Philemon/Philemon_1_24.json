@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Philemon 1:24",
+  "version": "EASY",
+  "original_text": "Mark, Aristarchus, Demas and Luke, who work with me here, also say ‘hello’ to you.",
+  "korean_text": "또한 나의 동역자 마가, 아리스다고, 데마, 누가가 문안하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mark, Aristarchus, Demas and Luke",
+      "korean_translation": "마가, 아리스다르고, 데마 및 누가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who work with me here",
+      "korean_translation": "나와 함께 일하는 자들도",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "also say 'hello' to you",
+      "korean_translation": "너에게 문안하느니라",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

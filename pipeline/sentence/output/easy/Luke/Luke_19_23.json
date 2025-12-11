@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 19:23",
+  "version": "EASY",
+  "original_text": "Then you should have put my money into the bank. When I came home, I would have received my money back, with extra money.”",
+  "korean_text": "그러면 어찌하여 내 돈을 은행에 맡기지 아니하였느냐 그리하였으면 내가 와서 그 이자와 함께 그 돈을 찾았으리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then you should have put my money into the bank.",
+      "korean_translation": "그러면 당신은 내 돈을 은행에 넣었어야 했습니다.",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When I came home,",
+      "korean_translation": "내가 집에 돌아왔을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I would have received my money back,",
+      "korean_translation": "나는 내 돈을 돌려받았을 것입니다,",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with extra money.",
+      "korean_translation": "이자와 함께 말입니다.",
+      "word_indices": [
+        142,
+        850
+      ]
+    }
+  ]
+}

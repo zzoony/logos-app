@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Mark 1:7",
+  "version": "EASY",
+  "original_text": "John said to the people, ‘Another person will come soon. He is much greater than I am. I am not good enough even to undo his shoes for him.",
+  "korean_text": "그가 전파하여 이르되 나보다 능력 많으신 이가 내 뒤에 오시나니 나는 굽혀 그의 신발끈을 풀기도 감당하지 못하겠노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John said to the people",
+      "korean_translation": "요한이 사람들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Another person will come soon",
+      "korean_translation": "다른 이가 곧 오실 것이다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He is much greater than I am",
+      "korean_translation": "그분은 나보다 훨씬 위대하시다",
+      "word_indices": [
+        561
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am not good enough",
+      "korean_translation": "나는 자격이 없다",
+      "word_indices": [
+        19,
+        228
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "even to undo his shoes for him",
+      "korean_translation": "그의 신발 끈을 풀어 드릴 자격도",
+      "word_indices": []
+    }
+  ]
+}

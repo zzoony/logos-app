@@ -1,0 +1,77 @@
+{
+  "verse_reference": "Luke 16:1",
+  "version": "EASY",
+  "original_text": "Jesus told another story to his disciples: ‘A rich man had a servant who worked for him. The servant took care of the money and things that belonged to the man. Then some people told the rich man that his servant was wasting his master's things.",
+  "korean_text": "또한 제자들에게 이르시되 어떤 부자에게 청지기가 있는데 그가 주인의 소유를 낭비한다는 말이 그 주인에게 들린지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus told another story",
+      "korean_translation": "예수님은 또 다른 비유를 말씀하셨습니다",
+      "word_indices": [
+        515
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to his disciples",
+      "korean_translation": "제자들에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A rich man had a servant",
+      "korean_translation": "어떤 부자에게 한 청지기가 있었는데",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who worked for him",
+      "korean_translation": "그를 위해 일하는 사람이었습니다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The servant took care of the money",
+      "korean_translation": "그 청지기는 돈을 관리했고",
+      "word_indices": [
+        44,
+        142
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and things that belonged to the man",
+      "korean_translation": "주인의 물건들을 맡았습니다",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then some people told the rich man",
+      "korean_translation": "그 후에 어떤 사람들이 그 부자에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "that his servant was wasting",
+      "korean_translation": "그의 청지기가 낭비하고 있다는 것을",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "his master's things",
+      "korean_translation": "주인의 재물을",
+      "word_indices": [
+        176
+      ]
+    }
+  ]
+}

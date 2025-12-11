@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Esther 3:8",
+  "version": "EASY",
+  "original_text": "Then Haman said to King Xerxes, ‘There is a group of people who live in many regions of your kingdom. They have different customs to all the other people. They refuse to obey the laws of your kingdom. It is not good for you to let them live among all the other people in your kingdom.",
+  "korean_text": "하만이 아하수에로 왕에게 아뢰되 한 민족이 왕의 나라 각 지방 백성 중에 흩어져 거하는데 그 법률이 만민의 것과 달라서 왕의 법률을 지키지 아니하오니 용납하는 것이 왕에게 무익하니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Haman said to King Xerxes",
+      "korean_translation": "그때 하만이 왕 제르크스에게 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'There is a group of people",
+      "korean_translation": "'어떤 민족이 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who live in many regions of your kingdom",
+      "korean_translation": "그들은 왕의 여러 지역에 살고 있습니다",
+      "word_indices": [
+        8,
+        188,
+        314
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They have different customs to all the other people",
+      "korean_translation": "그들은 다른 모든 사람들과 다른 풍습을 가지고 있습니다",
+      "word_indices": [
+        1296
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They refuse to obey the laws of your kingdom",
+      "korean_translation": "그들은 왕의 법을 지키기를 거부합니다",
+      "word_indices": [
+        157,
+        188
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "It is not good for you",
+      "korean_translation": "왕에게 좋지 않습니다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to let them live among all the other people in your kingdom",
+      "korean_translation": "그들을 왕의 다른 모든 사람들과 함께 살게 하는 것이",
+      "word_indices": [
+        8,
+        112,
+        188
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 48:3",
+  "version": "EASY",
+  "original_text": "Jacob said to Joseph, ‘God Almighty appeared to me at Luz, in Canaan. God blessed me there.",
+  "korean_text": "요셉에게 이르되 이전에 가나안 땅 루스에서 전능하신 하나님이 내게 나타나사 복을 주시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob said to Joseph,",
+      "korean_translation": "야곱이 요셉에게 말했다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'God Almighty appeared to me",
+      "korean_translation": "전능하신 하나님이 내게 나타나셨고",
+      "word_indices": [
+        102,
+        386
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "at Luz, in Canaan.",
+      "korean_translation": "가나안 루즈에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God blessed me there.",
+      "korean_translation": "하나님이 그곳에서 나를 축복하셨다.",
+      "word_indices": [
+        181
+      ]
+    }
+  ]
+}

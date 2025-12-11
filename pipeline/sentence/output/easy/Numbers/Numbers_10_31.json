@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Numbers 10:31",
+  "version": "EASY",
+  "original_text": "Moses said, ‘Please do not leave us. You know good places for us to put up our tents in the desert. So you can be our guide.",
+  "korean_text": "모세가 이르되 청하건대 우리를 떠나지 마소서 당신은 우리가 광야에서 어떻게 진 칠지를 아나니 우리의 눈이 되리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses said",
+      "korean_translation": "모세가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Please do not leave us",
+      "korean_translation": "제발 우리를 떠나지 마세요",
+      "word_indices": [
+        66,
+        76
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You know good places",
+      "korean_translation": "당신은 좋은 장소를 압니다",
+      "word_indices": [
+        12,
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for us to put up our tents",
+      "korean_translation": "우리가 천막을 칠 수 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the desert",
+      "korean_translation": "광야에서",
+      "word_indices": [
+        235
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So you can be our guide",
+      "korean_translation": "그래서 당신은 우리의 안내자가 될 수 있습니다",
+      "word_indices": [
+        814
+      ]
+    }
+  ]
+}

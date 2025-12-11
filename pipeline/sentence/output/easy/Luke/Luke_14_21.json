@@ -1,0 +1,81 @@
+{
+  "verse_reference": "Luke 14:21",
+  "version": "EASY",
+  "original_text": "The servant went back to his master. He told him what everyone had said. Then the master of the house was very angry. “Go out quickly to every street in the town,” he said to his servant. “Bring the poor people here. Bring those that have lost an arm or a leg. And bring those that cannot walk well, and those that cannot see.”",
+  "korean_text": "종이 돌아와 주인에게 그대로 고하니 이에 집 주인이 노하여 그 종에게 이르되 빨리 시내의 거리와 골목으로 나가서 가난한 자들과 몸 불편한 자들과 맹인들과 저는 자들을 데려오라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The servant went back to his master.",
+      "korean_translation": "하인은 주인에게 돌아갔습니다.",
+      "word_indices": [
+        44,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He told him what everyone had said.",
+      "korean_translation": "그는 모든 사람이 말한 것을 주인에게 알렸습니다.",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the master of the house was very angry.",
+      "korean_translation": "그러자 집 주인이 매우 화가 났습니다.",
+      "word_indices": [
+        67,
+        106,
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Go out quickly to every street in the town",
+      "korean_translation": "빨리 동네의 모든 거리로 나가라",
+      "word_indices": [
+        248,
+        532
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he said to his servant.",
+      "korean_translation": "그가 하인에게 말했습니다.",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Bring the poor people here.",
+      "korean_translation": "가난한 사람들을 이리로 데려오라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Bring those that have lost an arm or a leg.",
+      "korean_translation": "팔이나 다리를 잃은 사람들을 데려오라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "And bring those that cannot walk well",
+      "korean_translation": "그리고 잘 걷지 못하는 사람들을",
+      "word_indices": [
+        114,
+        204
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "and those that cannot see.",
+      "korean_translation": "그리고 보지 못하는 사람들을 데려오라.",
+      "word_indices": [
+        114
+      ]
+    }
+  ]
+}

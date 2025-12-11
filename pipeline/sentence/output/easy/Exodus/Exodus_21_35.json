@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Exodus 21:35",
+  "version": "EASY",
+  "original_text": "If one man's bull attacks another man's bull, it may die. Then they must sell the bull that is still alive. Each man can take half of the money and half of the dead bull as well.",
+  "korean_text": "이 사람의 소가 저 사람의 소를 받아 죽이면 살아 있는 소를 팔아 그 값을 반으로 나누고 또한 죽은 것도 반으로 나누려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If one man's bull attacks another man's bull",
+      "korean_translation": "한 사람의 소가 다른 사람의 소를 공격하면",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it may die",
+      "korean_translation": "그것이 죽을 수도 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then they must sell the bull",
+      "korean_translation": "그러면 그들은 그 소를 팔아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is still alive",
+      "korean_translation": "아직 살아있는",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Each man can take half of the money",
+      "korean_translation": "각 사람은 돈의 절반을 가질 수 있다",
+      "word_indices": [
+        142,
+        434
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and half of the dead bull as well",
+      "korean_translation": "그리고 죽은 소의 절반도 가질 수 있다",
+      "word_indices": [
+        133,
+        434
+      ]
+    }
+  ]
+}

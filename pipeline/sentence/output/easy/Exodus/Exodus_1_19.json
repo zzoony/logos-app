@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 1:19",
+  "version": "EASY",
+  "original_text": "The two women said to Pharaoh, ‘Israelite women are not like Egyptian women. Israelite women are very strong. They give birth to their babies very quickly, before we arrive at the house.’",
+  "korean_text": "산파가 바로에게 대답하되 히브리 여인은 애굽 여인과 같지 아니하고 건장하여 산파가 그들에게 이르기 전에 해산하였더이다 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The two women said to Pharaoh",
+      "korean_translation": "두 여인이 바로에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Israelite women are not like Egyptian women",
+      "korean_translation": "이스라엘 여인들은 이집트 여인들과 같지 않습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Israelite women are very strong",
+      "korean_translation": "이스라엘 여인들은 매우 강합니다",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They give birth to their babies very quickly",
+      "korean_translation": "그들은 아이들을 매우 빨리 낳습니다",
+      "word_indices": [
+        4,
+        248,
+        249
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before we arrive at the house",
+      "korean_translation": "우리가 집에 도착하기 전에",
+      "word_indices": [
+        67,
+        177
+      ]
+    }
+  ]
+}

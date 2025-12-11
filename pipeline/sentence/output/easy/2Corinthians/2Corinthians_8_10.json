@@ -1,0 +1,46 @@
+{
+  "verse_reference": "2 Corinthians 8:10",
+  "version": "EASY",
+  "original_text": "This is what I think you should do. Last year, you were the first people to give money. You really wanted to do that. So the best thing for you is to finish what you started to do.",
+  "korean_text": "이 일에 관하여 나의 뜻을 알리노니 이 일은 너희에게 유익함이라 너희가 일 년 전에 행하기를 먼저 시작할 뿐 아니라 원하기도 하였은즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what I think you should do.",
+      "korean_translation": "내가 당신이 해야 한다고 생각하는 것이 이것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Last year, you were the first people to give money.",
+      "korean_translation": "작년에, 당신들은 돈을 주는 첫 번째 사람들이었습니다.",
+      "word_indices": [
+        4,
+        142,
+        571
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You really wanted to do that.",
+      "korean_translation": "당신은 정말로 그렇게 하고 싶어했습니다.",
+      "word_indices": [
+        146
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So the best thing for you is",
+      "korean_translation": "그러므로 당신에게 최선의 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to finish what you started to do.",
+      "korean_translation": "당신이 시작한 것을 마무리하는 것입니다.",
+      "word_indices": [
+        222
+      ]
+    }
+  ]
+}

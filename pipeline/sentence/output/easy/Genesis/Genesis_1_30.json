@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Genesis 1:30",
+  "version": "EASY",
+  "original_text": "I give to the animals green plants for their food. It will be food for all the animals on the earth, all the birds in the sky and all the animals that move along the ground. Everything that has life may eat every kind of green plant.’",
+  "korean_text": "또 땅의 모든 짐승과 하늘의 모든 새와 생명이 있어 땅에 기는 모든 것에게는 내가 모든 푸른 풀을 먹을 거리로 주노라 하시니 그대로 되니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I give to the animals green plants for their food.",
+      "korean_translation": "나는 동물들에게 그들의 먹이로서 푸른 식물을 준다.",
+      "word_indices": [
+        4,
+        48,
+        199,
+        869
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It will be food for all the animals on the earth,",
+      "korean_translation": "그것은 땅에 있는 모든 동물을 위한 먹이가 될 것이며,",
+      "word_indices": [
+        48,
+        93
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "all the birds in the sky",
+      "korean_translation": "하늘에 있는 모든 새들과",
+      "word_indices": [
+        344
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and all the animals that move along the ground.",
+      "korean_translation": "땅을 따라 움직이는 모든 동물들을 위한 것이다.",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Everything that has life may eat every kind of green plant.'",
+      "korean_translation": "생명이 있는 모든 것은 모든 종류의 푸른 식물을 먹을 수 있다.'",
+      "word_indices": [
+        41,
+        199,
+        869
+      ]
+    }
+  ]
+}

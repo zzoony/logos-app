@@ -1,0 +1,50 @@
+{
+  "verse_reference": "1 Samuel 22:19",
+  "version": "EASY",
+  "original_text": "He also killed all the people in Nob, which was the town where the priests lived. He killed the men and women, children and babies. He also killed the cows, donkeys and sheep.",
+  "korean_text": "제사장들의 성읍 놉의 남녀와 아이들과 젖 먹는 자들과 소와 나귀와 양을 칼로 쳤더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He also killed all the people in Nob",
+      "korean_translation": "그는 또한 놉 성의 모든 사람들을 죽였다",
+      "word_indices": [
+        9,
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which was the town where the priests lived",
+      "korean_translation": "그것은 제사장들이 살던 도시였다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He killed the men and women",
+      "korean_translation": "그는 남자와 여자를 죽였다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "children and babies",
+      "korean_translation": "아이들과 갓난아이들도 죽였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He also killed the cows, donkeys and sheep",
+      "korean_translation": "그는 또한 소, 나귀, 양도 죽였다",
+      "word_indices": [
+        9,
+        26,
+        125,
+        310
+      ]
+    }
+  ]
+}

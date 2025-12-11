@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 1:16",
+  "version": "EASY",
+  "original_text": "Bathsheba bent down low in front of the king. The king asked her, ‘What do you want?’",
+  "korean_text": "밧세바가 몸을 굽혀 왕께 절하니 왕이 이르되 어찌 됨이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bathsheba bent down low",
+      "korean_translation": "밧세바는 허리를 숙였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in front of the king",
+      "korean_translation": "왕 앞에서",
+      "word_indices": [
+        3,
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The king asked her",
+      "korean_translation": "왕이 그녀에게 물었다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "What do you want?",
+      "korean_translation": "네가 원하는 것이 무엇이냐?",
+      "word_indices": []
+    }
+  ]
+}

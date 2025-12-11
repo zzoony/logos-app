@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 11:28",
+  "version": "EASY",
+  "original_text": "They asked him, ‘What authority do you have to do these things? Who gave you the authority to do them?’",
+  "korean_text": "이르되 무슨 권위로 이런 일을 하느냐 누가 이런 일 할 권위를 주었느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They asked him",
+      "korean_translation": "그들이 그에게 물었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What authority do you have to do these things?",
+      "korean_translation": "이런 일을 할 권위가 어디에서 있습니까?",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Who gave you the authority to do them?",
+      "korean_translation": "누가 당신에게 그 일을 할 권위를 주었습니까?",
+      "word_indices": [
+        4,
+        110
+      ]
+    }
+  ]
+}

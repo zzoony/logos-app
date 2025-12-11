@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Genesis 48:4",
+  "version": "EASY",
+  "original_text": "He said to me, “I will give you many children, so that your descendants are many. In that way, you will become the ancestor of many nations. I will give this land to you so that it belongs to your descendants for ever.” ’",
+  "korean_text": "내게 이르시되 내가 너로 생육하고 번성하게 하여 네게서 많은 백성이 나게 하고 내가 이 땅을 네 후손에게 주어 영원한 소유가 되게 하리라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to me",
+      "korean_translation": "그가 내게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will give you many children",
+      "korean_translation": "나는 너에게 많은 자녀를 주겠다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that your descendants are many",
+      "korean_translation": "그리하여 너의 후손이 많게 되리라",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "In that way",
+      "korean_translation": "그 방식으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will become the ancestor of many nations",
+      "korean_translation": "너는 여러 민족의 조상이 될 것이다",
+      "word_indices": [
+        70,
+        145
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will give this land to you",
+      "korean_translation": "나는 이 땅을 너에게 주겠다",
+      "word_indices": [
+        4,
+        14
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "so that it belongs to your descendants for ever",
+      "korean_translation": "그리하여 그것이 영원히 너의 후손에게 속하게 하리라",
+      "word_indices": [
+        45,
+        75
+      ]
+    }
+  ]
+}

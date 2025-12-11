@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Chronicles 18:14",
+  "version": "EASY",
+  "original_text": "David ruled over all Israel. He did everything that was right and fair for all his people.",
+  "korean_text": "다윗이 온 이스라엘을 다스려 모든 백성에게 정의와 공의를 행할새",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David ruled over all Israel.",
+      "korean_translation": "다윗은 모든 이스라엘을 다스렸다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He did everything",
+      "korean_translation": "그는 모든 것을 행했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that was right and fair",
+      "korean_translation": "옳고 공정한 것들을",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for all his people.",
+      "korean_translation": "그의 모든 백성을 위해.",
+      "word_indices": []
+    }
+  ]
+}

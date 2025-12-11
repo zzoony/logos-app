@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 5:6",
+  "version": "EASY",
+  "original_text": "On that day, Pharaoh gave a command to the masters of the slaves, and to the leaders of the work.",
+  "korean_text": "바로가 그 날에 백성의 감독들과 기록원들에게 명령하여 이르되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On that day",
+      "korean_translation": "그 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Pharaoh gave a command",
+      "korean_translation": "바로가 명령을 내렸다",
+      "word_indices": [
+        4,
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the masters of the slaves",
+      "korean_translation": "노예들의 감독들에게",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to the leaders of the work",
+      "korean_translation": "그리고 일꾼들의 지도자들에게",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 28:16",
+  "version": "EASY",
+  "original_text": "When we arrived in Rome, the Roman officer said to Paul, ‘You may live in a house by yourself, but a soldier will guard you there.’",
+  "korean_text": "우리가 로마에 들어가니 바울에게는 자기를 지키는 한 군인과 함께 따로 있게 허락하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When we arrived in Rome",
+      "korean_translation": "우리가 로마에 도착했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Roman officer said to Paul",
+      "korean_translation": "로마 장교가 바울에게 말했습니다",
+      "word_indices": [
+        98
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'You may live in a house by yourself",
+      "korean_translation": "'당신은 혼자서 집에 살 수 있습니다",
+      "word_indices": [
+        8,
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but a soldier will guard you there.'",
+      "korean_translation": "하지만 거기에서 군인이 당신을 경비할 것입니다.'",
+      "word_indices": [
+        36,
+        283
+      ]
+    }
+  ]
+}

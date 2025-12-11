@@ -1,0 +1,56 @@
+{
+  "verse_reference": "1 Samuel 1:13",
+  "version": "EASY",
+  "original_text": "Hannah was praying quietly inside herself. Her lips moved but Eli could not hear her voice. So he thought that she was drunk.",
+  "korean_text": "한나가 속으로 말하매 입술만 움직이고 음성은 들리지 아니하므로 엘리는 그가 취한 줄로 생각한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hannah was praying quietly",
+      "korean_translation": "한나는 조용히 기도하고 있었습니다",
+      "word_indices": [
+        81,
+        815
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "inside herself",
+      "korean_translation": "마음속으로",
+      "word_indices": [
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Her lips moved",
+      "korean_translation": "그녀의 입술이 움직였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but Eli could not hear her voice",
+      "korean_translation": "하지만 엘리는 그녀의 목소리를 들을 수 없었습니다",
+      "word_indices": [
+        42,
+        335
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So he thought",
+      "korean_translation": "그래서 그는 생각했습니다",
+      "word_indices": [
+        372
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that she was drunk",
+      "korean_translation": "그녀가 취했다고",
+      "word_indices": [
+        1372
+      ]
+    }
+  ]
+}

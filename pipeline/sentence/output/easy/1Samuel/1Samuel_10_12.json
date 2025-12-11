@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 Samuel 10:12",
+  "version": "EASY",
+  "original_text": "A man who lived in Gibeah asked, ‘Do you know who is the father of all these prophets?’ Because of what happened, it became a proverb to say, ‘Has Saul himself become a prophet?’",
+  "korean_text": "그 곳의 어떤 사람은 말하여 이르되 그들의 아버지가 누구냐 한지라 그러므로 속담이 되어 이르되 사울도 선지자들 중에 있느냐 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man who lived in Gibeah asked",
+      "korean_translation": "기브아에 사는 어떤 사람이 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Do you know who is the father of all these prophets?'",
+      "korean_translation": "'이 모든 선지자들의 아버지가 누구인지 아십니까?'",
+      "word_indices": [
+        12,
+        37,
+        100
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Because of what happened",
+      "korean_translation": "일어난 일 때문에",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it became a proverb to say",
+      "korean_translation": "속담처럼 말하게 되었다",
+      "word_indices": [
+        829
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'Has Saul himself become a prophet?'",
+      "korean_translation": "'사울 자신도 선지자가 되었는가?'",
+      "word_indices": [
+        100
+      ]
+    }
+  ]
+}

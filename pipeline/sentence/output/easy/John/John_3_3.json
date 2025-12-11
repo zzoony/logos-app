@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 3:3",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘I tell you this: Unless a person is born from above, they cannot understand the kingdom of God.’",
+  "korean_text": "예수께서 대답하여 이르시되 진실로 진실로 네게 이르노니 사람이 거듭나지 아니하면 하나님의 나라를 볼 수 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied,",
+      "korean_translation": "예수께서 대답하셨다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 너희에게 이르노니:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Unless a person is born from above,",
+      "korean_translation": "사람이 위로 나지 아니하면,",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they cannot understand the kingdom of God.",
+      "korean_translation": "하나님의 나라를 볼 수 없느니라.",
+      "word_indices": [
+        114,
+        188
+      ]
+    }
+  ]
+}

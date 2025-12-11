@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 8:2",
+  "version": "EASY",
+  "original_text": "The name of his firstborn son was Joel. The name of his second son was Abijah. They were judges in Beersheba town.",
+  "korean_text": "장자의 이름은 요엘이요 차자의 이름은 아비야라 그들이 브엘세바에서 사사가 되니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The name of his firstborn son was Joel.",
+      "korean_translation": "그의 장남의 이름은 요엘이었습니다.",
+      "word_indices": [
+        90,
+        500
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The name of his second son was Abijah.",
+      "korean_translation": "그의 둘째 아들의 이름은 아비야였습니다.",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They were judges in Beersheba town.",
+      "korean_translation": "그들은 브엘세바 성에서 재판관이었습니다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 16:29",
+  "version": "EASY",
+  "original_text": "Jesus' disciples said to him, ‘Now you are speaking clearly. You are not speaking with words that are like pictures!",
+  "korean_text": "제자들이 말하되 지금은 밝히 말씀하시고 아무 비유로도 하지 아니하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus' disciples said to him",
+      "korean_translation": "예수님의 제자들이 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now you are speaking clearly",
+      "korean_translation": "이제 당신은 명확하게 말하고 있습니다",
+      "word_indices": [
+        18,
+        352
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You are not speaking",
+      "korean_translation": "당신은 말하고 있지 않습니다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with words that are like pictures",
+      "korean_translation": "그림 같은 단어로",
+      "word_indices": [
+        128
+      ]
+    }
+  ]
+}

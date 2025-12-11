@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ezekiel 4:11",
+  "version": "EASY",
+  "original_text": "You must measure the water that you drink each day. You may drink two cups at the same times each day.",
+  "korean_text": "물도 육분의 일 힌씩 되어서 때를 따라 마시라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must measure the water",
+      "korean_translation": "너는 물을 측정해야 한다",
+      "word_indices": [
+        60,
+        499
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you drink each day",
+      "korean_translation": "네가 매일 마시는",
+      "word_indices": [
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You may drink two cups",
+      "korean_translation": "너는 두 컵을 마실 수 있다",
+      "word_indices": [
+        118
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the same times each day",
+      "korean_translation": "매일 같은 시간에",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

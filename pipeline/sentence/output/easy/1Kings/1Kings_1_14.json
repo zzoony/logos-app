@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 1:14",
+  "version": "EASY",
+  "original_text": "While you are still talking to the king, I will come in. I will say that your report is true.’",
+  "korean_text": "당신이 거기서 왕과 말씀하실 때에 나도 뒤이어 들어가서 당신의 말씀을 확증하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While you are still talking to the king",
+      "korean_translation": "당신이 왕과 아직 이야기하는 동안",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will come in",
+      "korean_translation": "내가 들어가겠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will say",
+      "korean_translation": "내가 말할 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that your report is true",
+      "korean_translation": "당신의 보고가 참되다고",
+      "word_indices": [
+        69,
+        598
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 3:10",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘You are an important teacher of people in Israel. You ought to understand these things!",
+  "korean_text": "예수께서 그에게 대답하여 이르시되 너는 이스라엘의 선생으로서 이러한 것들을 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are an important teacher",
+      "korean_translation": "당신은 중요한 선생입니다",
+      "word_indices": [
+        138,
+        280
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of people in Israel",
+      "korean_translation": "이스라엘 백성의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You ought to understand these things",
+      "korean_translation": "당신은 이것들을 이해해야 합니다",
+      "word_indices": [
+        802
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "verse_reference": "Ezra 8:26",
+  "version": "EASY",
+  "original_text": "I weighed 20,000 kilograms of silver and 3,500 kilograms of things made from silver. I weighed 3,500 kilograms of gold 27 and 20 gold bowls that weighed 8.5 kilograms. I also gave to them two beautiful bowls made from bronze. They shone brightly and they were as valuable as gold.",
+  "korean_text": "내가 달아서 그들 손에 준 것은 은이 육백오십 달란트요 은 그릇이 백 달란트요 금이 백 달란트며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I weighed 20,000 kilograms of silver",
+      "korean_translation": "나는 20,000킬로그램의 은을 달았다",
+      "word_indices": [
+        195,
+        476,
+        487
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and 3,500 kilograms of things made from silver",
+      "korean_translation": "그리고 은으로 만들어진 것 3,500킬로그램을 달았다",
+      "word_indices": [
+        195,
+        476
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I weighed 3,500 kilograms of gold",
+      "korean_translation": "나는 3,500킬로그램의 금을 달았다",
+      "word_indices": [
+        130,
+        476,
+        487
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "27 and 20 gold bowls that weighed 8.5 kilograms",
+      "korean_translation": "27개와 20개의 금 그릇은 8.5킬로그램이 나갔다",
+      "word_indices": [
+        130,
+        476,
+        487
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I also gave to them two beautiful bowls made from bronze",
+      "korean_translation": "나는 그들에게 또한 청동으로 만든 두 개의 아름다운 그릇을 주었다",
+      "word_indices": [
+        4,
+        9,
+        180,
+        341
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They shone brightly",
+      "korean_translation": "그것들은 밝게 빛났다",
+      "word_indices": [
+        786
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and they were as valuable as gold",
+      "korean_translation": "그리고 그것들은 금만큼 가치가 있었다",
+      "word_indices": [
+        130,
+        193
+      ]
+    }
+  ]
+}

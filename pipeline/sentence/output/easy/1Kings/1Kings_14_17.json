@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Kings 14:17",
+  "version": "EASY",
+  "original_text": "Then Jeroboam's wife left Ahijah's house. She went back to Tirzah. When she walked through the door of her house, the boy died.",
+  "korean_text": "여로보암의 아내가 일어나 디르사로 돌아가서 집 문지방에 이를 때에 그 아이가 죽은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jeroboam's wife left Ahijah's house.",
+      "korean_translation": "그때 여로보암의 아내가 아히야의 집을 떠났습니다.",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She went back to Tirzah.",
+      "korean_translation": "그녀는 디르사로 돌아갔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When she walked through the door of her house,",
+      "korean_translation": "그녀가 자기 집 문을 통과할 때,",
+      "word_indices": [
+        67,
+        192,
+        204,
+        267
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the boy died.",
+      "korean_translation": "그 아이가 죽었습니다.",
+      "word_indices": []
+    }
+  ]
+}

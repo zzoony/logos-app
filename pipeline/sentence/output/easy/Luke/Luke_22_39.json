@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 22:39",
+  "version": "EASY",
+  "original_text": "Jesus left the city. He went to the Mount of Olives. This is what he usually did. His disciples went with him.",
+  "korean_text": "예수께서 나가사 습관을 따라 감람 산에 가시매 제자들도 따라갔더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus left the city",
+      "korean_translation": "예수님은 도시를 떠나셨다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He went to the Mount of Olives",
+      "korean_translation": "그는 감람산으로 가셨다",
+      "word_indices": [
+        445
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This is what he usually did",
+      "korean_translation": "이것은 그가 평소에 하던 일이었다",
+      "word_indices": [
+        1024
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "His disciples went with him",
+      "korean_translation": "그의 제자들이 그와 함께 갔다",
+      "word_indices": []
+    }
+  ]
+}

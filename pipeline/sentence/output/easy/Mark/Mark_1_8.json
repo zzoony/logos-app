@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 1:8",
+  "version": "EASY",
+  "original_text": "I have baptized you with water. But this man will baptize you with the Holy Spirit.’",
+  "korean_text": "나는 너희에게 물로 세례를 베풀었거니와 그는 너희에게 성령으로 세례를 베푸시리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have baptized you with water.",
+      "korean_translation": "나는 너희를 물로 세례를 주었다.",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But this man",
+      "korean_translation": "하지만 이 사람은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will baptize you with the Holy Spirit.",
+      "korean_translation": "너희를 성령으로 세례를 줄 것이다.",
+      "word_indices": [
+        84,
+        92,
+        554
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 28:22",
+  "version": "EASY",
+  "original_text": "Please listen to me now. I will give you some food to eat. Then you will be strong enough to travel back.’",
+  "korean_text": "그런즉 청하건대 이제 당신도 여종의 말을 들으사 내가 왕 앞에 한 조각 떡을 드리게 하시고 왕은 잡수시고 길 가실 때에 기력을 얻으소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Please listen to me now.",
+      "korean_translation": "제발 이제 저를 들어주세요.",
+      "word_indices": [
+        63,
+        76
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will give you some food to eat.",
+      "korean_translation": "드실 음식을 드리겠습니다.",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then you will be strong enough",
+      "korean_translation": "그러면 당신은 충분히 힘이 나게 될 것입니다.",
+      "word_indices": [
+        43,
+        228
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to travel back.'",
+      "korean_translation": "돌아가는 여정을 위해서 말입니다.",
+      "word_indices": []
+    }
+  ]
+}

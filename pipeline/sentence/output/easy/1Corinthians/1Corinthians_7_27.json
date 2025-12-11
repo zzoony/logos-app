@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Corinthians 7:27",
+  "version": "EASY",
+  "original_text": "If you have a wife, do not try to send her away. If you do not have a wife, do not try to marry.",
+  "korean_text": "네가 아내에게 매였느냐 놓이기를 구하지 말며 아내에게서 놓였느냐 아내를 구하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you have a wife",
+      "korean_translation": "만약 당신에게 아내가 있다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not try to send her away",
+      "korean_translation": "그녀를 보내려고 하지 마라",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you do not have a wife",
+      "korean_translation": "만약 당신에게 아내가 없다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "do not try to marry",
+      "korean_translation": "결혼하려고 하지 마라",
+      "word_indices": [
+        209
+      ]
+    }
+  ]
+}

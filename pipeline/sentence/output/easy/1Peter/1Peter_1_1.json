@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Peter 1:1",
+  "version": "EASY",
+  "original_text": "This letter is from me, Peter. I am an apostle of Jesus Christ. Peter Introduction Peter 2",
+  "korean_text": "예수 그리스도의 사도 베드로는 본도, 갈라디아, 갑바도기아, 아시아와 비두니아에 흩어진 나그네",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This letter is from me, Peter.",
+      "korean_translation": "이 편지는 나, 베드로에게서 옵니다.",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am an apostle of Jesus Christ.",
+      "korean_translation": "나는 예수 그리스도의 사도입니다.",
+      "word_indices": [
+        61,
+        375
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Peter Introduction",
+      "korean_translation": "베드로 서론",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Peter 2",
+      "korean_translation": "베드로 2",
+      "word_indices": []
+    }
+  ]
+}

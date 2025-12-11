@@ -1,0 +1,56 @@
+{
+  "verse_reference": "John 9:19",
+  "version": "EASY",
+  "original_text": "They asked the parents, ‘Is this your son? You say, “When he was born, he was blind.” But now he can see. How did this happen?’",
+  "korean_text": "이는 너희 말에 맹인으로 났다 하는 너희 아들이냐 그러면 지금은 어떻게 해서 보느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They asked the parents",
+      "korean_translation": "그들이 부모에게 물었습니다",
+      "word_indices": [
+        580
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Is this your son?",
+      "korean_translation": "이 사람이 당신의 아들입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You say",
+      "korean_translation": "당신은 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When he was born",
+      "korean_translation": "그가 태어났을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he was blind",
+      "korean_translation": "그는 소경이었습니다",
+      "word_indices": [
+        505
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "But now he can see",
+      "korean_translation": "하지만 지금 그는 볼 수 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "How did this happen?",
+      "korean_translation": "이것이 어떻게 일어났습니까?",
+      "word_indices": [
+        22
+      ]
+    }
+  ]
+}

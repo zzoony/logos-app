@@ -1,0 +1,70 @@
+{
+  "verse_reference": "Leviticus 21:2",
+  "version": "EASY",
+  "original_text": "It may be the body of a person from their own family. The priest can touch the dead person if it is his mother or father. He can touch the dead person if it is his son or his daughter or his brother.",
+  "korean_text": "그의 살붙이인 그의 어머니나 그의 아버지나 그의 아들이나 그의 딸이나 그의 형제나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It may be the body of a person",
+      "korean_translation": "그것은 한 사람의 시체일 수 있습니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from their own family",
+      "korean_translation": "그들 자신의 가족으로부터의",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The priest can touch the dead person",
+      "korean_translation": "제사장은 죽은 사람을 만질 수 있습니다",
+      "word_indices": [
+        24,
+        32,
+        133,
+        348
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "if it is his mother or father",
+      "korean_translation": "만약 그것이 그의 어머니나 아버지라면",
+      "word_indices": [
+        37,
+        202
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He can touch the dead person",
+      "korean_translation": "그는 죽은 사람을 만질 수 있습니다",
+      "word_indices": [
+        24,
+        133,
+        348
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "if it is his son or his daughter",
+      "korean_translation": "만약 그것이 그의 아들이나 딸이라면",
+      "word_indices": [
+        173
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "or his brother",
+      "korean_translation": "또는 그의 형제라면",
+      "word_indices": [
+        135
+      ]
+    }
+  ]
+}

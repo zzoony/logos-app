@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 13:6",
+  "version": "EASY",
+  "original_text": "Jesus came to Simon Peter. Peter asked him, ‘ Lord, will you really wash my feet?’",
+  "korean_text": "시몬 베드로에게 이르시니 베드로가 이르되 주여 주께서 내 발을 씻으시나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus came to Simon Peter",
+      "korean_translation": "예수님께서 시몬 베드로에게 오셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Peter asked him",
+      "korean_translation": "베드로가 그에게 물었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will you really wash my feet?",
+      "korean_translation": "정말 제 발을 씻기시겠습니까?",
+      "word_indices": [
+        146
+      ]
+    }
+  ]
+}

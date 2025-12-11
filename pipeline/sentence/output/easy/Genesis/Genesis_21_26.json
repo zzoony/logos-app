@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 21:26",
+  "version": "EASY",
+  "original_text": "Abimelech said, ‘I do not know who has done this. You did not tell me before. I did not hear about it until today.’",
+  "korean_text": "아비멜렉이 이르되 누가 그리하였는지 내가 알지 못하노라 너도 내게 알리지 아니하였고 나도 듣지 못하였더니 오늘에야 들었노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abimelech said",
+      "korean_translation": "아비멜렉이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I do not know who has done this",
+      "korean_translation": "내가 이것을 누가 했는지 모르겠다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You did not tell me before",
+      "korean_translation": "너는 전에 내게 말하지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I did not hear about it until today",
+      "korean_translation": "나는 오늘까지 그것에 대해 듣지 못했다",
+      "word_indices": [
+        42,
+        233
+      ]
+    }
+  ]
+}

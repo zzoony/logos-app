@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Kings 3:22",
+  "version": "EASY",
+  "original_text": "When the Moabites woke up early the next morning, the sun was shining on the water. When they looked at the water from where they were, it looked like blood!",
+  "korean_text": "아침에 모압 사람이 일찍이 일어나서 해가 물에 비치므로 맞은편 물이 붉어 피와 같음을 보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the Moabites woke up early the next morning",
+      "korean_translation": "모압 사람들이 다음날 이른 아침에 일어났을 때",
+      "word_indices": [
+        263,
+        584
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sun was shining on the water",
+      "korean_translation": "햇빛이 물 위를 비추고 있었다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When they looked at the water from where they were",
+      "korean_translation": "그들이 그곳에서 물을 바라보았을 때",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it looked like blood",
+      "korean_translation": "그것은 피처럼 보였다",
+      "word_indices": [
+        221
+      ]
+    }
+  ]
+}

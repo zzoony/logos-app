@@ -1,0 +1,24 @@
+{
+  "verse_reference": "1 Kings 1:22",
+  "version": "EASY",
+  "original_text": "While Bathsheba was saying this to the king, Nathan the prophet arrived.",
+  "korean_text": "밧세바가 왕과 말할 때에 선지자 나단이 들어온지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While Bathsheba was saying this to the king",
+      "korean_translation": "밧세바가 왕에게 이것을 말하고 있을 때",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Nathan the prophet arrived",
+      "korean_translation": "나단 선지자가 도착했다",
+      "word_indices": [
+        100
+      ]
+    }
+  ]
+}

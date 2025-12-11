@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 10:4",
+  "version": "EASY",
+  "original_text": "Do not carry a purse or a bag. Do not take extra shoes. When you meet other people on the road, do not stop to say “hello”.",
+  "korean_text": "전대나 배낭이나 신발을 가지지 말며 길에서 아무에게도 문안하지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not carry a purse",
+      "korean_translation": "지갑을 가져가지 말라",
+      "word_indices": [
+        201,
+        1319
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or a bag",
+      "korean_translation": "또는 가방도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not take extra shoes",
+      "korean_translation": "여분의 신발을 신지 말라",
+      "word_indices": [
+        850
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When you meet other people on the road",
+      "korean_translation": "길에서 다른 사람들을 만날 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "do not stop to say \"hello\"",
+      "korean_translation": "\"안녕\"이라고 말하려고 멈추지 말라",
+      "word_indices": []
+    }
+  ]
+}

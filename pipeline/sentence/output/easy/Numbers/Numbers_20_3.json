@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Numbers 20:3",
+  "version": "EASY",
+  "original_text": "They said to Moses, ‘We would rather be dead! When the Lord killed our brothers, he should have killed us too.",
+  "korean_text": "백성이 모세와 다투어 말하여 이르되 우리 형제들이 여호와 앞에서 죽을 때에 우리도 죽었더라면 좋을 뻔하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said to Moses",
+      "korean_translation": "그들이 모세에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We would rather be dead",
+      "korean_translation": "우리는 차라리 죽는 것이 낫다",
+      "word_indices": [
+        133,
+        1053
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When the Lord killed our brothers",
+      "korean_translation": "주님께서 우리 형제들을 죽이셨을 때",
+      "word_indices": [
+        2,
+        26,
+        135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he should have killed us too",
+      "korean_translation": "그분께서 우리도 죽이셨어야 했다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

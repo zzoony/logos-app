@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Leviticus 19:22",
+  "version": "EASY",
+  "original_text": "The priest will sacrifice the gift to the Lord. The sacrifice will atone for the man's sin. Then the Lord will forgive the man.",
+  "korean_text": "제사장은 그가 범한 죄를 위하여 그 속건제의 숫양으로 여호와 앞에 속죄할 것이요 그리하면 그가 범한 죄를 사함 받으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest will sacrifice the gift to the Lord.",
+      "korean_translation": "제사장은 주님께 그 선물을 드릴 것입니다.",
+      "word_indices": [
+        2,
+        32,
+        126
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The sacrifice will atone for the man's sin.",
+      "korean_translation": "그 제물은 그 사람의 죄를 속죄할 것입니다.",
+      "word_indices": [
+        126,
+        1100
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the Lord will forgive the man.",
+      "korean_translation": "그러면 주님께서 그 사람을 용서하실 것입니다.",
+      "word_indices": [
+        2,
+        227
+      ]
+    }
+  ]
+}

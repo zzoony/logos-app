@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Samuel 3:30",
+  "version": "EASY",
+  "original_text": "That is how Joab and his brother Abishai killed Abner. They killed him because he had killed their brother Asahel in the battle at Gibeon.",
+  "korean_text": "요압과 그의 동생 아비새가 아브넬을 죽인 것은 그가 기브온 전쟁에서 자기 동생 아사헬을 죽인 까닭이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That is how Joab and his brother Abishai killed Abner.",
+      "korean_translation": "요압과 그의 형제 아비새가 아브넬을 죽인 방식은 그러했습니다.",
+      "word_indices": [
+        26,
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They killed him",
+      "korean_translation": "그들은 그를 죽였습니다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he had killed their brother Asahel",
+      "korean_translation": "그가 그들의 형제 아사엘을 죽였기 때문입니다",
+      "word_indices": [
+        26,
+        135
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the battle at Gibeon.",
+      "korean_translation": "기브온 전투에서.",
+      "word_indices": [
+        205
+      ]
+    }
+  ]
+}

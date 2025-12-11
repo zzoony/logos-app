@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Deuteronomy 28:66",
+  "version": "EASY",
+  "original_text": "You will be in danger of death all the time. You will be afraid in the day and at night. You will never know if you will live for one more day.",
+  "korean_text": "네 생명이 위험에 처하고 주야로 두려워하며 네 생명을 확신할 수 없을 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will be in danger of death",
+      "korean_translation": "너는 죽음의 위험에 처할 것이며",
+      "word_indices": [
+        153,
+        558
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the time",
+      "korean_translation": "언제나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will be afraid",
+      "korean_translation": "너는 두려워할 것이다",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the day and at night",
+      "korean_translation": "낮과 밤에",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will never know",
+      "korean_translation": "너는 결코 알지 못할 것이다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "if you will live",
+      "korean_translation": "너가 살 것인지",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "for one more day",
+      "korean_translation": "하루 더",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "verse_reference": "Genesis 16:16",
+  "version": "EASY",
+  "original_text": "Abram was 86 years old when Hagar gave birth to Ishmael.",
+  "korean_text": "하갈이 아브람에게 이스마엘을 낳았을 때에 아브람이 팔십육 세였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abram was 86 years old",
+      "korean_translation": "아브람은 86세였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when Hagar gave birth to Ishmael",
+      "korean_translation": "하가가 이스마엘을 낳았을 때",
+      "word_indices": [
+        4,
+        249
+      ]
+    }
+  ]
+}

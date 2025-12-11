@@ -1,0 +1,89 @@
+{
+  "verse_reference": "1 Samuel 24:11",
+  "version": "EASY",
+  "original_text": "My father, look at what I have in my hand! It is a small piece of your coat. I cut this off the corner of your coat, but I did not kill you. So you must know that I do not want to do anything bad against you. I have not turned against you. I am not guilty of anything, but you are chasing after me so that you can kill me.",
+  "korean_text": "내 아버지여 보소서 내 손에 있는 왕의 옷자락을 보소서 내가 왕을 죽이지 아니하고 겉옷 자락만 베었은즉 내 손에 악이나 죄과가 없는 줄을 오늘 아실지니이다 왕은 내 생명을 찾아 해하려 하시나 나는 왕에게 범죄한 일이 없나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "My father, look at what I have in my hand!",
+      "korean_translation": "내 아버지, 내 손에 있는 것을 보십시오!",
+      "word_indices": [
+        37,
+        132
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is a small piece of your coat.",
+      "korean_translation": "이것은 당신의 옷의 작은 조각입니다.",
+      "word_indices": [
+        149,
+        295
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I cut this off the corner of your coat,",
+      "korean_translation": "나는 이것을 당신의 옷자락 모서리에서 잘라냈습니다.",
+      "word_indices": [
+        613
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but I did not kill you.",
+      "korean_translation": "하지만 나는 당신을 죽이지 않았습니다.",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So you must know that",
+      "korean_translation": "그러므로 당신은 알아야 합니다.",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I do not want to do anything bad against you.",
+      "korean_translation": "나는 당신에게 나쁜 어떤 일도 하고 싶지 않습니다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I have not turned against you.",
+      "korean_translation": "나는 당신을 배반하지 않았습니다.",
+      "word_indices": [
+        31,
+        72
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "I am not guilty of anything,",
+      "korean_translation": "나는 어떤 죄도 없습니다.",
+      "word_indices": [
+        232
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "but you are chasing after me",
+      "korean_translation": "하지만 당신은 나를 쫓고 있습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "so that you can kill me.",
+      "korean_translation": "나를 죽이기 위해서입니다.",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

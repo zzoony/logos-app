@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Joshua 11:11",
+  "version": "EASY",
+  "original_text": "The Israelites killed everyone who lived there. Nothing in the city was left alive. They burned the city and destroyed it.",
+  "korean_text": "그 가운데 모든 사람을 칼날로 쳐서 진멸하여 호흡이 있는 자는 하나도 남기지 아니하였고 또 하솔을 불로 살랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Israelites killed everyone",
+      "korean_translation": "이스라엘 사람들은 모든 사람을 죽였다",
+      "word_indices": [
+        26,
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who lived there",
+      "korean_translation": "그곳에 살던 사람들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Nothing in the city was left alive",
+      "korean_translation": "성 안에는 아무것도 살아남지 않았다",
+      "word_indices": [
+        20,
+        151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They burned the city",
+      "korean_translation": "그들은 성을 불태웠다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and destroyed it",
+      "korean_translation": "그리고 그것을 파괴했다",
+      "word_indices": [
+        39
+      ]
+    }
+  ]
+}

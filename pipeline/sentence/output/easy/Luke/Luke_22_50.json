@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Luke 22:50",
+  "version": "EASY",
+  "original_text": "One of them hit the servant of the leader of the priests. He cut off the servant's right ear.",
+  "korean_text": "그 중의 한 사람이 대제사장의 종을 쳐 그 오른쪽 귀를 떨어뜨린지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One of them hit the servant",
+      "korean_translation": "그들 중 한 사람이 종을 때렸다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of the leader of the priests",
+      "korean_translation": "제사장 우두머리의",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He cut off the servant's right ear",
+      "korean_translation": "그는 종의 오른쪽 귀를 잘라냈다",
+      "word_indices": [
+        38,
+        44
+      ]
+    }
+  ]
+}

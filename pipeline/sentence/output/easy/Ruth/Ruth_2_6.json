@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Ruth 2:6",
+  "version": "EASY",
+  "original_text": "The man said, ‘She is that young woman from Moab, who returned from Moab with Naomi.",
+  "korean_text": "베는 자를 거느린 사환이 대답하여 이르되 이는 나오미와 함께 모압 지방에서 돌아온 모압 소녀인데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man said",
+      "korean_translation": "그 남자가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "She is that young woman from Moab",
+      "korean_translation": "그녀는 모압에서 온 그 젊은 여자이다",
+      "word_indices": [
+        46,
+        108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who returned from Moab with Naomi",
+      "korean_translation": "나오미와 함께 모압에서 돌아온 사람",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

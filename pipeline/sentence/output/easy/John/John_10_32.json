@@ -1,0 +1,52 @@
+{
+  "verse_reference": "John 10:32",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘I have done many good things. The Father sent me to do them, and I have shown them to you. Which of those good things make you want to kill me with stones?’",
+  "korean_text": "예수께서 대답하시되 내가 아버지로 말미암아 여러 가지 선한 일로 너희에게 보였거늘 그 중에 어떤 일로 나를 돌로 치려 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수께서 그들에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have done many good things",
+      "korean_translation": "내가 많은 선한 일을 행하였노라",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Father sent me to do them",
+      "korean_translation": "아버지께서 나를 보내사 이 일들을 행하게 하셨고",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have shown them to you",
+      "korean_translation": "내가 너희에게 이것을 보였노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Which of those good things",
+      "korean_translation": "그 선한 일들 중 어느 것 때문에",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "make you want to kill me with stones",
+      "korean_translation": "너희가 나를 돌로 치려 하느냐",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

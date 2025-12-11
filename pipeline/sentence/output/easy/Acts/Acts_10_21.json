@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 10:21",
+  "version": "EASY",
+  "original_text": "Peter went downstairs and he said to the men, ‘I am the person that you are looking for. Why have you come here?’",
+  "korean_text": "베드로가 내려가 그 사람들을 보고 이르되 내가 곧 너희가 찾는 사람인데 너희가 무슨 일로 왔느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter went downstairs",
+      "korean_translation": "베드로는 아래로 내려갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he said to the men",
+      "korean_translation": "그리고 그는 남자들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am the person",
+      "korean_translation": "나는 그 사람입니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you are looking for",
+      "korean_translation": "당신이 찾고 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Why have you come here?",
+      "korean_translation": "왜 당신들은 여기에 왔습니까?",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "2 Chronicles 2:15",
+  "version": "EASY",
+  "original_text": "Please sir, now send us the wheat, barley, olive oil and wine that you promised.",
+  "korean_text": "내 주께서 말씀하신 밀과 보리와 기름과 포도주는 주의 종들에게 보내소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Please sir,",
+      "korean_translation": "부디, 주인님",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "now send us the wheat, barley, olive oil and wine",
+      "korean_translation": "이제 우리에게 밀, 보리, 올리브유와 포도주를 보내주세요",
+      "word_indices": [
+        25,
+        219,
+        358,
+        617,
+        736
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you promised.",
+      "korean_translation": "당신이 약속했던 것을",
+      "word_indices": []
+    }
+  ]
+}

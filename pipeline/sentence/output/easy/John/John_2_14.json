@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 2:14",
+  "version": "EASY",
+  "original_text": "He went into the yard of the temple. There he found people who were selling cows, sheep and doves. Other people were sitting at tables to change coins for people.",
+  "korean_text": "성전 안에서 소와 양과 비둘기 파는 사람들과 돈 바꾸는 사람들이 앉아 있는 것을 보시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He went into the yard of the temple",
+      "korean_translation": "그는 성전의 뜰로 들어갔다",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There he found people",
+      "korean_translation": "그곳에서 그는 사람들을 발견했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who were selling cows",
+      "korean_translation": "소를 팔고 있는 사람들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "sheep and doves",
+      "korean_translation": "양과 비둘기",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Other people were sitting at tables",
+      "korean_translation": "다른 사람들은 테이블에 앉아 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to change coins for people",
+      "korean_translation": "사람들을 위해 동전을 바꾸어 주고 있었다",
+      "word_indices": []
+    }
+  ]
+}

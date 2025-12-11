@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Ezekiel 22:24",
+  "version": "EASY",
+  "original_text": "‘Son of man, say to the land of Israel, “I am angry with you. Because of that, you will receive no rain to make you clean.”",
+  "korean_text": "인자야 너는 그에게 이르기를 너는 정결함을 얻지 못한 땅이요 진노의 날에 비를 얻지 못한 땅이로다 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Son of man",
+      "korean_translation": "인자여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "say to the land of Israel",
+      "korean_translation": "이스라엘 땅에 말하라",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am angry with you",
+      "korean_translation": "내가 너에게 분노하였노라",
+      "word_indices": [
+        106
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Because of that",
+      "korean_translation": "그 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will receive no rain",
+      "korean_translation": "너는 비를 받지 못할 것이며",
+      "word_indices": [
+        104,
+        327
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to make you clean",
+      "korean_translation": "너를 정결하게 하지 못하리라",
+      "word_indices": [
+        184
+      ]
+    }
+  ]
+}

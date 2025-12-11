@@ -1,0 +1,23 @@
+{
+  "verse_reference": "3 John 1:13",
+  "version": "EASY",
+  "original_text": "I would like to tell you many more things. But I do not want to write them in a letter.",
+  "korean_text": "내가 네게 쓸 것이 많으나 먹과 붓으로 쓰기를 원하지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I would like to tell you many more things",
+      "korean_translation": "내가 당신에게 더 많은 것을 말하고 싶습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But I do not want to write them in a letter",
+      "korean_translation": "하지만 나는 그것들을 편지에 쓰고 싶지 않습니다",
+      "word_indices": [
+        124,
+        347
+      ]
+    }
+  ]
+}

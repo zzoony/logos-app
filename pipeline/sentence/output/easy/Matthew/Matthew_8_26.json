@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Matthew 8:26",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘You should not be so afraid. You should trust me more than you do!’ Then he stood up and he spoke strongly to the wind and the water. ‘Stop!’ he said. Then the wind and the water became quiet again.",
+  "korean_text": "예수께서 이르시되 어찌하여 무서워하느냐 믿음이 작은 자들아 하시고 곧 일어나사 바람과 바다를 꾸짖으시니 아주 잔잔하게 되거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You should not be so afraid",
+      "korean_translation": "'그렇게 두려워하지 말아야 한다",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should trust me more than you do!'",
+      "korean_translation": "나를 더 믿어야 한다!'",
+      "word_indices": [
+        165
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then he stood up",
+      "korean_translation": "그때 그는 일어나서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he spoke strongly to the wind and the water",
+      "korean_translation": "바람과 물에게 강하게 말씀하셨다",
+      "word_indices": [
+        60,
+        303,
+        491
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "'Stop!' he said",
+      "korean_translation": "'멈추라!' 그가 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then the wind and the water became quiet again",
+      "korean_translation": "그러자 바람과 물이 다시 조용해졌다",
+      "word_indices": [
+        60,
+        303,
+        550
+      ]
+    }
+  ]
+}

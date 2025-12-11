@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 Kings 8:5",
+  "version": "EASY",
+  "original_text": "King Solomon and all the Israelites who were with him walked in front of the Covenant Box. They offered many sheep and bulls as sacrifices. There were more animals than anyone could count.",
+  "korean_text": "솔로몬 왕과 그 앞에 모인 이스라엘 회중이 그와 함께 그 궤 앞에 있어 양과 소로 제사를 지냈으니 그 수가 많아 기록할 수도 없고 셀 수도 없었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Solomon and all the Israelites who were with him",
+      "korean_translation": "솔로몬 왕과 그와 함께 있던 모든 이스라엘 사람들은",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "walked in front of the Covenant Box",
+      "korean_translation": "언약궤 앞을 행진했습니다",
+      "word_indices": [
+        123,
+        197,
+        204
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They offered many sheep and bulls as sacrifices",
+      "korean_translation": "그들은 많은 양과 소를 제물로 바쳤습니다",
+      "word_indices": [
+        55,
+        125
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "There were more animals",
+      "korean_translation": "동물들이 너무 많아서",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "than anyone could count",
+      "korean_translation": "아무도 셀 수 없었습니다",
+      "word_indices": [
+        109,
+        398
+      ]
+    }
+  ]
+}

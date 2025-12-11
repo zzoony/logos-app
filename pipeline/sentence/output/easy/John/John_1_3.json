@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 1:3",
+  "version": "EASY",
+  "original_text": "God made all things through the Word. God did not make anything without him.",
+  "korean_text": "만물이 그로 말미암아 지은 바 되었으니 지은 것이 하나도 그가 없이는 된 것이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God made all things",
+      "korean_translation": "하나님이 모든 것을 만드셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "through the Word",
+      "korean_translation": "말씀을 통하여",
+      "word_indices": [
+        128,
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God did not make anything",
+      "korean_translation": "하나님은 아무것도 만들지 않으셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "without him",
+      "korean_translation": "그 없이는",
+      "word_indices": []
+    }
+  ]
+}

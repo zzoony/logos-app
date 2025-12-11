@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 27:30",
+  "version": "EASY",
+  "original_text": "When Isaac had blessed Jacob, Jacob left him. Just then, Esau came back from the country where he had killed an animal.",
+  "korean_text": "이삭이 야곱에게 축복하기를 마치매 야곱이 그의 아버지 이삭 앞에서 나가자 곧 그의 형 에서가 사냥하여 돌아온지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Isaac had blessed Jacob",
+      "korean_translation": "이삭이 야곱을 축복했을 때",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jacob left him",
+      "korean_translation": "야곱은 그를 떠났다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Just then",
+      "korean_translation": "바로 그때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Esau came back from the country",
+      "korean_translation": "에서는 들에서 돌아왔다",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "where he had killed an animal",
+      "korean_translation": "그가 동물을 잡았던 그곳에서",
+      "word_indices": [
+        26,
+        48
+      ]
+    }
+  ]
+}

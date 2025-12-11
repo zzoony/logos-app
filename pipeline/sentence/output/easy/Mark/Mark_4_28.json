@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Mark 4:28",
+  "version": "EASY",
+  "original_text": "The soil causes the plants to grow. The leaves of the plant grow first. Then the flowers appear. Then the plant makes new seeds.",
+  "korean_text": "땅이 스스로 열매를 맺되 처음에는 싹이요 다음에는 이삭이요 그 다음에는 이삭에 충실한 곡식이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The soil causes the plants to grow.",
+      "korean_translation": "흙은 식물들이 자라게 합니다.",
+      "word_indices": [
+        156,
+        199
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The leaves of the plant grow first.",
+      "korean_translation": "식물의 잎이 먼저 자랍니다.",
+      "word_indices": [
+        156,
+        199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the flowers appear.",
+      "korean_translation": "그러면 꽃이 나타납니다.",
+      "word_indices": [
+        386,
+        573
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then the plant makes new seeds.",
+      "korean_translation": "그러면 식물이 새 씨앗을 만듭니다.",
+      "word_indices": [
+        199
+      ]
+    }
+  ]
+}

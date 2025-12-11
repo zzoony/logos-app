@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 19:47",
+  "version": "EASY",
+  "original_text": "Jesus was teaching every day in the temple. The leaders of the priests and teachers of God's Law wanted to kill him. Some other important people also wanted to kill him.",
+  "korean_text": "예수께서 날마다 성전에서 가르치시니 대제사장들과 서기관들과 백성의 지도자들이 그를 죽이려고 꾀하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus was teaching every day in the temple.",
+      "korean_translation": "예수님은 매일 성전에서 가르치고 계셨습니다.",
+      "word_indices": [
+        49,
+        87
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The leaders of the priests wanted to kill him.",
+      "korean_translation": "제사장 지도자들은 그를 죽이고 싶어했습니다.",
+      "word_indices": [
+        26,
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The teachers of God's Law wanted to kill him.",
+      "korean_translation": "하나님의 율법 교사들도 그를 죽이고 싶어했습니다.",
+      "word_indices": [
+        26,
+        280
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Some other important people also wanted to kill him.",
+      "korean_translation": "다른 중요한 사람들도 그를 죽이고 싶어했습니다.",
+      "word_indices": [
+        9,
+        26,
+        138
+      ]
+    }
+  ]
+}

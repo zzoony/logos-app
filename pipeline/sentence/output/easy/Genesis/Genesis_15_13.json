@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Genesis 15:13",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Abram, ‘Be sure of this: Your descendants will live in a foreign country. They will be strangers there. People will do bad things to them and they will become slaves. This will continue for 400 years.",
+  "korean_text": "여호와께서 아브람에게 이르시되 너는 반드시 알라 네 자손이 이방에서 객이 되어 그들을 섬기겠고 그들은 사백 년 동안 네 자손을 괴롭히리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Abram",
+      "korean_translation": "그때 주께서 아브람에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Be sure of this",
+      "korean_translation": "이것을 확실히 알아두어라",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your descendants will live in a foreign country",
+      "korean_translation": "네 자손이 외국에 살 것이다",
+      "word_indices": [
+        8,
+        75,
+        117
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They will be strangers there",
+      "korean_translation": "그들은 그곳에서 이방인이 될 것이다",
+      "word_indices": [
+        713
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "People will do bad things to them",
+      "korean_translation": "사람들이 그들에게 나쁜 일을 할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and they will become slaves",
+      "korean_translation": "그리고 그들은 노예가 될 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "This will continue for 400 years",
+      "korean_translation": "이것은 400년 동안 계속될 것이다",
+      "word_indices": []
+    }
+  ]
+}

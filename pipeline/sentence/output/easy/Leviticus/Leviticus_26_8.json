@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Leviticus 26:8",
+  "version": "EASY",
+  "original_text": "Five of you will run after 100 of them. And 100 of you will run after 1,000 enemies. You will kill all your enemies.",
+  "korean_text": "또 너희 다섯이 백을 쫓고 너희 백이 만을 쫓으리니 너희 대적들이 너희 앞에서 칼에 엎드러질 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Five of you will run after 100 of them.",
+      "korean_translation": "너희 중 다섯 사람이 백 명을 쫓을 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And 100 of you will run after 1,000 enemies.",
+      "korean_translation": "너희 중 백 사람은 천 명을 쫓을 것이며",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will kill all your enemies.",
+      "korean_translation": "너희는 모든 대적을 치리라",
+      "word_indices": [
+        26,
+        50
+      ]
+    }
+  ]
+}

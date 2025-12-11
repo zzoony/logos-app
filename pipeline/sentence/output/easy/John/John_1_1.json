@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 1:1",
+  "version": "EASY",
+  "original_text": "In the beginning, the Word was already there. The Word was with God. The Word was God.",
+  "korean_text": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the beginning",
+      "korean_translation": "태초에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Word was already there",
+      "korean_translation": "말씀이 이미 계셨다",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Word was with God",
+      "korean_translation": "말씀은 하나님과 함께 계셨다",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Word was God",
+      "korean_translation": "말씀은 하나님이셨다",
+      "word_indices": [
+        128
+      ]
+    }
+  ]
+}

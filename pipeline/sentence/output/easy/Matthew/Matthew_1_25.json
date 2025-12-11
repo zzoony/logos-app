@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Matthew 1:25",
+  "version": "EASY",
+  "original_text": "Joseph did not have sex with Mary until after the baby boy was born. He said that the boy's name should be Jesus.",
+  "korean_text": "아들을 낳기까지 동침하지 아니하더니 낳으매 이름을 예수라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph did not have sex with Mary",
+      "korean_translation": "요셉은 마리아와 성관계를 갖지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "until after the baby boy was born",
+      "korean_translation": "아기 남자아이가 태어난 후까지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said that",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the boy's name should be Jesus",
+      "korean_translation": "그 남자아이의 이름은 예수가 되어야 한다고",
+      "word_indices": [
+        90
+      ]
+    }
+  ]
+}

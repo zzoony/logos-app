@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Corinthians 11:11",
+  "version": "EASY",
+  "original_text": "You must not think that I say this because I do not love you. God himself knows that I love you.",
+  "korean_text": "어떠한 까닭이냐 내가 너희를 사랑하지 아니함이냐 하나님이 아시느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not think",
+      "korean_translation": "생각해서는 안 됩니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I say this",
+      "korean_translation": "내가 이렇게 말하는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because I do not love you",
+      "korean_translation": "내가 당신을 사랑하지 않기 때문에",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God himself knows",
+      "korean_translation": "하나님 자신이 아십니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that I love you",
+      "korean_translation": "내가 당신을 사랑한다는 것을",
+      "word_indices": [
+        82
+      ]
+    }
+  ]
+}

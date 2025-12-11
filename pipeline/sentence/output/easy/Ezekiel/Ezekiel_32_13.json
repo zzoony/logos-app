@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ezekiel 32:13",
+  "version": "EASY",
+  "original_text": "I will destroy all Egypt's cows that live beside its great rivers.",
+  "korean_text": "내가 또 그 모든 짐승을 큰 물 가에서 멸하리니 사람의 발이나 짐승의 굽이 다시는 그 물을 흐리지 못할 것임이여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will destroy",
+      "korean_translation": "내가 멸하리라",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all Egypt's cows",
+      "korean_translation": "애굽의 모든 소를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that live beside its great rivers",
+      "korean_translation": "그 큰 강가에 거주하는 것들을",
+      "word_indices": [
+        8,
+        40,
+        136,
+        343
+      ]
+    }
+  ]
+}

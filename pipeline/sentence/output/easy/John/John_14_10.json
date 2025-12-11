@@ -1,0 +1,62 @@
+{
+  "verse_reference": "John 14:10",
+  "version": "EASY",
+  "original_text": "I am in the Father and the Father is in me. You should believe that. The words that I say to you do not come from me myself. But the Father lives in me, and he is doing his work.",
+  "korean_text": "내가 아버지 안에 거하고 아버지는 내 안에 계신 것을 네가 믿지 아니하느냐 내가 너희에게 이르는 말은 스스로 하는 것이 아니라 아버지께서 내 안에 계셔서 그의 일을 하시는 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am in the Father",
+      "korean_translation": "나는 아버지 안에 있고",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the Father is in me",
+      "korean_translation": "아버지는 내 안에 계십니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should believe that",
+      "korean_translation": "너희는 그것을 믿어야 합니다",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The words that I say to you",
+      "korean_translation": "내가 너희에게 하는 말들",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "do not come from me myself",
+      "korean_translation": "나 자신에게서 나온 것이 아닙니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "But the Father lives in me",
+      "korean_translation": "그러나 아버지는 내 안에 계시고",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and he is doing his work",
+      "korean_translation": "그는 그의 일을 하고 계십니다",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

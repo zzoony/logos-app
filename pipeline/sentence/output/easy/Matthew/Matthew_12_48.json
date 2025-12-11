@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Matthew 12:48",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘I will tell you who my mother and my brothers really are.’",
+  "korean_text": "말하던 사람에게 대답하여 이르시되 누가 내 어머니이며 내 동생들이냐 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수님께서 대답하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will tell you",
+      "korean_translation": "내가 당신에게 말해주겠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who my mother and my brothers really are",
+      "korean_translation": "나의 어머니와 형제들이 정말 누구인지",
+      "word_indices": [
+        135,
+        146,
+        202
+      ]
+    }
+  ]
+}

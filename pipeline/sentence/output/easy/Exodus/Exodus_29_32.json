@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 29:32",
+  "version": "EASY",
+  "original_text": "Aaron and his sons must eat this meat and the bread that was in the basket. They must do this at the entrance of the Tent of Meeting.",
+  "korean_text": "아론과 그의 아들들은 회막 문에서 그 숫양의 고기와 광주리에 있는 떡을 먹을지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Aaron and his sons must eat this meat",
+      "korean_translation": "아론과 그의 아들들은 이 고기를 먹어야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the bread that was in the basket",
+      "korean_translation": "그리고 바구니 안에 있던 빵을",
+      "word_indices": [
+        229,
+        667
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They must do this at the entrance",
+      "korean_translation": "그들은 이것을 입구에서 해야 합니다",
+      "word_indices": [
+        385
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the Tent of Meeting",
+      "korean_translation": "회막의",
+      "word_indices": []
+    }
+  ]
+}

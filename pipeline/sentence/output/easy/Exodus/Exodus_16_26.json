@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 16:26",
+  "version": "EASY",
+  "original_text": "On six days of each week, you must pick food up from the ground. But on the seventh day of the week, there will not be any food on the ground. That is because the seventh day is the Sabbath day of rest.’",
+  "korean_text": "엿새 동안은 너희가 그것을 거두되 일곱째 날은 안식일인즉 그 날에는 없으리라 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On six days of each week",
+      "korean_translation": "매주 여섯 날 동안에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you must pick food up from the ground",
+      "korean_translation": "너희가 땅에서 음식을 거두어야 하느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But on the seventh day of the week",
+      "korean_translation": "그러나 매주 일곱째 날에는",
+      "word_indices": [
+        469
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "there will not be any food on the ground",
+      "korean_translation": "땅에 음식이 없을 것이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is because",
+      "korean_translation": "그것은 때문이니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the seventh day is the Sabbath day of rest",
+      "korean_translation": "일곱째 날은 안식일인 안식의 날이라",
+      "word_indices": [
+        269,
+        469,
+        484
+      ]
+    }
+  ]
+}

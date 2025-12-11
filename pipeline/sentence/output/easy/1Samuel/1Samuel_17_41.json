@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Samuel 17:41",
+  "version": "EASY",
+  "original_text": "The Philistine slowly walked towards David. The man who was carrying his shield walked in front of him.",
+  "korean_text": "블레셋 사람이 방패 든 사람을 앞세우고 다윗에게로 점점 가까이 나아가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Philistine slowly walked towards David",
+      "korean_translation": "블레셋 사람이 다윗을 향해 천천히 걸어갔다",
+      "word_indices": [
+        204,
+        1033
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The man who was carrying his shield",
+      "korean_translation": "그의 방패를 들고 있던 남자가",
+      "word_indices": [
+        201,
+        583
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "walked in front of him",
+      "korean_translation": "그의 앞에서 걸어갔다",
+      "word_indices": [
+        123,
+        204
+      ]
+    }
+  ]
+}

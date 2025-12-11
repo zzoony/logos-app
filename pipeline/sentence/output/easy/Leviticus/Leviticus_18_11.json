@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Leviticus 18:11",
+  "version": "EASY",
+  "original_text": "Do not have sex with the daughter of your father and his wife. She is your sister.",
+  "korean_text": "네 아버지의 아내가 네 아버지에게 낳은 딸은 네 누이니 너는 그의 하체를 범하지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not have sex with the daughter of your father",
+      "korean_translation": "네 아버지의 딸과 성관계를 하지 말라",
+      "word_indices": [
+        37,
+        173
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his wife",
+      "korean_translation": "그리고 그의 아내와도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She is your sister",
+      "korean_translation": "그녀는 네 누이다",
+      "word_indices": [
+        374
+      ]
+    }
+  ]
+}

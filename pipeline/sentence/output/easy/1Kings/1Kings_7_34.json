@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Kings 7:34",
+  "version": "EASY",
+  "original_text": "Each cart had four handles. There was one handle on each side, joined to the cart as one piece.",
+  "korean_text": "받침 수레 네 모퉁이에 어깨 같은 것 넷이 있는데 그 어깨는 받침 수레와 연결되었고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Each cart had four handles",
+      "korean_translation": "각 수레에는 네 개의 손잡이가 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There was one handle on each side",
+      "korean_translation": "각 측면에 하나의 손잡이가 있었다",
+      "word_indices": [
+        1208
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "joined to the cart as one piece",
+      "korean_translation": "수레와 하나의 조각으로 연결되었다",
+      "word_indices": [
+        149
+      ]
+    }
+  ]
+}

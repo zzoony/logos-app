@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Proverbs 6:10",
+  "version": "EASY",
+  "original_text": "You say, ‘I will have a short sleep. I will rest quietly for a while.’",
+  "korean_text": "좀더 자자, 좀더 졸자, 손을 모으고 좀더 누워 있자 하면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You say",
+      "korean_translation": "네가 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I will have a short sleep.'",
+      "korean_translation": "'나는 잠깐 자겠다.'",
+      "word_indices": [
+        361,
+        528
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'I will rest quietly for a while.'",
+      "korean_translation": "'나는 잠시 동안 조용히 쉬겠다.'",
+      "word_indices": [
+        269,
+        815
+      ]
+    }
+  ]
+}

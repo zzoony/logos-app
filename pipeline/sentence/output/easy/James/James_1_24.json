@@ -1,0 +1,37 @@
+{
+  "verse_reference": "James 1:24",
+  "version": "EASY",
+  "original_text": "That man looks at himself, but then he goes away. He immediately forgets what he is really like.",
+  "korean_text": "제 자신을 보고 가서 그 모습이 어떠했는지를 곧 잊어버리거니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That man looks at himself",
+      "korean_translation": "그 사람은 자기 자신을 바라봅니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but then he goes away",
+      "korean_translation": "하지만 그리고는 그는 떠나갑니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He immediately forgets",
+      "korean_translation": "그는 즉시 잊어버립니다",
+      "word_indices": [
+        351,
+        414
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what he is really like",
+      "korean_translation": "자신이 실제로 어떤 모습인지를",
+      "word_indices": [
+        146
+      ]
+    }
+  ]
+}

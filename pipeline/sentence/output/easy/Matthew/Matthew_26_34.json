@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Matthew 26:34",
+  "version": "EASY",
+  "original_text": "Jesus replied to Peter, ‘I tell you this: Even tonight, you will say three times that you do not know me. This will happen before the cockerel sings early tomorrow morning.’",
+  "korean_text": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 밤 닭 울기 전에 네가 세 번 나를 부인하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied to Peter,",
+      "korean_translation": "예수님께서 베드로에게 대답하셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 너에게 이 말을 합니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Even tonight,",
+      "korean_translation": "오늘 밤에도,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you will say three times",
+      "korean_translation": "너는 세 번 말할 것입니다",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you do not know me.",
+      "korean_translation": "네가 나를 알지 못한다고.",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "This will happen",
+      "korean_translation": "이 일은 일어날 것입니다",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "before the cockerel sings",
+      "korean_translation": "수탉이 울기 전에",
+      "word_indices": [
+        965
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "early tomorrow morning.",
+      "korean_translation": "내일 아침 일찍.",
+      "word_indices": [
+        584,
+        628
+      ]
+    }
+  ]
+}

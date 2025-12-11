@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 8:5",
+  "version": "EASY",
+  "original_text": "The water continued to go down until the tenth month. On the first day of the tenth month, the tops of the mountains appeared above the water.",
+  "korean_text": "물이 점점 줄어들어 열째 달 곧 그 달 초하룻날에 산들의 봉우리가 보였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The water continued to go down",
+      "korean_translation": "물은 계속 내려갔습니다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "until the tenth month",
+      "korean_translation": "열 번째 달까지",
+      "word_indices": [
+        255,
+        671
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "On the first day of the tenth month",
+      "korean_translation": "열 번째 달의 첫째 날에",
+      "word_indices": [
+        255,
+        671
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the tops of the mountains appeared",
+      "korean_translation": "산봉우리들이 나타났습니다",
+      "word_indices": [
+        175,
+        386
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "above the water",
+      "korean_translation": "물 위로",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

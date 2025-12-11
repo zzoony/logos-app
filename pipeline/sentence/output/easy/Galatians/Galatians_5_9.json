@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Galatians 5:9",
+  "version": "EASY",
+  "original_text": "People say this: ‘Only a small amount of yeast in the flour will cause a loaf of bread to grow big.’",
+  "korean_text": "적은 누룩이 온 덩이에 퍼지느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People say this:",
+      "korean_translation": "사람들은 이렇게 말합니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Only a small amount of yeast in the flour",
+      "korean_translation": "밀가루 속의 소량의 효모만으로도",
+      "word_indices": [
+        295,
+        435,
+        600,
+        831
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will cause a loaf of bread to grow big.",
+      "korean_translation": "빵 한 덩어리가 커지게 할 것입니다.",
+      "word_indices": [
+        30,
+        156,
+        229
+      ]
+    }
+  ]
+}

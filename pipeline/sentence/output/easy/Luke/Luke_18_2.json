@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 18:2",
+  "version": "EASY",
+  "original_text": "He said to them, ‘In a certain city, there was a judge. He was not afraid of God. He did not respect people.",
+  "korean_text": "이르시되 어떤 도시에 하나님을 두려워하지 않고 사람을 무시하는 한 재판장이 있는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to them",
+      "korean_translation": "그가 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "In a certain city",
+      "korean_translation": "어느 도시에",
+      "word_indices": [
+        20,
+        637
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there was a judge",
+      "korean_translation": "한 재판관이 있었다",
+      "word_indices": [
+        186
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He was not afraid of God",
+      "korean_translation": "그는 하나님을 두려워하지 않았다",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He did not respect people",
+      "korean_translation": "그는 사람들을 존중하지 않았다",
+      "word_indices": []
+    }
+  ]
+}

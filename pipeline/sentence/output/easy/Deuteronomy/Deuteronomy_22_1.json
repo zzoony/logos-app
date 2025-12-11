@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Deuteronomy 22:1",
+  "version": "EASY",
+  "original_text": "You may see your neighbour's cow or sheep that has become lost. If so, do not look the other way. You must catch the animal. You must take it back to your neighbour.",
+  "korean_text": "네 형제의 소나 양이 길 잃은 것을 보거든 못 본 체하지 말고 너는 반드시 그것들을 끌어다가 네 형제에게 돌릴 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may see your neighbour's cow or sheep",
+      "korean_translation": "당신은 이웃의 소나 양을 볼 수 있습니다",
+      "word_indices": [
+        125,
+        652
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that has become lost",
+      "korean_translation": "길을 잃은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If so, do not look the other way",
+      "korean_translation": "그렇다면, 다른 곳을 보지 마세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You must catch the animal",
+      "korean_translation": "당신은 그 동물을 잡아야 합니다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You must take it back to your neighbour",
+      "korean_translation": "당신은 그것을 이웃에게 돌려주어야 합니다",
+      "word_indices": [
+        652
+      ]
+    }
+  ]
+}

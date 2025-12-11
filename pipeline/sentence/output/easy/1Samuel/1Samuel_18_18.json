@@ -1,0 +1,59 @@
+{
+  "verse_reference": "1 Samuel 18:18",
+  "version": "EASY",
+  "original_text": "But David said to Saul, ‘I am not an important person. My family and my father's clan are not important either. I do not deserve to marry the king's daughter.’",
+  "korean_text": "다윗이 사울에게 이르되 내가 누구며 이스라엘 중에 내 친속이나 내 아버지의 집이 무엇이기에 내가 왕의 사위가 되리이까 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But David said to Saul",
+      "korean_translation": "하지만 다윗이 사울에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am not an important person",
+      "korean_translation": "나는 중요한 사람이 아닙니다",
+      "word_indices": [
+        24,
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My family and my father's clan",
+      "korean_translation": "나의 가족과 나의 아버지의 씨족은",
+      "word_indices": [
+        37,
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "are not important either",
+      "korean_translation": "역시 중요하지 않습니다",
+      "word_indices": [
+        138,
+        644
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I do not deserve",
+      "korean_translation": "나는 자격이 없습니다",
+      "word_indices": [
+        353
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to marry the king's daughter",
+      "korean_translation": "왕의 딸과 결혼할",
+      "word_indices": [
+        3,
+        173,
+        209
+      ]
+    }
+  ]
+}

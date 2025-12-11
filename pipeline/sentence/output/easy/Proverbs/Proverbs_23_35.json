@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Proverbs 23:35",
+  "version": "EASY",
+  "original_text": "You will say, ‘Somebody must have hit me, but I do not remember what happened. I need to wake up soon and have another drink.’",
+  "korean_text": "네가 스스로 말하기를 사람이 나를 때려도 나는 아프지 아니하고 나를 상하게 하여도 내게 감각이 없도다 내가 언제나 깰까 다시 술을 찾겠다 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will say",
+      "korean_translation": "너는 말할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Somebody must have hit me'",
+      "korean_translation": "'누가 나를 때렸을 것이다'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but I do not remember what happened",
+      "korean_translation": "하지만 무슨 일이 있었는지 기억나지 않는다",
+      "word_indices": [
+        22,
+        139
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I need to wake up soon",
+      "korean_translation": "나는 곧 일어나야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and have another drink.'",
+      "korean_translation": "그리고 한 잔 더 마셔야 한다.'",
+      "word_indices": [
+        118
+      ]
+    }
+  ]
+}

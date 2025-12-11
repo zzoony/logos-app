@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Deuteronomy 28:7",
+  "version": "EASY",
+  "original_text": "When your enemies attack you, the Lord will knock them down. They will come from one direction to attack you, but they will run away from you in seven different directions!",
+  "korean_text": "여호와께서 너를 대적하기 위해 일어난 적군들을 네 앞에서 패하게 하시리라 그들이 한 길로 너를 치러 들어왔으나 네 앞에서 일곱 길로 도망하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When your enemies attack you",
+      "korean_translation": "네 원수들이 너를 칠 때에",
+      "word_indices": [
+        50,
+        62
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Lord will knock them down",
+      "korean_translation": "주께서 그들을 네 앞에서 패하게 하시리라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They will come from one direction to attack you",
+      "korean_translation": "그들이 한 길로 너를 치러 나오지만",
+      "word_indices": [
+        62,
+        668
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but they will run away from you",
+      "korean_translation": "그들은 네 앞에서 도망하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in seven different directions",
+      "korean_translation": "일곱 길로 도망하리라",
+      "word_indices": [
+        198,
+        668
+      ]
+    }
+  ]
+}

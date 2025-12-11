@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 3:11",
+  "version": "EASY",
+  "original_text": "I tell you this: We speak about things that we know. We tell you about what we have seen. But even then, you people do not believe our message.",
+  "korean_text": "진실로 진실로 네게 이르노니 우리는 아는 것을 말하고 본 것을 증언하노라 그러나 너희가 우리의 증언을 받지 아니하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 이것을 너희에게 말하노니:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We speak about things that we know.",
+      "korean_translation": "우리는 아는 것에 대해 말합니다.",
+      "word_indices": [
+        12,
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We tell you about what we have seen.",
+      "korean_translation": "우리는 본 것에 대해 너희에게 말합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But even then,",
+      "korean_translation": "그러나 그럴지라도,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you people do not believe our message.",
+      "korean_translation": "너희 사람들은 우리의 메시지를 믿지 않는다.",
+      "word_indices": [
+        21,
+        88
+      ]
+    }
+  ]
+}

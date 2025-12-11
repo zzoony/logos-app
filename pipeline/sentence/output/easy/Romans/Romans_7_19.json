@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Romans 7:19",
+  "version": "EASY",
+  "original_text": "I do not do the good things that I want to do. Instead, I continue to do the bad things that I do not want to do.",
+  "korean_text": "내가 원하는 바 선은 행하지 아니하고 도리어 원하지 아니하는 바 악을 행하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I do not do the good things",
+      "korean_translation": "나는 좋은 일들을 하지 않습니다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I want to do",
+      "korean_translation": "내가 하고 싶은 것들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Instead, I continue to do",
+      "korean_translation": "대신에, 나는 계속해서 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the bad things",
+      "korean_translation": "나쁜 것들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that I do not want to do",
+      "korean_translation": "내가 하고 싶지 않은 것들을",
+      "word_indices": []
+    }
+  ]
+}

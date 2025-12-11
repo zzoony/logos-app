@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Esther 4:12",
+  "version": "EASY",
+  "original_text": "When Mordecai heard this message from Esther, 13 he sent this answer back to her: ‘Do not think that you will be safe because you live in the king's palace. You will not escape when they kill all the other Jews.",
+  "korean_text": "그가 에스더의 말을 모르드개에게 전하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Mordecai heard this message from Esther",
+      "korean_translation": "모르드개가 에스더에게서 이 소식을 들었을 때",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he sent this answer back to her:",
+      "korean_translation": "그는 그녀에게 이 대답을 보냈습니다:",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Do not think that you will be safe",
+      "korean_translation": "'네가 안전할 것이라고 생각하지 마라'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because you live in the king's palace.",
+      "korean_translation": "네가 왕의 궁에 살고 있기 때문이다.'",
+      "word_indices": [
+        3,
+        8,
+        301
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will not escape",
+      "korean_translation": "너는 도망칠 수 없을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "when they kill all the other Jews.",
+      "korean_translation": "그들이 다른 모든 유대인들을 죽일 때.",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

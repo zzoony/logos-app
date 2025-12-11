@@ -1,0 +1,65 @@
+{
+  "verse_reference": "1 Kings 8:30",
+  "version": "EASY",
+  "original_text": "Hear the prayers of me, your servant, and the prayers of your people, the Israelites. Please answer us when we turn towards this place and we pray to you. Hear us from heaven, the place where you live. And when we pray, forgive us for our sins.",
+  "korean_text": "주의 종과 주의 백성 이스라엘이 이 곳을 향하여 기도할 때에 주는 그 간구함을 들으시되 주께서 계신 곳 하늘에서 들으시고 들으시사 사하여 주옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hear the prayers of me, your servant",
+      "korean_translation": "나의 기도를 들어주소서, 당신의 종인",
+      "word_indices": [
+        42,
+        44,
+        567
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the prayers of your people, the Israelites",
+      "korean_translation": "그리고 당신의 백성 이스라엘 자손의 기도를",
+      "word_indices": [
+        567
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Please answer us when we turn towards this place",
+      "korean_translation": "우리가 이 곳을 향해 돌아올 때 우리에게 응답해 주십시오",
+      "word_indices": [
+        16,
+        72,
+        76,
+        160
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and we pray to you",
+      "korean_translation": "그리고 우리가 당신께 기도할 때",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Hear us from heaven, the place where you live",
+      "korean_translation": "당신이 사시는 곳 하늘에서 우리의 기도를 들어주소서",
+      "word_indices": [
+        8,
+        16,
+        42,
+        170
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And when we pray, forgive us for our sins",
+      "korean_translation": "그리고 우리가 기도할 때, 우리의 죄를 용서해 주소서",
+      "word_indices": [
+        81,
+        227
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Daniel 4:14",
+  "version": "EASY",
+  "original_text": "The angel shouted aloud, “Cut down the tree. Cut off its branches. Tear off its leaves. Let its fruits go away to other places. The animals that are under the tree must run away. The birds that are in its branches must fly away.",
+  "korean_text": "그가 소리 질러 이처럼 이르기를 그 나무를 베고 그 가지를 자르고 그 잎사귀를 떨고 그 열매를 헤치고 짐승들을 그 아래에서 떠나게 하고 새들을 그 가지에서 쫓아내라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel shouted aloud",
+      "korean_translation": "천사가 큰 소리로 외쳤다",
+      "word_indices": [
+        174,
+        482
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Cut down the tree",
+      "korean_translation": "나무를 베어라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Cut off its branches",
+      "korean_translation": "그 가지들을 잘라라",
+      "word_indices": [
+        360
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Tear off its leaves",
+      "korean_translation": "그 잎사귀들을 뜯어라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Let its fruits go away to other places",
+      "korean_translation": "그 열매들이 다른 곳으로 가게 하라",
+      "word_indices": [
+        278
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The animals that are under the tree must run away",
+      "korean_translation": "나무 아래에 있는 동물들은 도망가야 한다",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "The birds that are in its branches must fly away",
+      "korean_translation": "그 가지들에 있는 새들은 날아가야 한다",
+      "word_indices": [
+        344,
+        360
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 19:27",
+  "version": "EASY",
+  "original_text": "Now I must punish these other people that did not want me to rule over them. Bring them here and kill them in front of me.” ’",
+  "korean_text": "그리고 내가 왕 됨을 원하지 아니하던 저 원수들을 이리로 끌어다가 내 앞에서 죽이라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now I must punish these other people",
+      "korean_translation": "이제 내가 이 다른 사람들을 벌해야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that did not want me to rule over them",
+      "korean_translation": "그들이 내가 다스리기를 원하지 않았으므로",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Bring them here",
+      "korean_translation": "그들을 이리 데려오너라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and kill them in front of me",
+      "korean_translation": "그리고 내 앞에서 그들을 죽이라",
+      "word_indices": [
+        26,
+        123
+      ]
+    }
+  ]
+}

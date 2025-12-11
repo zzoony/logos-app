@@ -1,0 +1,81 @@
+{
+  "verse_reference": "John 15:16",
+  "version": "EASY",
+  "original_text": "You did not choose me, but I chose you. I chose you to go and to make plenty of fruit. That kind of fruit will continue always. For that reason, the Father will help you with anything that you ask him. If you ask him in my name, he will do it for you.",
+  "korean_text": "너희가 나를 택한 것이 아니요 내가 너희를 택하여 세웠나니 이는 너희로 가서 열매를 맺게 하고 또 너희 열매가 항상 있게 하여 내 이름으로 아버지께 무엇을 구하든지 다 받게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You did not choose me",
+      "korean_translation": "당신은 나를 선택하지 않았고",
+      "word_indices": [
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but I chose you",
+      "korean_translation": "내가 당신을 선택했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I chose you to go",
+      "korean_translation": "내가 당신을 가게 하기 위해 선택했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to make plenty of fruit",
+      "korean_translation": "그리고 많은 열매를 맺게 하기 위해 선택했습니다",
+      "word_indices": [
+        278,
+        451
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That kind of fruit will continue always",
+      "korean_translation": "그런 종류의 열매는 항상 계속될 것입니다",
+      "word_indices": [
+        278
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "For that reason",
+      "korean_translation": "그런 이유로",
+      "word_indices": [
+        453
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "the Father will help you",
+      "korean_translation": "아버지께서 당신을 도와주실 것입니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "with anything that you ask him",
+      "korean_translation": "당신이 그에게 무엇이든 요청하는 것에 대해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "If you ask him in my name",
+      "korean_translation": "만약 당신이 내 이름으로 그에게 요청하면",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "he will do it for you",
+      "korean_translation": "그가 당신을 위해 그것을 행할 것입니다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 33:22",
+  "version": "EASY",
+  "original_text": "When my glory passes in front of you, I will put you in a hole in the rock. I will cover your eyes with my hand as I pass by there.",
+  "korean_text": "내 영광이 지나갈 때에 내가 너를 반석 틈에 두고 내가 지나도록 내 손으로 너를 덮었다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When my glory passes in front of you",
+      "korean_translation": "나의 영광이 너 앞을 지나갈 때에",
+      "word_indices": [
+        123,
+        562
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will put you in a hole in the rock",
+      "korean_translation": "나는 너를 바위의 구멍에 두겠다",
+      "word_indices": [
+        279
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will cover your eyes with my hand",
+      "korean_translation": "나는 내 손으로 너의 눈을 가리겠다",
+      "word_indices": [
+        132,
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as I pass by there",
+      "korean_translation": "내가 그곳을 지나갈 때에",
+      "word_indices": []
+    }
+  ]
+}

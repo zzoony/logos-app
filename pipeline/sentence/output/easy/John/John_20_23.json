@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 20:23",
+  "version": "EASY",
+  "original_text": "If you forgive a person's sins, God will forgive them too. If you do not forgive them, God will not forgive them.’",
+  "korean_text": "너희가 누구의 죄든지 사하면 사하여질 것이요 누구의 죄든지 그대로 두면 그대로 있으리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you forgive a person's sins,",
+      "korean_translation": "만약 당신이 한 사람의 죄를 용서하면,",
+      "word_indices": [
+        24,
+        227
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God will forgive them too.",
+      "korean_translation": "하나님께서도 그들을 용서하실 것입니다.",
+      "word_indices": [
+        227
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you do not forgive them,",
+      "korean_translation": "만약 당신이 그들을 용서하지 않으면,",
+      "word_indices": [
+        227
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "God will not forgive them.",
+      "korean_translation": "하나님께서 그들을 용서하지 않으실 것입니다.",
+      "word_indices": [
+        227
+      ]
+    }
+  ]
+}

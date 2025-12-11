@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 16:6",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘Be careful! Do not accept the yeast of the Pharisees and the Sadducees.’",
+  "korean_text": "예수께서 이르시되 삼가 바리새인과 사두개인들의 누룩을 주의하라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Be careful!",
+      "korean_translation": "조심하여라!",
+      "word_indices": [
+        309
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not accept the yeast of the Pharisees",
+      "korean_translation": "바리새인들의 누룩을 받지 말라",
+      "word_indices": [
+        143,
+        600
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the Sadducees",
+      "korean_translation": "그리고 사두개인들의",
+      "word_indices": []
+    }
+  ]
+}

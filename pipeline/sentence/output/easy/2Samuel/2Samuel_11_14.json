@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Samuel 11:14",
+  "version": "EASY",
+  "original_text": "In the morning, David wrote a letter to Joab. Uriah took the letter to Joab.",
+  "korean_text": "아침이 되매 다윗이 편지를 써서 우리아의 손에 들려 요압에게 보내니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the morning",
+      "korean_translation": "아침에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "David wrote a letter",
+      "korean_translation": "다윗은 편지를 썼다",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Joab",
+      "korean_translation": "요압에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Uriah took the letter",
+      "korean_translation": "우리야는 편지를 가져갔다",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to Joab",
+      "korean_translation": "요압에게",
+      "word_indices": []
+    }
+  ]
+}

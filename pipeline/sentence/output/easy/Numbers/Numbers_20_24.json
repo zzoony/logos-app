@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Numbers 20:24",
+  "version": "EASY",
+  "original_text": "He said, ‘Aaron will soon die. He will not go in to the land that I am giving to the Israelites. That is because you both refused to obey me at Meribah.",
+  "korean_text": "아론은 그 조상들에게로 돌아가고 내가 이스라엘 자손에게 준 땅에는 들어가지 못하리니 이는 너희가 므리바 물에서 내 말을 거역한 까닭이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Aaron will soon die",
+      "korean_translation": "아론은 곧 죽을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He will not go in to the land",
+      "korean_translation": "그는 그 땅에 들어가지 않을 것이다",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I am giving to the Israelites",
+      "korean_translation": "내가 이스라엘 사람들에게 주는 땅",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is because you both refused",
+      "korean_translation": "그것은 당신 둘이 거절했기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to obey me at Meribah",
+      "korean_translation": "므리바에서 나를 순종하는 것을",
+      "word_indices": []
+    }
+  ]
+}

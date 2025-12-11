@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Genesis 34:28",
+  "version": "EASY",
+  "original_text": "They took all the sheep, goats, cows and donkeys. They took everything that was in the city and in the fields near there.",
+  "korean_text": "그들이 양과 소와 나귀와 그 성읍에 있는 것과 들에 있는 것과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They took all the sheep",
+      "korean_translation": "그들은 모든 양을 가져갔습니다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "goats",
+      "korean_translation": "염소",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "cows",
+      "korean_translation": "소",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and donkeys",
+      "korean_translation": "그리고 나귀들을",
+      "word_indices": [
+        310
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They took everything",
+      "korean_translation": "그들은 모든 것을 가져갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that was in the city",
+      "korean_translation": "성 안에 있던 모든 것을",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and in the fields near there",
+      "korean_translation": "그리고 근처 들판에 있던 모든 것을",
+      "word_indices": [
+        152
+      ]
+    }
+  ]
+}

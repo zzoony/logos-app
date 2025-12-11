@@ -1,0 +1,35 @@
+{
+  "verse_reference": "2 Kings 9:8",
+  "version": "EASY",
+  "original_text": "The whole family of Ahab must die. I will kill every male among his descendants in Israel, whoever they are.",
+  "korean_text": "아합의 온 집이 멸망하리니 이스라엘 중에 매인자나 놓인 자나 아합에게 속한 모든 남자는 내가 다 멸절하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The whole family of Ahab must die",
+      "korean_translation": "아합의 온 가족은 죽어야 한다",
+      "word_indices": [
+        56,
+        169
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will kill every male among his descendants in Israel",
+      "korean_translation": "나는 이스라엘에서 그의 후손 중 모든 남성을 죽일 것이다",
+      "word_indices": [
+        26,
+        75,
+        112
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "whoever they are",
+      "korean_translation": "그들이 누구든 상관없이",
+      "word_indices": [
+        755
+      ]
+    }
+  ]
+}

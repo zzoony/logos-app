@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Galatians 1:13",
+  "version": "EASY",
+  "original_text": "You know about the things that I did before, when I obeyed the Jewish rules. I caused very much trouble against God's church. I tried to destroy those people completely.",
+  "korean_text": "내가 이전에 유대교에 있을 때에 행한 일을 너희가 들었거니와 하나님의 교회를 심히 박해하여 멸하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know about the things that I did before",
+      "korean_translation": "너는 내가 이전에 행한 일들을 안다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I obeyed the Jewish rules",
+      "korean_translation": "내가 유대인의 규율을 따를 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I caused very much trouble against God's church",
+      "korean_translation": "나는 하나님의 교회에 큰 고통을 일으켰다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I tried to destroy those people completely",
+      "korean_translation": "나는 그 사람들을 완전히 파괴하려고 했다",
+      "word_indices": [
+        39,
+        161
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 32:21",
+  "version": "EASY",
+  "original_text": "Moses said to Aaron, ‘Why did you agree to do this? What did the people do to you? You have made them guilty of a great sin.’",
+  "korean_text": "모세가 아론에게 이르되 이 백성이 당신에게 어떻게 하였기에 당신이 그들을 큰 죄에 빠지게 하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses said to Aaron",
+      "korean_translation": "모세가 아론에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why did you agree to do this?",
+      "korean_translation": "어째서 너는 이런 일을 하기로 동의했느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What did the people do to you?",
+      "korean_translation": "백성들이 너에게 무엇을 했느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have made them guilty",
+      "korean_translation": "너는 그들을 죄가 있게 만들었다",
+      "word_indices": [
+        232
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "of a great sin",
+      "korean_translation": "큰 죄의",
+      "word_indices": [
+        40
+      ]
+    }
+  ]
+}

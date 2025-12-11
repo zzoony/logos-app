@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 13:34",
+  "version": "EASY",
+  "original_text": "I give a new rule to you. Love each other. You must love each other as I have loved you.",
+  "korean_text": "새 계명을 너희에게 주노니 서로 사랑하라 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I give a new rule to you.",
+      "korean_translation": "나는 너희에게 새 계명을 준다.",
+      "word_indices": [
+        4,
+        28
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Love each other.",
+      "korean_translation": "서로 사랑하라.",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must love each other as I have loved you.",
+      "korean_translation": "너희는 내가 너희를 사랑한 것처럼 서로 사랑해야 한다.",
+      "word_indices": [
+        82
+      ]
+    }
+  ]
+}

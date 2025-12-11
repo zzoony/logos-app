@@ -1,0 +1,46 @@
+{
+  "verse_reference": "1 Corinthians 10:17",
+  "version": "EASY",
+  "original_text": "We are many people, but all of us eat part of the same loaf of bread. That shows that we are one group of people. We belong together because Christ died on our behalf.",
+  "korean_text": "떡이 하나요 많은 우리가 한 몸이니 이는 우리가 다 한 떡에 참여함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We are many people",
+      "korean_translation": "우리는 많은 사람입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but all of us eat part of the same loaf of bread",
+      "korean_translation": "하지만 우리 모두는 같은 빵의 일부를 먹습니다",
+      "word_indices": [
+        74,
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That shows that we are one group of people",
+      "korean_translation": "그것은 우리가 한 그룹의 사람임을 보여줍니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We belong together",
+      "korean_translation": "우리는 함께 속합니다",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because Christ died on our behalf",
+      "korean_translation": "왜냐하면 그리스도께서 우리를 위해 죽으셨기 때문입니다",
+      "word_indices": [
+        61,
+        333
+      ]
+    }
+  ]
+}

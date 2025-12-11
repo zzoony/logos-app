@@ -1,0 +1,72 @@
+{
+  "verse_reference": "2 Kings 7:1",
+  "version": "EASY",
+  "original_text": "Elisha said, ‘Now listen to the Lord's message! This is what the Lord says: “About this time tomorrow, five kilograms of good flour will cost only one piece of silver. Ten kilograms of barley will also cost one piece of silver. You will be able to buy this food at the gate of Samaria.” ’",
+  "korean_text": "엘리사가 이르되 여호와의 말씀을 들을지어다 여호와께서 이르시되 내일 이맘때에 사마리아 성문에서 고운 밀가루 한 스아를 한 세겔로 매매하고 보리 두 스아를 한 세겔로 매매하리라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elisha said",
+      "korean_translation": "엘리사가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now listen to the Lord's message",
+      "korean_translation": "이제 주님의 메시지를 들으십시오",
+      "word_indices": [
+        2,
+        21,
+        63
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This is what the Lord says",
+      "korean_translation": "주님께서 말씀하시는 것이 이것입니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "About this time tomorrow",
+      "korean_translation": "내일 이맘때쯤에는",
+      "word_indices": [
+        628
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "five kilograms of good flour will cost only one piece of silver",
+      "korean_translation": "좋은 밀가루 5킬로그램은 은 한 닢에만 판 것입니다",
+      "word_indices": [
+        19,
+        149,
+        195,
+        435,
+        476
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Ten kilograms of barley will also cost one piece of silver",
+      "korean_translation": "보리 10킬로그램 역시 은 한 닢에 팔 것입니다",
+      "word_indices": [
+        9,
+        149,
+        195,
+        476,
+        736
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "You will be able to buy this food at the gate of Samaria",
+      "korean_translation": "여러분은 사마리아 성문에서 이 음식을 살 수 있을 것입니다",
+      "word_indices": [
+        168
+      ]
+    }
+  ]
+}

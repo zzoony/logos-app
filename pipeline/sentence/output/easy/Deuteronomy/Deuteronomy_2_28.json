@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 2:28",
+  "version": "EASY",
+  "original_text": "Please sell us food to eat and water to drink. We will pay you with silver coins. We only want to walk through your country.",
+  "korean_text": "너는 돈을 받고 양식을 팔아 내가 먹게 하고 돈을 받고 물을 주어 내가 마시게 하라 나는 걸어서 지날 뿐인즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Please sell us food to eat",
+      "korean_translation": "우리에게 먹을 음식을 팔아주세요",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and water to drink",
+      "korean_translation": "그리고 마실 물을 팔아주세요",
+      "word_indices": [
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We will pay you with silver coins",
+      "korean_translation": "우리는 은화로 돈을 지불할 것입니다",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We only want to walk through your country",
+      "korean_translation": "우리는 당신의 나라를 그냥 걸어서 지나가고 싶을 뿐입니다",
+      "word_indices": [
+        117,
+        192,
+        204
+      ]
+    }
+  ]
+}

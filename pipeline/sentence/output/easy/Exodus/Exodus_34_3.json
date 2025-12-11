@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 34:3",
+  "version": "EASY",
+  "original_text": "Nobody must come with you. Nobody must go anywhere on the mountain. Even your sheep and your cows must not eat grass near the bottom of the mountain.’",
+  "korean_text": "아무도 너와 함께 오르지 말며 온 산에 아무도 나타나지 못하게 하고 양과 소도 산 앞에서 먹지 못하게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nobody must come with you.",
+      "korean_translation": "아무도 너와 함께 올 수 없다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Nobody must go anywhere on the mountain.",
+      "korean_translation": "아무도 산 위 어디에도 가서는 안 된다.",
+      "word_indices": [
+        175,
+        684
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Even your sheep and your cows",
+      "korean_translation": "네 양과 소조차도",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "must not eat grass near the bottom of the mountain.",
+      "korean_translation": "산 기슭 근처에서 풀을 먹어서는 안 된다.",
+      "word_indices": [
+        175,
+        808
+      ]
+    }
+  ]
+}

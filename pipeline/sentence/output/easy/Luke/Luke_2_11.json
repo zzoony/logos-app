@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Luke 2:11",
+  "version": "EASY",
+  "original_text": "Something happened today in the town of David. Someone special was born. He is the one who will save you. He is the Messiah. He is the Lord.",
+  "korean_text": "오늘 다윗의 동네에 너희를 위하여 구주가 나셨으니 곧 그리스도 주시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Something happened today",
+      "korean_translation": "오늘 무언가 일어났습니다",
+      "word_indices": [
+        22,
+        233
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the town of David",
+      "korean_translation": "다윗의 동네에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Someone special was born",
+      "korean_translation": "특별한 한 분이 태어났습니다",
+      "word_indices": [
+        68,
+        94
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He is the one",
+      "korean_translation": "그분이 바로 그분입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who will save you",
+      "korean_translation": "당신을 구원하실 분",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He is the Messiah",
+      "korean_translation": "그분은 메시아이십니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "He is the Lord",
+      "korean_translation": "그분은 주이십니다",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

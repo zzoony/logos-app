@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 13:9",
+  "version": "EASY",
+  "original_text": "If I do that, next year, the fig tree may have some fruit on it. If it does not, I will cut it down for you.” ’",
+  "korean_text": "이후에 만일 열매가 열면 좋거니와 그렇지 않으면 찍어버리소서 하였다 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I do that",
+      "korean_translation": "만약 내가 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "next year",
+      "korean_translation": "내년에는",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the fig tree may have some fruit on it",
+      "korean_translation": "무화과나무에 열매가 열릴지도 모릅니다",
+      "word_indices": [
+        278
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If it does not",
+      "korean_translation": "만약 열리지 않으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will cut it down for you",
+      "korean_translation": "내가 당신을 위해 그것을 베어 버릴 것입니다",
+      "word_indices": []
+    }
+  ]
+}

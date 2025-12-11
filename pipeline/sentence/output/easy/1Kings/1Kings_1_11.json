@@ -1,0 +1,64 @@
+{
+  "verse_reference": "1 Kings 1:11",
+  "version": "EASY",
+  "original_text": "Nathan said to Bathsheba, Solomon's mother, ‘Have you heard about the things that Haggith's son Adonijah is doing? He has become king, but our master, David, does not know about it.",
+  "korean_text": "나단이 솔로몬의 어머니 밧세바에게 말하여 이르되 학깃의 아들 아도니야가 왕이 되었음을 듣지 못하였나이까 우리 주 다윗은 알지 못하시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nathan said to Bathsheba",
+      "korean_translation": "나단이 밧세바에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Solomon's mother",
+      "korean_translation": "솔로몬의 어머니에게",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Have you heard",
+      "korean_translation": "당신은 들었습니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "about the things",
+      "korean_translation": "그 일들에 대하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that Haggith's son Adonijah is doing",
+      "korean_translation": "핫갓의 아들 아도니야가 하고 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He has become king",
+      "korean_translation": "그는 왕이 되었습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "but our master, David",
+      "korean_translation": "하지만 우리 주인 다윗은",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "does not know about it",
+      "korean_translation": "그것에 대해 알지 못합니다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

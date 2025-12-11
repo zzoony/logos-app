@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Luke 4:6",
+  "version": "EASY",
+  "original_text": "He said to Jesus, ‘I will let you rule the whole world. I will give you power over all these things. That power all belongs to me. So I can give it to anyone that I choose.",
+  "korean_text": "이르되 이 모든 권위와 그 영광을 내가 네게 주리라 이것은 내게 넘겨 준 것이므로 내가 원하는 자에게 주노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to Jesus",
+      "korean_translation": "그는 예수께 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will let you rule the whole world",
+      "korean_translation": "내가 너에게 온 세상을 다스리게 하겠다",
+      "word_indices": [
+        28,
+        159,
+        169
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will give you power over all these things",
+      "korean_translation": "내가 너에게 이 모든 것에 대한 권세를 주겠다",
+      "word_indices": [
+        4,
+        80
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "That power all belongs to me",
+      "korean_translation": "그 권세는 전부 내 것이다",
+      "word_indices": [
+        45,
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So I can give it to anyone that I choose",
+      "korean_translation": "그러므로 내가 선택하는 누구에게나 그것을 줄 수 있다",
+      "word_indices": [
+        4,
+        51,
+        109
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 12:20",
+  "version": "EASY",
+  "original_text": "There were some Greek people among the people at the festival. They also had come to worship God.",
+  "korean_text": "명절에 예배하러 올라온 사람 중에 헬라인 몇이 있는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There were some Greek people",
+      "korean_translation": "그리스 사람 몇 명이 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "among the people at the festival",
+      "korean_translation": "축제에 온 사람들 가운데",
+      "word_indices": [
+        112,
+        436
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They also had come",
+      "korean_translation": "그들도 또한 왔었다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to worship God",
+      "korean_translation": "하나님을 예배하기 위해",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

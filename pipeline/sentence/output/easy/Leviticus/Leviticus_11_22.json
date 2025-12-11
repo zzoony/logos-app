@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Leviticus 11:22",
+  "version": "EASY",
+  "original_text": "They can eat any of these. They include the locust, the cricket and the grasshopper.",
+  "korean_text": "곧 그 중에 메뚜기 종류와 베짱이 종류와 귀뚜라미 종류와 팥중이 종류는 너희가 먹으려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They can eat any of these.",
+      "korean_translation": "그들은 이것들 중 어떤 것이든 먹을 수 있습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They include the locust,",
+      "korean_translation": "그것들은 메뚜기를 포함하며,",
+      "word_indices": [
+        297,
+        675
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the cricket",
+      "korean_translation": "귀뚜라미",
+      "word_indices": [
+        1589
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the grasshopper.",
+      "korean_translation": "그리고 여치를 포함합니다.",
+      "word_indices": [
+        1204
+      ]
+    }
+  ]
+}

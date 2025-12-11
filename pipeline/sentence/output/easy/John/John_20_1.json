@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 20:1",
+  "version": "EASY",
+  "original_text": "Early on the first day of the week, Mary from Magdala went to the hole in the rock. It was still dark. She saw that someone had removed the big stone from the front of the hole.",
+  "korean_text": "안식 후 첫날 일찍이 아직 어두울 때에 막달라 마리아가 무덤에 와서 돌이 무덤에서 옮겨진 것을 보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Early on the first day of the week",
+      "korean_translation": "한 주의 첫째 날 이른 아침에",
+      "word_indices": [
+        584
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Mary from Magdala went to the hole in the rock",
+      "korean_translation": "막달라 마리아가 무덤에 갔습니다",
+      "word_indices": [
+        279
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was still dark",
+      "korean_translation": "아직 어두웠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "She saw that someone had removed the big stone",
+      "korean_translation": "그녀는 누군가가 큰 돌을 옮겼다는 것을 보았습니다",
+      "word_indices": [
+        94,
+        116
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from the front of the hole",
+      "korean_translation": "무덤 앞에서",
+      "word_indices": [
+        123
+      ]
+    }
+  ]
+}

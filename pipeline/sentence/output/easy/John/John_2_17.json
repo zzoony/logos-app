@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 2:17",
+  "version": "EASY",
+  "original_text": "His disciples remembered what it says in the Bible: ‘My love for your house burns inside me like a fire.’",
+  "korean_text": "제자들이 성경 말씀에 주의 전을 사모하는 열심이 나를 삼키리라 한 것을 기억하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "His disciples remembered",
+      "korean_translation": "그의 제자들은 기억했다",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what it says in the Bible",
+      "korean_translation": "성경에 말한 바를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'My love for your house burns inside me'",
+      "korean_translation": "'내가 당신의 집을 향한 사랑이 내 안에서 타오르고'",
+      "word_indices": [
+        67,
+        82,
+        252
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like a fire'",
+      "korean_translation": "불길 같다'",
+      "word_indices": [
+        121
+      ]
+    }
+  ]
+}

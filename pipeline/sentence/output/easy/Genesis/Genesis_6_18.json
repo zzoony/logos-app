@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 6:18",
+  "version": "EASY",
+  "original_text": "But I will make a covenant with you, Noah. You will go into the ship. You will take your wife with you, and also your three sons and their wives.",
+  "korean_text": "그러나 너와는 내가 내 언약을 세우리니 너는 네 아들들과 네 아내와 네 며느리들과 함께 그 방주로 들어가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I will make a covenant with you, Noah.",
+      "korean_translation": "하지만 나는 너 노아와 언약을 맺겠다.",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You will go into the ship.",
+      "korean_translation": "너는 배에 들어갈 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will take your wife with you,",
+      "korean_translation": "너는 네 아내를 데려갈 것이고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and also your three sons and their wives.",
+      "korean_translation": "또한 네 아들 셋과 그들의 아내들도 데려갈 것이다.",
+      "word_indices": [
+        9,
+        166
+      ]
+    }
+  ]
+}

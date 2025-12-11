@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Kings 3:6",
+  "version": "EASY",
+  "original_text": "So King Jehoram left Samaria to bring all Israel's army together. They were ready to attack Moab.",
+  "korean_text": "그 때에 여호람 왕이 사마리아에서 나가 온 이스라엘을 둘러보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So King Jehoram left Samaria",
+      "korean_translation": "그래서 여호람 왕은 사마리아를 떠나",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to bring all Israel's army together",
+      "korean_translation": "온 이스라엘 군대를 모으기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They were ready to attack Moab",
+      "korean_translation": "그들은 모압을 공격할 준비가 되어 있었다",
+      "word_indices": [
+        62,
+        163
+      ]
+    }
+  ]
+}

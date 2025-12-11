@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Leviticus 4:30",
+  "version": "EASY",
+  "original_text": "The priest will put his finger in the blood of the goat. He will put some of it on the altar's corners. He will pour out the blood that he did not use. He will pour it onto the ground in front of the altar.",
+  "korean_text": "제사장은 손가락으로 그 피를 찍어 번제단 뿔들에 바르고 그 피 전부를 제단 밑에 쏟고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest will put his finger in the blood of the goat.",
+      "korean_translation": "제사장은 염소의 피에 손가락을 담글 것입니다.",
+      "word_indices": [
+        32,
+        221,
+        746
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He will put some of it on the altar's corners.",
+      "korean_translation": "그는 그 피를 제단 뿔들에 바를 것입니다.",
+      "word_indices": [
+        119,
+        613
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He will pour out the blood that he did not use.",
+      "korean_translation": "그가 사용하지 않은 피는 쏟아낼 것입니다.",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He will pour it onto the ground in front of the altar.",
+      "korean_translation": "그것을 제단 앞 땅에 쏟을 것입니다.",
+      "word_indices": [
+        119,
+        123
+      ]
+    }
+  ]
+}

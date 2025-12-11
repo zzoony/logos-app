@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Matthew 13:38",
+  "version": "EASY",
+  "original_text": "The field is like the world. The good seeds are like the people who belong to God's kingdom. The weeds are like the people who belong to the Devil.",
+  "korean_text": "밭은 세상이요 좋은 씨는 천국의 아들들이요 가라지는 악한 자의 아들들이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The field is like the world",
+      "korean_translation": "그 밭은 세상과 같다",
+      "word_indices": [
+        152,
+        159
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The good seeds are like the people",
+      "korean_translation": "좋은 씨는 사람들과 같다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who belong to God's kingdom",
+      "korean_translation": "하나님의 나라에 속한",
+      "word_indices": [
+        45,
+        188
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The weeds are like the people",
+      "korean_translation": "가라지는 사람들과 같다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who belong to the Devil",
+      "korean_translation": "악마에게 속한",
+      "word_indices": [
+        45,
+        631
+      ]
+    }
+  ]
+}

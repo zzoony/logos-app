@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Leviticus 1:8",
+  "version": "EASY",
+  "original_text": "The priests will put the pieces of meat on the fire. They will put the head and the fat on the fire with the meat.",
+  "korean_text": "아론의 자손 제사장들은 그 뜬 각과 머리와 기름을 제단 위의 불 위에 있는 나무에 벌여 놓을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priests will put",
+      "korean_translation": "제사장들은 놓을 것입니다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the pieces of meat on the fire",
+      "korean_translation": "불 위에 고기 조각들을",
+      "word_indices": [
+        121
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They will put",
+      "korean_translation": "그들은 놓을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the head and the fat",
+      "korean_translation": "머리와 기름을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the fire with the meat",
+      "korean_translation": "고기와 함께 불 위에",
+      "word_indices": [
+        121
+      ]
+    }
+  ]
+}

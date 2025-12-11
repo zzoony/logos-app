@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Leviticus 15:3",
+  "version": "EASY",
+  "original_text": "The man is unclean if the pus pours. And he is unclean even if it stops pouring.",
+  "korean_text": "그의 유출병으로 말미암아 부정함이 이러하니 곧 그의 몸에서 흘러 나오든지 그의 몸에서 흘러 나오는 것이 막혔든지 부정한즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man is unclean",
+      "korean_translation": "그 사람은 부정하다",
+      "word_indices": [
+        304
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if the pus pours",
+      "korean_translation": "고름이 흘러나온다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And he is unclean",
+      "korean_translation": "그리고 그는 부정하다",
+      "word_indices": [
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even if it stops pouring",
+      "korean_translation": "흘러나오는 것이 멈추더라도",
+      "word_indices": []
+    }
+  ]
+}

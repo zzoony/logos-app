@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Ezekiel 44:31",
+  "version": "EASY",
+  "original_text": "The priests must not eat any bird or any animal that people find dead. They must not eat anything that a wild animal has killed.” ’",
+  "korean_text": "새나 가축이 저절로 죽은 것이나 찢겨서 죽은 것은 다 제사장이 먹지 말 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priests must not eat",
+      "korean_translation": "제사장들은 먹어서는 안 됩니다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "any bird or any animal",
+      "korean_translation": "어떤 새나 동물을",
+      "word_indices": [
+        48,
+        344
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that people find dead",
+      "korean_translation": "사람들이 죽은 것으로 발견한",
+      "word_indices": [
+        131,
+        133
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They must not eat anything",
+      "korean_translation": "그들은 어떤 것도 먹어서는 안 됩니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that a wild animal has killed",
+      "korean_translation": "야생 동물이 죽인",
+      "word_indices": [
+        26,
+        48
+      ]
+    }
+  ]
+}

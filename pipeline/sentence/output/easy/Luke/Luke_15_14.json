@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 15:14",
+  "version": "EASY",
+  "original_text": "After he had spent everything, there was no rain in that country. There was almost no food anywhere. So the young man had nothing to eat.",
+  "korean_text": "다 없앤 후 그 나라에 크게 흉년이 들어 그가 비로소 궁핍한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After he had spent everything",
+      "korean_translation": "그가 모든 것을 다 쓴 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was no rain in that country",
+      "korean_translation": "그 나라에는 비가 내리지 않았고",
+      "word_indices": [
+        117,
+        327
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was almost no food anywhere",
+      "korean_translation": "어디에도 거의 음식이 없었습니다",
+      "word_indices": [
+        684,
+        824
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So the young man had nothing to eat",
+      "korean_translation": "그래서 그 젊은이는 먹을 것이 아무것도 없었습니다",
+      "word_indices": [
+        108
+      ]
+    }
+  ]
+}

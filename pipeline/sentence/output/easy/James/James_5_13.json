@@ -1,0 +1,42 @@
+{
+  "verse_reference": "James 5:13",
+  "version": "EASY",
+  "original_text": "Is anyone among you in trouble? Then they should pray to God about it. Or, is anyone feeling happy? They should praise God with songs.",
+  "korean_text": "너희 중에 고난 당하는 자가 있느냐 그는 기도할 것이요 즐거워하는 자가 있느냐 그는 찬송할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Is anyone among you in trouble?",
+      "korean_translation": "너희 중에 고난당하는 자가 있는가?",
+      "word_indices": [
+        109,
+        112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then they should pray to God about it.",
+      "korean_translation": "그러면 그는 그 일에 대해 하나님께 기도해야 한다.",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Or, is anyone feeling happy?",
+      "korean_translation": "또는 기쁨을 느끼는 자가 있는가?",
+      "word_indices": [
+        57,
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They should praise God with songs.",
+      "korean_translation": "그들은 노래로 하나님을 찬양해야 한다.",
+      "word_indices": [
+        216
+      ]
+    }
+  ]
+}

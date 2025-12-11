@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Samuel 19:33",
+  "version": "EASY",
+  "original_text": "King David said to him, ‘Come with me to live in Jerusalem. I will take care of you while you are with me there.’",
+  "korean_text": "왕이 바르실래에게 이르되 너는 나와 함께 건너가자 예루살렘에서 내가 너를 공궤하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King David said to him",
+      "korean_translation": "다윗 왕이 그에게 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Come with me to live in Jerusalem",
+      "korean_translation": "'나와 함께 예루살렘에 살러 오시오'",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will take care of you",
+      "korean_translation": "내가 당신을 돌볼 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while you are with me there'",
+      "korean_translation": "당신이 나와 함께 그곳에 있는 동안'",
+      "word_indices": []
+    }
+  ]
+}

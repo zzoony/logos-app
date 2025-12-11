@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 1:28",
+  "version": "EASY",
+  "original_text": "Gabriel went to Mary and said, ‘Hello, Mary. The Lord God loves you very much. He is very near to you.’",
+  "korean_text": "그에게 들어가 이르되 은혜를 받은 자여 평안할지어다 주께서 너와 함께 하시도다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Gabriel went to Mary",
+      "korean_translation": "가브리엘은 마리아에게 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "그리고 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Hello, Mary",
+      "korean_translation": "안녕하세요, 마리아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Lord God loves you very much",
+      "korean_translation": "주 하나님은 당신을 매우 사랑하십니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He is very near to you",
+      "korean_translation": "그분은 당신에게 매우 가까이 계십니다",
+      "word_indices": []
+    }
+  ]
+}

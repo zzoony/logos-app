@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 15:27",
+  "version": "EASY",
+  "original_text": "The servant replied, “Your brother has returned home. Your father has killed the fat young cow for him. He did this because your brother is alive and he is well.”",
+  "korean_text": "대답하되 당신의 동생이 돌아왔으매 당신의 아버지가 건강한 그를 다시 맞아들이게 됨으로 인하여 살진 송아지를 잡았나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The servant replied",
+      "korean_translation": "종이 대답하였다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your brother has returned home",
+      "korean_translation": "당신의 동생이 집에 돌아왔습니다",
+      "word_indices": [
+        115,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your father has killed the fat young cow for him",
+      "korean_translation": "당신 아버지는 그를 위해 살진 어린 소를 잡았습니다",
+      "word_indices": [
+        26,
+        37,
+        108
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He did this because your brother is alive",
+      "korean_translation": "아버지는 당신 동생이 살아있기 때문에 그렇게 했습니다",
+      "word_indices": [
+        135,
+        151
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he is well",
+      "korean_translation": "그리고 그가 건강하기 때문입니다",
+      "word_indices": []
+    }
+  ]
+}

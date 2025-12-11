@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 19:16",
+  "version": "EASY",
+  "original_text": "The first servant came to him and said, “Master, your money has made ten more pounds for you.”",
+  "korean_text": "그 첫째가 나아와 이르되 주인이여 당신의 한 므나로 열 므나를 남겼나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The first servant came to him",
+      "korean_translation": "첫 번째 종이 그에게 와서",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Master",
+      "korean_translation": "주인님",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your money has made ten more pounds for you",
+      "korean_translation": "당신의 돈이 당신을 위해 열 파운드를 더 벌어들였습니다",
+      "word_indices": [
+        142,
+        1270
+      ]
+    }
+  ]
+}

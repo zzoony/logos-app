@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Matthew 22:7",
+  "version": "EASY",
+  "original_text": "The king was very angry. He sent his soldiers to the city where those people lived. They killed the people who killed the king's servants. They destroyed their city with fire.",
+  "korean_text": "임금이 노하여 군대를 보내어 그 살인한 자들을 진멸하고 그 동네를 불사르고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king was very angry.",
+      "korean_translation": "왕은 매우 화가 났습니다.",
+      "word_indices": [
+        3,
+        106
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He sent his soldiers",
+      "korean_translation": "그는 그의 군사들을 보냈습니다.",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the city where those people lived.",
+      "korean_translation": "그 사람들이 살던 도시로.",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They killed the people",
+      "korean_translation": "그들은 그 사람들을 죽였습니다.",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who killed the king's servants.",
+      "korean_translation": "왕의 종들을 죽인 사람들을.",
+      "word_indices": [
+        3,
+        26,
+        44
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They destroyed their city with fire.",
+      "korean_translation": "그들은 불로 그들의 도시를 파괴했습니다.",
+      "word_indices": [
+        20,
+        39,
+        121
+      ]
+    }
+  ]
+}

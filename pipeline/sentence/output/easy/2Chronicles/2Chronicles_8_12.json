@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Chronicles 8:12",
+  "version": "EASY",
+  "original_text": "Solomon offered burnt offerings to the Lord on the altar that he had built. The altar was outside the entrance of the temple.",
+  "korean_text": "솔로몬이 낭실 앞에 쌓은 여호와의 제단 위에 여호와께 번제를 드리되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon offered burnt offerings to the Lord",
+      "korean_translation": "솔로몬이 주께 번제를 드렸다",
+      "word_indices": [
+        2,
+        55,
+        200
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the altar that he had built",
+      "korean_translation": "그가 만든 제단 위에서",
+      "word_indices": [
+        119
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The altar was outside the entrance",
+      "korean_translation": "그 제단은 입구 밖에 있었다",
+      "word_indices": [
+        119,
+        315,
+        385
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the temple",
+      "korean_translation": "성전의",
+      "word_indices": [
+        49
+      ]
+    }
+  ]
+}

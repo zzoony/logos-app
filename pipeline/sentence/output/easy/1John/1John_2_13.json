@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 John 2:13",
+  "version": "EASY",
+  "original_text": "You who are older, like fathers, I am writing to you because you know Christ. He has always been there, since before the world began.",
+  "korean_text": "아비들아 내가 너희에게 쓰는 것은 너희가 태초부터 계신 이를 알았음이요 청년들아 내가 너희에게 쓰는 것은 너희가 악한 자를 이기었음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You who are older",
+      "korean_translation": "너희 중에 나이 많은 자들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like fathers",
+      "korean_translation": "아버지와 같은 너희에게",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am writing to you",
+      "korean_translation": "내가 너희에게 글을 쓰노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because you know Christ",
+      "korean_translation": "이는 너희가 그리스도를 알기 때문이라",
+      "word_indices": [
+        12,
+        61
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He has always been there",
+      "korean_translation": "그는 항상 계셨으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "since before the world began",
+      "korean_translation": "세상이 시작되기 전부터라",
+      "word_indices": [
+        159
+      ]
+    }
+  ]
+}

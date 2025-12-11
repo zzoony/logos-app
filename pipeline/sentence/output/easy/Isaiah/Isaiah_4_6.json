@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Isaiah 4:6",
+  "version": "EASY",
+  "original_text": "During the day, it will give people shade from the sun's heat. It will also keep them safe from storms and heavy rain.",
+  "korean_text": "또 초막이 있어서 낮에는 더위를 피하는 그늘을 지으며 또 풍우를 피하여 숨는 곳이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "During the day",
+      "korean_translation": "낮 동안에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it will give people shade",
+      "korean_translation": "그것은 사람들에게 그늘을 줄 것이며",
+      "word_indices": [
+        4,
+        1031
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from the sun's heat",
+      "korean_translation": "태양의 더위로부터",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It will also keep them safe",
+      "korean_translation": "그것은 또한 그들을 안전하게 지켜줄 것이며",
+      "word_indices": [
+        9,
+        101
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from storms",
+      "korean_translation": "폭풍으로부터",
+      "word_indices": [
+        483
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and heavy rain",
+      "korean_translation": "폭우로부터",
+      "word_indices": [
+        327,
+        535
+      ]
+    }
+  ]
+}

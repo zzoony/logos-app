@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 22:20",
+  "version": "EASY",
+  "original_text": "You must completely destroy anyone who offers a sacrifice to a false god. You must only offer sacrifices to the Lord.",
+  "korean_text": "여호와 외에 다른 신에게 제사를 드리는 자는 멸할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must completely destroy anyone",
+      "korean_translation": "당신은 완전히 멸해야 합니다 누구든지",
+      "word_indices": [
+        39,
+        109,
+        161
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who offers a sacrifice to a false god",
+      "korean_translation": "거짓 신에게 제물을 드리는 자를",
+      "word_indices": [
+        55,
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must only offer sacrifices to the Lord",
+      "korean_translation": "당신은 오직 주께만 제물을 드려야 합니다",
+      "word_indices": [
+        2,
+        55
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Genesis 7:4",
+  "version": "EASY",
+  "original_text": "In seven days, I will cause rain to fall on the earth. It will rain for 40 days and 40 nights. In that way, I will destroy every living thing that I have made on the earth.’",
+  "korean_text": "지금부터 칠 일이면 내가 사십 주야를 땅에 비를 내려 내가 지은 모든 생물을 지면에서 쓸어버리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In seven days,",
+      "korean_translation": "이레 안에,",
+      "word_indices": [
+        198
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will cause rain to fall on the earth.",
+      "korean_translation": "내가 땅에 비가 내리게 하리라.",
+      "word_indices": [
+        30,
+        93,
+        208,
+        327
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It will rain for 40 days",
+      "korean_translation": "비가 40일 동안 내릴 것이며,",
+      "word_indices": [
+        327
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and 40 nights.",
+      "korean_translation": "40밤 동안 내릴 것이다.",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "In that way,",
+      "korean_translation": "그렇게 하여,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will destroy every living thing",
+      "korean_translation": "내가 모든 살아있는 것을 멸망시키리라.",
+      "word_indices": [
+        39
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that I have made on the earth.",
+      "korean_translation": "내가 땅에 만든 모든 것을.",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

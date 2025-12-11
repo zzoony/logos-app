@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Luke 11:7",
+  "version": "EASY",
+  "original_text": "But his friend answers from inside his house. He says, “Do not cause problems for me! I have locked my door. My children and I have gone to bed. So I cannot get up and give you any bread.” ’",
+  "korean_text": "그가 안에서 대답하여 이르되 나를 괴롭게 하지 말라 문이 이미 닫혔고 아이들이 나와 함께 침실에 누웠으니 일어나 네게 줄 수가 없노라 하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But his friend answers from inside his house.",
+      "korean_translation": "하지만 그의 친구가 집 안에서 대답한다.",
+      "word_indices": [
+        67,
+        113,
+        160,
+        252
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He says",
+      "korean_translation": "그는 말한다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not cause problems for me!",
+      "korean_translation": "나를 괴롭히지 마라!",
+      "word_indices": [
+        30,
+        564
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have locked my door.",
+      "korean_translation": "나는 문을 잠갔다.",
+      "word_indices": [
+        267
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "My children and I have gone to bed.",
+      "korean_translation": "나의 아이들과 나는 잠자리에 들었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So I cannot get up",
+      "korean_translation": "그래서 나는 일어날 수 없다.",
+      "word_indices": [
+        114
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and give you any bread.",
+      "korean_translation": "그리고 너에게 빵을 줄 수 없다.",
+      "word_indices": [
+        4,
+        229
+      ]
+    }
+  ]
+}

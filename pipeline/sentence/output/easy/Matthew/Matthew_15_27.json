@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Matthew 15:27",
+  "version": "EASY",
+  "original_text": "The woman replied to Jesus. ‘Yes sir, that is true. But even the dogs eat the small pieces of food that fall from their master's table.’",
+  "korean_text": "여자가 이르되 주여 옳소이다마는 개들도 제 주인의 상에서 떨어지는 부스러기를 먹나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman replied to Jesus.",
+      "korean_translation": "그 여자는 예수께 대답했습니다.",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Yes sir, that is true.",
+      "korean_translation": "예, 주인님, 그것은 사실입니다.",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But even the dogs eat the small pieces of food",
+      "korean_translation": "하지만 개들도 작은 음식 조각들을 먹습니다.",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that fall from their master's table.",
+      "korean_translation": "그것들은 주인의 테이블에서 떨어진 것들입니다.",
+      "word_indices": [
+        176,
+        208,
+        536
+      ]
+    }
+  ]
+}

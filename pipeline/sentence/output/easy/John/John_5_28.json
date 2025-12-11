@@ -1,0 +1,37 @@
+{
+  "verse_reference": "John 5:28",
+  "version": "EASY",
+  "original_text": "Do not be surprised by this. There will be a time when all the dead people will hear the Son's voice.",
+  "korean_text": "이를 놀랍게 여기지 말라 무덤 속에 있는 자가 다 그의 음성을 들을 때가 오나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not be surprised by this.",
+      "korean_translation": "이것으로 놀라지 마라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There will be a time",
+      "korean_translation": "때가 이르리니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when all the dead people",
+      "korean_translation": "모든 죽은 자들이",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will hear the Son's voice.",
+      "korean_translation": "아들의 음성을 듣게 되리라.",
+      "word_indices": [
+        42,
+        335
+      ]
+    }
+  ]
+}

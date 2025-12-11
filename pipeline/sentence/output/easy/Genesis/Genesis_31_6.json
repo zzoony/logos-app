@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 31:6",
+  "version": "EASY",
+  "original_text": "You know that I have worked very hard for your father. I have worked as well as I can.",
+  "korean_text": "그대들도 알거니와 내가 힘을 다하여 그대들의 아버지를 섬겼거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You know that I have worked very hard",
+      "korean_translation": "네가 내가 아주 열심히 일했다는 것을 알고 있어",
+      "word_indices": [
+        12,
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for your father",
+      "korean_translation": "네 아버지를 위해",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have worked as well as I can",
+      "korean_translation": "내가 할 수 있는 최선으로 일했어",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

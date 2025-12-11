@@ -1,0 +1,60 @@
+{
+  "verse_reference": "John 8:12",
+  "version": "EASY",
+  "original_text": "Jesus spoke to the people again. He said, ‘I am the light of the world. Those people who become my disciples will never walk in the dark. No, they will have the light that gives life.’",
+  "korean_text": "예수께서 또 말씀하여 이르시되 나는 세상의 빛이니 나를 따르는 자는 어둠에 다니지 아니하고 생명의 빛을 얻으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus spoke to the people again.",
+      "korean_translation": "예수님께서 다시 사람들에게 말씀하셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said,",
+      "korean_translation": "그분께서 말씀하셨습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am the light of the world.",
+      "korean_translation": "나는 세상의 빛입니다.",
+      "word_indices": [
+        159,
+        225
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Those people who become my disciples",
+      "korean_translation": "나의 제자가 되는 사람들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will never walk in the dark.",
+      "korean_translation": "결코 어둠 속을 걷지 않을 것입니다.",
+      "word_indices": [
+        204
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "No, they will have the light",
+      "korean_translation": "아니요, 그들은 그 빛을 가질 것입니다",
+      "word_indices": [
+        225
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that gives life.",
+      "korean_translation": "그것은 생명을 주는 빛입니다.",
+      "word_indices": [
+        4,
+        41
+      ]
+    }
+  ]
+}

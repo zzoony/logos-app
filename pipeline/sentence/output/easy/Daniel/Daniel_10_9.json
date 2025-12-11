@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Daniel 10:9",
+  "version": "EASY",
+  "original_text": "I listened to the man's voice. When I heard him, I fell down, with my face on the ground. I was completely asleep.",
+  "korean_text": "내가 그의 음성을 들었는데 그의 음성을 들을 때에 내가 얼굴을 땅에 대고 깊이 잠들었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I listened to the man's voice.",
+      "korean_translation": "나는 그 사람의 목소리를 들었습니다.",
+      "word_indices": [
+        63,
+        335
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When I heard him,",
+      "korean_translation": "내가 그를 들었을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I fell down,",
+      "korean_translation": "나는 쓰러졌고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with my face on the ground.",
+      "korean_translation": "내 얼굴이 땅에 닿았습니다.",
+      "word_indices": [
+        299
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I was completely asleep.",
+      "korean_translation": "나는 완전히 잠들었습니다.",
+      "word_indices": [
+        161,
+        864
+      ]
+    }
+  ]
+}

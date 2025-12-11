@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 21:9",
+  "version": "EASY",
+  "original_text": "When they came to the shore, they saw that someone had lit a fire. Some fish were cooking on it. There was some bread there, too.",
+  "korean_text": "육지에 올라보니 숯불이 있는데 그 위에 생선이 놓였고 떡도 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they came to the shore",
+      "korean_translation": "그들이 해안에 왔을 때",
+      "word_indices": [
+        596
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they saw that someone had lit a fire",
+      "korean_translation": "그들은 누군가 불을 피웠다는 것을 보았다",
+      "word_indices": [
+        94,
+        121
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Some fish were cooking on it",
+      "korean_translation": "그 위에서 생선 몇 마리가 요리되고 있었다",
+      "word_indices": [
+        517
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "There was some bread there, too",
+      "korean_translation": "거기에는 빵도 있었다",
+      "word_indices": [
+        229
+      ]
+    }
+  ]
+}

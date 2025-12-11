@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 6:16",
+  "version": "EASY",
+  "original_text": "Make a roof for the ship. Leave a space 45 centimetres high all round under the roof. Put a door in the side of the ship. Inside the ship, make three floors above each other.",
+  "korean_text": "거기에 창을 내되 위에서부터 한 규빗에 내고 그 문은 옆으로 내고 상 중 하 삼층으로 할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Make a roof for the ship",
+      "korean_translation": "배를 위해 지붕을 만드세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Leave a space 45 centimetres high all round under the roof",
+      "korean_translation": "지붕 아래 사방으로 45센티미터 높이의 공간을 남기세요",
+      "word_indices": [
+        66,
+        275,
+        355,
+        890
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Put a door in the side of the ship",
+      "korean_translation": "배의 옆쪽에 문을 설치하세요",
+      "word_indices": [
+        267
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Inside the ship",
+      "korean_translation": "배 안에서",
+      "word_indices": [
+        252
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "make three floors above each other",
+      "korean_translation": "서로 위로 세 개의 층을 만드세요",
+      "word_indices": [
+        166,
+        699
+      ]
+    }
+  ]
+}

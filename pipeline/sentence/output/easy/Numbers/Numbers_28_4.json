@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Numbers 28:4",
+  "version": "EASY",
+  "original_text": "You must give one lamb in the morning and one lamb in the evening.",
+  "korean_text": "어린 양 한 마리는 아침에 드리고 어린 양 한 마리는 해 질 때에 드릴 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must give one lamb",
+      "korean_translation": "당신은 어린 양 한 마리를 바쳐야 합니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the morning",
+      "korean_translation": "아침에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and one lamb in the evening",
+      "korean_translation": "그리고 저녁에 어린 양 한 마리를",
+      "word_indices": []
+    }
+  ]
+}

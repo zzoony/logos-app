@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Ezekiel 34:19",
+  "version": "EASY",
+  "original_text": "Because of that, my sheep eat grass that you have spoiled. They drink water that you have made dirty with your feet.",
+  "korean_text": "나의 양은 너희 발로 밟은 것을 먹으며 너희 발로 더럽힌 것을 마시는도다 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of that,",
+      "korean_translation": "그 때문에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "my sheep eat grass",
+      "korean_translation": "나의 양들은 풀을 먹습니다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you have spoiled.",
+      "korean_translation": "그것은 네가 더럽혔던 것입니다.",
+      "word_indices": [
+        604
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They drink water",
+      "korean_translation": "그들은 물을 마십니다",
+      "word_indices": [
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that you have made dirty with your feet.",
+      "korean_translation": "그것은 네가 네 발로 더럽힌 것입니다.",
+      "word_indices": [
+        857
+      ]
+    }
+  ]
+}

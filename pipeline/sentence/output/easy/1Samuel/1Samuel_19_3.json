@@ -1,0 +1,49 @@
+{
+  "verse_reference": "1 Samuel 19:3",
+  "version": "EASY",
+  "original_text": "I will go out with my father. I will stand with him in the field where you are hiding. I will talk to him about you. Then I will tell you what he says.’",
+  "korean_text": "내가 나가서 네가 있는 들에서 내 아버지 곁에 서서 네 일을 내 아버지와 말하다가 무엇을 보면 네게 알려 주리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will go out with my father",
+      "korean_translation": "나는 내 아버지와 함께 나갈 것입니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will stand with him in the field",
+      "korean_translation": "나는 그와 함께 밭에 서 있을 것입니다",
+      "word_indices": [
+        77,
+        152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where you are hiding",
+      "korean_translation": "당신이 숨어있는 그곳에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will talk to him about you",
+      "korean_translation": "나는 그에게 당신에 대해 이야기할 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then I will tell you",
+      "korean_translation": "그러면 내가 당신에게 말해드릴 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "what he says",
+      "korean_translation": "그가 말하는 것을",
+      "word_indices": []
+    }
+  ]
+}

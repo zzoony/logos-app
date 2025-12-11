@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Leviticus 19:14",
+  "version": "EASY",
+  "original_text": "You must not speak bad words against a person who is deaf. You must not put something in front of a blind person, to make them fall down. I am the Lord. Obey me.",
+  "korean_text": "너는 귀먹은 자를 저주하지 말며 맹인 앞에 장애물을 놓지 말고 네 하나님을 경외하라 나는 여호와이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not speak bad words",
+      "korean_translation": "너는 나쁜 말을 해서는 안 된다",
+      "word_indices": [
+        18,
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "against a person who is deaf",
+      "korean_translation": "듣지 못하는 사람에 대하여",
+      "word_indices": [
+        24,
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must not put something",
+      "korean_translation": "너는 무언가를 놓아서는 안 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in front of a blind person",
+      "korean_translation": "보지 못하는 사람 앞에",
+      "word_indices": [
+        24,
+        123,
+        505
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to make them fall down",
+      "korean_translation": "그들이 넘어지게 하기 위해",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Obey me",
+      "korean_translation": "나를 순종하라",
+      "word_indices": []
+    }
+  ]
+}

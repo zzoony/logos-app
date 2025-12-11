@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 11:3",
+  "version": "EASY",
+  "original_text": "Solomon had 700 royal wives. He also had 300 slave wives. His wives caused him to turn away from the Lord.",
+  "korean_text": "왕은 후궁이 칠백 명이요 첩이 삼백 명이라 그의 여인들이 왕의 마음을 돌아서게 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon had 700 royal wives",
+      "korean_translation": "솔로몬은 왕비 700명을 두었고",
+      "word_indices": [
+        655
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He also had 300 slave wives",
+      "korean_translation": "또한 첩 300명을 두었으며",
+      "word_indices": [
+        9,
+        214
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "His wives caused him",
+      "korean_translation": "그의 아내들이 그로 하여금",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to turn away from the Lord",
+      "korean_translation": "여호와를 떠나게 하였더라",
+      "word_indices": [
+        2,
+        72
+      ]
+    }
+  ]
+}

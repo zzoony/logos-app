@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 7:20",
+  "version": "EASY",
+  "original_text": "The crowd answered, ‘You have a demon in you! Nobody is trying to kill you!’",
+  "korean_text": "무리가 대답하되 당신은 귀신이 들렸도다 누가 당신을 죽이려 하나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The crowd answered",
+      "korean_translation": "무리가 대답했습니다",
+      "word_indices": [
+        160,
+        265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have a demon in you!",
+      "korean_translation": "당신에게 귀신이 들렸습니다!",
+      "word_indices": [
+        929
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Nobody is trying to kill you!",
+      "korean_translation": "아무도 당신을 죽이려고 하지 않습니다!",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

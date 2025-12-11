@@ -1,0 +1,59 @@
+{
+  "verse_reference": "2 Kings 2:8",
+  "version": "EASY",
+  "original_text": "Elijah took off his coat. He rolled it up and he hit the water with it. The water became separate to the left side and to the right side. Elijah and Elisha went across the river on dry ground.",
+  "korean_text": "엘리야가 겉옷을 가지고 말아 물을 치매 물이 이리 저리 갈라지고 두 사람이 마른 땅 위로 건너더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elijah took off his coat.",
+      "korean_translation": "엘리야는 겉옷을 벗었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He rolled it up",
+      "korean_translation": "그는 겉옷을 말았다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he hit the water with it.",
+      "korean_translation": "그리고 그것으로 물을 쳤다.",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The water became separate",
+      "korean_translation": "물이 갈라졌다.",
+      "word_indices": [
+        60,
+        384
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to the left side and to the right side.",
+      "korean_translation": "왼쪽과 오른쪽으로.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Elijah and Elisha went across the river",
+      "korean_translation": "엘리야와 엘리사가 강을 건넜다.",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "on dry ground.",
+      "korean_translation": "마른 땅 위를.",
+      "word_indices": []
+    }
+  ]
+}

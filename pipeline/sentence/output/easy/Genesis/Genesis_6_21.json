@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Genesis 6:21",
+  "version": "EASY",
+  "original_text": "You must also take every different kind of food. That will be food for you and food for the animals.’",
+  "korean_text": "너는 먹을 모든 양식을 네게로 가져다가 저축하라 이것이 너와 그들의 먹을 것이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must also take every different kind of food.",
+      "korean_translation": "너는 또한 모든 종류의 음식을 가져야 한다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That will be food for you",
+      "korean_translation": "그것은 너를 위한 음식이 될 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and food for the animals.",
+      "korean_translation": "그리고 동물들을 위한 음식이 될 것이다.",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

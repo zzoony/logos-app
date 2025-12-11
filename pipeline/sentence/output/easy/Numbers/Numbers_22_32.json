@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Numbers 22:32",
+  "version": "EASY",
+  "original_text": "The angel of the Lord said to him, ‘You should not have hit your donkey like that! I have come here to stop you because you refuse to obey me.",
+  "korean_text": "여호와의 사자가 그에게 이르되 너는 어찌하여 네 나귀를 이같이 세 번 때렸느냐 보라 내 앞에서 네 길이 사악하므로 내가 너를 막으려고 나왔더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel of the Lord said to him",
+      "korean_translation": "주의 사자가 그에게 말했다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You should not have hit your donkey like that!",
+      "korean_translation": "네가 그렇게 네 나귀를 치지 말았어야 했다!",
+      "word_indices": [
+        310
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have come here to stop you",
+      "korean_translation": "내가 너를 멈추기 위해 여기에 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because you refuse to obey me",
+      "korean_translation": "왜냐하면 네가 나에게 순종하기를 거절하기 때문이다",
+      "word_indices": [
+        157
+      ]
+    }
+  ]
+}

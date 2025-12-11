@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 8:2",
+  "version": "EASY",
+  "original_text": "‘I feel sorry for this crowd. They have been here with me now for three days and they do not have any food.",
+  "korean_text": "내가 무리를 불쌍히 여기노라 그들이 나와 함께 있은 지 이미 사흘이 지났으나 먹을 것이 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "'I feel sorry for this crowd.'",
+      "korean_translation": "'나는 이 무리를 불쌍히 여깁니다.'",
+      "word_indices": [
+        265,
+        523
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They have been here with me",
+      "korean_translation": "그들이 나와 함께 여기에 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "now for three days",
+      "korean_translation": "이제 삼 일 동안",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they do not have any food.'",
+      "korean_translation": "그리고 그들에게는 먹을 음식이 없습니다.'",
+      "word_indices": []
+    }
+  ]
+}

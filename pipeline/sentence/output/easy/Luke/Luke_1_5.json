@@ -1,0 +1,81 @@
+{
+  "verse_reference": "Luke 1:5",
+  "version": "EASY",
+  "original_text": "There was a man whose name was Zechariah. He lived when Herod was king of Judea. Zechariah was a priest and he belonged to a group of priests from the family of Abijah. He had a wife called Elizabeth. She also was from the family of the priest called Aaron.",
+  "korean_text": "유대 왕 헤롯 때에 아비야 반열에 제사장 한 사람이 있었으니 이름은 사가랴요 그의 아내는 아론의 자손이니 이름은 엘리사벳이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There was a man",
+      "korean_translation": "한 사람이 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "whose name was Zechariah",
+      "korean_translation": "그의 이름은 스가랴였다",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He lived when Herod was king of Judea",
+      "korean_translation": "그는 헤롯이 유대 왕이었을 때 살았다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Zechariah was a priest",
+      "korean_translation": "스가랴는 제사장이었다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he belonged to a group of priests",
+      "korean_translation": "그리고 그는 제사장 그룹에 속해 있었다",
+      "word_indices": [
+        32,
+        45
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "from the family of Abijah",
+      "korean_translation": "아비야 가문에서 온",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "He had a wife called Elizabeth",
+      "korean_translation": "그에게는 엘리사벳이라는 아내가 있었다",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "She also was from the family of the priest",
+      "korean_translation": "그녀 역시 제사장 가문에서 왔다",
+      "word_indices": [
+        9,
+        32,
+        56
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "called Aaron",
+      "korean_translation": "아론이라 불리는",
+      "word_indices": [
+        47
+      ]
+    }
+  ]
+}

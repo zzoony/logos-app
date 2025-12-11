@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Philemon 1:18",
+  "version": "EASY",
+  "original_text": "If Onesimus has done anything wrong to you, I will make it right again. If he took money from you, I will pay it back.",
+  "korean_text": "그가 만일 네게 불의를 하였거나 네게 빚진 것이 있으면 그것을 내 앞으로 계산하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If Onesimus has done anything wrong to you,",
+      "korean_translation": "오네시모가 너에게 잘못한 것이 있다면,",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will make it right again.",
+      "korean_translation": "내가 그것을 바로잡아 주겠다.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If he took money from you,",
+      "korean_translation": "그가 너에게서 돈을 가져갔다면,",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will pay it back.",
+      "korean_translation": "내가 그것을 갚아주겠다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Matthew 8:1",
+  "version": "EASY",
+  "original_text": "Jesus came down from the hill and a large crowd followed him.",
+  "korean_text": "예수께서 산에서 내려 오시니 수많은 무리가 따르니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus came down from the hill",
+      "korean_translation": "예수님이 산에서 내려오셨습니다",
+      "word_indices": [
+        182
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a large crowd followed him",
+      "korean_translation": "큰 무리가 그를 따랐습니다",
+      "word_indices": [
+        265,
+        316,
+        388
+      ]
+    }
+  ]
+}

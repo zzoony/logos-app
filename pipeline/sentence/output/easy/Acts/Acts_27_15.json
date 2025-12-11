@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Acts 27:15",
+  "version": "EASY",
+  "original_text": "The storm hit the ship very powerfully. It was not possible for the sailors to sail the ship straight into the wind. So they did not try to do that any more. Instead, they let the wind blow the ship along.",
+  "korean_text": "배가 밀려 바람을 맞추어 갈 수 없어 가는 대로 두고 쫓겨가다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The storm hit the ship very powerfully.",
+      "korean_translation": "폭풍이 배를 매우 강력하게 덮쳤습니다.",
+      "word_indices": [
+        483,
+        1265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It was not possible for the sailors to sail the ship straight into the wind.",
+      "korean_translation": "선원들이 바람을 정면으로 마주하고 항해하는 것은 불가능했습니다.",
+      "word_indices": [
+        303,
+        658,
+        748,
+        811
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So they did not try to do that any more.",
+      "korean_translation": "그래서 그들은 더 이상 그렇게 하려고 시도하지 않았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Instead, they let the wind blow the ship along.",
+      "korean_translation": "대신, 그들은 바람이 배를 밀어가도록 내버려 두었습니다.",
+      "word_indices": [
+        303
+      ]
+    }
+  ]
+}

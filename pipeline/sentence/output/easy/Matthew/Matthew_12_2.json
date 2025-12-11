@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 12:2",
+  "version": "EASY",
+  "original_text": "While the disciples were picking the grains, some Pharisees saw them. They said to Jesus, ‘Look at what your disciples are doing! It is against God's Law to do that on our day of rest.’",
+  "korean_text": "바리새인들이 보고 예수께 말하되 보시오 당신의 제자들이 안식일에 하지 못할 일을 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While the disciples were picking the grains",
+      "korean_translation": "제자들이 곡식을 뽑고 있을 때",
+      "word_indices": [
+        256
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "some Pharisees saw them",
+      "korean_translation": "어떤 바리새인들이 그들을 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They said to Jesus",
+      "korean_translation": "그들이 예수님께 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Look at what your disciples are doing!",
+      "korean_translation": "네 제자들이 하는 것을 보라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It is against God's Law",
+      "korean_translation": "그것은 하나님의 법을 어기는 것이다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to do that on our day of rest.'",
+      "korean_translation": "우리의 안식일에 그런 일을 하는 것은'",
+      "word_indices": [
+        269
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 12:12",
+  "version": "EASY",
+  "original_text": "Jeroboam and all the people returned to Rehoboam after three days. That was because the king had said, ‘Return to me in three days.’",
+  "korean_text": "삼 일 만에 여로보암과 모든 백성이 르호보암에게 나아왔으니 이는 왕이 명령하여 이르기를 삼 일 만에 내게로 다시 오라 하였음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jeroboam and all the people returned",
+      "korean_translation": "여로보암과 모든 백성이 돌아왔습니다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to Rehoboam after three days",
+      "korean_translation": "사흘 후에 르호보암에게로",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That was because the king had said",
+      "korean_translation": "그것은 왕이 말했기 때문이었습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Return to me in three days.'",
+      "korean_translation": "'사흘 만에 내게로 돌아오시오.'",
+      "word_indices": [
+        115,
+        166
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 17:33",
+  "version": "EASY",
+  "original_text": "Whoever wants to keep his own life safe will lose it. But whoever gives his life to serve me will have true life.",
+  "korean_text": "무릇 자기 목숨을 보전하고자 하는 자는 잃을 것이요 잃는 자는 살리리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever wants to keep his own life safe",
+      "korean_translation": "자기 생명을 지키려는 사람은",
+      "word_indices": [
+        41,
+        101,
+        755
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will lose it.",
+      "korean_translation": "그것을 잃을 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But whoever gives his life to serve me",
+      "korean_translation": "그러나 나를 섬기기 위해 자기 생명을 내어놓는 사람은",
+      "word_indices": [
+        4,
+        41,
+        95,
+        755
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will have true life.",
+      "korean_translation": "참된 생명을 얻을 것입니다.",
+      "word_indices": [
+        41,
+        69
+      ]
+    }
+  ]
+}

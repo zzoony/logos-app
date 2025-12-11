@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Ezekiel 21:8",
+  "version": "EASY",
+  "original_text": "The Lord gave this message to me:",
+  "korean_text": "여호와의 말씀이 또 내게 임하여 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord gave",
+      "korean_translation": "주님께서 주셨다",
+      "word_indices": [
+        2,
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this message to me",
+      "korean_translation": "이 메시지를 나에게",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Lord gave this message to me",
+      "korean_translation": "주님께서 나에게 이 메시지를 주셨다",
+      "word_indices": [
+        2,
+        4,
+        21
+      ]
+    }
+  ]
+}

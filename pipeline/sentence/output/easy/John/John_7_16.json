@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 7:16",
+  "version": "EASY",
+  "original_text": "Jesus answered, ‘What I teach does not come from me. No, it comes from the one who sent me.",
+  "korean_text": "예수께서 대답하여 이르시되 내 교훈은 내 것이 아니요 나를 보내신 이의 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What I teach does not come from me",
+      "korean_translation": "내가 가르치는 것은 내게서 난 것이 아니다",
+      "word_indices": [
+        87
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "No, it comes from the one who sent me",
+      "korean_translation": "아니요, 나를 보내신 이에게서 온 것이다",
+      "word_indices": []
+    }
+  ]
+}

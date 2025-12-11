@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Mark 13:37",
+  "version": "EASY",
+  "original_text": "I am saying this to you. I am also saying this to everyone else. Always be ready!’",
+  "korean_text": "깨어 있으라 내가 너희에게 하는 이 말은 모든 사람에게 하는 말이니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am saying this to you.",
+      "korean_translation": "나는 너에게 이것을 말하고 있어.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am also saying this to everyone else.",
+      "korean_translation": "나는 또한 다른 모든 사람에게 이것을 말하고 있어.",
+      "word_indices": [
+        9,
+        97
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Always be ready!",
+      "korean_translation": "항상 준비되어 있어라!",
+      "word_indices": [
+        163
+      ]
+    }
+  ]
+}

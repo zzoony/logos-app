@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Luke 1:13",
+  "version": "EASY",
+  "original_text": "The angel said to him, ‘Zechariah, do not be afraid. God has heard what you prayed. He will give you what you asked for. Your wife Elizabeth will give birth to a baby boy. You will give him the name “John”. 14-",
+  "korean_text": "천사가 그에게 이르되 사가랴여 무서워하지 말라 너의 간구함이 들린지라 네 아내 엘리사벳이 네게 아들을 낳아 주리니 그 이름을 요한이라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel said to him",
+      "korean_translation": "천사가 그에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Zechariah, do not be afraid",
+      "korean_translation": "스가랴아, 두려워하지 말라",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God has heard what you prayed",
+      "korean_translation": "하나님이 네가 기도한 것을 들으셨다",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He will give you what you asked for",
+      "korean_translation": "그가 네가 구한 것을 줄 것이다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Your wife Elizabeth will give birth to a baby boy",
+      "korean_translation": "네 아내 엘리사벳이 아들을 낳을 것이다",
+      "word_indices": [
+        4,
+        249
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You will give him the name \"John\"",
+      "korean_translation": "네가 그의 이름을 '요한'이라 할 것이다",
+      "word_indices": [
+        4,
+        90
+      ]
+    }
+  ]
+}

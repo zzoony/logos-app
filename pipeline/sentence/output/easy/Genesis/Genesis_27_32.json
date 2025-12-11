@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 27:32",
+  "version": "EASY",
+  "original_text": "His father Isaac asked, ‘Who are you?’ Esau replied, ‘I am your firstborn son, Esau.’",
+  "korean_text": "그의 아버지 이삭이 그에게 이르되 너는 누구냐 그가 대답하되 나는 아버지의 아들 곧 아버지의 맏아들 에서로소이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "His father Isaac asked",
+      "korean_translation": "그의 아버지 이삭이 물었습니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Who are you?'",
+      "korean_translation": "'너는 누구냐?'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Esau replied",
+      "korean_translation": "에서가 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'I am your firstborn son'",
+      "korean_translation": "'나는 너의 장자입니다'",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Esau.'",
+      "korean_translation": "에서입니다'",
+      "word_indices": []
+    }
+  ]
+}

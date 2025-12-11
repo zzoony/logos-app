@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 26:35",
+  "version": "EASY",
+  "original_text": "But Peter said to Jesus, ‘I will die with you if I need to. But I will never say that I do not know you.’ All the other disciples said the same thing.",
+  "korean_text": "베드로가 이르되 내가 주와 함께 죽을지언정 주를 부인하지 않겠나이다 하고 모든 제자도 그와 같이 말하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Peter said to Jesus",
+      "korean_translation": "하지만 베드로가 예수님께 말씀드렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I will die with you if I need to'",
+      "korean_translation": "'필요하다면 당신과 함께 죽을 겁니다'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I will never say that I do not know you'",
+      "korean_translation": "'하지만 나는 당신을 모른다고 말하지 않을 겁니다'",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "All the other disciples said the same thing",
+      "korean_translation": "다른 모든 제자들도 똑같이 말했다",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

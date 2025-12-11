@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 23:5",
+  "version": "EASY",
+  "original_text": "The Pharisees do things only so that people will see them. They wear little boxes with words from the Bible in them, but they make them really big. They also make the tassels on their clothes very long.",
+  "korean_text": "그들의 모든 행위를 사람에게 보이고자 하나니 곧 그 경문 띠를 넓게 하며 옷술을 길게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Pharisees do things only so that people will see them.",
+      "korean_translation": "바리새인들은 사람들이 그들을 볼 수 있도록 행동합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They wear little boxes with words from the Bible in them",
+      "korean_translation": "그들은 성경의 단어가 들어있는 작은 상자를 착용합니다.",
+      "word_indices": [
+        128,
+        401
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but they make them really big.",
+      "korean_translation": "하지만 그것들을 정말 크게 만듭니다.",
+      "word_indices": [
+        146
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They also make the tassels on their clothes very long.",
+      "korean_translation": "그들은 또한 자신들의 옷에 달린 술을 매우 길게 만듭니다.",
+      "word_indices": [
+        9,
+        134
+      ]
+    }
+  ]
+}

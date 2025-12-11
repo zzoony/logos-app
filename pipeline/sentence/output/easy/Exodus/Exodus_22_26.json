@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 22:26",
+  "version": "EASY",
+  "original_text": "You may take someone's coat as a guarantee that he will pay you back. But you must always return his coat to him before sunset.",
+  "korean_text": "네가 만일 이웃의 옷을 전당 잡거든 해가 지기 전에 그에게 돌려보내라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may take someone's coat",
+      "korean_translation": "너는 다른 사람의 겉옷을 가져도 된다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as a guarantee that he will pay you back",
+      "korean_translation": "그가 너에게 갚을 것이라는 담보로서",
+      "word_indices": [
+        1139
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you must always return his coat to him",
+      "korean_translation": "하지만 너는 항상 그의 겉옷을 그에게 돌려주어야 한다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "before sunset",
+      "korean_translation": "해가 지기 전에",
+      "word_indices": [
+        1036
+      ]
+    }
+  ]
+}

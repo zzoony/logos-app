@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Jeremiah 21:5",
+  "version": "EASY",
+  "original_text": "I myself will use my great power and strength to fight against you. I will do that because I am very angry with you.",
+  "korean_text": "내가 든 손과 강한 팔 곧 진노와 분노와 대노로 친히 너희를 칠 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I myself will use my great power and strength",
+      "korean_translation": "나 자신이 나의 큰 능력과 힘을 사용할 것이다",
+      "word_indices": [
+        40,
+        80,
+        432
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to fight against you",
+      "korean_translation": "너를 대적하여 싸우기 위해",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will do that",
+      "korean_translation": "나는 그것을 할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I am very angry with you",
+      "korean_translation": "내가 너에게 매우 화가 났기 때문이다",
+      "word_indices": [
+        106
+      ]
+    }
+  ]
+}

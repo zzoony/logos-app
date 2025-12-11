@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Daniel 1:1",
+  "version": "EASY",
+  "original_text": "King Nebuchadnezzar of Babylon came to Jerusalem with his army. He put his soldiers around the city to attack it. This happened when Jehoiakim had been king of Judah for nearly three years.",
+  "korean_text": "유다 왕 여호야김이 다스린 지 삼 년이 되는 해에 바벨론 왕 느부갓네살이 예루살렘에 이르러 성을 에워쌌더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Nebuchadnezzar of Babylon came to Jerusalem",
+      "korean_translation": "바빌론 왕 느부갓네살이 예루살렘에 왔다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with his army",
+      "korean_translation": "그의 군대와 함께",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He put his soldiers around the city",
+      "korean_translation": "그는 그의 군사들을 성 주변에 배치했다",
+      "word_indices": [
+        20,
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to attack it",
+      "korean_translation": "공격하기 위해서",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This happened when Jehoiakim had been king of Judah",
+      "korean_translation": "이것은 여호야김이 유다의 왕이었을 때 일어났다",
+      "word_indices": [
+        3,
+        22
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for nearly three years",
+      "korean_translation": "거의 3년 동안",
+      "word_indices": [
+        166,
+        747
+      ]
+    }
+  ]
+}

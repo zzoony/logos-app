@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Mark 2:20",
+  "version": "EASY",
+  "original_text": "But there will be a time when people will take the man away from his friends. At that time his friends will fast.’",
+  "korean_text": "그러나 신랑을 빼앗길 날이 이르리니 그 날에는 금식할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But there will be a time",
+      "korean_translation": "그러나 때가 이를 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when people will take the man away",
+      "korean_translation": "사람들이 그 남자를 데려갈 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from his friends",
+      "korean_translation": "그의 친구들로부터",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "At that time",
+      "korean_translation": "그때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "his friends will fast",
+      "korean_translation": "그의 친구들은 금식할 것이다",
+      "word_indices": [
+        113,
+        614
+      ]
+    }
+  ]
+}

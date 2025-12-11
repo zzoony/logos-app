@@ -1,0 +1,52 @@
+{
+  "verse_reference": "James 3:3",
+  "version": "EASY",
+  "original_text": "For example, think about how we make a horse go the right way. We put a small bit of metal in its mouth so that we can turn it. Then we can cause the horse's whole body to go where we want it to go.",
+  "korean_text": "우리가 말들의 입에 재갈 물리는 것은 우리에게 순종하게 하려고 그 온 몸을 제어하는 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For example, think about how we make a horse go the right way.",
+      "korean_translation": "예를 들어, 우리가 말을 올바른 방향으로 가게 하는 방법을 생각해 보세요.",
+      "word_indices": [
+        38,
+        230,
+        677
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We put a small bit of metal in its mouth",
+      "korean_translation": "우리는 그 입에 작은 쇠비트를 넣습니다.",
+      "word_indices": [
+        295,
+        477,
+        619
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that we can turn it.",
+      "korean_translation": "그래서 우리는 그것을 돌릴 수 있습니다.",
+      "word_indices": [
+        72
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then we can cause the horse's whole body",
+      "korean_translation": "그리고 우리는 말의 전신을",
+      "word_indices": [
+        30,
+        169,
+        230
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to go where we want it to go.",
+      "korean_translation": "우리가 원하는 곳으로 가게 할 수 있습니다.",
+      "word_indices": []
+    }
+  ]
+}

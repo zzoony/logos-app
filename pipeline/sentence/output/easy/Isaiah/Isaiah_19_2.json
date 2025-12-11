@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Isaiah 19:2",
+  "version": "EASY",
+  "original_text": "‘I will cause Egypt's people to fight against each other. People will fight against their own family. They will fight against their neighbours. Cities and kingdoms will fight against each other.",
+  "korean_text": "내가 애굽인을 격동하여 애굽인을 치리니 그들이 각기 형제를 치며 각기 이웃을 칠 것이요 성읍이 성읍을 치며 나라가 나라를 칠 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will cause Egypt's people to fight against each other.",
+      "korean_translation": "내가 애굽 백성으로 서로 싸우게 하리라.",
+      "word_indices": [
+        30,
+        31
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "People will fight against their own family.",
+      "korean_translation": "사람들이 자기 가족과 싸울 것이다.",
+      "word_indices": [
+        31,
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They will fight against their neighbours.",
+      "korean_translation": "그들은 이웃과 싸울 것이다.",
+      "word_indices": [
+        31,
+        652
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Cities and kingdoms will fight against each other.",
+      "korean_translation": "성들과 왕국들이 서로 싸울 것이다.",
+      "word_indices": [
+        20,
+        31,
+        188
+      ]
+    }
+  ]
+}

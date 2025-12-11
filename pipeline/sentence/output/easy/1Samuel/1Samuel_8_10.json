@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Samuel 8:10",
+  "version": "EASY",
+  "original_text": "Samuel spoke to the people who had asked him to give them a king. He told them everything that the Lord had said to him.",
+  "korean_text": "사무엘이 왕을 요구하는 백성에게 여호와의 모든 말씀을 말하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Samuel spoke to the people",
+      "korean_translation": "사무엘이 백성에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had asked him",
+      "korean_translation": "그에게 요청했던 사람들에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to give them a king",
+      "korean_translation": "그들에게 왕을 주도록",
+      "word_indices": [
+        3,
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He told them everything",
+      "korean_translation": "그는 모든 것을 그들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that the Lord had said to him",
+      "korean_translation": "주님께서 그에게 말씀하신 모든 것을",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

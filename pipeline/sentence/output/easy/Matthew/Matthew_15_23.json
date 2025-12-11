@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Matthew 15:23",
+  "version": "EASY",
+  "original_text": "Jesus did not say anything to the woman. So his disciples came to him. They said, ‘Please, send this woman away. She is following us and she is making a lot of noise.’",
+  "korean_text": "예수는 한 말씀도 대답하지 아니하시니 제자들이 와서 청하여 말하되 그 여자가 우리 뒤에서 소리를 지르오니 그를 보내소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus did not say anything to the woman",
+      "korean_translation": "예수님은 그 여자에게 아무 말씀도 하지 않으셨습니다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So his disciples came to him",
+      "korean_translation": "그래서 제자들이 그에게 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Please, send this woman away",
+      "korean_translation": "제발, 이 여자를 보내주세요",
+      "word_indices": [
+        25,
+        46,
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "She is following us",
+      "korean_translation": "그녀가 우리를 따르고 있습니다",
+      "word_indices": [
+        388
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and she is making a lot of noise",
+      "korean_translation": "그리고 그녀가 큰 소리를 내고 있습니다",
+      "word_indices": [
+        290
+      ]
+    }
+  ]
+}

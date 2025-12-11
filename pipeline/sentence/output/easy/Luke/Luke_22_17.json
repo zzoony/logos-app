@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 22:17",
+  "version": "EASY",
+  "original_text": "Then Jesus took a cup and he thanked God for the wine. ‘Take this cup,’ he said to them. ‘Each of you drink some wine from it.",
+  "korean_text": "이에 잔을 받으사 감사 기도 하시고 이르시되 이것을 갖다가 너희끼리 나누라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus took a cup",
+      "korean_translation": "그때 예수님은 잔을 들고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he thanked God for the wine",
+      "korean_translation": "하나님께 포도주에 대해 감사했습니다",
+      "word_indices": [
+        219
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Take this cup",
+      "korean_translation": "이 잔을 가져라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he said to them",
+      "korean_translation": "그가 그들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Each of you drink some wine from it",
+      "korean_translation": "너희 각자 그것에서 포도주를 마시라",
+      "word_indices": [
+        118,
+        219
+      ]
+    }
+  ]
+}

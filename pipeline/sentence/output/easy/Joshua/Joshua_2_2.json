@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Joshua 2:2",
+  "version": "EASY",
+  "original_text": "Some people told the king of Jericho, ‘Look! Some Israelite men have come here tonight to see what our land is like.’",
+  "korean_text": "어떤 사람이 여리고 왕에게 말하여 이르되 보소서 이 밤에 이스라엘 자손 중의 몇 사람이 이 땅을 정탐하러 이리로 들어왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some people told the king of Jericho",
+      "korean_translation": "몇몇 사람들이 여리고 왕에게 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look!",
+      "korean_translation": "보세요!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Some Israelite men have come here tonight",
+      "korean_translation": "몇몇 이스라엘 사람들이 오늘 밤 여기에 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to see what our land is like",
+      "korean_translation": "우리 땅이 어떤지 알아보기 위해서",
+      "word_indices": [
+        14
+      ]
+    }
+  ]
+}

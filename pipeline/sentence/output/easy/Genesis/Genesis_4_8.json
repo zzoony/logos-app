@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Genesis 4:8",
+  "version": "EASY",
+  "original_text": "One day Cain said to his brother Abel, ‘We should go out to the fields.’ While they were in the fields, Cain attacked his brother Abel. He killed Abel.",
+  "korean_text": "가인이 그의 아우 아벨에게 말하고 그들이 들에 있을 때에 가인이 그의 아우 아벨을 쳐죽이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day Cain said to his brother Abel",
+      "korean_translation": "어느 날 가인이 자기 동생 아벨에게 말했다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'We should go out to the fields.'",
+      "korean_translation": "'우리는 들로 나가자'",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "While they were in the fields",
+      "korean_translation": "그들이 들에 있을 때",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Cain attacked his brother Abel",
+      "korean_translation": "가인이 자기 동생 아벨을 공격했다",
+      "word_indices": [
+        62,
+        135
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He killed Abel",
+      "korean_translation": "그는 아벨을 죽였다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

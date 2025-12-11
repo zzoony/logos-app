@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 9:5",
+  "version": "EASY",
+  "original_text": "‘Come here and eat my food. Drink the wine that I have mixed.",
+  "korean_text": "너는 와서 내 식물을 먹으며 내 혼합한 포도주를 마시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Come here",
+      "korean_translation": "이리 오너라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and eat my food",
+      "korean_translation": "나의 음식을 먹고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Drink the wine",
+      "korean_translation": "내가 섞은 포도주를 마시라",
+      "word_indices": [
+        118,
+        219
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I have mixed",
+      "korean_translation": "내가 섞은",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 13:27",
+  "version": "EASY",
+  "original_text": "When Judas had taken the bread, Satan came into him. Then Jesus said to Judas, ‘Do quickly what you want to do.’",
+  "korean_text": "조각을 받은 후 곧 사탄이 그 속에 들어간지라 이에 예수께서 유다에게 이르시되 네가 하는 일을 속히 하라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Judas had taken the bread",
+      "korean_translation": "유다가 떡을 받았을 때",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Satan came into him",
+      "korean_translation": "사탄이 그에게 들어갔다",
+      "word_indices": [
+        545
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then Jesus said to Judas",
+      "korean_translation": "그때 예수께서 유다에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Do quickly what you want to do'",
+      "korean_translation": "'네가 하고자 하는 일을 빨리 하라'",
+      "word_indices": [
+        248
+      ]
+    }
+  ]
+}

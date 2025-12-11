@@ -1,0 +1,63 @@
+{
+  "verse_reference": "John 16:20",
+  "version": "EASY",
+  "original_text": "I tell you this: You will be sad and you will cry. But the people who belong to this world will be happy. Yes, you will be sad. But soon after that, you will become happy instead.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 너희는 곡하고 애통하겠으나 세상은 기뻐하리라 너희는 근심하겠으나 너희 근심이 도리어 기쁨이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 이것을 너희에게 말하노니:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You will be sad",
+      "korean_translation": "너희는 슬퍼할 것이요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and you will cry.",
+      "korean_translation": "울 것이지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But the people who belong to this world",
+      "korean_translation": "그러나 이 세상에 속한 사람들은",
+      "word_indices": [
+        45,
+        159
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will be happy.",
+      "korean_translation": "기뻐할 것이니",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Yes, you will be sad.",
+      "korean_translation": "너희는 슬퍼할 것이지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "But soon after that,",
+      "korean_translation": "그러나 얼마 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "you will become happy instead.",
+      "korean_translation": "너희는 도리어 기뻐하게 되리라.",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

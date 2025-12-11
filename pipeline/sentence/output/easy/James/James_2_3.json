@@ -1,0 +1,66 @@
+{
+  "verse_reference": "James 2:3",
+  "version": "EASY",
+  "original_text": "You are kind to the man who is wearing beautiful clothes. You say to him, ‘Please sit here in this good place.’ But you say to the poor man, ‘Go and stand over there.’ Or you may say to him, ‘Sit on the floor near my feet.’",
+  "korean_text": "너희가 아름다운 옷을 입은 자를 눈여겨 보고 말하되 여기 좋은 자리에 앉으소서 하고 또 가난한 자에게 말하되 너는 거기 서 있든지 내 발등상 아래에 앉으라 하면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are kind to the man",
+      "korean_translation": "너는 그 사람에게 친절하다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who is wearing beautiful clothes",
+      "korean_translation": "아름다운 옷을 입고 있는",
+      "word_indices": [
+        180
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You say to him",
+      "korean_translation": "너는 그에게 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Please sit here in this good place.'",
+      "korean_translation": "'이 좋은 자리에 여기 앉으십시오.'",
+      "word_indices": [
+        16,
+        19,
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But you say to the poor man",
+      "korean_translation": "하지만 너는 가난한 사람에게 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "'Go and stand over there.'",
+      "korean_translation": "'저기 가서 서십시오.'",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Or you may say to him",
+      "korean_translation": "또는 너는 그에게 말할 수도 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "'Sit on the floor near my feet.'",
+      "korean_translation": "'내 발 가까이 바닥에 앉으십시오.'",
+      "word_indices": [
+        699
+      ]
+    }
+  ]
+}

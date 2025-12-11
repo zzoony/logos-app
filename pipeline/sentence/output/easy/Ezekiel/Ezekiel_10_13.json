@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Ezekiel 10:13",
+  "version": "EASY",
+  "original_text": "I heard someone call the wheels, ‘wheels that turn very fast’.",
+  "korean_text": "내가 들으니 그 바퀴들을 도는 것이라 부르며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I heard someone",
+      "korean_translation": "나는 누군가가",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "call the wheels",
+      "korean_translation": "바퀴들을 부르는 것을 들었다",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'wheels that turn very fast'",
+      "korean_translation": "'아주 빠르게 회전하는 바퀴들'이라고",
+      "word_indices": [
+        72,
+        614
+      ]
+    }
+  ]
+}

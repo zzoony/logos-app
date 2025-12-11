@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 8:39",
+  "version": "EASY",
+  "original_text": "They answered, ‘Abraham is our father!’ Jesus replied, ‘If you really belonged to Abraham's family, you would do the same kind of things that Abraham did.",
+  "korean_text": "대답하여 이르되 우리 아버지는 아브라함이라 하니 예수께서 이르시되 너희가 아브라함의 자손이면 아브라함이 행한 일들을 할 것이거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They answered,",
+      "korean_translation": "그들이 대답하기를,",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Abraham is our father!",
+      "korean_translation": "아브라함이 우리 아버지입니다!",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus replied,",
+      "korean_translation": "예수께서 대답하셨습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you really belonged to Abraham's family,",
+      "korean_translation": "만약 당신이 정말로 아브라함의 가족에 속한다면,",
+      "word_indices": [
+        45,
+        56,
+        146
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you would do the same kind of things",
+      "korean_translation": "당신은 똑같은 종류의 일들을 할 것입니다",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that Abraham did.",
+      "korean_translation": "그것은 아브라함이 행한 것입니다.",
+      "word_indices": []
+    }
+  ]
+}

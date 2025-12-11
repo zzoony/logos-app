@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Isaiah 10:31",
+  "version": "EASY",
+  "original_text": "The people in Madmenah run away. Those who live in Gebim run to a safe place.",
+  "korean_text": "맛메나는 피난하며 게빔 주민은 도망하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people in Madmenah run away.",
+      "korean_translation": "맛데나에 있는 사람들은 도망간다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Those who live in Gebim",
+      "korean_translation": "게빔에 사는 사람들은",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "run to a safe place.",
+      "korean_translation": "안전한 곳으로 도망간다.",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

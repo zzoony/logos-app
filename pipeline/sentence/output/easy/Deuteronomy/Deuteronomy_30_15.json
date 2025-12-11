@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 30:15",
+  "version": "EASY",
+  "original_text": "Look! You must choose between the things that I am offering you today. You may choose to have life and many good things. Or you may choose to have death and many troubles.",
+  "korean_text": "보라 내가 오늘 생명과 복과 사망과 화를 네 앞에 두었나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Look!",
+      "korean_translation": "보라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must choose between the things that I am offering you today.",
+      "korean_translation": "너는 오늘 내가 너에게 제공하는 것들 중에서 선택해야 한다.",
+      "word_indices": [
+        51,
+        55,
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You may choose to have life and many good things.",
+      "korean_translation": "너는 삶과 많은 좋은 것들을 가질 수 있다.",
+      "word_indices": [
+        19,
+        41,
+        51
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Or you may choose to have death and many troubles.",
+      "korean_translation": "또는 너는 죽음과 많은 고통들을 가질 수 있다.",
+      "word_indices": [
+        51,
+        153
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 16:7",
+  "version": "EASY",
+  "original_text": "But what I tell you is true. It will be better for you if I go away. Because, if I do not go away, the Helper will not come to you. But if I do go away, I will send him to you.",
+  "korean_text": "그러나 내가 너희에게 실상을 말하노니 내가 떠나가는 것이 너희에게 유익이라 내가 떠나가지 아니하면 보혜사가 너희에게로 오시지 아니할 것이요 가면 내가 그를 너희에게로 보내리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But what I tell you is true",
+      "korean_translation": "하지만 내가 너희에게 말하는 것은 참되니",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It will be better for you if I go away",
+      "korean_translation": "내가 가면 너희에게 유익이라",
+      "word_indices": [
+        247
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Because if I do not go away",
+      "korean_translation": "이는 내가 가지 아니하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Helper will not come to you",
+      "korean_translation": "보혜사가 너희에게 오지 아니할 것이요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But if I do go away",
+      "korean_translation": "내가 가면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will send him to you",
+      "korean_translation": "내가 그를 너희에게 보내리라",
+      "word_indices": [
+        25
+      ]
+    }
+  ]
+}

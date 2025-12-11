@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Deuteronomy 20:7",
+  "version": "EASY",
+  "original_text": "Has anyone promised to marry a woman? If he has not married her yet, he may go home too. If not, he may die in the battle. Then another man will marry her.’",
+  "korean_text": "여자와 약혼하고 그와 결혼하지 못한 자가 있느냐 그는 집으로 돌아갈지니 전사하면 타인이 그를 데려갈까 하노라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Has anyone promised to marry a woman?",
+      "korean_translation": "누가 여자와 결혼하기로 약속했는가?",
+      "word_indices": [
+        46,
+        109,
+        209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If he has not married her yet,",
+      "korean_translation": "그가 아직 그녀와 결혼하지 않았다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he may go home too.",
+      "korean_translation": "그도 집으로 돌아갈 수 있다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If not,",
+      "korean_translation": "그렇지 않으면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he may die in the battle.",
+      "korean_translation": "그는 전투에서 죽을 수도 있다.",
+      "word_indices": [
+        205
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then another man will marry her.'",
+      "korean_translation": "그러면 다른 남자가 그녀와 결혼할 것이다.'",
+      "word_indices": [
+        209
+      ]
+    }
+  ]
+}

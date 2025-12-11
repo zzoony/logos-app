@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 4:30",
+  "version": "EASY",
+  "original_text": "Aaron told them all the things that the Lord had said to Moses. Then Moses did the signs in front of the people.",
+  "korean_text": "아론이 여호와께서 모세에게 이르신 모든 말씀을 전하고 그 백성 앞에서 이적을 행하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Aaron told them",
+      "korean_translation": "아론이 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the things",
+      "korean_translation": "모든 것들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that the Lord had said to Moses",
+      "korean_translation": "주께서 모세에게 말씀하신 것들",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then Moses did the signs",
+      "korean_translation": "그때 모세가 이적들을 행했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in front of the people",
+      "korean_translation": "백성들 앞에서",
+      "word_indices": [
+        123
+      ]
+    }
+  ]
+}

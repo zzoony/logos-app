@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Leviticus 27:7",
+  "version": "EASY",
+  "original_text": "If a man is older than 60 years, they must give 15 pieces of silver. For a woman, they must give ten pieces of silver.",
+  "korean_text": "예순 살 이상은 남자면 그 값을 십오 세겔로 하고 여자는 열 세겔로 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a man is older than 60 years",
+      "korean_translation": "만약 한 남자가 60세보다 나이가 많으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they must give 15 pieces of silver",
+      "korean_translation": "그들은 은 15조각을 바쳐야 한다",
+      "word_indices": [
+        4,
+        195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "For a woman",
+      "korean_translation": "여자를 위해서는",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they must give ten pieces of silver",
+      "korean_translation": "그들은 은 열 조각을 바쳐야 한다",
+      "word_indices": [
+        4,
+        195
+      ]
+    }
+  ]
+}

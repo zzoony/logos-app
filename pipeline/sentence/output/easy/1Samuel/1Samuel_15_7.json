@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Samuel 15:7",
+  "version": "EASY",
+  "original_text": "Then Saul attacked the Amalekites. He fought them all the way from Havilah to Shur, which is east of Egypt.",
+  "korean_text": "사울이 하윌라에서부터 애굽 앞 술에 이르기까지 아말렉 사람을 치고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Saul attacked the Amalekites.",
+      "korean_translation": "그때 사울이 아말렉 사람들을 공격했습니다.",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He fought them all the way",
+      "korean_translation": "그는 그들을 계속해서 싸웠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from Havilah to Shur,",
+      "korean_translation": "하윌라부터 술까지,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "which is east of Egypt.",
+      "korean_translation": "그곳은 이집트의 동쪽에 있습니다.",
+      "word_indices": [
+        284
+      ]
+    }
+  ]
+}

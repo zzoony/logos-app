@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 18:11",
+  "version": "EASY",
+  "original_text": "Abraham and Sarah were now very old. Sarah was past the age when she could give birth to a child.",
+  "korean_text": "아브라함과 사라는 나이가 많아 늙었고 사라에게는 여성의 생리가 끊어졌는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham and Sarah were now very old",
+      "korean_translation": "아브라함과 사라는 이제 매우 늙었었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sarah was past the age",
+      "korean_translation": "사라는 나이가 지나 있었다",
+      "word_indices": [
+        512
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when she could give birth to a child",
+      "korean_translation": "아이를 낳을 수 있는",
+      "word_indices": [
+        4,
+        65,
+        249
+      ]
+    }
+  ]
+}

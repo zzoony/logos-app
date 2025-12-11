@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Genesis 1:1",
+  "version": "EASY",
+  "original_text": "In the beginning, God made the heavens and the earth.",
+  "korean_text": "태초에 하나님이 천지를 창조하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the beginning",
+      "korean_translation": "태초에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God made the heavens",
+      "korean_translation": "하나님이 하늘을 만드시고",
+      "word_indices": [
+        170
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the earth",
+      "korean_translation": "땅을 만드셨다",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

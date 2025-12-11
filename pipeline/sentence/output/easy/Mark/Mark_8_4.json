@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Mark 8:4",
+  "version": "EASY",
+  "original_text": "The disciples replied, ‘This place is far from any houses. We cannot get enough bread to feed all these people.’",
+  "korean_text": "제자들이 대답하되 이 광야 어디서 떡을 얻어 이 사람들로 배부르게 할 수 있으리이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The disciples replied",
+      "korean_translation": "제자들이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This place is far from any houses",
+      "korean_translation": "이곳은 어떤 집들에서도 멀리 떨어져 있습니다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We cannot get enough bread",
+      "korean_translation": "우리는 충분한 빵을 구할 수 없습니다",
+      "word_indices": [
+        114,
+        228,
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to feed all these people",
+      "korean_translation": "이 모든 사람들을 먹일 만큼",
+      "word_indices": []
+    }
+  ]
+}

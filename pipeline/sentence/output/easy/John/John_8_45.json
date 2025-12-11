@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 8:45",
+  "version": "EASY",
+  "original_text": "As for me, I tell you what is true. And that is why you do not believe me.",
+  "korean_text": "내가 진리를 말하므로 너희가 나를 믿지 아니하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As for me",
+      "korean_translation": "나에 관해서는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you what is true",
+      "korean_translation": "나는 너에게 진실을 말한다",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And that is why",
+      "korean_translation": "그것이 바로 이유다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you do not believe me",
+      "korean_translation": "너는 나를 믿지 않는다",
+      "word_indices": [
+        88
+      ]
+    }
+  ]
+}

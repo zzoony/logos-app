@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Exodus 13:12",
+  "version": "EASY",
+  "original_text": "You must give to the Lord all the firstborn males. That includes your own firstborn sons, and the male animals that are born first. They belong to the Lord.",
+  "korean_text": "너는 태에서 처음 난 모든 것과 네게 있는 가축의 태에서 처음 난 것을 다 구별하여 여호와께 돌리라 수컷은 여호와의 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must give to the Lord",
+      "korean_translation": "너는 주께 바쳐야 한다",
+      "word_indices": [
+        2,
+        4
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the firstborn males",
+      "korean_translation": "모든 첫난 수컷들을",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That includes your own firstborn sons",
+      "korean_translation": "그것은 너의 첫난 아들들을 포함한다",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the male animals",
+      "korean_translation": "그리고 수컷 동물들을",
+      "word_indices": [
+        48
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that are born first",
+      "korean_translation": "처음 태어난 것들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They belong to the Lord",
+      "korean_translation": "그것들은 주께 속한다",
+      "word_indices": [
+        2,
+        45
+      ]
+    }
+  ]
+}

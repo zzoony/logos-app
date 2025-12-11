@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Leviticus 7:26",
+  "version": "EASY",
+  "original_text": "You must not eat the blood of an animal or of a bird even if you are living in another country.",
+  "korean_text": "너희가 사는 모든 곳에서 새나 짐승의 피나 무슨 피든지 먹지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not eat the blood",
+      "korean_translation": "너는 피를 먹어서는 안 된다",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of an animal or of a bird",
+      "korean_translation": "짐승의 것이나 새의 것",
+      "word_indices": [
+        48,
+        344
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "even if you are living in another country",
+      "korean_translation": "너가 다른 나라에 살고 있을지라도",
+      "word_indices": [
+        117
+      ]
+    }
+  ]
+}

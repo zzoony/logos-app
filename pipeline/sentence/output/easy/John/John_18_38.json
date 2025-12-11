@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 18:38",
+  "version": "EASY",
+  "original_text": "Pilate said, ‘I do not know what truth is.’",
+  "korean_text": "빌라도가 이르되 진리가 무엇이냐 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pilate said",
+      "korean_translation": "빌라도가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I do not know",
+      "korean_translation": "'나는 모르겠다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what truth is.'",
+      "korean_translation": "진리가 무엇인지를.'",
+      "word_indices": [
+        591
+      ]
+    }
+  ]
+}

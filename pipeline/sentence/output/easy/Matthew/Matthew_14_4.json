@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 14:4",
+  "version": "EASY",
+  "original_text": "John had said to Herod, ‘Herodias was your brother's wife. So it is not right for you to have her as your wife.’",
+  "korean_text": "이는 요한이 헤롯에게 말하되 당신이 그 여자를 차지한 것이 옳지 않다 하였음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John had said to Herod",
+      "korean_translation": "요한은 헤롯에게 말했었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Herodias was your brother's wife",
+      "korean_translation": "헤로디아는 당신의 형제의 아내였습니다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So it is not right for you",
+      "korean_translation": "그러므로 당신에게는 옳지 않습니다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to have her as your wife",
+      "korean_translation": "그녀를 아내로 두는 것이",
+      "word_indices": []
+    }
+  ]
+}

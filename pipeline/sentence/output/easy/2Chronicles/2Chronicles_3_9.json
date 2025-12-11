@@ -1,0 +1,50 @@
+{
+  "verse_reference": "2 Chronicles 3:9",
+  "version": "EASY",
+  "original_text": "The gold nails weighed the same as 50 gold coins. They also covered the walls of the upstairs rooms with gold.",
+  "korean_text": "못 무게가 금 오십 세겔이요 다락들도 금으로 입혔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The gold nails",
+      "korean_translation": "그 금 못들은",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "weighed the same as 50 gold coins",
+      "korean_translation": "50개의 금화와 같은 무게였습니다",
+      "word_indices": [
+        74,
+        130,
+        487
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They also covered the walls",
+      "korean_translation": "그들은 또한 벽들을 덮었습니다",
+      "word_indices": [
+        9,
+        148,
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the upstairs rooms",
+      "korean_translation": "위층 방들의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with gold",
+      "korean_translation": "금으로",
+      "word_indices": [
+        130
+      ]
+    }
+  ]
+}

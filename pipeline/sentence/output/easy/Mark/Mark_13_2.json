@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Mark 13:2",
+  "version": "EASY",
+  "original_text": "Jesus said to him, ‘Yes, look at all these large buildings! But I tell you, enemies will completely destroy them. Not even one stone will remain on top of another stone.’",
+  "korean_text": "예수께서 이르시되 네가 이 큰 건물들을 보느냐 돌 하나도 돌 위에 남지 않고 다 무너뜨려지리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수님께서 그에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Yes, look at all these large buildings!",
+      "korean_translation": "네, 이 모든 큰 건물들을 보라!",
+      "word_indices": [
+        316
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I tell you",
+      "korean_translation": "하지만 내가 너희에게 말하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "enemies will completely destroy them",
+      "korean_translation": "적들이 이것들을 완전히 파괴할 것이다",
+      "word_indices": [
+        39,
+        50,
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Not even one stone will remain",
+      "korean_translation": "돌 한 개도 남지 않을 것이다",
+      "word_indices": [
+        116,
+        253
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "on top of another stone",
+      "korean_translation": "다른 돌 위에",
+      "word_indices": [
+        116
+      ]
+    }
+  ]
+}

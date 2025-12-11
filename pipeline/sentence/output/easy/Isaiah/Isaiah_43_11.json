@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Isaiah 43:11",
+  "version": "EASY",
+  "original_text": "I am the Lord, I alone. There is no other saviour, except me. I am the Lord, I alone.",
+  "korean_text": "나 곧 나는 여호와라 나 외에 구원자가 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I alone",
+      "korean_translation": "나만이 유일하다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There is no other saviour",
+      "korean_translation": "다른 구원자는 없다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "except me",
+      "korean_translation": "나를 제외하고는",
+      "word_indices": [
+        745
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I alone",
+      "korean_translation": "나만이 유일하다",
+      "word_indices": []
+    }
+  ]
+}

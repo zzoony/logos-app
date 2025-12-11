@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Mark 7:10",
+  "version": "EASY",
+  "original_text": "For example, Moses wrote, “You must love your father and your mother. You must obey them.” He also said, “You must kill anyone who curses his father or his mother.”",
+  "korean_text": "모세는 네 부모를 공경하라 하고 또 아버지나 어머니를 모욕하는 자는 죽임을 당하리라 하였거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For example, Moses wrote",
+      "korean_translation": "예를 들어, 모세가 기록했습니다",
+      "word_indices": [
+        677
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must love your father and your mother",
+      "korean_translation": "너는 네 아버지와 어머니를 사랑해야 한다",
+      "word_indices": [
+        37,
+        82,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must obey them",
+      "korean_translation": "너는 그들을 순종해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He also said",
+      "korean_translation": "그는 또한 말했습니다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You must kill anyone who curses his father or his mother",
+      "korean_translation": "아버지나 어머니를 저주하는 누구든지 죽여야 한다",
+      "word_indices": [
+        26,
+        37,
+        109,
+        202
+      ]
+    }
+  ]
+}

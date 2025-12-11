@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Numbers 9:15",
+  "version": "EASY",
+  "original_text": "On the day that Moses put up the Tent of Meeting, a cloud covered it. In the evening it became something like a fire over the Tent, until morning.",
+  "korean_text": "성막을 세운 날에 구름이 성막 곧 증거의 성막을 덮었고 저녁이 되면 성막 위에 불 모양 같은 것이 나타나서 아침까지 이르렀으되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On the day that Moses put up the Tent of Meeting",
+      "korean_translation": "모세가 회막을 세운 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a cloud covered it",
+      "korean_translation": "구름이 그것을 덮었습니다",
+      "word_indices": [
+        238,
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "In the evening it became something like a fire",
+      "korean_translation": "저녁에는 그것이 불처럼 되었습니다",
+      "word_indices": [
+        121
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "over the Tent",
+      "korean_translation": "회막 위에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until morning",
+      "korean_translation": "아침까지",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Samuel 9:23",
+  "version": "EASY",
+  "original_text": "Samuel said to the cook, ‘Please bring me the special piece of meat that I gave to you. I told you to keep that piece separate.’",
+  "korean_text": "사무엘이 요리인에게 이르되 내가 네게 주며 네게 두라고 말한 그 부분을 가져오라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Samuel said to the cook",
+      "korean_translation": "사무엘이 요리사에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Please bring me the special piece of meat",
+      "korean_translation": "저에게 그 특별한 고기 조각을 가져오세요",
+      "word_indices": [
+        68,
+        76,
+        149
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I gave to you",
+      "korean_translation": "내가 당신에게 주었던",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I told you to keep that piece separate",
+      "korean_translation": "나는 당신에게 그 조각을 따로 보관하라고 말했습니다",
+      "word_indices": [
+        101,
+        149,
+        384
+      ]
+    }
+  ]
+}

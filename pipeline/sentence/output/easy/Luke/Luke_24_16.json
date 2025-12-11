@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Luke 24:16",
+  "version": "EASY",
+  "original_text": "They saw him, but for some reason they did not recognize him.",
+  "korean_text": "그들의 눈이 가리어져서 그인 줄 알아보지 못하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They saw him",
+      "korean_translation": "그들은 그를 보았지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but for some reason",
+      "korean_translation": "하지만 어떤 이유로",
+      "word_indices": [
+        453
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they did not recognize him",
+      "korean_translation": "그들은 그를 알아보지 못했다",
+      "word_indices": [
+        660
+      ]
+    }
+  ]
+}

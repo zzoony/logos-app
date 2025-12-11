@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Mark 7:31",
+  "version": "EASY",
+  "original_text": "Then Jesus went away from Tyre. He travelled through the city of Sidon. Then he went towards Lake Galilee. He was in the region called ‘The ten cities’.",
+  "korean_text": "예수께서 다시 두로 지방에서 나와 시돈을 지나고 데가볼리 지방을 통과하여 갈릴리 호수에 이르시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus went away from Tyre.",
+      "korean_translation": "그때 예수님은 두로를 떠나셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He travelled through the city of Sidon.",
+      "korean_translation": "그분은 시돈 성을 거쳐 여행하셨습니다.",
+      "word_indices": [
+        20,
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then he went towards Lake Galilee.",
+      "korean_translation": "그때 그분은 갈릴리 호수를 향해 가셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He was in the region called 'The ten cities'.",
+      "korean_translation": "그분은 '열 도시'라 불리는 지역에 계셨습니다.",
+      "word_indices": [
+        20,
+        47,
+        314
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 37:13",
+  "version": "EASY",
+  "original_text": "Jacob said to Joseph, ‘You know that your brothers have taken my sheep to eat grass near Shechem. I want you to go to them.’ Joseph replied, ‘I am ready to go.’",
+  "korean_text": "이스라엘이 요셉에게 이르되 네 형들이 세겜에서 양을 치지 아니하느냐 너를 그들에게로 보내리라 요셉이 아버지에게 대답하되 내가 그리하겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob said to Joseph",
+      "korean_translation": "야곱이 요셉에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You know that your brothers have taken my sheep",
+      "korean_translation": "네 형들이 내 양들을 데려갔다는 것을 알고 있다",
+      "word_indices": [
+        12,
+        125,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to eat grass near Shechem",
+      "korean_translation": "세겜 근처에서 풀을 먹으러",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I want you to go to them",
+      "korean_translation": "내가 너를 그들에게 가게 하고 싶다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Joseph replied",
+      "korean_translation": "요셉이 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I am ready to go",
+      "korean_translation": "나는 가 준비가 되어 있다",
+      "word_indices": [
+        163
+      ]
+    }
+  ]
+}

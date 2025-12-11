@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Mark 13:33",
+  "version": "EASY",
+  "original_text": "Watch carefully! Keep awake! You do not know the time when all these things will happen.",
+  "korean_text": "주의하라 깨어 있으라 그 때가 언제인지 알지 못함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Watch carefully!",
+      "korean_translation": "주의 깊게 지켜보라!",
+      "word_indices": [
+        217,
+        273
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Keep awake!",
+      "korean_translation": "깨어 있으라!",
+      "word_indices": [
+        101,
+        1063
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You do not know the time",
+      "korean_translation": "너희는 그 시기를 알지 못한다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when all these things will happen.",
+      "korean_translation": "이 모든 일들이 일어날 때를",
+      "word_indices": [
+        22
+      ]
+    }
+  ]
+}

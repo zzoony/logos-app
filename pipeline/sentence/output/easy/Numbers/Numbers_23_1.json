@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Numbers 23:1",
+  "version": "EASY",
+  "original_text": "Balaam said to King Balak, ‘Build seven altars here for me. Prepare seven bulls and seven male sheep.’",
+  "korean_text": "발람이 발락에게 이르되 나를 위하여 여기 제단 일곱을 쌓고 거기 수송아지 일곱 마리와 숫양 일곱 마리를 준비하소서 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Balaam said to King Balak",
+      "korean_translation": "발람이 발락 왕에게 말하였다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Build seven altars here for me",
+      "korean_translation": "나를 위해 여기에 제단 일곱 개를 쌓으라",
+      "word_indices": [
+        99,
+        119,
+        198
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Prepare seven bulls",
+      "korean_translation": "수소 일곱 마리를 준비하고",
+      "word_indices": [
+        198,
+        226
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and seven male sheep",
+      "korean_translation": "수양 일곱 마리도 준비하라",
+      "word_indices": [
+        125,
+        198
+      ]
+    }
+  ]
+}

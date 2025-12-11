@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 15:12",
+  "version": "EASY",
+  "original_text": "This is the rule that I give to you: You must love each other, in the same way that I have loved you.",
+  "korean_text": "내 계명은 곧 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라 하는 이것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is the rule that I give to you:",
+      "korean_translation": "이것이 내가 너희에게 주는 규칙이다:",
+      "word_indices": [
+        4,
+        28
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must love each other,",
+      "korean_translation": "너희는 서로 사랑해야 하며,",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the same way that I have loved you.",
+      "korean_translation": "내가 너희를 사랑한 것과 같은 방식으로 사랑해야 한다.",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

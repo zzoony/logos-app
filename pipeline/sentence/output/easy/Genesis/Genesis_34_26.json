@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 34:26",
+  "version": "EASY",
+  "original_text": "They killed Hamor and his son Shechem. Then they took Dinah from Shechem's house and they left.",
+  "korean_text": "칼로 하몰과 그의 아들 세겜을 죽이고 디나를 세겜의 집에서 데려오고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They killed Hamor",
+      "korean_translation": "그들은 하모르를 죽였고",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and his son Shechem",
+      "korean_translation": "그의 아들 세겜도 죽였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then they took Dinah",
+      "korean_translation": "그때 그들은 디나를 데리고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from Shechem's house",
+      "korean_translation": "세겜의 집에서",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they left",
+      "korean_translation": "떠났다",
+      "word_indices": []
+    }
+  ]
+}

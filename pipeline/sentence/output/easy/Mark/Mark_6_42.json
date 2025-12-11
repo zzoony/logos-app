@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 6:42",
+  "version": "EASY",
+  "original_text": "Everyone ate and they all had enough food. They were not hungry any more.",
+  "korean_text": "다 배불리 먹고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Everyone ate",
+      "korean_translation": "모두가 먹었고",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and they all had enough food",
+      "korean_translation": "그들은 모두 충분한 음식을 가졌습니다",
+      "word_indices": [
+        228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They were not hungry any more",
+      "korean_translation": "그들은 더 이상 배고프지 않았습니다",
+      "word_indices": [
+        402
+      ]
+    }
+  ]
+}

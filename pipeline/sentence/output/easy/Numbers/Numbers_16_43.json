@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Numbers 16:43",
+  "version": "EASY",
+  "original_text": "Moses and Aaron went to stand at the front of the Tent of Meeting.",
+  "korean_text": "모세와 아론이 회막 앞에 이르매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses and Aaron went",
+      "korean_translation": "모세와 아론이 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to stand at the front",
+      "korean_translation": "앞에 서기 위해",
+      "word_indices": [
+        77,
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the Tent of Meeting",
+      "korean_translation": "회막의",
+      "word_indices": []
+    }
+  ]
+}

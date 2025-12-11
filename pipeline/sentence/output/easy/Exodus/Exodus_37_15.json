@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 37:15",
+  "version": "EASY",
+  "original_text": "He used acacia wood to make the poles and he covered them with gold. They would use the poles to carry the table.",
+  "korean_text": "또 조각목으로 상 멜 채를 만들어 금으로 쌌으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He used acacia wood",
+      "korean_translation": "그는 아카시아 나무를 사용했고",
+      "word_indices": [
+        239,
+        840
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to make the poles",
+      "korean_translation": "그 막대들을 만들기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he covered them with gold",
+      "korean_translation": "그리고 그것들을 금으로 덮었다",
+      "word_indices": [
+        130,
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They would use the poles",
+      "korean_translation": "그들은 그 막대들을 사용했을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to carry the table",
+      "korean_translation": "상을 운반하기 위해",
+      "word_indices": [
+        201,
+        536
+      ]
+    }
+  ]
+}

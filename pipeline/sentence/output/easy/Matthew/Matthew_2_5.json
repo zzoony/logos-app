@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 2:5",
+  "version": "EASY",
+  "original_text": "They replied, ‘The Messiah will be born in Bethlehem in Judea. This is what the prophet wrote about it:",
+  "korean_text": "이르되 유대 베들레헴이오니 이는 선지자로 이렇게 기록된 바",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They replied,",
+      "korean_translation": "그들이 대답하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Messiah will be born",
+      "korean_translation": "메시아는 태어날 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Bethlehem in Judea.",
+      "korean_translation": "유대의 베들레헴에서.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This is what the prophet wrote",
+      "korean_translation": "이것이 선지자가 기록한 것입니다",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "about it:",
+      "korean_translation": "그것에 대하여:",
+      "word_indices": []
+    }
+  ]
+}

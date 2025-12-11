@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Daniel 6:1",
+  "version": "EASY",
+  "original_text": "King Darius decided to choose 120 men to rule the regions of his nation. Together, they would rule the whole kingdom.",
+  "korean_text": "다리오가 자기의 뜻대로 고관 백이십 명을 세워 전국을 통치하게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Darius decided to choose 120 men",
+      "korean_translation": "다리우스 왕은 120명의 사람들을 선택하기로 결정했습니다",
+      "word_indices": [
+        3,
+        51
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to rule the regions of his nation",
+      "korean_translation": "그의 나라의 지역들을 다스리기 위해",
+      "word_indices": [
+        28,
+        70,
+        314
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Together, they would rule the whole kingdom",
+      "korean_translation": "함께 그들은 전체 왕국을 다스릴 것입니다",
+      "word_indices": [
+        28,
+        169,
+        188
+      ]
+    }
+  ]
+}

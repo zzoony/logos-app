@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 8:46",
+  "version": "EASY",
+  "original_text": "Jesus said, ‘Someone did touch me. I know that something powerful went out from me.’",
+  "korean_text": "예수께서 이르시되 내게 손을 댄 자가 있도다 이는 내게서 능력이 나간 줄 앎이로다 하신대",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Someone did touch me",
+      "korean_translation": "누군가 나를 만졌다",
+      "word_indices": [
+        94,
+        348
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I know that something powerful",
+      "korean_translation": "나는 강력한 무언가가",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "went out from me",
+      "korean_translation": "내에게서 나갔음을 안다",
+      "word_indices": []
+    }
+  ]
+}

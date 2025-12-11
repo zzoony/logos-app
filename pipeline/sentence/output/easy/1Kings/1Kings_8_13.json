@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Kings 8:13",
+  "version": "EASY",
+  "original_text": "Now I have built a great temple for you. It is a place where you can live for ever.’",
+  "korean_text": "내가 참으로 주를 위하여 계실 성전을 건축하였사오니 주께서 영원히 계실 처소로소이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now I have built a great temple for you",
+      "korean_translation": "내가 당신을 위해 위대한 성전을 지었습니다",
+      "word_indices": [
+        40,
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is a place",
+      "korean_translation": "그것은 장소입니다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where you can live for ever",
+      "korean_translation": "당신이 영원히 살 수 있는 곳",
+      "word_indices": [
+        8
+      ]
+    }
+  ]
+}

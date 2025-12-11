@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 13:7",
+  "version": "EASY",
+  "original_text": "Jesus answered him, ‘You do not understand now what I am doing. But you will understand in the future.’",
+  "korean_text": "예수께서 대답하여 이르시되 내가 하는 것을 네가 지금은 알지 못하나 이후에는 알리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered him",
+      "korean_translation": "예수님께서 그에게 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You do not understand now",
+      "korean_translation": "지금은 네가 이해하지 못한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "what I am doing",
+      "korean_translation": "내가 하는 일이 무엇인지를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But you will understand",
+      "korean_translation": "하지만 너는 이해하게 될 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the future'",
+      "korean_translation": "미래에",
+      "word_indices": [
+        456
+      ]
+    }
+  ]
+}

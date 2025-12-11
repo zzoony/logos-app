@@ -1,0 +1,64 @@
+{
+  "verse_reference": "John 18:26",
+  "version": "EASY",
+  "original_text": "One of the people there was a servant of the leader of the priests. He belonged to the same family as the man whose ear Peter had cut off. This servant said to Peter, ‘I am sure that I saw you in the garden with Jesus.’",
+  "korean_text": "대제사장의 종 하나는 베드로에게 귀를 잘린 사람의 친척이라 이르되 네가 그 사람과 함께 동산에 있는 것을 내가 보지 아니하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One of the people there was a servant",
+      "korean_translation": "그곳에 있던 사람 중 한 명은 종이었습니다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of the leader of the priests",
+      "korean_translation": "제사장장의",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He belonged to the same family",
+      "korean_translation": "그는 같은 가족에 속해 있었습니다",
+      "word_indices": [
+        45,
+        56,
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as the man whose ear Peter had cut off",
+      "korean_translation": "베드로가 귀를 잘라낸 사람의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This servant said to Peter",
+      "korean_translation": "이 종이 베드로에게 말했습니다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "'I am sure that I saw you",
+      "korean_translation": "'내가 당신을 본 것이 확실합니다",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "in the garden with Jesus.'",
+      "korean_translation": "동산에서 예수님과 함께 있었던 것을.'",
+      "word_indices": [
+        442
+      ]
+    }
+  ]
+}

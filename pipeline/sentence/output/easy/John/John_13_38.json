@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 13:38",
+  "version": "EASY",
+  "original_text": "Jesus answered, ‘You say that you would die for me. But I tell you this: Soon you will say that you do not know me. Before the cockerel sings early tomorrow morning, you will say that three times.’",
+  "korean_text": "예수께서 대답하시되 네가 나를 위하여 네 목숨을 버리겠느냐 내가 진실로 진실로 네게 이르노니 닭 울기 전에 네가 세 번 나를 부인하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수님께서 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You say that you would die for me",
+      "korean_translation": "너는 나를 위해 죽겠다고 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I tell you this",
+      "korean_translation": "하지만 내가 너에게 이것을 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Soon you will say that you do not know me",
+      "korean_translation": "이제 곧 너는 나를 모른다고 말할 것이다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Before the cockerel sings early tomorrow morning",
+      "korean_translation": "내일 아침 일찍 수탉이 우기 전에",
+      "word_indices": [
+        584,
+        628,
+        965
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you will say that three times",
+      "korean_translation": "너는 그것을 세 번 말할 것이다",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

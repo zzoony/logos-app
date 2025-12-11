@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Zechariah 5:1",
+  "version": "EASY",
+  "original_text": "Again, I looked and I saw a large paper. It was moving through the air. There were many words on the paper.",
+  "korean_text": "내가 다시 눈을 들어 본즉 날아가는 두루마리가 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Again, I looked",
+      "korean_translation": "내가 또 다시 보니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I saw a large paper",
+      "korean_translation": "큰 종이 두루마리가 보였다",
+      "word_indices": [
+        316,
+        828
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was moving through the air",
+      "korean_translation": "그것이 공중에 날아가고 있었다",
+      "word_indices": [
+        192
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "There were many words on the paper",
+      "korean_translation": "그 종이 위에 많은 글자가 있었다",
+      "word_indices": [
+        128,
+        828
+      ]
+    }
+  ]
+}

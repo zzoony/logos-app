@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Kings 3:7",
+  "version": "EASY",
+  "original_text": "He also sent this message to Jehoshaphat, the king of Judah: ‘The king of Moab has turned against me. Will you go with me to fight against the Moabites?’",
+  "korean_text": "또 가서 유다의 왕 여호사밧에게 사신을 보내 이르되 모압 왕이 나를 배반하였으니 당신은 나와 함께 가서 모압을 치시겠느냐 하니 그가 이르되 내가 올라가리이다 나는 당신과 같고 내 백성은 당신의 백성과 같고 내 말들도 당신의 말들과 같으니이다 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He also sent this message to Jehoshaphat",
+      "korean_translation": "그는 또 이 메시지를 여호사밧에게 보냈다",
+      "word_indices": [
+        9,
+        21
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the king of Judah",
+      "korean_translation": "유다 왕",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The king of Moab has turned against me",
+      "korean_translation": "모압 왕이 나를 배신했다",
+      "word_indices": [
+        3,
+        31,
+        72
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Will you go with me",
+      "korean_translation": "당신은 나와 함께 가시겠습니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to fight against the Moabites",
+      "korean_translation": "모압 사람들과 싸우기 위해",
+      "word_indices": [
+        31
+      ]
+    }
+  ]
+}

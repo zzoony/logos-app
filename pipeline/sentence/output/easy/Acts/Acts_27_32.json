@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Acts 27:32",
+  "version": "EASY",
+  "original_text": "So the soldiers cut the ropes that held the small boat to the ship. The small boat fell into the water and the wind blew it away.",
+  "korean_text": "이에 군인들이 거룻줄을 끊어 떼어 버리니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So the soldiers cut the ropes",
+      "korean_translation": "그래서 군인들은 밧줄을 잘랐습니다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that held the small boat to the ship",
+      "korean_translation": "작은 배를 배에 묶고 있던",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The small boat fell into the water",
+      "korean_translation": "작은 배는 물에 떨어졌습니다",
+      "word_indices": [
+        60,
+        295
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the wind blew it away",
+      "korean_translation": "그리고 바람이 그것을 날려 보냈습니다",
+      "word_indices": [
+        303
+      ]
+    }
+  ]
+}

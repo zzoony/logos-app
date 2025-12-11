@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Zechariah 13:3",
+  "version": "EASY",
+  "original_text": "And if anyone appears as a prophet again, his father and his mother will say to him, “You must die. You do not speak true words. The Lord has not spoken to you.” Then they will kill him.",
+  "korean_text": "사람이 아직도 예언할 것 같으면 그 낳은 부모가 그에게 이르기를 네가 여호와의 이름을 빙자하여 거짓말을 하니 살지 못하리라 하고 낳은 부모가 그가 예언할 때에 칼로 그를 찌르리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And if anyone appears as a prophet again,",
+      "korean_translation": "그리고 만약 누군가 다시 선지자로 나타나면,",
+      "word_indices": [
+        100,
+        109,
+        386
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his father and his mother will say to him,",
+      "korean_translation": "그의 아버지와 어머니가 그에게 말할 것이니,",
+      "word_indices": [
+        37,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "\"You must die.",
+      "korean_translation": "네가 반드시 죽어야 한다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You do not speak true words.",
+      "korean_translation": "너는 참된 말을 하지 않는다.",
+      "word_indices": [
+        18,
+        69,
+        128
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The Lord has not spoken to you.\"",
+      "korean_translation": "주께서 너에게 말씀하지 않으셨다.\"",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then they will kill him.",
+      "korean_translation": "그때 그들이 그를 죽일 것이다.",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

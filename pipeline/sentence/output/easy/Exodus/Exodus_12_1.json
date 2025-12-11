@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Exodus 12:1",
+  "version": "EASY",
+  "original_text": "The Lord spoke to Moses and Aaron in the country of Egypt.",
+  "korean_text": "여호와께서 애굽 땅에서 모세와 아론에게 일러 말씀하시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord spoke",
+      "korean_translation": "주님께서 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to Moses and Aaron",
+      "korean_translation": "모세와 아론에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the country of Egypt",
+      "korean_translation": "애굽 땅에서",
+      "word_indices": [
+        117
+      ]
+    }
+  ]
+}

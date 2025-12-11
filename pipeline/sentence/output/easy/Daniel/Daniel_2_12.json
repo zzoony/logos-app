@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Daniel 2:12",
+  "version": "EASY",
+  "original_text": "This made the king very angry. So he said to his soldiers, ‘Kill all the wise men in Babylon.’",
+  "korean_text": "왕이 이로 말미암아 진노하고 통분하여 바벨론의 모든 지혜자들을 다 죽이라 명령하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This made the king very angry.",
+      "korean_translation": "이것은 왕을 매우 화나게 했다.",
+      "word_indices": [
+        3,
+        106
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So he said to his soldiers,",
+      "korean_translation": "그래서 그는 자신의 병사들에게 말했다,",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Kill all the wise men in Babylon.'",
+      "korean_translation": "'바빌론에 있는 모든 현자들을 죽여라.'",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

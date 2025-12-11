@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 13:17",
+  "version": "EASY",
+  "original_text": "The priest must look at the skin. It may be white. The priest must say that the disease has left the person. Then he will be clean.",
+  "korean_text": "제사장은 그를 진찰하여서 그 환부가 희어졌으면 환자를 정하다 할지니 그는 정하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest must look at the skin.",
+      "korean_translation": "제사장은 그 피부를 살펴보아야 합니다.",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It may be white.",
+      "korean_translation": "그것은 희색일 수 있습니다.",
+      "word_indices": [
+        520
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The priest must say that the disease has left the person.",
+      "korean_translation": "제사장은 그 질병이 그 사람을 떠났다고 말해야 합니다.",
+      "word_indices": [
+        24,
+        32,
+        340
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then he will be clean.",
+      "korean_translation": "그러면 그는 깨끗하게 될 것입니다.",
+      "word_indices": [
+        184
+      ]
+    }
+  ]
+}

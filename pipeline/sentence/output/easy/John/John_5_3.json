@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 5:3",
+  "version": "EASY",
+  "original_text": "A large number of sick people were lying in these places. Some of them were blind. Some of them could not walk properly. Some of them could not move their legs or their arms. [ They were waiting for when the water started to move.",
+  "korean_text": "그 안에 많은 병자, 맹인, 다리 저는 사람, 혈기 마른 사람들이 누워 [물의 움직임을 기다리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A large number of sick people were lying in these places.",
+      "korean_translation": "많은 병자들이 이곳에 누워 있었습니다.",
+      "word_indices": [
+        316,
+        489
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Some of them were blind.",
+      "korean_translation": "그들 중 일부는 맹인이었습니다.",
+      "word_indices": [
+        505
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Some of them could not walk properly.",
+      "korean_translation": "그들 중 일부는 제대로 걸을 수 없었습니다.",
+      "word_indices": [
+        204,
+        559
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Some of them could not move their legs or their arms.",
+      "korean_translation": "그들 중 일부는 다리나 팔을 움직일 수 없었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They were waiting for when the water started to move.",
+      "korean_translation": "그들은 물이 움직이기 시작할 때를 기다리고 있었습니다.",
+      "word_indices": [
+        60,
+        222
+      ]
+    }
+  ]
+}

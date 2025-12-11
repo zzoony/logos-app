@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Jeremiah 32:25",
+  "version": "EASY",
+  "original_text": "I know that Babylon's army will soon get power over the city. But you still told me to use my silver to buy that field. And people watched me write my name on the paper.’",
+  "korean_text": "주 여호와여 주께서 내게 은으로 밭을 사며 증인을 세우라 하셨으나 이 성은 갈대아인의 손에 넘기신 바 되었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that Babylon's army will soon get power over the city.",
+      "korean_translation": "나는 바빌론 군대가 곧 성에 대한 권력을 얻을 것이라는 것을 압니다.",
+      "word_indices": [
+        12,
+        20,
+        80
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But you still told me to use my silver to buy that field.",
+      "korean_translation": "하지만 당신은 여전히 나에게 내 은으로 그 밭을 사라고 말했습니다.",
+      "word_indices": [
+        152,
+        195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And people watched me write my name on the paper.",
+      "korean_translation": "그리고 사람들은 내가 종이에 내 이름을 쓰는 것을 지켜보았습니다.",
+      "word_indices": [
+        90,
+        124,
+        273,
+        828
+      ]
+    }
+  ]
+}

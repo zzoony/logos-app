@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Samuel 24:14",
+  "version": "EASY",
+  "original_text": "You are Israel's king. So why are you chasing after someone like me? I am less important than a dead dog or a little fly!",
+  "korean_text": "이스라엘 왕이 누구를 따라 나왔으며 누구의 뒤를 쫓나이까 죽은 개나 벼룩을 쫓음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are Israel's king.",
+      "korean_translation": "당신은 이스라엘의 왕이십니다.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So why are you chasing after someone like me?",
+      "korean_translation": "그런데 왜 나 같은 사람을 쫓고 계십니까?",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am less important than a dead dog",
+      "korean_translation": "나는 죽은 개보다도 중요하지 않습니다.",
+      "word_indices": [
+        133,
+        138
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or a little fly!",
+      "korean_translation": "또는 작은 파리보다도 말입니다!",
+      "word_indices": [
+        401
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Malachi 3:9",
+  "version": "EASY",
+  "original_text": "Yes, all of you are robbing me. The whole nation of Israel is guilty. So you will receive the punishment of a curse.",
+  "korean_text": "너희 곧 온 나라가 나의 것을 도둑질하였으므로 너희가 저주를 받았느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yes, all of you are robbing me.",
+      "korean_translation": "네, 너희 모두가 나를 훔치고 있다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The whole nation of Israel is guilty.",
+      "korean_translation": "이스라엘 온 민족이 죄가 있다.",
+      "word_indices": [
+        70,
+        169,
+        232
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So you will receive the punishment of a curse.",
+      "korean_translation": "그러므로 너희는 저주의 형벌을 받을 것이다.",
+      "word_indices": [
+        104,
+        274,
+        373
+      ]
+    }
+  ]
+}

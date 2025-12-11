@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 13:15",
+  "version": "EASY",
+  "original_text": "A person who is on the roof of his house must not go down into the house. He must not stop to get anything from his home.",
+  "korean_text": "지붕 위에 있는 자는 내려가지도 말고 집에 있는 무엇을 가지러 들어가지도 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person who is on the roof of his house",
+      "korean_translation": "자기 집 지붕 위에 있는 사람은",
+      "word_indices": [
+        24,
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must not go down into the house",
+      "korean_translation": "집 안으로 내려가지 말아야 한다",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must not stop to get anything",
+      "korean_translation": "그는 아무것도 가지러 멈추지 말아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from his home",
+      "korean_translation": "자기 집에서",
+      "word_indices": []
+    }
+  ]
+}

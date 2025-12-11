@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Matthew 25:12",
+  "version": "EASY",
+  "original_text": "But he replied, “I tell you, I do not know you.” ’",
+  "korean_text": "대답하여 이르되 진실로 너희에게 이르노니 내가 너희를 알지 못하노라 하였느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But he replied",
+      "korean_translation": "그러나 그가 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you",
+      "korean_translation": "내가 너희에게 말하노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I do not know you",
+      "korean_translation": "내가 너희를 알지 못한다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

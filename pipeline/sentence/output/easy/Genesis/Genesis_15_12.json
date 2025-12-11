@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Genesis 15:12",
+  "version": "EASY",
+  "original_text": "When the sun was going down, Abram started to sleep. Suddenly he became very afraid because it was dark all around him.",
+  "korean_text": "해 질 때에 아브람에게 깊은 잠이 임하고 큰 흑암과 두려움이 그에게 임하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the sun was going down",
+      "korean_translation": "해가 질 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Abram started to sleep",
+      "korean_translation": "아브람은 잠이 들기 시작했다",
+      "word_indices": [
+        222,
+        361
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Suddenly he became very afraid",
+      "korean_translation": "갑자기 그는 매우 두려워했다",
+      "word_indices": [
+        96,
+        590
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because it was dark all around him",
+      "korean_translation": "왜냐하면 그 주위가 어두웠기 때문이다",
+      "word_indices": []
+    }
+  ]
+}

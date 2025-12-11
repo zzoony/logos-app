@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Joshua 6:3",
+  "version": "EASY",
+  "original_text": "You and all your soldiers must march round the city once each day, for six days.",
+  "korean_text": "너희 모든 군사는 그 성을 둘러 성 주위를 매일 한 번씩 돌되 엿새 동안을 그리하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You and all your soldiers",
+      "korean_translation": "너와 너의 모든 군사들은",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must march round the city once each day",
+      "korean_translation": "매일 한 번씩 도시를 돌아야 한다",
+      "word_indices": [
+        20,
+        355
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for six days",
+      "korean_translation": "6일 동안",
+      "word_indices": []
+    }
+  ]
+}

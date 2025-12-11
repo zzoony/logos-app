@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Daniel 3:14",
+  "version": "EASY",
+  "original_text": "Nebuchadnezzar said to them, ‘Shadrach, Meshach and Abednego, is it true that you do not give honour to my gods? And you do not worship the gold statue that I have built?",
+  "korean_text": "느부갓네살이 그들에게 물어 이르되 사드락, 메삭, 아벳느고야 너희가 내 신을 섬기지 아니하며 내가 세운 금 신상에게 절하지 아니한다 하니 사실이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Nebuchadnezzar said to them",
+      "korean_translation": "느부갓네살이 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Shadrach, Meshach and Abednego",
+      "korean_translation": "사드락, 메삭, 그리고 아벳느고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is it true that you do not give honour to my gods?",
+      "korean_translation": "너희가 내 신들에게 경의를 표하지 않는 것이 사실이냐?",
+      "word_indices": [
+        4,
+        69,
+        291
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And you do not worship",
+      "korean_translation": "그리고 너희는 경배하지 않는다",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the gold statue that I have built?",
+      "korean_translation": "내가 만든 금 신상을?",
+      "word_indices": [
+        130,
+        917
+      ]
+    }
+  ]
+}

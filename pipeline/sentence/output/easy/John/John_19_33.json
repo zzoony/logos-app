@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 19:33",
+  "version": "EASY",
+  "original_text": "Then they went to Jesus. They saw that he was dead already. So they did not break his legs.",
+  "korean_text": "예수께 이르러서는 이미 죽으신 것을 보고 다리를 꺾지 아니하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then they went to Jesus",
+      "korean_translation": "그들이 예수께 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They saw that he was dead already",
+      "korean_translation": "그들은 그가 이미 죽었음을 보았습니다",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So they did not break his legs",
+      "korean_translation": "그래서 그들은 그의 다리를 부수지 않았습니다",
+      "word_indices": [
+        246
+      ]
+    }
+  ]
+}

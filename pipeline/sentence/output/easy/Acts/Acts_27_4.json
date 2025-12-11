@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Acts 27:4",
+  "version": "EASY",
+  "original_text": "Then we sailed out across the sea again. But the wind was blowing against our ship. So we sailed round the island called Cyprus. We sailed on the side of the island where the wind was not strong.",
+  "korean_text": "또 거기서 우리가 떠나가다가 맞바람을 피하여 구브로 해안을 의지하고 항해하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then we sailed out across the sea again.",
+      "korean_translation": "그때 우리는 다시 바다를 가로질러 항해했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But the wind was blowing against our ship.",
+      "korean_translation": "하지만 바람이 우리 배를 향해 불고 있었습니다.",
+      "word_indices": [
+        31,
+        303
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So we sailed round the island called Cyprus.",
+      "korean_translation": "그래서 우리는 키프로스라는 섬을 돌아 항해했습니다.",
+      "word_indices": [
+        47,
+        355,
+        799
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We sailed on the side of the island where the wind was not strong.",
+      "korean_translation": "우리는 바람이 강하지 않은 섬의 쪽을 따라 항해했습니다.",
+      "word_indices": [
+        43,
+        303,
+        799
+      ]
+    }
+  ]
+}

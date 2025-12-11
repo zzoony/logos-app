@@ -1,0 +1,61 @@
+{
+  "verse_reference": "1 Samuel 23:7",
+  "version": "EASY",
+  "original_text": "Someone told Saul that David was now at Keilah. Saul said, ‘God has now put David under my power. David has gone into a town that has high walls and strong gates. He will not be able to leave that place.’",
+  "korean_text": "다윗이 그일라에 온 것을 어떤 사람이 사울에게 알리매 사울이 이르되 하나님이 그를 내 손에 넘기셨도다 그가 문과 문 빗장이 있는 성읍에 들어갔으니 갇혔도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Someone told Saul",
+      "korean_translation": "누군가 사울에게 알렸다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that David was now at Keilah",
+      "korean_translation": "다윗이 이제 그일라에 있다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Saul said",
+      "korean_translation": "사울이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'God has now put David under my power",
+      "korean_translation": "하나님께서 이제 다윗을 내 권세 아래 두셨다",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "David has gone into a town",
+      "korean_translation": "다윗이 한 도시로 들어갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that has high walls and strong gates",
+      "korean_translation": "높은 성벽과 견고한 성문이 있는",
+      "word_indices": [
+        43,
+        148,
+        275
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "He will not be able to leave that place'",
+      "korean_translation": "그는 그 곳을 떠날 수 없을 것이다'",
+      "word_indices": [
+        16,
+        66
+      ]
+    }
+  ]
+}

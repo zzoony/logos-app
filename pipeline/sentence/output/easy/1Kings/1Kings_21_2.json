@@ -1,0 +1,66 @@
+{
+  "verse_reference": "1 Kings 21:2",
+  "version": "EASY",
+  "original_text": "King Ahab said to Naboth, ‘Give me your vineyard. I want to grow vegetables in it, because it is near to my palace. I will give you a better vineyard instead of that one. Or, if you want, I will pay you its value in money.’",
+  "korean_text": "아합이 나봇에게 말하여 이르되 네 포도원이 내 왕궁 곁에 가까이 있으니 내게 주어 채소 밭을 삼게 하라 내가 그 대신에 그보다 더 아름다운 포도원을 네게 줄 것이요 만일 네가 좋게 여기면 그 값을 돈으로 네게 주리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Ahab said to Naboth",
+      "korean_translation": "아합 왕이 나봇에게 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Give me your vineyard",
+      "korean_translation": "네 포도원을 내게 줘라",
+      "word_indices": [
+        4,
+        542
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I want to grow vegetables in it",
+      "korean_translation": "나는 그곳에 채소를 심고 싶다",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because it is near to my palace",
+      "korean_translation": "왜냐하면 그곳은 나의 궁전과 가깝기 때문이다",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will give you a better vineyard instead of that one",
+      "korean_translation": "나는 그것 대신 더 나은 포도원을 너에게 주겠다",
+      "word_indices": [
+        4,
+        247,
+        542
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Or, if you want",
+      "korean_translation": "또는, 만약 네가 원한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I will pay you its value in money",
+      "korean_translation": "나는 돈으로 그 값을 너에게 지불하겠다",
+      "word_indices": [
+        142,
+        782
+      ]
+    }
+  ]
+}

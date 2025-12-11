@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 4:34",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘My Father has sent me. I must do the things he wants me to do. I must finish the work that he has given to me to do. That is my food.",
+  "korean_text": "예수께서 이르시되 나의 양식은 나를 보내신 이의 뜻을 행하며 그의 일을 온전히 이루는 이것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My Father has sent me",
+      "korean_translation": "나의 아버지께서 나를 보내셨다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I must do the things he wants me to do",
+      "korean_translation": "나는 그가 원하시는 것들을 해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I must finish the work",
+      "korean_translation": "나는 그 일을 마쳐야 한다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that he has given to me to do",
+      "korean_translation": "그가 나에게 하라고 주신",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "That is my food",
+      "korean_translation": "그것이 나의 양식이다",
+      "word_indices": []
+    }
+  ]
+}

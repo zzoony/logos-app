@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Job 9:20",
+  "version": "EASY",
+  "original_text": "I am right. I have not done anything that is wrong. But my words would say that I am guilty. I am right. I have not done anything that is wrong.",
+  "korean_text": "가령 내가 의로울지라도 내 입이 나를 정죄하리니 가령 내가 온전할지라도 나를 정죄하시리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am right.",
+      "korean_translation": "나는 옳습니다.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have not done anything that is wrong.",
+      "korean_translation": "나는 잘못된 일을 한 적이 없습니다.",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But my words would say that I am guilty.",
+      "korean_translation": "하지만 내 말은 내가 죄가 있다고 말할 것입니다.",
+      "word_indices": [
+        128,
+        232
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am right.",
+      "korean_translation": "나는 옳습니다.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I have not done anything that is wrong.",
+      "korean_translation": "나는 잘못된 일을 한 적이 없습니다.",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

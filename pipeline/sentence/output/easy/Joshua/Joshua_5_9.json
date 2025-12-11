@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Joshua 5:9",
+  "version": "EASY",
+  "original_text": "The Lord said to Joshua, ‘This shows that you are no longer ashamed to be slaves, as you were in Egypt. Today I have taken away your shame.’",
+  "korean_text": "여호와께서 여호수아에게 이르시되 내가 오늘 애굽의 수치를 너희에게서 떠나가게 하였다 하셨으므로 그 곳 이름을 오늘까지 길갈이라 하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Joshua",
+      "korean_translation": "주께서 여호수아에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This shows that you are no longer ashamed",
+      "korean_translation": "이것은 너희가 더 이상 수치스러워하지 않음을 보여준다",
+      "word_indices": [
+        171
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to be slaves, as you were in Egypt",
+      "korean_translation": "너희가 이집트에서 있었던 것처럼 종이 되는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Today I have taken away your shame",
+      "korean_translation": "오늘 내가 너희의 수치를 없애주었다",
+      "word_indices": [
+        233,
+        659
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Leviticus 18:29",
+  "version": "EASY",
+  "original_text": "You must send away any person who does any of these bad things. You must send away any person who does any of these bad things.",
+  "korean_text": "이 가증한 모든 일을 행하는 자는 그 백성 중에서 끊어지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must send away",
+      "korean_translation": "너는 쫓아내야 한다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "any person who does any of these bad things.",
+      "korean_translation": "이러한 악한 일 중 어느 것이라도 행하는 사람을",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must send away any person",
+      "korean_translation": "너는 사람을 쫓아내야 한다",
+      "word_indices": [
+        24,
+        25
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who does any of these bad things.",
+      "korean_translation": "이러한 악한 일 중 어느 것이라도 행하는",
+      "word_indices": []
+    }
+  ]
+}

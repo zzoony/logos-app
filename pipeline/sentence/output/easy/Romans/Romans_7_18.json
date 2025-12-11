@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Romans 7:18",
+  "version": "EASY",
+  "original_text": "I know that there is nothing good in me. I am weak and human. I want to do what is good. But I am unable to do it.",
+  "korean_text": "내 속 곧 내 육신에 선한 것이 거하지 아니하는 줄을 아노니 원함은 내게 있으나 선을 행하는 것은 없노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that there is nothing good in me",
+      "korean_translation": "내 안에는 선한 것이 없다는 것을 압니다",
+      "word_indices": [
+        12,
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am weak and human",
+      "korean_translation": "나는 연약하고 인간입니다",
+      "word_indices": [
+        350
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I want to do what is good",
+      "korean_translation": "나는 선한 것을 하고 싶습니다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But I am unable to do it",
+      "korean_translation": "하지만 나는 그것을 할 수 없습니다",
+      "word_indices": [
+        1134
+      ]
+    }
+  ]
+}

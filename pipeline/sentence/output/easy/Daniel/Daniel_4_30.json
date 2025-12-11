@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Daniel 4:30",
+  "version": "EASY",
+  "original_text": "The king said, ‘Look how great Babylon is! It is the city that I have built to be my home as king. It shows that I am a great and powerful king!’",
+  "korean_text": "나 왕이 말하여 이르되 이 큰 바벨론은 내가 능력과 권세로 건설하여 나의 도성으로 삼고 이것으로 내 위엄의 영광을 나타낸 것이 아니냐 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king said",
+      "korean_translation": "왕이 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look how great Babylon is!",
+      "korean_translation": "바빌론이 얼마나 위대한지 보라!",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is the city",
+      "korean_translation": "그것은 도시이다",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I have built",
+      "korean_translation": "내가 건설한",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to be my home as king",
+      "korean_translation": "왕으로서의 나의 집으로 만들기 위해",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "It shows",
+      "korean_translation": "그것은 보여준다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that I am a great and powerful king!",
+      "korean_translation": "내가 위대하고 강력한 왕이라는 것을!",
+      "word_indices": [
+        3,
+        40
+      ]
+    }
+  ]
+}

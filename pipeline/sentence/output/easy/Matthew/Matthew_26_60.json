@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Matthew 26:60",
+  "version": "EASY",
+  "original_text": "Many people did come. And they said things against Jesus that were not true. But still the Jewish leaders could not find a reason to kill Jesus.",
+  "korean_text": "거짓 증인이 많이 왔으나 얻지 못하더니 후에 두 사람이 와서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many people did come.",
+      "korean_translation": "많은 사람들이 왔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And they said things against Jesus",
+      "korean_translation": "그리고 그들은 예수를 반대하는 말을 했습니다.",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that were not true.",
+      "korean_translation": "그것들은 사실이 아니었습니다.",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But still the Jewish leaders",
+      "korean_translation": "하지만 여전히 유대 지도자들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "could not find a reason to kill Jesus.",
+      "korean_translation": "예수를 죽일 이유를 찾지 못했습니다.",
+      "word_indices": [
+        26,
+        131,
+        453
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Exodus 16:5",
+  "version": "EASY",
+  "original_text": "On the sixth day, they must pick up and prepare twice as much bread.’",
+  "korean_text": "여섯째 날에는 그들이 그 거둔 것을 준비할지니 날마다 거두던 것의 갑절이 되리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On the sixth day",
+      "korean_translation": "여섯째 날에는",
+      "word_indices": [
+        891
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they must pick up",
+      "korean_translation": "그들은 거두어야 하고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and prepare twice as much bread",
+      "korean_translation": "두 배의 빵을 준비해야 합니다",
+      "word_indices": [
+        226,
+        229,
+        803
+      ]
+    }
+  ]
+}

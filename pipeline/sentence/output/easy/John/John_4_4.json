@@ -1,0 +1,28 @@
+{
+  "verse_reference": "John 4:4",
+  "version": "EASY",
+  "original_text": "On his way, he had to go through Samaria.",
+  "korean_text": "사마리아를 통과하여야 하겠는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On his way",
+      "korean_translation": "그의 길에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he had to go",
+      "korean_translation": "그는 가야만 했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "through Samaria",
+      "korean_translation": "사마리아를 통해",
+      "word_indices": [
+        192
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Acts 26:13",
+  "version": "EASY",
+  "original_text": "Listen to this, King Agrippa! I was travelling along the road at midday. Suddenly I saw a very bright light in the sky. It was much brighter than the sun. It shone all round me and also round the men who were with me.",
+  "korean_text": "왕이여 정오가 되어 길에서 보니 하늘로부터 해보다 더 밝은 빛이 나와 내 동행들을 둘러 비추는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Listen to this, King Agrippa!",
+      "korean_translation": "이것을 들으십시오, 아그립바 왕이여!",
+      "word_indices": [
+        3,
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I was travelling along the road at midday.",
+      "korean_translation": "나는 한낮에 길을 따라 여행하고 있었습니다.",
+      "word_indices": [
+        1001
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Suddenly I saw a very bright light in the sky.",
+      "korean_translation": "갑자기 나는 하늘에 매우 밝은 빛을 보았습니다.",
+      "word_indices": [
+        225,
+        410,
+        590
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It was much brighter than the sun.",
+      "korean_translation": "그것은 태양보다 훨씬 더 밝았습니다.",
+      "word_indices": [
+        1111
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It shone all round me",
+      "korean_translation": "그것은 내 주위를 모두 비췄습니다",
+      "word_indices": [
+        355
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and also round the men who were with me.",
+      "korean_translation": "그리고 나와 함께 있던 사람들 주위에도 비췄습니다.",
+      "word_indices": [
+        9,
+        355
+      ]
+    }
+  ]
+}

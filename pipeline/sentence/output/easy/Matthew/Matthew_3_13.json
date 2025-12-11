@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Matthew 3:13",
+  "version": "EASY",
+  "original_text": "Then Jesus went from Galilee to the Jordan River. He wanted John to baptize him.",
+  "korean_text": "이 때에 예수께서 갈릴리로부터 요단 강에 이르러 요한에게 세례를 받으려 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus went from Galilee",
+      "korean_translation": "그때 예수께서 갈릴리에서부터 가셨는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the Jordan River.",
+      "korean_translation": "요단 강으로 갔습니다.",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He wanted John to baptize him.",
+      "korean_translation": "그는 요한에게 자신에게 세례를 베풀기를 원했습니다.",
+      "word_indices": [
+        554
+      ]
+    }
+  ]
+}

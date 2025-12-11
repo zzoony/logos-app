@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Leviticus 27:10",
+  "version": "EASY",
+  "original_text": "The person must not change a good animal for a bad animal. He must not change a bad animal for a good animal. If the person does change one animal for another, both the animals become holy.",
+  "korean_text": "그것을 변경하여 우열간 바꾸지 못할 것이요 혹 가축으로 가축을 바꾸면 둘 다 거룩할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The person must not change a good animal for a bad animal",
+      "korean_translation": "그 사람은 좋은 동물을 나쁜 동물로 바꾸어서는 안 됩니다",
+      "word_indices": [
+        19,
+        24,
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He must not change a bad animal for a good animal",
+      "korean_translation": "그는 나쁜 동물을 좋은 동물로 바꾸어서는 안 됩니다",
+      "word_indices": [
+        19,
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the person does change one animal for another",
+      "korean_translation": "만약 그 사람이 한 동물을 다른 동물로 바꾼다면",
+      "word_indices": [
+        24,
+        48
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "both the animals become holy",
+      "korean_translation": "두 동물 모두 거룩하게 됩니다",
+      "word_indices": [
+        48,
+        84
+      ]
+    }
+  ]
+}

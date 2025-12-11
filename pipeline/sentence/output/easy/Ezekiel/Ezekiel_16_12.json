@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Ezekiel 16:12",
+  "version": "EASY",
+  "original_text": "I put a gold ring in your nose. I put rings in your ears. And I put a beautiful crown on your head.",
+  "korean_text": "코고리를 코에 달고 귀고리를 귀에 달고 화려한 왕관을 머리에 씌웠나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I put a gold ring in your nose.",
+      "korean_translation": "나는 네 코에 금반지를 넣었다.",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I put rings in your ears.",
+      "korean_translation": "나는 네 귀에 귀걸이를 달았다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And I put a beautiful crown on your head.",
+      "korean_translation": "그리고 나는 네 머리에 아름다운 왕관을 씌웠다.",
+      "word_indices": [
+        180,
+        654
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Numbers 14:7",
+  "version": "EASY",
+  "original_text": "Joshua and Caleb said to all the Israelites, ‘The land that we travelled through to explore is a very good land.",
+  "korean_text": "이스라엘 자손의 온 회중에게 말하여 이르되 우리가 두루 다니며 정탐한 땅은 심히 아름다운 땅이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joshua and Caleb said to all the Israelites",
+      "korean_translation": "여호수아와 갈렙이 모든 이스라엘 사람들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The land that we travelled through",
+      "korean_translation": "우리가 여행하며 지나온 그 땅은",
+      "word_indices": [
+        14,
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to explore is a very good land",
+      "korean_translation": "탐색하러 간 땅이 매우 좋은 땅입니다",
+      "word_indices": [
+        14,
+        19,
+        945
+      ]
+    }
+  ]
+}

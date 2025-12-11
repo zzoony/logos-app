@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 17:44",
+  "version": "EASY",
+  "original_text": "The Philistine said to David, ‘Come nearer to me. I will feed the birds and the wild animals with your dead body.’",
+  "korean_text": "그 블레셋 사람이 또 다윗에게 이르되 내게로 오라 내가 네 살을 공중의 새들과 들짐승들에게 주리라 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Philistine said to David",
+      "korean_translation": "블레셋 사람이 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Come nearer to me",
+      "korean_translation": "'내게 더 가까이 오너라",
+      "word_indices": [
+        1015
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will feed the birds",
+      "korean_translation": "새들에게 먹이를 주겠다",
+      "word_indices": [
+        344
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the wild animals with your dead body.'",
+      "korean_translation": "그리고 네 시체로 들짐승들도 먹이겠다.'",
+      "word_indices": [
+        48,
+        133
+      ]
+    }
+  ]
+}

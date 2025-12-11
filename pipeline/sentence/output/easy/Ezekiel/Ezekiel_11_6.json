@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Ezekiel 11:6",
+  "version": "EASY",
+  "original_text": "You have killed many people in this city. The streets are full of the dead bodies of people that you have killed.”",
+  "korean_text": "너희가 이 성읍에서 많이 죽여 그 거리를 시체로 채웠도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have killed many people",
+      "korean_translation": "당신은 많은 사람들을 죽였습니다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in this city",
+      "korean_translation": "이 도시에서",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The streets are full of the dead bodies",
+      "korean_translation": "거리에는 시체들로 가득합니다",
+      "word_indices": [
+        133,
+        387,
+        532
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of people that you have killed",
+      "korean_translation": "당신이 죽인 사람들의",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

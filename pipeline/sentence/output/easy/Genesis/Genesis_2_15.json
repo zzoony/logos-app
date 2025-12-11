@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 2:15",
+  "version": "EASY",
+  "original_text": "The Lord God took the man and he put him in the Garden of Eden. God wanted the man to work in the garden and to take care of it.",
+  "korean_text": "여호와 하나님이 그 사람을 이끌어 에덴 동산에 두어 그것을 경작하며 지키게 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord God took the man",
+      "korean_translation": "주 하나님이 그 사람을 데려가시고",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he put him in the Garden of Eden",
+      "korean_translation": "그를 에덴 동산에 두셨다",
+      "word_indices": [
+        442
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God wanted the man to work in the garden",
+      "korean_translation": "하나님은 그 사람이 동산에서 일하기를 원하셨다",
+      "word_indices": [
+        35,
+        442
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and to take care of it",
+      "korean_translation": "그리고 그것을 돌보기를 원하셨다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Samuel 17:27",
+  "version": "EASY",
+  "original_text": "The men then told David what the king had promised to do. They said, ‘This is what the king will do to help the man who kills that Philistine soldier.’",
+  "korean_text": "백성이 전과 같이 말하여 이르되 그를 죽이는 사람에게는 이러이러하게 하시리라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The men then told David",
+      "korean_translation": "그 사람들은 그때 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what the king had promised to do",
+      "korean_translation": "왕이 하기로 약속한 것을",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This is what the king will do",
+      "korean_translation": "이것이 왕이 할 일이다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to help the man",
+      "korean_translation": "그 사람을 돕기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who kills that Philistine soldier",
+      "korean_translation": "그 블레셋 병사를 죽이는 사람",
+      "word_indices": [
+        26,
+        36
+      ]
+    }
+  ]
+}

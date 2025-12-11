@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 3:10",
+  "version": "EASY",
+  "original_text": "The man replied, ‘I heard you in the garden. I was afraid because I had no clothes. So I hid myself from you.’",
+  "korean_text": "이르되 내가 동산에서 하나님의 소리를 듣고 내가 벗었으므로 두려워하여 숨었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man replied",
+      "korean_translation": "그 남자가 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I heard you in the garden",
+      "korean_translation": "나는 동산에서 당신의 음성을 들었습니다",
+      "word_indices": [
+        442
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was afraid",
+      "korean_translation": "내가 두려웠습니다",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I had no clothes",
+      "korean_translation": "왜냐하면 내게 옷이 없었기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So I hid myself from you",
+      "korean_translation": "그래서 내가 당신에게서 스스로를 숨겼습니다",
+      "word_indices": []
+    }
+  ]
+}

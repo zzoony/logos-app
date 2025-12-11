@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Leviticus 21:8",
+  "version": "EASY",
+  "original_text": "A priest is holy because he sacrifices the people's offerings to God. A priest is holy because I, the Lord, am holy.",
+  "korean_text": "너는 그를 거룩히 여기라 그는 네 하나님의 음식을 드림이니라 너는 그를 거룩히 여기라 너희를 거룩하게 하는 나 여호와는 거룩함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A priest is holy",
+      "korean_translation": "제사장은 거룩합니다",
+      "word_indices": [
+        32,
+        84
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he sacrifices the people's offerings to God",
+      "korean_translation": "왜냐하면 그는 백성의 제물을 하나님께 드리기 때문입니다",
+      "word_indices": [
+        200
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A priest is holy",
+      "korean_translation": "제사장은 거룩합니다",
+      "word_indices": [
+        32,
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I, the Lord, am holy",
+      "korean_translation": "왜냐하면 나 주는 거룩하기 때문입니다",
+      "word_indices": [
+        2,
+        84
+      ]
+    }
+  ]
+}

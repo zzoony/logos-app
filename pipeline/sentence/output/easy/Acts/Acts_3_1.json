@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Acts 3:1",
+  "version": "EASY",
+  "original_text": "One day, Peter and John went to the temple in Jerusalem. It was three o'clock in the afternoon. This was the time that everyone went there to pray.",
+  "korean_text": "제 구 시 기도 시간에 베드로와 요한이 성전에 올라갈새",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day, Peter and John went to the temple in Jerusalem.",
+      "korean_translation": "어느 날, 베드로와 요한은 예루살렘에 있는 성전에 갔습니다.",
+      "word_indices": [
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It was three o'clock in the afternoon.",
+      "korean_translation": "오후 세 시였습니다.",
+      "word_indices": [
+        166,
+        1149
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This was the time that everyone went there to pray.",
+      "korean_translation": "이것은 모든 사람들이 기도하기 위해 그곳에 가던 시간이었습니다.",
+      "word_indices": [
+        81,
+        97
+      ]
+    }
+  ]
+}

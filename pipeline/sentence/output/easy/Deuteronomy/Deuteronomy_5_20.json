@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Deuteronomy 5:20",
+  "version": "EASY",
+  "original_text": "You must not say false things against your neighbour.",
+  "korean_text": "네 이웃에 대하여 거짓 증거하지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not say",
+      "korean_translation": "너는 말해서는 안 되느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "false things",
+      "korean_translation": "거짓된 것들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "against your neighbour",
+      "korean_translation": "네 이웃을 해하여",
+      "word_indices": [
+        31,
+        652
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Luke 2:42",
+  "version": "EASY",
+  "original_text": "When Jesus was 12 years old, his parents took him with them to Jerusalem. They went as usual for the festival.",
+  "korean_text": "예수께서 열두 살 되었을 때에 그들이 이 절기의 관례를 따라 올라갔다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Jesus was 12 years old",
+      "korean_translation": "예수님이 12세 되셨을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "his parents took him with them",
+      "korean_translation": "그의 부모님은 그를 데리고 가셨다",
+      "word_indices": [
+        580
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Jerusalem",
+      "korean_translation": "예루살렘으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They went as usual",
+      "korean_translation": "그들은 평소처럼 갔다",
+      "word_indices": [
+        1016
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for the festival",
+      "korean_translation": "축제를 위해",
+      "word_indices": [
+        436
+      ]
+    }
+  ]
+}

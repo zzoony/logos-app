@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Leviticus 11:39",
+  "version": "EASY",
+  "original_text": "An animal that is good for food might die. A man might touch its dead body. If he does, they must keep him separate from the people until the evening.",
+  "korean_text": "너희가 먹을 만한 짐승이 죽은 때에 그 주검을 만지는 자는 저녁까지 부정할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An animal that is good for food might die",
+      "korean_translation": "음식으로 좋은 동물이 죽을 수 있다",
+      "word_indices": [
+        19,
+        48
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A man might touch its dead body",
+      "korean_translation": "사람이 그 죽은 시체를 만질 수 있다",
+      "word_indices": [
+        133,
+        348
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If he does",
+      "korean_translation": "그가 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they must keep him separate from the people",
+      "korean_translation": "그들은 그를 사람들에게서 분리시켜야 한다",
+      "word_indices": [
+        101,
+        384
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until the evening",
+      "korean_translation": "저녁까지",
+      "word_indices": []
+    }
+  ]
+}

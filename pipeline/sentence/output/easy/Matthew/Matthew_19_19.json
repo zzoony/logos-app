@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 19:19",
+  "version": "EASY",
+  "original_text": "Love your father and your mother and obey them. Love other people as much as you love yourself.’",
+  "korean_text": "네 부모를 공경하라, 네 이웃을 네 자신과 같이 사랑하라 하신 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Love your father and your mother",
+      "korean_translation": "네 아버지와 어머니를 사랑하라",
+      "word_indices": [
+        37,
+        82,
+        202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and obey them",
+      "korean_translation": "그리고 그들에게 순종하라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Love other people",
+      "korean_translation": "다른 사람들을 사랑하라",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as much as you love yourself",
+      "korean_translation": "네 자신을 사랑하는 것만큼",
+      "word_indices": [
+        82
+      ]
+    }
+  ]
+}

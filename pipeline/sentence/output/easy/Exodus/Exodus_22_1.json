@@ -1,0 +1,70 @@
+{
+  "verse_reference": "Exodus 22:1",
+  "version": "EASY",
+  "original_text": "Perhaps someone may take another person's cow or sheep for himself. He may kill it or he may sell it. As punishment, he must pay the owner five cows for each cow that he has taken. He must pay four sheep for each sheep that he has taken.",
+  "korean_text": "사람이 소나 양을 도둑질하여 잡거나 팔면 그는 소 한 마리에 소 다섯 마리로 갚고 양 한 마리에 양 네 마리로 갚을지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Perhaps someone may take another person's cow or sheep for himself.",
+      "korean_translation": "아마도 어떤 사람이 다른 사람의 소나 양을 자신을 위해 가져갈 수도 있습니다.",
+      "word_indices": [
+        24,
+        94,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He may kill it",
+      "korean_translation": "그는 그것을 죽일 수도 있고",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or he may sell it.",
+      "korean_translation": "또는 그것을 팔 수도 있습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "As punishment,",
+      "korean_translation": "벌로서",
+      "word_indices": [
+        274
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he must pay the owner five cows",
+      "korean_translation": "그는 주인에게 소 다섯 마리를 지불해야 합니다",
+      "word_indices": [
+        976
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for each cow that he has taken.",
+      "korean_translation": "자신이 가져간 각 소에 대해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "He must pay four sheep",
+      "korean_translation": "그는 양 네 마리를 지불해야 합니다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "for each sheep that he has taken.",
+      "korean_translation": "자신이 가져간 각 양에 대해",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

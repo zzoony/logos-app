@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 21:7",
+  "version": "EASY",
+  "original_text": "They brought the donkey and the young donkey to Jesus. They put their coats on the backs of the donkeys. Then Jesus got up and sat on one of them.",
+  "korean_text": "나귀와 나귀 새끼를 끌고 와서 자기들의 겉옷을 그 위에 얹으매 예수께서 그 위에 타시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They brought the donkey",
+      "korean_translation": "그들은 나귀를 데려왔습니다",
+      "word_indices": [
+        310
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the young donkey to Jesus",
+      "korean_translation": "그리고 어린 나귀를 예수께 데려왔습니다",
+      "word_indices": [
+        108,
+        310
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They put their coats",
+      "korean_translation": "그들은 그들의 겉옷을 올려놓았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the backs of the donkeys",
+      "korean_translation": "나귀들의 등 위에",
+      "word_indices": [
+        310
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then Jesus got up",
+      "korean_translation": "그때 예수께서 일어나셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and sat on one of them",
+      "korean_translation": "그리고 그들 중 하나 위에 앉으셨습니다",
+      "word_indices": []
+    }
+  ]
+}

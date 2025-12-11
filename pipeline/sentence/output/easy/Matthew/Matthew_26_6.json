@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 26:6",
+  "version": "EASY",
+  "original_text": "Then Jesus went to Bethany and he visited Simon at his house. At one time, Simon had had a bad disease of the skin.",
+  "korean_text": "예수께서 베다니 나병환자 시몬의 집에 계실 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus went to Bethany",
+      "korean_translation": "그때 예수님은 베다니로 가셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he visited Simon at his house",
+      "korean_translation": "그리고 그는 시몬의 집을 방문했다",
+      "word_indices": [
+        67,
+        380
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "At one time, Simon had had a bad disease",
+      "korean_translation": "한때, 시몬은 심한 병을 앓았었다",
+      "word_indices": [
+        340
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the skin",
+      "korean_translation": "피부의",
+      "word_indices": []
+    }
+  ]
+}

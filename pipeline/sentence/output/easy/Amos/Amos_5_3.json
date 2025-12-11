@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Amos 5:3",
+  "version": "EASY",
+  "original_text": "This is what the Lord God says to you: ‘1,000 soldiers will go out from a city to fight, but only 100 soldiers will come back. From another city, 100 soldiers will go out to fight, but only ten will come back.’",
+  "korean_text": "주 여호와께서 이와 같이 말씀하시되 이스라엘 중에서 천 명이 행군해 나가던 성읍에는 백 명만 남고 백 명이 행군해 나가던 성읍에는 열 명만 남으리라 하셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is what the Lord God says to you:",
+      "korean_translation": "이것은 주 하나님이 너희에게 하시는 말씀이다:",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'1,000 soldiers will go out from a city to fight,",
+      "korean_translation": "'천 명의 군사가 한 성에서 싸우러 나갈 것이나,",
+      "word_indices": [
+        20,
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but only 100 soldiers will come back.",
+      "korean_translation": "단지 백 명의 군사만 돌아오리라.",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "From another city,",
+      "korean_translation": "다른 성에서는,",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "100 soldiers will go out to fight,",
+      "korean_translation": "백 명의 군사가 싸우러 나갈 것이나,",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but only ten will come back.'",
+      "korean_translation": "단지 열 명만 돌아오리라.'",
+      "word_indices": []
+    }
+  ]
+}

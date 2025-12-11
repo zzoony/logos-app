@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Proverbs 25:6",
+  "version": "EASY",
+  "original_text": "When you stand in front of the king, do not be proud. Do not stand where the important people stand.",
+  "korean_text": "왕 앞에서 스스로 높은 체하지 말며 대인들의 자리에 서지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you stand in front of the king",
+      "korean_translation": "왕 앞에 설 때",
+      "word_indices": [
+        3,
+        77,
+        123
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "do not be proud",
+      "korean_translation": "교만하지 말라",
+      "word_indices": [
+        257
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not stand where the important people stand",
+      "korean_translation": "귀인들이 서는 곳에 서지 말라",
+      "word_indices": [
+        77,
+        138
+      ]
+    }
+  ]
+}

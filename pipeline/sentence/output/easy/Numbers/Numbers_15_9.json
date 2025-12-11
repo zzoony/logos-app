@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Numbers 15:9",
+  "version": "EASY",
+  "original_text": "Also, you must offer 3 kilograms of flour. Mix this flour with 2 litres of olive oil. Do that if the bull is a burnt offering, or a friendship offering. Do the same if you offer this sacrifice because of a promise.",
+  "korean_text": "소제로 고운 가루 십분의 삼 에바에 기름 반 힌을 섞어 그 수송아지와 함께 드리고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Also, you must offer 3 kilograms of flour.",
+      "korean_translation": "또한, 3킬로그램의 밀가루를 바쳐야 합니다.",
+      "word_indices": [
+        9,
+        55,
+        435,
+        476
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Mix this flour with 2 litres of olive oil.",
+      "korean_translation": "이 밀가루를 2리터의 올리브유와 섞으세요.",
+      "word_indices": [
+        358,
+        435
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do that if the bull is a burnt offering.",
+      "korean_translation": "그 황소가 번제물인 경우 그렇게 하세요.",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do that if the bull is a friendship offering.",
+      "korean_translation": "그 황소가 화목제물인 경우 그렇게 하세요.",
+      "word_indices": [
+        55,
+        608
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Do the same if you offer this sacrifice because of a promise.",
+      "korean_translation": "약속 때문에 이 제물을 드리는 경우에도 똑같이 하세요.",
+      "word_indices": [
+        55,
+        74,
+        126
+      ]
+    }
+  ]
+}

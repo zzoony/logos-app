@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 20:24",
+  "version": "EASY",
+  "original_text": "So David hid in the field. At the time of the new moon, the king sat down to eat the special meal.",
+  "korean_text": "다윗이 들에 숨으니라 초하루가 되매 왕이 앉아 음식을 먹을 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So David hid in the field.",
+      "korean_translation": "그래서 다윗은 들에 숨었습니다.",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "At the time of the new moon,",
+      "korean_translation": "新月の時に、",
+      "word_indices": [
+        623
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the king sat down to eat",
+      "korean_translation": "王は食事をするために座り、",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the special meal.",
+      "korean_translation": "特別な食事をしました。",
+      "word_indices": [
+        68
+      ]
+    }
+  ]
+}

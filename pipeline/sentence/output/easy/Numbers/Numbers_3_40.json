@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Numbers 3:40",
+  "version": "EASY",
+  "original_text": "The Lord said to Moses, ‘Record all the firstborn sons of the Israelites. Record every male who is one month old or older. Make a list of their names.",
+  "korean_text": "여호와께서 또 모세에게 이르시되 이스라엘 자손의 처음 태어난 남자를 일 개월 이상으로 다 계수하여 그 명수를 기록하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Moses",
+      "korean_translation": "주님께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Record all the firstborn sons",
+      "korean_translation": "모든 장남들을 기록하라",
+      "word_indices": [
+        500,
+        717
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the Israelites",
+      "korean_translation": "이스라엘 사람들의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Record every male",
+      "korean_translation": "모든 남자를 기록하라",
+      "word_indices": [
+        717
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who is one month old or older",
+      "korean_translation": "한 달 이상 된 자들을",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Make a list of their names",
+      "korean_translation": "그들의 이름 목록을 만들라",
+      "word_indices": []
+    }
+  ]
+}

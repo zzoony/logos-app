@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Samuel 28:12",
+  "version": "EASY",
+  "original_text": "The woman screamed when she saw Samuel. She said to Saul, ‘You have deceived me! You are King Saul!’",
+  "korean_text": "여인이 사무엘을 보고 큰 소리로 외치며 사울에게 말하여 이르되 당신이 어찌하여 나를 속이셨나이까 당신이 사울이시니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman screamed",
+      "korean_translation": "그 여자는 비명을 질렀습니다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when she saw Samuel",
+      "korean_translation": "사무엘을 보았을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She said to Saul",
+      "korean_translation": "그녀는 사울에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have deceived me!",
+      "korean_translation": "당신은 나를 속였습니다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You are King Saul!",
+      "korean_translation": "당신은 사울 왕이십니다!",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

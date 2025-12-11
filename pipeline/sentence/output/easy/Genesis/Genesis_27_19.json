@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Genesis 27:19",
+  "version": "EASY",
+  "original_text": "Jacob said, ‘I am Esau. I am your firstborn son. I have done as you told me. Please sit up. Eat some of the meat from the wild animal that I killed. Then you can bless me.’",
+  "korean_text": "야곱이 아버지에게 대답하되 나는 아버지의 맏아들 에서로소이다 아버지께서 내게 명하신 대로 내가 하였사오니 원하건대 일어나 앉아서 내가 사냥한 고기를 잡수시고 아버지 마음껏 내게 축복하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob said",
+      "korean_translation": "야곱이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am Esau",
+      "korean_translation": "나는 에서입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am your firstborn son",
+      "korean_translation": "나는 당신의 맏아들입니다",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have done as you told me",
+      "korean_translation": "당신이 내게 말한 대로 했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Please sit up",
+      "korean_translation": "일어나 앉으십시오",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Eat some of the meat",
+      "korean_translation": "고기를 좀 드십시오",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "from the wild animal that I killed",
+      "korean_translation": "내가 잡은 들짐승의",
+      "word_indices": [
+        26,
+        48
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Then you can bless me",
+      "korean_translation": "그러면 나를 축복하실 수 있습니다",
+      "word_indices": []
+    }
+  ]
+}

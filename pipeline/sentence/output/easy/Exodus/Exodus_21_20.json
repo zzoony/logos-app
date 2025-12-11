@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 21:20",
+  "version": "EASY",
+  "original_text": "Perhaps a master may hit his male slave or his female slave with a stick. If the slave dies because of this, you must punish the master.",
+  "korean_text": "사람이 매로 그 남종이나 여종을 쳐서 당장에 죽으면 반드시 형벌을 받으려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Perhaps a master may hit his male slave",
+      "korean_translation": "아마도 주인은 자신의 남성 노예를 때릴 수 있습니다",
+      "word_indices": [
+        176,
+        214
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or his female slave with a stick",
+      "korean_translation": "또는 막대기로 자신의 여성 노예를 때릴 수 있습니다",
+      "word_indices": [
+        214,
+        356,
+        455
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the slave dies because of this",
+      "korean_translation": "만약 노예가 이것 때문에 죽는다면",
+      "word_indices": [
+        214
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you must punish the master",
+      "korean_translation": "당신은 그 주인을 벌해야 합니다",
+      "word_indices": [
+        176
+      ]
+    }
+  ]
+}

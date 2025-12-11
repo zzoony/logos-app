@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Kings 4:30",
+  "version": "EASY",
+  "original_text": "Solomon was wiser than all the wise men in the East and all the wise men in Egypt.",
+  "korean_text": "솔로몬의 지혜가 동쪽 모든 사람의 지혜와 애굽의 모든 지혜보다 뛰어난지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon was wiser",
+      "korean_translation": "솔로몬은 더 지혜로웠다",
+      "word_indices": [
+        983
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than all the wise men in the East",
+      "korean_translation": "동쪽의 모든 지혜로운 사람들보다",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and all the wise men in Egypt",
+      "korean_translation": "그리고 이집트의 모든 지혜로운 사람들보다",
+      "word_indices": []
+    }
+  ]
+}

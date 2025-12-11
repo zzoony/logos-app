@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Numbers 20:28",
+  "version": "EASY",
+  "original_text": "Moses took the priest's clothes from Aaron and he put them on Eleazar. Then Aaron died there, at the top of the mountain. Moses and Eleazar walked back down the mountain.",
+  "korean_text": "모세가 아론의 옷을 벗겨 그의 아들 엘르아살에게 입히매 아론이 그 산 꼭대기에서 죽으니라 모세와 엘르아살이 산에서 내려오니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses took the priest's clothes from Aaron",
+      "korean_translation": "모세가 아론에게서 제사장의 옷을 가져왔습니다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he put them on Eleazar",
+      "korean_translation": "그리고 그것들을 엘르아살에게 입혔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then Aaron died there",
+      "korean_translation": "그때 아론이 그곳에서 죽었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the top of the mountain",
+      "korean_translation": "산꼭대기에서",
+      "word_indices": [
+        175
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Moses and Eleazar walked back down the mountain",
+      "korean_translation": "모세와 엘르아살은 산을 내려왔습니다",
+      "word_indices": [
+        175,
+        204
+      ]
+    }
+  ]
+}

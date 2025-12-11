@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 19:19",
+  "version": "EASY",
+  "original_text": "Pilate wrote a notice. Then the soldiers put it on the cross. It said: ‘Jesus from Nazareth, the King of the Jews’.",
+  "korean_text": "빌라도가 패를 써서 십자가 위에 붙이니 나사렛 예수 유대인의 왕이라 기록되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pilate wrote a notice.",
+      "korean_translation": "빌라도가 게시판을 썼습니다.",
+      "word_indices": [
+        1180
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then the soldiers put it on the cross.",
+      "korean_translation": "그리고 군병들이 그것을 십자가에 올렸습니다.",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It said:",
+      "korean_translation": "그것은 이렇게 쓰여 있었습니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Jesus from Nazareth,",
+      "korean_translation": "'나사렛 예수,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the King of the Jews'.",
+      "korean_translation": "유대인의 왕'.",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

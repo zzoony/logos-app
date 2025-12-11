@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Acts 12:13",
+  "version": "EASY",
+  "original_text": "Peter knocked on the outside door of the house. A servant girl called Rhoda came to the door.",
+  "korean_text": "베드로가 대문을 두드린대 로데라 하는 여자 아이가 영접하러 나왔다가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter knocked on the outside door",
+      "korean_translation": "베드로가 바깥문을 노크했습니다",
+      "word_indices": [
+        267,
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of the house",
+      "korean_translation": "그 집의",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A servant girl called Rhoda",
+      "korean_translation": "로다라는 여종이",
+      "word_indices": [
+        44,
+        47
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "came to the door",
+      "korean_translation": "문으로 왔습니다",
+      "word_indices": [
+        267
+      ]
+    }
+  ]
+}

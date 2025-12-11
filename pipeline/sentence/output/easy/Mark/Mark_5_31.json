@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 5:31",
+  "version": "EASY",
+  "original_text": "His disciples replied, ‘You can see that the crowd is pushing against you. So you cannot ask who touched you!’",
+  "korean_text": "제자들이 여짜오되 무리가 에워싸 미는 것을 보시며 누가 내게 손을 대었느냐 물으시나이까 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "His disciples replied",
+      "korean_translation": "그의 제자들이 대답하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You can see that the crowd is pushing against you",
+      "korean_translation": "무리가 당신을 밀고 있는 것을 보실 수 있습니다",
+      "word_indices": [
+        31,
+        265
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So you cannot ask who touched you",
+      "korean_translation": "그러므로 당신은 당신을 만진 사람이 누구인지 물을 수 없습니다",
+      "word_indices": [
+        114,
+        348
+      ]
+    }
+  ]
+}

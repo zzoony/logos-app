@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 5:11",
+  "version": "EASY",
+  "original_text": "The man replied, ‘The man who made me well said to me, “Pick up your mat and walk.” ’",
+  "korean_text": "대답하되 나를 낫게 한 그가 자리를 들고 걸어가라 하더라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man replied",
+      "korean_translation": "그 사람이 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The man who made me well",
+      "korean_translation": "나를 고쳐주신 그 사람",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "said to me",
+      "korean_translation": "나에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Pick up your mat",
+      "korean_translation": "너의 매트를 들어라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and walk",
+      "korean_translation": "그리고 걸어라",
+      "word_indices": [
+        204
+      ]
+    }
+  ]
+}

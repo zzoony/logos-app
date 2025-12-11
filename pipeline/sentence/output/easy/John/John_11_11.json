@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 11:11",
+  "version": "EASY",
+  "original_text": "After Jesus said that, he said to them, ‘Our friend Lazarus is sleeping. But I will go there to wake him up.’",
+  "korean_text": "이 말씀을 하신 후에 또 이르시되 우리 친구 나사로가 잠들었도다 그러나 내가 깨우러 가노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After Jesus said that",
+      "korean_translation": "예수님이 그렇게 말씀하신 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he said to them",
+      "korean_translation": "그가 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Our friend Lazarus is sleeping",
+      "korean_translation": "우리의 친구 나사로가 자고 있다",
+      "word_indices": [
+        113,
+        361
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But I will go there",
+      "korean_translation": "하지만 내가 그곳에 가겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to wake him up.'",
+      "korean_translation": "그를 깨우기 위해'",
+      "word_indices": []
+    }
+  ]
+}

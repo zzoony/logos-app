@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Corinthians 12:26",
+  "version": "EASY",
+  "original_text": "Then if one part of the body hurts, every other part also hurts. If people praise one part, every part of the body is also happy.",
+  "korean_text": "만일 한 지체가 고통을 받으면 모든 지체가 함께 고통을 받고 한 지체가 영광을 얻으면 모든 지체가 함께 즐거워하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then if one part of the body hurts,",
+      "korean_translation": "그러면 몸의 한 부분이 아프면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "every other part also hurts.",
+      "korean_translation": "모든 다른 부분도 또한 아픕니다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If people praise one part,",
+      "korean_translation": "사람들이 한 부분을 칭찬하면,",
+      "word_indices": [
+        216
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "every part of the body is also happy.",
+      "korean_translation": "몸의 모든 부분도 또한 기뻐합니다.",
+      "word_indices": [
+        9,
+        57
+      ]
+    }
+  ]
+}

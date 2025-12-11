@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Kings 3:24",
+  "version": "EASY",
+  "original_text": "So the king said, ‘Bring a sword to me!’ So they brought a sword to the king.",
+  "korean_text": "또 이르되 칼을 내게로 가져오라 하니 칼을 왕 앞으로 가져온지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So the king said",
+      "korean_translation": "그러자 왕이 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Bring a sword to me!'",
+      "korean_translation": "'나에게 검을 가져오라!'",
+      "word_indices": [
+        292
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So they brought a sword",
+      "korean_translation": "그래서 그들은 검을 가져왔다",
+      "word_indices": [
+        292
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to the king",
+      "korean_translation": "왕에게",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "verse_reference": "Matthew 1:2",
+  "version": "EASY",
+  "original_text": "Abraham was the father of Isaac.",
+  "korean_text": "아브라함이 이삭을 낳고 이삭은 야곱을 낳고 야곱은 유다와 그의 형제들을 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham was the father",
+      "korean_translation": "아브라함은 아버지였습니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of Isaac",
+      "korean_translation": "이삭의",
+      "word_indices": []
+    }
+  ]
+}

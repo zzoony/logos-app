@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Mark 1:11",
+  "version": "EASY",
+  "original_text": "A voice spoke from heaven: ‘You are my Son and I love you. You make me very happy.’",
+  "korean_text": "하늘로부터 소리가 나기를 너는 내 사랑하는 아들이라 내가 너를 기뻐하노라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A voice spoke from heaven:",
+      "korean_translation": "하늘에서 목소리가 들려왔습니다:",
+      "word_indices": [
+        170,
+        335
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are my Son",
+      "korean_translation": "너는 내 아들이며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I love you.",
+      "korean_translation": "내가 너를 사랑한다.",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You make me very happy.",
+      "korean_translation": "너는 나를 매우 기쁘게 한다.",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

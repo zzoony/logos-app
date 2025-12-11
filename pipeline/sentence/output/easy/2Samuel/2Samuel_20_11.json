@@ -1,0 +1,48 @@
+{
+  "verse_reference": "2 Samuel 20:11",
+  "version": "EASY",
+  "original_text": "One of Joab's soldiers stood beside Amasa's dead body. He shouted, ‘If you are fighting for Joab and for King David, you must follow Joab!’",
+  "korean_text": "요압의 청년 중 하나가 아마사 곁에 서서 이르되 요압을 좋아하는 자가 누구이며 요압을 따라 다윗을 위하는 자는 누구냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One of Joab's soldiers stood beside Amasa's dead body.",
+      "korean_translation": "요압의 군사 중 한 사람이 아마사의 죽은 시체 곁에 서 있었습니다.",
+      "word_indices": [
+        36,
+        133,
+        343
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He shouted,",
+      "korean_translation": "그가 외쳤습니다,",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you are fighting for Joab",
+      "korean_translation": "만약 당신이 요압을 위해 싸우고 있다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and for King David,",
+      "korean_translation": "그리고 다윗 왕을 위한 것이라면,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you must follow Joab!",
+      "korean_translation": "당신은 요압을 따라야 합니다!",
+      "word_indices": [
+        388
+      ]
+    }
+  ]
+}

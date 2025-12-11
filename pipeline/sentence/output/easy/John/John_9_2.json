@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 9:2",
+  "version": "EASY",
+  "original_text": "Jesus' disciples asked him, ‘Teacher, why was this man blind when he was born? Was it because he himself did something wrong? Or was it because his parents did something wrong?’",
+  "korean_text": "제자들이 물어 이르되 랍비여 이 사람이 맹인으로 난 것이 누구의 죄로 인함이니이까 자기니이까 그의 부모니이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus' disciples asked him",
+      "korean_translation": "예수님의 제자들이 그에게 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Teacher, why was this man blind",
+      "korean_translation": "'선생님, 이 사람은 왜 맹인이 되었습니까",
+      "word_indices": [
+        280,
+        505
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when he was born?'",
+      "korean_translation": "태어날 때부터였습니까?'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Was it because he himself did something wrong?",
+      "korean_translation": "그가 자기가 잘못한 것 때문입니까?",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Or was it because his parents did something wrong?'",
+      "korean_translation": "아니면 그의 부모가 잘못한 것 때문입니까?'",
+      "word_indices": [
+        71,
+        580
+      ]
+    }
+  ]
+}

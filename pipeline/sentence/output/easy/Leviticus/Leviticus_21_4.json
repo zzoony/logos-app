@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Leviticus 21:4",
+  "version": "EASY",
+  "original_text": "The priest must not touch a dead person who is married to a person of his family. That would make him unclean.",
+  "korean_text": "제사장은 그의 백성의 어른인즉 자신을 더럽혀 속되게 하지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest must not touch a dead person",
+      "korean_translation": "제사장은 죽은 사람을 만져서는 안 됩니다",
+      "word_indices": [
+        24,
+        32,
+        133,
+        348
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who is married to a person of his family",
+      "korean_translation": "그가 자신의 가족과 결혼한 사람이면",
+      "word_indices": [
+        24,
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That would make him unclean",
+      "korean_translation": "그것은 그를 부정하게 만들 것입니다",
+      "word_indices": [
+        304
+      ]
+    }
+  ]
+}

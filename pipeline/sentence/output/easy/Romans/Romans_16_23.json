@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Romans 16:23",
+  "version": "EASY",
+  "original_text": "Gaius also says ‘hello’ to you. I, Paul, am staying in his house. The group of Christians here also meet together in his house. Erastus also says ‘hello’ to you. He is an officer who takes care of the city's money. Our Christian friend Quartus says ‘hello’ to you too.",
+  "korean_text": "나와 온 교회를 돌보아 주는 가이오도 너희에게 문안하고 이 성의 재무관 에라스도와 형제 구아도도 너희에게 문안하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Gaius also says 'hello' to you.",
+      "korean_translation": "가이오도 너에게 안부를 전한다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I, Paul, am staying in his house.",
+      "korean_translation": "나 바울은 그의 집에 머물고 있다.",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The group of Christians here also meet together in his house.",
+      "korean_translation": "이곳의 그리스도인들도 그의 집에서 함께 모인다.",
+      "word_indices": [
+        9,
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Erastus also says 'hello' to you.",
+      "korean_translation": "에라스도도 너에게 안부를 전한다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He is an officer who takes care of the city's money.",
+      "korean_translation": "그는 도시의 재정을 관리하는 관리이다.",
+      "word_indices": [
+        20,
+        98,
+        142
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Our Christian friend Quartus says 'hello' to you too.",
+      "korean_translation": "우리의 그리스도인 친구 쿠아르투스도 너에게 안부를 전한다.",
+      "word_indices": [
+        113
+      ]
+    }
+  ]
+}

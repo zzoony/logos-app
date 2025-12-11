@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Genesis 29:5",
+  "version": "EASY",
+  "original_text": "Jacob said, ‘Do you know Laban? He is Nahor's grandson.’ The shepherds replied, ‘Yes, we know him.’",
+  "korean_text": "야곱이 그들에게 이르되 너희가 나홀의 손자 라반을 아느냐 그들이 이르되 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob said",
+      "korean_translation": "야곱이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do you know Laban?",
+      "korean_translation": "당신은 라반을 알고 있나요?",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He is Nahor's grandson",
+      "korean_translation": "그는 나홀의 손자입니다",
+      "word_indices": [
+        556
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The shepherds replied",
+      "korean_translation": "목자들이 대답했습니다",
+      "word_indices": [
+        403
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Yes, we know him",
+      "korean_translation": "네, 우리는 그를 압니다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

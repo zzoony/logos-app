@@ -1,0 +1,37 @@
+{
+  "verse_reference": "2 Kings 21:25",
+  "version": "EASY",
+  "original_text": "The other things that Amon did are written in a book. The book is called ‘The history of Judah's kings’",
+  "korean_text": "아몬이 행한 바 남은 사적은 유다 왕 역대지략에 기록되지 아니하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The other things that Amon did",
+      "korean_translation": "아몬이 행한 다른 일들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "are written in a book",
+      "korean_translation": "책에 기록되어 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The book is called",
+      "korean_translation": "그 책은",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'The history of Judah's kings'",
+      "korean_translation": "'유다 왕들의 역사'라고 불린다",
+      "word_indices": [
+        3,
+        663
+      ]
+    }
+  ]
+}

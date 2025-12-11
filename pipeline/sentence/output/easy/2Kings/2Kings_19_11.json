@@ -1,0 +1,59 @@
+{
+  "verse_reference": "2 Kings 19:11",
+  "version": "EASY",
+  "original_text": "You have heard how the kings of Assyria have completely destroyed all other countries. So do not think that your God will rescue you.",
+  "korean_text": "앗수르의 여러 왕이 여러 나라에 행한 바 진멸한 일을 네가 들었나니 네가 어찌 구원을 얻겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You have heard",
+      "korean_translation": "너희는 들었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "how the kings of Assyria",
+      "korean_translation": "앗수르 왕들이 어떻게",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "have completely destroyed",
+      "korean_translation": "완전히 멸망시켰는지를",
+      "word_indices": [
+        39,
+        161
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "all other countries",
+      "korean_translation": "모든 다른 나라들을",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So do not think",
+      "korean_translation": "그러므로 생각하지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that your God",
+      "korean_translation": "너희 하나님이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "will rescue you",
+      "korean_translation": "너희를 구원하리라",
+      "word_indices": [
+        328
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Luke 8:23",
+  "version": "EASY",
+  "original_text": "While they sailed in the boat, Jesus began to sleep. Then a strong wind started to blow across the lake. Water began to fill the boat and they were in danger.",
+  "korean_text": "행선할 때에 예수께서 잠이 드셨더니 마침 광풍이 호수로 내리치매 배에 물이 가득하게 되어 위태한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While they sailed in the boat",
+      "korean_translation": "그들이 배를 타고 항해하는 동안",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus began to sleep",
+      "korean_translation": "예수는 잠들기 시작하셨다",
+      "word_indices": [
+        361
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then a strong wind started to blow",
+      "korean_translation": "그때 강한 바람이 불기 시작했다",
+      "word_indices": [
+        43,
+        222,
+        303
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "across the lake",
+      "korean_translation": "호수를 가로질러",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Water began to fill the boat",
+      "korean_translation": "물이 배를 채우기 시작했다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and they were in danger",
+      "korean_translation": "그리고 그들은 위험에 처했다",
+      "word_indices": [
+        558
+      ]
+    }
+  ]
+}

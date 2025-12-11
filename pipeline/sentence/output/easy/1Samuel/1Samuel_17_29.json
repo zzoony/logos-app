@@ -1,0 +1,30 @@
+{
+  "verse_reference": "1 Samuel 17:29",
+  "version": "EASY",
+  "original_text": "David said, ‘Have I done anything wrong? I only asked a question.’",
+  "korean_text": "다윗이 이르되 내가 무엇을 하였나이까 어찌 이유가 없으리이까 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said",
+      "korean_translation": "다윗이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Have I done anything wrong?",
+      "korean_translation": "내가 무언가 잘못했나요?",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I only asked a question",
+      "korean_translation": "나는 단지 질문을 했을 뿐입니다",
+      "word_indices": [
+        527
+      ]
+    }
+  ]
+}

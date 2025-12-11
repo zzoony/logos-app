@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 4:1",
+  "version": "EASY",
+  "original_text": "Then Moses replied, ‘Perhaps the leaders of Israel will not believe me. Perhaps they will not listen to my message. Perhaps they will say, “The Lord did not really appear to you.” ’",
+  "korean_text": "모세가 대답하여 이르되 그러나 그들이 나를 믿지 아니하며 내 말을 듣지 아니하고 이르기를 여호와께서 네게 나타나지 아니하셨다 하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Moses replied",
+      "korean_translation": "그때 모세가 대답하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Perhaps the leaders of Israel will not believe me",
+      "korean_translation": "아마도 이스라엘 지도자들이 나를 믿지 않을 것이다",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Perhaps they will not listen to my message",
+      "korean_translation": "아마도 그들은 내 메시지를 듣지 않을 것이다",
+      "word_indices": [
+        21,
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Perhaps they will say",
+      "korean_translation": "아마도 그들은 말할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The Lord did not really appear to you",
+      "korean_translation": "주께서 정말로 네게 나타나지 않으셨다",
+      "word_indices": [
+        2,
+        146,
+        386
+      ]
+    }
+  ]
+}

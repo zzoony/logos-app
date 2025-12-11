@@ -1,0 +1,81 @@
+{
+  "verse_reference": "2 Chronicles 18:33",
+  "version": "EASY",
+  "original_text": "Then a Syrian soldier shot an arrow into the air. He did not try to shoot at anyone, but the arrow hit the king of Israel. The arrow went through a space in the king's armour. The king commanded the man who drove his chariot, ‘Turn the chariot around. Take me away from the battle. An arrow has hit me.’",
+  "korean_text": "한 사람이 무심코 활을 당겨 이스라엘 왕의 갑옷 솔기를 쏜지라 왕이 그의 병거 모는 자에게 이르되 내가 부상하였으니 네 손을 돌려 나를 진중에서 나가게 하라 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then a Syrian soldier shot an arrow into the air.",
+      "korean_translation": "그때 한 시리아 군인이 공중으로 화살을 쏘았습니다.",
+      "word_indices": [
+        36,
+        424
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He did not try to shoot at anyone,",
+      "korean_translation": "그는 누구를 겨누려고 하지 않았지만,",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but the arrow hit the king of Israel.",
+      "korean_translation": "화살은 이스라엘 왕을 맞혔습니다.",
+      "word_indices": [
+        3,
+        424
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The arrow went through a space in the king's armour.",
+      "korean_translation": "화살은 왕의 갑옷 틈으로 들어갔습니다.",
+      "word_indices": [
+        3,
+        192,
+        424,
+        890,
+        901
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The king commanded the man who drove his chariot,",
+      "korean_translation": "왕은 전차를 모는 사람에게 명령했습니다,",
+      "word_indices": [
+        3,
+        127,
+        342
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Turn the chariot around.",
+      "korean_translation": "전차를 돌리시오.",
+      "word_indices": [
+        72,
+        342
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Take me away from the battle.",
+      "korean_translation": "나를 전장에서 데려가시오.",
+      "word_indices": [
+        205
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "An arrow has hit me.",
+      "korean_translation": "화살이 나를 맞혔습니다.",
+      "word_indices": [
+        424
+      ]
+    }
+  ]
+}

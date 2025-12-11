@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Numbers 11:7",
+  "version": "EASY",
+  "original_text": "The manna was like small seeds called coriander. Its colour was yellow and white.",
+  "korean_text": "만나는 깟씨와 같고 모양은 진주와 같은 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The manna was like small seeds",
+      "korean_translation": "만나는 작은 씨앗과 같았습니다",
+      "word_indices": [
+        295,
+        954
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "called coriander",
+      "korean_translation": "고수라고 불리는",
+      "word_indices": [
+        47,
+        1462
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Its colour was yellow",
+      "korean_translation": "그 색깔은 노란색이었습니다",
+      "word_indices": [
+        924,
+        1289
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and white",
+      "korean_translation": "그리고 흰색이었습니다",
+      "word_indices": [
+        520
+      ]
+    }
+  ]
+}

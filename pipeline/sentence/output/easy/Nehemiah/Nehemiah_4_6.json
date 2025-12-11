@@ -1,0 +1,60 @@
+{
+  "verse_reference": "Nehemiah 4:6",
+  "version": "EASY",
+  "original_text": "The people worked hard because they wanted to build the wall. As a result, the wall all round the city soon became half as high as the old wall.",
+  "korean_text": "이에 우리가 성을 건축하여 전부가 연결되고 높이가 절반에 이르렀으니 이는 백성이 마음 들여 일을 하였음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people worked hard",
+      "korean_translation": "사람들은 열심히 일했습니다",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because they wanted to build the wall",
+      "korean_translation": "그들은 성벽을 짓고 싶었기 때문입니다",
+      "word_indices": [
+        99,
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As a result",
+      "korean_translation": "결과적으로",
+      "word_indices": [
+        215
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the wall all round the city",
+      "korean_translation": "도시 주위의 성벽이",
+      "word_indices": [
+        20,
+        148,
+        355
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "soon became half as high",
+      "korean_translation": "곧 반 높이가 되었습니다",
+      "word_indices": [
+        275,
+        434
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "as the old wall",
+      "korean_translation": "옛 성벽만큼",
+      "word_indices": [
+        148
+      ]
+    }
+  ]
+}

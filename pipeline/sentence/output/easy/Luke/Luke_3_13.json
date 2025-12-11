@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 3:13",
+  "version": "EASY",
+  "original_text": "John told them, ‘You must take the right amount of money from people. You must not take more money than the rules say you should take.’",
+  "korean_text": "이르되 부과된 것 외에는 거두지 말라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John told them",
+      "korean_translation": "요한이 그들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You must take the right amount of money from people",
+      "korean_translation": "너희는 사람들에게서 올바른 양의 돈을 받아야 한다",
+      "word_indices": [
+        38,
+        142,
+        831
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must not take more money",
+      "korean_translation": "너희는 더 많은 돈을 받아서는 안 된다",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than the rules say you should take.'",
+      "korean_translation": "규칙이 말하는 양보다",
+      "word_indices": []
+    }
+  ]
+}

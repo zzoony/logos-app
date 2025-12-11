@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Kings 22:10",
+  "version": "EASY",
+  "original_text": "Then Shaphan told the king, ‘Hilkiah the priest has given me a book.’ Shaphan started to read the book while the king listened.",
+  "korean_text": "또 서기관 사반이 왕에게 말하여 이르되 제사장 힐기야가 내게 책을 주더이다 하고 사반이 왕의 앞에서 읽으매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Shaphan told the king",
+      "korean_translation": "그때 사반이 왕에게 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Hilkiah the priest has given me a book",
+      "korean_translation": "제사장 힐기야가 나에게 책 한 권을 주었습니다",
+      "word_indices": [
+        4,
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Shaphan started to read the book",
+      "korean_translation": "사반은 책을 읽기 시작했다",
+      "word_indices": [
+        222
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while the king listened",
+      "korean_translation": "왕은 그것을 들으면서",
+      "word_indices": [
+        3,
+        63
+      ]
+    }
+  ]
+}

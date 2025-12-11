@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Chronicles 10:6",
+  "version": "EASY",
+  "original_text": "So Saul died there, with his three sons. His whole family died together.",
+  "korean_text": "이와 같이 사울과 그의 세 아들과 그 온 집안이 함께 죽으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Saul died there",
+      "korean_translation": "그래서 사울은 그곳에서 죽었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with his three sons",
+      "korean_translation": "그의 세 아들과 함께 죽었다",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "His whole family died together",
+      "korean_translation": "그의 온 가족이 함께 죽었다",
+      "word_indices": [
+        56,
+        169
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 19:34",
+  "version": "EASY",
+  "original_text": "But one of the soldiers put a spear into Jesus' side. Immediately, blood and water came out of his body.",
+  "korean_text": "그 중 한 군인이 창으로 옆구리를 찌르니 곧 피와 물이 나오더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But one of the soldiers",
+      "korean_translation": "하지만 군사들 중 한 사람이",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "put a spear into Jesus' side",
+      "korean_translation": "예수의 옆구리에 창을 찔렀다",
+      "word_indices": [
+        574
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Immediately, blood and water",
+      "korean_translation": "즉시, 피와 물이",
+      "word_indices": [
+        60,
+        221,
+        414
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "came out of his body",
+      "korean_translation": "그의 몸에서 나왔다",
+      "word_indices": []
+    }
+  ]
+}

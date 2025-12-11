@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 22:29",
+  "version": "EASY",
+  "original_text": "Do not refuse to offer your grain, your wine or your olive oil to me.",
+  "korean_text": "너는 네가 추수한 것과 네가 짜낸 즙을 바치기를 더디하지 말지며 네 처음 난 아들들을 내게 줄지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not refuse to offer your grain",
+      "korean_translation": "네 곡물을 바치는 것을 거절하지 말라",
+      "word_indices": [
+        55,
+        157,
+        256
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your wine",
+      "korean_translation": "네 포도주",
+      "word_indices": [
+        219
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or your olive oil",
+      "korean_translation": "또 네 올리브유",
+      "word_indices": [
+        358
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to me",
+      "korean_translation": "나에게",
+      "word_indices": []
+    }
+  ]
+}

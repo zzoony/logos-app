@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Luke 24:2",
+  "version": "EASY",
+  "original_text": "They arrived there. They found that someone had rolled the big stone away from the hole.",
+  "korean_text": "돌이 무덤에서 굴려 옮겨진 것을 보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They arrived there.",
+      "korean_translation": "그들은 그곳에 도착했다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They found that",
+      "korean_translation": "그들이 발견한 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "someone had rolled the big stone away",
+      "korean_translation": "누군가가 그 큰 돌을 굴려 옮겼다는 것이었다",
+      "word_indices": [
+        94,
+        116
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the hole.",
+      "korean_translation": "그 구멍에서.",
+      "word_indices": []
+    }
+  ]
+}

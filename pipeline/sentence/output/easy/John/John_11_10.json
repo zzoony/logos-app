@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 11:10",
+  "version": "EASY",
+  "original_text": "But anyone who walks during the night will fall down. He will fall down because he has no light.’",
+  "korean_text": "밤에 다니면 빛이 그 사람 안에 없는 고로 실족하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But anyone who walks during the night",
+      "korean_translation": "하지만 밤에 걷는 사람은",
+      "word_indices": [
+        109,
+        204,
+        211
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will fall down",
+      "korean_translation": "넘어질 것이다",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He will fall down",
+      "korean_translation": "그는 넘어질 것이다",
+      "word_indices": [
+        208
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because he has no light",
+      "korean_translation": "그에게 빛이 없기 때문이다",
+      "word_indices": [
+        225
+      ]
+    }
+  ]
+}

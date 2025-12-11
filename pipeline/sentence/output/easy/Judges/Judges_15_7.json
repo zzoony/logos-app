@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Judges 15:7",
+  "version": "EASY",
+  "original_text": "Samson said to them, ‘Because you have done this, I will punish you. I will not stop until your punishment is complete.’",
+  "korean_text": "삼손이 그들에게 이르되 너희가 이같이 행하였은즉 내가 너희에게 원수를 갚고야 말리라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Samson said to them",
+      "korean_translation": "삼손이 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Because you have done this",
+      "korean_translation": "너희가 이렇게 행했기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will punish you",
+      "korean_translation": "내가 너희를 벌하겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will not stop",
+      "korean_translation": "나는 멈추지 않겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until your punishment is complete",
+      "korean_translation": "너희의 벌이 완전해질 때까지",
+      "word_indices": [
+        274,
+        851
+      ]
+    }
+  ]
+}

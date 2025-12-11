@@ -1,0 +1,33 @@
+{
+  "verse_reference": "James 2:15",
+  "version": "EASY",
+  "original_text": "For example, maybe a believer does not have enough clothes to wear or enough food to eat.",
+  "korean_text": "만일 형제나 자매가 헐벗고 일용할 양식이 없는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For example",
+      "korean_translation": "예를 들어",
+      "word_indices": [
+        677
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "maybe a believer does not have enough clothes to wear",
+      "korean_translation": "어쩌면 신자는 입을 충분한 옷이 없을 수 있습니다",
+      "word_indices": [
+        185,
+        228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or enough food to eat",
+      "korean_translation": "또는 먹을 충분한 음식이 없을 수 있습니다",
+      "word_indices": [
+        228
+      ]
+    }
+  ]
+}

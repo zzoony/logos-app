@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 2:7",
+  "version": "EASY",
+  "original_text": "Then Herod secretly told the wise men to come to meet with him. They told him the time that the star had appeared.",
+  "korean_text": "이에 헤롯이 가만히 박사들을 불러 별이 나타난 때를 자세히 묻고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Herod secretly told the wise men",
+      "korean_translation": "그때 헤롯이 현인들에게 비밀리에 말했다",
+      "word_indices": [
+        641
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to come to meet with him",
+      "korean_translation": "그를 만나러 오라고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They told him the time",
+      "korean_translation": "그들은 그에게 그 시간을 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that the star had appeared",
+      "korean_translation": "별이 나타났던",
+      "word_indices": [
+        386,
+        473
+      ]
+    }
+  ]
+}

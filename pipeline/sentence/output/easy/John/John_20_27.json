@@ -1,0 +1,69 @@
+{
+  "verse_reference": "John 20:27",
+  "version": "EASY",
+  "original_text": "Then he said to Thomas, ‘Put your finger in here. Look at my hands. Put your hand here, in my side. Do not refuse to believe what is true. Now, believe.’",
+  "korean_text": "도마에게 이르시되 네 손가락을 이리 내밀어 내 손을 보고 네 손을 내밀어 내 옆구리에 넣어 보라 그리하여 믿음 없는 자가 되지 말고 믿는 자가 되라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he said to Thomas",
+      "korean_translation": "그때 그는 도마에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Put your finger in here",
+      "korean_translation": "여기에 당신의 손가락을 넣으시오",
+      "word_indices": [
+        746
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Look at my hands",
+      "korean_translation": "내 손들을 보시오",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Put your hand here",
+      "korean_translation": "당신의 손을 여기에 놓으시오",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in my side",
+      "korean_translation": "내 옆구리에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Do not refuse to believe",
+      "korean_translation": "믿기를 거절하지 말시오",
+      "word_indices": [
+        88,
+        157
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "what is true",
+      "korean_translation": "진실된 것을",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Now, believe",
+      "korean_translation": "이제 믿으시오",
+      "word_indices": [
+        88
+      ]
+    }
+  ]
+}

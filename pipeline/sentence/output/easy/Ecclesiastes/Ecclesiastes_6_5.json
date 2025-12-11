@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Ecclesiastes 6:5",
+  "version": "EASY",
+  "original_text": "He never sees the light of day. He never knows anything. But he enjoys more rest than that rich person.",
+  "korean_text": "햇빛도 보지 못하고 또 그것을 알지도 못하나 이가 그보다 더 평안함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He never sees the light of day.",
+      "korean_translation": "그는 낮의 빛을 결코 보지 못한다.",
+      "word_indices": [
+        225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He never knows anything.",
+      "korean_translation": "그는 아무것도 결코 알지 못한다.",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But he enjoys more rest",
+      "korean_translation": "하지만 그는 더 많은 안식을 누린다",
+      "word_indices": [
+        269,
+        330
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than that rich person.",
+      "korean_translation": "그 부자보다.",
+      "word_indices": [
+        24
+      ]
+    }
+  ]
+}

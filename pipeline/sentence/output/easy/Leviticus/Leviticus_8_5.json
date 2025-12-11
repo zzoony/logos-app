@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Leviticus 8:5",
+  "version": "EASY",
+  "original_text": "Moses said to the people, ‘The Lord said that I must do this.’",
+  "korean_text": "모세가 회중에게 이르되 여호와께서 행하라고 명령하신 것이 이러하니라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses said to the people",
+      "korean_translation": "모세가 백성에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Lord said",
+      "korean_translation": "주님이 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I must do this",
+      "korean_translation": "내가 이것을 해야 한다고",
+      "word_indices": []
+    }
+  ]
+}

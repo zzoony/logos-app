@@ -1,0 +1,57 @@
+{
+  "verse_reference": "1 Samuel 15:3",
+  "version": "EASY",
+  "original_text": "Now go and attack the Amalekites. Completely destroy everything that they have. Do not save anything. Kill the men and women, as well as their children and babies. Kill their cows, sheep, camels and donkeys.” ’",
+  "korean_text": "지금 가서 아말렉을 쳐서 그들의 모든 소유를 남기지 말고 진멸하되 남녀와 소아와 젖 먹는 아이와 우양과 낙타와 나귀를 죽이라 하셨나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now go and attack the Amalekites.",
+      "korean_translation": "이제 가서 아말렉 사람들을 공격하라.",
+      "word_indices": [
+        62
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Completely destroy everything that they have.",
+      "korean_translation": "그들이 가진 모든 것을 완전히 파괴하라.",
+      "word_indices": [
+        39,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not save anything.",
+      "korean_translation": "아무것도 남겨두지 마라.",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Kill the men and women,",
+      "korean_translation": "남자와 여자를 죽이고,",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as well as their children and babies.",
+      "korean_translation": "그들의 자녀와 아기들도 죽이라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Kill their cows, sheep, camels and donkeys.",
+      "korean_translation": "그들의 소, 양, 낙타, 나귀를 죽이라.",
+      "word_indices": [
+        26,
+        125,
+        310
+      ]
+    }
+  ]
+}

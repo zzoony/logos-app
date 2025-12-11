@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 10:13",
+  "version": "EASY",
+  "original_text": "That man runs away because the sheep do not belong to him. He does not think that the sheep are important.",
+  "korean_text": "달아나는 것은 그가 삯꾼인 까닭에 양을 돌보지 아니함이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That man runs away",
+      "korean_translation": "그 사람은 도망간다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because the sheep do not belong to him",
+      "korean_translation": "왜냐하면 양들이 그의 것이 아니기 때문이다",
+      "word_indices": [
+        45,
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He does not think",
+      "korean_translation": "그는 생각하지 않는다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that the sheep are important",
+      "korean_translation": "양들이 중요하다고",
+      "word_indices": [
+        125,
+        138
+      ]
+    }
+  ]
+}

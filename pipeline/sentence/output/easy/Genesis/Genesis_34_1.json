@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 34:1",
+  "version": "EASY",
+  "original_text": "Dinah was the daughter of Leah and Jacob. One day she went out to visit the young women who lived near Shechem city.",
+  "korean_text": "레아가 야곱에게 낳은 딸 디나가 그 땅의 딸들을 보러 나갔더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Dinah was the daughter of Leah and Jacob.",
+      "korean_translation": "디나는 레아와 야곱의 딸이었습니다.",
+      "word_indices": [
+        173
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "One day she went out",
+      "korean_translation": "어느 날 그녀는 밖으로 나갔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to visit the young women",
+      "korean_translation": "젊은 여성들을 만나기 위해",
+      "word_indices": [
+        108,
+        380
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who lived near Shechem city.",
+      "korean_translation": "세겜 성 근처에 살던.",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

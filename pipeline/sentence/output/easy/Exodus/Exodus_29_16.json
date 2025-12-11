@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 29:16",
+  "version": "EASY",
+  "original_text": "Kill the sheep and take its blood to the altar. Throw some of the blood onto every side of the altar.",
+  "korean_text": "너는 그 숫양을 잡고 그 피를 가져다가 제단 위의 주위에 뿌리고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Kill the sheep",
+      "korean_translation": "양을 죽이고",
+      "word_indices": [
+        26,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and take its blood to the altar",
+      "korean_translation": "그 피를 제단으로 가져가라",
+      "word_indices": [
+        119,
+        221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Throw some of the blood",
+      "korean_translation": "그 피의 일부를 뿌리라",
+      "word_indices": [
+        190,
+        221
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "onto every side of the altar",
+      "korean_translation": "제단의 모든 면에",
+      "word_indices": [
+        119
+      ]
+    }
+  ]
+}

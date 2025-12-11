@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Numbers 20:18",
+  "version": "EASY",
+  "original_text": "The king of Edom said, ‘You must not travel through my country. If you do, we will bring our army to attack you.’",
+  "korean_text": "에돔 왕이 대답하되 너는 우리 가운데로 지나가지 못하리라 내가 칼을 들고 나아가 너를 대적할까 하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of Edom said",
+      "korean_translation": "에돔 왕이 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You must not travel through my country",
+      "korean_translation": "'너희는 내 나라를 통과해서는 안 된다",
+      "word_indices": [
+        117,
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you do",
+      "korean_translation": "만약 너희가 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we will bring our army to attack you.'",
+      "korean_translation": "우리는 너희를 공격하기 위해 우리 군대를 보낼 것이다.'",
+      "word_indices": [
+        62
+      ]
+    }
+  ]
+}

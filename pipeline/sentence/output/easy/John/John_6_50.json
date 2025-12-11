@@ -1,0 +1,38 @@
+{
+  "verse_reference": "John 6:50",
+  "version": "EASY",
+  "original_text": "This bread that comes down from heaven is different. Anyone who eats this bread will not die.",
+  "korean_text": "이는 하늘에서 내려오는 떡이니 사람으로 하여금 먹고 죽지 아니하게 하는 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This bread that comes down from heaven",
+      "korean_translation": "하늘에서 내려오는 이 떡은",
+      "word_indices": [
+        170,
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is different",
+      "korean_translation": "다릅니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Anyone who eats this bread",
+      "korean_translation": "이 떡을 먹는 사람은",
+      "word_indices": [
+        109,
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will not die",
+      "korean_translation": "죽지 않을 것입니다",
+      "word_indices": []
+    }
+  ]
+}

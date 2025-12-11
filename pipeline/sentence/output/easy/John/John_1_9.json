@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 1:9",
+  "version": "EASY",
+  "original_text": "The true light gives light to every person. That light was now coming into the world.",
+  "korean_text": "참 빛 곧 세상에 와서 각 사람에게 비추는 빛이 있었나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The true light",
+      "korean_translation": "참된 빛은",
+      "word_indices": [
+        69,
+        225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "gives light to every person",
+      "korean_translation": "모든 사람에게 빛을 줍니다",
+      "word_indices": [
+        4,
+        24,
+        225
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That light",
+      "korean_translation": "그 빛은",
+      "word_indices": [
+        225
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "was now coming into the world",
+      "korean_translation": "이제 세상에 오고 있었습니다",
+      "word_indices": [
+        159
+      ]
+    }
+  ]
+}

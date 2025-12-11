@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 2:10",
+  "version": "EASY",
+  "original_text": "The angel said to them, ‘Do not be afraid. Listen! I bring you good news. This news will make everyone very happy.",
+  "korean_text": "천사가 이르되 무서워하지 말라 보라 내가 온 백성에게 미칠 큰 기쁨의 좋은 소식을 너희에게 전하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel said to them",
+      "korean_translation": "천사가 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not be afraid",
+      "korean_translation": "두려워하지 말라",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Listen!",
+      "korean_translation": "들어라!",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I bring you good news",
+      "korean_translation": "나는 너희에게 좋은 소식을 전한다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This news will make everyone very happy",
+      "korean_translation": "이 소식은 모든 사람을 매우 기쁘게 만들 것이다",
+      "word_indices": [
+        57,
+        97
+      ]
+    }
+  ]
+}

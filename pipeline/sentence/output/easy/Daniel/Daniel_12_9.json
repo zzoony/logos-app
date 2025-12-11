@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Daniel 12:9",
+  "version": "EASY",
+  "original_text": "He said to me, ‘You must go now, Daniel. This message will remain secret until it is time for the end of this world. The seals will keep the book closed.",
+  "korean_text": "그가 이르되 다니엘아 갈지어다 이 말은 마지막 때까지 간수하고 봉함할 것임이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to me",
+      "korean_translation": "그가 내게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must go now, Daniel",
+      "korean_translation": "이제 가야 하느니라, 다니엘아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This message will remain secret",
+      "korean_translation": "이 메시지는 비밀로 남아있을 것이다",
+      "word_indices": [
+        21,
+        253,
+        544
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "until it is time for the end of this world",
+      "korean_translation": "이 세상의 끝 때가 될 때까지",
+      "word_indices": [
+        159
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The seals will keep the book closed",
+      "korean_translation": "인들은 책을 닫아둘 것이다",
+      "word_indices": [
+        101
+      ]
+    }
+  ]
+}

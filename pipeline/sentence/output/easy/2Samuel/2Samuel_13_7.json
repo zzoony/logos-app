@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Samuel 13:7",
+  "version": "EASY",
+  "original_text": "David sent a message to Tamar in the palace. He told her, ‘Go to your brother Amnon's house. Prepare some food for him to eat there.’",
+  "korean_text": "다윗이 사람을 그의 집으로 보내 다말에게 이르되 이제 네 오라버니 암논의 집으로 가서 그를 위하여 음식을 차리라 한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David sent a message to Tamar",
+      "korean_translation": "다윗은 다말에게 메시지를 보냈습니다",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the palace",
+      "korean_translation": "궁에 있는",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He told her",
+      "korean_translation": "그는 그녀에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Go to your brother Amnon's house",
+      "korean_translation": "네 형제 암논의 집으로 가거라",
+      "word_indices": [
+        67,
+        135
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Prepare some food for him",
+      "korean_translation": "그를 위해 음식을 준비하라",
+      "word_indices": [
+        226
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to eat there",
+      "korean_translation": "그곳에서 먹도록",
+      "word_indices": []
+    }
+  ]
+}

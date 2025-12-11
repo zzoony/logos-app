@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 43:12",
+  "version": "EASY",
+  "original_text": "Also take twice the amount of money with you. You must give back the money that they put back into your bags last time. It may have been a mistake.",
+  "korean_text": "너희 손에 갑절의 돈을 가지고 너희 자루 아귀에 도로 넣어져 있던 그 돈을 다시 가지고 가라 혹 잘못이 있었을까 두렵도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Also take twice the amount of money with you.",
+      "korean_translation": "또한 돈을 두 배로 가지고 가라.",
+      "word_indices": [
+        9,
+        142,
+        803,
+        831
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must give back the money",
+      "korean_translation": "너희는 그 돈을 돌려주어야 한다.",
+      "word_indices": [
+        4,
+        142
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that they put back into your bags last time.",
+      "korean_translation": "그들이 지난번에 너희 가방에 넣어준 돈을.",
+      "word_indices": [
+        571
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It may have been a mistake.",
+      "korean_translation": "그것은 실수였을지도 모른다.",
+      "word_indices": [
+        760
+      ]
+    }
+  ]
+}

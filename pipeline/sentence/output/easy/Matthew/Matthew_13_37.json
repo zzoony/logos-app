@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 13:37",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘The Son of Man is like the farmer who planted the good seed in the field.",
+  "korean_text": "대답하여 이르시되 좋은 씨를 뿌리는 이는 인자요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Son of Man is like the farmer",
+      "korean_translation": "인자는 농부와 같다",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who planted the good seed",
+      "korean_translation": "좋은 씨를 심은",
+      "word_indices": [
+        19,
+        199
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the field",
+      "korean_translation": "밭에",
+      "word_indices": [
+        152
+      ]
+    }
+  ]
+}

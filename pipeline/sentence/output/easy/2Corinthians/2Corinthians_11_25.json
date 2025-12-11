@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Corinthians 11:25",
+  "version": "EASY",
+  "original_text": "Three times the Romans punished me with sticks. People threw stones at me to kill me once. Three times I have been on ships that broke in the sea. Once I was in the sea for a night and a day.",
+  "korean_text": "세 번 태장으로 맞고 한 번 돌로 맞고 세 번 파선하고 일 주야를 깊은 바다에서 지냈으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Three times the Romans punished me with sticks",
+      "korean_translation": "로마 사람들이 나를 막대기로 벌한 것이 세 번이었습니다",
+      "word_indices": [
+        166,
+        356
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "People threw stones at me to kill me once",
+      "korean_translation": "사람들이 한 번은 나를 죽이려고 돌을 던졌습니다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Three times I have been on ships",
+      "korean_translation": "나는 배를 탄 것이 세 번이었습니다",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that broke in the sea",
+      "korean_translation": "그 배들은 바다에서 부서졌습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Once I was in the sea",
+      "korean_translation": "한 번은 나는 바다에 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for a night and a day",
+      "korean_translation": "밤낮 하루 동안이었습니다",
+      "word_indices": [
+        211
+      ]
+    }
+  ]
+}

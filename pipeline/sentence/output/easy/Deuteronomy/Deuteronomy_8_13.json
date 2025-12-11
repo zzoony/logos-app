@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Deuteronomy 8:13",
+  "version": "EASY",
+  "original_text": "You will have many cows, sheep and goats. You will have plenty of gold and silver. You will have many more things than you have now.",
+  "korean_text": "또 네 소와 양이 번성하며 네 은금이 증식되며 네 소유가 다 풍부하게 될 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will have many cows",
+      "korean_translation": "너는 많은 소를 갖게 될 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "sheep and goats",
+      "korean_translation": "양과 염소를",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You will have plenty of gold",
+      "korean_translation": "너는 풍부한 금을 갖게 될 것이다",
+      "word_indices": [
+        130,
+        451
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and silver",
+      "korean_translation": "그리고 은을",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will have many more things",
+      "korean_translation": "너는 훨씬 더 많은 것들을 갖게 될 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "than you have now",
+      "korean_translation": "지금 가지고 있는 것보다",
+      "word_indices": []
+    }
+  ]
+}

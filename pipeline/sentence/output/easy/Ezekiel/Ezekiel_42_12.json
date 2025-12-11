@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Ezekiel 42:12",
+  "version": "EASY",
+  "original_text": "There was an entrance in the wall opposite the doors of the inside row of rooms. There was also an entrance at the east end of the path between the rows of rooms.",
+  "korean_text": "이 남쪽 방에 출입하는 문이 있는데 담 동쪽 길 어귀에 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There was an entrance in the wall",
+      "korean_translation": "벽에 입구가 있었고",
+      "word_indices": [
+        148,
+        385
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "opposite the doors of the inside row of rooms",
+      "korean_translation": "안쪽 방들의 문들과 마주보는 곳에 있었다",
+      "word_indices": [
+        252,
+        267,
+        897
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was also an entrance",
+      "korean_translation": "또 다른 입구도 있었는데",
+      "word_indices": [
+        9,
+        385
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "at the east end of the path",
+      "korean_translation": "길의 동쪽 끝에 있었다",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "between the rows of rooms",
+      "korean_translation": "방들 사이의 길이었다",
+      "word_indices": []
+    }
+  ]
+}

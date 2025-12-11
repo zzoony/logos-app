@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Genesis 1:12",
+  "version": "EASY",
+  "original_text": "All kinds of plants and trees began to grow in the ground. The plants made seeds. The trees made fruits with seeds in them. Each plant made its own kind of seeds.",
+  "korean_text": "땅이 풀과 각기 종류대로 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내니 하나님이 보시기에 좋았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All kinds of plants and trees began to grow",
+      "korean_translation": "모든 종류의 식물과 나무들이 자라기 시작했고",
+      "word_indices": [
+        156,
+        199
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the ground",
+      "korean_translation": "땅에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The plants made seeds",
+      "korean_translation": "식물들은 씨앗을 만들었고",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The trees made fruits",
+      "korean_translation": "나무들은 열매를 만들었고",
+      "word_indices": [
+        278
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with seeds in them",
+      "korean_translation": "그 안에 씨앗이 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Each plant made its own kind of seeds",
+      "korean_translation": "각 식물은 자신의 종류대로 씨앗을 만들었다",
+      "word_indices": [
+        199
+      ]
+    }
+  ]
+}

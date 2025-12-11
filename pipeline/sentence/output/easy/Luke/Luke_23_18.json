@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 23:18",
+  "version": "EASY",
+  "original_text": "But the crowd all shouted together, ‘Take this man away and kill him! We want Barabbas to go free.’",
+  "korean_text": "무리가 일제히 소리 질러 이르되 이 사람을 없이하고 바라바를 우리에게 놓아 주소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But the crowd all shouted together",
+      "korean_translation": "하지만 무리가 다 함께 소리쳤다",
+      "word_indices": [
+        174,
+        265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take this man away",
+      "korean_translation": "이 사람을 데려가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and kill him!",
+      "korean_translation": "그리고 그를 죽여라!",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We want Barabbas to go free.",
+      "korean_translation": "우리는 바라바가 풀려나길 원한다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Kings 2:18",
+  "version": "EASY",
+  "original_text": "Bathsheba said, ‘I will speak to the king on your behalf.’",
+  "korean_text": "밧세바가 이르되 좋다 내가 너를 위하여 왕께 말하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Bathsheba said",
+      "korean_translation": "밧세바가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I will speak to the king",
+      "korean_translation": "내가 왕에게 말할 것이다",
+      "word_indices": [
+        3,
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on your behalf.'",
+      "korean_translation": "너를 대신하여'",
+      "word_indices": [
+        333
+      ]
+    }
+  ]
+}

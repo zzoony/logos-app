@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Corinthians 8:6",
+  "version": "EASY",
+  "original_text": "Because of that, we asked Titus to continue to help you. He is the person who helped you to start giving money. So he will help you to finish this good work.",
+  "korean_text": "그러므로 우리가 디도를 권하여 그가 이미 너희 가운데서 시작하였은즉 이 은혜를 그대로 성취하게 하라 하였노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of that",
+      "korean_translation": "그 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we asked Titus to continue to help you",
+      "korean_translation": "우리는 디도에게 너희를 계속 도와달라고 부탁했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He is the person",
+      "korean_translation": "그는 그 사람이다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who helped you to start giving money",
+      "korean_translation": "너희가 돈을 주기 시작하도록 도와준 사람",
+      "word_indices": [
+        4,
+        142,
+        222
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So he will help you",
+      "korean_translation": "그래서 그는 너희를 도울 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to finish this good work",
+      "korean_translation": "이 좋은 일을 마치도록",
+      "word_indices": [
+        19,
+        35
+      ]
+    }
+  ]
+}

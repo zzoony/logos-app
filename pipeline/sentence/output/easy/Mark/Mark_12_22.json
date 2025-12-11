@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Mark 12:22",
+  "version": "EASY",
+  "original_text": "And the same thing happened to all seven brothers. They all died but they had no children. After all this, the woman also died.",
+  "korean_text": "일곱이 다 상속자가 없었고 최후에 여자도 죽었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the same thing happened to all seven brothers.",
+      "korean_translation": "그리고 일곱 형제 모두에게 똑같은 일이 일어났습니다.",
+      "word_indices": [
+        22,
+        74,
+        135,
+        198
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They all died",
+      "korean_translation": "그들은 모두 죽었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but they had no children.",
+      "korean_translation": "하지만 자식이 없었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "After all this,",
+      "korean_translation": "이 모든 일 후에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the woman also died.",
+      "korean_translation": "그 여자도 죽었습니다.",
+      "word_indices": [
+        9,
+        46
+      ]
+    }
+  ]
+}

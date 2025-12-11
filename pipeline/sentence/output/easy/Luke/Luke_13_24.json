@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 13:24",
+  "version": "EASY",
+  "original_text": "Jesus said to the people there, ‘Do your best to go in through the narrow door. I tell you that many people will want to get in there. But they will not be able to go through it.",
+  "korean_text": "좁은 문으로 들어가기를 힘쓰라 내가 너희에게 이르노니 들어가기를 구하여도 못하는 자가 많으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to the people there",
+      "korean_translation": "예수님은 거기 있던 사람들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do your best to go in through the narrow door",
+      "korean_translation": "좁은 문으로 들어가도록 힘쓰라",
+      "word_indices": [
+        192,
+        267,
+        1055
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I tell you that many people will want to get in there",
+      "korean_translation": "내가 너희에게 이르노니 많은 사람들이 그곳에 들어가려고 할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But they will not be able to go through it",
+      "korean_translation": "하지만 그들은 그 문을 통과하지 못할 것이다",
+      "word_indices": [
+        192
+      ]
+    }
+  ]
+}

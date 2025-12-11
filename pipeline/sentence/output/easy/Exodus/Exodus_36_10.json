@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Exodus 36:10",
+  "version": "EASY",
+  "original_text": "The workers joined five of the curtains together. They did the same thing with the other five curtains.",
+  "korean_text": "그 다섯 폭을 서로 연결하며 또 그 다섯 폭을 서로 연결하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The workers joined five of the curtains together.",
+      "korean_translation": "일꾼들이 커튼 다섯 개를 함께 이었습니다.",
+      "word_indices": [
+        362,
+        377
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They did the same thing",
+      "korean_translation": "그들은 똑같은 일을 했습니다",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with the other five curtains.",
+      "korean_translation": "나머지 커튼 다섯 개로도.",
+      "word_indices": [
+        377
+      ]
+    }
+  ]
+}

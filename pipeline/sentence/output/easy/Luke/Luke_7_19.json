@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Luke 7:19",
+  "version": "EASY",
+  "original_text": "He said to them, ‘I want you to ask Jesus, “Are you the special person that God is sending to us? If not, should we still look for someone else?” ’",
+  "korean_text": "요한이 그 제자 중 둘을 불러 주께 보내어 이르되 오실 그이가 당신이오니이까 우리가 다른 이를 기다리오리이까 하라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to them",
+      "korean_translation": "그가 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I want you to ask Jesus",
+      "korean_translation": "'내가 너희가 예수에게 묻기를 원한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Are you the special person",
+      "korean_translation": "당신이 그 특별한 사람입니까",
+      "word_indices": [
+        24,
+        68
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that God is sending to us?'",
+      "korean_translation": "하나님이 우리에게 보내시는?'",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If not",
+      "korean_translation": "만약 아니라면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "should we still look for someone else?'",
+      "korean_translation": "우리가 계속 다른 사람을 찾아야 합니까?'",
+      "word_indices": [
+        94
+      ]
+    }
+  ]
+}

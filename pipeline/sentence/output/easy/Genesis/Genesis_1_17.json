@@ -1,0 +1,26 @@
+{
+  "verse_reference": "Genesis 1:17",
+  "version": "EASY",
+  "original_text": "God put all these lights in the sky to shine their light on the earth.",
+  "korean_text": "하나님이 그것들을 하늘의 궁창에 두어 땅을 비추게 하시며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God put all these lights in the sky",
+      "korean_translation": "하나님은 이 모든 빛들을 하늘에 두셨습니다",
+      "word_indices": [
+        225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to shine their light on the earth",
+      "korean_translation": "그 빛으로 땅을 비추기 위해",
+      "word_indices": [
+        93,
+        225,
+        397
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "verse_reference": "John 21:16",
+  "version": "EASY",
+  "original_text": "Jesus asked him a second time, ‘Simon, son of John, do you love me?’ Peter answered, ‘Yes Lord, you know that I love you.’ Jesus said to him, ‘Take care of my sheep.’",
+  "korean_text": "또 두 번째 이르시되 요한의 아들 시몬아 네가 나를 사랑하느냐 하시니 이르되 주님 그러하나이다 내가 주님을 사랑하는 줄 주님께서 아시나이다 이르시되 내 양을 치라 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus asked him a second time",
+      "korean_translation": "예수님께서 그에게 두 번째로 질문하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Simon, son of John",
+      "korean_translation": "요한의 아들 시몬아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do you love me?",
+      "korean_translation": "네가 나를 사랑하느냐?",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Peter answered",
+      "korean_translation": "베드로가 대답했습니다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Yes Lord",
+      "korean_translation": "예 주님",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you know that I love you",
+      "korean_translation": "주님께서는 제가 주님을 사랑하는 것을 아십니다",
+      "word_indices": [
+        12,
+        82
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수님께서 그에게 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Take care of my sheep",
+      "korean_translation": "내 양을 돌보아라",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

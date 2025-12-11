@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 24:17",
+  "version": "EASY",
+  "original_text": "A person who is on the roof of his house must not go down into his house. He must not stop to get anything from his home to take with him.",
+  "korean_text": "지붕 위에 있는 자는 집 안에 있는 물건을 가지러 내려 가지 말며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person who is on the roof of his house",
+      "korean_translation": "자기 집 지붕 위에 있는 사람은",
+      "word_indices": [
+        24,
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must not go down into his house",
+      "korean_translation": "집으로 내려가서는 안 된다",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must not stop",
+      "korean_translation": "그는 멈추서는 안 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to get anything from his home",
+      "korean_translation": "집에서 무언가를 가지러",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to take with him",
+      "korean_translation": "가져가기 위해",
+      "word_indices": []
+    }
+  ]
+}

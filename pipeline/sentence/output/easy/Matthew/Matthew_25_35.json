@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 25:35",
+  "version": "EASY",
+  "original_text": "I was hungry and you gave me some food to eat. I was thirsty and you gave me some water to drink. I was visiting your town and you asked me to stay in your home.",
+  "korean_text": "내가 주릴 때에 너희가 먹을 것을 주었고 목마를 때에 마시게 하였고 나그네 되었을 때에 영접하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I was hungry",
+      "korean_translation": "나는 배고플 때가 있었습니다",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and you gave me some food to eat",
+      "korean_translation": "당신은 나에게 먹을 음식을 주었습니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was thirsty",
+      "korean_translation": "나는 목이 마를 때가 있었습니다",
+      "word_indices": [
+        705
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you gave me some water to drink",
+      "korean_translation": "당신은 나에게 마실 물을 주었습니다",
+      "word_indices": [
+        4,
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I was visiting your town",
+      "korean_translation": "나는 당신의 마을을 방문하고 있었습니다",
+      "word_indices": [
+        380
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and you asked me to stay in your home",
+      "korean_translation": "당신은 나에게 당신의 집에 머물라고 청했습니다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "verse_reference": "Isaiah 37:30",
+  "version": "EASY",
+  "original_text": "King Hezekiah, this is how you will know that I have spoken a true message from the Lord. This year, you will eat crops that grow by themselves. And next year you will eat what grows from the same seeds. But in the third year you will plant seeds for yourselves, and they will give you a harvest of crops. You will plant vines again and you will eat grapes from them. Isaiah has told Hezekiah about the Lord's message to King Sennacherib. Now he speaks to King Hezekiah himself. King Hezekiah, this is how you will know that I have spoken a true message from the Lord. This year, you will eat crops that grow by themselves. And next year you will eat what grows from the same seeds. But in the third year you will plant seeds for yourselves, and they will give you a harvest of crops. You will plant vines again and you will eat grapes from them. Isaiah has told Hezekiah about the Lord's message to King Sennacherib. Now he speaks to King Hezekiah himself. King Hezekiah, this is how you will know that I have spoken a true message from the Lord. This year, you will eat crops that grow by themselves. And next year you will eat what grows from the same seeds. But in the third year you will plant seeds for yourselves, and they will give you a harvest of crops. You will plant vines again and you will eat grapes from them.",
+  "korean_text": "왕이여 이것이 왕에게 징조가 되리니 올해는 스스로 난 것을 먹을 것이요 둘째 해에는 또 거기에서 난 것을 먹을 것이요 셋째 해에는 심고 거두며 포도나무를 심고 그 열매를 먹을 것이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Hezekiah,",
+      "korean_translation": "히스기야 왕이여,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "this is how you will know",
+      "korean_translation": "이것으로 너는 알게 될 것이다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I have spoken a true message",
+      "korean_translation": "내가 참된 메시지를 말했다는 것을",
+      "word_indices": [
+        21,
+        69
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the Lord.",
+      "korean_translation": "주님께로부터 온.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This year,",
+      "korean_translation": "이 해에는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you will eat crops",
+      "korean_translation": "너는 작물을 먹을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "that grow by themselves.",
+      "korean_translation": "저절로 자라는.",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "And next year",
+      "korean_translation": "그리고 다음 해에",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "you will eat what grows",
+      "korean_translation": "너는 자라나는 것을 먹을 것이다",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "from the same seeds.",
+      "korean_translation": "같은 씨앗에서 난.",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 11,
+      "original_text": "But in the third year",
+      "korean_translation": "하지만 세 번째 해에는",
+      "word_indices": [
+        431
+      ]
+    },
+    {
+      "sequence_order": 12,
+      "original_text": "you will plant seeds for yourselves,",
+      "korean_translation": "너희를 위해 씨앗을 심을 것이고,",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 13,
+      "original_text": "and they will give you",
+      "korean_translation": "그것들은 너에게 줄 것이다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 14,
+      "original_text": "a harvest of crops.",
+      "korean_translation": "작물의 수확물을.",
+      "word_indices": [
+        474
+      ]
+    },
+    {
+      "sequence_order": 15,
+      "original_text": "You will plant vines again",
+      "korean_translation": "너는 다시 포도나무를 심을 것이고",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 16,
+      "original_text": "and you will eat grapes from them.",
+      "korean_translation": "그것들에서 포도를 먹을 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 17,
+      "original_text": "Isaiah has told Hezekiah",
+      "korean_translation": "이사야는 히스기야에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 18,
+      "original_text": "about the Lord's message",
+      "korean_translation": "주님의 메시지에 대해",
+      "word_indices": [
+        2,
+        21
+      ]
+    },
+    {
+      "sequence_order": 19,
+      "original_text": "to King Sennacherib.",
+      "korean_translation": "산헤립 왕에게 보낸.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 20,
+      "original_text": "Now he speaks",
+      "korean_translation": "이제 그는 말한다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 21,
+      "original_text": "to King Hezekiah himself.",
+      "korean_translation": "히스기야 왕 자신에게.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 22,
+      "original_text": "King Hezekiah,",
+      "korean_translation": "히스기야 왕이여,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 23,
+      "original_text": "this is how you will know",
+      "korean_translation": "이것으로 너는 알게 될 것이다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 24,
+      "original_text": "that I have spoken a true message",
+      "korean_translation": "내가 참된 메시지를 말했다는 것을",
+      "word_indices": [
+        21,
+        69
+      ]
+    },
+    {
+      "sequence_order": 25,
+      "original_text": "from the Lord.",
+      "korean_translation": "주님께로부터 온.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 26,
+      "original_text": "This year,",
+      "korean_translation": "이 해에는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 27,
+      "original_text": "you will eat crops",
+      "korean_translation": "너는 작물을 먹을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 28,
+      "original_text": "that grow by themselves.",
+      "korean_translation": "저절로 자라는.",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 29,
+      "original_text": "And next year",
+      "korean_translation": "그리고 다음 해에",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 30,
+      "original_text": "you will eat what grows",
+      "korean_translation": "너는 자라나는 것을 먹을 것이다",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 31,
+      "original_text": "from the same seeds.",
+      "korean_translation": "같은 씨앗에서 난.",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 32,
+      "original_text": "But in the third year",
+      "korean_translation": "하지만 세 번째 해에는",
+      "word_indices": [
+        431
+      ]
+    },
+    {
+      "sequence_order": 33,
+      "original_text": "you will plant seeds for yourselves,",
+      "korean_translation": "너희를 위해 씨앗을 심을 것이고,",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 34,
+      "original_text": "and they will give you",
+      "korean_translation": "그것들은 너에게 줄 것이다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 35,
+      "original_text": "a harvest of crops.",
+      "korean_translation": "작물의 수확물을.",
+      "word_indices": [
+        474
+      ]
+    },
+    {
+      "sequence_order": 36,
+      "original_text": "You will plant vines again",
+      "korean_translation": "너는 다시 포도나무를 심을 것이고",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 37,
+      "original_text": "and you will eat grapes from them.",
+      "korean_translation": "그것들에서 포도를 먹을 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 38,
+      "original_text": "Isaiah has told Hezekiah",
+      "korean_translation": "이사야는 히스기야에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 39,
+      "original_text": "about the Lord's message",
+      "korean_translation": "주님의 메시지에 대해",
+      "word_indices": [
+        2,
+        21
+      ]
+    },
+    {
+      "sequence_order": 40,
+      "original_text": "to King Sennacherib.",
+      "korean_translation": "산헤립 왕에게 보낸.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 41,
+      "original_text": "Now he speaks",
+      "korean_translation": "이제 그는 말한다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 42,
+      "original_text": "to King Hezekiah himself.",
+      "korean_translation": "히스기야 왕 자신에게.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 43,
+      "original_text": "King Hezekiah,",
+      "korean_translation": "히스기야 왕이여,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 44,
+      "original_text": "this is how you will know",
+      "korean_translation": "이것으로 너는 알게 될 것이다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 45,
+      "original_text": "that I have spoken a true message",
+      "korean_translation": "내가 참된 메시지를 말했다는 것을",
+      "word_indices": [
+        21,
+        69
+      ]
+    },
+    {
+      "sequence_order": 46,
+      "original_text": "from the Lord.",
+      "korean_translation": "주님께로부터 온.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 47,
+      "original_text": "This year,",
+      "korean_translation": "이 해에는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 48,
+      "original_text": "you will eat crops",
+      "korean_translation": "너는 작물을 먹을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 49,
+      "original_text": "that grow by themselves.",
+      "korean_translation": "저절로 자라는.",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 50,
+      "original_text": "And next year",
+      "korean_translation": "그리고 다음 해에",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 51,
+      "original_text": "you will eat what grows",
+      "korean_translation": "너는 자라나는 것을 먹을 것이다",
+      "word_indices": [
+        156
+      ]
+    },
+    {
+      "sequence_order": 52,
+      "original_text": "from the same seeds.",
+      "korean_translation": "같은 씨앗에서 난.",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 53,
+      "original_text": "But in the third year",
+      "korean_translation": "하지만 세 번째 해에는",
+      "word_indices": [
+        431
+      ]
+    },
+    {
+      "sequence_order": 54,
+      "original_text": "you will plant seeds for yourselves,",
+      "korean_translation": "너희를 위해 씨앗을 심을 것이고,",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 55,
+      "original_text": "and they will give you",
+      "korean_translation": "그것들은 너에게 줄 것이다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 56,
+      "original_text": "a harvest of crops.",
+      "korean_translation": "작물의 수확물을.",
+      "word_indices": [
+        474
+      ]
+    },
+    {
+      "sequence_order": 57,
+      "original_text": "You will plant vines again",
+      "korean_translation": "너는 다시 포도나무를 심을 것이고",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 58,
+      "original_text": "and you will eat grapes from them.",
+      "korean_translation": "그것들에서 포도를 먹을 것이다.",
+      "word_indices": []
+    }
+  ]
+}

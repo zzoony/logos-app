@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Leviticus 2:4",
+  "version": "EASY",
+  "original_text": "A person must not use yeast if he bakes his gift of grain. He must make cakes or biscuits with flour and oil.",
+  "korean_text": "네가 화덕에 구운 것으로 소제의 예물을 드리려거든 고운 가루에 기름을 섞어 만든 무교병이나 기름을 바른 무교전병을 드릴 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person must not use yeast",
+      "korean_translation": "한 사람은 누룩을 사용해서는 안 됩니다",
+      "word_indices": [
+        24,
+        600
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if he bakes his gift of grain",
+      "korean_translation": "그가 곡물 제물을 구울 경우에",
+      "word_indices": [
+        256
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must make cakes",
+      "korean_translation": "그는 빵을 만들어야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or biscuits with flour and oil",
+      "korean_translation": "또는 밀가루와 기름으로 과자를 만들어야 합니다",
+      "word_indices": [
+        435,
+        1166
+      ]
+    }
+  ]
+}

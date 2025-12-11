@@ -1,0 +1,45 @@
+{
+  "verse_reference": "2 Samuel 9:1",
+  "version": "EASY",
+  "original_text": "David asked, ‘Is there anyone from Saul's family who is still alive? I want to be kind to them because Jonathan was my friend.’",
+  "korean_text": "다윗이 이르되 사울의 집에 아직도 남은 사람이 있느냐 내가 요나단으로 말미암아 그 사람에게 은총을 베풀리라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David asked",
+      "korean_translation": "다윗이 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Is there anyone from Saul's family",
+      "korean_translation": "사울의 가족 중에 누가 있느냐",
+      "word_indices": [
+        56,
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is still alive?",
+      "korean_translation": "아직 살아있는 사람이 있느냐?",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I want to be kind to them",
+      "korean_translation": "나는 그들에게 친절하고 싶다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because Jonathan was my friend.",
+      "korean_translation": "왜냐하면 요나단은 내 친구였기 때문이다.",
+      "word_indices": [
+        113
+      ]
+    }
+  ]
+}

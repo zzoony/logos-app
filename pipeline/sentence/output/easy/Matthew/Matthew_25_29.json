@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 25:29",
+  "version": "EASY",
+  "original_text": "Some people have received good things. They will all receive even more and have lots of good things. Some other people have nothing. Those people will lose even the little bit that they do have.",
+  "korean_text": "무릇 있는 자는 받아 풍족하게 되고 없는 자는 그 있는 것까지 빼앗기리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some people have received good things.",
+      "korean_translation": "어떤 사람들은 좋은 것들을 받았습니다.",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They will all receive even more",
+      "korean_translation": "그들은 모두 더 많은 것을 받을 것입니다",
+      "word_indices": [
+        104
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and have lots of good things.",
+      "korean_translation": "그리고 많은 좋은 것들을 가지게 될 것입니다.",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Some other people have nothing.",
+      "korean_translation": "다른 어떤 사람들은 아무것도 없습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Those people will lose even the little bit",
+      "korean_translation": "그 사람들은 적은 양마저 잃을 것입니다",
+      "word_indices": [
+        401
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that they do have.",
+      "korean_translation": "그들이 가지고 있는.",
+      "word_indices": []
+    }
+  ]
+}

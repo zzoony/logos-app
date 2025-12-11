@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 10:5",
+  "version": "EASY",
+  "original_text": "In each town, when you go into a house, first say to the people who live there, “We pray that all will be well with you!”",
+  "korean_text": "어느 집에 들어가든지 먼저 말하되 이 집이 평안할지어다 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In each town",
+      "korean_translation": "각 도시에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when you go into a house",
+      "korean_translation": "집에 들어갈 때",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "first say to the people who live there",
+      "korean_translation": "먼저 그곳에 사는 사람들에게 말하라",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We pray that all will be well with you",
+      "korean_translation": "당신에게 모든 것이 잘되기를 기도합니다",
+      "word_indices": [
+        81
+      ]
+    }
+  ]
+}

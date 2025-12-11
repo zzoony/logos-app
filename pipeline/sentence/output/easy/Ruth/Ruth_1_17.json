@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Ruth 1:17",
+  "version": "EASY",
+  "original_text": "I will die in the same place that you die. That is where people will bury me. I will stay beside you until death makes us separate. If I ever leave you, the Lord should punish me.’",
+  "korean_text": "어머니께서 죽으시는 곳에서 나도 죽어 거기 묻힐 것이라 만일 내가 죽는 일 외에 어머니를 떠나면 여호와께서 내게 벌을 내리시고 더 내리시기를 원하나이다 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will die in the same place",
+      "korean_translation": "나는 같은 장소에서 죽을 것이다",
+      "word_indices": [
+        16,
+        74
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you die.",
+      "korean_translation": "당신이 죽는 그 곳에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That is where people will bury me.",
+      "korean_translation": "그곳이 사람들이 나를 묻을 장소이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will stay beside you",
+      "korean_translation": "나는 당신 곁에 머물 것이다",
+      "word_indices": [
+        343
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until death makes us separate.",
+      "korean_translation": "죽음이 우리를 갈라놓을 때까지",
+      "word_indices": [
+        153,
+        384
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "If I ever leave you,",
+      "korean_translation": "만약 내가 당신을 떠난다면",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "the Lord should punish me.'",
+      "korean_translation": "주님께서 나를 벌하실 것이다",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

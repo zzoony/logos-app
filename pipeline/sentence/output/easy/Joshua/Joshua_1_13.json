@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Joshua 1:13",
+  "version": "EASY",
+  "original_text": "‘Remember what Moses, the Lord's servant, told you. The Lord your God is giving to you a place to rest safely. He has given this land to you.",
+  "korean_text": "여호와의 종 모세가 너희에게 명령하여 이르기를 너희의 하나님 여호와께서 너희에게 안식을 주시며 이 땅을 너희에게 주시리라 하였나니 너희는 그 말을 기억하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Remember what Moses, the Lord's servant, told you",
+      "korean_translation": "주의 종 모세가 너희에게 명령한 말을 기억하라",
+      "word_indices": [
+        2,
+        44,
+        139
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Lord your God is giving to you a place to rest safely",
+      "korean_translation": "너희 하나님 여호와께서 너희에게 안식할 곳을 주시느라라",
+      "word_indices": [
+        2,
+        4,
+        16,
+        269,
+        371
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He has given this land to you",
+      "korean_translation": "그가 이 땅을 너희에게 주었느니라",
+      "word_indices": [
+        4,
+        14
+      ]
+    }
+  ]
+}

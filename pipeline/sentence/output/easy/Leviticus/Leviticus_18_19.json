@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Leviticus 18:19",
+  "version": "EASY",
+  "original_text": "Do not have sex with a woman at the time when she bleeds each month. She is unclean during that time.",
+  "korean_text": "너는 여인이 월경으로 불결한 동안에 그에게 가까이 하여 그의 하체를 범하지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not have sex with a woman",
+      "korean_translation": "여자와 성관계를 갖지 말라",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the time when she bleeds each month",
+      "korean_translation": "그녀가 매월 출혈하는 그 시간에",
+      "word_indices": [
+        255,
+        886
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She is unclean during that time",
+      "korean_translation": "그녀는 그 시간 동안 부정하다",
+      "word_indices": [
+        304
+      ]
+    }
+  ]
+}

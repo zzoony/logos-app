@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Kings 11:6",
+  "version": "EASY",
+  "original_text": "Another group must stand at the Sur Gate. The third group must stand at the gate behind the special guards.",
+  "korean_text": "삼분의 일은 수르 문에 있고 삼분의 일은 호위대 뒤에 있는 문에 있어서 이와 같이 왕궁을 주의하여 지키고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Another group must stand at the Sur Gate.",
+      "korean_translation": "다른 그룹은 수르 문에 서야 합니다.",
+      "word_indices": [
+        77,
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The third group must stand at the gate",
+      "korean_translation": "세 번째 그룹은 그 문에 서야 합니다.",
+      "word_indices": [
+        77,
+        168,
+        431
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "behind the special guards.",
+      "korean_translation": "특별 경비병들 뒤에.",
+      "word_indices": [
+        68,
+        283
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Acts 3:4",
+  "version": "EASY",
+  "original_text": "Peter looked carefully at the man and so did John. Peter said to him, ‘Look at us!’",
+  "korean_text": "베드로가 요한과 더불어 주목하여 이르되 우리를 보라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter looked carefully at the man",
+      "korean_translation": "베드로가 그 사람을 주의 깊게 보았습니다",
+      "word_indices": [
+        217
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and so did John",
+      "korean_translation": "요한도 마찬가지였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Peter said to him",
+      "korean_translation": "베드로가 그에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Look at us!'",
+      "korean_translation": "'우리를 보세요!'",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Amos 3:4",
+  "version": "EASY",
+  "original_text": "If a lion roars in the forest, it means that he has killed an animal to eat. A young lion does not shout unless he has caught something.",
+  "korean_text": "사자가 움킨 것이 없는데 어찌 수풀에서 부르짖겠으며 젊은 사자가 잡은 것이 없는데 어찌 굴에서 소리를 내겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If a lion roars in the forest,",
+      "korean_translation": "만약 사자가 숲에서 포효하면,",
+      "word_indices": [
+        602
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it means that he has killed an animal to eat.",
+      "korean_translation": "그것은 그가 먹기 위해 동물을 죽였다는 것을 의미합니다.",
+      "word_indices": [
+        26,
+        48
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A young lion does not shout",
+      "korean_translation": "어린 사자는 외치지 않습니다",
+      "word_indices": [
+        108,
+        174
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "unless he has caught something.",
+      "korean_translation": "그가 무언가를 잡지 않는 한.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Ezekiel 47:2",
+  "version": "EASY",
+  "original_text": "The man took me out through the north gate of the temple. We went around the outside to the gate that opens towards the east. There I saw a small stream of water. It was coming out from the south side of the gate.",
+  "korean_text": "그가 또 나를 데리고 북문으로 나가서 바깥 길로 꺾여 동쪽을 향한 바깥 문에 이르시기로 본즉 물이 그 오른쪽에서 스며 나오더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man took me out",
+      "korean_translation": "그 남자는 나를 데리고 나갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "through the north gate of the temple",
+      "korean_translation": "성전의 북문을 통해",
+      "word_indices": [
+        49,
+        168,
+        192,
+        259
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We went around the outside",
+      "korean_translation": "우리는 바깥을 돌아갔다",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to the gate that opens towards the east",
+      "korean_translation": "동쪽을 향해 열리는 문으로",
+      "word_indices": [
+        168,
+        284
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "There I saw a small stream of water",
+      "korean_translation": "거기서 나는 작은 물줄기를 보았다",
+      "word_indices": [
+        60,
+        295
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "It was coming out from the south side",
+      "korean_translation": "그것은 남쪽에서 나오고 있었다",
+      "word_indices": [
+        285
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "of the gate",
+      "korean_translation": "문의",
+      "word_indices": [
+        168
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "verse_reference": "John 7:36",
+  "version": "EASY",
+  "original_text": "He said, “You will look for me, but you will not find me.” And he also said, “You cannot go to the place where I will be.” What does he mean?’",
+  "korean_text": "나를 찾아도 만나지 못할 터이요 나 있는 곳에 오지도 못하리라 한 이 말이 무슨 말이냐 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You will look for me",
+      "korean_translation": "너희가 나를 찾을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but you will not find me",
+      "korean_translation": "하지만 나를 찾지 못할 것이다",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And he also said",
+      "korean_translation": "그리고 그는 또한 말했다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You cannot go to the place",
+      "korean_translation": "너희는 그 장소에 갈 수 없다",
+      "word_indices": [
+        16,
+        114
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "where I will be",
+      "korean_translation": "내가 있을 곳",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "What does he mean?",
+      "korean_translation": "그는 무엇을 의미하는가?",
+      "word_indices": []
+    }
+  ]
+}

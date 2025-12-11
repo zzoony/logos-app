@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 28:2",
+  "version": "EASY",
+  "original_text": "Go now to Paddan Aram. Go to the house of your mother's father, Bethuel. Find a wife for yourself from there. Choose one of the daughters of your mother's brother, Laban.",
+  "korean_text": "일어나 밧단아람으로 가서 네 외조부 브두엘의 집에 이르러 거기서 네 외삼촌 라반의 딸 중에서 아내를 맞이하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Go now to Paddan Aram.",
+      "korean_translation": "이제 블단 아람으로 가라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go to the house of your mother's father, Bethuel.",
+      "korean_translation": "네 어머니의 아버지 브두엘의 집으로 가라.",
+      "word_indices": [
+        37,
+        67,
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Find a wife for yourself from there.",
+      "korean_translation": "거기서 너를 위한 아내를 찾아라.",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Choose one of the daughters of your mother's brother, Laban.",
+      "korean_translation": "네 어머니의 오라비 라반의 딸 중 한 명을 선택하라.",
+      "word_indices": [
+        51,
+        135,
+        173,
+        202
+      ]
+    }
+  ]
+}

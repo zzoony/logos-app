@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Leviticus 23:32",
+  "version": "EASY",
+  "original_text": "It is a Sabbath rest for all the people. They must not eat any food. They must rest from the evening of the ninth day until the evening of the tenth day.’",
+  "korean_text": "이는 너희가 쉴 안식일이라 너희는 스스로 괴롭게 하고 이 달 아흐렛날 저녁 곧 그 저녁부터 이튿날 저녁까지 안식을 지킬지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is a Sabbath rest for all the people",
+      "korean_translation": "그것은 모든 백성을 위한 안식일 안식입니다",
+      "word_indices": [
+        269,
+        484
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They must not eat any food",
+      "korean_translation": "그들은 어떤 음식도 먹어서는 안 됩니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They must rest",
+      "korean_translation": "그들은 쉬어야 합니다",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the evening of the ninth day",
+      "korean_translation": "구일 저녁부터",
+      "word_indices": [
+        1023
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until the evening of the tenth day",
+      "korean_translation": "십일 저녁까지",
+      "word_indices": [
+        671
+      ]
+    }
+  ]
+}

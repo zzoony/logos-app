@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Leviticus 19:15",
+  "version": "EASY",
+  "original_text": "You must be fair to other people when you judge them. You must not be more kind to a rich person than to a poor person. You must be fair to everyone.",
+  "korean_text": "너희는 재판할 때에 불의를 행하지 말며 가난한 자의 편을 들지 말며 세력 있는 자라고 두둔하지 말고 공의로 사람을 재판할지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must be fair to other people",
+      "korean_translation": "너는 다른 사람들에게 공정해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when you judge them",
+      "korean_translation": "그들을 심판할 때",
+      "word_indices": [
+        186
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must not be more kind to a rich person",
+      "korean_translation": "너는 부자에게 더 친절해서는 안 된다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than to a poor person",
+      "korean_translation": "가난한 사람보다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You must be fair to everyone",
+      "korean_translation": "너는 모든 사람에게 공정해야 한다",
+      "word_indices": [
+        97
+      ]
+    }
+  ]
+}

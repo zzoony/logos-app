@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Esther 1:2",
+  "version": "EASY",
+  "original_text": "King Xerxes lived in the capital, the city of Susa.",
+  "korean_text": "당시에 아하수에로 왕이 수산 궁에서 즉위하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Xerxes lived in the capital",
+      "korean_translation": "크셀크세스 왕은 수도에 살았습니다",
+      "word_indices": [
+        3,
+        962
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the city of Susa",
+      "korean_translation": "수사 성",
+      "word_indices": [
+        20
+      ]
+    }
+  ]
+}

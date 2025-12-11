@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 17:6",
+  "version": "EASY",
+  "original_text": "I will give you many descendants. These will make many nations of people. Some of your descendants will become kings.",
+  "korean_text": "내가 너로 심히 번성하게 하리니 내가 네게서 민족들이 나게 하며 왕들이 네게로부터 나오리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will give you many descendants.",
+      "korean_translation": "내가 너에게 많은 자손을 주겠다.",
+      "word_indices": [
+        4,
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "These will make many nations of people.",
+      "korean_translation": "그들은 많은 민족을 이룰 것이다.",
+      "word_indices": [
+        70
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Some of your descendants",
+      "korean_translation": "네 자손 중 일부는",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will become kings.",
+      "korean_translation": "왕이 될 것이다.",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

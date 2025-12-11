@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 1:42",
+  "version": "EASY",
+  "original_text": "She spoke to Mary in a loud voice, ‘God has made you very happy. He has been good and kind to you more than to other women. He has also been good and kind to your baby.",
+  "korean_text": "큰 소리로 불러 이르되 여자 중에 네가 복이 있으며 네 태중의 아이도 복이 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She spoke to Mary in a loud voice",
+      "korean_translation": "그녀는 마리아에게 큰 소리로 말했습니다",
+      "word_indices": [
+        335
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'God has made you very happy",
+      "korean_translation": "'하나님께서 당신을 매우 기쁘게 하셨습니다",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He has been good and kind to you",
+      "korean_translation": "그분께서 당신에게 좋고 친절하셨습니다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "more than to other women",
+      "korean_translation": "다른 여성들보다 더",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He has also been good and kind to your baby.'",
+      "korean_translation": "그분께서 또한 당신의 아기에게도 좋고 친절하셨습니다.'",
+      "word_indices": [
+        9,
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "2 Samuel 19:29",
+  "version": "EASY",
+  "original_text": "The king said, ‘You have said enough about this. I have decided that you and Ziba will share the fields that belonged to your grandfather, Saul.’",
+  "korean_text": "왕이 그에게 이르되 네가 어찌하여 또 네 일을 말하느냐 내가 이르노니 너는 시바와 밭을 나누라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king said",
+      "korean_translation": "왕이 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have said enough about this",
+      "korean_translation": "네가 이것에 대해 충분히 말했다",
+      "word_indices": [
+        228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have decided",
+      "korean_translation": "내가 결정했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you and Ziba will share the fields",
+      "korean_translation": "너와 시바가 그 밭을 나눌 것이라고",
+      "word_indices": [
+        152,
+        555
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that belonged to your grandfather, Saul",
+      "korean_translation": "네 할아버지 사울에게 속했던",
+      "word_indices": [
+        45,
+        1161
+      ]
+    }
+  ]
+}

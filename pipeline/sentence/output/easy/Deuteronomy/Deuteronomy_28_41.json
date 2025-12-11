@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Deuteronomy 28:41",
+  "version": "EASY",
+  "original_text": "You will give birth to sons and daughters, but you will lose them. Enemies will take them away as prisoners.",
+  "korean_text": "네가 자녀를 낳을지라도 그들이 포로가 되므로 너와 함께 있지 못할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will give birth to sons and daughters",
+      "korean_translation": "너는 아들과 딸을 낳을 것이요",
+      "word_indices": [
+        4,
+        173,
+        249
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you will lose them",
+      "korean_translation": "그러나 너는 그들을 잃게 될 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Enemies will take them away as prisoners",
+      "korean_translation": "원수들이 그들을 포로로 잡아갈 것이다",
+      "word_indices": [
+        50,
+        320
+      ]
+    }
+  ]
+}

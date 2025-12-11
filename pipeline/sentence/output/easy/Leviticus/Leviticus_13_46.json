@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Leviticus 13:46",
+  "version": "EASY",
+  "original_text": "He must be alone all the time that he has a disease. He must live outside the camp.",
+  "korean_text": "병 있는 날 동안은 늘 부정할 것이라 그가 부정한즉 혼자 살되 진영 밖에서 살지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He must be alone all the time",
+      "korean_translation": "그는 항상 혼자 있어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he has a disease",
+      "korean_translation": "그가 질병을 가지고 있는 동안",
+      "word_indices": [
+        340
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must live outside the camp",
+      "korean_translation": "그는 진영 밖에서 살아야 한다",
+      "word_indices": [
+        8,
+        286,
+        315
+      ]
+    }
+  ]
+}

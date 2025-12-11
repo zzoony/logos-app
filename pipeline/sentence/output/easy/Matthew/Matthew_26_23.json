@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 26:23",
+  "version": "EASY",
+  "original_text": "Jesus said to them ‘The man who will give me to the rulers is eating from the same dish as I am.",
+  "korean_text": "대답하여 이르시되 나와 함께 그릇에 손을 넣는 그가 나를 팔리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The man who will give me to the rulers",
+      "korean_translation": "나를 통치자들에게 넘겨줄 사람",
+      "word_indices": [
+        4,
+        206
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is eating from the same dish as I am",
+      "korean_translation": "나와 같은 그릇에서 음식을 먹고 있다",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

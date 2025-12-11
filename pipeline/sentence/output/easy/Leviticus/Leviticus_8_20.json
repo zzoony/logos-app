@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Leviticus 8:20",
+  "version": "EASY",
+  "original_text": "Moses cut the sheep into small pieces. He burnt the fat and the head and the pieces on the altar.",
+  "korean_text": "그 숫양의 각을 뜨고 모세가 그 머리와 각 뜬 것과 기름을 불사르고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses cut the sheep into small pieces",
+      "korean_translation": "모세가 양을 작은 조각으로 잘랐습니다",
+      "word_indices": [
+        125,
+        295
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He burnt the fat",
+      "korean_translation": "그는 기름을 태웠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the head",
+      "korean_translation": "그리고 머리도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and the pieces on the altar",
+      "korean_translation": "그리고 조각들을 제단 위에서 태웠습니다",
+      "word_indices": [
+        119
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Ezra 3:6",
+  "version": "EASY",
+  "original_text": "They began to offer those burnt offerings on the first day of the seventh month. That was before they had started to build the temple.",
+  "korean_text": "일곱째 달 초하루부터 비로소 여호와께 번제를 드렸으나 그 때에 여호와의 성전 지대는 미처 놓지 못한지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They began to offer those burnt offerings",
+      "korean_translation": "그들은 그 번제물을 드리기 시작했습니다",
+      "word_indices": [
+        55,
+        200
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the first day of the seventh month",
+      "korean_translation": "일곱째 달 첫째 날에",
+      "word_indices": [
+        255,
+        469
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That was before",
+      "korean_translation": "그것은 그전이었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they had started to build the temple",
+      "korean_translation": "그들이 성전을 짓기 시작했을 때",
+      "word_indices": [
+        49,
+        99,
+        222
+      ]
+    }
+  ]
+}

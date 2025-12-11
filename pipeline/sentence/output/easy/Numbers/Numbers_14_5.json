@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Numbers 14:5",
+  "version": "EASY",
+  "original_text": "Then Moses and Aaron threw themselves on the ground in front of the whole group of the Israelites.",
+  "korean_text": "모세와 아론이 이스라엘 자손의 온 회중 앞에서 엎드린지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Moses and Aaron",
+      "korean_translation": "그때 모세와 아론은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "threw themselves on the ground",
+      "korean_translation": "땅에 엎드렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in front of the whole group",
+      "korean_translation": "온 무리 앞에서",
+      "word_indices": [
+        123,
+        169
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the Israelites",
+      "korean_translation": "이스라엘 백성의",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Genesis 45:11",
+  "version": "EASY",
+  "original_text": "I will take care of you there. I will give food to you, because there will be five more years of famine. If you do not come here, you and all your family and servants will become very poor.” ’",
+  "korean_text": "흉년이 아직 다섯 해가 있으니 내가 거기서 아버지를 봉양하리이다 아버지와 아버지의 가족과 아버지께 속한 모든 사람에게 부족함이 없도록 하겠나이다 하더라고 전하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will take care of you there.",
+      "korean_translation": "내가 그곳에서 너희를 돌볼 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will give food to you,",
+      "korean_translation": "내가 너희에게 음식을 주겠고,",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because there will be five more years of famine.",
+      "korean_translation": "다섯 해 더 흉년이 있을 것이기 때문이다.",
+      "word_indices": [
+        509
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you do not come here,",
+      "korean_translation": "만약 너희가 이곳에 오지 않으면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you and all your family and servants",
+      "korean_translation": "너와 네 모든 가족과 종들이",
+      "word_indices": [
+        44,
+        56
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will become very poor.",
+      "korean_translation": "매우 가난해질 것이다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 24:18",
+  "version": "EASY",
+  "original_text": "Moses went up the mountain and he went into the cloud. He stayed on the mountain for 40 days and 40 nights.",
+  "korean_text": "모세는 구름 속으로 들어가서 산 위에 올랐으며 모세가 사십 일 사십 야를 산에 있으니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses went up the mountain",
+      "korean_translation": "모세가 산에 올라갔습니다",
+      "word_indices": [
+        175
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he went into the cloud",
+      "korean_translation": "그리고 구름 속으로 들어갔습니다",
+      "word_indices": [
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He stayed on the mountain",
+      "korean_translation": "그는 산에 머물렀습니다",
+      "word_indices": [
+        175
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for 40 days and 40 nights",
+      "korean_translation": "40일 40밤 동안",
+      "word_indices": [
+        211
+      ]
+    }
+  ]
+}

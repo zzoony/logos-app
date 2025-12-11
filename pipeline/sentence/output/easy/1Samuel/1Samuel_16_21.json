@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Samuel 16:21",
+  "version": "EASY",
+  "original_text": "David went to Saul. He became Saul's servant. Saul loved David. David carried Saul's armour for him.",
+  "korean_text": "다윗이 사울에게 이르러 그 앞에 모셔 서매 사울이 그를 크게 사랑하여 자기의 무기를 드는 자로 삼고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David went to Saul",
+      "korean_translation": "다윗이 사울에게 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He became Saul's servant",
+      "korean_translation": "그는 사울의 종이 되었습니다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Saul loved David",
+      "korean_translation": "사울은 다윗을 사랑했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "David carried Saul's armour for him",
+      "korean_translation": "다윗은 그를 위해 사울의 갑옷을 들었습니다",
+      "word_indices": [
+        901
+      ]
+    }
+  ]
+}

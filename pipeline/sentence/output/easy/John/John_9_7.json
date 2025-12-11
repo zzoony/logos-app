@@ -1,0 +1,54 @@
+{
+  "verse_reference": "John 9:7",
+  "version": "EASY",
+  "original_text": "Jesus said to him, ‘Go and wash in the Siloam pool.’ (The name Siloam means ‘Sent’.) So the man went there and he washed himself. When he returned, now he could see.",
+  "korean_text": "이르시되 실로암 못에 가서 씻으라 하시니 (실로암은 번역하면 보냄을 받았다는 뜻이라) 이에 가서 씻고 밝은 눈으로 왔더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수님께서 그에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Go and wash in the Siloam pool.'",
+      "korean_translation": "'실로암 못에 가서 씻으라.'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "(The name Siloam means 'Sent'.)",
+      "korean_translation": "(실로암이란 번역된다는 뜻이다.)",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So the man went there",
+      "korean_translation": "그 사람이 그곳에 가서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he washed himself.",
+      "korean_translation": "씻었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "When he returned,",
+      "korean_translation": "그가 돌아올 때,",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "now he could see.",
+      "korean_translation": "그는 이제 볼 수 있었다.",
+      "word_indices": []
+    }
+  ]
+}

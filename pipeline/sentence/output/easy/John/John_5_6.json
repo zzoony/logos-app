@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 5:6",
+  "version": "EASY",
+  "original_text": "Jesus saw this man. He knew that the man had been ill like this for a very long time. So he asked the man, ‘Do you want to get well?’",
+  "korean_text": "예수께서 그 누운 것을 보시고 병이 벌써 오래된 줄 아시고 이르시되 네가 낫고자 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus saw this man.",
+      "korean_translation": "예수님은 이 사람을 보셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He knew that the man had been ill",
+      "korean_translation": "그는 그 사람이 병들었었다는 것을 알았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like this for a very long time.",
+      "korean_translation": "아주 오랫동안 이렇게.",
+      "word_indices": [
+        134
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So he asked the man,",
+      "korean_translation": "그래서 그는 그 사람에게 물었습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'Do you want to get well?'",
+      "korean_translation": "'나아지고 싶습니까?'",
+      "word_indices": []
+    }
+  ]
+}

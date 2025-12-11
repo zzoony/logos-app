@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 1:19",
+  "version": "EASY",
+  "original_text": "Joseph was a good man. He wanted to do what was right. He did not want her to become ashamed in front of people. So he decided to stop their marriage secretly.",
+  "korean_text": "그의 남편 요셉은 의로운 사람이라 그를 드러내지 아니하고 가만히 끊고자 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph was a good man.",
+      "korean_translation": "요셉은 선한 사람이었습니다.",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He wanted to do what was right.",
+      "korean_translation": "그는 옳은 일을 하고 싶어했습니다.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He did not want her to become ashamed.",
+      "korean_translation": "그는 그녀가 부끄럽게 되기를 원하지 않았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He did not want her to be ashamed in front of people.",
+      "korean_translation": "그는 그녀가 사람들 앞에서 부끄럽게 되기를 원하지 않았습니다.",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So he decided to stop their marriage secretly.",
+      "korean_translation": "그래서 그는 비밀리에 그들의 결혼을 중단하기로 결정했습니다.",
+      "word_indices": [
+        641,
+        871
+      ]
+    }
+  ]
+}

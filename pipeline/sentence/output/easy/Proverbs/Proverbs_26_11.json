@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Proverbs 26:11",
+  "version": "EASY",
+  "original_text": "A sick dog goes back to eat what it could not keep in its stomach.",
+  "korean_text": "개가 그 토한 것을 도로 먹는 것 같이 미련한 자는 그 미련한 것을 거듭 행하느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A sick dog goes back",
+      "korean_translation": "아픈 개는 돌아간다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to eat what it could not keep",
+      "korean_translation": "그것이 지킬 수 없었던 것을 먹으러",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in its stomach",
+      "korean_translation": "그것의 위에",
+      "word_indices": [
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse_reference": "John 14:28",
+  "version": "EASY",
+  "original_text": "You heard me say to you, “I will go away, but I will return to you.” If you loved me, you would be happy because of that. You would be happy because I will go to the Father. And he is greater than I am.",
+  "korean_text": "내가 갔다가 너희에게로 온다 하는 말을 너희가 들었나니 나를 사랑하였더라면 내가 아버지께로 감을 기뻐하였으리라 아버지는 나보다 크심이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You heard me say to you",
+      "korean_translation": "너희가 내가 너희에게 말한 것을 들었느니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will go away",
+      "korean_translation": "내가 떠나 가겠으나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but I will return to you",
+      "korean_translation": "다시 너희에게 돌아오리라",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you loved me",
+      "korean_translation": "너희가 나를 사랑하였더라면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you would be happy because of that",
+      "korean_translation": "내가 아버지께로 가는 것을 기뻐하였을 것이라",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You would be happy because I will go to the Father",
+      "korean_translation": "내가 아버지께로 가는 것을 기뻐하였을 것이라",
+      "word_indices": [
+        37,
+        57
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "And he is greater than I am",
+      "korean_translation": "아버지는 나보다 크심이니라",
+      "word_indices": [
+        561
+      ]
+    }
+  ]
+}

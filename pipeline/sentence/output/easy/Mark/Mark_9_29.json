@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Mark 9:29",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘You must pray. This kind of spirit will not leave a person unless you pray.’",
+  "korean_text": "이르시되 기도 외에 다른 것으로는 이런 종류가 나갈 수 없느니라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You must pray.'",
+      "korean_translation": "'너희는 기도해야 한다.'",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This kind of spirit",
+      "korean_translation": "이러한 종류의 귀신은",
+      "word_indices": [
+        92
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will not leave a person",
+      "korean_translation": "사람에게서 떠나지 않는다",
+      "word_indices": [
+        24,
+        66
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "unless you pray.'",
+      "korean_translation": "너희가 기도하지 않으면.'",
+      "word_indices": [
+        81
+      ]
+    }
+  ]
+}

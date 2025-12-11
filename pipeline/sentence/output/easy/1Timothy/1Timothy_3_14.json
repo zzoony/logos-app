@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Timothy 3:14",
+  "version": "EASY",
+  "original_text": "I hope to come to visit you soon. But anyway, I want to write these things to you now.",
+  "korean_text": "내가 속히 네게 가기를 바라나 이것을 네게 쓰는 것은",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I hope to come to visit you soon",
+      "korean_translation": "나는 곧 당신을 방문하기를 희망합니다",
+      "word_indices": [
+        380,
+        408
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But anyway",
+      "korean_translation": "하지만 어쨌든",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I want to write these things to you now",
+      "korean_translation": "나는 지금 당신에게 이것들을 쓰고 싶습니다",
+      "word_indices": [
+        124
+      ]
+    }
+  ]
+}

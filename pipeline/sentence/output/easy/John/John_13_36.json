@@ -1,0 +1,57 @@
+{
+  "verse_reference": "John 13:36",
+  "version": "EASY",
+  "original_text": "Simon Peter asked him, ‘ Lord, where will you go?’ Jesus replied, ‘You cannot follow now where I will go. But some time after this, you will follow.’",
+  "korean_text": "시몬 베드로가 이르되 주여 어디로 가시나이까 예수께서 대답하시되 내가 가는 곳에 네가 지금은 따라올 수 없으나 후에는 따라오리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Simon Peter asked him",
+      "korean_translation": "시몬 베드로가 그에게 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord, where will you go?",
+      "korean_translation": "주님, 어디로 가시겠습니까?",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You cannot follow now",
+      "korean_translation": "너는 지금 따라올 수 없다",
+      "word_indices": [
+        114,
+        388
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "where I will go",
+      "korean_translation": "내가 갈 곳으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "But some time after this",
+      "korean_translation": "그러나 얼마 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "you will follow",
+      "korean_translation": "너는 따를 것이다",
+      "word_indices": [
+        388
+      ]
+    }
+  ]
+}

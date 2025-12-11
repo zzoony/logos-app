@@ -1,0 +1,38 @@
+{
+  "verse_reference": "2 Corinthians 11:8",
+  "version": "EASY",
+  "original_text": "Believers in other churches gave money to me so that I could serve you. It is like I was robbing them so that I could help you.",
+  "korean_text": "내가 너희를 섬기기 위하여 다른 여러 교회에서 비용을 받은 것은 탈취한 것이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Believers in other churches gave money to me",
+      "korean_translation": "다른 교회의 신자들이 나에게 돈을 주었습니다",
+      "word_indices": [
+        4,
+        142,
+        185
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that I could serve you",
+      "korean_translation": "그래서 내가 여러분을 섬길 수 있었습니다",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is like I was robbing them",
+      "korean_translation": "마치 내가 그들을 털고 있는 것 같습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that I could help you",
+      "korean_translation": "그래서 내가 여러분을 도울 수 있도록",
+      "word_indices": []
+    }
+  ]
+}

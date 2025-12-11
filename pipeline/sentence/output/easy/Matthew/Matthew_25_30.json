@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 25:30",
+  "version": "EASY",
+  "original_text": "This servant cannot work for me any longer. Take him outside and throw him into a dark place. There, people will cry and they will bite their teeth together.” ’",
+  "korean_text": "이 무익한 종을 바깥 어두운 데로 내쫓으라 거기서 슬피 울며 이를 갈리라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This servant cannot work for me any longer",
+      "korean_translation": "이 종은 더 이상 나를 위해 일할 수 없다",
+      "word_indices": [
+        35,
+        44,
+        114,
+        171
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take him outside",
+      "korean_translation": "그를 밖으로 데려가라",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and throw him into a dark place",
+      "korean_translation": "그리고 그를 어두운 곳에 던져라",
+      "word_indices": [
+        16,
+        190
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "There, people will cry",
+      "korean_translation": "그곳에서 사람들은 울 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they will bite their teeth together",
+      "korean_translation": "그리고 그들은 이를 악물 것이다",
+      "word_indices": [
+        761
+      ]
+    }
+  ]
+}

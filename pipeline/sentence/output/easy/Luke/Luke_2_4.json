@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Luke 2:4",
+  "version": "EASY",
+  "original_text": "So Joseph went to his home town, Bethlehem. He was living in the town of Nazareth, in Galilee. Bethlehem was in Judea. King David had been born there, so Bethlehem was called the town of David. Joseph belonged to the family of David. That is why he went to Bethlehem.",
+  "korean_text": "요셉도 다윗의 집 족속이므로 갈릴리 나사렛 동네에서 유대를 향하여 베들레헴이라 하는 다윗의 동네로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Joseph went to his home town, Bethlehem.",
+      "korean_translation": "그래서 요셉은 자신의 고향 베들레헴으로 갔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He was living in the town of Nazareth, in Galilee.",
+      "korean_translation": "그는 갈릴리 나사렛 마을에 살고 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Bethlehem was in Judea.",
+      "korean_translation": "베들레헴은 유대에 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "King David had been born there,",
+      "korean_translation": "다윗 왕이 그곳에서 태어났으므로,",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so Bethlehem was called the town of David.",
+      "korean_translation": "베들레헴은 다윗의 마을이라고 불렸습니다.",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Joseph belonged to the family of David.",
+      "korean_translation": "요셉은 다윗의 가족에 속했습니다.",
+      "word_indices": [
+        45,
+        56
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "That is why he went to Bethlehem.",
+      "korean_translation": "그것이 그가 베들레헴으로 간 이유입니다.",
+      "word_indices": []
+    }
+  ]
+}

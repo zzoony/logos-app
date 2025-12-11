@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Matthew 27:65",
+  "version": "EASY",
+  "original_text": "Pilate said to them, ‘OK. You may take a group of soldiers to watch the place. Let them fix the rock well, so that nobody can open it.’",
+  "korean_text": "빌라도가 이르되 너희에게 경비병이 있으니 가서 힘대로 굳게 지키라 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pilate said to them",
+      "korean_translation": "빌라도가 그들에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "OK",
+      "korean_translation": "좋아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You may take a group of soldiers",
+      "korean_translation": "너희는 군인들을 데려갈 수 있다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to watch the place",
+      "korean_translation": "그 곳을 지키기 위해",
+      "word_indices": [
+        16,
+        273
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Let them fix the rock well",
+      "korean_translation": "그들이 바위를 잘 고정하게 하라",
+      "word_indices": [
+        279
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "so that nobody can open it",
+      "korean_translation": "아무도 그것을 열 수 없도록",
+      "word_indices": []
+    }
+  ]
+}

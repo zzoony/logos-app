@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Kings 17:22",
+  "version": "EASY",
+  "original_text": "The Lord answered Elijah's prayer. The boy started to breathe again. He was alive!",
+  "korean_text": "여호와께서 엘리야의 소리를 들으시므로 그 아이의 혼이 몸으로 돌아오고 살아난지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord answered Elijah's prayer",
+      "korean_translation": "주님께서 엘리야의 기도에 응답하셨다",
+      "word_indices": [
+        2,
+        160,
+        567
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The boy started to breathe again",
+      "korean_translation": "소년이 다시 숨을 쉬기 시작했다",
+      "word_indices": [
+        222,
+        881
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He was alive",
+      "korean_translation": "그는 살아있었다",
+      "word_indices": [
+        151
+      ]
+    }
+  ]
+}

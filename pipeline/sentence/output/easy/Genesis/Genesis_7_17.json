@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 7:17",
+  "version": "EASY",
+  "original_text": "For 40 days, the water on the earth became deeper. The water lifted the ship high above the ground.",
+  "korean_text": "홍수가 땅에 사십 일 동안 계속된지라 물이 많아져 방주가 땅에서 떠올랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For 40 days,",
+      "korean_translation": "40일 동안,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the water on the earth became deeper.",
+      "korean_translation": "땅의 물이 더 깊어졌습니다.",
+      "word_indices": [
+        60,
+        93,
+        1374
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The water lifted the ship high above the ground.",
+      "korean_translation": "물이 배를 땅에서 높이 들어 올렸습니다.",
+      "word_indices": [
+        60,
+        275
+      ]
+    }
+  ]
+}

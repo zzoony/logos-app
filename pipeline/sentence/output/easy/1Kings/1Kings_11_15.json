@@ -1,0 +1,59 @@
+{
+  "verse_reference": "1 Kings 11:15",
+  "version": "EASY",
+  "original_text": "When David was king, he had fought against Edom's people. Joab, the leader of David's army, had gone to Edom to bury the dead Israelite soldiers. At that time, Joab killed all the men in Edom.",
+  "korean_text": "전에 다윗이 에돔에 있을 때에 군대 지휘관 요압이 가서 죽임을 당한 자들을 장사하고 에돔의 남자를 다 쳐서 죽였는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When David was king",
+      "korean_translation": "다윗이 왕이었을 때",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he had fought against Edom's people",
+      "korean_translation": "그는 에돔 사람들과 싸웠었다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Joab, the leader of David's army",
+      "korean_translation": "다윗의 군대 장관 요압은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "had gone to Edom",
+      "korean_translation": "에돔으로 갔었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to bury the dead Israelite soldiers",
+      "korean_translation": "죽은 이스라엘 병사들을 묻기 위해",
+      "word_indices": [
+        36,
+        133
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "At that time",
+      "korean_translation": "그때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Joab killed all the men in Edom",
+      "korean_translation": "요압은 에돔의 모든 남자들을 죽였다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

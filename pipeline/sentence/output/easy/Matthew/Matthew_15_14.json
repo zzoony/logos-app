@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 15:14",
+  "version": "EASY",
+  "original_text": "Do not listen to what the Pharisees say. They are blind, but they try to show people which way to go. A blind person cannot lead another blind person. If he does, then both of them will fall into a deep hole.’",
+  "korean_text": "그냥 두라 그들은 맹인이 되어 맹인을 인도하는 자로다 만일 맹인이 맹인을 인도하면 둘이 다 구덩이에 빠지리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not listen to what the Pharisees say",
+      "korean_translation": "바리새인들이 하는 말을 듣지 마라",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They are blind",
+      "korean_translation": "그들은 소경이다",
+      "word_indices": [
+        505
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but they try to show people which way to go",
+      "korean_translation": "하지만 그들은 사람들이 어디로 가야 할지 가르치려고 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "A blind person cannot lead another blind person",
+      "korean_translation": "소경은 다른 소경을 인도할 수 없다",
+      "word_indices": [
+        24,
+        114,
+        207,
+        505
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If he does",
+      "korean_translation": "그가 만약 그렇게 한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "then both of them will fall into a deep hole",
+      "korean_translation": "그러면 둘 다 깊은 구덩이에 빠지게 될 것이다",
+      "word_indices": [
+        208
+      ]
+    }
+  ]
+}

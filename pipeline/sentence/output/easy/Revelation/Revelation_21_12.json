@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Revelation 21:12",
+  "version": "EASY",
+  "original_text": "The city had a very big, high wall round it. The wall had 12 gates in it. 12 angels stood at the 12 gates. The names of the 12 tribes of Israel's people were written on the 12 gates.",
+  "korean_text": "크고 높은 성곽이 있고 열두 문이 있는데 문에 열두 천사가 있고 그 문들 위에 이름을 썼으니 이스라엘 자손 열두 지파의 이름들이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The city had a very big, high wall round it.",
+      "korean_translation": "그 도시는 매우 크고 높은 벽으로 둘러싸여 있었습니다.",
+      "word_indices": [
+        20,
+        148,
+        275,
+        355
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The wall had 12 gates in it.",
+      "korean_translation": "그 벽에는 12개의 문이 있었습니다.",
+      "word_indices": [
+        148
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "12 angels stood at the 12 gates.",
+      "korean_translation": "12명의 천사가 12개의 문에 서 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The names of the 12 tribes of Israel's people",
+      "korean_translation": "이스라엘 백성의 12지파의 이름이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "were written on the 12 gates.",
+      "korean_translation": "12개의 문에 쓰여 있었습니다.",
+      "word_indices": []
+    }
+  ]
+}

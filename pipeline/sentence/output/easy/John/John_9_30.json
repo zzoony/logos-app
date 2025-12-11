@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 9:30",
+  "version": "EASY",
+  "original_text": "The man answered, ‘That is a very strange thing! You do not know where this man comes from. But he is the one who made my eyes able to see.",
+  "korean_text": "그 사람이 대답하여 이르되 이상하다 이 사람이 내 눈을 뜨게 하였으되 당신들은 그가 어디서 왔는지 알지 못하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man answered",
+      "korean_translation": "그 남자가 대답했습니다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That is a very strange thing",
+      "korean_translation": "그것은 매우 이상한 일입니다",
+      "word_indices": [
+        771
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You do not know",
+      "korean_translation": "당신은 모릅니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "where this man comes from",
+      "korean_translation": "이 사람이 어디서 왔는지",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But he is the one",
+      "korean_translation": "하지만 그는 바로 그 사람입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who made my eyes able to see",
+      "korean_translation": "내 눈이 보게 만든 분",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 3:17",
+  "version": "EASY",
+  "original_text": "God did not send his Son into the world because he wanted to punish people. He sent his Son to save the people in the world from punishment.",
+  "korean_text": "하나님이 그 아들을 세상에 보내신 것은 세상을 심판하려 하심이 아니요 그로 말미암아 세상이 구원을 받게 하려 하심이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God did not send his Son into the world",
+      "korean_translation": "하나님께서 그의 아들을 세상으로 보내시지 않았다",
+      "word_indices": [
+        25,
+        159
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because he wanted to punish people",
+      "korean_translation": "사람들을 벌주시려고 한 것이 아니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He sent his Son to save the people",
+      "korean_translation": "그는 그의 아들을 사람들을 구원하시려고 보내셨다",
+      "word_indices": [
+        147
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the world from punishment",
+      "korean_translation": "세상에 있는 사람들을 벌에서 구원하기 위해",
+      "word_indices": [
+        159,
+        274
+      ]
+    }
+  ]
+}

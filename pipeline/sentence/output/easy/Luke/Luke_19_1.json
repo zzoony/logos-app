@@ -1,0 +1,24 @@
+{
+  "verse_reference": "Luke 19:1",
+  "version": "EASY",
+  "original_text": "Jesus went into Jericho and he was walking through the city.",
+  "korean_text": "예수께서 여리고로 들어가 지나가시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus went into Jericho",
+      "korean_translation": "예수님은 여리고로 들어가셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he was walking through the city",
+      "korean_translation": "그리고 그는 도시를 걸어 다니고 있었다",
+      "word_indices": [
+        20,
+        192,
+        204
+      ]
+    }
+  ]
+}

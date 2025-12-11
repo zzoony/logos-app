@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 11:29",
+  "version": "EASY",
+  "original_text": "Abram married Sarai. Nahor married Milcah. Milcah was Haran's daughter. Haran was the father of Milcah and Iscah.",
+  "korean_text": "아브람과 나홀이 장가 들었으니 아브람의 아내의 이름은 사래며 나홀의 아내의 이름은 밀가니 하란의 딸이요 하란은 밀가의 아버지이며 또 이스가의 아버지더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abram married Sarai",
+      "korean_translation": "아브람은 사래와 결혼했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Nahor married Milcah",
+      "korean_translation": "나홀은 밀가와 결혼했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Milcah was Haran's daughter",
+      "korean_translation": "밀가는 하란의 딸이었다",
+      "word_indices": [
+        173
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Haran was the father of Milcah and Iscah",
+      "korean_translation": "하란은 밀가와 이스가의 아버지였다",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

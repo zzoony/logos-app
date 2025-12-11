@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Luke 12:39",
+  "version": "EASY",
+  "original_text": "You can be sure about this. The master of a house does not know when a man might come to rob him. If he knew the time, he would keep awake. He would not let the robber come into his house and take away his things.",
+  "korean_text": "너희도 아는 바니 집 주인이 만일 도둑이 어느 때에 이를 줄 알았더라면 그 집을 뚫지 못하게 하였으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You can be sure about this.",
+      "korean_translation": "너희는 이것을 확신할 수 있다.",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The master of a house does not know",
+      "korean_translation": "집 주인은 알지 못한다",
+      "word_indices": [
+        12,
+        67,
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when a man might come to rob him.",
+      "korean_translation": "도둑이 언제 올지를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If he knew the time,",
+      "korean_translation": "만약 그가 시간을 알았다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he would keep awake.",
+      "korean_translation": "그는 깨어 있었을 것이다.",
+      "word_indices": [
+        101,
+        1063
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He would not let the robber come",
+      "korean_translation": "그는 도둑이 들어오는 것을 허용하지 않았을 것이고",
+      "word_indices": [
+        696
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "into his house and take away his things.",
+      "korean_translation": "자기 집에 들어와 물건을 가져가지 못했을 것이다.",
+      "word_indices": [
+        67
+      ]
+    }
+  ]
+}

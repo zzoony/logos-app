@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Genesis 15:9",
+  "version": "EASY",
+  "original_text": "The Lord said to Abram, ‘Bring a young cow, a goat and a male sheep to offer them to me. Each animal must be three years old. Also bring a dove and a young pigeon.’",
+  "korean_text": "여호와께서 그에게 이르시되 나를 위하여 삼 년 된 암소와 삼 년 된 암염소와 삼 년 된 숫양과 산비둘기와 집비둘기 새끼를 가져올지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Abram",
+      "korean_translation": "주께서 아브람에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Bring a young cow, a goat and a male sheep",
+      "korean_translation": "어린 암소, 염소와 수양을 가져오라",
+      "word_indices": [
+        108,
+        125
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to offer them to me",
+      "korean_translation": "나에게 그것들을 바치기 위해",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Each animal must be three years old",
+      "korean_translation": "각 동물은 세 살이어야 한다",
+      "word_indices": [
+        48,
+        166
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Also bring a dove and a young pigeon",
+      "korean_translation": "또 비둘기와 어린 비둘기도 가져오라",
+      "word_indices": [
+        9,
+        108,
+        1094
+      ]
+    }
+  ]
+}

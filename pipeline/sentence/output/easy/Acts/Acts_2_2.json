@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Acts 2:2",
+  "version": "EASY",
+  "original_text": "Suddenly, as they were sitting together, they heard a noise. The noise came from the sky and it filled the whole house. It was like the sound of a strong wind.",
+  "korean_text": "홀연히 하늘로부터 급하고 강한 바람 같은 소리가 있어 그들이 앉은 온 집에 가득하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Suddenly, as they were sitting together",
+      "korean_translation": "갑자기 그들이 함께 앉아있을 때",
+      "word_indices": [
+        590
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they heard a noise",
+      "korean_translation": "그들은 소리를 들었습니다",
+      "word_indices": [
+        290
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The noise came from the sky",
+      "korean_translation": "그 소리는 하늘에서 왔습니다",
+      "word_indices": [
+        290
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and it filled the whole house",
+      "korean_translation": "그리고 그 소리가 온 집을 가득 채웠습니다",
+      "word_indices": [
+        67,
+        169
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It was like the sound",
+      "korean_translation": "그것은 소리와 같았습니다",
+      "word_indices": [
+        447
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "of a strong wind",
+      "korean_translation": "강한 바람의",
+      "word_indices": [
+        43,
+        303
+      ]
+    }
+  ]
+}

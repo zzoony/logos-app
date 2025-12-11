@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 7:19",
+  "version": "EASY",
+  "original_text": "More water came until it covered all the high mountains on the earth.",
+  "korean_text": "물이 땅에 더욱 넘치매 천하의 높은 산이 다 잠겼더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "More water came",
+      "korean_translation": "더 많은 물이 왔다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "until it covered all the high mountains",
+      "korean_translation": "그것이 모든 높은 산들을 덮을 때까지",
+      "word_indices": [
+        175,
+        238,
+        275
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the earth",
+      "korean_translation": "땅 위에",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

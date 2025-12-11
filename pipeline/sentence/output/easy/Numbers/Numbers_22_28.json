@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Numbers 22:28",
+  "version": "EASY",
+  "original_text": "Then the Lord caused the donkey to speak. It said, ‘What have I done to hurt you? Why have you hit me three times like that?’",
+  "korean_text": "여호와께서 나귀 입을 여시니 발람에게 이르되 내가 당신에게 무엇을 하였기에 나를 이같이 세 번을 때리느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord caused the donkey to speak",
+      "korean_translation": "그때 주께서 나귀가 말하게 하셨습니다",
+      "word_indices": [
+        2,
+        18,
+        310
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It said",
+      "korean_translation": "그것이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What have I done to hurt you?",
+      "korean_translation": "내가 당신에게 무엇을 해서 상처를 입혔나요?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why have you hit me three times like that?",
+      "korean_translation": "왜 당신은 나를 그렇게 세 번이나 쳤나요?",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

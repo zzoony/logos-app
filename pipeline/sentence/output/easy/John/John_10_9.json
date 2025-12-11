@@ -1,0 +1,52 @@
+{
+  "verse_reference": "John 10:9",
+  "version": "EASY",
+  "original_text": "I am like the gate. Everyone who comes in through me will be safe. They will be free to come in and to go out. And they will find plenty of food.",
+  "korean_text": "내가 문이니 누구든지 나로 말미암아 들어가면 구원을 받고 또는 들어가며 나오며 꼴을 얻으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am like the gate.",
+      "korean_translation": "나는 문과 같습니다.",
+      "word_indices": [
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Everyone who comes in through me",
+      "korean_translation": "나를 통해 들어오는 모든 사람은",
+      "word_indices": [
+        97,
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will be safe.",
+      "korean_translation": "안전할 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They will be free to come in",
+      "korean_translation": "그들은 들어오는 것을 자유롭게 할 수 있으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to go out.",
+      "korean_translation": "나가는 것도 자유롭게 할 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And they will find plenty of food.",
+      "korean_translation": "그리고 그들은 풍부한 음식을 찾을 것입니다.",
+      "word_indices": [
+        131,
+        451
+      ]
+    }
+  ]
+}

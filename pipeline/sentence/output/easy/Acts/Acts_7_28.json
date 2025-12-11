@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Acts 7:28",
+  "version": "EASY",
+  "original_text": "I know that yesterday you killed an Egyptian man. So do you want to kill me too?”",
+  "korean_text": "네가 어제는 애굽 사람을 죽임과 같이 또 나를 죽이려느냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know",
+      "korean_translation": "나는 안다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that yesterday you killed an Egyptian man",
+      "korean_translation": "어제 네가 이집트 사람을 죽였다는 것을",
+      "word_indices": [
+        26,
+        1300
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So do you want to kill me too?",
+      "korean_translation": "그래서 나도 죽이고 싶니?",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

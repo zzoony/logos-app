@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Daniel 12:8",
+  "version": "EASY",
+  "original_text": "I heard the man's words, but I did not understand. So I said, ‘Sir, how will all these things finally finish?’",
+  "korean_text": "내가 듣고도 깨닫지 못한지라 내가 이르되 내 주여 이 모든 일의 결국이 어떠하겠나이까 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I heard the man's words",
+      "korean_translation": "나는 그 사람의 말을 들었지만",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but I did not understand",
+      "korean_translation": "이해하지 못했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So I said",
+      "korean_translation": "그래서 내가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Sir",
+      "korean_translation": "선생님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "how will all these things finally finish",
+      "korean_translation": "이 모든 것들이 어떻게 마침내 끝나겠습니까",
+      "word_indices": []
+    }
+  ]
+}

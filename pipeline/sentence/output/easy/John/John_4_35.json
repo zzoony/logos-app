@@ -1,0 +1,73 @@
+{
+  "verse_reference": "John 4:35",
+  "version": "EASY",
+  "original_text": "You often say, “It is still four more months until the plants in the farmers' fields will be ready for the harvest.” But I say that you should open your eyes. Look at the fields. The plants are ready for the harvest now.",
+  "korean_text": "너희는 넉 달이 지나야 추수할 때가 이르겠다 하지 아니하느냐 그러나 나는 너희에게 이르노니 너희 눈을 들어 밭을 보라 희어져 추수하게 되었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You often say",
+      "korean_translation": "너희는 자주 말하기를",
+      "word_indices": [
+        620
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is still four more months",
+      "korean_translation": "아직 사 달이 더 지나야",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "until the plants in the farmers' fields",
+      "korean_translation": "농부들의 밭에 있는 곡식이",
+      "word_indices": [
+        152,
+        199,
+        425
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will be ready for the harvest",
+      "korean_translation": "추수할 때가 되려면",
+      "word_indices": [
+        163,
+        474
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But I say",
+      "korean_translation": "그러나 나는 너희에게 이르노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that you should open your eyes",
+      "korean_translation": "너희 눈을 들어",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Look at the fields",
+      "korean_translation": "밭을 보라",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "The plants are ready for the harvest now",
+      "korean_translation": "곡식이 이미 익었느니라",
+      "word_indices": [
+        163,
+        199,
+        474
+      ]
+    }
+  ]
+}

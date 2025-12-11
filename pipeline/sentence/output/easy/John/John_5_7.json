@@ -1,0 +1,69 @@
+{
+  "verse_reference": "John 5:7",
+  "version": "EASY",
+  "original_text": "The sick man said, ‘Sir, I do not have anyone who will help me. I need somebody who will put me into the pool. When the water starts to move, I try to get in. But someone else always gets in before me.’",
+  "korean_text": "병자가 대답하되 주여 물이 움직일 때에 나를 못에 넣어 주는 사람이 없어 내가 가는 동안에 다른 사람이 먼저 내려가나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sick man said",
+      "korean_translation": "병자가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sir, I do not have anyone",
+      "korean_translation": "선생님, 저는 아무도 없습니다",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who will help me",
+      "korean_translation": "저를 도와줄 사람이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I need somebody",
+      "korean_translation": "저는 누군가 필요합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who will put me into the pool",
+      "korean_translation": "저를 연못에 넣어줄 사람이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "When the water starts to move",
+      "korean_translation": "물이 움직이기 시작할 때",
+      "word_indices": [
+        60,
+        222
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I try to get in",
+      "korean_translation": "저는 들어가려고 노력합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "But someone else always gets in",
+      "korean_translation": "하지만 다른 사람이 항상 먼저 들어갑니다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "before me",
+      "korean_translation": "저보다 먼저",
+      "word_indices": []
+    }
+  ]
+}

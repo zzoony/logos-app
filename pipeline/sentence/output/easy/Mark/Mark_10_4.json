@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Mark 10:4",
+  "version": "EASY",
+  "original_text": "The Pharisees said, ‘Moses said that a man could write a letter to say that he and his wife are no longer married. Then the man can send the woman away.’",
+  "korean_text": "이르되 모세는 이혼 증서를 써주어 버리기를 허락하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Pharisees said",
+      "korean_translation": "바리새인들이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Moses said",
+      "korean_translation": "모세가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that a man could write a letter",
+      "korean_translation": "한 남자가 편지를 쓸 수 있다고",
+      "word_indices": [
+        124,
+        347
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to say that he and his wife",
+      "korean_translation": "그와 그의 아내가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "are no longer married",
+      "korean_translation": "더 이상 결혼하지 않았다고",
+      "word_indices": [
+        171
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then the man can send the woman away",
+      "korean_translation": "그러면 그 남자는 그 여자를 보낼 수 있습니다",
+      "word_indices": [
+        25,
+        46
+      ]
+    }
+  ]
+}

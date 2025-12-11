@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Joshua 20:5",
+  "version": "EASY",
+  "original_text": "The dead person's relative may chase after the killer. The leaders of the city must not let him hurt the killer. This is because the killer did not mean to kill.",
+  "korean_text": "피의 보복자가 그의 뒤를 따라온다 할지라도 그들은 그 살인자를 그의 손에 내주지 말지니 이는 본래 미워함이 없이 부지중에 그의 이웃을 죽였음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The dead person's relative may chase after the killer",
+      "korean_translation": "죽은 사람의 친척이 살인자를 쫓아갈 수 있다",
+      "word_indices": [
+        24,
+        133,
+        251,
+        441,
+        998
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The leaders of the city must not let him hurt the killer",
+      "korean_translation": "도시의 지도자들은 그가 살인자를 해치지 못하게 해야 한다",
+      "word_indices": [
+        20,
+        998
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This is because the killer did not mean to kill",
+      "korean_translation": "이는 살인자가 죽이려는 의도가 없었기 때문이다",
+      "word_indices": [
+        26,
+        998
+      ]
+    }
+  ]
+}

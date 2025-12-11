@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Acts 4:3",
+  "version": "EASY",
+  "original_text": "So they took hold of Peter and John. They put them in prison, because by then it was evening time. They put them in the prison until the next day.",
+  "korean_text": "그들을 잡으매 날이 이미 저물었으므로 이튿날까지 가두었으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they took hold of Peter and John.",
+      "korean_translation": "그래서 그들은 베드로와 요한을 잡았다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They put them in prison,",
+      "korean_translation": "그들은 그들을 감옥에 넣었다,",
+      "word_indices": [
+        349
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because by then it was evening time.",
+      "korean_translation": "왜냐하면 그때는 저녁 시간이었기 때문이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They put them in the prison",
+      "korean_translation": "그들은 그들을 감옥에 넣었다",
+      "word_indices": [
+        349
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until the next day.",
+      "korean_translation": "다음 날까지.",
+      "word_indices": [
+        263
+      ]
+    }
+  ]
+}

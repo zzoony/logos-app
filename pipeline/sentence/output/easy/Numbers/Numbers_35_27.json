@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Numbers 35:27",
+  "version": "EASY",
+  "original_text": "If he does that, the dead person's relative might find him outside the safe city. Then, if the dead person's relative kills him, the relative will not be guilty of murder.",
+  "korean_text": "피를 보복하는 자가 도피성 지경 밖에서 그 살인자를 만나 죽일지라도 피 흘린 죄가 없나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If he does that,",
+      "korean_translation": "만약 그가 그렇게 하면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the dead person's relative might find him",
+      "korean_translation": "죽은 사람의 친척이 그를 발견할 수도 있다",
+      "word_indices": [
+        24,
+        131,
+        133,
+        441
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "outside the safe city.",
+      "korean_translation": "안전한 도시 밖에서.",
+      "word_indices": [
+        20,
+        315
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then,",
+      "korean_translation": "그러면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "if the dead person's relative kills him,",
+      "korean_translation": "만약 죽은 사람의 친척이 그를 죽이면,",
+      "word_indices": [
+        24,
+        26,
+        133,
+        441
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the relative will not be guilty of murder.",
+      "korean_translation": "그 친척은 살인죄가 되지 않을 것이다.",
+      "word_indices": [
+        232,
+        441,
+        537
+      ]
+    }
+  ]
+}

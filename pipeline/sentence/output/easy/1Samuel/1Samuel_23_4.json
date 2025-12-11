@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 23:4",
+  "version": "EASY",
+  "original_text": "So David asked the Lord again. The Lord answered again, ‘Go to Keilah. I will put the Philistines under your power.’",
+  "korean_text": "다윗이 여호와께 다시 묻자온대 여호와께서 대답하여 이르시되 일어나 그일라로 내려가라 내가 블레셋 사람들을 네 손에 넘기리라 하신지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So David asked the Lord again.",
+      "korean_translation": "그래서 다윗은 다시 여호와께 질문했습니다.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Lord answered again,",
+      "korean_translation": "여호와께서 다시 대답하셨습니다,",
+      "word_indices": [
+        2,
+        160
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Go to Keilah.'",
+      "korean_translation": "'길라로 가라.'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'I will put the Philistines under your power.'",
+      "korean_translation": "'내가 블레셋 사람을 너의 권세 아래 두겠다.'",
+      "word_indices": [
+        80
+      ]
+    }
+  ]
+}

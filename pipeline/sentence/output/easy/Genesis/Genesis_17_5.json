@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 17:5",
+  "version": "EASY",
+  "original_text": "Your name will not be Abram any more. Instead your name will be Abraham, because I will cause you to become the ancestor of many nations.",
+  "korean_text": "이제 후로는 네 이름을 아브람이라 하지 아니하고 아브라함이라 하리니 이는 내가 너를 여러 민족의 아버지가 되게 함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your name will not be Abram any more",
+      "korean_translation": "네 이름은 이제 더 이상 아브람이 아니니라",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Instead your name will be Abraham",
+      "korean_translation": "대신 네 이름은 아브라함이 되리라",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because I will cause you to become",
+      "korean_translation": "이는 내가 너로 하여금 되게 하려 함이니라",
+      "word_indices": [
+        30
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the ancestor of many nations",
+      "korean_translation": "여러 민족의 조상이",
+      "word_indices": [
+        70,
+        145
+      ]
+    }
+  ]
+}

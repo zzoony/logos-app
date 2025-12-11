@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 16:3",
+  "version": "EASY",
+  "original_text": "“I must think about what I can do,” the servant said to himself. “My master will not let me work for him any longer. I am not strong enough to dig in the ground. I would be ashamed to ask other people for money.",
+  "korean_text": "청지기가 속으로 이르되 주인이 내 직분을 빼앗으니 내가 무엇을 할까 땅을 파자니 힘이 없고 빌어 먹자니 부끄럽구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I must think about what I can do",
+      "korean_translation": "내가 무엇을 할 수 있을지 생각해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the servant said to himself",
+      "korean_translation": "종이 스스로에게 말했다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My master will not let me work for him any longer",
+      "korean_translation": "내 주인은 더 이상 내가 그를 위해 일하게 하지 않을 것이다",
+      "word_indices": [
+        35,
+        171,
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am not strong enough to dig in the ground",
+      "korean_translation": "나는 땅을 파기에 충분히 힘이 없다",
+      "word_indices": [
+        43,
+        228
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I would be ashamed to ask other people for money",
+      "korean_translation": "다른 사람에게 돈을 요청하는 것을 부끄러워할 것이다",
+      "word_indices": [
+        142
+      ]
+    }
+  ]
+}

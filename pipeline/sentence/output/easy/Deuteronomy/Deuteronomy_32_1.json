@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Deuteronomy 32:1",
+  "version": "EASY",
+  "original_text": "Sky and earth, listen to my words! Hear what I am saying!",
+  "korean_text": "하늘이여 귀를 기울이라 내가 말하리라 땅은 내 입의 말을 들을지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sky and earth",
+      "korean_translation": "하늘과 땅아",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "listen to my words!",
+      "korean_translation": "나의 말을 들어라!",
+      "word_indices": [
+        63,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Hear what I am saying!",
+      "korean_translation": "내가 하는 말을 들어라!",
+      "word_indices": [
+        42
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Matthew 15:24",
+  "version": "EASY",
+  "original_text": "Jesus replied to his disciples, ‘God has sent me to help only the people of Israel. They are like sheep that have lost their way.’",
+  "korean_text": "예수께서 대답하여 이르시되 나는 이스라엘 집의 잃어버린 양 외에는 다른 데로 보내심을 받지 아니하였노라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied to his disciples",
+      "korean_translation": "예수님은 제자들에게 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God has sent me",
+      "korean_translation": "하나님께서 나를 보내셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to help only the people of Israel",
+      "korean_translation": "오직 이스라엘 백성을 돕기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They are like sheep",
+      "korean_translation": "그들은 양과 같다",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that have lost their way",
+      "korean_translation": "길을 잃은",
+      "word_indices": []
+    }
+  ]
+}

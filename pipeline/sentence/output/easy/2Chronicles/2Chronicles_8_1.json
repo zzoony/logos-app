@@ -1,0 +1,33 @@
+{
+  "verse_reference": "2 Chronicles 8:1",
+  "version": "EASY",
+  "original_text": "Solomon was building the Lord's temple and the king's palace for 20 years.",
+  "korean_text": "솔로몬이 여호와의 전과 자기의 궁궐을 이십 년 동안에 건축하기를 마치고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon was building the Lord's temple",
+      "korean_translation": "솔로몬은 주의 성전을 건축하고 있었고",
+      "word_indices": [
+        2,
+        49,
+        99
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the king's palace",
+      "korean_translation": "왕의 궁전을 건축하고 있었으며",
+      "word_indices": [
+        3,
+        301
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for 20 years.",
+      "korean_translation": "20년 동안이었다.",
+      "word_indices": []
+    }
+  ]
+}

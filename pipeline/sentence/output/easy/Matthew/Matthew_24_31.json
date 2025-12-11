@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Matthew 24:31",
+  "version": "EASY",
+  "original_text": "People will hear the sound of a loud trumpet. The Son of Man will send out his angels. They will go in every direction. They will bring together all the people that God has chosen from every part of the earth and from every part of the sky.’",
+  "korean_text": "그가 큰 나팔소리와 함께 천사들을 보내리니 그들이 그의 택하신 자들을 하늘 이 끝에서 저 끝까지 사방에서 모으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People will hear the sound of a loud trumpet.",
+      "korean_translation": "사람들은 큰 나팔 소리를 들을 것입니다.",
+      "word_indices": [
+        42,
+        409,
+        447
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Son of Man will send out his angels.",
+      "korean_translation": "인자가 천사들을 보낼 것입니다.",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They will go in every direction.",
+      "korean_translation": "그들은 모든 방향으로 갈 것입니다.",
+      "word_indices": [
+        668
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They will bring together all the people that God has chosen.",
+      "korean_translation": "그들은 하나님이 택하신 모든 사람들을 모을 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from every part of the earth and from every part of the sky.",
+      "korean_translation": "땅의 모든 부분과 하늘의 모든 부분에서.",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

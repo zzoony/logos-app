@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Leviticus 15:11",
+  "version": "EASY",
+  "original_text": "The unclean man might not wash his hands but then he touches another person. The person that he touched becomes unclean. That person must wash his clothes and his body. He will be unclean until evening.",
+  "korean_text": "유출병이 있는 자가 물로 그의 손을 씻지 아니하고 아무든지 만지면 그 자는 그의 옷을 빨고 물로 몸을 씻을 것이며 저녁까지 부정하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The unclean man might not wash his hands",
+      "korean_translation": "부정한 사람은 손을 씻지 않을 수도 있다",
+      "word_indices": [
+        132,
+        304
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but then he touches another person",
+      "korean_translation": "그러다가 다른 사람을 만진다",
+      "word_indices": [
+        24,
+        348
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The person that he touched becomes unclean",
+      "korean_translation": "그가 만진 사람은 부정하게 된다",
+      "word_indices": [
+        24,
+        304,
+        348
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "That person must wash his clothes",
+      "korean_translation": "그 사람은 옷을 씻어야 한다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and his body",
+      "korean_translation": "그리고 자기 몸도 씻어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He will be unclean until evening",
+      "korean_translation": "그는 저녁까지 부정할 것이다",
+      "word_indices": [
+        304
+      ]
+    }
+  ]
+}

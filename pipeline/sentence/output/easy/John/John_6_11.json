@@ -1,0 +1,58 @@
+{
+  "verse_reference": "John 6:11",
+  "version": "EASY",
+  "original_text": "Jesus took the loaves of bread and he thanked God for them. Then he broke the loaves into pieces. He passed them to all the people who were sitting there. Everyone had as much bread as they wanted to eat. Jesus did the same with the fish.",
+  "korean_text": "예수께서 떡을 가져 축사하신 후에 앉아 있는 자들에게 나눠 주시고 물고기도 그렇게 그들의 원대로 주시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus took the loaves of bread",
+      "korean_translation": "예수님께서 빵을 가져오셨습니다",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he thanked God for them",
+      "korean_translation": "그리고 그것들에 대해 하나님께 감사하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then he broke the loaves into pieces",
+      "korean_translation": "그때 그분께서 빵들을 조각으로 나누셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He passed them to all the people",
+      "korean_translation": "그분께서 그것들을 모든 사람에게 나누어 주셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who were sitting there",
+      "korean_translation": "그곳에 앉아 있던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Everyone had as much bread as they wanted",
+      "korean_translation": "모두가 원하는 만큼의 빵을 가졌습니다",
+      "word_indices": [
+        97,
+        229
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Jesus did the same with the fish",
+      "korean_translation": "예수님께서 물고기에도 똑같이 하셨습니다",
+      "word_indices": [
+        74,
+        517
+      ]
+    }
+  ]
+}

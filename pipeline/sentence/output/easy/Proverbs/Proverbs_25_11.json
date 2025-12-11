@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Proverbs 25:11",
+  "version": "EASY",
+  "original_text": "A wise word that you speak at the right time is a beautiful thing. It is like a gold apple on a silver plate.",
+  "korean_text": "경우에 합당한 말은 아로새긴 은 쟁반에 금 사과니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A wise word that you speak",
+      "korean_translation": "당신이 말하는 지혜로운 말은",
+      "word_indices": [
+        18,
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the right time",
+      "korean_translation": "적절한 때에",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "is a beautiful thing.",
+      "korean_translation": "아름다운 것이다.",
+      "word_indices": [
+        180
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is like a gold apple",
+      "korean_translation": "그것은 금 사과와 같다",
+      "word_indices": [
+        130,
+        1362
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on a silver plate.",
+      "korean_translation": "은 접시 위에 있는.",
+      "word_indices": [
+        195,
+        687
+      ]
+    }
+  ]
+}

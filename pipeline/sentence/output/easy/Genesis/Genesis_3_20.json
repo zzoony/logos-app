@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Genesis 3:20",
+  "version": "EASY",
+  "original_text": "Adam gave his wife a name. He called her Eve. This was because she would become the mother of all people.",
+  "korean_text": "아담이 그의 아내의 이름을 하와라 불렀으니 그는 모든 산 자의 어머니가 됨이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Adam gave his wife a name.",
+      "korean_translation": "아담은 그의 아내에게 이름을 주었다.",
+      "word_indices": [
+        4,
+        90
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He called her Eve.",
+      "korean_translation": "그는 그녀를 이브라고 불렀다.",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This was because",
+      "korean_translation": "그것은 ~ 때문이었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she would become the mother",
+      "korean_translation": "그녀는 어머니가 될 것이었다.",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "of all people.",
+      "korean_translation": "모든 사람의.",
+      "word_indices": []
+    }
+  ]
+}

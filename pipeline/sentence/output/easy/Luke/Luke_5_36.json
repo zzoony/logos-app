@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Luke 5:36",
+  "version": "EASY",
+  "original_text": "Jesus told them this story: ‘Nobody tears a piece of cloth from a new coat to mend an old coat. If he does that, he will have torn the new coat. Also, the piece of cloth from the new coat will not look the same as the old coat.",
+  "korean_text": "또 비유하여 이르시되 새 옷에서 한 조각을 찢어 낡은 옷에 붙이는 자가 없나니 만일 그렇게 하면 새 옷을 찢을 뿐이요 또 새 옷에서 찢은 조각이 낡은 것에 어울리지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus told them this story:",
+      "korean_translation": "예수님은 그들에게 이 비유를 말씀하셨습니다:",
+      "word_indices": [
+        515
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Nobody tears a piece of cloth",
+      "korean_translation": "아무도 헌 옷에 새 옷 조각을 덧대지 않습니다",
+      "word_indices": [
+        149
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from a new coat to mend an old coat.",
+      "korean_translation": "그러면 새 옷을 찢게 되고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If he does that, he will have torn the new coat.",
+      "korean_translation": "헌 옷에 새 옷 조각이 어울리지 않을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Also, the piece of cloth from the new coat",
+      "korean_translation": "또한 새 옷에서 떼어낸 천 조각은",
+      "word_indices": [
+        9,
+        149
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will not look the same as the old coat.",
+      "korean_translation": "헌 옷과 모양이 같지 않을 것입니다",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

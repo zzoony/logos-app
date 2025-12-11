@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 5:18",
+  "version": "EASY",
+  "original_text": "Now go back and do your work. Nobody will give you any straw. But you must make the complete number of bricks.’",
+  "korean_text": "이제 가서 일하라 짚은 너희에게 주지 않을지라도 벽돌은 너희가 수량대로 바칠지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now go back and do your work.",
+      "korean_translation": "이제 돌아가서 너희의 일을 하라.",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Nobody will give you any straw.",
+      "korean_translation": "아무도 너희에게 짚을 주지 않을 것이다.",
+      "word_indices": [
+        4,
+        838
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you must make the complete number of bricks.",
+      "korean_translation": "하지만 너희는 완전한 수의 벽돌을 만들어야 한다.",
+      "word_indices": [
+        489,
+        851,
+        936
+      ]
+    }
+  ]
+}

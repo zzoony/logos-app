@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 26:26",
+  "version": "EASY",
+  "original_text": "King Agrippa knows about these things. He understands what I am talking about. None of these things happened in secret places. So I am sure that he has heard news about all this.",
+  "korean_text": "왕께서는 이 일을 아시기로 내가 왕께 담대히 말하노니 이 일에 하나라도 아시지 못함이 없는 줄 믿나이다 이 일은 한쪽 구석에서 행한 것이 아니니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Agrippa knows about these things.",
+      "korean_translation": "아그립바 왕은 이런 일들에 대해 알고 계십니다.",
+      "word_indices": [
+        3,
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He understands what I am talking about.",
+      "korean_translation": "그는 내가 무슨 말을 하는지 이해하고 계십니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "None of these things happened in secret places.",
+      "korean_translation": "이런 일들 중 어느 것도 비밀 장소에서 일어나지 않았습니다.",
+      "word_indices": [
+        22,
+        544
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So I am sure that he has heard news about all this.",
+      "korean_translation": "그러므로 그는 이 모든 것에 대한 소식을 들었다고 확신합니다.",
+      "word_indices": [
+        359
+      ]
+    }
+  ]
+}

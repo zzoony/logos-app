@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 2:19",
+  "version": "EASY",
+  "original_text": "Mary remembered everything that the shepherds had said. She thought about it all for a long time.",
+  "korean_text": "마리아는 이 모든 말을 마음에 새기어 생각하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mary remembered everything",
+      "korean_translation": "마리아는 모든 것을 기억했습니다",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that the shepherds had said",
+      "korean_translation": "목자들이 말했던 것을",
+      "word_indices": [
+        403
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She thought about it all",
+      "korean_translation": "그녀는 그 모든 것에 대해 생각했습니다",
+      "word_indices": [
+        372
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for a long time",
+      "korean_translation": "오랫동안",
+      "word_indices": [
+        134
+      ]
+    }
+  ]
+}

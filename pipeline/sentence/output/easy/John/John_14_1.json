@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 14:1",
+  "version": "EASY",
+  "original_text": "Jesus said to his disciples, ‘Do not be sad or afraid. Believe in God, and also believe in me.",
+  "korean_text": "너희는 마음에 근심하지 말라 하나님을 믿으니 또 나를 믿으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to his disciples",
+      "korean_translation": "예수님께서 제자들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not be sad or afraid",
+      "korean_translation": "슬퍼하거나 두려워하지 말라",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Believe in God",
+      "korean_translation": "하나님을 믿으라",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and also believe in me",
+      "korean_translation": "그리고 또한 나를 믿으라",
+      "word_indices": [
+        9,
+        88
+      ]
+    }
+  ]
+}

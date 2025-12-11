@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Kings 4:33",
+  "version": "EASY",
+  "original_text": "Elisha went into the room by himself. He shut the door. Elisha prayed to the Lord.",
+  "korean_text": "들어가서는 문을 닫으니 두 사람 뿐이라 엘리사가 여호와께 기도하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Elisha went into the room by himself",
+      "korean_translation": "엘리사는 혼자 방에 들어갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He shut the door",
+      "korean_translation": "그는 문을 닫았다",
+      "word_indices": [
+        267
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Elisha prayed to the Lord",
+      "korean_translation": "엘리사는 주께 기도했다",
+      "word_indices": [
+        2,
+        81
+      ]
+    }
+  ]
+}

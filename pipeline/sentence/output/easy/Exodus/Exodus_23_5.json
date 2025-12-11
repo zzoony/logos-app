@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Exodus 23:5",
+  "version": "EASY",
+  "original_text": "Perhaps you may see your enemy's donkey when it is carrying a heavy load. If the donkey has fallen down, do not refuse to give help. Do not leave the donkey there.",
+  "korean_text": "네가 만일 너를 미워하는 자의 나귀가 짐을 싣고 엎드러짐을 보거든 그것을 버려두지 말고 그것을 도와 그 짐을 부릴지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Perhaps you may see your enemy's donkey",
+      "korean_translation": "어쩌면 당신은 원수의 나귀를 볼지도 모릅니다",
+      "word_indices": [
+        50,
+        310
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when it is carrying a heavy load",
+      "korean_translation": "그것이 무거운 짐을 실어 나를 때",
+      "word_indices": [
+        201,
+        535
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the donkey has fallen down",
+      "korean_translation": "만약 나귀가 넘어졌다면",
+      "word_indices": [
+        310
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "do not refuse to give help",
+      "korean_translation": "도움을 주는 것을 거절하지 마세요",
+      "word_indices": [
+        4,
+        157
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Do not leave the donkey there",
+      "korean_translation": "그 나귀를 그곳에 두지 마세요",
+      "word_indices": [
+        66,
+        310
+      ]
+    }
+  ]
+}

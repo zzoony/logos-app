@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Numbers 14:23",
+  "version": "EASY",
+  "original_text": "So I tell you, none of them will ever see the land that I promised to give to their ancestors. None of those men who did not trust me will see that place.",
+  "korean_text": "내가 그들의 조상들에게 맹세한 땅을 결단코 보지 못할 것이요 또 나를 멸시하는 사람은 한 사람도 그것을 보지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So I tell you",
+      "korean_translation": "그러므로 내가 너희에게 말하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "none of them will ever see the land",
+      "korean_translation": "그들 중 아무도 그 땅을 결코 보지 못하리라",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I promised to give to their ancestors",
+      "korean_translation": "내가 그들의 조상에게 주기로 약속한",
+      "word_indices": [
+        4,
+        145
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "None of those men",
+      "korean_translation": "그 사람들 중 아무도",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who did not trust me",
+      "korean_translation": "나를 믿지 않았던",
+      "word_indices": [
+        165
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will see that place",
+      "korean_translation": "그곳을 보지 못하리라",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

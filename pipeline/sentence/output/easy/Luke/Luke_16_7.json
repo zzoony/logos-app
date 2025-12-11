@@ -1,0 +1,73 @@
+{
+  "verse_reference": "Luke 16:7",
+  "version": "EASY",
+  "original_text": "He asked the next man, “How big is your debt to my master?” The man replied, “I have to give him 100 baskets of wheat.” The servant replied, “Here is the paper with your debt written down on it. Take the paper and write 80 baskets.” ’",
+  "korean_text": "또 다른 이에게 이르되 너는 얼마나 빚졌느냐 이르되 밀 백 석이니이다 이르되 여기 네 증서를 가지고 팔십이라 쓰라 하였는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He asked the next man",
+      "korean_translation": "그가 다음 사람에게 물었습니다",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How big is your debt to my master?",
+      "korean_translation": "내 주인에게 빚이 얼마나 됩니까?",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The man replied",
+      "korean_translation": "그 사람이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have to give him 100 baskets of wheat.",
+      "korean_translation": "밀 100바구니를 그에게 주어야 합니다.",
+      "word_indices": [
+        4,
+        617,
+        667
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The servant replied",
+      "korean_translation": "종이 대답했습니다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Here is the paper with your debt written down on it.",
+      "korean_translation": "당신의 빚이 적힌 종이가 여기 있습니다.",
+      "word_indices": [
+        828
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Take the paper",
+      "korean_translation": "종이를 가져가세요",
+      "word_indices": [
+        828
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and write 80 baskets.",
+      "korean_translation": "80바구니라고 쓰세요.",
+      "word_indices": [
+        124,
+        667
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 29:16",
+  "version": "EASY",
+  "original_text": "Laban had two daughters. The name of the older daughter was Leah. The name of the younger daughter was Rachel.",
+  "korean_text": "라반에게 두 딸이 있으니 언니의 이름은 레아요 아우의 이름은 라헬이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Laban had two daughters.",
+      "korean_translation": "라반에게는 딸이 둘 있었다.",
+      "word_indices": [
+        173
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The name of the older daughter was Leah.",
+      "korean_translation": "맏딸의 이름은 레아였다.",
+      "word_indices": [
+        90,
+        173
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The name of the younger daughter was Rachel.",
+      "korean_translation": "막내딸의 이름은 라헬이었다.",
+      "word_indices": [
+        90,
+        173,
+        752
+      ]
+    }
+  ]
+}

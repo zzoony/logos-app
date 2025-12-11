@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Nahum 2:6",
+  "version": "EASY",
+  "original_text": "They open the river gates and the water rushes into the city. It destroys the palace.",
+  "korean_text": "강들의 수문이 열리고 왕궁이 소멸되며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They open the river gates",
+      "korean_translation": "그들은 강 문을 열고",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the water rushes into the city",
+      "korean_translation": "물이 도시로 쏟아 들어온다",
+      "word_indices": [
+        20,
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It destroys the palace",
+      "korean_translation": "그것이 궁전을 파괴한다",
+      "word_indices": [
+        39,
+        301
+      ]
+    }
+  ]
+}

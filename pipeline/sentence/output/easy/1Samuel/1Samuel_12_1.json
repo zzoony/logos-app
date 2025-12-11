@@ -1,0 +1,43 @@
+{
+  "verse_reference": "1 Samuel 12:1",
+  "version": "EASY",
+  "original_text": "Samuel said to all the Israelites, ‘I have done everything that you asked me to do. I have given you a king to rule over you. Samuel 11 Samuel 13",
+  "korean_text": "사무엘이 온 이스라엘에게 이르되 보라 너희가 내게 한 말을 내가 다 듣고 너희 위에 왕을 세웠더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Samuel said to all the Israelites",
+      "korean_translation": "사무엘이 모든 이스라엘 사람에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have done everything",
+      "korean_translation": "나는 모든 것을 했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that you asked me to do",
+      "korean_translation": "당신들이 나에게 하라고 요청한 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have given you a king",
+      "korean_translation": "나는 당신들에게 왕을 주었습니다",
+      "word_indices": [
+        3,
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to rule over you",
+      "korean_translation": "당신들을 다스리기 위한",
+      "word_indices": [
+        28
+      ]
+    }
+  ]
+}

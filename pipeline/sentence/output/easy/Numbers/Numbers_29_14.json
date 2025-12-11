@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Numbers 29:14",
+  "version": "EASY",
+  "original_text": "With each of the 13 bulls give a grain offering. Mix together 3 kilograms of the best flour with olive oil. Offer it to me with each bull. With each male sheep, offer 2 kilograms of flour with oil.",
+  "korean_text": "그 소제로는 고운 가루에 기름을 섞어서 수송아지 열세 마리에는 각기 십분의 삼이요 숫양 두 마리에는 각기 십분의 이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "With each of the 13 bulls give a grain offering",
+      "korean_translation": "13마리의 황소 각각에 곡물 제물을 드려라",
+      "word_indices": [
+        4,
+        55,
+        256
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Mix together 3 kilograms of the best flour with olive oil",
+      "korean_translation": "3킬로그램의 최상급 밀가루를 올리브유와 섞어라",
+      "word_indices": [
+        358,
+        435,
+        476
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Offer it to me with each bull",
+      "korean_translation": "각 황소와 함께 나에게 그것을 드려라",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "With each male sheep",
+      "korean_translation": "수양 각각에",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "offer 2 kilograms of flour with oil",
+      "korean_translation": "기름과 함께 2킬로그램의 밀가루를 드려라",
+      "word_indices": [
+        55,
+        435,
+        476
+      ]
+    }
+  ]
+}

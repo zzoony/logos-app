@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Numbers 29:10",
+  "version": "EASY",
+  "original_text": "Offer 1 kilogram of flour with oil with each lamb.",
+  "korean_text": "어린 양 일곱 마리에는 어린 양 한 마리마다 십분의 일을 드릴 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Offer 1 kilogram of flour",
+      "korean_translation": "1킬로그램의 밀가루를 드리라",
+      "word_indices": [
+        55,
+        435,
+        476
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with oil",
+      "korean_translation": "기름과 함께",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with each lamb",
+      "korean_translation": "각 어린 양과 함께",
+      "word_indices": []
+    }
+  ]
+}

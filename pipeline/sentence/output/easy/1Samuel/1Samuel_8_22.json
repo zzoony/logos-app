@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 8:22",
+  "version": "EASY",
+  "original_text": "The Lord said to Samuel, ‘You must do what they want. You must give a king to them.’",
+  "korean_text": "여호와께서 사무엘에게 이르시되 그들의 말을 들어 왕을 세우라 하시니 사무엘이 이스라엘 사람들에게 이르되 너희는 각기 성읍으로 돌아가라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Samuel",
+      "korean_translation": "주께서 사무엘에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must do what they want",
+      "korean_translation": "네가 그들이 원하는 대로 해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must give a king to them",
+      "korean_translation": "네가 그들에게 왕을 주어야 한다",
+      "word_indices": [
+        3,
+        4
+      ]
+    }
+  ]
+}

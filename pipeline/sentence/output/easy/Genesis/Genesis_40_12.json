@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 40:12",
+  "version": "EASY",
+  "original_text": "Joseph said, ‘This is what your dream means. The three branches tell us about three days.",
+  "korean_text": "요셉이 그에게 이르되 그 해석이 이러하니 세 가지는 사흘이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph said,",
+      "korean_translation": "요셉이 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'This is what your dream means.",
+      "korean_translation": "이것이 네 꿈의 의미이다.",
+      "word_indices": [
+        389
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The three branches tell us",
+      "korean_translation": "세 가지가지는 우리에게 말해준다",
+      "word_indices": [
+        166,
+        360
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "about three days.'",
+      "korean_translation": "사흘에 관하여.",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 11:2",
+  "version": "EASY",
+  "original_text": "People moved to the east. They reached a large flat piece of land called Shinar. They stayed there to live.",
+  "korean_text": "이에 그들이 동방으로 옮기다가 시날 평지를 만나 거기 거류하며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People moved to the east.",
+      "korean_translation": "사람들은 동쪽으로 이동했습니다.",
+      "word_indices": [
+        284
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They reached a large flat piece of land",
+      "korean_translation": "그들은 넓은 평원에 도달했습니다.",
+      "word_indices": [
+        14,
+        149,
+        316,
+        449
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "called Shinar.",
+      "korean_translation": "그곳은 시날이라고 불렸습니다.",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They stayed there to live.",
+      "korean_translation": "그들은 거기에 살기 위해 머물렀습니다.",
+      "word_indices": [
+        8
+      ]
+    }
+  ]
+}

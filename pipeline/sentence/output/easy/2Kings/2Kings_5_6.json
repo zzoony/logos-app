@@ -1,0 +1,52 @@
+{
+  "verse_reference": "2 Kings 5:6",
+  "version": "EASY",
+  "original_text": "He also took the letter for the king of Israel. The message from the king of Syria said, ‘I am sending my servant Naaman to you, with this letter. I want you to take away the disease of his skin.’",
+  "korean_text": "이스라엘 왕에게 그 글을 전하니 일렀으되 내가 내 신하 나아만을 당신에게 보내오니 이 글이 당신에게 이르거든 당신은 그의 나병을 고쳐 주소서 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He also took the letter for the king of Israel.",
+      "korean_translation": "그는 이스라엘 왕에게 보낼 편지도 가져갔습니다.",
+      "word_indices": [
+        3,
+        9,
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The message from the king of Syria said",
+      "korean_translation": "시리아 왕의 메시지는 이렇게 말했습니다",
+      "word_indices": [
+        3,
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am sending my servant Naaman to you",
+      "korean_translation": "내가 내 종 나아만을 너에게 보내고 있노라",
+      "word_indices": [
+        25,
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with this letter.",
+      "korean_translation": "이 편지와 함께",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I want you to take away the disease of his skin.",
+      "korean_translation": "나는 네가 그의 피부 병을 고쳐주길 원한다.",
+      "word_indices": [
+        340
+      ]
+    }
+  ]
+}

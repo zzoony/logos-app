@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 9:24",
+  "version": "EASY",
+  "original_text": "The hail fell and there was lightning like fire. It was the worst storm anywhere in Egypt since Egypt had become a nation.",
+  "korean_text": "우박이 내림과 불덩이가 우박에 섞여 내림이 심히 맹렬하니 나라가 생긴 그 때로부터 애굽 온 땅에는 그와 같은 일이 없었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The hail fell",
+      "korean_translation": "우박이 내렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and there was lightning like fire",
+      "korean_translation": "그리고 불과 같은 번개가 있었다",
+      "word_indices": [
+        121
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was the worst storm anywhere in Egypt",
+      "korean_translation": "그것은 이집트 어디에서든 가장 최악의 폭풍이었다",
+      "word_indices": [
+        483,
+        684,
+        1281
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "since Egypt had become a nation",
+      "korean_translation": "이집트이 나라가 된 이래로",
+      "word_indices": [
+        70
+      ]
+    }
+  ]
+}

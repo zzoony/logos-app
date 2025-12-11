@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Matthew 20:30",
+  "version": "EASY",
+  "original_text": "Two men were sitting at the side of the road. They were blind. But they heard that Jesus was walking past them. So they shouted, ‘Master! Son of David! Please be kind to us and help us.’",
+  "korean_text": "맹인 두 사람이 길 가에 앉았다가 예수께서 지나가신다 함을 듣고 소리 질러 이르되 주여 우리를 불쌍히 여기소서 다윗의 자손이여 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two men were sitting at the side of the road.",
+      "korean_translation": "두 사람이 길가에 앉아 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They were blind.",
+      "korean_translation": "그들은 소경이었습니다.",
+      "word_indices": [
+        505
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But they heard that Jesus was walking past them.",
+      "korean_translation": "하지만 그들은 예수님께서 그들 옆을 지나가고 계신다는 것을 들었습니다.",
+      "word_indices": [
+        204,
+        512
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So they shouted,",
+      "korean_translation": "그래서 그들은 외쳤습니다.",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'Master!",
+      "korean_translation": "'주님이시여!'",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Son of David!",
+      "korean_translation": "'다윗의 자손이시여!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Please be kind to us and help us.'",
+      "korean_translation": "'우리를 불쌍히 여기시고 도와주세요.'",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

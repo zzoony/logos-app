@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 8:26",
+  "version": "EASY",
+  "original_text": "Jesus and his disciples went to the place where the Gerasene people lived. This place is across the lake from Galilee.",
+  "korean_text": "그들이 갈릴리 맞은편 거라사인의 땅에 이르러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus and his disciples went",
+      "korean_translation": "예수님과 제자들이 갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the place where the Gerasene people lived",
+      "korean_translation": "게라사 사람들이 살던 곳으로",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This place is across the lake",
+      "korean_translation": "이곳은 호수 건너편에 있다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from Galilee",
+      "korean_translation": "갈릴리에서",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 21:20",
+  "version": "EASY",
+  "original_text": "One day you will see Jerusalem with armies all around it. Then you will know that enemies will soon destroy that city.",
+  "korean_text": "너희가 예루살렘이 군대들에게 에워싸이는 것을 보거든 그 멸망이 가까운 줄을 알라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day you will see Jerusalem",
+      "korean_translation": "어느 날 당신은 예루살렘을 볼 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with armies all around it",
+      "korean_translation": "그것을 둘러싼 군대들과 함께",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then you will know",
+      "korean_translation": "그러면 당신은 알게 될 것입니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that enemies will soon destroy that city",
+      "korean_translation": "적들이 그 도시를 곧 파괴할 것이라는 것을",
+      "word_indices": [
+        20,
+        39,
+        50
+      ]
+    }
+  ]
+}

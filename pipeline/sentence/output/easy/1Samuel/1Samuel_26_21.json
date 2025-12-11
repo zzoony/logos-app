@@ -1,0 +1,74 @@
+{
+  "verse_reference": "1 Samuel 26:21",
+  "version": "EASY",
+  "original_text": "Then Saul said, ‘I have done a bad thing. Return home, David, my son. You chose not to kill me today, because you knew the value of my life. So I will not hurt you again. I have done foolish things. I have made a big mistake.’",
+  "korean_text": "사울이 이르되 내가 범죄하였도다 내 아들 다윗아 돌아오라 네가 오늘 내 생명을 귀하게 여겼은즉 내가 다시는 너를 해하려 하지 아니하리라 내가 어리석은 일을 하였으니 대단히 잘못되었도다 하는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Saul said",
+      "korean_translation": "그때 사울이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I have done a bad thing",
+      "korean_translation": "내가 나쁜 일을 저질렀다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Return home",
+      "korean_translation": "집으로 돌아가라",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "David, my son",
+      "korean_translation": "나의 아들 다윗아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You chose not to kill me today",
+      "korean_translation": "너는 오늘 나를 죽이지 않기로 선택했다",
+      "word_indices": [
+        26,
+        233
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because you knew the value of my life",
+      "korean_translation": "네가 내 생명의 가치를 알았기 때문이다",
+      "word_indices": [
+        41,
+        782
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "So I will not hurt you again",
+      "korean_translation": "그래서 나는 다시는 너를 해치지 않겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "I have done foolish things",
+      "korean_translation": "내가 어리석은 일들을 저질렀다",
+      "word_indices": [
+        501
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "I have made a big mistake",
+      "korean_translation": "내가 큰 실수를 저질렀다",
+      "word_indices": [
+        760
+      ]
+    }
+  ]
+}

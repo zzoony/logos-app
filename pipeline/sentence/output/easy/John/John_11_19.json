@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 11:19",
+  "version": "EASY",
+  "original_text": "Many Jews had come there to visit Martha and Mary. They wanted to help Martha and Mary because their brother had died.",
+  "korean_text": "많은 유대인이 마르다와 마리아에게 그 오라비의 일로 위문하러 왔더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many Jews had come there",
+      "korean_translation": "많은 유대인들이 그곳에 왔었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to visit Martha and Mary",
+      "korean_translation": "마르다와 마리아를 위문하기 위해",
+      "word_indices": [
+        380
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They wanted to help Martha and Mary",
+      "korean_translation": "그들은 마르다와 마리아를 돕고 싶었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because their brother had died",
+      "korean_translation": "그들의 오빠가 죽었기 때문이었다",
+      "word_indices": [
+        135
+      ]
+    }
+  ]
+}

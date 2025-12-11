@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 21:25",
+  "version": "EASY",
+  "original_text": "Jesus also did many other things. If people wrote about all those things, there would be very many books. I do not think that the whole world would have enough room for all those books.",
+  "korean_text": "예수께서 행하신 일이 이 외에도 많으니 만일 낱낱이 기록된다면 이 세상이라도 이 기록된 책을 두기에 부족할 줄 아노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus also did many other things.",
+      "korean_translation": "예수님은 또한 많은 다른 일들을 행하셨습니다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If people wrote about all those things,",
+      "korean_translation": "만약 사람들이 그 모든 일들에 대해 썼다면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there would be very many books.",
+      "korean_translation": "아주 많은 책들이 있을 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I do not think",
+      "korean_translation": "나는 생각하지 않습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that the whole world would have enough room",
+      "korean_translation": "온 세상이 충분한 공간을 가질 것이라고",
+      "word_indices": [
+        159,
+        169,
+        228
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for all those books.",
+      "korean_translation": "그 모든 책들을 위한 공간을 말입니다.",
+      "word_indices": []
+    }
+  ]
+}

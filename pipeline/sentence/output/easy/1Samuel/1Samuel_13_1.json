@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Samuel 13:1",
+  "version": "EASY",
+  "original_text": "Saul was 30 years old when he became king. He ruled Israel as king for 42 years. Samuel 12 Samuel 14",
+  "korean_text": "사울이 왕이 될 때에 사십 세라 그가 이스라엘을 다스린 지 이 년에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Saul was 30 years old",
+      "korean_translation": "사울은 30세였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he became king",
+      "korean_translation": "그가 왕이 되었을 때",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He ruled Israel as king",
+      "korean_translation": "그는 이스라엘을 왕으로 다스렸다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for 42 years",
+      "korean_translation": "42년 동안",
+      "word_indices": []
+    }
+  ]
+}

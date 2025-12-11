@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Exodus 8:13",
+  "version": "EASY",
+  "original_text": "And the Lord did what Moses asked. The frogs in the houses, in the yards and in the fields all died.",
+  "korean_text": "여호와께서 모세의 말대로 하시니 개구리가 집과 마당과 밭에서부터 나와서 죽은지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "And the Lord did what Moses asked",
+      "korean_translation": "주님은 모세가 요청한 것을 행하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The frogs in the houses died",
+      "korean_translation": "집 안의 개구리들이 죽었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The frogs in the yards died",
+      "korean_translation": "마당의 개구리들이 죽었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The frogs in the fields died",
+      "korean_translation": "들의 개구리들이 죽었다",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "All the frogs died",
+      "korean_translation": "모든 개구리들이 죽었다",
+      "word_indices": []
+    }
+  ]
+}

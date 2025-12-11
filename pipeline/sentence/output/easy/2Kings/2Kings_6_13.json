@@ -1,0 +1,39 @@
+{
+  "verse_reference": "2 Kings 6:13",
+  "version": "EASY",
+  "original_text": "The king of Syria said, ‘Go and find the place where he is. Then I will send some men there to catch him.’",
+  "korean_text": "왕이 이르되 너희는 가서 엘리사가 어디 있나 보라 내가 사람을 보내어 그를 잡으리라 왕에게 아뢰어 이르되 보라 그가 도단에 있도다 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of Syria said",
+      "korean_translation": "시리아 왕이 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go and find the place where he is",
+      "korean_translation": "가서 그가 있는 곳을 찾아라",
+      "word_indices": [
+        16,
+        131
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then I will send some men there",
+      "korean_translation": "그럼 내가 그곳에 사람들을 보내겠다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to catch him",
+      "korean_translation": "그를 잡으려고",
+      "word_indices": []
+    }
+  ]
+}

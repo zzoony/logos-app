@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 Samuel 1:26",
+  "version": "EASY",
+  "original_text": "Hannah said to Eli, ‘Please believe me sir. I am the woman who stood here before. You saw me when I was praying to the Lord.",
+  "korean_text": "한나가 이르되 내 주여 당신의 사심으로 맹세하나이다 나는 여기서 내 주 당신 곁에 서서 여호와께 기도하던 여자라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hannah said to Eli",
+      "korean_translation": "한나가 엘리에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Please believe me sir",
+      "korean_translation": "제발 저를 믿어 주세요, 주인님",
+      "word_indices": [
+        76,
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am the woman",
+      "korean_translation": "저는 그 여자입니다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who stood here before",
+      "korean_translation": "전에 여기 서 있던",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You saw me",
+      "korean_translation": "당신은 저를 보셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "when I was praying to the Lord",
+      "korean_translation": "내가 주님께 기도하고 있을 때",
+      "word_indices": [
+        2,
+        81
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 6:37",
+  "version": "EASY",
+  "original_text": "Everyone that the Father gives to me will come to me. When anyone comes to me, I will never send that person away.",
+  "korean_text": "아버지께서 내게 주시는 자는 다 내게로 올 것이요 내게 오는 자는 내가 결코 내쫓지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Everyone that the Father gives to me",
+      "korean_translation": "아버지께서 내게 주시는 모든 사람은",
+      "word_indices": [
+        4,
+        37,
+        97
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will come to me",
+      "korean_translation": "내게 올 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When anyone comes to me",
+      "korean_translation": "누구든지 내게 올 때",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will never send that person away",
+      "korean_translation": "나는 결코 그 사람을 내쫓지 않을 것입니다",
+      "word_indices": [
+        24,
+        25
+      ]
+    }
+  ]
+}

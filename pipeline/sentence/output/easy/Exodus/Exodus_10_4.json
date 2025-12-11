@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Exodus 10:4",
+  "version": "EASY",
+  "original_text": "If you refuse to let them go, I will bring locusts into your country tomorrow.",
+  "korean_text": "네가 만일 내 백성 보내기를 거절하면 내일 내가 메뚜기를 네 경내에 들어가게 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you refuse to let them go",
+      "korean_translation": "만약 네가 그들을 가도록 거절하면",
+      "word_indices": [
+        157
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will bring locusts into your country",
+      "korean_translation": "내가 너의 나라에 메뚜기들을 데려오겠다",
+      "word_indices": [
+        117,
+        675
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "tomorrow",
+      "korean_translation": "내일",
+      "word_indices": [
+        628
+      ]
+    }
+  ]
+}

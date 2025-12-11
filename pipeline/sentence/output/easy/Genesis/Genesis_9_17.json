@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Genesis 9:17",
+  "version": "EASY",
+  "original_text": "Then God said to Noah, ‘The rainbow will show you that I will certainly keep my promise. I will keep my covenant that is between me and everything that lives on the earth.’",
+  "korean_text": "하나님이 노아에게 또 이르시되 내가 나와 땅에 있는 모든 생물 사이에 세운 언약의 증거가 이것이라 하셨더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then God said to Noah",
+      "korean_translation": "그때 하나님이 노아에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The rainbow will show you",
+      "korean_translation": "무지개가 너에게 보여줄 것이다",
+      "word_indices": [
+        1190
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I will certainly keep my promise",
+      "korean_translation": "내가 반드시 나의 약속을 지킬 것이라는 것을",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will keep my covenant",
+      "korean_translation": "나는 나의 언약을 지킬 것이다",
+      "word_indices": [
+        101,
+        197
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that is between me and everything",
+      "korean_translation": "나와 모든 것 사이에 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that lives on the earth",
+      "korean_translation": "땅에 살아있는",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

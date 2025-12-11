@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Proverbs 25:21",
+  "version": "EASY",
+  "original_text": "If your enemy is hungry, give him something to eat. If he is thirsty, give him some water to drink.",
+  "korean_text": "네 원수가 배고파하거든 음식을 먹이고 목말라하거든 물을 마시게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If your enemy is hungry",
+      "korean_translation": "네 원수가 주리면",
+      "word_indices": [
+        50,
+        402
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "give him something to eat",
+      "korean_translation": "그에게 먹을 것을 주라",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If he is thirsty",
+      "korean_translation": "그가 목마르면",
+      "word_indices": [
+        705
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "give him some water to drink",
+      "korean_translation": "그에게 마실 물을 주라",
+      "word_indices": [
+        4,
+        60,
+        118
+      ]
+    }
+  ]
+}

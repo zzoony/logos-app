@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 8:35",
+  "version": "EASY",
+  "original_text": "A slave does not belong to a family for ever. But a son does belong to a family for ever.",
+  "korean_text": "종은 영원히 집에 거하지 못하되 아들은 영원히 거하나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A slave does not belong to a family",
+      "korean_translation": "종은 한 가족에 속하지 않습니다",
+      "word_indices": [
+        45,
+        56,
+        214
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for ever",
+      "korean_translation": "영원히",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But a son does belong to a family",
+      "korean_translation": "하지만 아들은 한 가족에 속합니다",
+      "word_indices": [
+        45,
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for ever",
+      "korean_translation": "영원히",
+      "word_indices": []
+    }
+  ]
+}

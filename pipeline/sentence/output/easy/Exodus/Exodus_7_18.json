@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Exodus 7:18",
+  "version": "EASY",
+  "original_text": "The fish in the river will die, and the river will have a very bad smell. Then the Egyptians will not be able to drink the water from the Nile river.” ’",
+  "korean_text": "나일 강의 고기가 죽고 그 물에서는 악취가 나리니 애굽 사람들이 그 강 물 마시기를 싫어하리라 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The fish in the river will die",
+      "korean_translation": "강에 있는 물고기가 죽을 것입니다",
+      "word_indices": [
+        136,
+        517
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the river will have a very bad smell",
+      "korean_translation": "그리고 강에서는 아주 고약한 냄새가 날 것입니다",
+      "word_indices": [
+        136,
+        448
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then the Egyptians will not be able to drink the water",
+      "korean_translation": "그러면 이집트 사람들은 그 물을 마실 수 없을 것입니다",
+      "word_indices": [
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from the Nile river",
+      "korean_translation": "나일 강에서 나오는",
+      "word_indices": [
+        136
+      ]
+    }
+  ]
+}

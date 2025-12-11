@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Genesis 9:9",
+  "version": "EASY",
+  "original_text": "‘I promise you that I will obey the covenant that I am making with you. I promise this to you and to all your descendants.",
+  "korean_text": "내가 내 언약을 너희와 너희 후손과",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I promise you",
+      "korean_translation": "내가 너에게 약속하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that I will obey the covenant",
+      "korean_translation": "내가 그 언약을 지키리라",
+      "word_indices": [
+        197
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I am making with you",
+      "korean_translation": "내가 너와 세우는 언약을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I promise this to you",
+      "korean_translation": "이것을 너에게 약속하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and to all your descendants",
+      "korean_translation": "그리고 네 모든 후손에게도",
+      "word_indices": [
+        75
+      ]
+    }
+  ]
+}

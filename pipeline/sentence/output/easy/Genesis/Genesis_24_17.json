@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 24:17",
+  "version": "EASY",
+  "original_text": "Abraham's servant hurried to meet her. He said, ‘Please give me a little water to drink from your pot.’",
+  "korean_text": "종이 마주 달려가서 이르되 청하건대 네 물동이의 물을 내게 조금 마시게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham's servant hurried to meet her.",
+      "korean_translation": "아브라함의 종이 그녀에게로 빨리 갔다.",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said,",
+      "korean_translation": "그가 말했다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Please give me a little water to drink",
+      "korean_translation": "내가 마실 물을 조금만 주세요",
+      "word_indices": [
+        4,
+        60,
+        76,
+        118,
+        401
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from your pot.'",
+      "korean_translation": "당신의 물단지에서.'",
+      "word_indices": []
+    }
+  ]
+}

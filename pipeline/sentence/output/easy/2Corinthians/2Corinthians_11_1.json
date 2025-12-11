@@ -1,0 +1,41 @@
+{
+  "verse_reference": "2 Corinthians 11:1",
+  "version": "EASY",
+  "original_text": "Please be patient with me! I am speaking like a fool. I know that you are being patient with me already!",
+  "korean_text": "원하건대 너희는 나의 좀 어리석은 것을 용납하라 청하건대 나를 용납하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Please be patient with me!",
+      "korean_translation": "저를 참아주십시오!",
+      "word_indices": [
+        76,
+        549
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am speaking like a fool.",
+      "korean_translation": "제가 바보처럼 말하고 있습니다.",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I know",
+      "korean_translation": "저는 압니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you are being patient with me already!",
+      "korean_translation": "이미 여러분이 저를 참아주고 있다는 것을!",
+      "word_indices": [
+        549
+      ]
+    }
+  ]
+}

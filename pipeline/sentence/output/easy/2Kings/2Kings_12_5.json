@@ -1,0 +1,47 @@
+{
+  "verse_reference": "2 Kings 12:5",
+  "version": "EASY",
+  "original_text": "Each priest should receive the money that he needs to make repairs to the temple. When he sees that something is broken, he can use some of the people's money to mend it.’",
+  "korean_text": "제사장들이 각각 아는 자에게서 받아들여 성전의 어느 곳이든지 파손된 것을 보거든 그것으로 수리하라 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Each priest should receive the money",
+      "korean_translation": "각 제사장은 돈을 받아야 합니다",
+      "word_indices": [
+        32,
+        104,
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he needs to make repairs to the temple",
+      "korean_translation": "성전을 수리하는 데 필요한",
+      "word_indices": [
+        49,
+        587
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When he sees that something is broken",
+      "korean_translation": "무언가 부러진 것을 볼 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he can use some of the people's money",
+      "korean_translation": "그는 백성의 돈 일부를 사용할 수 있습니다",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to mend it",
+      "korean_translation": "그것을 수리하기 위해",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 10:18",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘I saw the Devil himself fall from heaven like lightning.",
+  "korean_text": "예수께서 이르시되 사탄이 하늘로부터 번개 같이 떨어지는 것을 내가 보았노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I saw the Devil himself",
+      "korean_translation": "내가 마귀 자신을 보았다",
+      "word_indices": [
+        631
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "fall from heaven",
+      "korean_translation": "하늘에서 떨어지는 것을",
+      "word_indices": [
+        170,
+        208
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "like lightning",
+      "korean_translation": "번개처럼",
+      "word_indices": []
+    }
+  ]
+}

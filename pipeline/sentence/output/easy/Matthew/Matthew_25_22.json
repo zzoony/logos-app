@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Matthew 25:22",
+  "version": "EASY",
+  "original_text": "The servant who had received 2,000 gold coins also came to his master. The servant said, “Master, you gave me 2,000 gold coins. Now I have an extra 2,000 gold coins.”",
+  "korean_text": "두 달란트 받았던 자도 와서 이르되 주인이여 내게 두 달란트를 주셨는데 보소서 내가 또 두 달란트를 남겼나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The servant who had received 2,000 gold coins",
+      "korean_translation": "2,000 금화를 받은 그 종은",
+      "word_indices": [
+        44,
+        130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "also came to his master",
+      "korean_translation": "또한 주인에게 왔다",
+      "word_indices": [
+        9,
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The servant said",
+      "korean_translation": "그 종이 말했다",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Master, you gave me 2,000 gold coins",
+      "korean_translation": "주인님, 당신은 저에게 2,000 금화를 주셨습니다",
+      "word_indices": [
+        4,
+        130,
+        176
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Now I have an extra 2,000 gold coins",
+      "korean_translation": "이제 저는 추가로 2,000 금화를 가지고 있습니다",
+      "word_indices": [
+        130,
+        850
+      ]
+    }
+  ]
+}

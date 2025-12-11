@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 1:40",
+  "version": "EASY",
+  "original_text": "Andrew was one of the two disciples who had followed Jesus. They had heard what John had said about Jesus. Andrew was Simon Peter's brother.",
+  "korean_text": "요한의 말을 듣고 예수를 따르는 두 사람 중의 하나는 시몬 베드로의 형제 안드레라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Andrew was one of the two disciples",
+      "korean_translation": "안드레는 두 제자 중 한 명이었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who had followed Jesus",
+      "korean_translation": "예수님을 따랐던",
+      "word_indices": [
+        388
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They had heard",
+      "korean_translation": "그들은 들었었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "what John had said about Jesus",
+      "korean_translation": "요한이 예수님에 대해 말한 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Andrew was Simon Peter's brother",
+      "korean_translation": "안드레는 시몬 베드로의 형이었습니다",
+      "word_indices": [
+        135
+      ]
+    }
+  ]
+}

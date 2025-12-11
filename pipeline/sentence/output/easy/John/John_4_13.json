@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 4:13",
+  "version": "EASY",
+  "original_text": "Jesus answered, ‘Everyone who drinks water from this well will get thirsty again.",
+  "korean_text": "예수께서 대답하여 이르시되 이 물을 마시는 자마다 다시 목마르려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수님께서 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Everyone who drinks water from this well",
+      "korean_translation": "이 우물에서 물을 마시는 모든 사람은",
+      "word_indices": [
+        60,
+        97,
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will get thirsty again",
+      "korean_translation": "다시 목마르게 될 것이다",
+      "word_indices": [
+        705
+      ]
+    }
+  ]
+}

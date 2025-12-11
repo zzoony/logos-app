@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Numbers 11:9",
+  "version": "EASY",
+  "original_text": "At night, dew fell on the ground in the camp. The manna fell with the dew.",
+  "korean_text": "밤에 이슬이 진영에 내릴 때에 만나도 함께 내렸더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At night",
+      "korean_translation": "밤에",
+      "word_indices": [
+        211
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "dew fell",
+      "korean_translation": "이슬이 내렸습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the ground in the camp",
+      "korean_translation": "진중의 땅에",
+      "word_indices": [
+        286
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The manna fell",
+      "korean_translation": "만나가 내렸습니다",
+      "word_indices": [
+        954
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with the dew",
+      "korean_translation": "이슬과 함께",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Samuel 17:33",
+  "version": "EASY",
+  "original_text": "Saul replied, ‘You could not fight against this strong Philistine. You are only a boy! He has been a brave soldier since he was a young man.’",
+  "korean_text": "사울이 다윗에게 이르되 네가 가서 저 블레셋 사람과 싸울 수 없으리니 너는 소년이요 그는 어려서부터 용사임이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Saul replied",
+      "korean_translation": "사울이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You could not fight against this strong Philistine",
+      "korean_translation": "너는 이 강한 블레셋 사람과 싸울 수 없다",
+      "word_indices": [
+        31,
+        43
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You are only a boy",
+      "korean_translation": "너는 단지 어린 소년일 뿐이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He has been a brave soldier",
+      "korean_translation": "그는 용감한 군인이었다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "since he was a young man",
+      "korean_translation": "젊었을 때부터",
+      "word_indices": [
+        108
+      ]
+    }
+  ]
+}

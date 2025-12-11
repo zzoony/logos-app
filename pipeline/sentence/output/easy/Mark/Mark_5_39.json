@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Mark 5:39",
+  "version": "EASY",
+  "original_text": "Jesus went into the house and he said to the people, ‘You should not be weeping and making a noise. The child is not dead. She is asleep.’",
+  "korean_text": "들어가서 그들에게 이르시되 너희가 어찌하여 떠들며 우느냐 이 아이가 죽은 것이 아니라 잔다 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus went into the house",
+      "korean_translation": "예수님은 집에 들어가셨다",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he said to the people",
+      "korean_translation": "그리고 사람들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should not be weeping",
+      "korean_translation": "너희는 울지 않아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and making a noise",
+      "korean_translation": "그리고 소리를 지르지 않아야 한다",
+      "word_indices": [
+        290
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The child is not dead",
+      "korean_translation": "이 아이는 죽은 것이 아니다",
+      "word_indices": [
+        65,
+        133
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "She is asleep",
+      "korean_translation": "그녀는 잠들어 있다",
+      "word_indices": [
+        864
+      ]
+    }
+  ]
+}

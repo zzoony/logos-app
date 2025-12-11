@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 17:29",
+  "version": "EASY",
+  "original_text": "But one day Lot went away from Sodom. On that same day, God caused it to rain fire and burning stones from the sky. This killed all the people in Sodom.",
+  "korean_text": "롯이 소돔에서 나가던 날에 하늘로부터 불과 유황이 비오듯 하여 그들을 멸망시켰느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But one day Lot went away from Sodom",
+      "korean_translation": "그러나 어느 날 롯이 소돔에서 떠났습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "On that same day",
+      "korean_translation": "그 바로 그 날에",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God caused it to rain fire and burning stones from the sky",
+      "korean_translation": "하나님은 하늘에서 불과 타는 돌을 비처럼 내리게 하셨습니다",
+      "word_indices": [
+        121,
+        327
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This killed all the people in Sodom",
+      "korean_translation": "이것이 소돔의 모든 사람들을 죽였습니다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

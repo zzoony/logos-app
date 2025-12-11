@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Mark 10:47",
+  "version": "EASY",
+  "original_text": "Somebody told Bartimaeus that Jesus from Nazareth was walking past him. So he began to shout. He said, ‘Jesus, Son of David! Please be kind to me and help me!’",
+  "korean_text": "나사렛 예수시란 말을 듣고 소리 질러 이르되 다윗의 자손 예수여 나를 불쌍히 여기소서 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Somebody told Bartimaeus",
+      "korean_translation": "어떤 사람이 바디매오에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Jesus from Nazareth was walking past him",
+      "korean_translation": "나사렛 예수님께서 그를 지나가고 계신다는 것을",
+      "word_indices": [
+        204,
+        512
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So he began to shout",
+      "korean_translation": "그래서 그는 소리치기 시작했다",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He said",
+      "korean_translation": "그가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Jesus, Son of David!",
+      "korean_translation": "다윗의 자손 예수님!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Please be kind to me and help me!",
+      "korean_translation": "제게 자비를 베풀고 도와주세요!",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

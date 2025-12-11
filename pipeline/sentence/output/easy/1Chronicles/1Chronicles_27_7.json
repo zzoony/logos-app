@@ -1,0 +1,54 @@
+{
+  "verse_reference": "1 Chronicles 27:7",
+  "version": "EASY",
+  "original_text": "Asahel was the leader of the fourth group of 24,000 soldiers. They worked in the fourth month. Asahel was Joab's brother. His son Zebadiah was the leader of the group after him.",
+  "korean_text": "넷째 달 넷째 지휘관은 요압의 아우 아사헬이요 그 다음은 그의 아들 스바댜이니 그의 반에 이만 사천 명이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Asahel was the leader of the fourth group",
+      "korean_translation": "아사엘은 네 번째 그룹의 지도자였습니다",
+      "word_indices": [
+        645
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of 24,000 soldiers",
+      "korean_translation": "24,000명의 군사들이었습니다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They worked in the fourth month",
+      "korean_translation": "그들은 네 번째 달에 일했습니다",
+      "word_indices": [
+        35,
+        255,
+        645
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Asahel was Joab's brother",
+      "korean_translation": "아사엘은 요압의 형제였습니다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "His son Zebadiah was the leader",
+      "korean_translation": "그의 아들 스바댜는 지도자였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "of the group after him",
+      "korean_translation": "그를 이어받은 그룹의",
+      "word_indices": []
+    }
+  ]
+}

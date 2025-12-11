@@ -1,0 +1,67 @@
+{
+  "verse_reference": "John 15:24",
+  "version": "EASY",
+  "original_text": "When I was with them, I did many great things. Nobody else ever did things like that. If I had not done those great things among them, they would not have known what is wrong. But they have seen what I did. As a result, they have hated me, and they have hated my Father too.",
+  "korean_text": "내가 아무도 못한 일을 그들 중에서 하지 아니하였더라면 그들에게 죄가 없었으려니와 지금은 그들이 나와 내 아버지를 보았고 또 미워하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When I was with them",
+      "korean_translation": "내가 그들과 함께 있을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I did many great things",
+      "korean_translation": "나는 많은 큰 일들을 행했다",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Nobody else ever did things like that",
+      "korean_translation": "다른 누구도 그런 일들을 하지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If I had not done those great things among them",
+      "korean_translation": "내가 그들 중에서 그 큰 일들을 하지 않았다면",
+      "word_indices": [
+        40,
+        112
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they would not have known what is wrong",
+      "korean_translation": "그들은 무엇이 잘못되었는지 알지 못했을 것이다",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "But they have seen what I did",
+      "korean_translation": "하지만 그들은 내가 한 것을 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "As a result, they have hated me",
+      "korean_translation": "그 결과, 그들은 나를 미워하게 되었다",
+      "word_indices": [
+        215
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and they have hated my Father too",
+      "korean_translation": "그리고 나의 아버지도 미워하게 되었다",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

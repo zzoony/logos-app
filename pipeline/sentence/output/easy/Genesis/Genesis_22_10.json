@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 22:10",
+  "version": "EASY",
+  "original_text": "Then Abraham took hold of the knife. He was ready to kill his son as a sacrifice.",
+  "korean_text": "손을 내밀어 칼을 잡고 그 아들을 잡으려 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Abraham took hold of the knife.",
+      "korean_translation": "그 때 아브라함은 칼을 잡았습니다.",
+      "word_indices": [
+        743
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He was ready to kill his son",
+      "korean_translation": "그는 자신의 아들을 죽일 준비가 되었습니다",
+      "word_indices": [
+        26,
+        163
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as a sacrifice.",
+      "korean_translation": "제물로서.",
+      "word_indices": [
+        126
+      ]
+    }
+  ]
+}

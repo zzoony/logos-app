@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Acts 27:42",
+  "version": "EASY",
+  "original_text": "The soldiers decided to kill the prisoners that they were guarding. They did not want these men to swim to the land and escape.",
+  "korean_text": "군인들은 죄수가 헤엄쳐서 도망할까 하여 그들을 죽이는 것이 좋다 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The soldiers decided to kill the prisoners",
+      "korean_translation": "군인들은 죄수들을 죽이기로 결정했습니다",
+      "word_indices": [
+        26,
+        36,
+        320
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that they were guarding",
+      "korean_translation": "그들이 지키고 있던",
+      "word_indices": [
+        283
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They did not want these men to swim to the land",
+      "korean_translation": "그들은 이 남자들이 땅으로 수영해서 가는 것을 원하지 않았습니다",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and escape",
+      "korean_translation": "그리고 도망가는 것을",
+      "word_indices": []
+    }
+  ]
+}

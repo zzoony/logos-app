@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 18:12",
+  "version": "EASY",
+  "original_text": "I fast for two days of each week. I give to you one tenth of all the things and money that I receive.”",
+  "korean_text": "나는 이레에 두 번씩 금식하고 또 소득의 십일조를 드리나이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I fast for two days of each week",
+      "korean_translation": "나는 매주 이틀 동안 금식합니다",
+      "word_indices": [
+        614
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I give to you one tenth of all the things and money",
+      "korean_translation": "나는 모든 물건과 돈의 십분의 일을 당신에게 드립니다",
+      "word_indices": [
+        4,
+        142,
+        671
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I receive",
+      "korean_translation": "내가 받은 것들",
+      "word_indices": [
+        104
+      ]
+    }
+  ]
+}

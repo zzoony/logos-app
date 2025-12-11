@@ -1,0 +1,34 @@
+{
+  "verse_reference": "1 Samuel 24:17",
+  "version": "EASY",
+  "original_text": "He said to David, ‘You are a better man than I am. You have been kind to me even when I have tried to hurt you.",
+  "korean_text": "다윗에게 이르되 나는 너를 학대하되 너는 나를 선대하니 너는 나보다 의롭도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to David,",
+      "korean_translation": "그가 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are a better man than I am.",
+      "korean_translation": "당신은 나보다 더 좋은 사람입니다",
+      "word_indices": [
+        247
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You have been kind to me",
+      "korean_translation": "당신은 나에게 친절했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even when I have tried to hurt you.",
+      "korean_translation": "내가 당신을 해치려고 했을 때에도",
+      "word_indices": []
+    }
+  ]
+}

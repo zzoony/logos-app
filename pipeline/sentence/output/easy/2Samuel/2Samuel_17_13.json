@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Samuel 17:13",
+  "version": "EASY",
+  "original_text": "If he escapes into a city, we can completely destroy the city. Our soldiers will use ropes to pull it all down into the valley!’",
+  "korean_text": "또 만일 그가 어느 성에 들었으면 온 이스라엘이 밧줄을 가져다가 그 성을 강으로 끌어들여서 그 곳에 작은 돌 하나도 보이지 아니하게 할 것이니이다 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If he escapes into a city",
+      "korean_translation": "그가 도시로 도망친다면",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "we can completely destroy the city",
+      "korean_translation": "우리는 그 도시를 완전히 파괴할 수 있어",
+      "word_indices": [
+        20,
+        39,
+        161
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Our soldiers will use ropes",
+      "korean_translation": "우리 군사들은 밧줄을 사용할 거야",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to pull it all down into the valley",
+      "korean_translation": "그것을 모두 계곡으로 끌어내리기 위해서",
+      "word_indices": [
+        266
+      ]
+    }
+  ]
+}

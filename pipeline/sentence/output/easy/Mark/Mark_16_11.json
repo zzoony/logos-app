@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Mark 16:11",
+  "version": "EASY",
+  "original_text": "She told them that Jesus was alive. And she told them that she had seen him. But they did not believe it.",
+  "korean_text": "그들은 예수께서 살아나셨다는 것과 마리아에게 보이셨다는 것을 듣고도 믿지 아니하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "She told them",
+      "korean_translation": "그녀는 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Jesus was alive",
+      "korean_translation": "예수가 살아있다는 것을",
+      "word_indices": [
+        151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And she told them",
+      "korean_translation": "그리고 그녀는 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that she had seen him",
+      "korean_translation": "그녀가 그를 보았다는 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But they did not believe it",
+      "korean_translation": "하지만 그들은 그것을 믿지 않았다",
+      "word_indices": [
+        88
+      ]
+    }
+  ]
+}

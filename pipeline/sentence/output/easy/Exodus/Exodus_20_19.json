@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 20:19",
+  "version": "EASY",
+  "original_text": "They said to Moses, ‘Speak to us yourself. We will listen to you. But do not let God speak to us. If he does, we will die.’",
+  "korean_text": "모세에게 이르되 당신이 우리에게 말씀하소서 우리가 들으리이다 하나님이 우리에게 말씀하시지 말게 하소서 우리가 죽을까 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said to Moses",
+      "korean_translation": "그들이 모세에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Speak to us yourself",
+      "korean_translation": "당신이 우리에게 직접 말씀해주세요",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We will listen to you",
+      "korean_translation": "우리는 당신의 말씀을 들을 것입니다",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But do not let God speak to us",
+      "korean_translation": "하지만 하나님이 우리에게 말씀하게 하지 마세요",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If he does",
+      "korean_translation": "만약 하나님이 말씀하시면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "we will die",
+      "korean_translation": "우리는 죽을 것입니다",
+      "word_indices": []
+    }
+  ]
+}

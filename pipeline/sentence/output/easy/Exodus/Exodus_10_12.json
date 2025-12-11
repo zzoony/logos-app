@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Exodus 10:12",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Moses, ‘Lift up your hand over the country of Egypt. Then locusts will fly all over the land. They will eat every plant that grows in the ground. They will eat everything that the hail has not destroyed.’",
+  "korean_text": "여호와께서 모세에게 이르시되 애굽 땅 위에 네 손을 내밀어 메뚜기를 애굽 땅에 올라오게 하여 우박에 상하지 아니한 밭의 모든 채소를 먹게 하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses",
+      "korean_translation": "그때 주께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lift up your hand over the country of Egypt",
+      "korean_translation": "이집트 땅 위로 네 손을 들어라",
+      "word_indices": [
+        117,
+        132
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then locusts will fly all over the land",
+      "korean_translation": "그러면 메뚜기들이 온 땅에 날아다닐 것이다",
+      "word_indices": [
+        14,
+        675
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They will eat every plant that grows in the ground",
+      "korean_translation": "그들은 땅에서 자라는 모든 식물을 먹을 것이다",
+      "word_indices": [
+        156,
+        199
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They will eat everything that the hail has not destroyed",
+      "korean_translation": "그들은 우박이 파괴하지 않은 모든 것을 먹을 것이다",
+      "word_indices": [
+        39
+      ]
+    }
+  ]
+}

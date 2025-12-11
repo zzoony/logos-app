@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 12:2",
+  "version": "EASY",
+  "original_text": "Some friends prepared a special meal there for Jesus. Martha gave out the food, and Lazarus sat among the visitors, with Jesus.",
+  "korean_text": "거기서 예수를 위하여 잔치할새 마르다는 일을 하고 나사로는 예수와 함께 앉은 자 중에 있더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some friends prepared a special meal there",
+      "korean_translation": "어떤 친구들이 그곳에서 특별한 식사를 준비했다",
+      "word_indices": [
+        68,
+        113
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for Jesus",
+      "korean_translation": "예수님을 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Martha gave out the food",
+      "korean_translation": "마르다는 음식을 나누어주었고",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and Lazarus sat among the visitors",
+      "korean_translation": "나사로는 손님들 가운데 앉아 있었다",
+      "word_indices": [
+        112,
+        721
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with Jesus",
+      "korean_translation": "예수님과 함께",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Exodus 20:26",
+  "version": "EASY",
+  "original_text": "Do not make an altar which has stairs going up to it. If you do that, someone may see under your clothes when you climb up the stairs. Then you would be ashamed.”",
+  "korean_text": "너는 층계로 내 제단에 오르지 말라 네 하체가 그 위에서 드러날까 함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not make an altar",
+      "korean_translation": "제단을 만들지 말라",
+      "word_indices": [
+        119
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which has stairs going up to it",
+      "korean_translation": "계단이 올라가는 제단을",
+      "word_indices": [
+        1138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you do that",
+      "korean_translation": "만약 네가 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "someone may see under your clothes",
+      "korean_translation": "누군가 네 옷 아래를 볼 수 있다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "when you climb up the stairs",
+      "korean_translation": "네가 계단을 오를 때",
+      "word_indices": [
+        793,
+        1138
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then you would be ashamed",
+      "korean_translation": "그러면 네가 수치를 당하게 될 것이다",
+      "word_indices": []
+    }
+  ]
+}

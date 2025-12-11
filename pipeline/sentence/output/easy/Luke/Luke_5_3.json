@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 5:3",
+  "version": "EASY",
+  "original_text": "One of the boats belonged to Simon. Jesus climbed into it. He asked Simon to push it away from the shore. Jesus sat in the boat and he started to teach the people.",
+  "korean_text": "예수께서 한 배에 오르시니 그 배는 시몬의 배라 육지에서 조금 떼기를 청하시고 앉으사 배에서 무리를 가르치시더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One of the boats belonged to Simon.",
+      "korean_translation": "보트 중 하나는 시몬에게 속해 있었습니다.",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus climbed into it.",
+      "korean_translation": "예수님은 그 보트에 올라탔습니다.",
+      "word_indices": [
+        793
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He asked Simon to push it away from the shore.",
+      "korean_translation": "예수님은 시몬에게 보트를 해안에서 멀리 밀어달라고 부탁하셨습니다.",
+      "word_indices": [
+        596
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus sat in the boat",
+      "korean_translation": "예수님은 보트에 앉으셨고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he started to teach the people.",
+      "korean_translation": "사람들을 가르치기 시작했습니다.",
+      "word_indices": [
+        87,
+        222
+      ]
+    }
+  ]
+}

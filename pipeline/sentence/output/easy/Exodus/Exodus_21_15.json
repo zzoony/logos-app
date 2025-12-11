@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Exodus 21:15",
+  "version": "EASY",
+  "original_text": "If someone attacks his father or his mother, you must punish him with death.",
+  "korean_text": "자기 아버지나 어머니를 치는 자는 반드시 죽일지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If someone attacks his father",
+      "korean_translation": "만약 누군가 그의 아버지를 공격하면",
+      "word_indices": [
+        37,
+        62,
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "or his mother",
+      "korean_translation": "또는 그의 어머니를",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you must punish him with death",
+      "korean_translation": "너는 그를 사형으로 처벌해야 한다",
+      "word_indices": [
+        153
+      ]
+    }
+  ]
+}

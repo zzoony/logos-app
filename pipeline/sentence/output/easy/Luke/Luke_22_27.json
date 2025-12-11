@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Luke 22:27",
+  "version": "EASY",
+  "original_text": "Tell me, which person is the more important one? Is it the person who sits at the table to eat? Or is it the servant that puts out the meal for him? Yes, it is the person who sits at the table. But I am here to be your servant.",
+  "korean_text": "앉아서 먹는 자가 크냐 섬기는 자가 크냐 앉아서 먹는 자가 아니냐 그러나 나는 섬기는 자로 너희 중에 있노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Tell me",
+      "korean_translation": "내게 말해봐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which person is the more important one?",
+      "korean_translation": "어떤 사람이 더 중요한 사람이니?",
+      "word_indices": [
+        24,
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Is it the person who sits at the table to eat?",
+      "korean_translation": "식사하기 위해 테이블에 앉는 사람이니?",
+      "word_indices": [
+        24,
+        536
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Or is it the servant that puts out the meal for him?",
+      "korean_translation": "아니면 그를 위해 음식을 내놓는 종이니?",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Yes, it is the person who sits at the table.",
+      "korean_translation": "그래, 테이블에 앉는 사람이야.",
+      "word_indices": [
+        24,
+        536
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "But I am here to be your servant.",
+      "korean_translation": "하지만 나는 너희의 종이 되기 위해 여기에 있어.",
+      "word_indices": [
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "2 Kings 9:7",
+  "version": "EASY",
+  "original_text": "You will destroy the family of your master, Ahab. In this way I will punish Ahab's wife Jezebel, because she killed the prophets and other people who served me.",
+  "korean_text": "너는 네 주 아합의 집을 치라 내가 나의 종 곧 선지자들의 피와 여호와의 종들의 피를 이세벨에게 갚아 주리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will destroy the family of your master, Ahab.",
+      "korean_translation": "당신은 당신의 주인인 아합의 가문을 멸망시킬 것입니다.",
+      "word_indices": [
+        39,
+        56,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "In this way I will punish Ahab's wife Jezebel,",
+      "korean_translation": "이런 방식으로 나는 아합의 아내 이세벨을 벌할 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because she killed the prophets",
+      "korean_translation": "그녀가 선지자들을 죽였기 때문입니다",
+      "word_indices": [
+        26,
+        100
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and other people who served me.",
+      "korean_translation": "그리고 나를 섬겼던 다른 사람들도 죽였기 때문입니다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Kings 1:15",
+  "version": "EASY",
+  "original_text": "The angel of the Lord said to Elijah, ‘Go down with him. Do not be afraid of him.’ So Elijah went down with the captain to meet the king.",
+  "korean_text": "여호와의 사자가 엘리야에게 이르되 너는 그를 두려워하지 말고 함께 내려가라 하신지라 엘리야가 곧 일어나 그와 함께 내려와 왕에게 이르러",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel of the Lord said to Elijah",
+      "korean_translation": "여호와의 사자가 엘리야에게 말하기를",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Go down with him",
+      "korean_translation": "그와 함께 내려가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not be afraid of him.'",
+      "korean_translation": "그를 두려워하지 말라'",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So Elijah went down with the captain",
+      "korean_translation": "그리하여 엘리야가 그 대장과 함께 내려갔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to meet the king.",
+      "korean_translation": "왕을 만나러 갔다",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Exodus 5:5",
+  "version": "EASY",
+  "original_text": "Pharaoh said, ‘Look, there are now many of your people who live in my country. But you are taking them away from their work.’",
+  "korean_text": "바로가 또 이르되 이제 이 땅의 백성이 많아졌거늘 너희가 그들로 노역을 쉬게 하는도다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pharaoh said",
+      "korean_translation": "바로가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look",
+      "korean_translation": "보십시오",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "there are now many of your people",
+      "korean_translation": "당신의 백성들이 이제 많이 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who live in my country",
+      "korean_translation": "그들이 내 나라에 살고 있습니다",
+      "word_indices": [
+        8,
+        117
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But you are taking them away",
+      "korean_translation": "하지만 당신은 그들을 데려가고 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "from their work",
+      "korean_translation": "그들의 일에서",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

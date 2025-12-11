@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Ezekiel 40:44",
+  "version": "EASY",
+  "original_text": "There were two rooms for singers that had doors to the inside yard. One was beside the north gate and its door opened towards the south. The other room was beside the south gate and its door opened towards the north.",
+  "korean_text": "안문 밖에 있는 안뜰에는 노래하는 자의 방 둘이 있는데 북문 곁에 있는 방은 남쪽으로 향하였고 남문 곁에 있는 방은 북쪽으로 향하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There were two rooms for singers",
+      "korean_translation": "성가대를 위한 방이 두 개 있었고",
+      "word_indices": [
+        575
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that had doors to the inside yard",
+      "korean_translation": "그 방들은 안뜰로 통하는 문이 있었다",
+      "word_indices": [
+        252,
+        267
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "One was beside the north gate",
+      "korean_translation": "한 방은 북문 곁에 있었고",
+      "word_indices": [
+        168,
+        259,
+        343
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and its door opened towards the south",
+      "korean_translation": "그 문은 남쪽을 향해 열렸다",
+      "word_indices": [
+        267,
+        285
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The other room was beside the south gate",
+      "korean_translation": "다른 방은 남문 곁에 있었고",
+      "word_indices": [
+        168,
+        285,
+        343
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and its door opened towards the north",
+      "korean_translation": "그 문은 북쪽을 향해 열렸다",
+      "word_indices": [
+        259,
+        267
+      ]
+    }
+  ]
+}

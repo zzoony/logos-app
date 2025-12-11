@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Leviticus 23:8",
+  "version": "EASY",
+  "original_text": "For seven days the people must give burnt offerings to the Lord. On the seventh day they must stop work and they must worship the Lord.’",
+  "korean_text": "너희는 이레 동안 여호와께 화제를 드릴 것이요 일곱째 날에도 성회로 모이고 아무 노동도 하지 말지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "For seven days the people must give burnt offerings",
+      "korean_translation": "이레 동안 백성은 번제물을 바쳐야 하며",
+      "word_indices": [
+        4,
+        198,
+        200
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the Lord",
+      "korean_translation": "주께 드려야 합니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "On the seventh day they must stop work",
+      "korean_translation": "일곱째 날에는 일을 쉬어야 하고",
+      "word_indices": [
+        35,
+        469
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they must worship the Lord",
+      "korean_translation": "주를 경배해야 합니다",
+      "word_indices": [
+        2,
+        89
+      ]
+    }
+  ]
+}

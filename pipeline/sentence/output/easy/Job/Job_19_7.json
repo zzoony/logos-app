@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Job 19:7",
+  "version": "EASY",
+  "original_text": "If I shout, “Help me, I am in trouble!” nobody answers me. I shout to get help, but nobody comes to give me justice. If I shout, “Help me, I am in trouble!”",
+  "korean_text": "내가 폭행을 당한다고 부르짖으나 응답이 없고 도움을 간구하였으나 정의가 없구나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If I shout, \"Help me, I am in trouble!\"",
+      "korean_translation": "내가 '나를 도와줘, 나는 곤경에 빠졌어!'라고 외친다면,",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "nobody answers me.",
+      "korean_translation": "아무도 나에게 대답하지 않습니다.",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I shout to get help,",
+      "korean_translation": "나는 도움을 얻기 위해 외칩니다,",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but nobody comes to give me justice.",
+      "korean_translation": "하지만 아무도 나에게 정의를 베풀러 오지 않습니다.",
+      "word_indices": [
+        4,
+        585
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If I shout, \"Help me, I am in trouble!\"",
+      "korean_translation": "내가 '나를 도와줘, 나는 곤경에 빠졌어!'라고 외친다면,",
+      "word_indices": [
+        174
+      ]
+    }
+  ]
+}

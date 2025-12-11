@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Matthew 7:1",
+  "version": "EASY",
+  "original_text": "Jesus then said, ‘Do not say to anyone, “You are a bad person.” If you do that, God will say to you, “You are a bad person.”",
+  "korean_text": "비판을 받지 아니하려거든 비판하지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus then said",
+      "korean_translation": "예수님은 그때 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do not say to anyone",
+      "korean_translation": "아무에게도 말하지 말라",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You are a bad person",
+      "korean_translation": "너는 나쁜 사람이다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you do that",
+      "korean_translation": "만약 네가 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "God will say to you",
+      "korean_translation": "하나님께서 네게 말씀하실 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You are a bad person",
+      "korean_translation": "너는 나쁜 사람이다",
+      "word_indices": [
+        24
+      ]
+    }
+  ]
+}

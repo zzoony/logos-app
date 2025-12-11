@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Leviticus 19:6",
+  "version": "EASY",
+  "original_text": "The people must eat the meat on the day that the person offers it. Or they must eat it on the next day. The person must burn any meat that he has not eaten after the second day.",
+  "korean_text": "그 제물은 드리는 날과 이튿날에 먹고 셋째 날까지 남았거든 불사르라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people must eat the meat",
+      "korean_translation": "사람들은 그 고기를 먹어야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the day that the person offers it",
+      "korean_translation": "그 사람이 그것을 바치는 날에",
+      "word_indices": [
+        24,
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Or they must eat it",
+      "korean_translation": "또는 그들은 그것을 먹어야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the next day",
+      "korean_translation": "다음 날에",
+      "word_indices": [
+        263
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The person must burn any meat",
+      "korean_translation": "그 사람은 어떤 고기든 태워야 합니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that he has not eaten",
+      "korean_translation": "그가 먹지 않은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "after the second day",
+      "korean_translation": "이틀 후에",
+      "word_indices": []
+    }
+  ]
+}

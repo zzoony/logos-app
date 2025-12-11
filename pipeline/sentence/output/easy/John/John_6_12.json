@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 6:12",
+  "version": "EASY",
+  "original_text": "When everyone had eaten enough food, Jesus said to his disciples, ‘Do not waste anything. Pick up all the little bits of food that people have not eaten.’",
+  "korean_text": "그들이 배부른 후에 예수께서 제자들에게 이르시되 남은 조각을 거두고 버리는 것이 없게 하라 하시므로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When everyone had eaten enough food",
+      "korean_translation": "모두가 충분히 음식을 먹었을 때",
+      "word_indices": [
+        97,
+        228
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said to his disciples",
+      "korean_translation": "예수님께서 제자들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not waste anything",
+      "korean_translation": "아무것도 낭비하지 마라",
+      "word_indices": [
+        1110
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Pick up all the little bits of food",
+      "korean_translation": "음식 조각들을 모두 거두어라",
+      "word_indices": [
+        401
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that people have not eaten",
+      "korean_translation": "사람들이 먹지 않은",
+      "word_indices": []
+    }
+  ]
+}

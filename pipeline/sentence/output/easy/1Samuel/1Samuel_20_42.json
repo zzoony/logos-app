@@ -1,0 +1,84 @@
+{
+  "verse_reference": "1 Samuel 20:42",
+  "version": "EASY",
+  "original_text": "Jonathan said to David, ‘Go now and God will keep you safe. We have promised each other in the Lord's name that we will always be friends. The Lord will watch us to make sure that we always keep this promise. He will watch our descendants too, for ever.’",
+  "korean_text": "요나단이 다윗에게 이르되 평안히 가라 우리 두 사람이 여호와의 이름으로 맹세하여 이르기를 여호와께서 영원히 나와 너 사이에 계시고 내 자손과 네 자손 사이에 계시리라 하였느니라 하니 다윗은 일어나 떠나고 요나단은 성읍으로 들어가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jonathan said to David",
+      "korean_translation": "요나단이 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go now",
+      "korean_translation": "이제 가거라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and God will keep you safe",
+      "korean_translation": "하나님이 너를 안전하게 지켜주실 것이다",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We have promised each other",
+      "korean_translation": "우리는 서로 약속했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the Lord's name",
+      "korean_translation": "주의 이름으로",
+      "word_indices": [
+        2,
+        90
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that we will always be friends",
+      "korean_translation": "우리가 항상 친구가 될 것이라고",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "The Lord will watch us",
+      "korean_translation": "주께서 우리를 지켜볼 것이다",
+      "word_indices": [
+        2,
+        273
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "to make sure that we always keep this promise",
+      "korean_translation": "우리가 항상 이 약속을 지키는지 확인하기 위해",
+      "word_indices": [
+        101,
+        359
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "He will watch our descendants too",
+      "korean_translation": "그는 우리의 자손들도 지켜볼 것이다",
+      "word_indices": [
+        75,
+        273
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "for ever",
+      "korean_translation": "영원히",
+      "word_indices": []
+    }
+  ]
+}

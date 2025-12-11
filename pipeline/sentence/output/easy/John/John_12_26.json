@@ -1,0 +1,55 @@
+{
+  "verse_reference": "John 12:26",
+  "version": "EASY",
+  "original_text": "Anyone who wants to be my servant must follow me. Then he will be with me, where I am. My Father will praise anyone who is my servant.",
+  "korean_text": "사람이 나를 섬기려면 나를 따르라 나 있는 곳에 나를 섬기는 자도 거기 있으리니 사람이 나를 섬기면 내 아버지께서 그를 귀히 여기시리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who wants to be my servant",
+      "korean_translation": "나의 종이 되기를 원하는 사람은",
+      "word_indices": [
+        44,
+        109
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must follow me",
+      "korean_translation": "나를 따라야만 한다",
+      "word_indices": [
+        388
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then he will be with me",
+      "korean_translation": "그러면 그는 나와 함께 있을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "where I am",
+      "korean_translation": "내가 있는 곳에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "My Father will praise anyone",
+      "korean_translation": "나의 아버지는 사람을 칭찬하실 것이다",
+      "word_indices": [
+        37,
+        109,
+        216
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who is my servant",
+      "korean_translation": "나의 종인 사람을",
+      "word_indices": [
+        44
+      ]
+    }
+  ]
+}

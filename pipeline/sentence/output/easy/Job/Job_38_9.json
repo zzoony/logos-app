@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Job 38:9",
+  "version": "EASY",
+  "original_text": "I caused the clouds to come over the sea. I covered it with complete darkness. I caused the clouds to come over the sea.",
+  "korean_text": "그 때에 내가 구름으로 그 옷을 만들고 흑암으로 그 강보를 만들고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I caused the clouds to come over the sea.",
+      "korean_translation": "나는 구름이 바다 위로 오게 했다.",
+      "word_indices": [
+        337
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I covered it with complete darkness.",
+      "korean_translation": "나는 그것을 완전한 어둠으로 덮었다.",
+      "word_indices": [
+        238,
+        851
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I caused the clouds to come over the sea.",
+      "korean_translation": "나는 구름이 바다 위로 오게 했다.",
+      "word_indices": [
+        337
+      ]
+    }
+  ]
+}

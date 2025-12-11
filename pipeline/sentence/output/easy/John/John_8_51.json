@@ -1,0 +1,29 @@
+{
+  "verse_reference": "John 8:51",
+  "version": "EASY",
+  "original_text": "I tell you this: Anyone who obeys my words will never die.’",
+  "korean_text": "진실로 진실로 너희에게 이르노니 사람이 내 말을 지키면 영원히 죽음을 보지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 너희에게 이것을 말하노라:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Anyone who obeys my words",
+      "korean_translation": "내 말을 순종하는 사람은",
+      "word_indices": [
+        109,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will never die.",
+      "korean_translation": "결코 죽지 아니하리라",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Numbers 28:28",
+  "version": "EASY",
+  "original_text": "Mix together 3 kilograms of the best flour and olive oil. Offer that with each bull. With the male sheep, offer 2 kilograms of flour with oil.",
+  "korean_text": "그 소제로는 고운 가루에 기름을 섞어서 쓰되 수송아지 한 마리마다 십분의 삼이요 숫양 한 마리에는 십분의 이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Mix together 3 kilograms of the best flour and olive oil.",
+      "korean_translation": "최상의 밀가루 3킬로그램과 올리브유를 함께 섞으라.",
+      "word_indices": [
+        358,
+        435,
+        476
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Offer that with each bull.",
+      "korean_translation": "그것을 각 수소와 함께 드리라.",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "With the male sheep,",
+      "korean_translation": "수양과 함께,",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "offer 2 kilograms of flour with oil.",
+      "korean_translation": "기름을 섞은 밀가루 2킬로그램을 드리라.",
+      "word_indices": [
+        55,
+        435,
+        476
+      ]
+    }
+  ]
+}

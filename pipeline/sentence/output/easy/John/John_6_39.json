@@ -1,0 +1,51 @@
+{
+  "verse_reference": "John 6:39",
+  "version": "EASY",
+  "original_text": "He has sent me. He does not want me to lose any of the people that he has given to me. Not even one of them. He wants me to raise all of them up to life on the last day.",
+  "korean_text": "나를 보내신 이의 뜻은 내게 주신 자 중에 내가 하나도 잃어버리지 아니하고 마지막 날에 다시 살리는 이것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He has sent me.",
+      "korean_translation": "그가 나를 보내셨다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He does not want me to lose any of the people",
+      "korean_translation": "그는 내가 그가 내게 주신 사람들 중 누구도 잃어버리지 않기를 원하지 않으신다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he has given to me.",
+      "korean_translation": "그가 나에게 주신 사람들을.",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Not even one of them.",
+      "korean_translation": "그들 중 단 한 명도.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He wants me to raise all of them up",
+      "korean_translation": "그는 내가 그들 모두를 일으키기를 원하신다.",
+      "word_indices": [
+        566
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to life on the last day.",
+      "korean_translation": "마지막 날에 생명으로.",
+      "word_indices": [
+        41,
+        571
+      ]
+    }
+  ]
+}

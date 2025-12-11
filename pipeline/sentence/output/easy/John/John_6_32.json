@@ -1,0 +1,48 @@
+{
+  "verse_reference": "John 6:32",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘I tell you this: It was not Moses who gave bread to you from heaven. No. It is my Father who gives to you the true bread from heaven.",
+  "korean_text": "예수께서 이르시되 내가 진실로 진실로 너희에게 이르노니 모세가 너희에게 하늘로부터 떡을 준 것이 아니라 내 아버지께서 너희에게 하늘로부터 참 떡을 주시나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you this",
+      "korean_translation": "내가 너희에게 이것을 말하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was not Moses who gave bread to you from heaven",
+      "korean_translation": "하늘에서 너희에게 떡을 준 사람은 모세가 아니니라",
+      "word_indices": [
+        4,
+        170,
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "No",
+      "korean_translation": "아니요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It is my Father who gives to you the true bread from heaven",
+      "korean_translation": "하늘에서 너희에게 참된 떡을 주시는 분은 내 아버지시니라",
+      "word_indices": [
+        4,
+        37,
+        69,
+        170,
+        229
+      ]
+    }
+  ]
+}

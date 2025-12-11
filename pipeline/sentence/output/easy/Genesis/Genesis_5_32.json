@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 5:32",
+  "version": "EASY",
+  "original_text": "After Noah was 500 years old, he became the father of Shem, Ham and Japheth.",
+  "korean_text": "노아는 오백 세 된 후에 셈과 함과 야벳을 낳았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After Noah was 500 years old",
+      "korean_translation": "노아가 500세가 되었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he became the father of Shem",
+      "korean_translation": "그는 셈의 아버지가 되었고",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Ham",
+      "korean_translation": "함의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and Japheth",
+      "korean_translation": "야벳의 아버지가 되었다",
+      "word_indices": []
+    }
+  ]
+}

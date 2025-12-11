@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Matthew 10:5",
+  "version": "EASY",
+  "original_text": "Jesus sent out these 12 disciples. Before they left, he said to them, ‘Do not go to any place where the people are Gentiles. And do not go to towns where only Samaritans live.",
+  "korean_text": "예수께서 이 열둘을 내보내시며 명하여 이르시되 이방인의 길로도 가지 말고 사마리아인의 고을에도 들어가지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus sent out these 12 disciples",
+      "korean_translation": "예수님은 이 12명의 제자들을 보내셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Before they left",
+      "korean_translation": "그들이 떠나기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he said to them",
+      "korean_translation": "그는 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not go to any place where the people are Gentiles",
+      "korean_translation": "사람들이 이방인인 어떤 곳에도 가지 마라",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And do not go to towns where only Samaritans live",
+      "korean_translation": "그리고 사마리아인들만 사는 마을에도 가지 마라",
+      "word_indices": [
+        8,
+        1828
+      ]
+    }
+  ]
+}

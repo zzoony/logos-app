@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 14:7",
+  "version": "EASY",
+  "original_text": "If you really know me, you will also know my Father. From now on, you do know him and you have seen him.’",
+  "korean_text": "너희가 나를 알았더라면 내 아버지도 알았으리로다 이제부터는 너희가 그를 알았고 또 보았느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If you really know me,",
+      "korean_translation": "너희가 나를 참으로 알면,",
+      "word_indices": [
+        12,
+        146
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you will also know my Father.",
+      "korean_translation": "나의 아버지도 알게 될 것이다.",
+      "word_indices": [
+        9,
+        12,
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "From now on,",
+      "korean_translation": "이제부터는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you do know him",
+      "korean_translation": "너희가 그를 알고 있으며",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and you have seen him.'",
+      "korean_translation": "그를 보았다.'",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Matthew 22:13",
+  "version": "EASY",
+  "original_text": "The king said to his servants, “Tie his hands and his feet. Take him and throw him into the dark place outside. There, people will cry and they will bite their teeth together.”",
+  "korean_text": "임금이 사환들에게 말하되 그 손발을 묶어 바깥 어두운 데에 내던지라 거기서 슬피 울며 이를 갈게 되리라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king said to his servants",
+      "korean_translation": "왕은 자기 종들에게 말했다",
+      "word_indices": [
+        3,
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tie his hands and his feet",
+      "korean_translation": "그의 손과 발을 묶어라",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Take him",
+      "korean_translation": "그를 데려가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and throw him into the dark place outside",
+      "korean_translation": "그를 밖의 어두운 곳에 던져 넣어라",
+      "word_indices": [
+        16,
+        190,
+        315
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "There, people will cry",
+      "korean_translation": "거기서 사람들이 울 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and they will bite their teeth together",
+      "korean_translation": "그리고 이를 악물 것이다",
+      "word_indices": [
+        761
+      ]
+    }
+  ]
+}

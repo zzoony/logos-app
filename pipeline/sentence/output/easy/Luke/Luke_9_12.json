@@ -1,0 +1,73 @@
+{
+  "verse_reference": "Luke 9:12",
+  "version": "EASY",
+  "original_text": "When it was nearly evening, the 12 apostles came to Jesus. ‘There are no houses in this place,’ they said. ‘Send the crowd away now. Tell them to go to the villages and farms near here. Then they can get food to eat and they can find a place to sleep.’",
+  "korean_text": "날이 저물어 가매 열두 사도가 나아와 여짜오되 무리를 보내어 두루 마을과 촌으로 가서 유하며 먹을 것을 얻게 하소서 우리가 있는 여기는 빈 들이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When it was nearly evening",
+      "korean_translation": "저물 무렵에",
+      "word_indices": [
+        747
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the 12 apostles came to Jesus",
+      "korean_translation": "12사도들이 예수께 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There are no houses in this place",
+      "korean_translation": "이곳에는 집들이 없습니다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "they said",
+      "korean_translation": "그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Send the crowd away now",
+      "korean_translation": "지금 무리를 보내주세요",
+      "word_indices": [
+        25,
+        265
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Tell them to go to the villages",
+      "korean_translation": "그들에게 마을로 가라고 말하세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and farms near here",
+      "korean_translation": "그리고 이 근처의 농장으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Then they can get food to eat",
+      "korean_translation": "그러면 그들은 먹을 음식을 얻을 수 있고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "and they can find a place to sleep",
+      "korean_translation": "잠 잘 곳을 찾을 수 있습니다",
+      "word_indices": [
+        16,
+        131,
+        361
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Timothy 4:9",
+  "version": "EASY",
+  "original_text": "We know that those words are true. Everyone should agree with them.",
+  "korean_text": "미쁘다 이 말이여 모든 사람들이 받을 만하도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We know",
+      "korean_translation": "우리는 압니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that those words are true",
+      "korean_translation": "그 말씀들이 참된 것을",
+      "word_indices": [
+        69,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Everyone should agree",
+      "korean_translation": "모든 사람은 동의해야 합니다",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with them",
+      "korean_translation": "그것들에",
+      "word_indices": []
+    }
+  ]
+}

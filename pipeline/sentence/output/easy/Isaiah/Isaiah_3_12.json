@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Isaiah 3:12",
+  "version": "EASY",
+  "original_text": "Now children are cruel to my people and women rule over them. My people, your leaders lead you in the wrong direction. They cannot show you what is right.",
+  "korean_text": "내 백성을 학대하는 자는 아이요 다스리는 자는 여자들이라 내 백성이여 네 인도자들이 너를 유혹하여 네가 다닐 길을 어지럽히느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now children are cruel to my people",
+      "korean_translation": "이제 아이들이 내 백성에게 잔인하다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and women rule over them",
+      "korean_translation": "그리고 여성들이 그들을 다스린다",
+      "word_indices": [
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "My people",
+      "korean_translation": "나의 백성이여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "your leaders lead you in the wrong direction",
+      "korean_translation": "너희 지도자들이 너희를 잘못된 방향으로 인도한다",
+      "word_indices": [
+        71,
+        207,
+        668
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They cannot show you what is right",
+      "korean_translation": "그들은 너희에게 무엇이 올바른지 보여줄 수 없다",
+      "word_indices": [
+        38,
+        114
+      ]
+    }
+  ]
+}

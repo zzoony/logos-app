@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Jonah 3:1",
+  "version": "EASY",
+  "original_text": "The Lord spoke to Jonah a second time.",
+  "korean_text": "여호와의 말씀이 두 번째로 요나에게 임하니라 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord spoke",
+      "korean_translation": "주께서 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to Jonah",
+      "korean_translation": "요나에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a second time",
+      "korean_translation": "두 번째로",
+      "word_indices": []
+    }
+  ]
+}

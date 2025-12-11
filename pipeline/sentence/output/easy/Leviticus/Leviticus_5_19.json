@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Leviticus 5:19",
+  "version": "EASY",
+  "original_text": "The sheep is an offering because the person did not obey the Lord.’",
+  "korean_text": "이는 속건제니 그가 여호와 앞에 참으로 잘못을 저질렀음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sheep is an offering",
+      "korean_translation": "그 양은 제물입니다",
+      "word_indices": [
+        55,
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because the person did not obey",
+      "korean_translation": "그 사람이 순종하지 않았기 때문입니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Lord.",
+      "korean_translation": "주님께",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

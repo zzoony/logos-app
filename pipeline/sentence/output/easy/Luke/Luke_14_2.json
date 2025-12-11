@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Luke 14:2",
+  "version": "EASY",
+  "original_text": "A sick man came up to Jesus. His arms and legs had grown fat, because they were full of water.",
+  "korean_text": "주의 앞에 수종병 든 한 사람이 있는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A sick man came up to Jesus",
+      "korean_translation": "한 병자가 예수님께 나아왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "His arms and legs had grown fat",
+      "korean_translation": "그의 팔과 다리가 부어올랐다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because they were full of water",
+      "korean_translation": "왜냐하면 그것들이 물로 가득했기 때문이다",
+      "word_indices": [
+        60,
+        387
+      ]
+    }
+  ]
+}

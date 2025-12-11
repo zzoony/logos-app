@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Numbers 3:22",
+  "version": "EASY",
+  "original_text": "There were 7,500 males who were one month or older in their list.",
+  "korean_text": "계수된 자 곧 일 개월 이상 된 남자의 수효 합계는 칠천오백 명이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There were 7,500 males",
+      "korean_translation": "7,500명의 남성이 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who were one month or older",
+      "korean_translation": "그들은 한 달 또는 그 이상이었습니다",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in their list",
+      "korean_translation": "그들의 명부에 있었습니다",
+      "word_indices": []
+    }
+  ]
+}

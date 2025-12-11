@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 12:47",
+  "version": "EASY",
+  "original_text": "Someone told him, ‘Look! Your mother and brothers are standing outside. They want to speak to you.’",
+  "korean_text": "한 사람이 예수께 여짜오되 보소서 당신의 어머니와 동생들이 당신께 말하려고 밖에 서 있나이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Someone told him",
+      "korean_translation": "누군가가 그에게 말했습니다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Look!",
+      "korean_translation": "보세요!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your mother and brothers are standing outside",
+      "korean_translation": "당신의 어머니와 형제들이 밖에 서 있습니다",
+      "word_indices": [
+        77,
+        135,
+        202,
+        315
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They want to speak to you",
+      "korean_translation": "그들은 당신과 말하기를 원합니다",
+      "word_indices": [
+        18
+      ]
+    }
+  ]
+}

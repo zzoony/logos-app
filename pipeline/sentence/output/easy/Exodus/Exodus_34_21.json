@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Exodus 34:21",
+  "version": "EASY",
+  "original_text": "You may work for six days each week, but on the seventh day you must rest. That is true even when it is the time to plough your fields. It is also true at harvest time. You must rest on the seventh day each week.",
+  "korean_text": "너는 엿새 동안 일하고 일곱째 날에는 쉴지니 밭 갈 때에나 거둘 때에도 쉴지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may work for six days each week",
+      "korean_translation": "너는 매주 6일 동안 일할 수 있지만",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but on the seventh day you must rest",
+      "korean_translation": "일곱째 날에는 반드시 쉬어야 한다",
+      "word_indices": [
+        269,
+        469
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That is true even when it is the time to plough your fields",
+      "korean_translation": "그것은 밭을 갈 때에도 마찬가지이다",
+      "word_indices": [
+        69,
+        152,
+        827
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is also true at harvest time",
+      "korean_translation": "추수 시기에도 마찬가지이다",
+      "word_indices": [
+        9,
+        69,
+        474
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You must rest on the seventh day each week",
+      "korean_translation": "너는 매주 일곱째 날에 쉬어야 한다",
+      "word_indices": [
+        269,
+        469
+      ]
+    }
+  ]
+}

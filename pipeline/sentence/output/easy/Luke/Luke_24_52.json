@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 24:52",
+  "version": "EASY",
+  "original_text": "The disciples praised Jesus for his great power. Then they returned to Jerusalem and they were all very happy.",
+  "korean_text": "그들이 [그에게 경배하고] 큰 기쁨으로 예루살렘에 돌아가",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The disciples praised Jesus",
+      "korean_translation": "제자들은 예수님을 찬양했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for his great power",
+      "korean_translation": "그의 위대한 능력 때문에",
+      "word_indices": [
+        40,
+        80
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then they returned to Jerusalem",
+      "korean_translation": "그때 그들은 예루살렘으로 돌아갔습니다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and they were all very happy",
+      "korean_translation": "그리고 그들은 모두 매우 기뻐했습니다",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

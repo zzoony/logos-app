@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Corinthians 5:6",
+  "version": "EASY",
+  "original_text": "You should not be so proud of yourselves. Think about what yeast does in bread. A very small amount of yeast changes the whole loaf of bread.",
+  "korean_text": "너희가 자랑하는 것이 옳지 아니하도다 적은 누룩이 온 덩어리에 퍼지는 것을 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You should not be so proud of yourselves.",
+      "korean_translation": "너희는 그렇게 스스로를 자랑해서는 안 된다.",
+      "word_indices": [
+        257
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Think about what yeast does in bread.",
+      "korean_translation": "누룩이 빵 속에서 하는 일을 생각해 보아라.",
+      "word_indices": [
+        229,
+        600
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A very small amount of yeast",
+      "korean_translation": "아주 적은 양의 누룩이",
+      "word_indices": [
+        295,
+        600,
+        831
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "changes the whole loaf of bread.",
+      "korean_translation": "통째로 빵 덩어리를 바꾼다.",
+      "word_indices": [
+        169,
+        229
+      ]
+    }
+  ]
+}

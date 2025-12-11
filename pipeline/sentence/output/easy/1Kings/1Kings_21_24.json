@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 21:24",
+  "version": "EASY",
+  "original_text": "If people of Ahab's family die in the city, dogs will eat their bodies. If they die in the country, vultures will eat them.’",
+  "korean_text": "아합에게 속한 자로서 성읍에서 죽은 자는 개들이 먹고 들에서 죽은 자는 공중의 새가 먹으리라고 하셨느니라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If people of Ahab's family die in the city",
+      "korean_translation": "만일 아합의 가족 사람들이 도시에서 죽으면",
+      "word_indices": [
+        20,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "dogs will eat their bodies",
+      "korean_translation": "개들이 그들의 시체를 먹을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If they die in the country",
+      "korean_translation": "만일 그들이 시골에서 죽으면",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "vultures will eat them",
+      "korean_translation": "독수리들이 그들을 먹을 것이다",
+      "word_indices": []
+    }
+  ]
+}

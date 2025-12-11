@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 1:27",
+  "version": "EASY",
+  "original_text": "He is the one who comes after me. I am not good enough even to undo his shoes for him.’",
+  "korean_text": "곧 내 뒤에 오시는 그이라 나는 그의 신발끈을 풀기도 감당하지 못하겠노라 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He is the one",
+      "korean_translation": "그가 바로 그 사람이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who comes after me",
+      "korean_translation": "내 뒤에 오시는 분",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am not good enough",
+      "korean_translation": "나는 자격이 없다",
+      "word_indices": [
+        19,
+        228
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "even to undo his shoes",
+      "korean_translation": "그분의 신발을 풀기에조차",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for him",
+      "korean_translation": "그분을 위해",
+      "word_indices": []
+    }
+  ]
+}

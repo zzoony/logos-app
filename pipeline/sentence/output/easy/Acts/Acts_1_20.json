@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Acts 1:20",
+  "version": "EASY",
+  "original_text": "Peter then said, ‘This is what King David wrote in the book of Psalms:",
+  "korean_text": "시편에 기록하였으되 그의 거처를 황폐하게 하시며 거기 거하는 자가 없게 하소서 하였고 또 일렀으되 그의 직분을 타인이 취하게 하소서 하였도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter then said",
+      "korean_translation": "베드로가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This is what King David wrote",
+      "korean_translation": "이것이 다윗 왕이 쓴 것이다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the book of Psalms",
+      "korean_translation": "시편이라는 책에",
+      "word_indices": [
+        834
+      ]
+    }
+  ]
+}

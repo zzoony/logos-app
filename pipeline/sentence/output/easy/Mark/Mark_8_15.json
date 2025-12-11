@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Mark 8:15",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘Be careful. Do not accept the yeast of the Pharisees or the yeast of Herod.’",
+  "korean_text": "예수께서 경고하여 이르시되 삼가 바리새인들의 누룩과 헤롯의 누룩을 주의하라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Be careful",
+      "korean_translation": "조심하라",
+      "word_indices": [
+        309
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not accept the yeast of the Pharisees",
+      "korean_translation": "바리새인들의 누룩을 받지 말라",
+      "word_indices": [
+        143,
+        600
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or the yeast of Herod",
+      "korean_translation": "또는 헤롯의 누룩을 받지 말라",
+      "word_indices": [
+        600
+      ]
+    }
+  ]
+}

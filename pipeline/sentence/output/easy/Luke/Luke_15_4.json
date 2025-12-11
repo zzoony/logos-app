@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Luke 15:4",
+  "version": "EASY",
+  "original_text": "‘Think about a man who has 100 sheep. He may lose one of them. What does he do then? He leaves all his other sheep in the fields. Then he goes. He looks for the sheep that he has lost. He looks until he finds it.",
+  "korean_text": "너희 중에 어떤 사람이 양 백 마리가 있는데 그 중의 하나를 잃으면 아흔아홉 마리를 들에 두고 그 잃은 것을 찾아내기까지 찾아다니지 아니하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Think about a man who has 100 sheep.",
+      "korean_translation": "100마리의 양을 가진 한 사람을 생각해 보십시오.",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He may lose one of them.",
+      "korean_translation": "그는 그 중 한 마리를 잃을 수도 있습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What does he do then?",
+      "korean_translation": "그때 그는 무엇을 할까요?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He leaves all his other sheep in the fields.",
+      "korean_translation": "그는 그의 다른 모든 양들을 들판에 남겨둡니다.",
+      "word_indices": [
+        125,
+        152
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then he goes.",
+      "korean_translation": "그리고 그는 갑니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He looks for the sheep that he has lost.",
+      "korean_translation": "그는 잃어버린 양을 찾습니다.",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "He looks until he finds it.",
+      "korean_translation": "그는 찾을 때까지 계속 찾습니다.",
+      "word_indices": [
+        131
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 12:20",
+  "version": "EASY",
+  "original_text": "Eat nothing that has yeast in it. Whatever country you live in, you must eat bread without yeast in it.’",
+  "korean_text": "너희는 아무 유교물이든지 먹지 말고 너희 모든 유하는 곳에서 무교병을 먹을지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Eat nothing that has yeast in it.",
+      "korean_translation": "누룩이 든 것은 아무것도 먹지 말라.",
+      "word_indices": [
+        600
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whatever country you live in,",
+      "korean_translation": "네가 사는 어떤 나라에서든,",
+      "word_indices": [
+        8,
+        117,
+        492
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you must eat bread without yeast in it.",
+      "korean_translation": "너는 누룩 없는 빵을 먹어야 한다.",
+      "word_indices": [
+        229,
+        600
+      ]
+    }
+  ]
+}

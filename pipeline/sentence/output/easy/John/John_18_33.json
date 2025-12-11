@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 18:33",
+  "version": "EASY",
+  "original_text": "Pilate went back inside his palace. He told Jesus to come and stand in front of him. He asked Jesus, ‘Are you the king of the Jews?’",
+  "korean_text": "이에 빌라도가 다시 관정에 들어가 예수를 불러 이르되 네가 유대인의 왕이냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pilate went back inside his palace",
+      "korean_translation": "빌라도는 자신의 궁으로 다시 들어갔다",
+      "word_indices": [
+        252,
+        301
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He told Jesus to come",
+      "korean_translation": "그는 예수님께 오라고 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and stand in front of him",
+      "korean_translation": "그리고 그 앞에 서라고 했다",
+      "word_indices": [
+        77,
+        123
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He asked Jesus",
+      "korean_translation": "그는 예수님께 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'Are you the king of the Jews?'",
+      "korean_translation": "'당신이 유대인의 왕입니까?'",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

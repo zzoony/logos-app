@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 12:49",
+  "version": "EASY",
+  "original_text": "Then he pointed to his disciples. He said, ‘Look! Here are my mother and my brothers.",
+  "korean_text": "손을 내밀어 제자들을 가리켜 이르시되 나의 어머니와 나의 동생들을 보라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he pointed to his disciples.",
+      "korean_translation": "그러자 그는 제자들을 가리켰습니다.",
+      "word_indices": [
+        806
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said,",
+      "korean_translation": "그가 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Look!",
+      "korean_translation": "'보세요!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Here are my mother",
+      "korean_translation": "이곳에 내 어머니가 있고",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and my brothers.'",
+      "korean_translation": "내 형제들도 있습니다.'",
+      "word_indices": [
+        135
+      ]
+    }
+  ]
+}

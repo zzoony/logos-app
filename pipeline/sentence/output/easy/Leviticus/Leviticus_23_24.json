@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Leviticus 23:24",
+  "version": "EASY",
+  "original_text": "‘Tell Israel's people this. On the first day of the seventh month, they must rest. It is a special day. They must worship together with the sound of trumpets.",
+  "korean_text": "이스라엘 자손에게 말하여 이르라 일곱째 달 곧 그 달 첫 날은 너희에게 쉬는 날이 될지니 이는 나팔을 불어 기념할 날이요 성회라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Tell Israel's people this.",
+      "korean_translation": "이스라엘 백성에게 이렇게 말하라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "On the first day of the seventh month,",
+      "korean_translation": "일곱째 달 첫째 날에,",
+      "word_indices": [
+        255,
+        469
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they must rest.",
+      "korean_translation": "그들은 쉬어야 한다.",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is a special day.",
+      "korean_translation": "그것은 특별한 날이다.",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "They must worship together",
+      "korean_translation": "그들은 함께 예배해야 한다.",
+      "word_indices": [
+        89
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "with the sound of trumpets.",
+      "korean_translation": "나팔 소리와 함께.",
+      "word_indices": [
+        409,
+        447
+      ]
+    }
+  ]
+}

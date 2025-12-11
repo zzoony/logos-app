@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Deuteronomy 10:2",
+  "version": "EASY",
+  "original_text": "I will write on the new stones the same words that I wrote on the first stones. You broke those stones. But you must put the new stones into the wooden box.’",
+  "korean_text": "네가 깨뜨린 처음 판에 쓴 말을 내가 그 판에 쓰리니 너는 그것을 그 궤에 넣으라 하시기로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will write on the new stones",
+      "korean_translation": "나는 새 돌판 위에 글을 쓸 것이다",
+      "word_indices": [
+        124
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the same words that I wrote",
+      "korean_translation": "내가 썼던 동일한 말들",
+      "word_indices": [
+        74,
+        128
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the first stones.",
+      "korean_translation": "첫 돌판 위에.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You broke those stones.",
+      "korean_translation": "네가 그 돌판들을 깼다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But you must put",
+      "korean_translation": "하지만 너는 넣어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "the new stones into the wooden box.",
+      "korean_translation": "새 돌판들을 나무 상자 안에.",
+      "word_indices": [
+        861
+      ]
+    }
+  ]
+}

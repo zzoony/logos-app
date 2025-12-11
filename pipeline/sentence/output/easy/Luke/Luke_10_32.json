@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Luke 10:32",
+  "version": "EASY",
+  "original_text": "A Levite was also going down the road. He came to the place where the man was lying. He saw him. But he also walked past on the other side of the road.",
+  "korean_text": "또 이와 같이 한 레위인도 그 곳에 이르러 그를 보고 피하여 지나가되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A Levite was also going down the road.",
+      "korean_translation": "레위 사람도 그 길을 내려가고 있었습니다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He came to the place",
+      "korean_translation": "그는 그곳에 이르렀습니다",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where the man was lying.",
+      "korean_translation": "그 사람이 누워있던 곳에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He saw him.",
+      "korean_translation": "그는 그를 보았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But he also walked past",
+      "korean_translation": "하지만 그 역시 지나쳐갔습니다",
+      "word_indices": [
+        9,
+        204,
+        512
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "on the other side of the road.",
+      "korean_translation": "길의 다른 편으로",
+      "word_indices": []
+    }
+  ]
+}

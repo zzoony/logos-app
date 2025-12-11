@@ -1,0 +1,47 @@
+{
+  "verse_reference": "1 Samuel 20:9",
+  "version": "EASY",
+  "original_text": "Jonathan said, ‘No, that will never happen! If I ever find out that my father wants to kill you, I will surely tell you.’",
+  "korean_text": "요나단이 이르되 이 일이 결코 네게 일어나지 아니하리라 내 아버지께서 너를 해치려 확실히 결심한 줄 알면 내가 네게 와서 그것을 네게 이르지 아니하겠느냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jonathan said",
+      "korean_translation": "요나단이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'No, that will never happen!'",
+      "korean_translation": "'아니요, 그런 일은 절대 일어나지 않을 겁니다!'",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If I ever find out",
+      "korean_translation": "만약 내가 알게 된다면",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that my father wants to kill you",
+      "korean_translation": "내 아버지가 당신을 죽이려 한다면",
+      "word_indices": [
+        26,
+        37
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will surely tell you.'",
+      "korean_translation": "나는 반드시 당신에게 말씀드리겠습니다.'",
+      "word_indices": [
+        307
+      ]
+    }
+  ]
+}

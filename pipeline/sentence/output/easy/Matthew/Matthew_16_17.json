@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 16:17",
+  "version": "EASY",
+  "original_text": "Jesus said to Simon Peter, ‘Simon, son of Jonah, God has blessed you! No person on earth taught you that. God, my Father in heaven, has shown you this.",
+  "korean_text": "예수께서 대답하여 이르시되 바요나 시몬아 네가 복이 있도다 이를 네게 알게 한 이는 혈육이 아니요 하늘에 계신 내 아버지시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to Simon Peter",
+      "korean_translation": "예수님은 시몬 베드로에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Simon, son of Jonah",
+      "korean_translation": "요나의 아들 시몬아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "God has blessed you",
+      "korean_translation": "하나님께서 너를 복되게 하셨다",
+      "word_indices": [
+        181
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "No person on earth taught you that",
+      "korean_translation": "땅에 있는 사람이 그것을 너에게 가르치지 않았다",
+      "word_indices": [
+        24,
+        93
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "God, my Father in heaven",
+      "korean_translation": "하늘에 계신 나의 아버지 하나님께서",
+      "word_indices": [
+        37,
+        170
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "has shown you this",
+      "korean_translation": "이것을 너에게 보여주셨다",
+      "word_indices": []
+    }
+  ]
+}

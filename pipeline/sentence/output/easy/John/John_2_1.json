@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 2:1",
+  "version": "EASY",
+  "original_text": "Two days after that, there was a marriage party. It was in the town of Cana, in Galilee. Jesus' mother was there.",
+  "korean_text": "사흘째 되던 날 갈릴리 가나에 혼례가 있어 예수의 어머니도 거기 계시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Two days after that",
+      "korean_translation": "그 후 이틀 뒤에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was a marriage party",
+      "korean_translation": "결혼식이 있었습니다",
+      "word_indices": [
+        622,
+        871
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was in the town of Cana",
+      "korean_translation": "그것은 가나라는 마을에 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in Galilee",
+      "korean_translation": "갈릴리 지역의",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Jesus' mother was there",
+      "korean_translation": "예수님의 어머니가 그곳에 있었습니다",
+      "word_indices": [
+        202
+      ]
+    }
+  ]
+}

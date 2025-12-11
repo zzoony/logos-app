@@ -1,0 +1,48 @@
+{
+  "verse_reference": "1 John 2:21",
+  "version": "EASY",
+  "original_text": "That is why I am writing to you. It is not because you do not yet know God's true message. I am writing to you because you do know that true message. And you can be sure that there are no lies in it.",
+  "korean_text": "내가 너희에게 쓰는 것은 너희가 진리를 알지 못하기 때문이 아니라 알기 때문이요 또 모든 거짓은 진리에서 나지 않기 때문이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That is why I am writing to you.",
+      "korean_translation": "그래서 나는 당신에게 글을 쓰고 있는 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is not because you do not yet know God's true message.",
+      "korean_translation": "당신이 아직 하나님의 진실한 메시지를 모르기 때문이 아닙니다.",
+      "word_indices": [
+        12,
+        21,
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am writing to you because you do know that true message.",
+      "korean_translation": "나는 당신이 그 진실한 메시지를 알고 있기 때문에 당신에게 글을 쓰고 있습니다.",
+      "word_indices": [
+        12,
+        21,
+        69
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And you can be sure",
+      "korean_translation": "그리고 당신은 확신할 수 있습니다",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that there are no lies in it.",
+      "korean_translation": "그 안에는 거짓이 없다는 것을.",
+      "word_indices": []
+    }
+  ]
+}

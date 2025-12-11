@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 23:46",
+  "version": "EASY",
+  "original_text": "Then Jesus shouted loudly, ‘Father, I give my spirit to you.’ After he shouted this, he died.",
+  "korean_text": "예수께서 큰 소리로 불러 이르시되 아버지 내 영혼을 아버지 손에 부탁하나이다 하고 이 말씀을 하신 후 숨지시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus shouted loudly",
+      "korean_translation": "그때 예수님은 큰 소리로 외치셨다",
+      "word_indices": [
+        174,
+        495
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Father, I give my spirit to you'",
+      "korean_translation": "아버지, 내 영혼을 아버지께 맡깁니다",
+      "word_indices": [
+        4,
+        37,
+        92
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "After he shouted this",
+      "korean_translation": "이렇게 외치신 후에",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he died",
+      "korean_translation": "그분은 죽으셨다",
+      "word_indices": []
+    }
+  ]
+}

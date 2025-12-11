@@ -1,0 +1,39 @@
+{
+  "verse_reference": "2 Peter 1:1",
+  "version": "EASY",
+  "original_text": "This letter is from me, Simon Peter. I am Jesus Christ's servant and his apostle.",
+  "korean_text": "예수 그리스도의 종이며 사도인 시몬 베드로는 우리 하나님과 구주 예수 그리스도의 의를 힘입어 동일하게 보배로운 믿음을 우리와 함께 받은 자들에게 편지하노니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This letter is from me",
+      "korean_translation": "이 편지는 나에게서 온 것입니다",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Simon Peter",
+      "korean_translation": "시몬 베드로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am Jesus Christ's servant",
+      "korean_translation": "나는 예수 그리스도의 종입니다",
+      "word_indices": [
+        44,
+        61
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and his apostle",
+      "korean_translation": "그리고 그의 사도입니다",
+      "word_indices": [
+        375
+      ]
+    }
+  ]
+}

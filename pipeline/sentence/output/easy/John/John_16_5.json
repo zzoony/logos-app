@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 16:5",
+  "version": "EASY",
+  "original_text": "But now I will go to the Father who sent me. But none of you asks me, “Where will you go?”",
+  "korean_text": "지금 내가 나를 보내신 이에게로 가는데 너희 중에서 나더러 어디로 가는지 묻는 자가 없고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But now I will go to the Father",
+      "korean_translation": "그러나 이제 내가 아버지께 가겠다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who sent me",
+      "korean_translation": "나를 보내신 분",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But none of you asks me",
+      "korean_translation": "그러나 너희 중 아무도 나에게 묻지 않는다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Where will you go?",
+      "korean_translation": "어디에 가시겠습니까?",
+      "word_indices": []
+    }
+  ]
+}

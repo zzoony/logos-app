@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Mark 4:6",
+  "version": "EASY",
+  "original_text": "But when the sun rose, it burned the young plants. They soon died because they had not grown down well into the soil.",
+  "korean_text": "해가 돋은 후에 타서 뿌리가 없으므로 말랐고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But when the sun rose",
+      "korean_translation": "하지만 해가 떴을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "it burned the young plants",
+      "korean_translation": "그것은 어린 식물들을 태웠다",
+      "word_indices": [
+        108,
+        199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They soon died",
+      "korean_translation": "그것들은 곧 죽었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because they had not grown down well",
+      "korean_translation": "왜냐하면 그들이 뿌리를 깊이 내리지 않았기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "into the soil",
+      "korean_translation": "흙 속으로",
+      "word_indices": []
+    }
+  ]
+}

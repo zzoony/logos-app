@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Revelation 3:20",
+  "version": "EASY",
+  "original_text": "Look! I am standing at the door of your house. I am knocking on your door. When you hear my voice, you should open the door. Then I will come in. We will eat a meal together as friends.",
+  "korean_text": "볼지어다 내가 문 밖에 서서 두드리노니 누구든지 내 음성을 듣고 문을 열면 내가 그에게로 들어가 그와 더불어 먹고 그는 나와 더불어 먹으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Look!",
+      "korean_translation": "보라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am standing at the door of your house.",
+      "korean_translation": "나는 네 집 문에 서 있다.",
+      "word_indices": [
+        67,
+        77,
+        267
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am knocking on your door.",
+      "korean_translation": "나는 네 문을 두드리고 있다.",
+      "word_indices": [
+        267
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When you hear my voice,",
+      "korean_translation": "너가 내 음성을 들을 때,",
+      "word_indices": [
+        42,
+        335
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you should open the door.",
+      "korean_translation": "너는 문을 열어야 한다.",
+      "word_indices": [
+        267
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then I will come in.",
+      "korean_translation": "그러면 내가 들어가겠다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "We will eat a meal together as friends.",
+      "korean_translation": "우리는 친구로 함께 식사할 것이다.",
+      "word_indices": [
+        113
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 7:23",
+  "version": "EASY",
+  "original_text": "You will do that so that you obey Moses' law. So you should not be angry with me because I made a man completely well on the day of rest.",
+  "korean_text": "모세의 율법을 범하지 아니하려고 사람이 안식일에도 할례를 받는 일이 있거든 내가 안식일에 사람의 전신을 건전하게 한 것으로 너희가 내게 노여워하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will do that",
+      "korean_translation": "너는 그것을 행할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that you obey Moses' law",
+      "korean_translation": "그래서 너는 모세의 법을 순종하게 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So you should not be angry with me",
+      "korean_translation": "그러므로 너는 나에게 화내지 말아야 한다",
+      "word_indices": [
+        106
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because I made a man completely well",
+      "korean_translation": "왜냐하면 내가 한 사람을 완전히 고쳐주었기 때문이다",
+      "word_indices": [
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the day of rest",
+      "korean_translation": "안식일에",
+      "word_indices": [
+        269
+      ]
+    }
+  ]
+}

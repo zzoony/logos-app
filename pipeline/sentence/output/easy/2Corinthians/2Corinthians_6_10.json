@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Corinthians 6:10",
+  "version": "EASY",
+  "original_text": "We seem to be sad, but really we are always happy. We seem to be poor, but we make many people rich. We seem to have nothing, but really we have everything.",
+  "korean_text": "근심하는 자 같으나 항상 기뻐하고 가난한 자 같으나 많은 사람을 부요하게 하고 아무 것도 없는 자 같으나 모든 것을 가진 자로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We seem to be sad",
+      "korean_translation": "우리는 슬픈 것처럼 보이지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but really we are always happy",
+      "korean_translation": "실제로는 항상 기쁩니다",
+      "word_indices": [
+        57,
+        146
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We seem to be poor",
+      "korean_translation": "우리는 가난한 것처럼 보이지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but we make many people rich",
+      "korean_translation": "많은 사람들을 부요하게 만듭니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "We seem to have nothing",
+      "korean_translation": "우리는 아무것도 가진 것이 없는 것처럼 보이지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but really we have everything",
+      "korean_translation": "실제로는 모든 것을 가지고 있습니다",
+      "word_indices": [
+        146
+      ]
+    }
+  ]
+}

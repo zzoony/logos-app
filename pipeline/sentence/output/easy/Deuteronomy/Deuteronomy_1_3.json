@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Deuteronomy 1:3",
+  "version": "EASY",
+  "original_text": "Moses spoke to the Israelites on the first day of the 11th month, in the 40th year of their journey. He told the Israelites the message that the Lord had commanded him to speak.",
+  "korean_text": "마흔째 해 열한째 달 그 달 첫째 날에 모세가 이스라엘 자손에게 여호와께서 그들을 위하여 자기에게 주신 명령을 다 알렸으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Moses spoke to the Israelites",
+      "korean_translation": "모세는 이스라엘 백성에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the first day of the 11th month",
+      "korean_translation": "11월 첫째 날에",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the 40th year of their journey",
+      "korean_translation": "그들의 여정 40년차에",
+      "word_indices": [
+        427
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He told the Israelites the message",
+      "korean_translation": "그는 이스라엘 백성에게 그 메시지를 전했다",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that the Lord had commanded him to speak",
+      "korean_translation": "주께서 그가 말하도록 명령하신",
+      "word_indices": [
+        2,
+        18,
+        127
+      ]
+    }
+  ]
+}

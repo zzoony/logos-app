@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 5:31",
+  "version": "EASY",
+  "original_text": "Jesus answered them, ‘People who are well do not need a doctor. It is people who are ill that need a doctor.",
+  "korean_text": "예수께서 대답하여 이르시되 건강한 자에게는 의사가 쓸 데 없고 병든 자에게라야 쓸 데 있나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered them",
+      "korean_translation": "예수께서 그들에게 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "People who are well",
+      "korean_translation": "건강한 사람들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do not need a doctor",
+      "korean_translation": "의사가 필요하지 않다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is people who are ill",
+      "korean_translation": "병든 사람들이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that need a doctor",
+      "korean_translation": "의사가 필요하다",
+      "word_indices": []
+    }
+  ]
+}

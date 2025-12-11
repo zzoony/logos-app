@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 4:20",
+  "version": "EASY",
+  "original_text": "Our ancestors worshipped God on this mountain. But you Jews say that Jerusalem is the right place to worship.’",
+  "korean_text": "우리 조상들은 이 산에서 예배하였는데 당신들의 말은 예배할 곳이 예루살렘에 있다 하더이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Our ancestors worshipped God",
+      "korean_translation": "우리 조상들은 하나님을 경배했습니다",
+      "word_indices": [
+        145
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on this mountain",
+      "korean_translation": "이 산에서",
+      "word_indices": [
+        175
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you Jews say",
+      "korean_translation": "하지만 당신 유대인들은 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that Jerusalem is the right place",
+      "korean_translation": "예루살렘이 바른 장소라고",
+      "word_indices": [
+        16,
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to worship",
+      "korean_translation": "경배하기에",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

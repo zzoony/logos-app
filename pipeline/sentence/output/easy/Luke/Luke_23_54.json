@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 23:54",
+  "version": "EASY",
+  "original_text": "This all happened on the day before the Jewish day of rest. It was nearly time for the Jewish day of rest to begin.",
+  "korean_text": "이 날은 준비일이요 안식일이 거의 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This all happened",
+      "korean_translation": "이 모든 일이 일어났다",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the day before the Jewish day of rest",
+      "korean_translation": "유대인의 안식일 전날에",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was nearly time",
+      "korean_translation": "거의 시간이 되었다",
+      "word_indices": [
+        747
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the Jewish day of rest to begin",
+      "korean_translation": "유대인의 안식일이 시작될",
+      "word_indices": [
+        220,
+        269
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "verse_reference": "2 Kings 2:19",
+  "version": "EASY",
+  "original_text": "One day, the leaders in Jericho said to Elisha, ‘Please listen to us, sir. You can see that our city is in a good place. But the water here is bad. The land does not give us good crops.’",
+  "korean_text": "그 성읍 사람들이 엘리사에게 말하되 우리 주인께서 보시는 바와 같이 이 성읍의 위치는 좋으나 물이 나쁘므로 토산이 익지 못하고 떨어지나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day",
+      "korean_translation": "어느 날",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the leaders in Jericho said to Elisha",
+      "korean_translation": "여리고의 지도자들이 엘리사에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Please listen to us, sir",
+      "korean_translation": "선생님, 제발 저희 말씀을 들어보세요",
+      "word_indices": [
+        63,
+        76
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You can see that our city is in a good place",
+      "korean_translation": "저희 도시가 좋은 곳에 있는 것을 보실 수 있습니다",
+      "word_indices": [
+        16,
+        19,
+        20
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But the water here is bad",
+      "korean_translation": "하지만 이곳의 물은 나쁩니다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The land does not give us good crops",
+      "korean_translation": "땅이 저희에게 좋은 작물을 주지 않습니다",
+      "word_indices": [
+        4,
+        14,
+        19
+      ]
+    }
+  ]
+}

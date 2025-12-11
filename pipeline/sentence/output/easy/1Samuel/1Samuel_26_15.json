@@ -1,0 +1,50 @@
+{
+  "verse_reference": "1 Samuel 26:15",
+  "version": "EASY",
+  "original_text": "David said to Abner, ‘Are you really the bravest soldier in Israel? You should have kept the king safe. Someone came into your camp to kill your master.",
+  "korean_text": "다윗이 아브넬에게 이르되 네가 용사가 아니냐 이스라엘 가운데에 너 같은 자가 누구냐 그러한데 네가 어찌하여 네 주 왕을 보호하지 아니하느냐 백성 가운데 한 사람이 네 주 왕을 죽이려고 들어갔었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said to Abner",
+      "korean_translation": "다윗이 아브넬에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Are you really the bravest soldier in Israel?",
+      "korean_translation": "당신이 정말 이스라엘에서 가장 용맹한 군사입니까?",
+      "word_indices": [
+        36,
+        146,
+        1151
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should have kept the king safe",
+      "korean_translation": "당신은 왕을 안전하게 지켰어야 했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Someone came into your camp",
+      "korean_translation": "누군가 당신의 진영으로 들어왔다",
+      "word_indices": [
+        94,
+        286
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to kill your master",
+      "korean_translation": "당신의 주인을 죽이기 위해",
+      "word_indices": [
+        26,
+        176
+      ]
+    }
+  ]
+}

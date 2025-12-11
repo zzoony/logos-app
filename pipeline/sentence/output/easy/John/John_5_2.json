@@ -1,0 +1,53 @@
+{
+  "verse_reference": "John 5:2",
+  "version": "EASY",
+  "original_text": "There is a pool near the Sheep Gate in Jerusalem. Its name in the Jewish language is Bethesda. Round the pool, there is a building with five places that have a roof over them.",
+  "korean_text": "예루살렘에 있는 양문 곁에 히브리 말로 베데스다라 하는 못이 있는데 거기 행각 다섯이 있고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is a pool near the Sheep Gate",
+      "korean_translation": "양문 근처에 연못이 있다",
+      "word_indices": [
+        125,
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Jerusalem",
+      "korean_translation": "예루살렘에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Its name in the Jewish language is Bethesda",
+      "korean_translation": "유대어로 그 이름은 베데스다이다",
+      "word_indices": [
+        90,
+        471
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Round the pool, there is a building",
+      "korean_translation": "연못 주위에 건물이 있다",
+      "word_indices": [
+        99,
+        355
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with five places",
+      "korean_translation": "다섯 개의 장소가 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that have a roof over them",
+      "korean_translation": "그 위에 지붕이 있는",
+      "word_indices": []
+    }
+  ]
+}

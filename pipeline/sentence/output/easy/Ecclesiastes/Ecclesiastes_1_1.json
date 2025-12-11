@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Ecclesiastes 1:1",
+  "version": "EASY",
+  "original_text": "These are the words of the Teacher, David's son, who ruled as king in Jerusalem.",
+  "korean_text": "다윗의 아들 예루살렘 왕 전도자의 말씀이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These are the words of the Teacher",
+      "korean_translation": "이것들은 교사의 말씀입니다",
+      "word_indices": [
+        128,
+        280
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "David's son",
+      "korean_translation": "다윗의 아들",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who ruled as king in Jerusalem",
+      "korean_translation": "예루살렘에서 왕으로 다스린 분",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

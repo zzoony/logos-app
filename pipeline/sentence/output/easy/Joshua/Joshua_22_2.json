@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Joshua 22:2",
+  "version": "EASY",
+  "original_text": "Joshua said, ‘You have done everything that Moses, the Lord's servant, told you to do. You have also obeyed everything that I told you to do.",
+  "korean_text": "그들에게 이르되 여호와의 종 모세가 너희에게 명령한 것을 너희가 다 지키며 또 내가 너희에게 명령한 모든 일에 너희가 내 말을 순종하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joshua said",
+      "korean_translation": "여호수아가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have done everything",
+      "korean_translation": "너희는 모든 것을 행했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that Moses, the Lord's servant, told you to do",
+      "korean_translation": "주의 종 모세가 너희에게 행하라고 명한 모든 것을",
+      "word_indices": [
+        2,
+        44
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have also obeyed everything",
+      "korean_translation": "너희는 또한 모든 것을 순종했습니다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that I told you to do",
+      "korean_translation": "내가 너희에게 명한 모든 것을",
+      "word_indices": []
+    }
+  ]
+}

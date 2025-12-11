@@ -1,0 +1,45 @@
+{
+  "verse_reference": "1 Kings 20:4",
+  "version": "EASY",
+  "original_text": "The king of Israel replied, ‘My master, the king, I agree with what you have said. I, and everything that I have, belongs to you.’",
+  "korean_text": "이스라엘의 왕이 대답하여 말하기를 내 주 왕이여 왕의 말씀 같이 나와 내 것은 다 왕의 것이니이다 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of Israel replied",
+      "korean_translation": "이스라엘 왕이 대답하여",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My master, the king",
+      "korean_translation": "나의 주인이신 왕이시여",
+      "word_indices": [
+        3,
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I agree with what you have said",
+      "korean_translation": "당신이 말씀하신 것에 동의합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I, and everything that I have",
+      "korean_translation": "나와 내가 가진 모든 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "belongs to you",
+      "korean_translation": "당신에게 속합니다",
+      "word_indices": [
+        45
+      ]
+    }
+  ]
+}

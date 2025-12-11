@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Mark 14:60",
+  "version": "EASY",
+  "original_text": "Then Caiaphas stood up in front of everyone. He said to Jesus, ‘You must reply now to what these men have said against you. Are the things that they are saying true?’",
+  "korean_text": "대제사장이 가운데 일어서서 예수에게 물어 이르되 너는 아무 대답도 없느냐 이 사람들이 너를 치는 증거가 어떠하냐 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Caiaphas stood up",
+      "korean_translation": "그때 가이사가 일어섰습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in front of everyone",
+      "korean_translation": "모든 사람 앞에서",
+      "word_indices": [
+        97,
+        123
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said to Jesus",
+      "korean_translation": "그는 예수께 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You must reply now",
+      "korean_translation": "당신은 지금 대답해야 합니다",
+      "word_indices": [
+        167
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to what these men have said against you",
+      "korean_translation": "이 사람들이 당신에 대해 말한 것에",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Are the things that they are saying true?",
+      "korean_translation": "그들이 말하는 것들이 사실입니까?",
+      "word_indices": [
+        69
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Mark 8:3",
+  "version": "EASY",
+  "original_text": "I do not want to send them back to their homes while they are hungry. They might fall down during their journey because they are weak. Some of them have travelled a long way to come here.’",
+  "korean_text": "만일 내가 그들을 굶겨 집으로 보내면 길에서 기진하리라 그 중에는 멀리서 온 사람들도 있느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I do not want to send them back to their homes",
+      "korean_translation": "나는 그들을 집으로 돌려보내고 싶지 않습니다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "while they are hungry",
+      "korean_translation": "그들이 배고픈 상태로",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They might fall down during their journey",
+      "korean_translation": "그들은 여행 중에 넘어질 수도 있습니다",
+      "word_indices": [
+        208,
+        427
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because they are weak",
+      "korean_translation": "왜냐하면 그들은 약하기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Some of them have travelled a long way",
+      "korean_translation": "그들 중 일부는 먼 길을 여행했습니다",
+      "word_indices": [
+        134
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to come here",
+      "korean_translation": "이곳에 오기 위해",
+      "word_indices": []
+    }
+  ]
+}

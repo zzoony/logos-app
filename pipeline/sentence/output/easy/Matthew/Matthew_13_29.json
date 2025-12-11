@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 13:29",
+  "version": "EASY",
+  "original_text": "The farmer replied, “No, I do not want you to do that. If you pull up the weeds, you may also pull up some of the good wheat plants.",
+  "korean_text": "주인이 이르되 가만 두라 가라지를 뽑다가 곡식까지 뽑을까 염려하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The farmer replied",
+      "korean_translation": "농부가 대답했습니다",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "\"No, I do not want you to do that",
+      "korean_translation": "\"아니요, 당신이 그렇게 하는 것을 원하지 않습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you pull up the weeds",
+      "korean_translation": "만약 당신이 잡초를 뽑는다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you may also pull up some of the good wheat plants",
+      "korean_translation": "당신은 또한 일부 좋은 밀 식물들도 뽑을 수 있습니다",
+      "word_indices": [
+        9,
+        19,
+        199,
+        617
+      ]
+    }
+  ]
+}

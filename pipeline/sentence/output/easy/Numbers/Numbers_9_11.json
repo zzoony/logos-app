@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Numbers 9:11",
+  "version": "EASY",
+  "original_text": "They must eat it during the evening of the 14th day of the second month. They must eat it when it starts to become dark. They must eat it with bread and with bitter herbs. The bread must not have yeast in it.",
+  "korean_text": "둘째 달 열넷째 날 해 질 때에 그것을 지켜서 어린 양에 무교병과 쓴 나물을 아울러 먹을 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They must eat it",
+      "korean_translation": "그들은 그것을 먹어야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "during the evening of the 14th day",
+      "korean_translation": "14일 저녁 동안에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the second month",
+      "korean_translation": "두 번째 달의",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They must eat it",
+      "korean_translation": "그들은 그것을 먹어야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "when it starts to become dark",
+      "korean_translation": "어둠이 시작될 때",
+      "word_indices": [
+        222
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They must eat it with bread",
+      "korean_translation": "그들은 그것을 빵과 함께 먹어야 합니다",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and with bitter herbs",
+      "korean_translation": "그리고 쓴 채소와 함께",
+      "word_indices": [
+        816
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "The bread must not have yeast in it",
+      "korean_translation": "빵에는 누룩이 들어있지 않아야 합니다",
+      "word_indices": [
+        229,
+        600
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "2 Kings 23:10",
+  "version": "EASY",
+  "original_text": "King Josiah destroyed the place called Topheth, which was in the Valley of Ben Hinnom. After that, nobody could burn his son or his daughter there in the fire as a sacrifice to Molech.",
+  "korean_text": "왕이 또 힌놈의 아들 골짜기의 도벳을 더럽게 하여 어떤 사람도 몰록에게 드리기 위하여 자기의 자녀를 불로 지나가지 못하게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Josiah destroyed the place called Topheth",
+      "korean_translation": "요시아 왕은 도벳이라 불리는 곳을 파괴했습니다",
+      "word_indices": [
+        3,
+        16,
+        39,
+        47
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which was in the Valley of Ben Hinnom",
+      "korean_translation": "그곳은 법힌놈 골자기에 있었습니다",
+      "word_indices": [
+        266
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "After that",
+      "korean_translation": "그 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "nobody could burn his son or his daughter there",
+      "korean_translation": "아무도 그곳에서 자기 아들이나 딸을 불태울 수 없었습니다",
+      "word_indices": [
+        173
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the fire as a sacrifice to Molech",
+      "korean_translation": "몰렉에게 제물로 불에 태울 수 없었습니다",
+      "word_indices": [
+        121,
+        126
+      ]
+    }
+  ]
+}

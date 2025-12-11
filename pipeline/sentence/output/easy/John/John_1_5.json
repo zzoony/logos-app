@@ -1,0 +1,25 @@
+{
+  "verse_reference": "John 1:5",
+  "version": "EASY",
+  "original_text": "The light shines in the dark, and the dark cannot put out the light.",
+  "korean_text": "빛이 어둠에 비치되 어둠이 깨닫지 못하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The light shines in the dark",
+      "korean_translation": "빛이 어둠 속에서 비추고 있으며",
+      "word_indices": [
+        225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the dark cannot put out the light",
+      "korean_translation": "어둠이 빛을 꺼버릴 수 없다",
+      "word_indices": [
+        114,
+        225
+      ]
+    }
+  ]
+}

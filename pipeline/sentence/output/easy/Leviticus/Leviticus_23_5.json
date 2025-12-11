@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Leviticus 23:5",
+  "version": "EASY",
+  "original_text": "One special day is the 14th day of the first month. When the sun goes down, the Passover to the Lord begins.",
+  "korean_text": "첫째 달 열나흗날 저녁은 여호와의 유월절이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One special day is the 14th day",
+      "korean_translation": "한 특별한 날은 14일입니다",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of the first month",
+      "korean_translation": "첫째 달의",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When the sun goes down",
+      "korean_translation": "해가 질 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Passover to the Lord begins",
+      "korean_translation": "주를 위한 유월절이 시작됩니다",
+      "word_indices": [
+        2,
+        220,
+        516
+      ]
+    }
+  ]
+}

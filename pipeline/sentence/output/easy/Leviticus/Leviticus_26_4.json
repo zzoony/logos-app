@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Leviticus 26:4",
+  "version": "EASY",
+  "original_text": "If they do, I will send rain at the proper time. Plants for food will grow in the ground. Fruit will grow on your trees.",
+  "korean_text": "내가 너희에게 철따라 비를 주리니 땅은 그 산물을 내고 밭의 나무는 열매를 맺으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If they do",
+      "korean_translation": "그들이 만일 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will send rain at the proper time",
+      "korean_translation": "나는 적절한 때에 비를 보내겠다",
+      "word_indices": [
+        25,
+        327,
+        513
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Plants for food will grow in the ground",
+      "korean_translation": "음식을 위한 식물들이 땅에서 자라겠다",
+      "word_indices": [
+        156,
+        199
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Fruit will grow on your trees",
+      "korean_translation": "열매가 너희 나무들에서 자라겠다",
+      "word_indices": [
+        156,
+        278
+      ]
+    }
+  ]
+}

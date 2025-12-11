@@ -1,0 +1,39 @@
+{
+  "verse_reference": "John 5:27",
+  "version": "EASY",
+  "original_text": "The Father has also given authority to the Son to judge people. That is because I am the Son of Man.",
+  "korean_text": "또 인자됨으로 말미암아 심판하는 권한을 주셨느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Father has also given authority",
+      "korean_translation": "아버지께서 또한 권위를 주셨다",
+      "word_indices": [
+        4,
+        9,
+        37,
+        110
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to the Son to judge people",
+      "korean_translation": "사람들을 심판하기 위해 아들에게",
+      "word_indices": [
+        186
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That is because I am",
+      "korean_translation": "그것은 내가 ~이기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Son of Man",
+      "korean_translation": "인자이다",
+      "word_indices": []
+    }
+  ]
+}

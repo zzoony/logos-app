@@ -1,0 +1,25 @@
+{
+  "verse_reference": "Matthew 1:5",
+  "version": "EASY",
+  "original_text": "Salmon was the father of Boaz. Rahab was his mother.",
+  "korean_text": "살몬은 라합에게서 보아스를 낳고 보아스는 룻에게서 오벳을 낳고 오벳은 이새를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Salmon was the father of Boaz.",
+      "korean_translation": "살몬은 보아스의 아버지였습니다.",
+      "word_indices": [
+        37,
+        1493
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Rahab was his mother.",
+      "korean_translation": "라합은 그의 어머니였습니다.",
+      "word_indices": [
+        202
+      ]
+    }
+  ]
+}

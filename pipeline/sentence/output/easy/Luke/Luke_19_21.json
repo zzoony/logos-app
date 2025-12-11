@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Luke 19:21",
+  "version": "EASY",
+  "original_text": "I did this because I was afraid of you. You tell people what they should do all the time. You take things that you did not work for. You take food from fields where you did not plant any seed.”",
+  "korean_text": "이는 당신이 엄한 사람인 것을 내가 무서워함이라 당신은 두지 않은 것을 취하고 심지 않은 것을 거두나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I did this because I was afraid of you.",
+      "korean_translation": "내가 이렇게 한 것은 당신이 두려웠기 때문입니다.",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You tell people what they should do all the time.",
+      "korean_translation": "당신은 언제나 사람들에게 무엇을 해야 하는지 말합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You take things that you did not work for.",
+      "korean_translation": "당신은 일하지 않은 것들을 가져갑니다.",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You take food from fields where you did not plant any seed.",
+      "korean_translation": "당신은 씨앗을 심지 않은 밭에서 음식을 가져갑니다.",
+      "word_indices": [
+        152,
+        199
+      ]
+    }
+  ]
+}

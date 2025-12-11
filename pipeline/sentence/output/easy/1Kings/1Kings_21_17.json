@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 Kings 21:17",
+  "version": "EASY",
+  "original_text": "After this, the Lord gave a message to Elijah, the prophet from Tishbe.",
+  "korean_text": "여호와의 말씀이 디셉 사람 엘리야에게 임하여 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After this",
+      "korean_translation": "이 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Lord gave a message",
+      "korean_translation": "주님께서 메시지를 주셨다",
+      "word_indices": [
+        2,
+        4,
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to Elijah",
+      "korean_translation": "엘리야에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the prophet from Tishbe",
+      "korean_translation": "디스벨에서 온 선지자",
+      "word_indices": [
+        100
+      ]
+    }
+  ]
+}

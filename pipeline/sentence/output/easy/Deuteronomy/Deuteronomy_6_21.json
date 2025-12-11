@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Deuteronomy 6:21",
+  "version": "EASY",
+  "original_text": "Then you must tell them, ‘We were slaves of Pharaoh in Egypt. But the Lord used his great power to rescue us.",
+  "korean_text": "너는 네 아들에게 이르기를 우리가 옛적에 애굽에서 바로의 종이 되었더니 여호와께서 권능의 손으로 우리를 애굽에서 인도하여 내셨나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then you must tell them",
+      "korean_translation": "그러면 당신은 그들에게 말해야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We were slaves of Pharaoh",
+      "korean_translation": "우리는 바로의 종이었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Egypt",
+      "korean_translation": "이집트에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But the Lord used his great power",
+      "korean_translation": "하지만 주님은 그의 위대한 권능을 사용하셨습니다",
+      "word_indices": [
+        2,
+        40,
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to rescue us",
+      "korean_translation": "우리를 구원하기 위해",
+      "word_indices": [
+        328
+      ]
+    }
+  ]
+}

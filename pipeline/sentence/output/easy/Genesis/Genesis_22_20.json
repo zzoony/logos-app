@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Genesis 22:20",
+  "version": "EASY",
+  "original_text": "Later, someone told Abraham ‘Milcah also has given birth to children. Your brother Nahor is their father.’",
+  "korean_text": "이 일 후에 어떤 사람이 아브라함에게 알리어 이르기를 밀가가 당신의 형제 나홀에게 자녀를 낳았다 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Later, someone told Abraham",
+      "korean_translation": "나중에, 어떤 사람이 아브라함에게 말했다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Milcah also has given birth to children.",
+      "korean_translation": "르가도 아이들을 낳았다.",
+      "word_indices": [
+        4,
+        9,
+        249
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your brother Nahor is their father.",
+      "korean_translation": "네 동생 나홀이 그들의 아버지이다.",
+      "word_indices": [
+        37,
+        135
+      ]
+    }
+  ]
+}

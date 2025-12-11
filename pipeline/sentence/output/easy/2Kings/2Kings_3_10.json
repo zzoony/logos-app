@@ -1,0 +1,50 @@
+{
+  "verse_reference": "2 Kings 3:10",
+  "version": "EASY",
+  "original_text": "The king of Israel was very upset. He said, ‘What has happened? Perhaps the Lord has brought us three kings here to put us under the power of the king of Moab!’",
+  "korean_text": "이스라엘 왕이 이르되 슬프다 여호와께서 이 세 왕을 불러 모아 모압의 손에 넘기려 하시는도다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king of Israel was very upset.",
+      "korean_translation": "이스라엘 왕은 매우 불만스러웠습니다.",
+      "word_indices": [
+        3,
+        322
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said,",
+      "korean_translation": "그가 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What has happened?",
+      "korean_translation": "무슨 일이 일어났습니까?",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Perhaps the Lord has brought us three kings here",
+      "korean_translation": "아마도 주께서 우리를 이곳에 세 왕과 함께 데려오셨을지도 모릅니다",
+      "word_indices": [
+        2,
+        3,
+        166
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to put us under the power of the king of Moab!",
+      "korean_translation": "우리를 모압 왕의 권세 아래 두기 위함인가!",
+      "word_indices": [
+        3,
+        80
+      ]
+    }
+  ]
+}

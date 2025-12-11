@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Joshua 10:18",
+  "version": "EASY",
+  "original_text": "He said to his men, ‘Take some big stones and cover the front of the cave. Put some men there to watch the cave.",
+  "korean_text": "여호수아가 이르되 굴 어귀에 큰 돌을 굴려 막고 사람을 그 곁에 두어 그들을 지키게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to his men",
+      "korean_translation": "그는 그의 사람들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Take some big stones",
+      "korean_translation": "큰 돌들을 가져오너라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and cover the front of the cave",
+      "korean_translation": "그리고 동굴의 입구를 덮으라",
+      "word_indices": [
+        123,
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Put some men there",
+      "korean_translation": "그곳에 사람들을 두라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to watch the cave",
+      "korean_translation": "동굴을 지키도록",
+      "word_indices": [
+        273
+      ]
+    }
+  ]
+}

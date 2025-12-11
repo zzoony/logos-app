@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Ecclesiastes 9:4",
+  "version": "EASY",
+  "original_text": "Anyone who is alive in the world has some hope for good things in the future. It is better to be a dog that is alive than to be a lion that is dead.",
+  "korean_text": "모든 산 자들 중에 들어 있는 자에게는 누구나 소망이 있음은 산 개가 죽은 사자보다 낫기 때문이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Anyone who is alive in the world",
+      "korean_translation": "세상에 살아있는 누구든지",
+      "word_indices": [
+        109,
+        151,
+        159
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "has some hope for good things",
+      "korean_translation": "좋은 일에 대한 희망이 있다",
+      "word_indices": [
+        19,
+        408
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the future",
+      "korean_translation": "미래에",
+      "word_indices": [
+        456
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is better to be a dog that is alive",
+      "korean_translation": "살아있는 개가 되는 것이 더 낫다",
+      "word_indices": [
+        151,
+        247
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "than to be a lion that is dead",
+      "korean_translation": "죽은 사자가 되는 것보다",
+      "word_indices": [
+        133
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Acts 10:13",
+  "version": "EASY",
+  "original_text": "Then Peter heard a voice that said to him, ‘Peter, stand up and kill some of these animals. Then you can cook them and eat the meat.’",
+  "korean_text": "또 소리가 있으되 베드로야 일어나 잡아 먹어라 하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Peter heard a voice",
+      "korean_translation": "그때 베드로는 한 음성을 들었고",
+      "word_indices": [
+        335
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that said to him",
+      "korean_translation": "그가 그에게 말했는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Peter, stand up",
+      "korean_translation": "베드로야, 일어나라",
+      "word_indices": [
+        77
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and kill some of these animals",
+      "korean_translation": "그리고 이 동물들 중 몇 마리를 잡아라",
+      "word_indices": [
+        26,
+        48
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then you can cook them",
+      "korean_translation": "그러면 너는 그것들을 요리할 수 있고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and eat the meat",
+      "korean_translation": "그 고기를 먹을 수 있다",
+      "word_indices": []
+    }
+  ]
+}

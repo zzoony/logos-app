@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Mark 7:6",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘You are hypocrites! What God's prophet Isaiah wrote about you long ago is true:",
+  "korean_text": "이르시되 이사야가 너희 외식하는 자에 대하여 잘 예언하였도다 기록하였으되 이 백성이 입술로는 나를 공경하되 마음은 내게서 멀도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You are hypocrites!'",
+      "korean_translation": "'너희는 위선자들이다!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What God's prophet Isaiah wrote about you",
+      "korean_translation": "하나님의 선지자 이사야가 너희에 대해 기록한 것",
+      "word_indices": [
+        100
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "long ago is true:",
+      "korean_translation": "오래전에 참되다:",
+      "word_indices": [
+        69,
+        134
+      ]
+    }
+  ]
+}

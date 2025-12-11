@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 18:13",
+  "version": "EASY",
+  "original_text": "They led him first to Annas, who was the father of Caiaphas's wife. Caiaphas was the leader of the priests that year.",
+  "korean_text": "먼저 안나스에게로 끌고 가니 안나스는 그 해의 대제사장인 가야바의 장인이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They led him first to Annas",
+      "korean_translation": "그들이 그를 먼저 안나스에게 데려갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who was the father of Caiaphas's wife",
+      "korean_translation": "그는 가야바의 아내의 아버지였습니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Caiaphas was the leader of the priests",
+      "korean_translation": "가야바는 제사장들의 지도자였습니다",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that year",
+      "korean_translation": "그 해에",
+      "word_indices": []
+    }
+  ]
+}

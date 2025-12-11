@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Luke 8:52",
+  "version": "EASY",
+  "original_text": "All the people there were crying loudly because they were very sad. ‘Do not weep,’ Jesus told them. ‘The child is not dead. She is only asleep.’",
+  "korean_text": "모든 사람이 아이를 위하여 울며 통곡하매 예수께서 이르시되 울지 말라 죽은 것이 아니라 잔다 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All the people there were crying loudly",
+      "korean_translation": "거기에 있던 모든 사람들이 크게 울고 있었습니다",
+      "word_indices": [
+        495
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because they were very sad",
+      "korean_translation": "그들이 매우 슬퍼했기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not weep",
+      "korean_translation": "울지 마십시오",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Jesus told them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The child is not dead",
+      "korean_translation": "아이는 죽은 것이 아닙니다",
+      "word_indices": [
+        65,
+        133
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "She is only asleep",
+      "korean_translation": "그저 잠든 것뿐입니다",
+      "word_indices": [
+        864
+      ]
+    }
+  ]
+}

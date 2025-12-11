@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Leviticus 13:20",
+  "version": "EASY",
+  "original_text": "The priest must look at the person's skin. The red mark might be under the skin and the hair on the skin might be white. Then the priest must say that the person has a disease. The person is not clean.",
+  "korean_text": "그는 진찰하여 피부보다 얕고 그 털이 희면 그를 부정하다 할지니 이는 종기로 된 나병의 환부임이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest must look at the person's skin",
+      "korean_translation": "제사장은 그 사람의 피부를 살펴야 합니다",
+      "word_indices": [
+        24,
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The red mark might be under the skin",
+      "korean_translation": "붉은 자국이 피부 아래에 있을 수 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and the hair on the skin might be white",
+      "korean_translation": "그리고 피부 위의 털이 흰색일 수 있습니다",
+      "word_indices": [
+        520
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then the priest must say that the person has a disease",
+      "korean_translation": "그러면 제사장은 그 사람이 질병이 있다고 말해야 합니다",
+      "word_indices": [
+        24,
+        32,
+        340
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The person is not clean",
+      "korean_translation": "그 사람은 정결하지 않습니다",
+      "word_indices": [
+        24,
+        184
+      ]
+    }
+  ]
+}

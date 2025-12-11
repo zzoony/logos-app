@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Genesis 17:26",
+  "version": "EASY",
+  "original_text": "Abraham and Ishmael were circumcised on the same day.",
+  "korean_text": "그 날에 아브라함과 그 아들 이스마엘이 할례를 받았고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham and Ishmael",
+      "korean_translation": "아브라함과 이스마엘이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were circumcised",
+      "korean_translation": "할례를 받았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on the same day",
+      "korean_translation": "같은 날에",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

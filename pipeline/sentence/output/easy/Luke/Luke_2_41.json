@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Luke 2:41",
+  "version": "EASY",
+  "original_text": "Every year, Mary and Joseph went to Jerusalem for the Passover festival.",
+  "korean_text": "그의 부모가 해마다 유월절이 되면 예루살렘으로 가더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Every year",
+      "korean_translation": "매년",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Mary and Joseph went to Jerusalem",
+      "korean_translation": "마리아와 요셉은 예루살렘에 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for the Passover festival",
+      "korean_translation": "유월절 축제를 위해",
+      "word_indices": [
+        436,
+        516
+      ]
+    }
+  ]
+}

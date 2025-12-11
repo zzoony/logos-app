@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 Samuel 17:34",
+  "version": "EASY",
+  "original_text": "But David said to Saul, ‘Sir, I have been a shepherd who takes care of his father's sheep. Sometimes a lion or a bear would come to take a lamb from among the sheep.",
+  "korean_text": "다윗이 사울에게 말하되 주의 종이 아버지의 양을 지킬 때에 사자나 곰이 와서 양 떼에서 새끼를 물어가면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But David said to Saul",
+      "korean_translation": "하지만 다윗이 사울에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sir",
+      "korean_translation": "주님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have been a shepherd",
+      "korean_translation": "저는 목자였습니다",
+      "word_indices": [
+        403
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who takes care of his father's sheep",
+      "korean_translation": "아버지의 양들을 돌보는",
+      "word_indices": [
+        37,
+        125
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Sometimes a lion or a bear would come",
+      "korean_translation": "때로는 사자나 곰이 올 때가 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to take a lamb from among the sheep",
+      "korean_translation": "양들 중에서 어린 양을 데려가기 위해",
+      "word_indices": [
+        112,
+        125
+      ]
+    }
+  ]
+}

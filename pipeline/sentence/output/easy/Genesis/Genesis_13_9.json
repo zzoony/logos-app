@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Genesis 13:9",
+  "version": "EASY",
+  "original_text": "Look everywhere! There is enough land for all of us. We must go different ways. If you go to the left, I will go to the right. If you go to the right, I will go to the left.’",
+  "korean_text": "네 앞에 온 땅이 있지 아니하냐 나를 떠나가라 네가 좌하면 나는 우하고 네가 우하면 나는 좌하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Look everywhere!",
+      "korean_translation": "사방을 보라!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There is enough land for all of us.",
+      "korean_translation": "우리 모두에게 충분한 땅이 있다.",
+      "word_indices": [
+        14,
+        228
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We must go different ways.",
+      "korean_translation": "우리는 다른 길로 가야 한다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you go to the left,",
+      "korean_translation": "네가 왼쪽으로 가면,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will go to the right.",
+      "korean_translation": "나는 오른쪽으로 가겠다.",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "If you go to the right,",
+      "korean_translation": "네가 오른쪽으로 가면,",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I will go to the left.",
+      "korean_translation": "나는 왼쪽으로 가겠다.",
+      "word_indices": []
+    }
+  ]
+}

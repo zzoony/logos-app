@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Mark 1:14",
+  "version": "EASY",
+  "original_text": "Later, John was in prison. At that time, Jesus went to Galilee. He told people the good news about God.",
+  "korean_text": "요한이 잡힌 후 예수께서 갈릴리에 오셔서 하나님의 복음을 전파하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Later, John was in prison.",
+      "korean_translation": "나중에, 요한은 감옥에 있었습니다.",
+      "word_indices": [
+        349
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "At that time, Jesus went to Galilee.",
+      "korean_translation": "그때, 예수님은 갈릴리로 가셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He told people the good news",
+      "korean_translation": "그분은 사람들에게 좋은 소식을 전했습니다.",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "about God.",
+      "korean_translation": "하나님에 대한.",
+      "word_indices": []
+    }
+  ]
+}

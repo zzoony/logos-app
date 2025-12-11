@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Zechariah 2:1",
+  "version": "EASY",
+  "original_text": "Then I looked up and I saw a man in front of me. He had a line in his hand. The line was to measure something.",
+  "korean_text": "내가 또 눈을 들어 본즉 한 사람이 측량줄을 그의 손에 잡았기로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then I looked up",
+      "korean_translation": "그때 내가 위를 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and I saw a man",
+      "korean_translation": "그리고 한 사람을 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in front of me",
+      "korean_translation": "내 앞에",
+      "word_indices": [
+        123
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He had a line in his hand",
+      "korean_translation": "그는 손에 줄자를 들고 있었다",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The line was to measure something",
+      "korean_translation": "그 줄은 무언가를 측정하기 위한 것이었다",
+      "word_indices": [
+        499
+      ]
+    }
+  ]
+}

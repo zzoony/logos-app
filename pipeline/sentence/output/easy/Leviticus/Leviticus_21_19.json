@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Leviticus 21:19",
+  "version": "EASY",
+  "original_text": "A priest with a hand that is the wrong shape must not offer food to God. A priest with a foot that is the wrong shape must not offer food to God.",
+  "korean_text": "발 부러진 자나 손 부러진 자나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A priest with a hand that is the wrong shape",
+      "korean_translation": "손 모양이 올바르지 않은 제사장은",
+      "word_indices": [
+        32,
+        71,
+        132,
+        546
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must not offer food to God",
+      "korean_translation": "하나님께 음식을 드려서는 안 된다",
+      "word_indices": [
+        55
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A priest with a foot that is the wrong shape",
+      "korean_translation": "발 모양이 올바르지 않은 제사장은",
+      "word_indices": [
+        32,
+        71,
+        546
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "must not offer food to God",
+      "korean_translation": "하나님께 음식을 드려서는 안 된다",
+      "word_indices": [
+        55
+      ]
+    }
+  ]
+}

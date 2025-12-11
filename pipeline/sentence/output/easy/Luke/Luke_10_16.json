@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 10:16",
+  "version": "EASY",
+  "original_text": "Jesus then said to his disciples, ‘Whoever listens to you is also listening to me. Whoever does not accept you does not accept me. And whoever does not accept me does not accept my Father God, who sent me.’",
+  "korean_text": "너희 말을 듣는 자는 곧 내 말을 듣는 것이요 너희를 저버리는 자는 곧 나를 저버리는 것이요 나를 저버리는 자는 나 보내신 이를 저버리는 것이라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus then said to his disciples",
+      "korean_translation": "예수께서 제자들에게 말씀하시니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Whoever listens to you is also listening to me",
+      "korean_translation": "너희를 듣는 자는 나를 듣는 것이요",
+      "word_indices": [
+        9,
+        63,
+        755
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Whoever does not accept you does not accept me",
+      "korean_translation": "너희를 거절하는 자는 나를 거절하는 것이며",
+      "word_indices": [
+        143,
+        755
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "whoever does not accept me does not accept my Father God",
+      "korean_translation": "나를 거절하는 자는 나를 보내신 아버지 하나님을 거절하는 것이라",
+      "word_indices": [
+        37,
+        143,
+        755
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who sent me",
+      "korean_translation": "나를 보내신",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Matthew 12:25",
+  "version": "EASY",
+  "original_text": "Jesus knew what the Pharisees were thinking. So he said to them, ‘If armies in a country fight each other, then they will destroy their own country. If people in one city or in one family fight each other, then they will destroy their own city or family.",
+  "korean_text": "예수께서 그들의 생각을 아시고 이르시되 스스로 분쟁하는 나라마다 황폐하여질 것이요 스스로 분쟁하는 동네나 집마다 서지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus knew what the Pharisees were thinking.",
+      "korean_translation": "예수님은 바리새인들이 무엇을 생각하고 있는지 알고 계셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So he said to them,",
+      "korean_translation": "그래서 그가 그들에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'If armies in a country fight each other,",
+      "korean_translation": "'만약 한 나라의 군대들이 서로 싸운다면,",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "then they will destroy their own country.'",
+      "korean_translation": "그들은 자신의 나라를 파괴할 것입니다.'",
+      "word_indices": [
+        39,
+        117
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "If people in one city or in one family fight each other,",
+      "korean_translation": "만약 한 도시나 한 가족의 사람들이 서로 싸운다면,",
+      "word_indices": [
+        20,
+        56
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "then they will destroy their own city or family.'",
+      "korean_translation": "그들은 자신의 도시나 가족을 파괴할 것입니다.'",
+      "word_indices": [
+        20,
+        39,
+        56
+      ]
+    }
+  ]
+}

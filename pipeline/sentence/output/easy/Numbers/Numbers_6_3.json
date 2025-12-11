@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Numbers 6:3",
+  "version": "EASY",
+  "original_text": "They must not drink wine. They must not drink any alcohol or vinegar. They must not drink the juice of grapes, or eat grapes or raisins.",
+  "korean_text": "포도주와 독주를 멀리하며 포도주로 된 초나 독주로 된 초를 마시지 말며 포도즙도 마시지 말며 생포도나 건포도도 먹지 말지니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They must not drink wine.",
+      "korean_translation": "그들은 포도주를 마셔서는 안 됩니다.",
+      "word_indices": [
+        118,
+        219
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They must not drink any alcohol",
+      "korean_translation": "그들은 어떤 술도 마셔서는 안 됩니다.",
+      "word_indices": [
+        118,
+        1141
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or vinegar.",
+      "korean_translation": "또는 식초도 마셔서는 안 됩니다.",
+      "word_indices": [
+        1481
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They must not drink the juice of grapes,",
+      "korean_translation": "그들은 포도즙을 마셔서는 안 됩니다.",
+      "word_indices": [
+        118,
+        1276
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or eat grapes",
+      "korean_translation": "또는 포도를 먹어서는 안 됩니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or raisins.",
+      "korean_translation": "또는 건포도도 먹어서는 안 됩니다.",
+      "word_indices": [
+        1143
+      ]
+    }
+  ]
+}

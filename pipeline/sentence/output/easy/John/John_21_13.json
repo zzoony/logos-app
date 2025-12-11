@@ -1,0 +1,33 @@
+{
+  "verse_reference": "John 21:13",
+  "version": "EASY",
+  "original_text": "So Jesus took the bread and he gave it to them. Then he did the same with the fish.",
+  "korean_text": "예수께서 가셔서 떡을 가져다가 그들에게 주시고 생선도 그와 같이 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Jesus took the bread",
+      "korean_translation": "그래서 예수님은 빵을 가져가셨고",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he gave it to them",
+      "korean_translation": "그것을 그들에게 주셨습니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then he did the same with the fish",
+      "korean_translation": "그리고 물고기도 똑같이 하셨습니다",
+      "word_indices": [
+        74,
+        517
+      ]
+    }
+  ]
+}

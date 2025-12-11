@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Luke 22:22",
+  "version": "EASY",
+  "original_text": "The Son of Man must die in the way that God says. But it will be very bad for the man who gives me to my enemies.’",
+  "korean_text": "인자는 이미 작정된 대로 가거니와 그를 파는 그 사람에게는 화가 있으리로다 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Son of Man must die",
+      "korean_translation": "인자는 죽어야만 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the way that God says",
+      "korean_translation": "하나님이 말씀하신 그 방식으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But it will be very bad",
+      "korean_translation": "그러나 그것은 매우 나쁠 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the man",
+      "korean_translation": "그 사람에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who gives me to my enemies",
+      "korean_translation": "나를 원수들에게 넘기는",
+      "word_indices": [
+        4,
+        50
+      ]
+    }
+  ]
+}

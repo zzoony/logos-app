@@ -1,0 +1,46 @@
+{
+  "verse_reference": "1 Kings 2:38",
+  "version": "EASY",
+  "original_text": "Shimei said to the king, ‘My lord the king, your words are good. I will do as you have decided.’",
+  "korean_text": "시므이가 왕께 대답하되 이 말씀이 좋사오니 내 주 왕의 말씀대로 종이 그리 하겠나이다 하고 이에 날이 오래도록 예루살렘에 머무니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Shimei said to the king",
+      "korean_translation": "시므이가 왕에게 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My lord the king",
+      "korean_translation": "나의 주 왕이시여",
+      "word_indices": [
+        2,
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your words are good",
+      "korean_translation": "당신의 말씀은 좋습니다",
+      "word_indices": [
+        19,
+        128
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will do",
+      "korean_translation": "내가 행하겠습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "as you have decided",
+      "korean_translation": "당신이 결정한 대로",
+      "word_indices": []
+    }
+  ]
+}

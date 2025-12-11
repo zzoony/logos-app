@@ -1,0 +1,29 @@
+{
+  "verse_reference": "1 John 1:4",
+  "version": "EASY",
+  "original_text": "We are writing to you so that together we all may be completely happy.",
+  "korean_text": "우리가 이것을 씀은 우리의 기쁨이 충만하게 하려 함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We are writing to you",
+      "korean_translation": "우리는 당신에게 글을 쓰고 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that together we all",
+      "korean_translation": "함께 우리 모두가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "may be completely happy",
+      "korean_translation": "완전히 행복해질 수 있도록",
+      "word_indices": [
+        57,
+        161
+      ]
+    }
+  ]
+}

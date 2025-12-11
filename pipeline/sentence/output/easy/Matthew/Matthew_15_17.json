@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 15:17",
+  "version": "EASY",
+  "original_text": "You should understand that food first goes into people's mouths. Then it goes into their stomach, and then it passes out of their body.",
+  "korean_text": "입으로 들어가는 모든 것은 배로 들어가서 뒤로 내버려지는 줄 알지 못하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You should understand",
+      "korean_translation": "너는 알아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that food first goes into people's mouths",
+      "korean_translation": "음식이 먼저 사람들의 입으로 들어간다는 것을",
+      "word_indices": [
+        477
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then it goes into their stomach",
+      "korean_translation": "그것이 그들의 위로 들어가고",
+      "word_indices": [
+        797
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and then it passes out of their body",
+      "korean_translation": "그런 다음 그것이 그들의 몸 밖으로 나간다",
+      "word_indices": []
+    }
+  ]
+}

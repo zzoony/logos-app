@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 Samuel 26:25",
+  "version": "EASY",
+  "original_text": "Then Saul said to David, ‘I pray that the Lord will bless you, my son. I know that you will do great things.’",
+  "korean_text": "사울이 다윗에게 이르되 내 아들 다윗아 네게 복이 있을지로다 네가 큰 일을 행하겠고 반드시 승리를 얻으리라 하니라 다윗은 자기 길로 가고 사울은 자기 곳으로 돌아가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Saul said to David",
+      "korean_translation": "그때 사울이 다윗에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I pray that the Lord will bless you",
+      "korean_translation": "주님께서 당신을 축복하시기를 기도합니다",
+      "word_indices": [
+        2,
+        81
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my son",
+      "korean_translation": "나의 아들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I know that you will do great things",
+      "korean_translation": "당신이 위대한 일들을 할 것이라는 것을 압니다",
+      "word_indices": [
+        12,
+        40
+      ]
+    }
+  ]
+}

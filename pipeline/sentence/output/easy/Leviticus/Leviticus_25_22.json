@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Leviticus 25:22",
+  "version": "EASY",
+  "original_text": "When a person plants seed in the eighth year he will still be eating the crops that he planted in the sixth year. The next time he will harvest the plants from the fields will be in the ninth year.",
+  "korean_text": "너희가 여덟째 해에는 파종하려니와 묵은 소출을 먹을 것이며 아홉째 해에 그 땅에 소출이 들어오기까지 너희는 묵은 것을 먹으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When a person plants seed in the eighth year",
+      "korean_translation": "사람이 여덟째 해에 씨앗을 심을 때",
+      "word_indices": [
+        24,
+        199,
+        905
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he will still be eating the crops",
+      "korean_translation": "그는 여전히 작물을 먹고 있을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he planted in the sixth year",
+      "korean_translation": "여섯째 해에 심었던 것을",
+      "word_indices": [
+        199,
+        891
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The next time he will harvest the plants",
+      "korean_translation": "다음에 그가 식물을 수확할 때는",
+      "word_indices": [
+        199,
+        263,
+        474
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from the fields",
+      "korean_translation": "밭에서",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "will be in the ninth year",
+      "korean_translation": "아홉째 해일 것이다",
+      "word_indices": [
+        1023
+      ]
+    }
+  ]
+}

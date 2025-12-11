@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 24:2",
+  "version": "EASY",
+  "original_text": "So Jesus said to them, ‘Yes, you can see all these beautiful buildings now. But I tell you this: Enemies will completely destroy them. Not even one stone will remain on top of another stone.’",
+  "korean_text": "대답하여 이르시되 너희가 이 모든 것을 보지 못하느냐 내가 진실로 너희에게 이르노니 돌 하나도 돌 위에 남지 않고 다 무너뜨려지리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So Jesus said to them",
+      "korean_translation": "그래서 예수님께서 그들에게 말씀하시되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Yes, you can see all these beautiful buildings now",
+      "korean_translation": "네, 너희는 이 모든 아름다운 건물들을 지금 볼 수 있구나",
+      "word_indices": [
+        180
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I tell you this",
+      "korean_translation": "하지만 내가 너희에게 이것을 말하노니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Enemies will completely destroy them",
+      "korean_translation": "원수들이 이것들을 완전히 파괴할 것이다",
+      "word_indices": [
+        39,
+        50,
+        161
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Not even one stone will remain on top of another stone",
+      "korean_translation": "돌 한 개도 다른 돌 위에 남지 않을 것이다",
+      "word_indices": [
+        116,
+        253
+      ]
+    }
+  ]
+}

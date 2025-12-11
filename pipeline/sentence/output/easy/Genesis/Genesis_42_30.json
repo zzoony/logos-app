@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Genesis 42:30",
+  "version": "EASY",
+  "original_text": "They said, ‘We met the man who is lord over Egypt. He spoke strong words to us. He thought that we were enemies who had come to find a way to attack Egypt.",
+  "korean_text": "그 땅의 주인인 그 사람이 엄하게 우리에게 말씀하고 우리를 그 땅에 대한 정탐꾼으로 여기기로",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We met the man",
+      "korean_translation": "우리는 그 남자를 만났습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who is lord over Egypt",
+      "korean_translation": "그는 애굽의 주인입니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He spoke strong words to us",
+      "korean_translation": "그는 우리에게 강한 말을 했습니다",
+      "word_indices": [
+        43,
+        128
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He thought that we were enemies",
+      "korean_translation": "그는 우리가 적이라고 생각했습니다",
+      "word_indices": [
+        50,
+        372
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "who had come to find a way",
+      "korean_translation": "우리는 길을 찾기 위해 왔다고",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "to attack Egypt",
+      "korean_translation": "애굽을 공격하려고",
+      "word_indices": [
+        62
+      ]
+    }
+  ]
+}

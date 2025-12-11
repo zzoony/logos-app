@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Genesis 1:10",
+  "version": "EASY",
+  "original_text": "God called the dry ground ‘land’. He called the water that had come together ‘sea’.",
+  "korean_text": "하나님이 뭍을 땅이라 부르시고 모인 물을 바다라 부르시니 하나님이 보시기에 좋았더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God called the dry ground 'land'.",
+      "korean_translation": "하나님은 마른 땅을 '땅'이라고 부르셨습니다.",
+      "word_indices": [
+        14,
+        47
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He called the water",
+      "korean_translation": "그는 물을 불렀습니다",
+      "word_indices": [
+        47,
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that had come together",
+      "korean_translation": "함께 모인 것을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'sea'.",
+      "korean_translation": "'바다'라고",
+      "word_indices": []
+    }
+  ]
+}

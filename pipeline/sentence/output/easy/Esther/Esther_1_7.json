@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Esther 1:7",
+  "version": "EASY",
+  "original_text": "People at the feast drank from gold cups. Each cup was different. The king gave plenty of his own wine to everyone to drink.",
+  "korean_text": "금 잔으로 마시게 하니 잔의 모양이 각기 다르고 왕이 풍부하였으므로 어주가 한이 없으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "People at the feast drank from gold cups",
+      "korean_translation": "잔치에 온 사람들이 금잔을 마셨습니다",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Each cup was different",
+      "korean_translation": "각 잔은 서로 달랐습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The king gave plenty of his own wine to everyone",
+      "korean_translation": "왕은 자신의 포도주를 모두에게 풍부하게 주었습니다",
+      "word_indices": [
+        3,
+        4,
+        97,
+        219,
+        451
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to drink",
+      "korean_translation": "마시도록",
+      "word_indices": [
+        118
+      ]
+    }
+  ]
+}

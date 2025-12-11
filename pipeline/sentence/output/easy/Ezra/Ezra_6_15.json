@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Ezra 6:15",
+  "version": "EASY",
+  "original_text": "They finished building the temple on the third day of Adar month. King Darius had then been king for six years.",
+  "korean_text": "다리오 왕 제육년 아달월 삼일에 성전 일을 끝내니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They finished building the temple",
+      "korean_translation": "그들은 성전 건축을 마쳤습니다",
+      "word_indices": [
+        49,
+        99
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the third day of Adar month",
+      "korean_translation": "아달 월 셋째 날에",
+      "word_indices": [
+        255,
+        431
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "King Darius had then been king",
+      "korean_translation": "다리오 왕은 그때까지 왕이었습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for six years",
+      "korean_translation": "6년 동안",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Esther 3:2",
+  "version": "EASY",
+  "original_text": "The king commanded that all the royal officers at the king's gate must bend down low down to Haman. So they all gave Haman honour when he passed them. Only Mordecai would not bend down and give honour to Haman.",
+  "korean_text": "대궐 문에 있는 왕의 모든 신하들이 다 왕의 명령대로 하만에게 꿇어 절하되 모르드개는 꿇지도 아니하고 절하지도 아니하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king commanded",
+      "korean_translation": "왕이 명령했습니다",
+      "word_indices": [
+        3,
+        127
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that all the royal officers at the king's gate",
+      "korean_translation": "왕의 문에 있는 모든 왕의 관원들이",
+      "word_indices": [
+        3,
+        98,
+        168,
+        655
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must bend down low down to Haman",
+      "korean_translation": "하만에게 깊이 몸을 굽혀야 했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So they all gave Haman honour",
+      "korean_translation": "그래서 그들은 모두 하만에게 존경을 표했습니다",
+      "word_indices": [
+        4,
+        291
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "when he passed them",
+      "korean_translation": "하만이 그들을 지나갈 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Only Mordecai would not bend down",
+      "korean_translation": "오직 모르드개만 몸을 굽히지 않았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and give honour to Haman",
+      "korean_translation": "그리고 하만에게 존경을 표하지 않았습니다",
+      "word_indices": [
+        4,
+        291
+      ]
+    }
+  ]
+}

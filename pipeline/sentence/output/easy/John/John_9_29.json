@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 9:29",
+  "version": "EASY",
+  "original_text": "We know that God spoke to Moses. But who is this man? We do not even know where he comes from.’",
+  "korean_text": "하나님이 모세에게는 말씀하신 줄을 우리가 알거니와 이 사람은 어디서 왔는지 알지 못하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We know that God spoke to Moses",
+      "korean_translation": "하나님이 모세에게 말씀하신 것을 우리는 압니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But who is this man?",
+      "korean_translation": "그런데 이 사람은 누구입니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We do not even know where he comes from",
+      "korean_translation": "그가 어디서 왔는지조차 우리는 모릅니다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

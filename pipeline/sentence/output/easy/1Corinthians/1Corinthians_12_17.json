@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Corinthians 12:17",
+  "version": "EASY",
+  "original_text": "If the whole body was an eye, the body would not hear anything. If the whole body was an ear, it would not recognize different smells.",
+  "korean_text": "만일 온 몸이 눈이면 듣는 곳은 어디며 온 몸이 듣는 곳이면 냄새 맡는 곳은 어디냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If the whole body was an eye",
+      "korean_translation": "만약 몸 전체가 눈이라면",
+      "word_indices": [
+        169
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the body would not hear anything",
+      "korean_translation": "몸은 아무것도 듣지 못할 것입니다",
+      "word_indices": [
+        42
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If the whole body was an ear",
+      "korean_translation": "만약 몸 전체가 귀라면",
+      "word_indices": [
+        169
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "it would not recognize different smells",
+      "korean_translation": "그것은 다른 냄새를 알아차리지 못할 것입니다",
+      "word_indices": [
+        448,
+        660
+      ]
+    }
+  ]
+}

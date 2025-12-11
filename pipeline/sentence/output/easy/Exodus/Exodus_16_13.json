@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 16:13",
+  "version": "EASY",
+  "original_text": "That evening, quails appeared. They covered all the ground round the tents.",
+  "korean_text": "저녁에는 메추라기가 와서 진에 덮이고 아침에는 이슬이 진 주위에 있더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That evening",
+      "korean_translation": "그 저녁에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "quails appeared",
+      "korean_translation": "메추라기들이 나타났습니다",
+      "word_indices": [
+        386,
+        1461
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They covered all the ground",
+      "korean_translation": "그들은 모든 땅을 덮었습니다",
+      "word_indices": [
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "round the tents",
+      "korean_translation": "천막 주변을",
+      "word_indices": [
+        355
+      ]
+    }
+  ]
+}

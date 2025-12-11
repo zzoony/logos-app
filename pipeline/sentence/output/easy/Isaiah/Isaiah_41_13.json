@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Isaiah 41:13",
+  "version": "EASY",
+  "original_text": "Yes, I am the Lord, your God. I will hold on to your right hand. I say to you, “Do not be afraid. I will help you.” Yes, I am the Lord, your God.",
+  "korean_text": "이는 나 여호와 너의 하나님이 네 오른손을 붙들고 네게 이르기를 두려워하지 말라 내가 너를 도우리라 하실 것임이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Yes, I am the Lord, your God.",
+      "korean_translation": "예, 나는 당신의 하나님 주님이십니다.",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will hold on to your right hand.",
+      "korean_translation": "나는 당신의 오른손을 붙잡을 것입니다.",
+      "word_indices": [
+        38,
+        132
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I say to you,",
+      "korean_translation": "나는 당신에게 말합니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not be afraid.",
+      "korean_translation": "두려워하지 마세요.",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will help you.",
+      "korean_translation": "나는 당신을 도울 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Yes, I am the Lord, your God.",
+      "korean_translation": "예, 나는 당신의 하나님 주님이십니다.",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

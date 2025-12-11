@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Matthew 21:38",
+  "version": "EASY",
+  "original_text": "The farmers saw the master's son coming. They said to each other, “This is the master's own son. The garden will belong to him when his father dies. So we should kill the son and then the garden will be ours.”",
+  "korean_text": "농부들이 그 아들을 보고 서로 말하되 이는 상속자니 자 죽이고 그의 유산을 차지하자 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The farmers saw the master's son coming.",
+      "korean_translation": "농부들은 주인의 아들이 오는 것을 보았습니다.",
+      "word_indices": [
+        176,
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They said to each other,",
+      "korean_translation": "그들은 서로에게 말했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“This is the master's own son.",
+      "korean_translation": "이이 주인의 아들입니다.",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The garden will belong to him",
+      "korean_translation": "정원은 그의 것이 될 것입니다",
+      "word_indices": [
+        45,
+        442
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "when his father dies.",
+      "korean_translation": "그의 아버지가 죽을 때.",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So we should kill the son",
+      "korean_translation": "그래서 우리는 아들을 죽여야 합니다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and then the garden will be ours.”",
+      "korean_translation": "그러면 정원은 우리의 것이 될 것입니다.",
+      "word_indices": [
+        442
+      ]
+    }
+  ]
+}

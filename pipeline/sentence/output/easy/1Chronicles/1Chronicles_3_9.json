@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Chronicles 3:9",
+  "version": "EASY",
+  "original_text": "Those were all the sons of David's wives. Tamar was their sister. He also had slave wives who gave birth to sons for him.",
+  "korean_text": "다 다윗의 아들이요 그들의 누이는 다말이며 이 외에 또 소실의 아들이 있었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Those were all the sons of David's wives.",
+      "korean_translation": "그들은 다윗의 아내들의 아들들이었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tamar was their sister.",
+      "korean_translation": "다말은 그들의 자매였습니다.",
+      "word_indices": [
+        374
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He also had slave wives",
+      "korean_translation": "그는 또한 노예 아내들도 있었습니다.",
+      "word_indices": [
+        9,
+        214
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who gave birth to sons for him.",
+      "korean_translation": "그 아내들은 그를 위해 아들을 낳아주었습니다.",
+      "word_indices": [
+        4,
+        249
+      ]
+    }
+  ]
+}

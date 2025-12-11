@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 6:47",
+  "version": "EASY",
+  "original_text": "I tell you this: The person who believes my message has life for ever.",
+  "korean_text": "진실로 진실로 너희에게 이르노니 믿는 자는 영생을 가졌나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 너희에게 이것을 말하노라:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The person who believes my message",
+      "korean_translation": "나의 말을 믿는 사람",
+      "word_indices": [
+        21,
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "has life for ever.",
+      "korean_translation": "영원한 생명을 얻느니라.",
+      "word_indices": [
+        41
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Luke 1:55",
+  "version": "EASY",
+  "original_text": "He made a promise to Abraham and to our other ancestors.",
+  "korean_text": "우리 조상에게 말씀하신 것과 같이 아브라함과 그 자손에게 영원히 하시리로다 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He made a promise",
+      "korean_translation": "그는 약속을 하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to Abraham",
+      "korean_translation": "아브라함에게",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and to our other ancestors",
+      "korean_translation": "그리고 우리 다른 조상들에게",
+      "word_indices": [
+        145
+      ]
+    }
+  ]
+}

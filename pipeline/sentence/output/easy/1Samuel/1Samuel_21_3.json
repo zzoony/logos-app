@@ -1,0 +1,29 @@
+{
+  "verse_reference": "1 Samuel 21:3",
+  "version": "EASY",
+  "original_text": "Do you have anything to eat here? Give me five loaves of bread or anything else that you have.’",
+  "korean_text": "이제 당신의 수중에 무엇이 있나이까 떡 다섯 덩이나 무엇이나 있는 대로 내 손에 주소서 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do you have anything to eat here?",
+      "korean_translation": "여기 먹을 것이 좀 있습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Give me five loaves of bread",
+      "korean_translation": "빵 다섯 덩어리를 저에게 주십시오",
+      "word_indices": [
+        4,
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or anything else that you have",
+      "korean_translation": "또는 가지고 있는 다른 어떤 것이라도",
+      "word_indices": []
+    }
+  ]
+}

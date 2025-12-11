@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 22:26",
+  "version": "EASY",
+  "original_text": "You must not be like that. The most important person among you must become like the least important person. The person who is your leader must become like your servant.",
+  "korean_text": "너희는 그렇지 않을지니 너희 중에 큰 자는 젊은 자와 같고 다스리는 자는 섬기는 자와 같을지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not be like that",
+      "korean_translation": "너희는 그렇지 않아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The most important person among you",
+      "korean_translation": "너희 중 가장 중요한 사람은",
+      "word_indices": [
+        24,
+        112,
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "must become like the least important person",
+      "korean_translation": "가장 작은 사람과 같이 되어야 한다",
+      "word_indices": [
+        24,
+        138,
+        938
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The person who is your leader",
+      "korean_translation": "너희의 리더인 사람은",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "must become like your servant",
+      "korean_translation": "너희의 종과 같이 되어야 한다",
+      "word_indices": [
+        44
+      ]
+    }
+  ]
+}

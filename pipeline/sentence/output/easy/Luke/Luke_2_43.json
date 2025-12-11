@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Luke 2:43",
+  "version": "EASY",
+  "original_text": "When the week finished, Mary and Joseph left Jerusalem to return home. But Jesus stayed behind and his parents did not know this.",
+  "korean_text": "그 날들을 마치고 돌아갈 때에 아이 예수는 예루살렘에 머무셨더라 그 부모는 이를 알지 못하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the week finished",
+      "korean_translation": "일주일이 끝났을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Mary and Joseph left Jerusalem",
+      "korean_translation": "마리아와 요셉은 예루살렘을 떠났습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to return home",
+      "korean_translation": "집으로 돌아가기 위해",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But Jesus stayed behind",
+      "korean_translation": "하지만 예수님은 뒤에 남으셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and his parents did not know this",
+      "korean_translation": "그리고 그의 부모는 이 사실을 알지 못했습니다",
+      "word_indices": [
+        12,
+        580
+      ]
+    }
+  ]
+}

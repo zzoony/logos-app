@@ -1,0 +1,49 @@
+{
+  "verse_reference": "John 16:22",
+  "version": "EASY",
+  "original_text": "It is like that for you. You are sad now. But I will see you again, and then you will be happy. You will be really happy. Nobody will be able to take away your joy.",
+  "korean_text": "지금은 너희가 근심하나 내가 다시 너희를 보리니 너희 마음이 기쁠 것이요 너희 기쁨을 빼앗을 자가 없으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is like that for you.",
+      "korean_translation": "너희에게는 그것이 그와 같다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You are sad now.",
+      "korean_translation": "너희는 지금 슬프다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But I will see you again,",
+      "korean_translation": "하지만 내가 다시 너희를 보게 될 것이고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and then you will be happy.",
+      "korean_translation": "그러면 너희가 기쁠 것이다.",
+      "word_indices": [
+        57
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will be really happy.",
+      "korean_translation": "너희는 정말 기쁠 것이다.",
+      "word_indices": [
+        57,
+        146
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Nobody will be able to take away your joy.",
+      "korean_translation": "아무도 너희의 기쁨을 빼앗을 수 없을 것이다.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Luke 11:17",
+  "version": "EASY",
+  "original_text": "But Jesus knew what those people were thinking. He said to them, ‘If armies in a country start to fight each other, they will destroy their own country. If people in one family fight against each other, they will destroy their own family.",
+  "korean_text": "예수께서 그들의 생각을 아시고 이르시되 스스로 분쟁하는 나라마다 황폐하여지며 스스로 분쟁하는 집은 무너지느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Jesus knew",
+      "korean_translation": "그러나 예수님은 아셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what those people were thinking",
+      "korean_translation": "그 사람들이 무엇을 생각하고 있는지를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said to them",
+      "korean_translation": "그분께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If armies in a country start to fight each other",
+      "korean_translation": "만약 한 나라의 군대들이 서로 싸우기 시작하면",
+      "word_indices": [
+        117,
+        222
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they will destroy their own country",
+      "korean_translation": "그들은 자신의 나라를 파괴할 것이다",
+      "word_indices": [
+        39,
+        117
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "If people in one family fight against each other",
+      "korean_translation": "만약 한 가족의 사람들이 서로 싸우면",
+      "word_indices": [
+        31,
+        56
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "they will destroy their own family",
+      "korean_translation": "그들은 자신의 가족을 파괴할 것이다",
+      "word_indices": [
+        39,
+        56
+      ]
+    }
+  ]
+}

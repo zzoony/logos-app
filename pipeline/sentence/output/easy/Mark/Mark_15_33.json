@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 15:33",
+  "version": "EASY",
+  "original_text": "At midday, the whole country became dark for three hours.",
+  "korean_text": "제육시가 되매 온 땅에 어둠이 임하여 제구시까지 계속하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At midday",
+      "korean_translation": "정오에",
+      "word_indices": [
+        1001
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the whole country became dark",
+      "korean_translation": "온 땅이 어두워졌습니다",
+      "word_indices": [
+        117,
+        169
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for three hours",
+      "korean_translation": "세 시간 동안",
+      "word_indices": [
+        166
+      ]
+    }
+  ]
+}

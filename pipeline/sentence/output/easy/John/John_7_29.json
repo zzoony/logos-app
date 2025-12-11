@@ -1,0 +1,34 @@
+{
+  "verse_reference": "John 7:29",
+  "version": "EASY",
+  "original_text": "But I know him because I have come from him. He is the one who sent me.’",
+  "korean_text": "나는 아노니 이는 내가 그에게서 났고 그가 나를 보내셨음이라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But I know him",
+      "korean_translation": "하지만 나는 그를 알다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because I have come from him",
+      "korean_translation": "내가 그에게서 왔기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He is the one",
+      "korean_translation": "그가 바로 그분이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who sent me",
+      "korean_translation": "나를 보내신 분이",
+      "word_indices": []
+    }
+  ]
+}

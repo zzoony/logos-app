@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Kings 25:3",
+  "version": "EASY",
+  "original_text": "By the 9th day of the 4th month, there was a very bad famine in the city. There was no food for the people to eat.",
+  "korean_text": "그 해 넷째 달 구일에 성 중에 기근이 심하여 그 땅 백성의 양식이 떨어졌더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By the 9th day of the 4th month",
+      "korean_translation": "4월 9일에",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was a very bad famine",
+      "korean_translation": "아주 심한 기근이 있었고",
+      "word_indices": [
+        509
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the city",
+      "korean_translation": "그 도성 안에서는",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "There was no food",
+      "korean_translation": "음식이 없었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for the people to eat",
+      "korean_translation": "백성들이 먹을 것이 없었습니다",
+      "word_indices": []
+    }
+  ]
+}

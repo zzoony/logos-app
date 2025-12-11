@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Isaiah 19:5",
+  "version": "EASY",
+  "original_text": "The water of the sea will become dry. The Nile river will also become dry and it will have no water in it.",
+  "korean_text": "바닷물이 없어지겠고 강이 잦아서 마르겠고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The water of the sea will become dry",
+      "korean_translation": "바다의 물이 마르게 될 것이다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Nile river will also become dry",
+      "korean_translation": "나일 강 또한 마를 것이다",
+      "word_indices": [
+        9,
+        136
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and it will have no water in it",
+      "korean_translation": "그곳에는 물이 없을 것이다",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

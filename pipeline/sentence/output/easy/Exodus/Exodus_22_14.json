@@ -1,0 +1,70 @@
+{
+  "verse_reference": "Exodus 22:14",
+  "version": "EASY",
+  "original_text": "Your neighbour might lend one of his animals to you to do some work. Something bad might happen to the animal while its owner is not with it. It might die, or something might hurt it. Then you must pay your neighbour for the loss of the animal.",
+  "korean_text": "만일 이웃에게 빌려온 것이 그 임자가 함께 있지 아니할 때에 상하거나 죽으면 반드시 배상하려니와",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your neighbour might lend one of his animals to you",
+      "korean_translation": "당신의 이웃이 자신의 동물 중 하나를 당신에게 빌려줄 수 있습니다",
+      "word_indices": [
+        48,
+        652
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to do some work",
+      "korean_translation": "일을 하기 위해",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Something bad might happen to the animal",
+      "korean_translation": "그 동물에게 나쁜 일이 생길 수 있습니다",
+      "word_indices": [
+        22,
+        48
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "while its owner is not with it",
+      "korean_translation": "그 주인이 함께 있지 않는 동안",
+      "word_indices": [
+        976
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It might die",
+      "korean_translation": "그것이 죽을 수 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "or something might hurt it",
+      "korean_translation": "또는 무언가가 그것을 다치게 할 수 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then you must pay your neighbour",
+      "korean_translation": "그러면 당신은 당신의 이웃에게 지불해야 합니다",
+      "word_indices": [
+        652
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "for the loss of the animal",
+      "korean_translation": "동물의 손실에 대해",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

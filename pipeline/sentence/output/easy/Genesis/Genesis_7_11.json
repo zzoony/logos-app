@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Genesis 7:11",
+  "version": "EASY",
+  "original_text": "When Noah was 600 years old, on the 17th day of the second month, streams of water came up everywhere from below the earth. Also, the water in the heavens poured down on the earth.",
+  "korean_text": "노아가 육백 세 되던 해 둘째 달 곧 그 달 열이렛날이라 그 날에 큰 깊음의 샘들이 터지며 하늘의 창문들이 열려",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Noah was 600 years old",
+      "korean_translation": "노아가 600세 되었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the 17th day of the second month",
+      "korean_translation": "두 번째 달 17일에",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "streams of water came up everywhere",
+      "korean_translation": "물줄기가 어디서나 솟아올랐고",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "from below the earth",
+      "korean_translation": "땅 아래에서",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Also, the water in the heavens",
+      "korean_translation": "또한 하늘의 물이",
+      "word_indices": [
+        9,
+        60,
+        170
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "poured down on the earth",
+      "korean_translation": "땅 위로 쏟아졌습니다",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Exodus 20:7",
+  "version": "EASY",
+  "original_text": "You must not speak the name of the Lord your God in a wrong way. The Lord will punish anyone who speaks his name in a wrong way.",
+  "korean_text": "너는 네 하나님 여호와의 이름을 망령되게 부르지 말라 여호와는 그의 이름을 망령되게 부르는 자를 죄 없다 하지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not speak",
+      "korean_translation": "당신은 말해서는 안 됩니다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the name of the Lord your God",
+      "korean_translation": "당신의 하나님 여호와의 이름을",
+      "word_indices": [
+        2,
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in a wrong way",
+      "korean_translation": "잘못된 방식으로",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Lord will punish",
+      "korean_translation": "여호와께서 벌하실 것입니다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "anyone who speaks his name",
+      "korean_translation": "그의 이름을 말하는 사람은",
+      "word_indices": [
+        18,
+        90,
+        109
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in a wrong way",
+      "korean_translation": "잘못된 방식으로",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

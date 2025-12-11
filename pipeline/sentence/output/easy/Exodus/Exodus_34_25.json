@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Exodus 34:25",
+  "version": "EASY",
+  "original_text": "When you offer the blood of an animal to me as your sacrifice, do not also offer any bread with yeast in it. When you kill a lamb for the Passover sacrifice, do not keep any of the meat until the next morning.",
+  "korean_text": "너는 내 제물의 피를 유교병과 함께 드리지 말며 유월절 제물을 아침까지 두지 말지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you offer the blood of an animal to me",
+      "korean_translation": "네가 동물의 피를 내게 바칠 때에",
+      "word_indices": [
+        48,
+        55,
+        221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as your sacrifice",
+      "korean_translation": "제물로서",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "do not also offer any bread with yeast in it",
+      "korean_translation": "누룩이 든 빵도 함께 드리지 말라",
+      "word_indices": [
+        9,
+        55,
+        229,
+        600
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When you kill a lamb for the Passover sacrifice",
+      "korean_translation": "유월절 제물을 위해 어린 양을 잡을 때에",
+      "word_indices": [
+        26,
+        126,
+        516
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "do not keep any of the meat",
+      "korean_translation": "그 고기 중 어떤 부분도 남겨두지 말라",
+      "word_indices": [
+        101
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "until the next morning",
+      "korean_translation": "다음 날 아침까지",
+      "word_indices": [
+        263
+      ]
+    }
+  ]
+}

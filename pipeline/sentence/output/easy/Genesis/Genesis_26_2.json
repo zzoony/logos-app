@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 26:2",
+  "version": "EASY",
+  "original_text": "The Lord appeared to Isaac. He said, ‘Do not go to Egypt. Instead, live in the land that I will show to you.",
+  "korean_text": "여호와께서 이삭에게 나타나 이르시되 애굽으로 내려가지 말고 내가 네게 지시하는 땅에 거주하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord appeared to Isaac",
+      "korean_translation": "주께서 이삭에게 나타나셨다",
+      "word_indices": [
+        2,
+        386
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said",
+      "korean_translation": "그가 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not go to Egypt",
+      "korean_translation": "애굽으로 가지 마라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Instead, live in the land",
+      "korean_translation": "대신 그 땅에 거하라",
+      "word_indices": [
+        8,
+        14
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that I will show to you",
+      "korean_translation": "내가 너에게 보여줄",
+      "word_indices": []
+    }
+  ]
+}

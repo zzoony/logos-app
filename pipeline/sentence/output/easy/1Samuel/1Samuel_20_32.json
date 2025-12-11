@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 20:32",
+  "version": "EASY",
+  "original_text": "Jonathan said to his father, King Saul, ‘Why must David die? What wrong thing has he done?’",
+  "korean_text": "요나단이 그의 아버지 사울에게 대답하여 이르되 그가 죽을 일이 무엇이니이까 무엇을 행하였나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jonathan said to his father, King Saul",
+      "korean_translation": "요나단은 그의 아버지 사울 왕에게 말했다",
+      "word_indices": [
+        3,
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why must David die?",
+      "korean_translation": "어찌하여 다윗은 죽어야 합니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "What wrong thing has he done?",
+      "korean_translation": "그가 무슨 잘못한 일이 있습니까?",
+      "word_indices": [
+        71
+      ]
+    }
+  ]
+}

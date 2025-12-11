@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Luke 13:21",
+  "version": "EASY",
+  "original_text": "It is like how yeast works. A woman took some of it and she mixed it into three large bowls of flour. Then the yeast went through all the flour so that it grew big.’",
+  "korean_text": "마치 여자가 가루 서 말 속에 갖다 넣어 전부 부풀게 한 누룩과 같으니라 하셨더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is like how yeast works.",
+      "korean_translation": "그것은 누룩이 작용하는 방식과 같습니다.",
+      "word_indices": [
+        35,
+        600
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A woman took some of it",
+      "korean_translation": "한 여자가 그것을 조금 가져와서",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and she mixed it into three large bowls of flour.",
+      "korean_translation": "그것을 큰 그릇 세 개의 가루에 섞었습니다.",
+      "word_indices": [
+        166,
+        316,
+        435
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then the yeast went through all the flour",
+      "korean_translation": "그러면 누룩이 모든 가루에 퍼져나가",
+      "word_indices": [
+        192,
+        435,
+        600
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that it grew big.'",
+      "korean_translation": "결국 커지게 되었습니다.",
+      "word_indices": []
+    }
+  ]
+}

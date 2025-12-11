@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Joshua 9:5",
+  "version": "EASY",
+  "original_text": "They wore old shoes on their feet, and they dressed themselves in old clothes. They took some bread that was old and dry.",
+  "korean_text": "그 발에는 낡아서 기운 신을 신고 낡은 옷을 입고 다 마르고 곰팡이가 난 떡을 준비하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They wore old shoes on their feet",
+      "korean_translation": "그들은 발에 낡은 신을 신었고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they dressed themselves in old clothes",
+      "korean_translation": "낡은 옷을 입었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They took some bread",
+      "korean_translation": "그들은 빵을 가져왔는데",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that was old and dry",
+      "korean_translation": "그 빵은 낡고 마른 것이었습니다",
+      "word_indices": []
+    }
+  ]
+}

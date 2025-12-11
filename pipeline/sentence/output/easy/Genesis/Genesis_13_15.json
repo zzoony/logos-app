@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Genesis 13:15",
+  "version": "EASY",
+  "original_text": "I will give you all the land that you can see. I will give it to you and your descendants. It will belong to them for ever.",
+  "korean_text": "보이는 땅을 내가 너와 네 자손에게 주리니 영원히 이르리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will give you all the land",
+      "korean_translation": "내가 너에게 그 모든 땅을 주겠다",
+      "word_indices": [
+        4,
+        14
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that you can see",
+      "korean_translation": "네가 볼 수 있는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will give it to you",
+      "korean_translation": "내가 그것을 너에게 주겠다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and your descendants",
+      "korean_translation": "그리고 너의 자손들에게",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "It will belong to them",
+      "korean_translation": "그것은 그들의 소유가 될 것이다",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for ever",
+      "korean_translation": "영원히",
+      "word_indices": []
+    }
+  ]
+}

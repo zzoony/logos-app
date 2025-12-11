@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 5:17",
+  "version": "EASY",
+  "original_text": "But Jesus said to them, ‘My Father is still working, and I too must work.’",
+  "korean_text": "예수께서 그들에게 이르시되 내 아버지께서 이제까지 일하시니 나도 일한다 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Jesus said to them",
+      "korean_translation": "그러나 예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'My Father is still working",
+      "korean_translation": "'나의 아버지께서는 아직도 일하고 계시며",
+      "word_indices": [
+        35,
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and I too must work.'",
+      "korean_translation": "나도 또한 일해야만 한다.'",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

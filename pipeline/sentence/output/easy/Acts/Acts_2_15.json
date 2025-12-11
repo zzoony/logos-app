@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Acts 2:15",
+  "version": "EASY",
+  "original_text": "Some of you think that my friends here are drunk. But they are not drunk, because it is only nine o'clock in the morning.",
+  "korean_text": "때가 제 삼 시니 너희 생각과 같이 이 사람들이 취한 것이 아니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some of you think",
+      "korean_translation": "여러분 중 어떤 이들은 생각합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that my friends here are drunk",
+      "korean_translation": "나의 친구들이 취했다고",
+      "word_indices": [
+        113,
+        1372
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But they are not drunk",
+      "korean_translation": "그러나 그들은 취하지 않았습니다",
+      "word_indices": [
+        1372
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because it is only nine o'clock",
+      "korean_translation": "왜냐하면 지금은 아홉 시뿐입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in the morning",
+      "korean_translation": "아침 시간에",
+      "word_indices": []
+    }
+  ]
+}

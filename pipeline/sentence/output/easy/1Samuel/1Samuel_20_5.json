@@ -1,0 +1,73 @@
+{
+  "verse_reference": "1 Samuel 20:5",
+  "version": "EASY",
+  "original_text": "David said to Jonathan, ‘Tomorrow we have a special meal because of the new moon. I should go and eat this meal with the king. Instead, let me go and hide in the field. I will stay there until the third evening.",
+  "korean_text": "다윗이 요나단에게 이르되 내일은 초하루인즉 내가 마땅히 왕을 모시고 앉아 식사를 하여야 할 것이나 나를 보내어 셋째 날 저녁까지 들에 숨게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said to Jonathan",
+      "korean_translation": "다윗이 요나단에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Tomorrow we have a special meal",
+      "korean_translation": "내일 우리는 특별한 식사를 합니다",
+      "word_indices": [
+        68,
+        628
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because of the new moon",
+      "korean_translation": "새 달 때문에",
+      "word_indices": [
+        623
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I should go and eat this meal",
+      "korean_translation": "나는 이 식사를 먹으러 가야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "with the king",
+      "korean_translation": "왕과 함께",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Instead, let me go and hide",
+      "korean_translation": "대신에, 내가 가서 숨게 해주세요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "in the field",
+      "korean_translation": "들에서",
+      "word_indices": [
+        152
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "I will stay there",
+      "korean_translation": "나는 그곳에 머물 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "until the third evening",
+      "korean_translation": "셋째 날 저녁까지",
+      "word_indices": [
+        431
+      ]
+    }
+  ]
+}

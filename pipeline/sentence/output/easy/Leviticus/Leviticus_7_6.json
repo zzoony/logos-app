@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Leviticus 7:6",
+  "version": "EASY",
+  "original_text": "Aaron's sons can eat the meat that is not burnt. They must eat it in a holy place because it is most holy.",
+  "korean_text": "제사장인 남자는 모두 그것을 먹되 거룩한 곳에서 먹을지니라 그것은 지극히 거룩하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Aaron's sons can eat the meat",
+      "korean_translation": "아론의 아들들은 고기를 먹을 수 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that is not burnt",
+      "korean_translation": "타지 않은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They must eat it",
+      "korean_translation": "그들은 그것을 먹어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in a holy place",
+      "korean_translation": "거룩한 장소에서",
+      "word_indices": [
+        16,
+        84
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because it is most holy",
+      "korean_translation": "그것이 가장 거룩하기 때문이다",
+      "word_indices": [
+        84
+      ]
+    }
+  ]
+}

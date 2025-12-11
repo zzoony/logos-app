@@ -1,0 +1,29 @@
+{
+  "verse_reference": "John 11:43",
+  "version": "EASY",
+  "original_text": "When Jesus had said this, he shouted with a loud voice, ‘Lazarus, come out!’",
+  "korean_text": "이 말씀을 하시고 큰 소리로 나사로야 나오라 부르시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Jesus had said this",
+      "korean_translation": "예수님이 이것을 말하셨을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he shouted with a loud voice",
+      "korean_translation": "그는 큰 소리로 외쳤다",
+      "word_indices": [
+        174,
+        335
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Lazarus, come out!",
+      "korean_translation": "나사로야, 나오라!",
+      "word_indices": []
+    }
+  ]
+}

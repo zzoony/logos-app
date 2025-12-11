@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Genesis 47:22",
+  "version": "EASY",
+  "original_text": "But Joseph did not buy the land which belonged to the priests. Pharaoh himself gave the priests enough food. So the priests did not have to sell their land.",
+  "korean_text": "제사장들의 토지는 사지 아니하였으니 제사장들은 바로에게서 녹을 받음이라 바로가 주는 녹을 먹으므로 그들이 토지를 팔지 않음이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Joseph did not buy the land",
+      "korean_translation": "그러나 요셉은 그 땅을 사지 않았다",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "which belonged to the priests",
+      "korean_translation": "그것은 제사장들에게 속한 땅이었다",
+      "word_indices": [
+        32,
+        45
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Pharaoh himself gave the priests enough food",
+      "korean_translation": "바로 자신이 제사장들에게 충분한 음식을 주었다",
+      "word_indices": [
+        4,
+        32,
+        228
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "So the priests did not have to sell their land",
+      "korean_translation": "그래서 제사장들은 자신들의 땅을 팔 필요가 없었다",
+      "word_indices": [
+        14,
+        32
+      ]
+    }
+  ]
+}

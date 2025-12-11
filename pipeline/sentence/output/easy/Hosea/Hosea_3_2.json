@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Hosea 3:2",
+  "version": "EASY",
+  "original_text": "So I paid 15 pieces of silver and 50 kilograms of grain to get my wife back.",
+  "korean_text": "내가 은 열다섯 개와 보리 한 호멜 반으로 나를 위하여 그를 사고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So I paid 15 pieces of silver",
+      "korean_translation": "그래서 나는 은 15개를 지불했고",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and 50 kilograms of grain",
+      "korean_translation": "그리고 곡식 50킬로그램을",
+      "word_indices": [
+        256,
+        476
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to get my wife back.",
+      "korean_translation": "내 아내를 되찾기 위해",
+      "word_indices": []
+    }
+  ]
+}

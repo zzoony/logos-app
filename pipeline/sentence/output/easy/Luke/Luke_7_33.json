@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Luke 7:33",
+  "version": "EASY",
+  "original_text": "You are like those children. When John the Baptist came to you, he did not eat ordinary food. He never drank wine. So you say that John has a bad spirit in him.",
+  "korean_text": "세례 요한이 와서 떡도 먹지 아니하며 포도주도 마시지 아니하매 너희 말이 귀신이 들렸다 하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You are like those children.",
+      "korean_translation": "너희는 저 아이들과 같다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When John the Baptist came to you,",
+      "korean_translation": "세례 요한이 너희에게 왔을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he did not eat ordinary food.",
+      "korean_translation": "그는 평범한 음식을 먹지 않았다.",
+      "word_indices": [
+        740
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He never drank wine.",
+      "korean_translation": "그는 포도주를 마신 적이 없었다.",
+      "word_indices": [
+        219
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So you say",
+      "korean_translation": "그래서 너희는 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that John has a bad spirit in him.",
+      "korean_translation": "요한에게 사악한 영이 있다고.",
+      "word_indices": [
+        92
+      ]
+    }
+  ]
+}

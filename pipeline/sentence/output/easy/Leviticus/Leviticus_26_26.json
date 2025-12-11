@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Leviticus 26:26",
+  "version": "EASY",
+  "original_text": "The people will not have any food. A woman will bake one loaf for ten families. They will weigh it to give one part to each family. When a person eats his piece of bread, he will still be hungry.",
+  "korean_text": "내가 너희가 의뢰하는 양식을 끊을 때에 열 여인이 한 화덕에서 너희 떡을 구워 저울에 달아 주리니 너희가 먹어도 배부르지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people will not have any food",
+      "korean_translation": "백성들은 어떤 음식도 갖지 못할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A woman will bake one loaf for ten families",
+      "korean_translation": "여자는 열 가족을 위해 빵 한 덩어리를 굽겠다",
+      "word_indices": [
+        46,
+        56
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They will weigh it to give one part to each family",
+      "korean_translation": "그들은 그것을 달아서 각 가족에게 한 부분씩 주겠다",
+      "word_indices": [
+        4,
+        56,
+        487
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When a person eats his piece of bread",
+      "korean_translation": "사람이 자신의 빵 조각을 먹을 때",
+      "word_indices": [
+        24,
+        149,
+        229
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "he will still be hungry",
+      "korean_translation": "그는 여전히 배고플 것이다",
+      "word_indices": [
+        402
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Chronicles 2:17",
+  "version": "EASY",
+  "original_text": "Abigail gave birth to Amasa. Amasa's father was Jether, a descendant of Ishmael.",
+  "korean_text": "아비가일은 아마사를 낳았으니 아마사의 아버지는 이스마엘 사람 예델이었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abigail gave birth to Amasa",
+      "korean_translation": "아비가일은 아마사를 낳았다",
+      "word_indices": [
+        4,
+        249
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Amasa's father was Jether",
+      "korean_translation": "아마사의 아버지는 이델이었다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jether was a descendant of Ishmael",
+      "korean_translation": "이델은 이스마엘의 후손이었다",
+      "word_indices": [
+        75
+      ]
+    }
+  ]
+}

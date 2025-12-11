@@ -1,0 +1,53 @@
+{
+  "verse_reference": "2 Kings 10:8",
+  "version": "EASY",
+  "original_text": "Someone told Jehu, ‘They have brought the heads of the king's sons.’ Then Jehu said, ‘Put them in two heaps at the gate of the city. Leave them there until the morning.’",
+  "korean_text": "사자가 와서 예후에게 전하여 이르되 그 무리가 왕자들의 머리를 가지고 왔나이다 이르되 두 무더기로 쌓아 내일 아침까지 문 어귀에 두라 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Someone told Jeho",
+      "korean_translation": "누군가 여호에게 말했다",
+      "word_indices": [
+        94
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'They have brought the heads of the king's sons.'",
+      "korean_translation": "'왕의 아들들의 머리를 가져왔다.'",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then Jeho said",
+      "korean_translation": "그러자 여호가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Put them in two heaps",
+      "korean_translation": "'그것들을 두 개 더미에 놓아라'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "at the gate of the city.'",
+      "korean_translation": "성문 앞에.'",
+      "word_indices": [
+        20,
+        168
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Leave them there until the morning.'",
+      "korean_translation": "아침까지 그곳에 두어라.'",
+      "word_indices": [
+        66
+      ]
+    }
+  ]
+}

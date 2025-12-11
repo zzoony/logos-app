@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Leviticus 6:4",
+  "version": "EASY",
+  "original_text": "He has done something that is wrong. So he must show that he is sorry. He must give back anything that is not his. He must give back anything that he has found. He must give back anything that he has kept. He must give it to the person to whom it belongs.",
+  "korean_text": "이는 죄를 범하였고 죄가 있는 자니 그 훔친 것이나 착취한 것이나 맡은 것이나 잃은 물건을 주운 것이나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He has done something that is wrong",
+      "korean_translation": "그는 잘못된 일을 저질렀습니다",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So he must show that he is sorry",
+      "korean_translation": "그러므로 그는 자신이 미안함을 보여야 합니다",
+      "word_indices": [
+        523
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must give back anything that is not his",
+      "korean_translation": "그는 자신의 것이 아닌 모든 것을 돌려주어야 합니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He must give back anything that he has found",
+      "korean_translation": "그는 자신이 발견한 모든 것을 돌려주어야 합니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He must give back anything that he has kept",
+      "korean_translation": "그는 자신이 보관한 모든 것을 돌려주어야 합니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He must give it to the person to whom it belongs",
+      "korean_translation": "그것을 그것의 주인에게 주어야 합니다",
+      "word_indices": [
+        4,
+        24,
+        45
+      ]
+    }
+  ]
+}

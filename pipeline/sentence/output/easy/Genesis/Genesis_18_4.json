@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Genesis 18:4",
+  "version": "EASY",
+  "original_text": "Let us bring some water so that you can all wash your feet. Then you can rest under this tree.",
+  "korean_text": "물을 조금 가져오게 하사 당신들의 발을 씻으시고 나무 아래에서 쉬소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let us bring some water",
+      "korean_translation": "우리가 물을 가져오겠습니다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that you can all wash your feet",
+      "korean_translation": "너희 모두가 발을 씻을 수 있도록",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then you can rest",
+      "korean_translation": "그러면 너희가 쉴 수 있습니다",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "under this tree",
+      "korean_translation": "이 나무 아래에서",
+      "word_indices": []
+    }
+  ]
+}

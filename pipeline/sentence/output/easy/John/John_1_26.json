@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 1:26",
+  "version": "EASY",
+  "original_text": "John replied, ‘I baptize people with water. But there is someone here among you that you do not know.",
+  "korean_text": "요한이 대답하되 나는 물로 세례를 베풀거니와 너희 가운데 너희가 알지 못하는 한 사람이 섰으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John replied",
+      "korean_translation": "요한이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I baptize people with water",
+      "korean_translation": "나는 물로 사람들을 세례 줍니다",
+      "word_indices": [
+        60,
+        554
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But there is someone here among you",
+      "korean_translation": "하지만 너희 중에 한 분이 계십니다",
+      "word_indices": [
+        94,
+        112
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you do not know",
+      "korean_translation": "너희가 알지 못하는 분이십니다",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

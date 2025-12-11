@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 18:18",
+  "version": "EASY",
+  "original_text": "You will become too tired. The people who come to you will also become tired. You cannot do all this work alone.",
+  "korean_text": "너와 또 너와 함께 한 이 백성이 필경 기력이 쇠하리니 이 일이 네게 너무 중함이라 네가 혼자 할 수 없으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will become too tired.",
+      "korean_translation": "당신은 너무 피곤해질 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The people who come to you",
+      "korean_translation": "당신에게 오는 사람들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will also become tired.",
+      "korean_translation": "또한 피곤해질 것입니다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You cannot do all this work alone.",
+      "korean_translation": "당신은 혼자서 이 모든 일을 할 수 없습니다.",
+      "word_indices": [
+        35,
+        114
+      ]
+    }
+  ]
+}

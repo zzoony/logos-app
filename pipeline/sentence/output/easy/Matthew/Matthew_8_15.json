@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Matthew 8:15",
+  "version": "EASY",
+  "original_text": "Jesus touched her hand and immediately she was well again. So she got up and she prepared food for Jesus.",
+  "korean_text": "그의 손을 만지시니 열병이 떠나가고 여인이 일어나서 예수께 수종들더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus touched her hand",
+      "korean_translation": "예수님께서 그녀의 손을 만지셨습니다",
+      "word_indices": [
+        132,
+        348
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and immediately she was well again",
+      "korean_translation": "그러자 즉시 그녀가 다시 나았습니다",
+      "word_indices": [
+        414
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So she got up",
+      "korean_translation": "그래서 그녀는 일어났습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and she prepared food for Jesus",
+      "korean_translation": "그리고 예수님을 위해 음식을 준비했습니다",
+      "word_indices": []
+    }
+  ]
+}

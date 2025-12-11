@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Ezekiel 40:19",
+  "version": "EASY",
+  "original_text": "The man measured across the outside yard. He measured from the lower gate to the higher gate that went into the inside yard. The man measured 50 metres between the two gates.",
+  "korean_text": "그가 아래 문간 앞에서부터 안뜰 바깥 문간 앞까지 측량하니 그 너비가 백 척이며 동쪽과 북쪽이 같더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man measured across the outside yard.",
+      "korean_translation": "그 사람은 바깥뜰을 가로질러 측정했습니다.",
+      "word_indices": [
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He measured from the lower gate",
+      "korean_translation": "그는 아래문부터 측정했습니다.",
+      "word_indices": [
+        168,
+        927
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the higher gate",
+      "korean_translation": "위쪽문까지",
+      "word_indices": [
+        168
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that went into the inside yard.",
+      "korean_translation": "그 문은 안뜰로 들어가는 문이었습니다.",
+      "word_indices": [
+        252
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The man measured 50 metres",
+      "korean_translation": "그 사람은 50미터를 측정했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "between the two gates.",
+      "korean_translation": "두 문 사이의 거리였습니다.",
+      "word_indices": []
+    }
+  ]
+}

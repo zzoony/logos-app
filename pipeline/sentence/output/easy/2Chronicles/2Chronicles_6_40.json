@@ -1,0 +1,49 @@
+{
+  "verse_reference": "2 Chronicles 6:40",
+  "version": "EASY",
+  "original_text": "Now, my God, please watch over us. Please listen to the prayers that we are praying in this place.",
+  "korean_text": "나의 하나님이여 이제 이 곳에서 하는 기도에 눈을 드시고 귀를 기울이소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now, my God",
+      "korean_translation": "이제 나의 하나님",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "please watch over us",
+      "korean_translation": "부디 우리를 지켜보시옵소서",
+      "word_indices": [
+        76,
+        273
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Please listen to the prayers",
+      "korean_translation": "부디 기도를 들어주시옵소서",
+      "word_indices": [
+        63,
+        76,
+        567
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that we are praying",
+      "korean_translation": "우리가 드리는",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in this place",
+      "korean_translation": "이 장소에서",
+      "word_indices": [
+        16
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Kings 2:2",
+  "version": "EASY",
+  "original_text": "‘Soon I will die, as everyone must die one day. Be strong and brave, as a man should be.",
+  "korean_text": "내가 이제 세상 모든 사람이 가는 길로 가게 되었노니 너는 힘써 대장부가 되고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Soon I will die",
+      "korean_translation": "나는 곧 죽을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as everyone must die one day",
+      "korean_translation": "모든 사람은 언젠가 죽어야 하듯이",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Be strong and brave",
+      "korean_translation": "강하고 용감하게 되어라",
+      "word_indices": [
+        43
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as a man should be",
+      "korean_translation": "남자로서 그래야 하듯이",
+      "word_indices": []
+    }
+  ]
+}

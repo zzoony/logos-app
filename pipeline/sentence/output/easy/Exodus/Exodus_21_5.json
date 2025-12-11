@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 21:5",
+  "version": "EASY",
+  "original_text": "But perhaps the slave may say, “I love my master, my wife and my children. I will not go away as a free man!”",
+  "korean_text": "만일 종이 분명히 말하기를 내가 상전과 내 처자를 사랑하니 나가서 자유인이 되지 않겠노라 하면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But perhaps the slave may say",
+      "korean_translation": "하지만 아마도 그 종이 말할지도 모릅니다",
+      "word_indices": [
+        214
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I love my master",
+      "korean_translation": "나는 나의 주인을 사랑합니다",
+      "word_indices": [
+        82,
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "my wife and my children",
+      "korean_translation": "나의 아내와 나의 자녀들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will not go away as a free man",
+      "korean_translation": "나는 자유인으로 떠나지 않겠습니다",
+      "word_indices": []
+    }
+  ]
+}

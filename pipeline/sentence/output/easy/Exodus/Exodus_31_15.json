@@ -1,0 +1,67 @@
+{
+  "verse_reference": "Exodus 31:15",
+  "version": "EASY",
+  "original_text": "You may work for six days each week, but the seventh day is a day of rest. It is a holy day that is special to me, the Lord. If anyone does any work on a Sabbath day, you must punish him with death.",
+  "korean_text": "엿새 동안은 일할 것이나 일곱째 날은 큰 안식일이니 여호와께 거룩한 것이라 안식일에 일하는 자는 누구든지 반드시 죽일지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may work for six days each week",
+      "korean_translation": "너는 매주 6일 동안 일할 수 있으나",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but the seventh day is a day of rest",
+      "korean_translation": "일곱째 날은 안식의 날이니",
+      "word_indices": [
+        269,
+        469
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is a holy day",
+      "korean_translation": "그것은 거룩한 날이며",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that is special to me",
+      "korean_translation": "나에게 특별한 날이라",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the Lord",
+      "korean_translation": "나 여호와니라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "If anyone does any work on a Sabbath day",
+      "korean_translation": "만약 누가 안식일에 어떤 일이라도 하면",
+      "word_indices": [
+        35,
+        109,
+        484
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "you must punish him with death",
+      "korean_translation": "너는 그를 죽음으로 처벌해야 한다",
+      "word_indices": [
+        153
+      ]
+    }
+  ]
+}

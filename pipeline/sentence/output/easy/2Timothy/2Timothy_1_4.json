@@ -1,0 +1,37 @@
+{
+  "verse_reference": "2 Timothy 1:4",
+  "version": "EASY",
+  "original_text": "I remember how you wept when I said ‘goodbye’ to you. I want to see you again very much, so that I may be completely happy.",
+  "korean_text": "네 눈물을 생각하여 너 보기를 원함은 내 기쁨이 가득하게 하려 함이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I remember how you wept",
+      "korean_translation": "나는 네가 어떻게 울었는지 기억한다",
+      "word_indices": [
+        139
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when I said 'goodbye' to you",
+      "korean_translation": "내가 너에게 작별 인사를 했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I want to see you again very much",
+      "korean_translation": "나는 너를 다시 보고 싶어 매우 많다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that I may be completely happy",
+      "korean_translation": "그래서 나는 완전히 행복할 수 있을 것이다",
+      "word_indices": [
+        57,
+        161
+      ]
+    }
+  ]
+}

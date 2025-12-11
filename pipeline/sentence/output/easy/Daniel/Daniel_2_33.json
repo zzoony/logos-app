@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Daniel 2:33",
+  "version": "EASY",
+  "original_text": "The statue's legs were made from iron. Its feet had parts made from iron and parts made from clay.",
+  "korean_text": "그 종아리는 쇠요 그 발은 얼마는 쇠요 얼마는 진흙이었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The statue's legs were made from iron",
+      "korean_translation": "그 상상의 다리는 철로 만들어졌습니다",
+      "word_indices": [
+        494,
+        917
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Its feet had parts made from iron",
+      "korean_translation": "그 발은 철로 만들어진 부분이 있었습니다",
+      "word_indices": [
+        494
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and parts made from clay",
+      "korean_translation": "그리고 점토로 만들어진 부분이 있었습니다",
+      "word_indices": []
+    }
+  ]
+}

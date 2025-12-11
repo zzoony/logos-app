@@ -1,0 +1,28 @@
+{
+  "verse_reference": "2 Chronicles 10:1",
+  "version": "EASY",
+  "original_text": "Rehoboam went to Shechem, because all the Israelites had gone there to make him king.",
+  "korean_text": "르호보암이 세겜으로 갔으니 이는 온 이스라엘이 그를 왕으로 삼고자 하여 세겜에 이르렀음이더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Rehoboam went to Shechem",
+      "korean_translation": "르호보암이 세겜으로 갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because all the Israelites had gone there",
+      "korean_translation": "모든 이스라엘 사람들이 그곳에 가 있었기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to make him king",
+      "korean_translation": "그를 왕으로 삼기 위해",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

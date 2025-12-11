@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 17:7",
+  "version": "EASY",
+  "original_text": "After some time the stream became dry, because there had been no rain in the whole land.",
+  "korean_text": "땅에 비가 내리지 아니하므로 얼마 후에 그 시내가 마르니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After some time",
+      "korean_translation": "얼마 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the stream became dry",
+      "korean_translation": "개울이 마르게 되었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because there had been no rain",
+      "korean_translation": "비가 내리지 않았기 때문입니다",
+      "word_indices": [
+        327
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the whole land",
+      "korean_translation": "온 땅에",
+      "word_indices": [
+        14,
+        169
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Revelation 8:12",
+  "version": "EASY",
+  "original_text": "Then the fourth angel made a sound with his trumpet. A third of the sun became dark. A third of the moon and a third of the stars also became dark. There was no light for a third of the day and there was no light for a third of the night.",
+  "korean_text": "넷째 천사가 나팔을 부니 해 삼분의 일과 달 삼분의 일과 별들의 삼분의 일이 타격을 받아 그 삼분의 일이 어두워지니 낮 삼분의 일은 비추임이 없고 밤도 그러하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the fourth angel made a sound with his trumpet.",
+      "korean_translation": "그때 네 번째 천사가 나팔을 불었다.",
+      "word_indices": [
+        409,
+        447,
+        645
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A third of the sun became dark.",
+      "korean_translation": "해의 삼분의 일이 어두워졌다.",
+      "word_indices": [
+        431
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A third of the moon also became dark.",
+      "korean_translation": "달의 삼분의 일도 어두워졌다.",
+      "word_indices": [
+        9,
+        431,
+        623
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "A third of the stars also became dark.",
+      "korean_translation": "별들의 삼분의 일도 어두워졌다.",
+      "word_indices": [
+        9,
+        431,
+        473
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "There was no light for a third of the day.",
+      "korean_translation": "낮의 삼분의 동안은 빛이 없었다.",
+      "word_indices": [
+        225,
+        431
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "There was no light for a third of the night.",
+      "korean_translation": "밤의 삼분의 동안도 빛이 없었다.",
+      "word_indices": [
+        211,
+        225,
+        431
+      ]
+    }
+  ]
+}

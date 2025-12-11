@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Isaiah 23:3",
+  "version": "EASY",
+  "original_text": "They brought grain to you from Shihor region in Egypt. You received crops that had grown beside the Nile river. Tyre became an important city where traders from many nations came.",
+  "korean_text": "시홀의 곡식 곧 나일의 추수를 큰 물로 수송하여 들였으니 열국의 시장이 되었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They brought grain to you from Shihor region",
+      "korean_translation": "그들은 시호르 지역에서 너에게 곡식을 가져왔습니다",
+      "word_indices": [
+        256,
+        314
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in Egypt",
+      "korean_translation": "이집트에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You received crops",
+      "korean_translation": "너는 작물을 받았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that had grown beside the Nile river",
+      "korean_translation": "나일 강가에서 자랐던",
+      "word_indices": [
+        136,
+        343
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Tyre became an important city",
+      "korean_translation": "두로는 중요한 도시가 되었습니다",
+      "word_indices": [
+        20,
+        138
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "where traders from many nations came",
+      "korean_translation": "많은 나라의 상인들이 찾아오는 곳",
+      "word_indices": [
+        70,
+        568
+      ]
+    }
+  ]
+}

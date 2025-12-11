@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Leviticus 22:12",
+  "version": "EASY",
+  "original_text": "A priest's daughter might marry a man who is not a priest. If she has done that, she must not eat the holy food.",
+  "korean_text": "제사장의 딸이 일반인에게 출가하였으면 거제의 성물을 먹지 못하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A priest's daughter might marry",
+      "korean_translation": "제사장의 딸은 결혼할 수 있다",
+      "word_indices": [
+        32,
+        173,
+        209
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "a man who is not a priest",
+      "korean_translation": "제사장이 아닌 사람과",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If she has done that",
+      "korean_translation": "만약 그렇게 했다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "she must not eat",
+      "korean_translation": "그녀는 먹어서는 안 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "the holy food",
+      "korean_translation": "거룩한 음식을",
+      "word_indices": [
+        84
+      ]
+    }
+  ]
+}

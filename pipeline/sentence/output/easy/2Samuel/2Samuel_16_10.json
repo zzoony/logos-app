@@ -1,0 +1,73 @@
+{
+  "verse_reference": "2 Samuel 16:10",
+  "version": "EASY",
+  "original_text": "The king said, ‘No! You sons of Zeruiah should not tell me what to do! Perhaps he is cursing me because the Lord has said to him, “Curse David.” Then we cannot say that he is wrong to curse me.’",
+  "korean_text": "왕이 이르되 스루야의 아들들아 내가 너희와 무슨 상관이 있느냐 그가 저주하는 것은 여호와께서 그에게 다윗을 저주하라 하심이니 네가 어찌 그리하였느냐 할 자가 누구겠느냐 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king said",
+      "korean_translation": "왕이 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "No!",
+      "korean_translation": "아니오!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You sons of Zeruiah",
+      "korean_translation": "너희 스루야의 아들들아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "should not tell me what to do",
+      "korean_translation": "나에게 무엇을 하라고 말해서는 안 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Perhaps he is cursing me",
+      "korean_translation": "아마도 그가 나를 저주하고 있을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because the Lord has said to him",
+      "korean_translation": "왜냐하면 주께서 그에게 말씀하셨기 때문이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Curse David",
+      "korean_translation": "다윗을 저주하라",
+      "word_indices": [
+        373
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Then we cannot say",
+      "korean_translation": "그렇다면 우리는 말할 수 없다",
+      "word_indices": [
+        114
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "that he is wrong to curse me",
+      "korean_translation": "그가 나를 저주하는 것이 잘못되었다고",
+      "word_indices": [
+        71,
+        373
+      ]
+    }
+  ]
+}

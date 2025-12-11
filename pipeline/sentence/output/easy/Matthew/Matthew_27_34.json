@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 27:34",
+  "version": "EASY",
+  "original_text": "They tried to give Jesus some wine to drink. They had mixed some medicine into the wine. Jesus tasted it, but he would not drink it.",
+  "korean_text": "쓸개 탄 포도주를 예수께 주어 마시게 하려 하였더니 예수께서 맛보시고 마시고자 하지 아니하시더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They tried to give Jesus some wine to drink",
+      "korean_translation": "그들은 예수에게 마실 와인을 주려고 했습니다",
+      "word_indices": [
+        4,
+        118,
+        219
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They had mixed some medicine into the wine",
+      "korean_translation": "그들은 와인에 약을 섞었습니다",
+      "word_indices": [
+        219,
+        939
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jesus tasted it",
+      "korean_translation": "예수께서 맛보셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but he would not drink it",
+      "korean_translation": "그러나 마시지 않으셨습니다",
+      "word_indices": [
+        118
+      ]
+    }
+  ]
+}

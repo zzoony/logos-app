@@ -1,0 +1,56 @@
+{
+  "verse_reference": "John 6:26",
+  "version": "EASY",
+  "original_text": "Jesus answered, ‘I tell you this: You saw me do miracles that show God's power. But you are not looking for me because of that. No, you are looking for me because you ate the loaves. I gave you all the food that you needed.",
+  "korean_text": "예수께서 대답하여 이르시되 내가 진실로 진실로 너희에게 이르노니 너희가 나를 찾는 것은 표적을 본 까닭이 아니요 떡을 먹고 배부른 까닭이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you this",
+      "korean_translation": "내가 너희에게 이것을 말하노라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You saw me do miracles",
+      "korean_translation": "너희가 내가 기적 행하는 것을 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that show God's power",
+      "korean_translation": "그것은 하나님의 권능을 나타내는 것들이었다",
+      "word_indices": [
+        80
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But you are not looking for me because of that",
+      "korean_translation": "하지만 너희는 그것 때문에 나를 찾는 것이 아니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "No, you are looking for me because you ate the loaves",
+      "korean_translation": "아니라, 너희는 떡을 먹었기 때문에 나를 찾고 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I gave you all the food that you needed",
+      "korean_translation": "내가 너희가 필요한 모든 음식을 주었다",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

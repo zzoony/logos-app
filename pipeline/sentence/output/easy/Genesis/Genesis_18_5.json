@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Genesis 18:5",
+  "version": "EASY",
+  "original_text": "Let me also bring some food for you to eat. Now that you have come to my home, you should rest and become strong again. Then you will be ready to continue with your journey.’ The men replied, ‘That is good. Please do what you have said.’",
+  "korean_text": "내가 떡을 조금 가져오리니 당신들의 마음을 상쾌하게 하신 후에 지나가소서 당신들이 종에게 오셨음이니이다 그들이 이르되 네 말대로 그리하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let me also bring some food for you to eat.",
+      "korean_translation": "내가 당신을 위해 음식도 가져오겠습니다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now that you have come to my home,",
+      "korean_translation": "당신이 내 집에 왔으니,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you should rest and become strong again.",
+      "korean_translation": "휴식을 취하고 다시 기운을 차려야 합니다.",
+      "word_indices": [
+        43,
+        269
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then you will be ready to continue with your journey.'",
+      "korean_translation": "그러면 당신은 여정을 계속할 준비가 될 것입니다.'",
+      "word_indices": [
+        163,
+        427
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The men replied,",
+      "korean_translation": "사람들이 대답했습니다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "'That is good.",
+      "korean_translation": "'그것이 좋습니다.",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Please do what you have said.'",
+      "korean_translation": "말씀하신 대로 해주세요.'",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

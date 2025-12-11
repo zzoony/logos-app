@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 13:9",
+  "version": "EASY",
+  "original_text": "The Lord commanded me, “You must not eat or drink anything there. You must not return home on the same road that you came on.” ’",
+  "korean_text": "이는 곧 여호와의 말씀이 내게 명령하여 이르시기를 떡도 먹지 말며 물도 마시지 말고 왔던 길로 되돌아가지 말라 하셨음이니이다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord commanded me",
+      "korean_translation": "주님께서 나에게 명령하셨습니다",
+      "word_indices": [
+        2,
+        127
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must not eat or drink anything there",
+      "korean_translation": "거기서 아무것도 먹거나 마시지 말아야 합니다",
+      "word_indices": [
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must not return home",
+      "korean_translation": "집으로 돌아가면 안 됩니다",
+      "word_indices": [
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "on the same road that you came on",
+      "korean_translation": "왔던 것과 같은 길로는",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

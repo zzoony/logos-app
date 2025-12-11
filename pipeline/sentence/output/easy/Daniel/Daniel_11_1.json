@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Daniel 11:1",
+  "version": "EASY",
+  "original_text": "I myself helped Michael in the first year that Darius ruled as king. I fought with Michael against his enemies.’",
+  "korean_text": "내가 또 메대 사람 다리오 원년에 일어나 그를 도와서 그를 강하게 한 일이 있었느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I myself helped Michael",
+      "korean_translation": "나는 미가엘을 도왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the first year",
+      "korean_translation": "첫 해에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that Darius ruled as king",
+      "korean_translation": "다리우스가 왕으로 다스렸던",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I fought with Michael",
+      "korean_translation": "나는 미가엘과 함께 싸웠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "against his enemies",
+      "korean_translation": "그의 원수들을 대항하여",
+      "word_indices": [
+        31,
+        50
+      ]
+    }
+  ]
+}

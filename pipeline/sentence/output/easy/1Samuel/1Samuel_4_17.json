@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Samuel 4:17",
+  "version": "EASY",
+  "original_text": "The soldier replied, ‘The Israelites ran away while the Philistines chased them. The Philistines killed many of our soldiers. Your two sons, Hophni and Phinehas, are dead. And the Philistines have taken away God's Covenant Box.’",
+  "korean_text": "소식을 전하는 자가 대답하여 이르되 이스라엘이 블레셋 사람들 앞에서 도망하였고 백성 중에는 큰 살륙이 있었고 당신의 두 아들 홉니와 비느하스도 죽임을 당하였고 하나님의 궤는 빼앗겼나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The soldier replied",
+      "korean_translation": "그 군사가 대답했다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The Israelites ran away",
+      "korean_translation": "이스라엘 사람들이 도망쳤다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "while the Philistines chased them",
+      "korean_translation": "블레셋 사람들이 그들을 쫓았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The Philistines killed many of our soldiers",
+      "korean_translation": "블레셋 사람들이 우리 군사들을 많이 죽였다",
+      "word_indices": [
+        26,
+        36
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Your two sons, Hophni and Phinehas, are dead",
+      "korean_translation": "당신의 두 아들 홉니와 비느하스가 죽었다",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And the Philistines have taken away God's Covenant Box",
+      "korean_translation": "그리고 블레셋 사람들이 하나님의 언약궤를 가져갔다",
+      "word_indices": [
+        197
+      ]
+    }
+  ]
+}

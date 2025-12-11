@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Amos 6:4",
+  "version": "EASY",
+  "original_text": "You lie on beautiful, expensive beds. You do not work, but you rest all the time. You eat fat young sheep and cows.",
+  "korean_text": "상아 상에 누우며 침상에서 기지개 켜며 양 떼에서 어린 양과 우리에서 송아지를 잡아서 먹고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You lie on beautiful, expensive beds.",
+      "korean_translation": "너희는 아름답고 비싼 침대에 눕는다.",
+      "word_indices": [
+        180,
+        768
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You do not work,",
+      "korean_translation": "너희는 일하지 않고,",
+      "word_indices": [
+        35
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but you rest all the time.",
+      "korean_translation": "온종일 쉰다.",
+      "word_indices": [
+        269
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You eat fat young sheep",
+      "korean_translation": "너희는 살찐 어린 양을 먹고",
+      "word_indices": [
+        108,
+        125
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and cows.",
+      "korean_translation": "소도 먹는다.",
+      "word_indices": []
+    }
+  ]
+}

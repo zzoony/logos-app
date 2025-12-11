@@ -1,0 +1,40 @@
+{
+  "verse_reference": "2 Kings 11:16",
+  "version": "EASY",
+  "original_text": "So they took hold of Athaliah. They took her through the gate for the king's horses into the yard of the palace. They killed her there.",
+  "korean_text": "이에 그의 길을 열어 주매 그가 왕궁의 말이 다니는 길로 가다가 거기서 죽임을 당하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they took hold of Athaliah",
+      "korean_translation": "그들은 아달랴를 붙잡았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They took her through the gate for the king's horses",
+      "korean_translation": "그들은 그녀를 왕의 말들을 위한 문으로 통해 데려갔다",
+      "word_indices": [
+        3,
+        168,
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "into the yard of the palace",
+      "korean_translation": "궁전의 안뜰로",
+      "word_indices": [
+        301
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They killed her there",
+      "korean_translation": "그들은 그곳에서 그녀를 죽였다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

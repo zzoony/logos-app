@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 25:42",
+  "version": "EASY",
+  "original_text": "I was hungry but you did not give me any food to eat. I was thirsty but you did not give me anything to drink.",
+  "korean_text": "내가 주릴 때에 너희가 먹을 것을 주지 아니하였고 목마를 때에 마시게 하지 아니하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I was hungry",
+      "korean_translation": "내가 배고플 때",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but you did not give me any food to eat",
+      "korean_translation": "너희는 먹을 것을 주지 않았고",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I was thirsty",
+      "korean_translation": "내가 목마를 때",
+      "word_indices": [
+        705
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but you did not give me anything to drink",
+      "korean_translation": "너희는 마실 것을 주지 않았느니라",
+      "word_indices": [
+        4,
+        118
+      ]
+    }
+  ]
+}

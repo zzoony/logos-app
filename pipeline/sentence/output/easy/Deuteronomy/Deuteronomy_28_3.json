@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Deuteronomy 28:3",
+  "version": "EASY",
+  "original_text": "God will bless you in your cities and in your fields.",
+  "korean_text": "성읍에서도 복을 받고 들에서도 복을 받을 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God will bless you",
+      "korean_translation": "하나님께서 너를 축복하실 것이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in your cities",
+      "korean_translation": "네 성읍에서",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and in your fields",
+      "korean_translation": "네 밭에서도",
+      "word_indices": [
+        152
+      ]
+    }
+  ]
+}

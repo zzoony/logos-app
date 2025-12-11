@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 Corinthians 11:21",
+  "version": "EASY",
+  "original_text": "When you are ready to eat, each of you eats your own meal. You do not wait for anyone else. As a result, one of you may be hungry, while another person becomes drunk.",
+  "korean_text": "이는 먹을 때에 각각 자기의 만찬을 먼저 갖다 먹으므로 어떤 사람은 시장하고 어떤 사람은 취함이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When you are ready to eat",
+      "korean_translation": "너희가 먹을 준비가 되었을 때",
+      "word_indices": [
+        163
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "each of you eats your own meal",
+      "korean_translation": "각자 자기의 식사를 먹는다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You do not wait for anyone else",
+      "korean_translation": "너희는 다른 사람을 기다리지 않는다",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "As a result",
+      "korean_translation": "그 결과",
+      "word_indices": [
+        215
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "one of you may be hungry",
+      "korean_translation": "너희 중 한 사람은 배고플 수 있다",
+      "word_indices": [
+        402
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "while another person becomes drunk",
+      "korean_translation": "다른 사람은 취하게 된다",
+      "word_indices": [
+        24,
+        1372
+      ]
+    }
+  ]
+}

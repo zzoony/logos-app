@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 7:8",
+  "version": "EASY",
+  "original_text": "You should go to the festival. I will not go to it now, because it is not the right time for me yet.’",
+  "korean_text": "너희는 명절에 올라가라 내 때가 아직 차지 못하였으니 나는 이 명절에 아직 올라가지 아니하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You should go to the festival.",
+      "korean_translation": "너는 축제에 가야 한다.",
+      "word_indices": [
+        436
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will not go to it now,",
+      "korean_translation": "나는 지금 그곳에 가지 않을 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because it is not the right time for me yet.",
+      "korean_translation": "왜냐하면 나에게 아직 적절한 시기가 아니기 때문이다.",
+      "word_indices": [
+        38
+      ]
+    }
+  ]
+}

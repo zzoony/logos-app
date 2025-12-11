@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Deuteronomy 18:4",
+  "version": "EASY",
+  "original_text": "You must also give them the first part of your grain, your wine and your olive oil. Give them the first wool that you cut from your sheep.",
+  "korean_text": "또 네가 처음 거둔 곡식과 포도주와 기름과 네가 처음 깎은 양털을 네가 그에게 줄 것이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must also give them the first part of your grain",
+      "korean_translation": "너는 또한 네 곡물의 첫 부분을 그들에게 주어야 한다",
+      "word_indices": [
+        4,
+        9,
+        256
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "your wine and your olive oil",
+      "korean_translation": "네 포도주와 네 감람 기름",
+      "word_indices": [
+        219,
+        358
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Give them the first wool",
+      "korean_translation": "그들에게 첫 털을 주어라",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you cut from your sheep",
+      "korean_translation": "네 양에서 깎은",
+      "word_indices": [
+        125
+      ]
+    }
+  ]
+}

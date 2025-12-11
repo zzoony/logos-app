@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Exodus 37:4",
+  "version": "EASY",
+  "original_text": "He used acacia wood to make two poles. He also covered them with gold.",
+  "korean_text": "조각목으로 채를 만들어 금으로 싸고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He used acacia wood",
+      "korean_translation": "그는 아카시아 나무를 사용했습니다",
+      "word_indices": [
+        239,
+        840
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to make two poles",
+      "korean_translation": "두 개의 막대를 만들기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He also covered them",
+      "korean_translation": "그는 또한 그것들을 덮었습니다",
+      "word_indices": [
+        9,
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with gold",
+      "korean_translation": "금으로",
+      "word_indices": [
+        130
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Mark 14:29",
+  "version": "EASY",
+  "original_text": "Peter said to Jesus, ‘Even if everyone else runs away, I will not leave you.’",
+  "korean_text": "베드로가 여짜오되 다 버릴지라도 나는 그리하지 않겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter said to Jesus",
+      "korean_translation": "베드로가 예수께 말씀하였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Even if everyone else runs away",
+      "korean_translation": "다른 모든 사람들이 도망하더라도",
+      "word_indices": [
+        97
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will not leave you",
+      "korean_translation": "나는 당신을 떠나지 않겠습니다",
+      "word_indices": [
+        66
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 Chronicles 8:36",
+  "version": "EASY",
+  "original_text": "Ahaz became the father of Jehoaddah. Jehoaddah became the father of Alemeth, Azmaveth and Zimri. Zimri became the father of Moza.",
+  "korean_text": "아하스는 여호앗다를 낳고 여호앗다는 알레멧과 아스마?과 시므리를 낳고 시므리는 모사를 낳고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ahaz became the father of Jehoaddah.",
+      "korean_translation": "아사스는 여호앗다의 아버지가 되었다.",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jehoaddah became the father of Alemeth,",
+      "korean_translation": "여호앗다는 알레멧의 아버지가 되었고,",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Azmaveth and Zimri.",
+      "korean_translation": "아스마웻과 심리의 아버지가 되었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Zimri became the father of Moza.",
+      "korean_translation": "심리는 모사의 아버지가 되었다.",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

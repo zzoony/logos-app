@@ -1,0 +1,86 @@
+{
+  "verse_reference": "Luke 14:28",
+  "version": "EASY",
+  "original_text": "Here is an example. Perhaps one of you wants to build a tall building. Before you start to build, you will sit down. You will decide how much it will cost. Then you need to know if you have enough money to finish the work.",
+  "korean_text": "너희 중의 누가 망대를 세우고자 할진대 자기의 가진 것이 준공하기까지에 족할는지 먼저 앉아 그 비용을 계산하지 아니하겠느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Here is an example.",
+      "korean_translation": "여기 한 가지 예가 있습니다.",
+      "word_indices": [
+        677
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Perhaps one of you wants to build",
+      "korean_translation": "아마도 당신 중 한 사람이 짓고 싶어할지도 모릅니다.",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a tall building.",
+      "korean_translation": "높은 건물을.",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Before you start to build,",
+      "korean_translation": "짓기 시작하기 전에,",
+      "word_indices": [
+        99,
+        222
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will sit down.",
+      "korean_translation": "당신은 앉을 것입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You will decide",
+      "korean_translation": "당신은 결정할 것입니다.",
+      "word_indices": [
+        111
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "how much it will cost.",
+      "korean_translation": "얼마나 비용이 들지.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "Then you need to know",
+      "korean_translation": "그러면 당신은 알아야 합니다.",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "if you have enough money",
+      "korean_translation": "당신이 충분한 돈이 있는지",
+      "word_indices": [
+        142,
+        228
+      ]
+    },
+    {
+      "sequence_order": 10,
+      "original_text": "to finish the work.",
+      "korean_translation": "그 일을 마칠 수 있을지.",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

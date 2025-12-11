@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Matthew 22:25",
+  "version": "EASY",
+  "original_text": "Once, there were seven brothers who lived here. The oldest brother married a woman. Then he died before they had any children. So the second brother married the woman.",
+  "korean_text": "우리 중에 칠 형제가 있었는데 맏이가 장가 들었다가 죽어 상속자가 없으므로 그 아내를 그 동생에게 물려 주고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Once, there were seven brothers",
+      "korean_translation": "예전에 일곱 형제가 있었습니다",
+      "word_indices": [
+        135,
+        198
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who lived here",
+      "korean_translation": "그들은 여기에 살았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The oldest brother married a woman",
+      "korean_translation": "맏형이 한 여자와 결혼했습니다",
+      "word_indices": [
+        46,
+        135,
+        882
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then he died",
+      "korean_translation": "그리고 그가 죽었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "before they had any children",
+      "korean_translation": "그들이 아이를 갖기 전에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So the second brother married the woman",
+      "korean_translation": "그래서 둘째 형이 그 여자와 결혼했습니다",
+      "word_indices": [
+        46,
+        135
+      ]
+    }
+  ]
+}

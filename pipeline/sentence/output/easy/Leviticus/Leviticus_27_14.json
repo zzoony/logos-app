@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Leviticus 27:14",
+  "version": "EASY",
+  "original_text": "A person might give his house to the Lord. The priest will decide if the house is good or bad. The priest will decide the price of the house.",
+  "korean_text": "만일 어떤 사람이 자기 집을 성별하여 여호와께 드리려하면 제사장이 그 우열간에 값을 정할지니 그 값은 제사장이 정한 대로 될 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person might give his house to the Lord",
+      "korean_translation": "사람이 주님께 자기 집을 바칠 수 있다",
+      "word_indices": [
+        2,
+        4,
+        24,
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The priest will decide if the house is good or bad",
+      "korean_translation": "제사장이 집이 좋은지 나쁜지 판단할 것이다",
+      "word_indices": [
+        19,
+        32,
+        67,
+        111
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The priest will decide the price of the house",
+      "korean_translation": "제사장이 집의 가격을 결정할 것이다",
+      "word_indices": [
+        32,
+        67,
+        111,
+        714
+      ]
+    }
+  ]
+}

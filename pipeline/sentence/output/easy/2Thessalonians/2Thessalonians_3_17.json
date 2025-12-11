@@ -1,0 +1,54 @@
+{
+  "verse_reference": "2 Thessalonians 3:17",
+  "version": "EASY",
+  "original_text": "I, Paul, am writing these words at the end of my letter with my own hand. I say ‘hello’ to you. That is how I write in every letter that comes from me.",
+  "korean_text": "나 바울은 친필로 문안하노니 이는 편지마다 표시로서 이렇게 쓰노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I, Paul, am writing these words",
+      "korean_translation": "나, 바울은 이 말들을 쓰고 있습니다",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the end of my letter",
+      "korean_translation": "내 편지의 끝에서",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with my own hand",
+      "korean_translation": "내 손으로 직접",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I say 'hello' to you",
+      "korean_translation": "나는 당신에게 '안녕'이라고 말합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "That is how I write",
+      "korean_translation": "그것이 내가 쓰는 방식입니다",
+      "word_indices": [
+        124
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in every letter that comes from me",
+      "korean_translation": "나에게서 오는 모든 편지에서",
+      "word_indices": [
+        347
+      ]
+    }
+  ]
+}

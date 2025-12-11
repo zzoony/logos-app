@@ -1,0 +1,54 @@
+{
+  "verse_reference": "1 Samuel 25:21",
+  "version": "EASY",
+  "original_text": "David had just said to his men, ‘I kept Nabal's people and all his things safe in the desert. We did not take anything from him. But that has not helped us. I was kind to him, but he has done an evil thing to me in return.",
+  "korean_text": "다윗이 이미 말하기를 내가 이 자의 소유물을 광야에서 지켜 그 모든 것을 하나도 손실이 없게 한 것이 진실로 허사라 그가 악으로 나의 선을 갚는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David had just said to his men",
+      "korean_translation": "다윗이 자기 사람들에게 방금 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I kept Nabal's people and all his things safe",
+      "korean_translation": "나는 나발의 사람들과 그의 모든 것을 안전하게 지켰다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the desert",
+      "korean_translation": "광야에서",
+      "word_indices": [
+        235
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We did not take anything from him",
+      "korean_translation": "우리는 그에게서 아무것도 가져가지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But that has not helped us",
+      "korean_translation": "하지만 그것은 우리에게 도움이 되지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I was kind to him",
+      "korean_translation": "나는 그에게 친절했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "but he has done an evil thing to me in return",
+      "korean_translation": "하지만 그는 나에게 악한 일을 보답으로 행했다",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

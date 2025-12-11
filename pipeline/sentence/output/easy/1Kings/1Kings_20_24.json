@@ -1,0 +1,32 @@
+{
+  "verse_reference": "1 Kings 20:24",
+  "version": "EASY",
+  "original_text": "You should do this: Remove all the other kings. Put your own officers to lead the army instead.",
+  "korean_text": "또 왕은 이 일을 행하실지니 곧 왕들을 제하여 각각 그 곳에서 떠나게 하고 그들 대신에 총독들을 두시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You should do this:",
+      "korean_translation": "너는 이렇게 해야 한다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Remove all the other kings.",
+      "korean_translation": "다른 모든 왕들을 제거하라.",
+      "word_indices": [
+        3,
+        231
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Put your own officers to lead the army instead.",
+      "korean_translation": "대신에 너의 자신의 장교들을 군대를 이끌게 하라.",
+      "word_indices": [
+        98,
+        207
+      ]
+    }
+  ]
+}

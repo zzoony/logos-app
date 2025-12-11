@@ -1,0 +1,58 @@
+{
+  "verse_reference": "Zechariah 6:6",
+  "version": "EASY",
+  "original_text": "The chariot with the black horses goes towards the north country. The chariot with the white horses goes after them. The chariot with the grey horses goes towards the south country.’",
+  "korean_text": "검은 말은 북쪽 땅으로 나가고 흰 말은 그 뒤를 따르고 어룽진 말은 남쪽 땅으로 나가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The chariot with the black horses",
+      "korean_translation": "검은 말들이 끄는 전차는",
+      "word_indices": [
+        342,
+        835
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "goes towards the north country.",
+      "korean_translation": "북쪽 나라로 향한다.",
+      "word_indices": [
+        117,
+        259
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The chariot with the white horses",
+      "korean_translation": "흰 말들이 끄는 전차는",
+      "word_indices": [
+        342,
+        520
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "goes after them.",
+      "korean_translation": "그들을 뒤따른다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "The chariot with the grey horses",
+      "korean_translation": "회색 말들이 끄는 전차는",
+      "word_indices": [
+        342
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "goes towards the south country.",
+      "korean_translation": "남쪽 나라로 향한다.",
+      "word_indices": [
+        117,
+        285
+      ]
+    }
+  ]
+}

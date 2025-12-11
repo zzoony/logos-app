@@ -1,0 +1,52 @@
+{
+  "verse_reference": "2 Kings 6:21",
+  "version": "EASY",
+  "original_text": "When the king of Israel saw the Syrian army in his city, he asked Elisha, ‘My master, what should I do? Should I kill them?’",
+  "korean_text": "이스라엘 왕이 그들을 보고 엘리사에게 이르되 내 아버지여 내가 치리이까 내가 치리이까 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the king of Israel saw the Syrian army",
+      "korean_translation": "이스라엘 왕이 시리아 군대를 보았을 때",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in his city",
+      "korean_translation": "그의 도시에서",
+      "word_indices": [
+        20
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "he asked Elisha",
+      "korean_translation": "그는 엘리사에게 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "My master",
+      "korean_translation": "나의 주인이여",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what should I do?",
+      "korean_translation": "내가 무엇을 해야 합니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Should I kill them?",
+      "korean_translation": "내가 그들을 죽여야 합니까?",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

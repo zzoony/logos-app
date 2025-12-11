@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Daniel 4:22",
+  "version": "EASY",
+  "original_text": "You, the king, are like that tree. You have become great and strong. Your power reaches up to the sky. Your authority reaches to the ends of the world.",
+  "korean_text": "왕이여 이 나무는 곧 왕이시라 이는 왕이 자라서 견고하여지고 창대하사 하늘에 닿으시며 권세는 땅 끝까지 미치심이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You, the king, are like that tree.",
+      "korean_translation": "왕이시여, 당신은 저 나무와 같습니다.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have become great and strong.",
+      "korean_translation": "당신은 위대하고 강하게 되었습니다.",
+      "word_indices": [
+        40,
+        43
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your power reaches up to the sky.",
+      "korean_translation": "당신의 권세는 하늘까지 미칩니다.",
+      "word_indices": [
+        80,
+        449
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Your authority reaches to the ends of the world.",
+      "korean_translation": "당신의 권위는 세상 끝까지 미칩니다.",
+      "word_indices": [
+        110,
+        159,
+        449
+      ]
+    }
+  ]
+}

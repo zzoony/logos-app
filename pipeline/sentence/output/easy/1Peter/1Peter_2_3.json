@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Peter 2:3",
+  "version": "EASY",
+  "original_text": "Do this, because you have already begun to know how kind the Lord is to you.",
+  "korean_text": "너희가 주의 인자하심을 맛보았으면 그리하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do this",
+      "korean_translation": "이것을 하십시오",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because you have already begun",
+      "korean_translation": "당신이 이미 시작했기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to know how kind the Lord is",
+      "korean_translation": "주님께서 얼마나 친절하신지 알기 시작했습니다",
+      "word_indices": [
+        2,
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to you",
+      "korean_translation": "당신에게",
+      "word_indices": []
+    }
+  ]
+}

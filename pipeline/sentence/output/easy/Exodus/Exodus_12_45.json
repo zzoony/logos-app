@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Exodus 12:45",
+  "version": "EASY",
+  "original_text": "But if you pay him money for his work, he must not eat the food. A visitor also must not eat the food.",
+  "korean_text": "거류인과 타국 품꾼은 먹지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if you pay him money for his work",
+      "korean_translation": "하지만 당신이 그의 일에 돈을 지불한다면",
+      "word_indices": [
+        35,
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he must not eat the food",
+      "korean_translation": "그는 그 음식을 먹어서는 안 됩니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "A visitor also must not eat the food",
+      "korean_translation": "방문객 또한 그 음식을 먹어서는 안 됩니다",
+      "word_indices": [
+        9,
+        721
+      ]
+    }
+  ]
+}

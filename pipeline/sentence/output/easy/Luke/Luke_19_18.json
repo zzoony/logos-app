@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 19:18",
+  "version": "EASY",
+  "original_text": "The second servant came and said, “Master, your money has made five more pounds.”",
+  "korean_text": "그 둘째가 와서 이르되 주인이여 당신의 한 므나로 다섯 므나를 만들었나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The second servant came",
+      "korean_translation": "두 번째 종이 와서",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and said",
+      "korean_translation": "말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Master, your money has made five more pounds.",
+      "korean_translation": "주인님, 당신의 돈이 다섯 근을 더 벌어들였습니다.",
+      "word_indices": [
+        142,
+        176,
+        1270
+      ]
+    }
+  ]
+}

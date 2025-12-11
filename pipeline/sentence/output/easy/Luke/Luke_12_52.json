@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 12:52",
+  "version": "EASY",
+  "original_text": "From now on, because of me, five people in a family will be against each other. Two people will be against the other three. Three of them will be against the other two.",
+  "korean_text": "이후부터 한 집에 다섯 사람이 있어 분쟁하되 셋이 둘과, 둘이 셋과 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "From now on",
+      "korean_translation": "이제부터는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because of me",
+      "korean_translation": "나 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "five people in a family will be against each other",
+      "korean_translation": "한 가족의 다섯 사람이 서로 대적할 것입니다",
+      "word_indices": [
+        31,
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Two people will be against the other three",
+      "korean_translation": "두 사람은 다른 세 사람을 대적할 것입니다",
+      "word_indices": [
+        31,
+        166
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Three of them will be against the other two",
+      "korean_translation": "그들 중 세 사람은 다른 두 사람을 대적할 것입니다",
+      "word_indices": [
+        31,
+        166
+      ]
+    }
+  ]
+}

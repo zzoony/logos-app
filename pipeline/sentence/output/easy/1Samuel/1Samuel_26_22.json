@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Samuel 26:22",
+  "version": "EASY",
+  "original_text": "David said, ‘Here is your own spear. Send one of your young men here to fetch it for you.",
+  "korean_text": "다윗이 대답하여 이르되 왕은 창을 보소서 한 소년을 보내어 가져가게 하소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David said",
+      "korean_translation": "다윗이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Here is your own spear",
+      "korean_translation": "여기 당신의 창이 있습니다",
+      "word_indices": [
+        574
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Send one of your young men here",
+      "korean_translation": "당신의 젊은이 중 한 사람을 여기로 보내세요",
+      "word_indices": [
+        25,
+        108
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to fetch it for you",
+      "korean_translation": "당신을 위해 그것을 가져오게 하려고",
+      "word_indices": []
+    }
+  ]
+}

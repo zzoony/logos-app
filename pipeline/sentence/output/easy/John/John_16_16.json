@@ -1,0 +1,40 @@
+{
+  "verse_reference": "John 16:16",
+  "version": "EASY",
+  "original_text": "Jesus then said, ‘After a short time, you will not see me any more. But soon after that, you will see me again.’",
+  "korean_text": "조금 있으면 너희가 나를 보지 못하겠고 또 조금 있으면 나를 보리라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus then said",
+      "korean_translation": "예수께서 그때 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'After a short time",
+      "korean_translation": "'잠시 후에는",
+      "word_indices": [
+        528
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "you will not see me any more",
+      "korean_translation": "너희가 더 이상 나를 보지 못할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But soon after that",
+      "korean_translation": "하지만 그 직후에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you will see me again'",
+      "korean_translation": "너희가 다시 나를 볼 것이다'",
+      "word_indices": []
+    }
+  ]
+}

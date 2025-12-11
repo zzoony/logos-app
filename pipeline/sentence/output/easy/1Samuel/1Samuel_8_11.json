@@ -1,0 +1,55 @@
+{
+  "verse_reference": "1 Samuel 8:11",
+  "version": "EASY",
+  "original_text": "Samuel said to them, ‘This is how the king will rule over you: He will take your sons to be his soldiers. They will ride his horses and they will drive his chariots. They will have to run in front of his own chariot.",
+  "korean_text": "이르되 너희를 다스릴 왕의 제도는 이러하니라 그가 너희 아들들을 데려다가 그의 병거와 말을 어거하게 하리니 그들이 그 병거 앞에서 달릴 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Samuel said to them",
+      "korean_translation": "사무엘이 그들에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This is how the king will rule over you",
+      "korean_translation": "왕이 너희를 다스릴 방식이다",
+      "word_indices": [
+        3,
+        28
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He will take your sons to be his soldiers",
+      "korean_translation": "그는 너희 아들들을 데려가 자기 병사들로 삼을 것이다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They will ride his horses",
+      "korean_translation": "그들은 그의 말을 탈 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and they will drive his chariots",
+      "korean_translation": "그리고 그들은 그의 전차를 몰 것이다",
+      "word_indices": [
+        342,
+        926
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They will have to run in front of his own chariot",
+      "korean_translation": "그들은 자신의 전차 앞에서 달려야 할 것이다",
+      "word_indices": [
+        123,
+        342
+      ]
+    }
+  ]
+}

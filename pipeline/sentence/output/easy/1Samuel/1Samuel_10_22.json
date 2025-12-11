@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Samuel 10:22",
+  "version": "EASY",
+  "original_text": "So they asked the Lord, ‘Has Saul arrived here yet?’ The Lord said, ‘Yes, but he is hiding among the luggage.’",
+  "korean_text": "그러므로 그들이 또 여호와께 묻되 그 사람이 여기 왔나이까 여호와께서 대답하시되 그가 짐보따리들 사이에 숨었느니라 하셨더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So they asked the Lord",
+      "korean_translation": "그래서 그들이 주께 물었더라",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Has Saul arrived here yet?",
+      "korean_translation": "사울이 여기에 아직 도착했습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Lord said",
+      "korean_translation": "주께서 말씀하시되",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Yes, but he is hiding among the luggage",
+      "korean_translation": "그러나 그가 짐 가운데 숨어 있느니라",
+      "word_indices": [
+        112,
+        1113
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Samuel 17:15",
+  "version": "EASY",
+  "original_text": "David would sometimes leave Saul and go back home to Bethlehem. He did that to take care of his father's sheep.",
+  "korean_text": "다윗은 사울에게로 왕래하며 베들레헴에서 그의 아버지의 양을 칠 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David would sometimes leave Saul",
+      "korean_translation": "다윗은 때때로 사울을 떠나곤 했습니다",
+      "word_indices": [
+        66
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and go back home to Bethlehem",
+      "korean_translation": "그리고 베들레헴 집으로 돌아갔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He did that",
+      "korean_translation": "그는 그렇게 했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to take care of his father's sheep",
+      "korean_translation": "아버지의 양들을 돌보기 위해",
+      "word_indices": [
+        37,
+        125
+      ]
+    }
+  ]
+}

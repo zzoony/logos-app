@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 6:2",
+  "version": "EASY",
+  "original_text": "The temple that King Solomon built for the Lord was 27 metres long. It was 9 metres wide. It was 13.5 metres high.",
+  "korean_text": "솔로몬 왕이 여호와를 위하여 건축한 성전은 길이가 육십 규빗이요 너비가 이십 규빗이요 높이가 삼십 규빗이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The temple that King Solomon built for the Lord",
+      "korean_translation": "솔로몬 왕이 주님을 위해 건축한 성전은",
+      "word_indices": [
+        2,
+        3,
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was 27 metres long.",
+      "korean_translation": "길이가 27미터였습니다.",
+      "word_indices": [
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It was 9 metres wide.",
+      "korean_translation": "너비는 9미터였습니다.",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It was 13.5 metres high.",
+      "korean_translation": "높이는 13.5미터였습니다.",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

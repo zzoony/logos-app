@@ -1,0 +1,41 @@
+{
+  "verse_reference": "John 15:13",
+  "version": "EASY",
+  "original_text": "A person really loves his friends if he dies so that they can live. Nobody could love anyone more than that.",
+  "korean_text": "사람이 친구를 위하여 자기 목숨을 버리면 이보다 더 큰 사랑이 없나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person really loves his friends",
+      "korean_translation": "한 사람은 자기 친구들을 정말로 사랑한다",
+      "word_indices": [
+        24,
+        113,
+        146
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "if he dies",
+      "korean_translation": "만약 그가 죽는다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so that they can live",
+      "korean_translation": "그들이 살 수 있도록",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Nobody could love anyone more than that",
+      "korean_translation": "그보다 더 큰 사랑은 없다",
+      "word_indices": [
+        82,
+        109
+      ]
+    }
+  ]
+}

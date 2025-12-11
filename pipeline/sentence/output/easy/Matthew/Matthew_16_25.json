@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 16:25",
+  "version": "EASY",
+  "original_text": "Whoever wants to keep his life safe will lose it. But whoever gives his life to serve me will have true life.",
+  "korean_text": "누구든지 제 목숨을 구원하고자 하면 잃을 것이요 누구든지 나를 위하여 제 목숨을 잃으면 찾으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Whoever wants to keep his life safe",
+      "korean_translation": "자기 목숨을 안전하게 지키려는 사람은",
+      "word_indices": [
+        41,
+        101,
+        755
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will lose it",
+      "korean_translation": "그것을 잃을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But whoever gives his life to serve me",
+      "korean_translation": "하지만 나를 섬기기 위해 자기 목숨을 바치는 사람은",
+      "word_indices": [
+        4,
+        41,
+        95,
+        755
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will have true life",
+      "korean_translation": "참된 생명을 얻을 것입니다",
+      "word_indices": [
+        41,
+        69
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Genesis 9:28",
+  "version": "EASY",
+  "original_text": "Noah lived for 350 years after God covered the earth with deep water.",
+  "korean_text": "홍수 후에 노아가 삼백오십 년을 살았고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Noah lived for 350 years",
+      "korean_translation": "노아는 350년을 살았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "after God covered the earth",
+      "korean_translation": "하나님이 땅을 덮은 후에",
+      "word_indices": [
+        93,
+        238
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with deep water",
+      "korean_translation": "깊은 물로",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

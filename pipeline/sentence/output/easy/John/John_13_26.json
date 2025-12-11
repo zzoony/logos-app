@@ -1,0 +1,63 @@
+{
+  "verse_reference": "John 13:26",
+  "version": "EASY",
+  "original_text": "Jesus answered, ‘I will put a piece of bread in the dish of food. Then I will give the bread to him. That is the man.’ So he put a piece of bread in the dish. Then he gave it to Judas, the son of Simon Iscariot.",
+  "korean_text": "예수께서 대답하시되 내가 떡 한 조각을 적셔다 주는 자가 그니라 하시고 곧 한 조각을 적셔서 가룟 시몬의 아들 유다에게 주시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will put a piece of bread in the dish of food",
+      "korean_translation": "내가 음식 접시에 빵 조각을 넣겠다",
+      "word_indices": [
+        149,
+        229
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then I will give the bread to him",
+      "korean_translation": "그리고 내가 그 빵을 그에게 주겠다",
+      "word_indices": [
+        4,
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "That is the man",
+      "korean_translation": "그가 바로 그 사람이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "So he put a piece of bread in the dish",
+      "korean_translation": "그래서 그는 빵 조각을 접시에 넣었다",
+      "word_indices": [
+        149,
+        229
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Then he gave it to Judas",
+      "korean_translation": "그리고 그것을 가롯 유다에게 주었다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "the son of Simon Iscariot",
+      "korean_translation": "시몬 가롯 사람의 아들",
+      "word_indices": []
+    }
+  ]
+}

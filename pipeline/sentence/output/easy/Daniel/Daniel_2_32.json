@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Daniel 2:32",
+  "version": "EASY",
+  "original_text": "Its head was made from pure gold. The top of its body and its arms were made from silver. Its lower body was made from bronze.",
+  "korean_text": "그 우상의 머리는 순금이요 가슴과 두 팔은 은이요 배와 넓적다리는 놋이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Its head was made from pure gold.",
+      "korean_translation": "그 머리는 순금으로 만들어졌습니다.",
+      "word_indices": [
+        130
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The top of its body was made from silver.",
+      "korean_translation": "그 몸의 윗부분은 은으로 만들어졌습니다.",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Its arms were made from silver.",
+      "korean_translation": "그 팔들은 은으로 만들어졌습니다.",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Its lower body was made from bronze.",
+      "korean_translation": "그 몸의 아랫부분은 청동으로 만들어졌습니다.",
+      "word_indices": [
+        341,
+        927
+      ]
+    }
+  ]
+}

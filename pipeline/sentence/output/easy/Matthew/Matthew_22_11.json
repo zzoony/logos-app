@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 22:11",
+  "version": "EASY",
+  "original_text": "Then the king came into the room to see all the people. He saw one man who was not wearing the right clothes for a marriage.",
+  "korean_text": "임금이 손님들을 보러 들어올새 거기서 예복을 입지 않은 한 사람을 보고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the king came into the room",
+      "korean_translation": "그때 왕이 방으로 들어왔다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to see all the people",
+      "korean_translation": "모든 사람들을 보기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He saw one man",
+      "korean_translation": "그는 한 남자를 보았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who was not wearing the right clothes",
+      "korean_translation": "그는 적절한 옷을 입고 있지 않았다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "for a marriage",
+      "korean_translation": "결혼식에 입을",
+      "word_indices": [
+        871
+      ]
+    }
+  ]
+}

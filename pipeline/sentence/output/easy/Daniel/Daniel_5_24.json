@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Daniel 5:24",
+  "version": "EASY",
+  "original_text": "Because of that, God sent the hand that wrote this message.",
+  "korean_text": "이러므로 그의 앞에서 이 손가락이 나와서 이 글을 기록하였나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Because of that,",
+      "korean_translation": "그 때문에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God sent the hand",
+      "korean_translation": "하나님께서 손을 보내셨다",
+      "word_indices": [
+        132
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that wrote this message.",
+      "korean_translation": "이 메시지를 쓰던 손을.",
+      "word_indices": [
+        21
+      ]
+    }
+  ]
+}

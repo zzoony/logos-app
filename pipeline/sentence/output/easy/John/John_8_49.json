@@ -1,0 +1,51 @@
+{
+  "verse_reference": "John 8:49",
+  "version": "EASY",
+  "original_text": "Jesus replied, ‘There is no demon in me. I want people to know how great my Father is. But you want people to think bad things about me.",
+  "korean_text": "예수께서 대답하시되 나는 귀신 들린 것이 아니라 오직 내 아버지를 공경함이거늘 너희가 나를 무시하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus replied",
+      "korean_translation": "예수께서 대답하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "There is no demon in me",
+      "korean_translation": "내 안에는 귀신이 없다",
+      "word_indices": [
+        929
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I want people to know",
+      "korean_translation": "나는 사람들이 알기를 원한다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "how great my Father is",
+      "korean_translation": "내 아버지가 얼마나 위대하신지",
+      "word_indices": [
+        37,
+        40
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But you want people to think",
+      "korean_translation": "하지만 너희는 사람들이 생각하게 하려고 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "bad things about me",
+      "korean_translation": "나에 대해 나쁜 것들을",
+      "word_indices": []
+    }
+  ]
+}

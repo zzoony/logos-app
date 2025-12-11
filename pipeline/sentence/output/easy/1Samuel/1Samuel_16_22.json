@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Samuel 16:22",
+  "version": "EASY",
+  "original_text": "Then Saul sent a message to Jesse. He said, ‘I am very pleased with David. Let him stay here as my servant.’",
+  "korean_text": "또 사울이 이새에게 사람을 보내어 이르되 원하건대 다윗을 내 앞에 모셔 서게 하라 그가 내게 은총을 얻었느니라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Saul sent a message to Jesse.",
+      "korean_translation": "그때 사울은 이새에게 메시지를 보냈습니다.",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said,",
+      "korean_translation": "그가 말했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'I am very pleased with David.",
+      "korean_translation": "'나는 다윗을 매우 마음에 들어 합니다.'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Let him stay here as my servant.'",
+      "korean_translation": "'그를 나의 종으로 여기 머무르게 하십시오.'",
+      "word_indices": [
+        44
+      ]
+    }
+  ]
+}

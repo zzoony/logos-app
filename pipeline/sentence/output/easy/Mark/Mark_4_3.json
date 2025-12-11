@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Mark 4:3",
+  "version": "EASY",
+  "original_text": "‘Listen to me! A farmer went out to plant seeds in his field.",
+  "korean_text": "들으라 씨를 뿌리는 자가 뿌리러 나가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Listen to me!",
+      "korean_translation": "나를 들으세요!",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A farmer went out",
+      "korean_translation": "한 농부가 나갔습니다",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to plant seeds in his field.",
+      "korean_translation": "자기 밭에 씨를 뿌리러",
+      "word_indices": [
+        152,
+        199
+      ]
+    }
+  ]
+}

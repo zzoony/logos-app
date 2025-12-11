@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Matthew 13:3",
+  "version": "EASY",
+  "original_text": "Jesus used stories to teach them many things. He said to them: ‘Listen to me! A farmer went out to plant seeds in his field.",
+  "korean_text": "예수께서 비유로 여러 가지를 그들에게 말씀하여 이르시되 씨를 뿌리는 자가 뿌리러 나가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus used stories to teach them many things.",
+      "korean_translation": "예수님은 그들에게 많은 것을 가르치기 위해 이야기를 사용하셨습니다.",
+      "word_indices": [
+        87,
+        515
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said to them:",
+      "korean_translation": "그들에게 말씀하셨습니다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Listen to me!",
+      "korean_translation": "내 말을 들어라!",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "A farmer went out to plant seeds in his field.",
+      "korean_translation": "한 농부가 자기 밭에 씨를 뿌리러 나갔습니다.",
+      "word_indices": [
+        152,
+        199,
+        425
+      ]
+    }
+  ]
+}

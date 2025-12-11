@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Genesis 45:3",
+  "version": "EASY",
+  "original_text": "Joseph said to his brothers, ‘I am Joseph! Is my father still alive?’ But his brothers could not answer him because they were too frightened. They could see Joseph was there in front of them!",
+  "korean_text": "요셉이 그 형들에게 이르되 나는 요셉이라 내 아버지께서 아직 살아 계시니이까 형들이 그 앞에서 놀라서 대답하지 못하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph said to his brothers",
+      "korean_translation": "요셉이 그의 형제들에게 말했다",
+      "word_indices": [
+        135
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am Joseph!",
+      "korean_translation": "내가 요셉이다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Is my father still alive?",
+      "korean_translation": "내 아버지가 아직 살아 계신가?",
+      "word_indices": [
+        37,
+        151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But his brothers could not answer him",
+      "korean_translation": "그러나 그의 형제들은 그에게 대답할 수 없었다",
+      "word_indices": [
+        135,
+        160
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because they were too frightened",
+      "korean_translation": "그들이 너무 무서워했기 때문이다",
+      "word_indices": [
+        618
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They could see Joseph was there",
+      "korean_translation": "그들은 요셉이 거기에 있는 것을 볼 수 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Joseph was there in front of them!",
+      "korean_translation": "요셉이 그들 앞에 있었던 것이다!",
+      "word_indices": [
+        123
+      ]
+    }
+  ]
+}

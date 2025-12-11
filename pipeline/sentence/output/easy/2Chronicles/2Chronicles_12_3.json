@@ -1,0 +1,45 @@
+{
+  "verse_reference": "2 Chronicles 12:3",
+  "version": "EASY",
+  "original_text": "King Shishak's army had 1,200 chariots and 60,000 soldiers who rode on horses. Many other soldiers came with him from Egypt. They included men from Libya, Sukkoth and Ethiopia.",
+  "korean_text": "그에게 병거가 천이백 대요 마병이 육만 명이며 애굽에서 그와 함께 온 백성 곧 리비아와 숙과 구스 사람이 헤아릴 수 없이 많더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Shishak's army had 1,200 chariots",
+      "korean_translation": "시삭 왕의 군대는 1,200대의 전차를 가지고 있었다",
+      "word_indices": [
+        3,
+        342
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and 60,000 soldiers who rode on horses",
+      "korean_translation": "그리고 말을 타는 60,000명의 병사들이 있었다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Many other soldiers came with him from Egypt",
+      "korean_translation": "많은 다른 병사들이 이집트에서 그와 함께 왔다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They included men from Libya",
+      "korean_translation": "그들에게는 리비아 출신 사람들이 포함되었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Sukkoth and Ethiopia",
+      "korean_translation": "숙곳과 에티오피아에서도",
+      "word_indices": []
+    }
+  ]
+}

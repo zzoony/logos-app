@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Numbers 20:19",
+  "version": "EASY",
+  "original_text": "The Israelites replied, ‘We will stay on the main road. If our animals drink your water, we will pay for it. We only want to travel through your country. We do not want anything else.’",
+  "korean_text": "이스라엘 자손이 이르되 우리가 큰길로만 지나가겠고 우리나 우리 짐승이 당신의 물을 마시면 그 값을 낼 것이라 우리가 도보로 지나갈 뿐인즉 아무 일도 없으리이다 하나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Israelites replied",
+      "korean_translation": "이스라엘 사람들이 대답했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We will stay on the main road",
+      "korean_translation": "우리는 주요 도로를 따라 이동할 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If our animals drink your water",
+      "korean_translation": "만약 우리의 동물들이 당신의 물을 마신다면",
+      "word_indices": [
+        48,
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "we will pay for it",
+      "korean_translation": "우리는 그것에 대한 값을 지불할 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "We only want to travel through your country",
+      "korean_translation": "우리는 당신의 나라를 통과하여 여행하고 싶을 뿐입니다",
+      "word_indices": [
+        117,
+        192
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "We do not want anything else",
+      "korean_translation": "우리는 다른 것은 원하지 않습니다",
+      "word_indices": []
+    }
+  ]
+}

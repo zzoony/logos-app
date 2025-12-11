@@ -1,0 +1,51 @@
+{
+  "verse_reference": "Joshua 1:5",
+  "version": "EASY",
+  "original_text": "No one can stop you from taking this land as long as you live. As I was with Moses, I will always be with you. I will never leave you alone.",
+  "korean_text": "네 평생에 너를 능히 대적할 자가 없으리니 내가 모세와 함께 있었던 것 같이 너와 함께 있을 것임이니라 내가 너를 떠나지 아니하며 버리지 아니하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "No one can stop you",
+      "korean_translation": "아무도 너를 막을 수 없다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from taking this land",
+      "korean_translation": "이 땅을 차지하는 것을",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "as long as you live",
+      "korean_translation": "네가 사는 동안에는",
+      "word_indices": [
+        8,
+        134
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "As I was with Moses",
+      "korean_translation": "내가 모세와 함께했던 것처럼",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I will always be with you",
+      "korean_translation": "나는 항상 너와 함께 있을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I will never leave you alone",
+      "korean_translation": "나는 결코 너를 혼자 두지 않겠다",
+      "word_indices": [
+        66
+      ]
+    }
+  ]
+}

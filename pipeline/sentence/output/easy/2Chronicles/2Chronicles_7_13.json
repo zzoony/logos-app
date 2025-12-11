@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Chronicles 7:13",
+  "version": "EASY",
+  "original_text": "Sometimes I may stop the rain falling from the sky. I may send locusts to destroy your crops. Or I may send a bad disease to hurt my people.",
+  "korean_text": "혹 내가 하늘을 닫고 비를 내리지 아니하거나 혹 메뚜기들에게 토산을 먹게 하거나 혹 전염병이 내 백성 가운데에 유행하게 할 때에",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sometimes I may stop the rain falling from the sky.",
+      "korean_translation": "때로는 내가 하늘에서 내리는 비를 멈출 수도 있다.",
+      "word_indices": [
+        208,
+        327
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I may send locusts to destroy your crops.",
+      "korean_translation": "너희의 곡식을 파괴하기 위해 황충을 보낼 수도 있다.",
+      "word_indices": [
+        25,
+        39,
+        675
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Or I may send a bad disease to hurt my people.",
+      "korean_translation": "또는 내 백성을 해치기 위해 나쁜 질병을 보낼 수도 있다.",
+      "word_indices": [
+        25,
+        340
+      ]
+    }
+  ]
+}

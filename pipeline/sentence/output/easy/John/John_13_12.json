@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 13:12",
+  "version": "EASY",
+  "original_text": "When he had finished washing the disciples' feet, Jesus put on his coat. He returned to his place at the meal. He asked them, ‘I want you to understand what I have just done for you.",
+  "korean_text": "그들의 발을 씻으신 후에 옷을 입으시고 다시 앉아 그들에게 이르시되 내가 너희에게 행한 것을 너희가 아느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When he had finished washing the disciples' feet",
+      "korean_translation": "제자들의 발을 씻기 끝냈을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus put on his coat",
+      "korean_translation": "예수는 자신의 겉옷을 입었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He returned to his place at the meal",
+      "korean_translation": "그는 식사 자리로 돌아갔다",
+      "word_indices": [
+        16,
+        115
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He asked them",
+      "korean_translation": "그는 그들에게 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I want you to understand",
+      "korean_translation": "내가 너희에게 이해시키고 싶은 것은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "what I have just done for you",
+      "korean_translation": "내가 방금 너희를 위해 행한 것이다",
+      "word_indices": []
+    }
+  ]
+}

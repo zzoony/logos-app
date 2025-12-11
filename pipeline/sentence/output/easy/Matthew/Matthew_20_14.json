@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 20:14",
+  "version": "EASY",
+  "original_text": "Take your money and go home. I choose to give this last man the same amount of money as I gave to you.",
+  "korean_text": "네 것이나 가지고 가라 나중 온 이 사람에게 너와 같이 주는 것이 내 뜻이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Take your money and go home.",
+      "korean_translation": "네 돈을 가지고 집으로 가거라.",
+      "word_indices": [
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I choose to give this last man",
+      "korean_translation": "나는 이 마지막 사람에게 주기로 선택했다.",
+      "word_indices": [
+        4,
+        51,
+        571
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the same amount of money",
+      "korean_translation": "동일한 액수의 돈을",
+      "word_indices": [
+        74,
+        142,
+        831
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "as I gave to you.",
+      "korean_translation": "내가 너에게 준 만큼.",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

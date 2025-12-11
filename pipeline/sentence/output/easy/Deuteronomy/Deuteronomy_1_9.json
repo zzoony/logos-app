@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Deuteronomy 1:9",
+  "version": "EASY",
+  "original_text": "At that time I, Moses, said this to you: ‘I cannot lead you and help you by myself. It is too difficult for me to do alone.",
+  "korean_text": "그 때에 내가 너희에게 말하여 이르기를 나는 홀로 너희의 짐을 질 수 없도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At that time I, Moses, said this to you",
+      "korean_translation": "그때 나 모세가 너희에게 이렇게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I cannot lead you and help you by myself",
+      "korean_translation": "나 혼자서는 너희를 인도하고 도울 수 없다",
+      "word_indices": [
+        114,
+        207
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is too difficult for me to do alone",
+      "korean_translation": "그것은 나 혼자 하기에는 너무 어렵다",
+      "word_indices": [
+        440
+      ]
+    }
+  ]
+}

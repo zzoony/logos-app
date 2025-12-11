@@ -1,0 +1,29 @@
+{
+  "verse_reference": "Luke 11:3",
+  "version": "EASY",
+  "original_text": "Please give to us the food that we need each day.",
+  "korean_text": "우리에게 날마다 일용할 양식을 주시옵고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Please give to us",
+      "korean_translation": "우리에게 주세요",
+      "word_indices": [
+        4,
+        76
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the food that we need",
+      "korean_translation": "우리에게 필요한 음식을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "each day",
+      "korean_translation": "매일",
+      "word_indices": []
+    }
+  ]
+}

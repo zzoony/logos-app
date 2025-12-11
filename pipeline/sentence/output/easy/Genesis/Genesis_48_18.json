@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 48:18",
+  "version": "EASY",
+  "original_text": "Joseph said to Jacob, ‘No, my father. This boy is the firstborn son. Put your right hand on his head.’",
+  "korean_text": "그의 아버지에게 이르되 아버지여 그리 마옵소서 이는 장자이니 오른손을 그의 머리에 얹으소서 하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph said to Jacob",
+      "korean_translation": "요셉이 야곱에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "No, my father",
+      "korean_translation": "아니요, 아버지",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This boy is the firstborn son",
+      "korean_translation": "이 아이가 장남입니다",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Put your right hand on his head",
+      "korean_translation": "그의 머리에 오른손을 얹으세요",
+      "word_indices": [
+        38,
+        132
+      ]
+    }
+  ]
+}

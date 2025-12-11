@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 27:58",
+  "version": "EASY",
+  "original_text": "Joseph asked Pilate for the dead body of Jesus. Pilate told his soldiers to give Jesus' body to Joseph.",
+  "korean_text": "빌라도에게 가서 예수의 시체를 달라 하니 이에 빌라도가 내주라 명령하거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph asked Pilate",
+      "korean_translation": "요셉이 빌라도에게 요청했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the dead body of Jesus",
+      "korean_translation": "죽은 예수의 시체를",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Pilate told his soldiers",
+      "korean_translation": "빌라도가 자기 군사들에게 명령했습니다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to give Jesus' body to Joseph",
+      "korean_translation": "예수의 시체를 요셉에게 주라고",
+      "word_indices": [
+        4
+      ]
+    }
+  ]
+}

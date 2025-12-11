@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Genesis 9:20",
+  "version": "EASY",
+  "original_text": "Noah was a farmer. He was the first person to plant vines.",
+  "korean_text": "노아가 농사를 시작하여 포도나무를 심었더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Noah was a farmer",
+      "korean_translation": "노아는 농부였습니다",
+      "word_indices": [
+        425
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He was the first person",
+      "korean_translation": "그는 첫 번째 사람이었습니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to plant vines",
+      "korean_translation": "포도나무를 심은",
+      "word_indices": [
+        199
+      ]
+    }
+  ]
+}

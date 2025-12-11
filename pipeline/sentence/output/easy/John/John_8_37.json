@@ -1,0 +1,42 @@
+{
+  "verse_reference": "John 8:37",
+  "version": "EASY",
+  "original_text": "I know that you belong to Abraham's family. But you are looking for a way to kill me. That is because you have no place in yourselves for my words.",
+  "korean_text": "나도 너희가 아브라함의 자손인 줄 아노라 그러나 내 말이 너희 안에 있을 곳이 없으므로 나를 죽이려 하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that you belong to Abraham's family.",
+      "korean_translation": "나는 너희가 아브라함의 자손임을 안다.",
+      "word_indices": [
+        12,
+        45,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But you are looking for a way to kill me.",
+      "korean_translation": "하지만 너희는 나를 죽일 방법을 찾고 있다.",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That is because you have no place in yourselves",
+      "korean_translation": "그것은 너희 마음속에 자리가 없기 때문이다.",
+      "word_indices": [
+        16
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for my words.",
+      "korean_translation": "나의 말을 위한 자리가 없는 것이다.",
+      "word_indices": [
+        128
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Exodus 33:17",
+  "version": "EASY",
+  "original_text": "The Lord said to Moses, ‘I will certainly do what you have asked for. This is because I am pleased with you. I know you by your name.’",
+  "korean_text": "여호와께서 모세에게 이르시되 네가 말하는 이 일도 내가 하리니 너는 내 목전에 은총을 입었고 내가 이름으로도 너를 앎이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Moses",
+      "korean_translation": "주께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will certainly do what you have asked for",
+      "korean_translation": "내가 네가 요청한 것을 반드시 행하리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This is because I am pleased with you",
+      "korean_translation": "이는 내가 너를 기쁘게 여기기 때문이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I know you by your name",
+      "korean_translation": "내가 너를 이름으로 아노라",
+      "word_indices": [
+        12,
+        90
+      ]
+    }
+  ]
+}

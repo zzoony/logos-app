@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Genesis 29:26",
+  "version": "EASY",
+  "original_text": "Laban replied, ‘In our land, we do not give the younger daughter to a man first. We let the older daughter marry first.",
+  "korean_text": "라반이 이르되 언니보다 아우를 먼저 주는 것은 우리 지방에서 하지 아니하는 바이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Laban replied",
+      "korean_translation": "라반이 대답하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "In our land",
+      "korean_translation": "우리 땅에서는",
+      "word_indices": [
+        14
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "we do not give the younger daughter to a man first",
+      "korean_translation": "우리가 먼저 작은 딸을 남자에게 주지 않습니다",
+      "word_indices": [
+        4,
+        173,
+        752
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We let the older daughter marry first",
+      "korean_translation": "우리는 큰 딸이 먼저 결혼하게 합니다",
+      "word_indices": [
+        173,
+        209
+      ]
+    }
+  ]
+}

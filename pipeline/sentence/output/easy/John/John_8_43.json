@@ -1,0 +1,44 @@
+{
+  "verse_reference": "John 8:43",
+  "version": "EASY",
+  "original_text": "Why do you not understand what I say? It is because you cannot really accept my message.",
+  "korean_text": "어찌하여 내 말을 깨닫지 못하느냐 이는 내 말을 들을 줄 알지 못함이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Why do you not understand",
+      "korean_translation": "왜 당신은 이해하지 못합니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what I say?",
+      "korean_translation": "내가 하는 말을?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It is because",
+      "korean_translation": "그것은 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you cannot really accept",
+      "korean_translation": "당신은 진정으로 받아들일 수 없습니다",
+      "word_indices": [
+        114,
+        143,
+        146
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "my message.",
+      "korean_translation": "나의 메시지를.",
+      "word_indices": [
+        21
+      ]
+    }
+  ]
+}

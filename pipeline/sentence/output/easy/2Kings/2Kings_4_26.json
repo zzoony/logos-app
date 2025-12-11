@@ -1,0 +1,54 @@
+{
+  "verse_reference": "2 Kings 4:26",
+  "version": "EASY",
+  "original_text": "Run to meet her. Ask her, “Are you well? Is your husband well? Is your son well?” ’ The woman replied, ‘All is well.’",
+  "korean_text": "너는 달려가서 그를 맞아 이르기를 너는 평안하냐 네 남편이 평안하냐 아이가 평안하냐 하라 하였더니 여인이 대답하되 평안하다 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Run to meet her.",
+      "korean_translation": "그녀를 만나러 달려가라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Ask her,",
+      "korean_translation": "그녀에게 물어보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "“Are you well?",
+      "korean_translation": "당신은 잘 지내십니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Is your husband well?",
+      "korean_translation": "당신의 남편은 잘 지내십니까?",
+      "word_indices": [
+        282
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Is your son well?”",
+      "korean_translation": "당신의 아들은 잘 지냅니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The woman replied,",
+      "korean_translation": "그 여자가 대답하였다,",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "“All is well.”",
+      "korean_translation": "모든 것이 잘 되었습니다.",
+      "word_indices": []
+    }
+  ]
+}

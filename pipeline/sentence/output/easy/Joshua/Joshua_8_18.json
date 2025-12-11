@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Joshua 8:18",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Joshua, ‘Hold out the spear that is in your hand. Point it towards Ai. I am now giving the city to you.’",
+  "korean_text": "여호와께서 여호수아에게 이르시되 네 손에 잡은 단창을 들어 아이를 가리키라 내가 이 성읍을 네 손에 넘겨 주리라 여호수아가 그의 손에 잡은 단창을 들어 그 성읍을 가리키니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Joshua",
+      "korean_translation": "그때 주께서 여호수아에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Hold out the spear that is in your hand",
+      "korean_translation": "네 손에 있는 창을 뻗어라",
+      "word_indices": [
+        132,
+        574
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Point it towards Ai",
+      "korean_translation": "그것을 아이성을 향해 가리켜라",
+      "word_indices": [
+        806
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am now giving the city to you",
+      "korean_translation": "내가 이제 그 성을 너에게 주고 있다",
+      "word_indices": [
+        4,
+        20
+      ]
+    }
+  ]
+}

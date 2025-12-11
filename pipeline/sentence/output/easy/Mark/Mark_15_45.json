@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Mark 15:45",
+  "version": "EASY",
+  "original_text": "The captain told Pilate that Jesus was already dead. So then Pilate let Joseph go and take Jesus' dead body.",
+  "korean_text": "백부장에게 알아 본 후에 요셉에게 시체를 내주는지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The captain told Pilate",
+      "korean_translation": "대위가 빌라도에게 알렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that Jesus was already dead",
+      "korean_translation": "예수께서 이미 죽었다는 것을",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So then Pilate let Joseph go",
+      "korean_translation": "그래서 빌라도는 요셉이 가도록 허락했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and take Jesus' dead body",
+      "korean_translation": "그리고 예수의 시체를 가져가도록 했다",
+      "word_indices": [
+        133
+      ]
+    }
+  ]
+}

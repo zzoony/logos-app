@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Exodus 23:22",
+  "version": "EASY",
+  "original_text": "So be careful to obey him. Do everything that I tell you. Then I will be the enemy of your enemies. I will fight against anyone who fights against you.",
+  "korean_text": "네가 그의 목소리를 잘 청종하고 내 모든 말대로 행하면 내가 네 원수에게 원수가 되고 네 대적에게 대적이 될지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So be careful to obey him.",
+      "korean_translation": "그러므로 그에게 순종하기를 조심하라.",
+      "word_indices": [
+        309
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Do everything that I tell you.",
+      "korean_translation": "내가 너에게 말하는 모든 것을 행하라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then I will be the enemy of your enemies.",
+      "korean_translation": "그리하면 내가 네 원수들의 원수가 되리라.",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I will fight against anyone who fights against you.",
+      "korean_translation": "너를 대적하는 자를 내가 대적하리라.",
+      "word_indices": [
+        31,
+        109
+      ]
+    }
+  ]
+}

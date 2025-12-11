@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Luke 1:18",
+  "version": "EASY",
+  "original_text": "Zechariah asked the angel, ‘How can I be sure about this? You know that I am an old man. My wife is also old.’",
+  "korean_text": "사가랴가 천사에게 이르되 내가 이것을 어떻게 알리요 내가 늙고 아내도 나이가 많으니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Zechariah asked the angel",
+      "korean_translation": "스가랴가 천사에게 물었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "How can I be sure about this?",
+      "korean_translation": "내가 이것을 어떻게 확신할 수 있습니까?",
+      "word_indices": [
+        359
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You know that I am an old man",
+      "korean_translation": "내가 늙은 사람이라는 것을 당신도 압니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "My wife is also old",
+      "korean_translation": "내 아내도 또한 늙었습니다",
+      "word_indices": [
+        9
+      ]
+    }
+  ]
+}

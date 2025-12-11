@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Genesis 7:1",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Noah, ‘Go into the ship. Take your wife and family with you. I can see that you alone do what is right, among all the people on the earth.",
+  "korean_text": "여호와께서 노아에게 이르시되 너와 네 온 집은 방주로 들어가라 이 세대에서 네가 내 앞에 의로움을 내가 보았음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Noah",
+      "korean_translation": "그때 주께서 노아에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go into the ship",
+      "korean_translation": "배에 들어가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Take your wife and family with you",
+      "korean_translation": "네 아내와 가족과 함께 데려가라",
+      "word_indices": [
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I can see that you alone do what is right",
+      "korean_translation": "네가 혼자 옳은 일을 하는 것을 내가 본다",
+      "word_indices": [
+        38
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "among all the people on the earth",
+      "korean_translation": "땅의 모든 사람들 중에서",
+      "word_indices": [
+        93,
+        112
+      ]
+    }
+  ]
+}

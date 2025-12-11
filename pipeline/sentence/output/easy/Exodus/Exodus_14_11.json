@@ -1,0 +1,57 @@
+{
+  "verse_reference": "Exodus 14:11",
+  "version": "EASY",
+  "original_text": "They said to Moses, ‘Why have you brought us here, to die in the desert? Surely there were enough places in Egypt to bury dead people! You should never have brought us out of Egypt!",
+  "korean_text": "그들이 또 모세에게 이르되 애굽에 매장지가 없어서 당신이 우리를 이끌어 내어 이 광야에서 죽게 하느냐 어찌하여 당신이 우리를 애굽에서 이끌어 내어 우리에게 이같이 하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They said to Moses",
+      "korean_translation": "그들이 모세에게 말하기를",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why have you brought us here",
+      "korean_translation": "어째서 당신은 우리를 이곳으로 데려왔습니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to die in the desert",
+      "korean_translation": "광야에서 죽게 하려는 것입니까",
+      "word_indices": [
+        235
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Surely there were enough places",
+      "korean_translation": "분명히 충분한 장소들이 있었을 것입니다",
+      "word_indices": [
+        228,
+        307
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in Egypt to bury dead people",
+      "korean_translation": "애굽에는 죽은 사람들을 묻기에",
+      "word_indices": [
+        133
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "You should never have brought us out",
+      "korean_translation": "당신은 우리를 이끌어 내지 말았어야 했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "of Egypt",
+      "korean_translation": "애굽에서",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Kings 9:14",
+  "version": "EASY",
+  "original_text": "Hiram had sent to King Solomon about 4,000 kilograms of gold.",
+  "korean_text": "히람이 금 일백이십 달란트를 왕에게 보내었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Hiram had sent",
+      "korean_translation": "히람이 보냈었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to King Solomon",
+      "korean_translation": "솔로몬 왕에게",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "about 4,000 kilograms of gold",
+      "korean_translation": "약 4,000킬로그램의 금을",
+      "word_indices": [
+        130,
+        476
+      ]
+    }
+  ]
+}

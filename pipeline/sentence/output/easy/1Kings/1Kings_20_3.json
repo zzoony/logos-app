@@ -1,0 +1,50 @@
+{
+  "verse_reference": "1 Kings 20:3",
+  "version": "EASY",
+  "original_text": "The message said: ‘This message is from King Ben-Hadad. He says, “Your silver and your gold now belong to me. Your best wives and your strongest children will also be mine.” ’",
+  "korean_text": "네 은금은 내 것이요 네 아내들과 네 자녀들의 아름다운 자도 내 것이니라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The message said:",
+      "korean_translation": "메시지는 말했다:",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'This message is from King Ben-Hadad.",
+      "korean_translation": "'이 메시지는 벤하닷 왕으로부터 왔다.",
+      "word_indices": [
+        3,
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He says,",
+      "korean_translation": "그가 말한다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "\"Your silver and your gold now belong to me.",
+      "korean_translation": "\"너의 은과 금은 이제 나의 것이다.",
+      "word_indices": [
+        45,
+        130,
+        195
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Your best wives and your strongest children will also be mine.\"",
+      "korean_translation": "너의 가장 좋은 아내들과 가장 강한 자식들도 나의 것이 될 것이다.\"'",
+      "word_indices": [
+        9,
+        969
+      ]
+    }
+  ]
+}

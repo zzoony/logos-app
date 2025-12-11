@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Kings 11:22",
+  "version": "EASY",
+  "original_text": "Pharaoh asked him, ‘Why do you want to return to your own country? Is there anything that you do not have here?’ Hadad replied, ‘There is nothing wrong, but please let me go.’",
+  "korean_text": "바로가 그에게 이르되 네가 나와 함께 있어 무슨 부족함이 있기에 네 고국으로 가기를 구하느냐 대답하되 없나이다 그러나 아무쪼록 나를 보내옵소서 하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Pharaoh asked him",
+      "korean_translation": "바로가 그에게 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Why do you want to return to your own country?",
+      "korean_translation": "당신은 왜 당신의 나라로 돌아가려고 합니까?",
+      "word_indices": [
+        115,
+        117
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Is there anything that you do not have here?",
+      "korean_translation": "여기에 당신이 가지지 않은 것이 있습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Hadad replied",
+      "korean_translation": "하닷이 대답했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "There is nothing wrong",
+      "korean_translation": "잘못된 것은 없습니다",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "but please let me go",
+      "korean_translation": "하지만 제가 가도록 해주세요",
+      "word_indices": [
+        76
+      ]
+    }
+  ]
+}

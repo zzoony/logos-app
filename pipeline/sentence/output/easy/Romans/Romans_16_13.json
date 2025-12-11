@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Romans 16:13",
+  "version": "EASY",
+  "original_text": "Say ‘hello’ to Rufus. He is a special servant of the Lord. Say ‘hello’ also to his mother, who has been kind to me, like a mother.",
+  "korean_text": "주 안에서 택하심을 입은 루포와 그의 어머니에게 문안하라 그의 어머니는 곧 내 어머니니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Say 'hello' to Rufus",
+      "korean_translation": "루푸스에게 안부를 전해라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He is a special servant of the Lord",
+      "korean_translation": "그는 주님의 특별한 종이다",
+      "word_indices": [
+        2,
+        44,
+        68
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Say 'hello' also to his mother",
+      "korean_translation": "그의 어머니에게도 안부를 전해라",
+      "word_indices": [
+        9,
+        202
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who has been kind to me",
+      "korean_translation": "그녀는 나에게 친절했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "like a mother",
+      "korean_translation": "어머니처럼",
+      "word_indices": [
+        202
+      ]
+    }
+  ]
+}

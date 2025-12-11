@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 6:5",
+  "version": "EASY",
+  "original_text": "Jesus looked up. He saw a large crowd of people who were coming towards him. He said to Philip, ‘Where can we buy enough bread to feed all these people?’",
+  "korean_text": "예수께서 눈을 들어 큰 무리가 자기에게로 오는 것을 보시고 빌립에게 이르시되 우리가 어디서 떡을 사서 이 사람들을 먹이겠느냐 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus looked up",
+      "korean_translation": "예수님은 고개를 들어 보셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He saw a large crowd of people",
+      "korean_translation": "그분은 많은 무리의 사람들을 보셨다",
+      "word_indices": [
+        265,
+        316
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who were coming towards him",
+      "korean_translation": "그들이 자기에게 오고 있었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He said to Philip",
+      "korean_translation": "그분은 빌립에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Where can we buy enough bread",
+      "korean_translation": "우리가 어디서 충분한 빵을 살 수 있겠는가",
+      "word_indices": [
+        228,
+        229
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to feed all these people",
+      "korean_translation": "이 모든 사람들을 먹이기 위하여",
+      "word_indices": []
+    }
+  ]
+}

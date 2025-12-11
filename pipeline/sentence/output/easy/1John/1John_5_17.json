@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 John 5:17",
+  "version": "EASY",
+  "original_text": "Any wrong thing that a person does is sin. But not all sins cause death.",
+  "korean_text": "모든 불의가 죄로되 사망에 이르지 아니하는 죄도 있도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Any wrong thing that a person does",
+      "korean_translation": "사람이 하는 어떤 잘못된 일은",
+      "word_indices": [
+        24,
+        71
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is sin",
+      "korean_translation": "죄입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But not all sins",
+      "korean_translation": "하지만 모든 죄가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "cause death",
+      "korean_translation": "죽음을 초래하지는 않습니다",
+      "word_indices": [
+        30,
+        153
+      ]
+    }
+  ]
+}

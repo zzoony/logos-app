@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 12:23",
+  "version": "EASY",
+  "original_text": "Your life is more important than the food that you eat. Your body is more important than your clothes.",
+  "korean_text": "목숨이 음식보다 중하고 몸이 의복보다 중하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Your life is more important",
+      "korean_translation": "당신의 생명은 더 중요합니다",
+      "word_indices": [
+        41,
+        138
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than the food that you eat",
+      "korean_translation": "당신이 먹는 음식보다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Your body is more important",
+      "korean_translation": "당신의 몸은 더 중요합니다",
+      "word_indices": [
+        138
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "than your clothes",
+      "korean_translation": "당신의 옷보다",
+      "word_indices": []
+    }
+  ]
+}

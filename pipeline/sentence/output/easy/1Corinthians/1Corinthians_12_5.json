@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Corinthians 12:5",
+  "version": "EASY",
+  "original_text": "We serve the Lord in different ways, but all of us serve the same Lord.",
+  "korean_text": "직분은 여러 가지나 주는 같으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We serve the Lord",
+      "korean_translation": "우리는 주를 섬깁니다",
+      "word_indices": [
+        2,
+        95
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in different ways",
+      "korean_translation": "다양한 방식으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but all of us serve",
+      "korean_translation": "하지만 우리 모두는 섬깁니다",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the same Lord",
+      "korean_translation": "같은 주를",
+      "word_indices": [
+        2,
+        74
+      ]
+    }
+  ]
+}

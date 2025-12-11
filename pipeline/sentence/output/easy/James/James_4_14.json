@@ -1,0 +1,44 @@
+{
+  "verse_reference": "James 4:14",
+  "version": "EASY",
+  "original_text": "You do not know what will happen tomorrow. Your life is like a cloud which appears for a short time and then it quickly goes away.",
+  "korean_text": "내일 일을 너희가 알지 못하는도다 너희 생명이 무엇이냐 너희는 잠깐 보이다가 없어지는 안개니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You do not know what will happen tomorrow",
+      "korean_translation": "너는 내일 무슨 일이 일어날지 알지 못한다",
+      "word_indices": [
+        12,
+        22,
+        628
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Your life is like a cloud",
+      "korean_translation": "네 인생은 구름과 같다",
+      "word_indices": [
+        41,
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "which appears for a short time",
+      "korean_translation": "잠시 동안 나타나다가",
+      "word_indices": [
+        386,
+        528
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and then it quickly goes away",
+      "korean_translation": "그리고는 금방 사라진다",
+      "word_indices": [
+        248
+      ]
+    }
+  ]
+}

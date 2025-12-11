@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 26:12",
+  "version": "EASY",
+  "original_text": "The curtains for the tent will be longer than the curtains for the tabernacle. The extra half of the curtain for the tent will hang at the back of the tabernacle.",
+  "korean_text": "그 막 곧 휘장의 그 나머지 반 폭은 성막 뒤에 늘어뜨리고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The curtains for the tent will be longer",
+      "korean_translation": "장막을 위한 휘장들은 더 길 것입니다",
+      "word_indices": [
+        171,
+        377
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "than the curtains for the tabernacle",
+      "korean_translation": "성막을 위한 휘장들보다",
+      "word_indices": [
+        377,
+        485
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The extra half of the curtain for the tent",
+      "korean_translation": "장막을 위한 휘장의 남는 반쪽은",
+      "word_indices": [
+        377,
+        434,
+        850
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will hang at the back of the tabernacle",
+      "korean_translation": "성막 뒤쪽에 걸릴 것입니다",
+      "word_indices": [
+        485
+      ]
+    }
+  ]
+}

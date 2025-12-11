@@ -1,0 +1,37 @@
+{
+  "verse_reference": "1 Kings 16:4",
+  "version": "EASY",
+  "original_text": "If people of your family die in the city, dogs will eat their bodies. If they die in the country, vultures will eat them.’",
+  "korean_text": "바아사에게 속한 자가 성읍에서 죽은즉 개가 먹고 그에게 속한 자가 들에서 죽은즉 공중의 새가 먹으리라 하셨더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If people of your family die in the city",
+      "korean_translation": "네 가족 사람들이 성에서 죽으면",
+      "word_indices": [
+        20,
+        56
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "dogs will eat their bodies",
+      "korean_translation": "개들이 그들의 시체를 먹을 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If they die in the country",
+      "korean_translation": "그들이 시골에서 죽으면",
+      "word_indices": [
+        117
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "vultures will eat them",
+      "korean_translation": "독수리들이 그들을 먹을 것이다",
+      "word_indices": []
+    }
+  ]
+}

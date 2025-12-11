@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Joshua 10:33",
+  "version": "EASY",
+  "original_text": "Then Horam, king of Gezer, came to help the people of Lachish. But Joshua's army fought against him and his army. He killed them all, with nobody left alive.",
+  "korean_text": "그 때에 게셀 왕 호람이 라기스를 도우려고 올라오므로 여호수아가 그와 그의 백성을 쳐서 한 사람도 남기지 아니하였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Horam, king of Gezer",
+      "korean_translation": "그때 게셀 왕인 호람이",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "came to help the people of Lachish",
+      "korean_translation": "라기스 백성을 돕기 위해 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But Joshua's army",
+      "korean_translation": "하지만 여호수아의 군대가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "fought against him and his army",
+      "korean_translation": "그와 그의 군대와 싸웠다",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He killed them all",
+      "korean_translation": "그는 그들을 모두 죽였다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "with nobody left alive",
+      "korean_translation": "살아남은 사람은 아무도 없었다",
+      "word_indices": [
+        151
+      ]
+    }
+  ]
+}

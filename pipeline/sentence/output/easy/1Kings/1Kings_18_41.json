@@ -1,0 +1,44 @@
+{
+  "verse_reference": "1 Kings 18:41",
+  "version": "EASY",
+  "original_text": "Then Elijah said to Ahab, ‘Go now and have some food to eat. Go quickly, because there is the sound of heavy rain that is coming.’",
+  "korean_text": "엘리야가 아합에게 이르되 올라가서 먹고 마시소서 큰 비 소리가 있나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Elijah said to Ahab",
+      "korean_translation": "그때 엘리야가 아합에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go now and have some food to eat",
+      "korean_translation": "이제 가서 음식을 먹으라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Go quickly",
+      "korean_translation": "빨리 가라",
+      "word_indices": [
+        248
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because there is the sound of heavy rain",
+      "korean_translation": "왜냐하면 큰 비가 오는 소리가 들리기 때문이다",
+      "word_indices": [
+        327,
+        447,
+        535
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that is coming",
+      "korean_translation": "오고 있는",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 18:45",
+  "version": "EASY",
+  "original_text": "As Elijah said this, the sky became very dark with black clouds. The wind started to blow and there was a heavy storm of rain.",
+  "korean_text": "조금 후에 구름과 바람이 일어나서 하늘이 캄캄해지며 큰 비가 내리는지라 아합이 마차를 타고 이스르엘로 가니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "As Elijah said this",
+      "korean_translation": "엘리야가 이렇게 말하자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the sky became very dark with black clouds",
+      "korean_translation": "하늘이 검은 구름으로 매우 어두워졌다",
+      "word_indices": [
+        337,
+        835
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The wind started to blow",
+      "korean_translation": "바람이 불기 시작했다",
+      "word_indices": [
+        222,
+        303
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and there was a heavy storm of rain",
+      "korean_translation": "그리고 폭우가 내렸다",
+      "word_indices": [
+        327,
+        483,
+        535
+      ]
+    }
+  ]
+}

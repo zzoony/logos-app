@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 14:11",
+  "version": "EASY",
+  "original_text": "The soldier did this. Then he brought the head on a plate and he gave it to the girl. The girl took it and gave it to her mother.",
+  "korean_text": "그 머리를 소반에 얹어서 그 소녀에게 주니 그가 자기 어머니에게로 가져가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The soldier did this.",
+      "korean_translation": "군인이 이렇게 했습니다.",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then he brought the head on a plate",
+      "korean_translation": "그는 접시에 머리를 담아 가져왔습니다.",
+      "word_indices": [
+        687
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he gave it to the girl.",
+      "korean_translation": "그리고 그것을 소녀에게 주었습니다.",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The girl took it",
+      "korean_translation": "소녀는 그것을 받았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and gave it to her mother.",
+      "korean_translation": "그리고 그것을 자기 어머니에게 주었습니다.",
+      "word_indices": [
+        4,
+        202
+      ]
+    }
+  ]
+}

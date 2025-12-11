@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Daniel 5:30",
+  "version": "EASY",
+  "original_text": "That same night, Belshazzar, the king of the Babylonians, died. His enemies killed him.",
+  "korean_text": "그 날 밤에 갈대아 왕 벨사살이 죽임을 당하였고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That same night",
+      "korean_translation": "그날 밤에",
+      "word_indices": [
+        74,
+        211
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Belshazzar, the king of the Babylonians, died",
+      "korean_translation": "바빌로니아 왕 벨사살이 죽었다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "His enemies killed him",
+      "korean_translation": "그의 적들이 그를 죽였다",
+      "word_indices": [
+        26,
+        50
+      ]
+    }
+  ]
+}

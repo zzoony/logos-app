@@ -1,0 +1,57 @@
+{
+  "verse_reference": "1 Samuel 15:24",
+  "version": "EASY",
+  "original_text": "Then Saul said to Samuel, ‘It is true, I have done a bad thing. I did not obey the Lord's command. I did not do what you told me to do. I was afraid of the army. I agreed to do what they wanted.",
+  "korean_text": "사울이 사무엘에게 이르되 내가 범죄하였나이다 내가 여호와의 명령과 당신의 말씀을 어긴 것은 내가 백성을 두려워하여 그들의 말을 청종하였음이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Saul said to Samuel",
+      "korean_translation": "그때 사울이 사무엘에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is true",
+      "korean_translation": "그것은 사실입니다",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have done a bad thing",
+      "korean_translation": "나는 나쁜 일을 했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I did not obey the Lord's command",
+      "korean_translation": "나는 주님의 명령에 순종하지 않았습니다",
+      "word_indices": [
+        2,
+        127
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I did not do what you told me to do",
+      "korean_translation": "나는 당신이 하라고 한 것을 하지 않았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I was afraid of the army",
+      "korean_translation": "나는 군대를 두려워했습니다",
+      "word_indices": [
+        96
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I agreed to do what they wanted",
+      "korean_translation": "나는 그들이 원하는 것을 하기로 동의했습니다",
+      "word_indices": []
+    }
+  ]
+}

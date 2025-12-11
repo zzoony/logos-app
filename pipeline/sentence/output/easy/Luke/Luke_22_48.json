@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 22:48",
+  "version": "EASY",
+  "original_text": "Jesus said to him, ‘Judas, why do you want to kiss me, the Son of Man? You are helping my enemies to take hold of me!’",
+  "korean_text": "예수께 입을 맞추려고 가까이 하는지라 예수께서 이르시되 유다야 네가 입맞춤으로 인자를 파느냐 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수님께서 그에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Judas, why do you want to kiss me",
+      "korean_translation": "유다야, 너는 왜 나에게 입맞추려 하느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Son of Man",
+      "korean_translation": "인자",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You are helping my enemies",
+      "korean_translation": "너는 나의 원수들을 돕고 있다",
+      "word_indices": [
+        50
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to take hold of me",
+      "korean_translation": "나를 붙잡게 하려고",
+      "word_indices": []
+    }
+  ]
+}

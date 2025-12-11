@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 2:1",
+  "version": "EASY",
+  "original_text": "At this time, there was an Israelite man who belonged to the family of Levi. He married a woman who was also a descendant of Levi.",
+  "korean_text": "레위 가족 중 한 사람이 가서 레위 여자에게 장가 들어",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "At this time",
+      "korean_translation": "이 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was an Israelite man",
+      "korean_translation": "이스라엘 사람 한 사람이 있었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who belonged to the family of Levi",
+      "korean_translation": "그는 레위 가문에 속한 사람이었고",
+      "word_indices": [
+        45,
+        56
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He married a woman",
+      "korean_translation": "그는 한 여자와 결혼했는데",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who was also a descendant of Levi",
+      "korean_translation": "그 여자 역시 레위의 후손이었다",
+      "word_indices": [
+        9,
+        75
+      ]
+    }
+  ]
+}

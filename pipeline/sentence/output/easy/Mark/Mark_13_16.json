@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Mark 13:16",
+  "version": "EASY",
+  "original_text": "A person who is outside in his field must not go back to his home. He must not return even to fetch his coat.",
+  "korean_text": "밭에 있는 자는 겉옷을 가지러 뒤로 돌이키지 말지어다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A person who is outside in his field",
+      "korean_translation": "들에 있는 사람은",
+      "word_indices": [
+        24,
+        152,
+        315
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "must not go back to his home",
+      "korean_translation": "집으로 돌아가지 말아야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He must not return even to fetch his coat",
+      "korean_translation": "겉옷을 가지러 오더라도 돌아오지 말아야 한다",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

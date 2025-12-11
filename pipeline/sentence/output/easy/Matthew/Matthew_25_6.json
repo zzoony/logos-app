@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Matthew 25:6",
+  "version": "EASY",
+  "original_text": "In the middle of the night, someone shouted out, “The man is coming! Come out to meet him!”",
+  "korean_text": "밤중에 소리가 나되 보라 신랑이로다 맞으러 나오라 하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In the middle of the night",
+      "korean_translation": "한밤중에",
+      "word_indices": [
+        211,
+        419
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "someone shouted out",
+      "korean_translation": "누군가 외쳤다",
+      "word_indices": [
+        94,
+        174
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The man is coming!",
+      "korean_translation": "신랑이 오신다!",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Come out to meet him!",
+      "korean_translation": "나가서 그를 맞이하라!",
+      "word_indices": []
+    }
+  ]
+}

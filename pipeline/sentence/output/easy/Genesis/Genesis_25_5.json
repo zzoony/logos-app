@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 25:5",
+  "version": "EASY",
+  "original_text": "When Abraham died, he left everything that belonged to him to Isaac.",
+  "korean_text": "아브라함이 이삭에게 자기의 모든 소유를 주었고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Abraham died",
+      "korean_translation": "아브라함이 죽었을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "he left everything",
+      "korean_translation": "그는 모든 것을 남겼다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that belonged to him",
+      "korean_translation": "그에게 속했던 것들을",
+      "word_indices": [
+        45
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to Isaac",
+      "korean_translation": "이삭에게",
+      "word_indices": []
+    }
+  ]
+}

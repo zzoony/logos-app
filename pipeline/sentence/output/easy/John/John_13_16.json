@@ -1,0 +1,35 @@
+{
+  "verse_reference": "John 13:16",
+  "version": "EASY",
+  "original_text": "I tell you this: No servant is more important than his master is. No messenger is more important than the person who sent him with a message.",
+  "korean_text": "내가 진실로 진실로 너희에게 이르노니 종이 주인보다 크지 못하고 보냄을 받은 자가 보낸 자보다 크지 못하나니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I tell you this:",
+      "korean_translation": "내가 너희에게 이것을 말하노라:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "No servant is more important than his master is.",
+      "korean_translation": "종이 주인보다 더 중요하지 않다.",
+      "word_indices": [
+        44,
+        138,
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "No messenger is more important than the person who sent him with a message.",
+      "korean_translation": "보내심을 받은 사람이 보낸 사람보다 더 중요하지 않다.",
+      "word_indices": [
+        21,
+        24,
+        138,
+        1316
+      ]
+    }
+  ]
+}

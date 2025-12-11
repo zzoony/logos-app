@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Ezekiel 21:2",
+  "version": "EASY",
+  "original_text": "‘Son of man, look towards Jerusalem. Speak about the things in my holy place that are wrong. Speak my message to warn the people of Israel.",
+  "korean_text": "인자야 너는 얼굴을 예루살렘으로 향하며 성소를 향하여 소리내어 이스라엘 땅에게 예언하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Son of man",
+      "korean_translation": "인자야",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "look towards Jerusalem",
+      "korean_translation": "예루살렘을 향하여 보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Speak about the things in my holy place",
+      "korean_translation": "내 성소 안의 일들에 대하여 말하라",
+      "word_indices": [
+        16,
+        18,
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that are wrong",
+      "korean_translation": "그릇된 것들",
+      "word_indices": [
+        71
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Speak my message",
+      "korean_translation": "나의 메시지를 전하라",
+      "word_indices": [
+        18,
+        21
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to warn the people of Israel",
+      "korean_translation": "이스라엘 백성들을 경고하기 위하여",
+      "word_indices": []
+    }
+  ]
+}

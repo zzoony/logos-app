@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Acts 9:23",
+  "version": "EASY",
+  "original_text": "After many days, the Jews met together. They decided that they would kill Saul.",
+  "korean_text": "여러 날이 지나매 유대인들이 사울 죽이기를 공모하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After many days,",
+      "korean_translation": "여러 날이 지나고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the Jews met together.",
+      "korean_translation": "유대인들이 함께 모였습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They decided",
+      "korean_translation": "그들은 결정했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that they would kill Saul.",
+      "korean_translation": "사울을 죽이기로.",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

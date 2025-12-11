@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Isaiah 1:3",
+  "version": "EASY",
+  "original_text": "An ox knows its master. A donkey knows the place where its master feeds it. But Israel's people do not know me. My people do not understand me.’",
+  "korean_text": "소는 그 임자를 알고 나귀는 그 주인의 구유를 알건마는 이스라엘은 알지 못하고 나의 백성은 깨닫지 못하는도다 하셨도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "An ox knows its master",
+      "korean_translation": "소는 주인을 안다",
+      "word_indices": [
+        12,
+        176
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A donkey knows the place",
+      "korean_translation": "나귀는 그 장소를 안다",
+      "word_indices": [
+        12,
+        16,
+        310
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "where its master feeds it",
+      "korean_translation": "주인이 자신에게 먹이를 주는 곳을",
+      "word_indices": [
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But Israel's people do not know me",
+      "korean_translation": "하지만 이스라엘 백성은 나를 알지 못한다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "My people do not understand me",
+      "korean_translation": "내 백성은 나를 이해하지 못한다",
+      "word_indices": []
+    }
+  ]
+}

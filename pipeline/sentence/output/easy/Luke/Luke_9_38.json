@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Luke 9:38",
+  "version": "EASY",
+  "original_text": "A man from the crowd shouted to him. ‘Teacher, please, I ask you to help my son. He is my only child.",
+  "korean_text": "무리 중의 한 사람이 소리 질러 이르되 선생님 청컨대 내 아들을 돌보아 주옵소서 이는 내 외아들이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man from the crowd",
+      "korean_translation": "무리 중 한 사람이",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "shouted to him",
+      "korean_translation": "그에게 소리쳤다",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Teacher, please",
+      "korean_translation": "선생님, 제발",
+      "word_indices": [
+        76,
+        280
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I ask you to help my son",
+      "korean_translation": "제 아들을 도와달라고 부탁드립니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He is my only child",
+      "korean_translation": "그는 저의 외아들입니다",
+      "word_indices": [
+        65
+      ]
+    }
+  ]
+}

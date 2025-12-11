@@ -1,0 +1,68 @@
+{
+  "verse_reference": "Genesis 1:22",
+  "version": "EASY",
+  "original_text": "God blessed the animals and the birds. He said to them, ‘Give birth to many young ones, so that you grow in number. Fill all the water in the seas. The birds also should become very many, all across the earth.’",
+  "korean_text": "하나님이 그들에게 복을 주시며 이르시되 생육하고 번성하여 여러 바닷물에 충만하라 새들도 땅에 번성하라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God blessed the animals and the birds",
+      "korean_translation": "하나님은 동물들과 새들을 축복하셨습니다",
+      "word_indices": [
+        48,
+        181,
+        344
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said to them",
+      "korean_translation": "그분께서 그들에게 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Give birth to many young ones",
+      "korean_translation": "많은 새끼들을 낳으라",
+      "word_indices": [
+        4,
+        108,
+        249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that you grow in number",
+      "korean_translation": "그리하여 너희 수가 번성하게 하라",
+      "word_indices": [
+        156,
+        489
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Fill all the water in the seas",
+      "korean_translation": "바다의 모든 물을 채우라",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "The birds also should become very many",
+      "korean_translation": "새들도 매우 많아져야 한다",
+      "word_indices": [
+        9,
+        344
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "all across the earth",
+      "korean_translation": "온 땅에 두루",
+      "word_indices": [
+        93
+      ]
+    }
+  ]
+}

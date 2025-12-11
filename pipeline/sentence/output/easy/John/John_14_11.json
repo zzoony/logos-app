@@ -1,0 +1,62 @@
+{
+  "verse_reference": "John 14:11",
+  "version": "EASY",
+  "original_text": "I am in the Father and the Father is in me. Believe me when I say that. You have seen the things that I have done. So, if you do not believe my words, believe because of my work.",
+  "korean_text": "내가 아버지 안에 거하고 아버지께서 내 안에 계심을 믿으라 그렇지 못하겠거든 행하는 그 일로 말미암아 나를 믿으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am in the Father",
+      "korean_translation": "나는 아버지 안에 있고",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and the Father is in me",
+      "korean_translation": "아버지는 내 안에 계십니다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Believe me when I say that",
+      "korean_translation": "내가 하는 말을 믿으십시오",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You have seen the things",
+      "korean_translation": "당신은 그 일들을 보았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that I have done",
+      "korean_translation": "내가 행한 것들을",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So, if you do not believe my words",
+      "korean_translation": "그러니, 만약 당신이 내 말을 믿지 않는다면",
+      "word_indices": [
+        88,
+        128
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "believe because of my work",
+      "korean_translation": "내가 한 일 때문에 믿으십시오",
+      "word_indices": [
+        35,
+        88
+      ]
+    }
+  ]
+}

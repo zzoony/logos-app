@@ -1,0 +1,57 @@
+{
+  "verse_reference": "John 1:42",
+  "version": "EASY",
+  "original_text": "Then he brought Simon to Jesus. Jesus looked at Simon and he said, ‘You are Simon, John's son. Your name will be Cephas.’ This name is the same as Peter, which means ‘rock’.",
+  "korean_text": "데리고 예수께로 오니 예수께서 보시고 이르시되 네가 요한의 아들 시몬이니 장차 게바라 하리라 하시니라 (게바는 번역하면 베드로라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then he brought Simon to Jesus",
+      "korean_translation": "그는 시몬을 예수님께 데려왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus looked at Simon",
+      "korean_translation": "예수님은 시몬을 보셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he said",
+      "korean_translation": "그리고 그분이 말씀하셨습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You are Simon, John's son",
+      "korean_translation": "너는 요한의 아들 시몬이구나",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Your name will be Cephas",
+      "korean_translation": "네 이름은 게바라 불릴 것이다",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "This name is the same as Peter",
+      "korean_translation": "이 이름은 베드로와 같습니다",
+      "word_indices": [
+        74,
+        90
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "which means 'rock'",
+      "korean_translation": "그것은 '반석'을 의미합니다",
+      "word_indices": [
+        279
+      ]
+    }
+  ]
+}

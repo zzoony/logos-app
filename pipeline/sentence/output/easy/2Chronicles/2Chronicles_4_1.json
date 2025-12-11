@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Chronicles 4:1",
+  "version": "EASY",
+  "original_text": "Solomon's workers made a bronze altar. It was 9 metres long, 9 metres wide and 4 metres high.",
+  "korean_text": "솔로몬이 또 놋으로 제단을 만들었으니 길이가 이십 규빗이요 너비가 이십 규빗이요 높이가 십 규빗이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Solomon's workers made a bronze altar.",
+      "korean_translation": "솔로몬의 일꾼들이 놋 제단을 만들었습니다.",
+      "word_indices": [
+        119,
+        341,
+        362
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It was 9 metres long,",
+      "korean_translation": "그것은 길이가 9미터였고,",
+      "word_indices": [
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "9 metres wide",
+      "korean_translation": "너비가 9미터였으며",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and 4 metres high.",
+      "korean_translation": "높이가 4미터였습니다.",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

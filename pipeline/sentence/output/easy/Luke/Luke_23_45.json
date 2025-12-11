@@ -1,0 +1,27 @@
+{
+  "verse_reference": "Luke 23:45",
+  "version": "EASY",
+  "original_text": "The sun did not give any light. Then the curtain inside the temple tore into two parts.",
+  "korean_text": "성소의 휘장이 한가운데가 찢어지더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun did not give any light",
+      "korean_translation": "해는 빛을 주지 않았다",
+      "word_indices": [
+        4,
+        225
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then the curtain inside the temple tore into two parts",
+      "korean_translation": "그 후 성전 안의 휘장이 두 조각으로 찢어졌다",
+      "word_indices": [
+        49,
+        252,
+        377
+      ]
+    }
+  ]
+}

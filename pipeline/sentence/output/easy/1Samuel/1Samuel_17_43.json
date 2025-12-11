@@ -1,0 +1,51 @@
+{
+  "verse_reference": "1 Samuel 17:43",
+  "version": "EASY",
+  "original_text": "He said to David, ‘Do you think that I am just a dog? Can you knock me down with a little stick?’ Then he prayed to his gods that they would curse David.",
+  "korean_text": "블레셋 사람이 다윗에게 이르되 네가 나를 개로 여기고 막대기를 가지고 내게 나아왔느냐 하고 그의 신들의 이름으로 다윗을 저주하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to David",
+      "korean_translation": "그가 다윗에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Do you think that I am just a dog?'",
+      "korean_translation": "'네가 내가 그저 개라고 생각하느냐?'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Can you knock me down",
+      "korean_translation": "네가 나를 쓰러뜨릴 수 있느냐",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with a little stick?'",
+      "korean_translation": "작은 막대기로?'",
+      "word_indices": [
+        356,
+        401
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then he prayed to his gods",
+      "korean_translation": "그러자 그는 그의 신들에게 기도했다",
+      "word_indices": [
+        81
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that they would curse David.",
+      "korean_translation": "그들이 다윗을 저주하기를.",
+      "word_indices": [
+        373
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Mark 15:23",
+  "version": "EASY",
+  "original_text": "They tried to give Jesus some wine to drink. They had mixed some medicine called myrrh into the wine. But Jesus would not drink it.",
+  "korean_text": "몰약을 탄 포도주를 주었으나 예수께서 받지 아니하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They tried to give Jesus some wine to drink",
+      "korean_translation": "그들은 예수에게 마실 포도주를 주려고 했습니다",
+      "word_indices": [
+        4,
+        118,
+        219
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They had mixed some medicine called myrrh",
+      "korean_translation": "그들은 몰약이라는 약을 섞었습니다",
+      "word_indices": [
+        47,
+        883,
+        939
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "into the wine",
+      "korean_translation": "포도주에",
+      "word_indices": [
+        219
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But Jesus would not drink it",
+      "korean_translation": "하지만 예수는 마시려 하지 않았습니다",
+      "word_indices": [
+        118
+      ]
+    }
+  ]
+}

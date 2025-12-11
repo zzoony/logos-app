@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Job 32:18",
+  "version": "EASY",
+  "original_text": "There are many things that I want to say. The spirit inside me causes me to speak. There are many things that I want to say.",
+  "korean_text": "내 속에는 말이 가득하니 내 영이 나를 압박함이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There are many things that I want to say",
+      "korean_translation": "내가 말하고 싶은 것이 많다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The spirit inside me causes me to speak",
+      "korean_translation": "내 안에 있는 영이 나로 말하게 한다",
+      "word_indices": [
+        18,
+        92,
+        252
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There are many things that I want to say",
+      "korean_translation": "내가 말하고 싶은 것이 많다",
+      "word_indices": []
+    }
+  ]
+}

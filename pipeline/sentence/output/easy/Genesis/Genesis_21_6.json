@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 21:6",
+  "version": "EASY",
+  "original_text": "Sarah said, ‘Now God has made me laugh. Everyone who hears about what has happened will be happy with me.’",
+  "korean_text": "사라가 이르되 하나님이 나를 웃게 하시니 듣는 자가 다 나와 함께 웃으리로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Sarah said",
+      "korean_translation": "사라가 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Now God has made me laugh",
+      "korean_translation": "이제 하나님이 나를 웃게 하셨다",
+      "word_indices": [
+        405
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Everyone who hears about what has happened",
+      "korean_translation": "일어난 일을 듣는 모든 사람은",
+      "word_indices": [
+        22,
+        42,
+        97
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will be happy with me",
+      "korean_translation": "나와 함께 기뻐할 것이다",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

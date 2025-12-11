@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Luke 7:45",
+  "version": "EASY",
+  "original_text": "You did not say “Hello” to me with a kiss. But this woman began to kiss my feet when she came in. And she has not stopped.",
+  "korean_text": "너는 내게 입맞추지 아니하였으되 그는 내가 들어올 때로부터 내 발에 입맞추기를 그치지 아니하였으며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You did not say \"Hello\" to me with a kiss.",
+      "korean_translation": "당신은 나에게 입맞춤으로 인사하지 않았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But this woman began to kiss my feet",
+      "korean_translation": "하지만 이 여자는 내 발에 입맞춤을 시작했습니다.",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when she came in.",
+      "korean_translation": "그녀가 들어왔을 때.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And she has not stopped.",
+      "korean_translation": "그리고 그녀는 멈추지 않았습니다.",
+      "word_indices": []
+    }
+  ]
+}

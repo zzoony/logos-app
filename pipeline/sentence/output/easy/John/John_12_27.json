@@ -1,0 +1,52 @@
+{
+  "verse_reference": "John 12:27",
+  "version": "EASY",
+  "original_text": "Now I have trouble in my mind. What will I say? I might say, “Father, save me from this time of trouble!” But this difficult time is the purpose for which I came to the world.",
+  "korean_text": "지금 내 마음이 괴로우니 무슨 말을 하리요 아버지여 나를 구원하여 이 때를 면하게 하여 주옵소서 그러나 내가 이를 위하여 이 때에 왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now I have trouble in my mind.",
+      "korean_translation": "지금 내 마음에 근심이 있다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "What will I say?",
+      "korean_translation": "내가 무엇을 말해야 할까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I might say,",
+      "korean_translation": "내가 말할지도 모른다,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Father, save me from this time of trouble!",
+      "korean_translation": "아버지, 이 고난의 때에서 나를 구원해 주세요!",
+      "word_indices": [
+        37,
+        147
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But this difficult time",
+      "korean_translation": "하지만 이 어려운 시간은",
+      "word_indices": [
+        440
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "is the purpose for which I came to the world.",
+      "korean_translation": "내가 세상에 온 목적이다.",
+      "word_indices": [
+        159,
+        538
+      ]
+    }
+  ]
+}

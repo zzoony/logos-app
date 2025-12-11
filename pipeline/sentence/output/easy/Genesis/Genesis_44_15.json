@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Genesis 44:15",
+  "version": "EASY",
+  "original_text": "Joseph said, ‘Why have you done this bad thing? You should have known about an important man like me. I can use magic to find out what people do.’",
+  "korean_text": "요셉이 그들에게 이르되 너희가 어찌하여 이런 일을 행하였느냐 나 같은 사람이 점을 잘 치는 줄을 너희는 알지 못하였느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Joseph said",
+      "korean_translation": "요셉이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'Why have you done this bad thing?'",
+      "korean_translation": "어째서 이런 나쁜 일을 했느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You should have known",
+      "korean_translation": "너희는 알았어야 했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "about an important man like me",
+      "korean_translation": "나 같은 중요한 사람에 대해",
+      "word_indices": [
+        138
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I can use magic",
+      "korean_translation": "나는 마술을 사용할 수 있다",
+      "word_indices": [
+        691
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to find out what people do",
+      "korean_translation": "사람들이 무엇을 하는지 알아내기 위해",
+      "word_indices": [
+        131
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "John 17:26",
+  "version": "EASY",
+  "original_text": "I have shown them what you are like. And I will continue to show them what you are like. Then they will love other people, in the same way that you love me. And I myself will be in them.’",
+  "korean_text": "내가 아버지의 이름을 그들에게 알게 하였고 또 알게 하리니 이는 나를 사랑하신 사랑이 그들 안에 있고 나도 그들 안에 있게 하려 함이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I have shown them what you are like",
+      "korean_translation": "나는 당신이 어떤 분인지 그들에게 보여주었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "And I will continue to show them what you are like",
+      "korean_translation": "그리고 나는 계속해서 당신이 어떤 분인지 그들에게 보여줄 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then they will love other people",
+      "korean_translation": "그러면 그들은 다른 사람들을 사랑할 것입니다",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the same way that you love me",
+      "korean_translation": "당신이 나를 사랑하는 것과 같은 방식으로",
+      "word_indices": [
+        74,
+        82
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And I myself will be in them",
+      "korean_translation": "그리고 나 자신은 그들 안에 있을 것입니다",
+      "word_indices": []
+    }
+  ]
+}

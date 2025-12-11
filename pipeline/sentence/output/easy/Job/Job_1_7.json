@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Job 1:7",
+  "version": "EASY",
+  "original_text": "The Lord said to Satan, ‘Where have you come from?’ Satan replied, ‘I have been travelling all over the earth. I have been watching the things that happen there.’",
+  "korean_text": "여호와께서 사탄에게 이르시되 네가 어디서 왔느냐 사탄이 여호와께 대답하여 이르되 땅을 두루 돌아 여기저기 다녀왔나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord said to Satan",
+      "korean_translation": "주께서 사단에게 말씀하셨다",
+      "word_indices": [
+        2,
+        545
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Where have you come from?",
+      "korean_translation": "네가 어디서 왔느냐?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Satan replied",
+      "korean_translation": "사단이 대답했다",
+      "word_indices": [
+        545
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I have been travelling all over the earth",
+      "korean_translation": "나는 온 땅을 두루 다녔다",
+      "word_indices": [
+        93
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I have been watching the things that happen there",
+      "korean_translation": "그곳에서 일어나는 일들을 보고 있었다",
+      "word_indices": [
+        22,
+        273
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 11:1",
+  "version": "EASY",
+  "original_text": "There was a certain man, who was called Lazarus. He lived at Bethany, the village where Mary and her sister Martha lived too. He became ill.",
+  "korean_text": "어떤 병자가 있으니 이는 마리아와 그 자매 마르다의 마을 베다니에 사는 나사로라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There was a certain man",
+      "korean_translation": "어떤 사람이 있었습니다",
+      "word_indices": [
+        637
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who was called Lazarus",
+      "korean_translation": "그는 나사로라고 불렸습니다",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He lived at Bethany",
+      "korean_translation": "그는 베다니에 살았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the village where Mary and her sister Martha lived too",
+      "korean_translation": "마리아와 그녀의 자매 마르다도 살던 마을이었습니다",
+      "word_indices": [
+        374,
+        438
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He became ill",
+      "korean_translation": "그는 아팠습니다",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "verse_reference": "Matthew 9:27",
+  "version": "EASY",
+  "original_text": "Jesus left the house. While he walked along, two blind men began to follow him. They were shouting out to him, ‘ Son of David! Please be kind to us and help us!’",
+  "korean_text": "예수께서 거기에서 떠나가실새 두 맹인이 따라오며 소리 질러 이르되 다윗의 자손이여 우리를 불쌍히 여기소서 하더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus left the house.",
+      "korean_translation": "예수님은 집을 나오셨습니다.",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "While he walked along,",
+      "korean_translation": "그가 길을 걸어갈 때,",
+      "word_indices": [
+        204
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "two blind men began to follow him.",
+      "korean_translation": "두 맹인이 그를 따르기 시작했습니다.",
+      "word_indices": [
+        388,
+        505
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They were shouting out to him,",
+      "korean_translation": "그들은 그에게 소리치며 있었습니다,",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "'Son of David!'",
+      "korean_translation": "'다윗의 자손이시여!'",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Please be kind to us",
+      "korean_translation": "우리에게 자비를 베풀어 주시고",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "and help us!'",
+      "korean_translation": "우리를 도와주세요!'",
+      "word_indices": []
+    }
+  ]
+}

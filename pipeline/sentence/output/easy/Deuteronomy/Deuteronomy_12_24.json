@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Deuteronomy 12:24",
+  "version": "EASY",
+  "original_text": "You must not eat the blood. You must pour it on the ground like water.",
+  "korean_text": "너는 그것을 먹지 말고 물 같이 땅에 쏟으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not eat the blood.",
+      "korean_translation": "너는 피를 먹지 말아야 한다.",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must pour it on the ground",
+      "korean_translation": "너는 그것을 땅에 부어야 한다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "like water.",
+      "korean_translation": "물처럼.",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

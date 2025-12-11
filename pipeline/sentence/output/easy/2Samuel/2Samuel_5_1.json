@@ -1,0 +1,30 @@
+{
+  "verse_reference": "2 Samuel 5:1",
+  "version": "EASY",
+  "original_text": "All Israel's tribes came to David at Hebron. They said, ‘We all belong to the same family as you do.",
+  "korean_text": "이스라엘 모든 지파가 헤브론에 이르러 다윗에게 나아와 이르되 보소서 우리는 왕의 한 골육이니이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All Israel's tribes came to David at Hebron",
+      "korean_translation": "이스라엘 모든 지파가 헤브론에 있는 다윗에게 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They said",
+      "korean_translation": "그들이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We all belong to the same family as you do",
+      "korean_translation": "우리는 모두 당신과 같은 가족에 속해 있습니다",
+      "word_indices": [
+        45,
+        56,
+        74
+      ]
+    }
+  ]
+}

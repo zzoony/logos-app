@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 9:4",
+  "version": "EASY",
+  "original_text": "In each town, continue to stay at the first house that you go into. Stay there until you leave that town.",
+  "korean_text": "어느 집에 들어가든지 거기서 머물다가 거기서 떠나라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In each town,",
+      "korean_translation": "각 마을에서는,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "continue to stay",
+      "korean_translation": "계속 머무르라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "at the first house that you go into.",
+      "korean_translation": "너희가 들어가는 첫 번째 집에.",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Stay there",
+      "korean_translation": "그곳에 머무르라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "until you leave that town.",
+      "korean_translation": "그 마을을 떠날 때까지.",
+      "word_indices": [
+        66
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Exodus 12:7",
+  "version": "EASY",
+  "original_text": "They must take some of its blood. They must put the blood on the wood that is round the door of their house. They must put it on each side of the door and above the door. They must do this in every house where they will eat a lamb.",
+  "korean_text": "그 피를 양을 먹을 집 좌우 문설주와 인방에 바르고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They must take some of its blood.",
+      "korean_translation": "그들은 그 피를 약간 가져야 한다.",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They must put the blood on the wood",
+      "korean_translation": "그들은 그 피를 나무 위에 두어야 한다.",
+      "word_indices": [
+        221,
+        239
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is round the door of their house.",
+      "korean_translation": "그것은 그들의 집 문 주위에 있다.",
+      "word_indices": [
+        67,
+        267,
+        355
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They must put it on each side of the door",
+      "korean_translation": "그들은 그것을 문의 각 측면에 두어야 한다.",
+      "word_indices": [
+        267
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and above the door.",
+      "korean_translation": "그리고 문 위에도 두어야 한다.",
+      "word_indices": [
+        267
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They must do this in every house",
+      "korean_translation": "그들은 모든 집에서 이것을 해야 한다.",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "where they will eat a lamb.",
+      "korean_translation": "그들이 양을 먹을 모든 곳에서.",
+      "word_indices": []
+    }
+  ]
+}

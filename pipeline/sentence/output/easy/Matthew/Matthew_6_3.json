@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Matthew 6:3",
+  "version": "EASY",
+  "original_text": "So when you give something to a poor person, keep it a secret from other people. Do not tell anyone. Your left hand will not even know what your right hand does!",
+  "korean_text": "너는 구제할 때에 오른손이 하는 것을 왼손이 모르게 하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So when you give something to a poor person",
+      "korean_translation": "그러므로 네가 가난한 사람에게 무언가 줄 때",
+      "word_indices": [
+        4,
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "keep it a secret from other people",
+      "korean_translation": "다른 사람에게 비밀로 하라",
+      "word_indices": [
+        101,
+        544
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Do not tell anyone",
+      "korean_translation": "아무에게도 말하지 말라",
+      "word_indices": [
+        109
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Your left hand will not even know",
+      "korean_translation": "네 왼손조차 알지 못할 것이다",
+      "word_indices": [
+        12,
+        132
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "what your right hand does",
+      "korean_translation": "네 오른손이 무엇을 하는지",
+      "word_indices": [
+        38,
+        132
+      ]
+    }
+  ]
+}

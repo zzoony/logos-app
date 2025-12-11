@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 2:3",
+  "version": "EASY",
+  "original_text": "God blessed the seventh day. He made it a special day, because he had finished making everything. He did not work on that day.",
+  "korean_text": "하나님이 그 일곱째 날을 복되게 하사 거룩하게 하셨으니 이는 하나님이 그 창조하시며 만드시던 모든 일을 마치시고 그 날에 안식하셨음이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God blessed the seventh day",
+      "korean_translation": "하나님은 일곱째 날을 복 주셨다",
+      "word_indices": [
+        181,
+        469
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He made it a special day",
+      "korean_translation": "그분은 그날을 특별한 날로 삼으셨다",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he had finished making everything",
+      "korean_translation": "모든 것을 만드는 일을 마치셨기 때문이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He did not work on that day",
+      "korean_translation": "그분은 그날에 일하지 않으셨다",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

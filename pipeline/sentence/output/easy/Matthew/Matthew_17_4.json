@@ -1,0 +1,64 @@
+{
+  "verse_reference": "Matthew 17:4",
+  "version": "EASY",
+  "original_text": "Peter said to Jesus, ‘ Lord, it is good that we are here. If you want, please let me build three huts. One hut will be for you. One hut will be for Moses and one hut will be for Elijah.’",
+  "korean_text": "베드로가 예수께 여쭈어 이르되 주여 우리가 여기 있는 것이 좋사오니 만일 주께서 원하시면 내가 여기서 초막 셋을 짓되 하나는 주님을 위하여, 하나는 모세를 위하여, 하나는 엘리야를 위하여 하리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Peter said to Jesus",
+      "korean_translation": "베드로가 예수님께 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "it is good that we are here",
+      "korean_translation": "우리가 여기에 있으니 좋습니다",
+      "word_indices": [
+        19
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If you want",
+      "korean_translation": "원하시면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "please let me build three huts",
+      "korean_translation": "제가 초막 세 개를 짓게 해주세요",
+      "word_indices": [
+        76,
+        99,
+        166
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "One hut will be for you",
+      "korean_translation": "한 초막은 주님을 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "One hut will be for Moses",
+      "korean_translation": "한 초막은 모세를 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and one hut will be for Elijah",
+      "korean_translation": "그리고 한 초막은 엘리야를 위해",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Esther 3:3",
+  "version": "EASY",
+  "original_text": "The officers at the king's gate asked Mordecai, ‘Why do you not obey the king's command?’",
+  "korean_text": "대궐 문에 있는 왕의 신하들이 모르드개에게 이르되 너는 어찌하여 왕의 명령을 거역하느냐 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The officers at the king's gate",
+      "korean_translation": "왕의 문에 있는 관리들이",
+      "word_indices": [
+        3,
+        98,
+        168
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "asked Mordecai",
+      "korean_translation": "모르드개에게 물었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Why do you not obey the king's command?'",
+      "korean_translation": "'어찌하여 왕의 명령을 순종하지 않는가?'",
+      "word_indices": [
+        3,
+        127
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Numbers 35:20",
+  "version": "EASY",
+  "original_text": "These are other examples of murder: A man might push another person hard because he hates him. A man might throw something at another person to hurt him.",
+  "korean_text": "만일 미워하는 까닭에 밀쳐 죽이거나 기회를 엿보아 무엇을 던져 죽이거나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These are other examples of murder:",
+      "korean_translation": "이것은 살해의 다른 예들입니다:",
+      "word_indices": [
+        537
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "A man might push another person hard",
+      "korean_translation": "한 사람이 다른 사람을 세게 밀 수 있습니다",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "because he hates him.",
+      "korean_translation": "왜냐하면 그를 미워하기 때문입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "A man might throw something at another person",
+      "korean_translation": "한 사람이 다른 사람에게 무언가를 던질 수 있습니다",
+      "word_indices": [
+        24,
+        190
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to hurt him.",
+      "korean_translation": "그를 다치게 하기 위해.",
+      "word_indices": []
+    }
+  ]
+}

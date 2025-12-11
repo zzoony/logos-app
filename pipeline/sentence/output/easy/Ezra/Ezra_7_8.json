@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Ezra 7:8",
+  "version": "EASY",
+  "original_text": "Ezra arrived in Jerusalem in the fifth month of Artaxerxes' seventh year as king.",
+  "korean_text": "이 에스라가 올라왔으니 왕의 제칠년 다섯째 달이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Ezra arrived in Jerusalem",
+      "korean_translation": "에스라는 예루살렘에 도착했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the fifth month",
+      "korean_translation": "다섯째 달에",
+      "word_indices": [
+        255,
+        727
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of Artaxerxes' seventh year as king",
+      "korean_translation": "아르타크세르세스 왕의 제칠년에",
+      "word_indices": [
+        3,
+        469
+      ]
+    }
+  ]
+}

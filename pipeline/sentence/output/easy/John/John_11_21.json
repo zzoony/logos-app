@@ -1,0 +1,36 @@
+{
+  "verse_reference": "John 11:21",
+  "version": "EASY",
+  "original_text": "Martha said to Jesus, ‘ Lord, if you had been here, my brother would not have died.",
+  "korean_text": "마르다가 예수께 여짜오되 주께서 여기 계셨더라면 내 오라버니가 죽지 아니하였겠나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Martha said to Jesus",
+      "korean_translation": "마르다가 예수님께 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Lord",
+      "korean_translation": "주님",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "if you had been here",
+      "korean_translation": "만약 당신이 여기에 계셨다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my brother would not have died",
+      "korean_translation": "나의 동생은 죽지 않았을 것입니다",
+      "word_indices": [
+        135
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Jeremiah 42:22",
+  "version": "EASY",
+  "original_text": "So now I tell you this: When you go to the place where you want to live, war, famine or disease will kill you.’",
+  "korean_text": "너희가 가서 머물려고 하는 곳에서 칼과 기근과 전염병에 죽을 줄 분명히 알지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So now I tell you this:",
+      "korean_translation": "그러므로 내가 이것을 너희에게 말한다:",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "When you go to the place where you want to live,",
+      "korean_translation": "너희가 살고자 하는 곳으로 갈 때에,",
+      "word_indices": [
+        8,
+        16
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "war, famine or disease will kill you.'",
+      "korean_translation": "전쟁, 기근이나 질병이 너희를 죽일 것이다.'",
+      "word_indices": [
+        26,
+        340,
+        509
+      ]
+    }
+  ]
+}

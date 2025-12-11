@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 5:9",
+  "version": "EASY",
+  "original_text": "The man became well immediately. He picked up his mat and he walked.",
+  "korean_text": "그 사람이 곧 나아서 자리를 들고 걸어가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The man became well immediately.",
+      "korean_translation": "그 사람은 즉시 나았습니다.",
+      "word_indices": [
+        414
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He picked up his mat",
+      "korean_translation": "그는 자신의 매트를 들고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and he walked.",
+      "korean_translation": "걸어갔습니다.",
+      "word_indices": [
+        204
+      ]
+    }
+  ]
+}

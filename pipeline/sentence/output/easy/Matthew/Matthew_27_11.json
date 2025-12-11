@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 27:11",
+  "version": "EASY",
+  "original_text": "Now Jesus stood in front of the Roman ruler, Pilate. The ruler asked Jesus, ‘Are you the king of the Jews?’",
+  "korean_text": "예수께서 총독 앞에 섰으매 총독이 물어 이르되 네가 유대인의 왕이냐 예수께서 대답하시되 네 말이 옳도다 하시고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now Jesus stood in front of the Roman ruler",
+      "korean_translation": "이때 예수님은 로마 총독 앞에 서셨다",
+      "word_indices": [
+        123,
+        206
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Pilate.",
+      "korean_translation": "빌라도.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The ruler asked Jesus",
+      "korean_translation": "총독이 예수님께 물으셨다",
+      "word_indices": [
+        206
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'Are you the king of the Jews?'",
+      "korean_translation": "'네가 유대인의 왕인가?'",
+      "word_indices": [
+        3
+      ]
+    }
+  ]
+}

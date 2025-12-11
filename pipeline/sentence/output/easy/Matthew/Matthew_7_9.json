@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 7:9",
+  "version": "EASY",
+  "original_text": "Some of you are fathers. If your son asks you for some bread, you would not give him a stone.",
+  "korean_text": "너희 중에 누가 아들이 떡을 달라 하는데 돌을 주며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some of you are fathers",
+      "korean_translation": "너희 중 어떤 이들은 아버지이다",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "If your son asks you",
+      "korean_translation": "만약 너희 아들이 너희에게 구하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "for some bread",
+      "korean_translation": "빵을 구할 때",
+      "word_indices": [
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you would not give him a stone",
+      "korean_translation": "너희는 그에게 돌을 주지 않을 것이다",
+      "word_indices": [
+        4,
+        116
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "2 Samuel 16:6",
+  "version": "EASY",
+  "original_text": "He threw stones at David and at the king's officers. There was a big group of people and brave soldiers all around David.",
+  "korean_text": "또 다윗과 다윗 왕의 모든 신하들을 향하여 돌을 던지니 그 때에 모든 백성과 용사들은 다 왕의 좌우에 있었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He threw stones at David",
+      "korean_translation": "그는 다윗에게 돌을 던졌습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and at the king's officers",
+      "korean_translation": "그리고 왕의 신하들에게도 던졌습니다",
+      "word_indices": [
+        3,
+        98
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was a big group of people",
+      "korean_translation": "큰 무리의 사람들이 있었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and brave soldiers",
+      "korean_translation": "그리고 용감한 병사들이 있었습니다",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "all around David",
+      "korean_translation": "다윗을 둘러싸고 있었습니다",
+      "word_indices": []
+    }
+  ]
+}

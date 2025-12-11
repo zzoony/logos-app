@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Genesis 32:31",
+  "version": "EASY",
+  "original_text": "The sun rose in the sky as Jacob passed through Peniel. He could not walk properly because of his hip.",
+  "korean_text": "그가 브니엘을 지날 때에 해가 돋았고 그의 허벅다리로 말미암아 절었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The sun rose in the sky",
+      "korean_translation": "해가 하늘에 떠올랐다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "as Jacob passed through Peniel",
+      "korean_translation": "야곱가 브니엘을 지날 때",
+      "word_indices": [
+        192
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He could not walk properly",
+      "korean_translation": "그는 제대로 걸을 수 없었다",
+      "word_indices": [
+        204,
+        559
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because of his hip",
+      "korean_translation": "그의 엉덩이 때문에",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Matthew 2:20",
+  "version": "EASY",
+  "original_text": "The angel said to Joseph, ‘Get up. The people who wanted to kill the child are dead. Take the child and his mother. You can now return with them to Israel.’",
+  "korean_text": "일어나 아기와 그의 어머니를 데리고 이스라엘 땅으로 가라 아기의 목숨을 찾던 자들이 죽었느니라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The angel said to Joseph",
+      "korean_translation": "천사가 요셉에게 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Get up",
+      "korean_translation": "일어나라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The people who wanted to kill the child are dead",
+      "korean_translation": "아이를 죽이려던 사람들이 죽었다",
+      "word_indices": [
+        26,
+        65,
+        133
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Take the child and his mother",
+      "korean_translation": "아이와 그의 어머니를 데려가라",
+      "word_indices": [
+        65,
+        202
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You can now return with them to Israel",
+      "korean_translation": "이제 그들을 데리고 이스라엘로 돌아갈 수 있다",
+      "word_indices": [
+        115
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse_reference": "Luke 22:34",
+  "version": "EASY",
+  "original_text": "Jesus said to him, ‘I tell you this, Peter. Very soon, you will say that you do not know me. You will say that three times before the cockerel sings early tomorrow morning.’",
+  "korean_text": "이르시되 베드로야 내가 네게 말하노니 오늘 닭 울기 전에 네가 세 번 나를 모른다고 부인하리라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수님께서 그에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'I tell you this, Peter",
+      "korean_translation": "네게 이것을 말하노라, 베드로야",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Very soon, you will say",
+      "korean_translation": "아주 곧 너는 말할 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that you do not know me",
+      "korean_translation": "너는 나를 모른다고",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You will say that three times",
+      "korean_translation": "너는 세 번 말할 것이다",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "before the cockerel sings",
+      "korean_translation": "수탉이 울기 전에",
+      "word_indices": [
+        965
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "early tomorrow morning.'",
+      "korean_translation": "내일 아침 일찍.'",
+      "word_indices": [
+        584,
+        628
+      ]
+    }
+  ]
+}

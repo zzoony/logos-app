@@ -1,0 +1,40 @@
+{
+  "verse_reference": "2 Chronicles 31:7",
+  "version": "EASY",
+  "original_text": "They started to bring their things in the third month of the year and they finished in the seventh month.",
+  "korean_text": "셋째 달에 그 더미들을 쌓기 시작하여 일곱째 달에 마친지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They started to bring their things",
+      "korean_translation": "그들은 자신들의 물건을 가져오기 시작했고",
+      "word_indices": [
+        222
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the third month of the year",
+      "korean_translation": "그 해의 세 번째 달에",
+      "word_indices": [
+        255,
+        431
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and they finished",
+      "korean_translation": "그리고 그들은 마쳤다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in the seventh month",
+      "korean_translation": "일곱 번째 달에",
+      "word_indices": [
+        255,
+        469
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verse_reference": "1 Corinthians 2:2",
+  "version": "EASY",
+  "original_text": "While I was with you, I decided to teach you only about Jesus Christ. I taught you about his death on a cross. I wanted to forget everything else.",
+  "korean_text": "내가 너희 중에서 예수 그리스도와 그가 십자가에 못 박히신 것 외에는 아무 것도 알지 아니하기로 작정하였음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While I was with you",
+      "korean_translation": "내가 너희와 함께 있을 때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I decided to teach you only about Jesus Christ",
+      "korean_translation": "나는 예수 그리스도에 대해서만 너희를 가르치기로 작정했다",
+      "word_indices": [
+        61,
+        87
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I taught you about his death on a cross",
+      "korean_translation": "나는 그의 십자가 죽음에 대해 너희를 가르쳤다",
+      "word_indices": [
+        153
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I wanted to forget everything else",
+      "korean_translation": "나는 다른 모든 것을 잊고 싶었다",
+      "word_indices": [
+        351
+      ]
+    }
+  ]
+}

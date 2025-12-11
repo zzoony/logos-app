@@ -1,0 +1,45 @@
+{
+  "verse_reference": "John 20:29",
+  "version": "EASY",
+  "original_text": "Jesus said to him, ‘You believe because you have seen me. Other people have not seen me, but they do believe in me. God is really happy with those people.’",
+  "korean_text": "예수께서 이르시되 너는 나를 본 고로 믿느냐 보지 못하고 믿는 자들은 복되도다 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수께서 그에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You believe because you have seen me",
+      "korean_translation": "네가 나를 보았기에 믿는구나",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Other people have not seen me",
+      "korean_translation": "다른 사람들은 나를 보지 못했지만",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "but they do believe in me",
+      "korean_translation": "그럼에도 나를 믿는다",
+      "word_indices": [
+        88
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "God is really happy with those people.'",
+      "korean_translation": "하나님은 그런 사람들을 정말 기뻐하신다.'",
+      "word_indices": [
+        57,
+        146
+      ]
+    }
+  ]
+}

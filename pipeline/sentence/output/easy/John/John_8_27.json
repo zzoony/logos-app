@@ -1,0 +1,30 @@
+{
+  "verse_reference": "John 8:27",
+  "version": "EASY",
+  "original_text": "They did not understand that he was speaking to them about his Father.",
+  "korean_text": "그들은 아버지를 가리켜 말씀하신 줄을 깨닫지 못하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They did not understand",
+      "korean_translation": "그들은 이해하지 못했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that he was speaking to them",
+      "korean_translation": "그가 그들에게 말하고 있다는 것을",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "about his Father",
+      "korean_translation": "그의 아버지에 대해",
+      "word_indices": [
+        37
+      ]
+    }
+  ]
+}

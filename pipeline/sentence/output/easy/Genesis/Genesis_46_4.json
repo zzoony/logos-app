@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 46:4",
+  "version": "EASY",
+  "original_text": "I will go with you to Egypt. I will also bring you back again. Joseph will be with you when you die.’",
+  "korean_text": "내가 너와 함께 애굽으로 내려가겠고 반드시 너를 인도하여 다시 올라올 것이며 요셉이 그의 손으로 네 눈을 감기리라 하셨더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will go with you to Egypt.",
+      "korean_translation": "내가 너와 함께 이집트에 가겠다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will also bring you back again.",
+      "korean_translation": "내가 또한 너를 다시 데려오겠다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Joseph will be with you",
+      "korean_translation": "요셉이 너와 함께 있을 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "when you die.",
+      "korean_translation": "네가 죽을 때.",
+      "word_indices": []
+    }
+  ]
+}

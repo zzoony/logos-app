@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Exodus 19:10",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Moses, ‘Go to the people. Make them ready to meet with me. Today and tomorrow they must wash their clothes.",
+  "korean_text": "여호와께서 모세에게 이르시되 너는 백성에게로 가서 오늘과 내일 그들을 성결하게 하며 그들에게 옷을 빨게 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses",
+      "korean_translation": "그때 주께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Go to the people",
+      "korean_translation": "백성에게 가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Make them ready to meet with me",
+      "korean_translation": "그들을 나와 만날 준비를 시켜라",
+      "word_indices": [
+        163
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Today and tomorrow",
+      "korean_translation": "오늘과 내일",
+      "word_indices": [
+        233,
+        628
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "they must wash their clothes",
+      "korean_translation": "그들은 옷을 빨아야 한다",
+      "word_indices": []
+    }
+  ]
+}

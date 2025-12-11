@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Leviticus 11:33",
+  "version": "EASY",
+  "original_text": "A dead animal might fall into a pot. Then the pot and the things in it are not clean. The person must break the pot.",
+  "korean_text": "그것 중 어떤 것이 어느 질그릇에 떨어지면 그 속에 있는 것이 다 부정하여지나니 너는 그 그릇을 깨뜨리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A dead animal might fall into a pot.",
+      "korean_translation": "죽은 동물이 냄비에 떨어질 수 있습니다.",
+      "word_indices": [
+        48,
+        133,
+        208
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then the pot and the things in it",
+      "korean_translation": "그러면 그 냄비와 그 안에 있는 것들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "are not clean.",
+      "korean_translation": "정결하지 않습니다.",
+      "word_indices": [
+        184
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The person must break the pot.",
+      "korean_translation": "그 사람은 그 냄비를 부숴야 합니다.",
+      "word_indices": [
+        24,
+        246
+      ]
+    }
+  ]
+}

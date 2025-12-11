@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Luke 23:32",
+  "version": "EASY",
+  "original_text": "The soldiers also took two other men out of the prison. These men had done bad things. The soldiers would kill them and Jesus together.",
+  "korean_text": "또 다른 두 행악자도 사형을 받게 되어 예수와 함께 끌려 가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The soldiers also took two other men",
+      "korean_translation": "군인들 또한 다른 두 남자를 데려왔다",
+      "word_indices": [
+        9,
+        36
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "out of the prison",
+      "korean_translation": "감옥에서",
+      "word_indices": [
+        349
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "These men had done bad things",
+      "korean_translation": "이 남자들은 나쁜 일을 했었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The soldiers would kill them and Jesus together",
+      "korean_translation": "군인들은 그들과 예수를 함께 죽일 것이었다",
+      "word_indices": [
+        26,
+        36
+      ]
+    }
+  ]
+}

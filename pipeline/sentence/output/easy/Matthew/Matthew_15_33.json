@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Matthew 15:33",
+  "version": "EASY",
+  "original_text": "The disciples said to Jesus, ‘This place is a long way from any houses. We cannot get enough bread here to feed so many people.’",
+  "korean_text": "제자들이 이르되 광야에 있어 우리가 어디서 이런 무리가 배부를 만큼 떡을 얻으리이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The disciples said to Jesus",
+      "korean_translation": "제자들이 예수님께 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "This place is a long way from any houses",
+      "korean_translation": "이곳은 집들로부터 아주 멀리 떨어져 있습니다",
+      "word_indices": [
+        16,
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We cannot get enough bread here",
+      "korean_translation": "우리는 여기서 충분한 빵을 구할 수 없습니다",
+      "word_indices": [
+        114,
+        228,
+        229
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to feed so many people",
+      "korean_translation": "그렇게 많은 사람들을 먹이기 위해",
+      "word_indices": []
+    }
+  ]
+}

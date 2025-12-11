@@ -1,0 +1,42 @@
+{
+  "verse_reference": "2 Kings 18:28",
+  "version": "EASY",
+  "original_text": "Then the Assyrian army leader stood there and he shouted in the Hebrew language, ‘Listen to this message from the king of Assyria, the great king!",
+  "korean_text": "랍사게가 드디어 일어서서 유다 말로 크게 소리 질러 불러 이르되 너희는 대왕 앗수르 왕의 말씀을 들으라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Assyrian army leader stood there",
+      "korean_translation": "그때 앗수르의 군대 지도자가 거기에 서서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and he shouted in the Hebrew language",
+      "korean_translation": "히브리어로 외쳤다",
+      "word_indices": [
+        174,
+        471
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Listen to this message from the king of Assyria",
+      "korean_translation": "앗수르 왕의 이 메시지를 들으라",
+      "word_indices": [
+        3,
+        21,
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the great king",
+      "korean_translation": "위대한 왕",
+      "word_indices": [
+        3,
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 6:9",
+  "version": "EASY",
+  "original_text": "He said to Jesus, ‘Here is a boy who has five small loaves and two fish. But that will certainly not be enough food for so many people.’",
+  "korean_text": "여기 한 아이가 있어 보리떡 다섯 개와 물고기 두 마리를 가지고 있나이다 그러나 그것이 이 많은 사람에게 얼마나 되겠사옵나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He said to Jesus",
+      "korean_translation": "그는 예수님께 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Here is a boy",
+      "korean_translation": "여기 한 소년이 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who has five small loaves",
+      "korean_translation": "그는 작은 떡 다섯 개를 가지고 있습니다",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and two fish",
+      "korean_translation": "그리고 생선 두 마리를 가지고 있습니다",
+      "word_indices": [
+        517
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But that will certainly not be enough food",
+      "korean_translation": "하지만 그것은 분명히 충분한 음식이 되지 않을 것입니다",
+      "word_indices": [
+        228
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "for so many people",
+      "korean_translation": "그렇게 많은 사람들을 위한 것으로는",
+      "word_indices": []
+    }
+  ]
+}

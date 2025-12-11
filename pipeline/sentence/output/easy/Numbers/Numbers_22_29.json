@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Numbers 22:29",
+  "version": "EASY",
+  "original_text": "Balaam said to the donkey, ‘You have made me look silly. If I had a sword in my hand now, I would kill you.’",
+  "korean_text": "발람이 나귀에게 말하되 네가 나를 거역하기 때문이니 내 손에 칼이 있었더면 곧 너를 죽였으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Balaam said to the donkey",
+      "korean_translation": "발라암이 나귀에게 말했다",
+      "word_indices": [
+        310
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have made me look silly",
+      "korean_translation": "너 때문에 내가 바보처럼 보였다",
+      "word_indices": [
+        638
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If I had a sword in my hand now",
+      "korean_translation": "만약 내가 지금 손에 칼을 가지고 있다면",
+      "word_indices": [
+        132,
+        292
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I would kill you",
+      "korean_translation": "나는 너를 죽였을 것이다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

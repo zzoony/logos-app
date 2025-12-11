@@ -1,0 +1,36 @@
+{
+  "verse_reference": "1 Samuel 1:25",
+  "version": "EASY",
+  "original_text": "They killed the bull for the sacrifice. Then Hannah took Samuel to Eli.",
+  "korean_text": "그들이 수소를 잡고 아이를 데리고 엘리에게 가서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They killed the bull",
+      "korean_translation": "그들은 수소를 죽였다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "for the sacrifice",
+      "korean_translation": "제물을 위해",
+      "word_indices": [
+        126
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then Hannah took Samuel",
+      "korean_translation": "그때 한나는 사무엘을 데리고 갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to Eli",
+      "korean_translation": "엘리에게로",
+      "word_indices": []
+    }
+  ]
+}

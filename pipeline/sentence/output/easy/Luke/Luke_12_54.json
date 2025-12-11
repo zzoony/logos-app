@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Luke 12:54",
+  "version": "EASY",
+  "original_text": "Then Jesus said to the crowd, ‘If you see a cloud that is rising in the west, immediately you say, “It will rain.” And the rain does come.",
+  "korean_text": "또 무리에게 이르시되 너희가 구름이 서쪽에서 이는 것을 보면 곧 말하기를 소나기가 오리라 하나니 과연 그러하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus said to the crowd,",
+      "korean_translation": "그러면 예수님께서 무리에게 말씀하셨다,",
+      "word_indices": [
+        265
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'If you see a cloud",
+      "korean_translation": "'만약 너희가 구름을 보면",
+      "word_indices": [
+        337
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that is rising in the west,",
+      "korean_translation": "서쪽에서 떠오르는 구름을,",
+      "word_indices": [
+        383
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "immediately you say,",
+      "korean_translation": "즉시 너희는 말한다,",
+      "word_indices": [
+        414
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "\"It will rain.\"",
+      "korean_translation": "\"비가 올 것입니다.\"라고",
+      "word_indices": [
+        327
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "And the rain does come.",
+      "korean_translation": "그리고 비가 정말 온다.",
+      "word_indices": [
+        327
+      ]
+    }
+  ]
+}

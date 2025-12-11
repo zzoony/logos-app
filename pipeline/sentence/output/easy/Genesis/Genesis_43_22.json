@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Genesis 43:22",
+  "version": "EASY",
+  "original_text": "We have also brought more money so that we can buy more food. We do not know who put the money back into our bags.’",
+  "korean_text": "양식 살 다른 돈도 우리가 가지고 내려왔나이다 우리의 돈을 우리 자루에 넣은 자는 누구인지 우리가 알지 못하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We have also brought more money",
+      "korean_translation": "우리는 또한 더 많은 돈을 가져왔습니다",
+      "word_indices": [
+        9,
+        142
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "so that we can buy more food",
+      "korean_translation": "그래서 더 많은 음식을 살 수 있도록",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We do not know",
+      "korean_translation": "우리는 알지 못합니다",
+      "word_indices": [
+        12
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who put the money back into our bags",
+      "korean_translation": "누가 돈을 우리 가방에 다시 넣었는지",
+      "word_indices": [
+        142
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 8:54",
+  "version": "EASY",
+  "original_text": "But Jesus went and held the child's hand. He said to her, ‘My child, get up.’",
+  "korean_text": "예수께서 아이의 손을 잡고 불러 이르시되 아이야 일어나라 하시니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But Jesus went",
+      "korean_translation": "그러나 예수님께서 가셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and held the child's hand",
+      "korean_translation": "그리고 아이의 손을 잡으셨다",
+      "word_indices": [
+        65,
+        132
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He said to her",
+      "korean_translation": "그는 그녀에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'My child, get up.'",
+      "korean_translation": "'아이야, 일어나라.'",
+      "word_indices": [
+        65
+      ]
+    }
+  ]
+}

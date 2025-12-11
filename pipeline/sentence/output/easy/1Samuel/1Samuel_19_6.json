@@ -1,0 +1,31 @@
+{
+  "verse_reference": "1 Samuel 19:6",
+  "version": "EASY",
+  "original_text": "Saul agreed with Jonathan. He made a promise in the Lord's name that he would not kill David.",
+  "korean_text": "사울이 요나단의 말을 듣고 맹세하되 여호와께서 살아 계심을 두고 맹세하거니와 그가 죽임을 당하지 아니하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Saul agreed with Jonathan",
+      "korean_translation": "사울이 요나단과 동의했으며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He made a promise in the Lord's name",
+      "korean_translation": "그는 주의 이름으로 약속을 했고",
+      "word_indices": [
+        2,
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that he would not kill David",
+      "korean_translation": "자신은 다윗을 죽이지 않겠다고 했다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

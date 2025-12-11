@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Joshua 1:16",
+  "version": "EASY",
+  "original_text": "The people said to Joshua, ‘We will do whatever you tell us. And we will go wherever you send us.",
+  "korean_text": "그들이 여호수아에게 대답하여 이르되 당신이 우리에게 명령하신 것은 우리가 다 행할 것이요 당신이 우리를 보내시는 곳에는 우리가 가리이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The people said to Joshua",
+      "korean_translation": "백성들이 여호수아에게 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "We will do whatever you tell us",
+      "korean_translation": "당신이 우리에게 명령하는 것은 무엇이든 행하겠습니다",
+      "word_indices": [
+        492
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "And we will go wherever you send us",
+      "korean_translation": "당신이 우리를 보내는 곳이면 어디든 가겠습니다",
+      "word_indices": [
+        25
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Genesis 32:15",
+  "version": "EASY",
+  "original_text": "He also chose 30 female camels, with their young ones, 40 cows and ten bulls, 20 female donkeys and ten male donkeys.",
+  "korean_text": "젖 나는 낙타 삼십과 그 새끼요 암소가 사십이요 황소가 열이요 암나귀가 이십이요 그 새끼 나귀가 열이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He also chose 30 female camels",
+      "korean_translation": "그가 또한 30마리의 암낙타를 선택했고",
+      "word_indices": [
+        9,
+        455
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with their young ones",
+      "korean_translation": "그들의 새끼와 함께",
+      "word_indices": [
+        108
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "40 cows and ten bulls",
+      "korean_translation": "40마리의 암소와 열 마리의 수소",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "20 female donkeys",
+      "korean_translation": "20마리의 암나귀",
+      "word_indices": [
+        310,
+        455
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and ten male donkeys",
+      "korean_translation": "그리고 열 마리의 수나귀였다",
+      "word_indices": [
+        310
+      ]
+    }
+  ]
+}

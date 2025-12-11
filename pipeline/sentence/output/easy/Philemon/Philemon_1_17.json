@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Philemon 1:17",
+  "version": "EASY",
+  "original_text": "I am your friend. Together we serve God. If you agree with that, please be kind to Onesimus. Accept him in the same way that you would accept me.",
+  "korean_text": "그러므로 네가 나를 동역자로 알진대 그를 영접하기를 내게 하듯 하고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I am your friend",
+      "korean_translation": "나는 당신의 친구입니다",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Together we serve God",
+      "korean_translation": "우리 함께 하나님을 섬깁니다",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you agree with that",
+      "korean_translation": "만약 당신이 그것에 동의한다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "please be kind to Onesimus",
+      "korean_translation": "오네시모에게 친절해 주세요",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Accept him in the same way",
+      "korean_translation": "같은 방식으로 그를 받아들이세요",
+      "word_indices": [
+        74,
+        143
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that you would accept me",
+      "korean_translation": "당신이 나를 받아들일 것처럼",
+      "word_indices": [
+        143
+      ]
+    }
+  ]
+}

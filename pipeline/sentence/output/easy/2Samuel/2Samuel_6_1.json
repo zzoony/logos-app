@@ -1,0 +1,28 @@
+{
+  "verse_reference": "2 Samuel 6:1",
+  "version": "EASY",
+  "original_text": "David chose 30,000 of the best soldiers in Israel.",
+  "korean_text": "다윗이 이스라엘에서 뽑은 무리 삼만 명을 다시 모으고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David chose",
+      "korean_translation": "다윗이 선택했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "30,000 of the best soldiers",
+      "korean_translation": "가장 뛰어난 군인 30,000명을",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Israel",
+      "korean_translation": "이스라엘에서",
+      "word_indices": []
+    }
+  ]
+}

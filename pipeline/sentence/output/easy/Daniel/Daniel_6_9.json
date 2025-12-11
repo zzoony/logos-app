@@ -1,0 +1,30 @@
+{
+  "verse_reference": "Daniel 6:9",
+  "version": "EASY",
+  "original_text": "King Darius agreed. He wrote his name on this new law.",
+  "korean_text": "이에 다리오 왕이 조서에 왕의 도장을 찍어 금령을 내니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Darius agreed.",
+      "korean_translation": "다리오 왕은 동의했습니다.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He wrote his name",
+      "korean_translation": "그는 자신의 이름을 썼습니다",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "on this new law.",
+      "korean_translation": "이 새 법률에.",
+      "word_indices": []
+    }
+  ]
+}

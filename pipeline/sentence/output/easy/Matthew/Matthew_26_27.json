@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Matthew 26:27",
+  "version": "EASY",
+  "original_text": "Then Jesus took a cup. He thanked God for the wine in the cup. Then he gave it to them and he said, ‘All of you should drink some of this wine.",
+  "korean_text": "또 잔을 가지사 감사 기도 하시고 그들에게 주시며 이르시되 너희가 다 이것을 마시라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus took a cup.",
+      "korean_translation": "그때 예수님은 잔을 드셨습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He thanked God for the wine in the cup.",
+      "korean_translation": "그는 잔 안에 있는 포도주를 위해 하나님께 감사했습니다.",
+      "word_indices": [
+        219
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then he gave it to them",
+      "korean_translation": "그때 그는 그것을 그들에게 주었습니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he said",
+      "korean_translation": "그리고 그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "All of you should drink some of this wine.",
+      "korean_translation": "너희 모두는 이 포도주를 조금 마셔야 합니다.",
+      "word_indices": [
+        118,
+        219
+      ]
+    }
+  ]
+}

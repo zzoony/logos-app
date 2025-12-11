@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Exodus 16:28",
+  "version": "EASY",
+  "original_text": "Then the Lord said to Moses, ‘The people continue to refuse to obey my commands. They refuse to do what I tell them!",
+  "korean_text": "여호와께서 모세에게 이르시되 어느 때까지 너희가 내 계명과 내 율법을 지키지 아니하려느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the Lord said to Moses",
+      "korean_translation": "그때 주께서 모세에게 말씀하셨다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The people continue to refuse to obey my commands",
+      "korean_translation": "백성이 내 명령에 순종하기를 계속 거절한다",
+      "word_indices": [
+        127,
+        157
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They refuse to do what I tell them",
+      "korean_translation": "그들은 내가 그들에게 말하는 것을 행하기를 거절한다",
+      "word_indices": [
+        157
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Timothy 2:5",
+  "version": "EASY",
+  "original_text": "It is the same with an athlete who runs a race. He cannot win the race unless he obeys the rules.",
+  "korean_text": "경기하는 자가 법대로 경기하지 아니하면 승리자의 관을 얻지 못할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is the same with an athlete who runs a race",
+      "korean_translation": "경주하는 선수에게도 마찬가지입니다",
+      "word_indices": [
+        74,
+        1858
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He cannot win the race",
+      "korean_translation": "그는 경기에서 이길 수 없습니다",
+      "word_indices": [
+        114
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "unless he obeys the rules",
+      "korean_translation": "규칙을 따르지 않으면",
+      "word_indices": []
+    }
+  ]
+}

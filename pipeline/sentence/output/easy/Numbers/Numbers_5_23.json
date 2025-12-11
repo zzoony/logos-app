@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Numbers 5:23",
+  "version": "EASY",
+  "original_text": "The priest must write the curses on special paper. Then he must wash the words off the paper into the bitter water.",
+  "korean_text": "제사장이 저주의 말을 두루마리에 써서 그 글자를 그 쓴 물에 빨아 넣고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The priest must write the curses",
+      "korean_translation": "제사장은 저주들을 기록해야 합니다",
+      "word_indices": [
+        32,
+        124
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on special paper",
+      "korean_translation": "특별한 종이에",
+      "word_indices": [
+        68,
+        828
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then he must wash the words off the paper",
+      "korean_translation": "그런 다음 그는 종이에서 글자들을 씻어내야 합니다",
+      "word_indices": [
+        128,
+        828
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "into the bitter water",
+      "korean_translation": "쓴물 속으로",
+      "word_indices": [
+        60,
+        816
+      ]
+    }
+  ]
+}

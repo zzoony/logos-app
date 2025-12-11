@@ -1,0 +1,24 @@
+{
+  "verse_reference": "Genesis 7:6",
+  "version": "EASY",
+  "original_text": "Noah was 600 years old when the deep water covered the earth.",
+  "korean_text": "홍수가 땅에 있을 때에 노아가 육백 세라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Noah was 600 years old",
+      "korean_translation": "노아는 600세였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when the deep water covered the earth",
+      "korean_translation": "깊은 물이 땅을 덮었을 때",
+      "word_indices": [
+        60,
+        93,
+        238
+      ]
+    }
+  ]
+}

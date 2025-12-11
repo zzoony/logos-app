@@ -1,0 +1,37 @@
+{
+  "verse_reference": "2 Samuel 2:19",
+  "version": "EASY",
+  "original_text": "He chased after Abner. He ran straight after him. He did not turn to the right or to the left.",
+  "korean_text": "아사헬이 아브넬을 쫓아 달려가되 좌우로 치우치지 않고 아브넬의 뒤를 쫓으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "He chased after Abner.",
+      "korean_translation": "그는 아브넬을 뒤쫓았다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He ran straight after him.",
+      "korean_translation": "그는 그를 바로 뒤쫓았다.",
+      "word_indices": [
+        658
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He did not turn to the right",
+      "korean_translation": "그는 오른쪽으로 돌지 않았다.",
+      "word_indices": [
+        38,
+        72
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or to the left.",
+      "korean_translation": "또는 왼쪽으로도.",
+      "word_indices": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verse_reference": "Luke 19:9",
+  "version": "EASY",
+  "original_text": "Jesus said to him, ‘Today God has saved people in this home. Now Zacchaeus also belongs to the family of Abraham.",
+  "korean_text": "예수께서 이르시되 오늘 구원이 이 집에 이르렀으니 이 사람도 아브라함의 자손임이로다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to him",
+      "korean_translation": "예수님께서 그에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Today God has saved people in this home",
+      "korean_translation": "오늘 하나님께서 이 집안에 있는 사람들을 구원하셨다",
+      "word_indices": [
+        233
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Now Zacchaeus also belongs to the family of Abraham",
+      "korean_translation": "이제 삭개오도 아브라함의 가족에 속한다",
+      "word_indices": [
+        9,
+        45,
+        56
+      ]
+    }
+  ]
+}

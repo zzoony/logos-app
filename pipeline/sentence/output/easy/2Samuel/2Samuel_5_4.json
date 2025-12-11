@@ -1,0 +1,36 @@
+{
+  "verse_reference": "2 Samuel 5:4",
+  "version": "EASY",
+  "original_text": "David was 30 years old when he became king. He ruled Israel as king for 40 years.",
+  "korean_text": "다윗이 나이가 삼십 세에 왕위에 올라 사십 년 동안 다스렸으되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "David was 30 years old",
+      "korean_translation": "다윗은 30세였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when he became king",
+      "korean_translation": "그가 왕이 되었을 때",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He ruled Israel as king",
+      "korean_translation": "그는 이스라엘을 다스렸다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for 40 years",
+      "korean_translation": "40년 동안",
+      "word_indices": []
+    }
+  ]
+}

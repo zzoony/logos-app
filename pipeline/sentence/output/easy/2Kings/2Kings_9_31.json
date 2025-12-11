@@ -1,0 +1,43 @@
+{
+  "verse_reference": "2 Kings 9:31",
+  "version": "EASY",
+  "original_text": "When Jehu came through the gate of the city, Jezebel called out to him, ‘Have you come as a friend, Zimri? No, you have murdered your master!’",
+  "korean_text": "예후가 문에 들어오매 이르되 주인을 죽인 너 시므리여 평안하냐 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Jehu came through the gate of the city",
+      "korean_translation": "여후가 성문을 통과할 때",
+      "word_indices": [
+        20,
+        168,
+        192
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jezebel called out to him",
+      "korean_translation": "이세벨이 그에게 소리쳤다",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'Have you come as a friend, Zimri?'",
+      "korean_translation": "'네가 친구로 왔느냐, 스므리야?'",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "'No, you have murdered your master!'",
+      "korean_translation": "'아니라, 네가 네 주인을 죽였구나!'",
+      "word_indices": [
+        176,
+        537
+      ]
+    }
+  ]
+}

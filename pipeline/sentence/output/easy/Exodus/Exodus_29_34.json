@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Exodus 29:34",
+  "version": "EASY",
+  "original_text": "But if any of the meat from the offerings remains until the morning, you must burn it. Also burn any bread that remains. You must not eat it, because it is holy.",
+  "korean_text": "위임식 고기나 떡이 아침까지 남아 있으면 그것을 불에 사를지니 이는 거룩한즉 먹지 못할지니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But if any of the meat from the offerings remains until the morning",
+      "korean_translation": "그러나 제물의 고기 중 아무것이 아침까지 남아 있다면",
+      "word_indices": [
+        200,
+        253
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "you must burn it",
+      "korean_translation": "너는 그것을 불태워야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Also burn any bread that remains",
+      "korean_translation": "또한 남은 빵도 불태워라",
+      "word_indices": [
+        9,
+        229,
+        253
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You must not eat it",
+      "korean_translation": "너는 그것을 먹어서는 안 된다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because it is holy",
+      "korean_translation": "왜냐하면 그것은 거룩하기 때문이다",
+      "word_indices": [
+        84
+      ]
+    }
+  ]
+}

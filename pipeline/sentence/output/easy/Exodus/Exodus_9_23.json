@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Exodus 9:23",
+  "version": "EASY",
+  "original_text": "When Moses lifted up his stick towards the sky, the Lord sent a great storm. He sent thunder, hail and lightning.",
+  "korean_text": "모세가 하늘을 향하여 지팡이를 들매 여호와께서 우렛소리와 우박을 보내시고 불을 내려 땅에 달리게 하시니라 여호와께서 우박을 애굽 땅에 내리시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When Moses lifted up his stick",
+      "korean_translation": "모세가 그의 지팡이를 들어올렸을 때",
+      "word_indices": [
+        356
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "towards the sky",
+      "korean_translation": "하늘을 향해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the Lord sent a great storm",
+      "korean_translation": "주님께서 큰 폭풍을 보내셨다",
+      "word_indices": [
+        2,
+        40,
+        483
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He sent thunder",
+      "korean_translation": "그는 천둥을 보냈다",
+      "word_indices": [
+        729
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "hail and lightning",
+      "korean_translation": "우박과 번개를",
+      "word_indices": []
+    }
+  ]
+}

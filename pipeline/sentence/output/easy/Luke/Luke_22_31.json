@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Luke 22:31",
+  "version": "EASY",
+  "original_text": "Jesus then said, ‘Simon, Simon, be careful to listen to me! Satan has asked to have authority over you all. He will shake you as a farmer shakes seeds.",
+  "korean_text": "시몬아, 시몬아, 보라 사탄이 너희를 밀 까부르듯 하려고 요구하였으나",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus then said",
+      "korean_translation": "예수님께서 그때 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Simon, Simon",
+      "korean_translation": "시몬아, 시몬아",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "be careful to listen to me",
+      "korean_translation": "나에게 귀를 기울여 주의하라",
+      "word_indices": [
+        63,
+        309
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Satan has asked to have authority over you all",
+      "korean_translation": "사탄이 너희 모두를 다스릴 권한을 요구했다",
+      "word_indices": [
+        110,
+        545
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He will shake you",
+      "korean_translation": "그가 너희를 흔들 것이다",
+      "word_indices": [
+        336
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "as a farmer shakes seeds",
+      "korean_translation": "농부가 씨앗을 체로 거르듯이",
+      "word_indices": [
+        425
+      ]
+    }
+  ]
+}

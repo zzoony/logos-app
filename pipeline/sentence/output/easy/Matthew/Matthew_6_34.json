@@ -1,0 +1,54 @@
+{
+  "verse_reference": "Matthew 6:34",
+  "version": "EASY",
+  "original_text": "So do not have trouble in your mind about what might happen tomorrow. Tomorrow will have its own problems. It is enough for you to be thinking each day about the problems of that day.’",
+  "korean_text": "그러므로 내일 일을 위하여 염려하지 말라 내일 일은 내일이 염려할 것이요 한 날의 괴로움은 그 날로 족하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So do not have trouble in your mind",
+      "korean_translation": "그러니 네 마음에 근심하지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about what might happen tomorrow",
+      "korean_translation": "내일 일을 두고",
+      "word_indices": [
+        22,
+        628
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Tomorrow will have its own problems",
+      "korean_translation": "내일은 저절로 염려할 것이 있나니",
+      "word_indices": [
+        564,
+        628
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "It is enough for you",
+      "korean_translation": "너희를 위하여는",
+      "word_indices": [
+        228
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to be thinking each day",
+      "korean_translation": "하루의 괴로움만으로도 족하니라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "about the problems of that day",
+      "korean_translation": "그 날의 문제에 대해 생각하는 것으로 충분하다",
+      "word_indices": [
+        564
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verse_reference": "2 Chronicles 32:10",
+  "version": "EASY",
+  "original_text": "‘King Sennacherib of Assyria says this to you: My soldiers have made their camp around Jerusalem. So why do you remain in the city? Why are you so sure that someone will rescue you?",
+  "korean_text": "앗수르 왕 산헤립은 이같이 말하노라 너희가 예루살렘에 에워싸여 있으면서 무엇을 의뢰하느냐",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Sennacherib of Assyria says this to you",
+      "korean_translation": "앗수르 왕 산헤립이 당신에게 이렇게 말합니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My soldiers have made their camp around Jerusalem",
+      "korean_translation": "나의 군사들이 예루살렘 주위에 진을 쳤습니다",
+      "word_indices": [
+        36,
+        286
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "So why do you remain in the city?",
+      "korean_translation": "그러면 어째서 당신은 성 안에 머무르고 있습니까?",
+      "word_indices": [
+        20,
+        253
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Why are you so sure that someone will rescue you?",
+      "korean_translation": "누군가 당신을 구해줄 것이라고 어째서 그렇게 확신합니까?",
+      "word_indices": [
+        94,
+        328,
+        359
+      ]
+    }
+  ]
+}

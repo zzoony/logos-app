@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Galatians 6:11",
+  "version": "EASY",
+  "original_text": "Now I am writing these last words to you myself. You can see how large the letters are, when I write them with my own hand!",
+  "korean_text": "내 손으로 너희에게 이렇게 큰 글자로 쓴 것을 보라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Now I am writing these last words to you myself",
+      "korean_translation": "내가 이제 마지막 말들을 직접 너희에게 쓰고 있다",
+      "word_indices": [
+        128,
+        571
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You can see how large the letters are",
+      "korean_translation": "너희는 글자들이 얼마나 큰지 볼 수 있다",
+      "word_indices": [
+        316,
+        347
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "when I write them with my own hand",
+      "korean_translation": "내가 직접 내 손으로 쓸 때",
+      "word_indices": [
+        124,
+        132
+      ]
+    }
+  ]
+}

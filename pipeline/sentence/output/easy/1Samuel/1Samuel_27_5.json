@@ -1,0 +1,65 @@
+{
+  "verse_reference": "1 Samuel 27:5",
+  "version": "EASY",
+  "original_text": "One day David said to Achish, ‘I hope that you are pleased with me. If you are, please choose a place for me to live in one of the small towns. I do not need to live in the same big city as the king.’",
+  "korean_text": "다윗이 아기스에게 이르되 바라건대 내가 당신께 은혜를 입었다면 지방 성읍 가운데 한 곳을 내게 주어 내가 살게 하소서 당신의 종이 어찌 당신과 함께 왕도에 살리이까 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One day David said to Achish",
+      "korean_translation": "어느 날 다윗이 아기스에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I hope that you are pleased with me",
+      "korean_translation": "당신이 나에게 만족하기를 바랍니다",
+      "word_indices": [
+        408
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If you are",
+      "korean_translation": "만약 그렇다면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "please choose a place for me to live",
+      "korean_translation": "내가 살 장소를 선택해 주세요",
+      "word_indices": [
+        8,
+        16,
+        51,
+        76
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in one of the small towns",
+      "korean_translation": "작은 도시 중 하나에",
+      "word_indices": [
+        295
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "I do not need to live",
+      "korean_translation": "나는 살 필요가 없습니다",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "in the same big city as the king",
+      "korean_translation": "왕과 같은 큰 도시에",
+      "word_indices": [
+        3,
+        20,
+        74
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Luke 21:3",
+  "version": "EASY",
+  "original_text": "‘Let me tell you this,’ Jesus said. ‘This poor woman has put a better gift into the box than all the other people have put in there.",
+  "korean_text": "이르시되 내가 참으로 너희에게 말하노니 이 가난한 과부가 다른 모든 사람보다 많이 넣었도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let me tell you this",
+      "korean_translation": "네게 이것을 말해주겠다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus said",
+      "korean_translation": "예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This poor woman has put",
+      "korean_translation": "이 가난한 여자는 넣었다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "a better gift into the box",
+      "korean_translation": "더 나은 선물을 상자에",
+      "word_indices": [
+        247
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "than all the other people have put in there",
+      "korean_translation": "다른 모든 사람들이 거기에 넣은 것보다",
+      "word_indices": []
+    }
+  ]
+}

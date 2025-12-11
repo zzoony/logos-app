@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Deuteronomy 22:6",
+  "version": "EASY",
+  "original_text": "You may find a bird's nest beside the road. It may be in a tree or on the ground. If the mother bird is sitting on eggs or on young birds, you must not take the mother away from them.",
+  "korean_text": "길을 가다가 나무에나 땅에 있는 새의 보금자리에 새 새끼나 알이 있고 어미 새가 그의 새끼나 알을 품은 것을 보거든 그 어미 새와 새끼를 아울러 취하지 말고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may find a bird's nest beside the road.",
+      "korean_translation": "길가에 새 둥지를 발견할 수 있습니다.",
+      "word_indices": [
+        131,
+        343,
+        344
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It may be in a tree",
+      "korean_translation": "그것은 나무에 있을 수 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "or on the ground.",
+      "korean_translation": "또는 땅에 있을 수 있습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "If the mother bird is sitting on eggs",
+      "korean_translation": "암새가 알 위에 앉아 있다면",
+      "word_indices": [
+        202,
+        344
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or on young birds,",
+      "korean_translation": "또는 새끼 위에 앉아 있다면,",
+      "word_indices": [
+        108,
+        344
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you must not take the mother away from them.",
+      "korean_translation": "암새를 새끼들에게서 데려가서는 안 됩니다.",
+      "word_indices": [
+        202
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "verse_reference": "Genesis 4:2",
+  "version": "EASY",
+  "original_text": "Some time later, Eve gave birth to Cain's brother. She called him Abel. When they had grown to become men, Abel took care of sheep. Cain worked on the land as a farmer.",
+  "korean_text": "그가 또 가인의 아우 아벨을 낳았는데 아벨은 양 치는 자였고 가인은 농사하는 자였더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some time later,",
+      "korean_translation": "얼마 후에,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Eve gave birth to Cain's brother.",
+      "korean_translation": "이브는 가인의 동생을 낳았습니다.",
+      "word_indices": [
+        4,
+        135,
+        249
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She called him Abel.",
+      "korean_translation": "그녀는 그를 아벨이라고 불렀습니다.",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "When they had grown to become men,",
+      "korean_translation": "그들이 다 자라 어른이 되었을 때,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Abel took care of sheep.",
+      "korean_translation": "아벨은 양을 돌보았습니다.",
+      "word_indices": [
+        125
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Cain worked on the land as a farmer.",
+      "korean_translation": "가인은 농부로서 땅에서 일했습니다.",
+      "word_indices": [
+        14,
+        35,
+        425
+      ]
+    }
+  ]
+}

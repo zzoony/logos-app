@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Deuteronomy 12:23",
+  "version": "EASY",
+  "original_text": "But never eat the blood. The blood of an animal gives it life. You must not eat the life together with the meat!",
+  "korean_text": "다만 크게 삼가서 그 피는 먹지 말라 피는 그 생명인즉 네가 그 생명을 고기와 함께 먹지 못하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But never eat the blood.",
+      "korean_translation": "그러나 피를 먹지 말라.",
+      "word_indices": [
+        221
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The blood of an animal",
+      "korean_translation": "동물의 피는",
+      "word_indices": [
+        48,
+        221
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "gives it life.",
+      "korean_translation": "그것에게 생명을 준다.",
+      "word_indices": [
+        4,
+        41
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "You must not eat the life",
+      "korean_translation": "너는 그 생명을 먹어서는 안 된다.",
+      "word_indices": [
+        41
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "together with the meat!",
+      "korean_translation": "고기와 함께!",
+      "word_indices": []
+    }
+  ]
+}

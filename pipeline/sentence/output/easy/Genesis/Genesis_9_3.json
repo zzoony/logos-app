@@ -1,0 +1,62 @@
+{
+  "verse_reference": "Genesis 9:3",
+  "version": "EASY",
+  "original_text": "You may now eat anything that lives and moves. Before, I gave you the green plants to eat. Now I give you everything to eat as your food.",
+  "korean_text": "모든 산 동물은 너희의 먹을 것이 될지라 채소 같이 내가 이것을 다 너희에게 주노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You may now eat",
+      "korean_translation": "이제 너는 먹을 수 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "anything that lives and moves",
+      "korean_translation": "살아 움직이는 모든 것",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Before",
+      "korean_translation": "이전에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I gave you the green plants",
+      "korean_translation": "내가 너에게 푸른 식물을 주었다",
+      "word_indices": [
+        4,
+        199,
+        869
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to eat",
+      "korean_translation": "먹도록",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Now",
+      "korean_translation": "이제는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I give you everything",
+      "korean_translation": "내가 너에게 모든 것을 준다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "to eat as your food",
+      "korean_translation": "너의 음식으로 먹도록",
+      "word_indices": []
+    }
+  ]
+}

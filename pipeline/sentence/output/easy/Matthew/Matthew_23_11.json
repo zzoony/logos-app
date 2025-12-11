@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Matthew 23:11",
+  "version": "EASY",
+  "original_text": "The person among you who is most important will be your servant.",
+  "korean_text": "너희 중에 큰 자는 너희를 섬기는 자가 되어야 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The person among you",
+      "korean_translation": "너희 중에 있는 사람",
+      "word_indices": [
+        24,
+        112
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "who is most important",
+      "korean_translation": "가장 중요한 사람은",
+      "word_indices": [
+        138
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "will be your servant",
+      "korean_translation": "너희의 종이 될 것이다",
+      "word_indices": [
+        44
+      ]
+    }
+  ]
+}

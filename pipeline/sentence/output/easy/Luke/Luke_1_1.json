@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 1:1",
+  "version": "EASY",
+  "original_text": "Many people have written about the things that have happened in our country.",
+  "korean_text": "우리 중에 이루어진 사실에 대하여",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Many people have written",
+      "korean_translation": "많은 사람들이 기록했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "about the things",
+      "korean_translation": "그것들에 대해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that have happened",
+      "korean_translation": "일어난",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in our country",
+      "korean_translation": "우리 나라에서",
+      "word_indices": [
+        117
+      ]
+    }
+  ]
+}

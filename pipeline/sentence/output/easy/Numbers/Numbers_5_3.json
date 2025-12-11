@@ -1,0 +1,48 @@
+{
+  "verse_reference": "Numbers 5:3",
+  "version": "EASY",
+  "original_text": "Do this with both men and women. Send them out of the camp. They must not make the camp unclean, because that is where I live among the people.’",
+  "korean_text": "남녀를 막론하고 다 진영 밖으로 내보내어 그들이 진영을 더럽히게 하지 말라 내가 그 진영 가운데에 거하느니라 하시매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do this with both men and women.",
+      "korean_translation": "남자와 여자 모두에게 이렇게 하라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Send them out of the camp.",
+      "korean_translation": "그들을 진에서 내보내라.",
+      "word_indices": [
+        25,
+        286
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They must not make the camp unclean,",
+      "korean_translation": "그들은 진을 더럽히지 말아야 한다.",
+      "word_indices": [
+        286,
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "because that is where I live",
+      "korean_translation": "그곳이 내가 거하는 곳이기 때문이다.",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "among the people.'",
+      "korean_translation": "백성들 가운데서.",
+      "word_indices": [
+        112
+      ]
+    }
+  ]
+}

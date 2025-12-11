@@ -1,0 +1,62 @@
+{
+  "verse_reference": "John 1:15",
+  "version": "EASY",
+  "original_text": "John told people about the Word. He shouted, ‘This is the man that I told you about. He comes after me. But he is greater than I am. He was already there before I was born.’",
+  "korean_text": "요한이 그에 대하여 증언하여 외쳐 이르되 내가 전에 말하기를 내 뒤에 오시는 이가 나보다 앞선 것은 나보다 먼저 계심이라 한 것이 이 사람을 가리킴이라 하니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "John told people about the Word.",
+      "korean_translation": "요한은 사람들에게 말씀에 대해 알렸습니다.",
+      "word_indices": [
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He shouted,",
+      "korean_translation": "그가 외쳤습니다.",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This is the man",
+      "korean_translation": "이 사람이 바로 그 사람입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "that I told you about.",
+      "korean_translation": "내가 너희에게 말했던 그 사람입니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "He comes after me.",
+      "korean_translation": "그는 나 뒤에 옵니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "But he is greater than I am.",
+      "korean_translation": "하지만 그는 나보다 더 위대합니다.",
+      "word_indices": [
+        561
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "He was already there",
+      "korean_translation": "그는 이미 그곳에 있었습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "before I was born.",
+      "korean_translation": "내가 태어나기 전부터였습니다.",
+      "word_indices": []
+    }
+  ]
+}

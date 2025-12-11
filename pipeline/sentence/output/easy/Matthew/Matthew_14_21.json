@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Matthew 14:21",
+  "version": "EASY",
+  "original_text": "About 5,000 men ate the bread and fish. Women and children also ate it with them.",
+  "korean_text": "먹은 사람은 여자와 어린이 외에 오천 명이나 되었더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "About 5,000 men ate the bread and fish.",
+      "korean_translation": "약 5,000명의 남자들이 빵과 물고기를 먹었다.",
+      "word_indices": [
+        229,
+        517
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Women and children also ate it",
+      "korean_translation": "여성과 아이들도 그것을 먹었다",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "with them.",
+      "korean_translation": "그들과 함께.",
+      "word_indices": []
+    }
+  ]
+}

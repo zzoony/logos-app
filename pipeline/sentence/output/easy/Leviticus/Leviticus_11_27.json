@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Leviticus 11:27",
+  "version": "EASY",
+  "original_text": "Some animals walk on four feet. It is wrong to touch the dead body of an animal that has paws.",
+  "korean_text": "네 발로 다니는 모든 짐승 중 발바닥으로 다니는 것은 다 네게 부정하니 그 주검을 만지는 자는 저녁까지 부정할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some animals walk on four feet.",
+      "korean_translation": "어떤 동물들은 네 발로 걷습니다.",
+      "word_indices": [
+        48,
+        204
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is wrong to touch the dead body",
+      "korean_translation": "죽은 몸을 만지는 것은 잘못입니다.",
+      "word_indices": [
+        71,
+        133,
+        348
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of an animal that has paws.",
+      "korean_translation": "발톱이 있는 동물의.",
+      "word_indices": [
+        48
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "verse_reference": "3 John 1:1",
+  "version": "EASY",
+  "original_text": "This letter comes from me, the leader of the believers. I am writing to you, my friend Gaius. I love you because we believe God's true message.",
+  "korean_text": "장로인 나는 사랑하는 가이오 곧 내가 참으로 사랑하는 자에게 편지하노라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This letter comes from me",
+      "korean_translation": "이 편지는 나에게서 왔습니다",
+      "word_indices": [
+        347
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the leader of the believers",
+      "korean_translation": "믿는 사람들의 지도자인",
+      "word_indices": [
+        185
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am writing to you",
+      "korean_translation": "나는 당신에게 쓰고 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "my friend Gaius",
+      "korean_translation": "나의 친구 가이오에게",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I love you",
+      "korean_translation": "나는 당신을 사랑합니다",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "because we believe God's true message",
+      "korean_translation": "왜냐하면 우리는 하나님의 참된 메시지를 믿기 때문입니다",
+      "word_indices": [
+        21,
+        69,
+        88
+      ]
+    }
+  ]
+}

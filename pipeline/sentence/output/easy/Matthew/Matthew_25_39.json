@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Matthew 25:39",
+  "version": "EASY",
+  "original_text": "When did we take care of you because you were ill? When did we come to visit you in prison?”",
+  "korean_text": "어느 때에 병드신 것이나 옥에 갇히신 것을 보고 가서 뵈었나이까 하리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When did we take care of you",
+      "korean_translation": "우리가 언제 당신을 돌보았나요",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "because you were ill",
+      "korean_translation": "당신이 아팠기 때문에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "When did we come to visit you",
+      "korean_translation": "우리가 언제 당신을 면회하러 왔나요",
+      "word_indices": [
+        380
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "in prison",
+      "korean_translation": "감옥에서",
+      "word_indices": [
+        349
+      ]
+    }
+  ]
+}

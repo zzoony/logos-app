@@ -1,0 +1,52 @@
+{
+  "verse_reference": "Mark 4:15",
+  "version": "EASY",
+  "original_text": "Some seeds fell on the path. That is like some people who listen to the message. But then Satan comes and he quickly takes the message away from their minds.",
+  "korean_text": "말씀이 길 가에 뿌려졌다는 것은 이들을 가리킴이니 곧 말씀을 들었을 때에 사탄이 즉시 와서 그들에게 뿌려진 말씀을 빼앗는 것이요",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some seeds fell on the path.",
+      "korean_translation": "어떤 씨들이 길에 떨어졌습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "That is like some people",
+      "korean_translation": "그것은 어떤 사람들과 같습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who listen to the message.",
+      "korean_translation": "그들은 메시지를 듣습니다.",
+      "word_indices": [
+        21,
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But then Satan comes",
+      "korean_translation": "그러면 사탄이 옵니다.",
+      "word_indices": [
+        545
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "and he quickly takes the message away",
+      "korean_translation": "그리고 그는 메시지를 빨리 가져갑니다.",
+      "word_indices": [
+        21,
+        248
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "from their minds.",
+      "korean_translation": "그들의 마음에서 가져갑니다.",
+      "word_indices": []
+    }
+  ]
+}

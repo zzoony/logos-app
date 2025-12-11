@@ -1,0 +1,42 @@
+{
+  "verse_reference": "1 Kings 8:10",
+  "version": "EASY",
+  "original_text": "When the priests came out from the Holy Place, a cloud filled the Lord's temple.",
+  "korean_text": "제사장이 성소에서 나올 때에 구름이 여호와의 성전에 가득하매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When the priests came out",
+      "korean_translation": "제사장들이 나올 때",
+      "word_indices": [
+        32
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "from the Holy Place",
+      "korean_translation": "지성소에서",
+      "word_indices": [
+        16,
+        84
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "a cloud filled",
+      "korean_translation": "구름이 가득 찼다",
+      "word_indices": [
+        337
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Lord's temple",
+      "korean_translation": "주의 성전에",
+      "word_indices": [
+        2,
+        49
+      ]
+    }
+  ]
+}

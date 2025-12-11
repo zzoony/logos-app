@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Genesis 6:15",
+  "version": "EASY",
+  "original_text": "This is how you will build the ship: It must be 150 metres long, 25 metres wide and 15 metres high.",
+  "korean_text": "네가 만들 방주는 이러하니 그 길이는 삼백 규빗, 너비는 오십 규빗, 높이는 삼십 규빗이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "This is how you will build the ship",
+      "korean_translation": "네가 그 배를 만들 방법은 이러하니라",
+      "word_indices": [
+        99
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It must be 150 metres long",
+      "korean_translation": "그것은 150미터 길이가 되어야 하고",
+      "word_indices": [
+        134
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "25 metres wide",
+      "korean_translation": "25미터 너비가 되어야 하며",
+      "word_indices": [
+        466
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and 15 metres high",
+      "korean_translation": "그리고 15미터 높이가 되어야 하느니라",
+      "word_indices": [
+        275
+      ]
+    }
+  ]
+}

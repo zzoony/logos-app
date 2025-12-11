@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Ezekiel 29:1",
+  "version": "EASY",
+  "original_text": "The Lord gave this message to me on the 12th day of the 10th month of the 10th year:",
+  "korean_text": "열째 해 열째 달 열두째 날에 여호와의 말씀이 내게 임하여 이르시되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The Lord gave this message to me",
+      "korean_translation": "주께서 내게 이 메시지를 주셨다",
+      "word_indices": [
+        2,
+        4,
+        21
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the 12th day",
+      "korean_translation": "12일에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the 10th month",
+      "korean_translation": "10월 달에",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the 10th year",
+      "korean_translation": "10년째 되던 해에",
+      "word_indices": []
+    }
+  ]
+}

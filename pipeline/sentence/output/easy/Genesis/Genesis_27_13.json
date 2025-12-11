@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Genesis 27:13",
+  "version": "EASY",
+  "original_text": "Jacob's mother said, ‘My son, the curse will happen to me, not you. Do what I say. Go and get the things that I told you.’",
+  "korean_text": "어머니가 그에게 이르되 내 아들아 너의 저주는 내게로 돌리리니 내 말만 따르고 가서 가져오라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jacob's mother said,",
+      "korean_translation": "야곱의 어머니가 말했습니다,",
+      "word_indices": [
+        202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "My son,",
+      "korean_translation": "내 아들아,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the curse will happen to me,",
+      "korean_translation": "저주는 내게 일어날 것입니다,",
+      "word_indices": [
+        22,
+        373
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "not you.",
+      "korean_translation": "너에게는 아니야.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Do what I say.",
+      "korean_translation": "내가 말하는 대로 해라.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Go and get",
+      "korean_translation": "가서 가져오너라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "the things that I told you.",
+      "korean_translation": "내가 너에게 말한 것들을.",
+      "word_indices": []
+    }
+  ]
+}

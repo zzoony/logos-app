@@ -1,0 +1,65 @@
+{
+  "verse_reference": "Matthew 2:2",
+  "version": "EASY",
+  "original_text": "When they arrived there, they asked people, ‘Where is the baby who has been born as the king of the Jews? We saw his special star when it first appeared in the sky. So now we have come here to worship him.’",
+  "korean_text": "유대인의 왕으로 나신 이가 어디 계시냐 우리가 동방에서 그의 별을 보고 그에게 경배하러 왔노라 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "When they arrived there",
+      "korean_translation": "그들이 그곳에 도착했을 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they asked people",
+      "korean_translation": "그들은 사람들에게 물었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Where is the baby",
+      "korean_translation": "그 아기는 어디에 있습니까",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "who has been born as the king of the Jews?",
+      "korean_translation": "유대인의 왕으로 태어난 그 아기는 어디에 있습니까?",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "We saw his special star",
+      "korean_translation": "우리는 그의 특별한 별을 보았습니다",
+      "word_indices": [
+        68,
+        473
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "when it first appeared in the sky",
+      "korean_translation": "그것이 하늘에 처음 나타났을 때",
+      "word_indices": [
+        386
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "So now we have come here",
+      "korean_translation": "그래서 이제 우리는 여기에 왔습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "to worship him",
+      "korean_translation": "그를 경배하기 위해",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

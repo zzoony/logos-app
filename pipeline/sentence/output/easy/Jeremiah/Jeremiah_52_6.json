@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Jeremiah 52:6",
+  "version": "EASY",
+  "original_text": "By the ninth day of the fourth month there was a very bad famine in the city. There was no food for the people to eat.",
+  "korean_text": "그 해 넷째 달 구일에 성중에 기근이 심하여 그 땅 백성의 양식이 떨어졌더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "By the ninth day of the fourth month",
+      "korean_translation": "네째 달 아흐렛날까지",
+      "word_indices": [
+        255,
+        645,
+        1023
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "there was a very bad famine in the city",
+      "korean_translation": "성중에 심한 기근이 있어서",
+      "word_indices": [
+        20,
+        509
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "There was no food",
+      "korean_translation": "식물이 없었으므로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for the people to eat",
+      "korean_translation": "백성이 먹지 못하였더라",
+      "word_indices": []
+    }
+  ]
+}

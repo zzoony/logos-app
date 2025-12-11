@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Nehemiah 6:15",
+  "version": "EASY",
+  "original_text": "We finished the city's wall on the 25th day of the month Elul. It had taken 52 days to build the wall again.",
+  "korean_text": "성벽 역사가 오십이 일 만인 엘룰월 이십오일에 끝나매",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "We finished the city's wall",
+      "korean_translation": "우리는 도시의 성벽을 완성했습니다",
+      "word_indices": [
+        20,
+        148
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the 25th day of the month Elul",
+      "korean_translation": "에불월 25일에",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "It had taken 52 days",
+      "korean_translation": "그것은 52일이 걸렸습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to build the wall again",
+      "korean_translation": "성벽을 다시 쌓는 데",
+      "word_indices": [
+        99,
+        148
+      ]
+    }
+  ]
+}

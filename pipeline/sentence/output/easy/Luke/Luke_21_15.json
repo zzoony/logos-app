@@ -1,0 +1,55 @@
+{
+  "verse_reference": "Luke 21:15",
+  "version": "EASY",
+  "original_text": "I will give you the right words to speak at that time. I will help you to be wise. The people who are against you will not be able to argue with you. They will just be quiet.",
+  "korean_text": "내가 너희의 모든 대적이 능히 대항하거나 변박할 수 없는 구변과 지혜를 너희에게 주리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I will give you the right words to speak",
+      "korean_translation": "나는 너에게 말할 올바른 말을 주겠다",
+      "word_indices": [
+        4,
+        18,
+        38,
+        128
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at that time",
+      "korean_translation": "그때에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will help you to be wise",
+      "korean_translation": "나는 네가 지혜롭도록 도울 것이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The people who are against you",
+      "korean_translation": "너를 반대하는 사람들",
+      "word_indices": [
+        31
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "will not be able to argue with you",
+      "korean_translation": "너와 논쟁할 수 없을 것이다",
+      "word_indices": [
+        534
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "They will just be quiet",
+      "korean_translation": "그들은 그저 조용히 있을 것이다",
+      "word_indices": [
+        550
+      ]
+    }
+  ]
+}

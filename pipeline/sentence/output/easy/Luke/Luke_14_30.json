@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Luke 14:30",
+  "version": "EASY",
+  "original_text": "“That man is a fool. He started to build, but he could not finish the work.” ’",
+  "korean_text": "이르되 이 사람이 공사를 시작하고 능히 이루지 못하였다 하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "That man is a fool",
+      "korean_translation": "그 사람은 어리석은 자이다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He started to build",
+      "korean_translation": "그는 건축을 시작했으나",
+      "word_indices": [
+        99,
+        222
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but he could not finish the work",
+      "korean_translation": "그 일을 끝내지 못했다",
+      "word_indices": [
+        35
+      ]
+    }
+  ]
+}

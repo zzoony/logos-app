@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Ezra 10:17",
+  "version": "EASY",
+  "original_text": "They finished on the first day of the first month of the new year.",
+  "korean_text": "첫째 달 초하루에 이르러 이방 여인을 아내로 맞이한 자의 일 조사하기를 마치니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They finished",
+      "korean_translation": "그들은 마쳤다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "on the first day",
+      "korean_translation": "첫째 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "of the first month",
+      "korean_translation": "첫째 달의",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "of the new year",
+      "korean_translation": "새해의",
+      "word_indices": []
+    }
+  ]
+}

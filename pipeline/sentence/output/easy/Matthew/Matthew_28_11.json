@@ -1,0 +1,74 @@
+{
+  "verse_reference": "Matthew 28:11",
+  "version": "EASY",
+  "original_text": "The women went to tell the disciples Jesus' message. At the same time, some of the soldiers who had watched the rock also went into the city. The soldiers told the leaders of the priests everything that had happened at the rock.",
+  "korean_text": "여자들이 갈 때 경비병 중 몇이 성에 들어가 모든 된 일을 대제사장들에게 알리니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The women went to tell the disciples",
+      "korean_translation": "여자들이 제자들에게 알리러 갔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Jesus' message",
+      "korean_translation": "예수님의 메시지",
+      "word_indices": [
+        21
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "At the same time",
+      "korean_translation": "동시에",
+      "word_indices": [
+        74
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "some of the soldiers",
+      "korean_translation": "어떤 군인들",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "who had watched the rock",
+      "korean_translation": "그 바위를 지키고 있던",
+      "word_indices": [
+        273,
+        279
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "also went into the city",
+      "korean_translation": "성으로 들어갔다",
+      "word_indices": [
+        9,
+        20
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "The soldiers told the leaders of the priests",
+      "korean_translation": "군인들은 제사장 지도자들에게 말했다",
+      "word_indices": [
+        32,
+        36
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "everything that had happened at the rock",
+      "korean_translation": "그 바위에서 일어난 모든 일을",
+      "word_indices": [
+        22,
+        279
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Genesis 7:10",
+  "version": "EASY",
+  "original_text": "After seven days had passed, God sent the deep water to cover the earth.",
+  "korean_text": "칠 일 후에 홍수가 땅에 덮이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After seven days had passed",
+      "korean_translation": "칠 일이 지나고 난 후에",
+      "word_indices": [
+        198
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "God sent the deep water",
+      "korean_translation": "하나님께서 깊은 물을 보내셨다",
+      "word_indices": [
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to cover the earth",
+      "korean_translation": "땅을 덮기 위해",
+      "word_indices": [
+        93,
+        238
+      ]
+    }
+  ]
+}

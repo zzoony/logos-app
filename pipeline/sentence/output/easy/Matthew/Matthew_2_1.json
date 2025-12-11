@@ -1,0 +1,69 @@
+{
+  "verse_reference": "Matthew 2:1",
+  "version": "EASY",
+  "original_text": "Jesus was born in a town called Bethlehem, in Judea. King Herod ruled Judea at that time. After Jesus was born, some wise men came to Jerusalem from a country in the east.",
+  "korean_text": "헤롯 왕 때에 예수께서 유대 베들레헴에서 나시매 동방으로부터 박사들이 예루살렘에 이르러 말하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus was born",
+      "korean_translation": "예수님께서 태어나셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in a town called Bethlehem",
+      "korean_translation": "베들레헴이라는 고을에서",
+      "word_indices": [
+        47
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in Judea",
+      "korean_translation": "유대 지역에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "King Herod ruled Judea",
+      "korean_translation": "헤롯 왕이 유대를 다스렸다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "at that time",
+      "korean_translation": "그 시대에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "After Jesus was born",
+      "korean_translation": "예수님께서 태어나신 후에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "some wise men came",
+      "korean_translation": "몇몇 현인들이 왔다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "to Jerusalem",
+      "korean_translation": "예루살렘으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "from a country in the east",
+      "korean_translation": "동쪽 나라에서부터",
+      "word_indices": [
+        117,
+        284
+      ]
+    }
+  ]
+}

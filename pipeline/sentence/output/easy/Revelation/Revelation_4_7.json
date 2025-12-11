@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Revelation 4:7",
+  "version": "EASY",
+  "original_text": "The first of these beings was like a lion. The second being was like an ox. The third being had a face like a man's face. And the fourth being was like an eagle that was flying.",
+  "korean_text": "그 첫째 생물은 사자 같고 그 둘째 생물은 송아지 같고 그 셋째 생물은 얼굴이 사람 같고 그 넷째 생물은 날아가는 독수리 같은데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The first of these beings was like a lion.",
+      "korean_translation": "이 생물들 중 첫 번째는 사자와 같았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The second being was like an ox.",
+      "korean_translation": "두 번째 생물은 소와 같았습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The third being had a face like a man's face.",
+      "korean_translation": "세 번째 생물은 사람의 얼굴과 같은 얼굴을 가지고 있었습니다.",
+      "word_indices": [
+        299,
+        431
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And the fourth being was like an eagle",
+      "korean_translation": "그리고 네 번째 생물은 독수리와 같았습니다",
+      "word_indices": [
+        645,
+        686
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that was flying.",
+      "korean_translation": "날고 있었습니다.",
+      "word_indices": []
+    }
+  ]
+}

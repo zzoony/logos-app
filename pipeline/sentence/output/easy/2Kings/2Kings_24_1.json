@@ -1,0 +1,50 @@
+{
+  "verse_reference": "2 Kings 24:1",
+  "version": "EASY",
+  "original_text": "While Jehoiakim was king, King Nebuchadnezzar of Babylon attacked Judah. Jehoiakim was under Nebuchadnezzar's authority for three years. But then Jehoiakim turned against Nebuchadnezzar.",
+  "korean_text": "여호야김 시대에 바벨론의 왕 느부갓네살이 올라오매 여호야김이 삼 년간 섬기다가 돌아서 그를 배반하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "While Jehoiakim was king",
+      "korean_translation": "여호야킴이 왕으로 있을 때에",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "King Nebuchadnezzar of Babylon attacked Judah",
+      "korean_translation": "바빌론의 느부갓네살 왕이 유다를 침략했습니다",
+      "word_indices": [
+        3,
+        62
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Jehoiakim was under Nebuchadnezzar's authority",
+      "korean_translation": "여호야킴은 느부갓네살의 권위 아래 있었습니다",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "for three years",
+      "korean_translation": "삼 년 동안",
+      "word_indices": [
+        166
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But then Jehoiakim turned against Nebuchadnezzar",
+      "korean_translation": "그러나 여호야킴은 느부갓네살에게 반항했습니다",
+      "word_indices": [
+        31,
+        72
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verse_reference": "Deuteronomy 14:22",
+  "version": "EASY",
+  "original_text": "You must keep safe a tenth part of all the crops that grow in your fields. You must be careful to do this every year.",
+  "korean_text": "너는 마땅히 매 년 토지 소산의 십일조를 드릴 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must keep safe a tenth part of all the crops",
+      "korean_translation": "너는 모든 곡물의 십분의 일을 안전하게 보관해야 한다",
+      "word_indices": [
+        101,
+        671
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "that grow in your fields.",
+      "korean_translation": "그것은 네 밭에서 자란 것이다",
+      "word_indices": [
+        152,
+        156
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must be careful to do this",
+      "korean_translation": "너는 이것을 행하기에 조심해야 한다",
+      "word_indices": [
+        309
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "every year.",
+      "korean_translation": "매년",
+      "word_indices": []
+    }
+  ]
+}

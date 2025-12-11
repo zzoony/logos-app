@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Numbers 4:11",
+  "version": "EASY",
+  "original_text": "They must cover the gold altar with a blue cloth. They must cover the blue cloth with good leather. Then they must fix the poles to the altar, so that they can carry it.",
+  "korean_text": "금제단 위에 청색 보자기를 펴고 해달의 가죽 덮개로 덮고 그 채를 꿰고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They must cover the gold altar",
+      "korean_translation": "그들은 금 제단을 덮어야 합니다",
+      "word_indices": [
+        119,
+        130,
+        238
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with a blue cloth",
+      "korean_translation": "푸른 천으로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They must cover the blue cloth",
+      "korean_translation": "그들은 푸른 천을 덮어야 합니다",
+      "word_indices": [
+        238
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "with good leather",
+      "korean_translation": "좋은 가죽으로",
+      "word_indices": [
+        19,
+        795
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Then they must fix the poles",
+      "korean_translation": "그때 그들은 채들을 고정해야 합니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to the altar",
+      "korean_translation": "제단에",
+      "word_indices": [
+        119
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "so that they can carry it",
+      "korean_translation": "그들이 그것을 운반할 수 있도록",
+      "word_indices": [
+        201
+      ]
+    }
+  ]
+}

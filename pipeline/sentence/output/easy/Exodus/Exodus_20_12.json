@@ -1,0 +1,35 @@
+{
+  "verse_reference": "Exodus 20:12",
+  "version": "EASY",
+  "original_text": "Always respect your father and your mother. Then you will live for many years in the land that the Lord your God will give to you.",
+  "korean_text": "네 부모를 공경하라 그리하면 네 하나님 여호와가 네게 준 땅에서 네 생명이 길리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Always respect your father and your mother",
+      "korean_translation": "항상 네 아버지와 어머니를 공경하라",
+      "word_indices": [
+        37,
+        202
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Then you will live for many years",
+      "korean_translation": "그리하면 너는 오랫동안 살게 될 것이다",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "in the land that the Lord your God will give to you",
+      "korean_translation": "네 하나님 여호와가 네게 주는 땅에서",
+      "word_indices": [
+        2,
+        4,
+        14
+      ]
+    }
+  ]
+}

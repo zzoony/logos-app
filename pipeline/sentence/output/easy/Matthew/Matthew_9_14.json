@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Matthew 9:14",
+  "version": "EASY",
+  "original_text": "Then the disciples of John the Baptist came to Jesus. They said to him, ‘We often decide to fast for a time. The disciples of the Pharisees also do that. Why do your disciples never do that?’",
+  "korean_text": "그 때에 요한의 제자들이 예수께 나아와 이르되 우리와 바리새인들은 금식하는데 어찌하여 당신의 제자들은 금식하지 아니하나이까",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then the disciples of John the Baptist came to Jesus.",
+      "korean_translation": "그때 세례 요한의 제자들이 예수께 왔다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They said to him,",
+      "korean_translation": "그들이 그에게 말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "'We often decide to fast for a time.",
+      "korean_translation": "'우리는 자주 한동안 금식하기로 결정합니다.",
+      "word_indices": [
+        111,
+        614,
+        620
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The disciples of the Pharisees also do that.",
+      "korean_translation": "바리새인의 제자들도 그렇게 합니다.",
+      "word_indices": [
+        9
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Why do your disciples never do that?'",
+      "korean_translation": "어찌하여 당신의 제자들은 결코 그렇게 하지 않습니까?'",
+      "word_indices": []
+    }
+  ]
+}

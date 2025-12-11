@@ -1,0 +1,46 @@
+{
+  "verse_reference": "John 14:19",
+  "version": "EASY",
+  "original_text": "Soon, the people who belong to this world will not see me any more. But you will see me. Because I continue to live, you also will live.",
+  "korean_text": "조금 있으면 세상은 다시 나를 보지 못할 것이로되 너희는 나를 보리니 이는 내가 살아 있고 너희도 살아 있겠음이라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Soon, the people who belong to this world",
+      "korean_translation": "곧, 이 세상에 속한 사람들은",
+      "word_indices": [
+        45,
+        159
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "will not see me any more.",
+      "korean_translation": "더 이상 나를 보지 못할 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you will see me.",
+      "korean_translation": "하지만 너희는 나를 볼 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Because I continue to live,",
+      "korean_translation": "내가 계속 살기 때문에,",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "you also will live.",
+      "korean_translation": "너희도 살게 될 것이다.",
+      "word_indices": [
+        8,
+        9
+      ]
+    }
+  ]
+}

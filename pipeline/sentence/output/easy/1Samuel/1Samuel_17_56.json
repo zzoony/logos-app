@@ -1,0 +1,33 @@
+{
+  "verse_reference": "1 Samuel 17:56",
+  "version": "EASY",
+  "original_text": "The king said, ‘You must find out the name of that man's father.’",
+  "korean_text": "왕이 이르되 너는 이 청년이 누구의 아들인가 물어보라 하였더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The king said",
+      "korean_translation": "왕이 말했다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'You must find out",
+      "korean_translation": "너는 알아내야 한다",
+      "word_indices": [
+        131
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "the name of that man's father.'",
+      "korean_translation": "그 남자의 아버지의 이름을.'",
+      "word_indices": [
+        37,
+        90
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verse_reference": "Luke 23:31",
+  "version": "EASY",
+  "original_text": "There is much trouble and pain now. But much worse things will happen! Now the fire burns slowly. But soon it will be like a fire that quickly burns dry wood!’",
+  "korean_text": "푸른 나무에도 이같이 하거든 마른 나무에는 어떻게 되리요 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "There is much trouble and pain now",
+      "korean_translation": "지금은 많은 환난과 고통이 있습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But much worse things will happen",
+      "korean_translation": "하지만 훨씬 더 나쁜 일들이 일어날 것입니다",
+      "word_indices": [
+        22,
+        621
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Now the fire burns slowly",
+      "korean_translation": "지금은 불이 천천히 타고 있습니다",
+      "word_indices": [
+        121,
+        1033
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But soon it will be like a fire",
+      "korean_translation": "하지만 곧 불과 같을 것입니다",
+      "word_indices": [
+        121
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "that quickly burns dry wood",
+      "korean_translation": "마른 나무를 빠르게 태우는 불처럼",
+      "word_indices": [
+        239,
+        248
+      ]
+    }
+  ]
+}

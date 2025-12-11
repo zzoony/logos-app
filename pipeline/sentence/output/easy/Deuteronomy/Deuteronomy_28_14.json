@@ -1,0 +1,53 @@
+{
+  "verse_reference": "Deuteronomy 28:14",
+  "version": "EASY",
+  "original_text": "You must continue to obey all the commands that I am giving you today. Do not turn away from them to do anything else. Do not try to worship other gods.",
+  "korean_text": "내가 오늘 너희에게 명령하는 그 말씀을 떠나 좌로나 우로나 치우치지 아니하고 다른 신을 따라 섬기지 아니하면 이와 같으리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must continue to obey",
+      "korean_translation": "너는 계속해서 순종해야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "all the commands",
+      "korean_translation": "모든 명령들을",
+      "word_indices": [
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that I am giving you today",
+      "korean_translation": "내가 오늘 너에게 주는",
+      "word_indices": [
+        4,
+        233
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Do not turn away from them",
+      "korean_translation": "그것들에서 떠나지 말라",
+      "word_indices": [
+        72
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to do anything else",
+      "korean_translation": "다른 것을 하기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "Do not try to worship other gods",
+      "korean_translation": "다른 신들을 섬기려고 시도하지 말라",
+      "word_indices": [
+        89
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse_reference": "Exodus 12:46",
+  "version": "EASY",
+  "original_text": "You must eat the meal in one house. You must not take any of the meat outside the house. You must not break any of the bones in the meat.",
+  "korean_text": "한 집에서 먹되 그 고기를 조금도 집 밖으로 내지 말고 뼈도 꺾지 말지며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must eat the meal in one house.",
+      "korean_translation": "너희는 한 집에서 식사를 먹어야 한다.",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You must not take any of the meat outside the house.",
+      "korean_translation": "너희는 고기 중 어느 것도 집 밖으로 가져가서는 안 된다.",
+      "word_indices": [
+        67,
+        315
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must not break any of the bones in the meat.",
+      "korean_translation": "너희는 고기의 뼈 중 어느 것도 부러뜨려서는 안 된다.",
+      "word_indices": [
+        246
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verse_reference": "Acts 2:9",
+  "version": "EASY",
+  "original_text": "Some of us are from Parthia, Media and Elam. Some of us live in Mesopotamia, Judea, and Cappadocia. Some of us are from Pontus and Asia.",
+  "korean_text": "우리는 바대인과 메대인과 엘람인과 또 메소보다미아, 유대와 갑바도기아, 본도와 아시아,",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Some of us are from Parthia,",
+      "korean_translation": "우리 중 어떤 사람들은 파르티아에서 왔고,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Media and Elam.",
+      "korean_translation": "메대와 엘람에서 왔습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Some of us live in Mesopotamia,",
+      "korean_translation": "우리 중 어떤 사람들은 메소포타미아에 살고 있으며,",
+      "word_indices": [
+        8
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Judea, and Cappadocia.",
+      "korean_translation": "유대와 카파도키아에 삽니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Some of us are from Pontus",
+      "korean_translation": "우리 중 어떤 사람들은 폰투스에서 왔고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and Asia.",
+      "korean_translation": "아시아에서 왔습니다.",
+      "word_indices": []
+    }
+  ]
+}

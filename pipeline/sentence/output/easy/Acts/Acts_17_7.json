@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Acts 17:7",
+  "version": "EASY",
+  "original_text": "Jason has let them stay in his house. They speak against the laws that Caesar has given to us. They say that there is another king. This other king is called Jesus.’",
+  "korean_text": "야손이 그들을 맞아 들였도다 이 사람들이 다 가이사의 명을 거역하여 말하되 다른 임금 곧 예수라 하는 이가 있다 하더이다 하니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jason has let them stay in his house",
+      "korean_translation": "이손이 그들을 자기 집에 머물게 했습니다",
+      "word_indices": [
+        67
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They speak against the laws",
+      "korean_translation": "그들은 법에 반대하여 말합니다",
+      "word_indices": [
+        18,
+        31
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that Caesar has given to us",
+      "korean_translation": "그 법은 카이사르가 우리에게 준 것입니다",
+      "word_indices": [
+        4
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They say that there is another king",
+      "korean_translation": "그들은 다른 왕이 있다고 말합니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "This other king is called Jesus",
+      "korean_translation": "이 다른 왕은 예수라고 불립니다",
+      "word_indices": [
+        3,
+        47
+      ]
+    }
+  ]
+}

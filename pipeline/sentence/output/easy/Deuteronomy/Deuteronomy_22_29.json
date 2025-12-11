@@ -1,0 +1,63 @@
+{
+  "verse_reference": "Deuteronomy 22:29",
+  "version": "EASY",
+  "original_text": "If that happens, the man must pay 50 pieces of silver to the girl's father. He must also marry the girl because he has had sex with her. He may never send her away as long as he lives.",
+  "korean_text": "그 동침한 남자는 그 처녀의 아버지에게 은 오십 세겔을 주고 그 처녀를 아내로 삼을 것이라 그가 그 처녀를 욕보였은즉 평생에 그를 버리지 못하리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "If that happens",
+      "korean_translation": "그런 일이 일어나면",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "the man must pay 50 pieces of silver",
+      "korean_translation": "그 남자는 은 50조각을 지불해야 합니다",
+      "word_indices": [
+        195
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the girl's father",
+      "korean_translation": "그 소녀의 아버지에게",
+      "word_indices": [
+        37
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He must also marry the girl",
+      "korean_translation": "그는 또한 그 소녀와 결혼해야 합니다",
+      "word_indices": [
+        9,
+        209
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "because he has had sex with her",
+      "korean_translation": "왜냐하면 그는 그녀와 성관계를 맺었기 때문입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "He may never send her away",
+      "korean_translation": "그는 그녀를 내보낼 수 없습니다",
+      "word_indices": [
+        25
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "as long as he lives",
+      "korean_translation": "살아있는 동안",
+      "word_indices": [
+        134
+      ]
+    }
+  ]
+}

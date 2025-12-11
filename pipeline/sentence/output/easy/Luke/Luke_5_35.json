@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 5:35",
+  "version": "EASY",
+  "original_text": "But there will be a time when people take that man away from his friends. Then they will decide to fast.’",
+  "korean_text": "그러나 그 날에 이르러 그들이 신랑을 빼앗기리니 그 날에는 금식할 것이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But there will be a time",
+      "korean_translation": "그러나 때가 이르리라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "when people take that man away",
+      "korean_translation": "사람들이 그 사람을 데려갈 때",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "from his friends",
+      "korean_translation": "그의 친구들로부터",
+      "word_indices": [
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Then they will decide to fast",
+      "korean_translation": "그때 그들은 금식하기로 결정할 것입니다",
+      "word_indices": [
+        111,
+        614
+      ]
+    }
+  ]
+}

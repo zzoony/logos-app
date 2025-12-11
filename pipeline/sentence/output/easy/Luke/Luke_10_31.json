@@ -1,0 +1,45 @@
+{
+  "verse_reference": "Luke 10:31",
+  "version": "EASY",
+  "original_text": "But it happened that a priest from the temple was going down that road. He saw the man, who was lying there. But he walked past him on the other side of the road.",
+  "korean_text": "마침 한 제사장이 그 길로 내려가다가 그를 보고 피하여 지나가고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But it happened that a priest from the temple",
+      "korean_translation": "그러나 성전의 한 제사장이 그 길을 내려가다가",
+      "word_indices": [
+        22,
+        32,
+        49
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "was going down that road.",
+      "korean_translation": "그 길을 내려가고 있었다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "He saw the man, who was lying there.",
+      "korean_translation": "그는 거기에 누워 있는 남자를 보았다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "But he walked past him",
+      "korean_translation": "하지만 그는 그를 지나쳐 갔다.",
+      "word_indices": [
+        204,
+        512
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the other side of the road.",
+      "korean_translation": "길의 다른 편으로.",
+      "word_indices": []
+    }
+  ]
+}

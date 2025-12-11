@@ -1,0 +1,41 @@
+{
+  "verse_reference": "1 Kings 1:18",
+  "version": "EASY",
+  "original_text": "But see what has happened! Adonijah has become king. But, my master the king, you do not even know about it!",
+  "korean_text": "이제 아도니야가 왕이 되었어도 내 주 왕은 알지 못하시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But see what has happened!",
+      "korean_translation": "하지만 무슨 일이 일어났는지 보세요!",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Adonijah has become king.",
+      "korean_translation": "아도니야가 왕이 되었습니다.",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But, my master the king,",
+      "korean_translation": "하지만, 나의 주인이신 왕이시여,",
+      "word_indices": [
+        3,
+        176
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you do not even know about it!",
+      "korean_translation": "당신은 그것에 대해 전혀 모르고 계십니다!",
+      "word_indices": [
+        12
+      ]
+    }
+  ]
+}

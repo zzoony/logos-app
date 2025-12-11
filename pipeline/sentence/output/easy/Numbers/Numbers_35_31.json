@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Numbers 35:31",
+  "version": "EASY",
+  "original_text": "You must not accept money to pay for the life of a murderer. If he is guilty of murder, you must kill him.",
+  "korean_text": "고의로 살인죄를 범한 살인자는 생명의 속전을 받지 말고 반드시 죽일 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not accept money",
+      "korean_translation": "너는 돈을 받아서는 안 된다",
+      "word_indices": [
+        142,
+        143
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to pay for the life of a murderer",
+      "korean_translation": "살인자의 생명 값을 치르기 위해",
+      "word_indices": [
+        41,
+        773
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "If he is guilty of murder",
+      "korean_translation": "만약 그가 살인에 죄가 있다면",
+      "word_indices": [
+        232,
+        537
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you must kill him",
+      "korean_translation": "너는 그를 죽여야 한다",
+      "word_indices": [
+        26
+      ]
+    }
+  ]
+}

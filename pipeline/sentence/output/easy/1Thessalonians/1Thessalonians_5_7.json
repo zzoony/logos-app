@@ -1,0 +1,26 @@
+{
+  "verse_reference": "1 Thessalonians 5:7",
+  "version": "EASY",
+  "original_text": "It is at night that people sleep. It is at night that people become drunk.",
+  "korean_text": "자는 자들은 밤에 자고 취하는 자들은 밤에 취하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "It is at night that people sleep.",
+      "korean_translation": "밤에 사람들이 잠을 잔다.",
+      "word_indices": [
+        211,
+        361
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It is at night that people become drunk.",
+      "korean_translation": "밤에 사람들이 취하게 된다.",
+      "word_indices": [
+        211,
+        1372
+      ]
+    }
+  ]
+}

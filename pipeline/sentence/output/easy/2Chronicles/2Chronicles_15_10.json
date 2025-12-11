@@ -1,0 +1,31 @@
+{
+  "verse_reference": "2 Chronicles 15:10",
+  "version": "EASY",
+  "original_text": "All these people met together in Jerusalem in the 15th year after Asa had become king. They met in the third month of the year.",
+  "korean_text": "아사 왕 제십오년 셋째 달에 그들이 예루살렘에 모이고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "All these people met together in Jerusalem",
+      "korean_translation": "이 모든 사람들이 예루살렘에 함께 모였습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the 15th year after Asa had become king",
+      "korean_translation": "아사가 왕이 된 지 15년째 되던 해에",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "They met in the third month of the year",
+      "korean_translation": "그들은 그 해의 세 번째 달에 만났습니다",
+      "word_indices": [
+        255,
+        431
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "verse_reference": "Genesis 18:3",
+  "version": "EASY",
+  "original_text": "Abraham said, ‘Please sir, stop here and let me serve you. That would make me very happy.",
+  "korean_text": "이르되 내 주여 내가 주께 은혜를 입었사오면 원하건대 종을 떠나 지나가지 마시옵고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Abraham said",
+      "korean_translation": "아브라함이 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Please sir, stop here",
+      "korean_translation": "주인님, 여기에서 머물러 주세요",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and let me serve you",
+      "korean_translation": "그리고 제가 당신을 대접하게 해주세요",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "That would make me very happy",
+      "korean_translation": "그것은 제를 매우 기쁘게 할 것입니다",
+      "word_indices": [
+        57
+      ]
+    }
+  ]
+}

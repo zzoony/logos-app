@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 20:16",
+  "version": "EASY",
+  "original_text": "Jesus said to her, ‘Mary.’ She turned towards him and she said in the Jewish language, ‘Rabboni!’ (This means ‘Teacher’.)",
+  "korean_text": "예수께서 마리아야 하시거늘 마리아가 돌이켜 히브리 말로 랍오니 하니 (이는 선생님이라는 말이라)",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to her",
+      "korean_translation": "예수님이 그녀에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Mary",
+      "korean_translation": "마리아야",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "She turned towards him",
+      "korean_translation": "그녀는 그를 향해 돌아섰다",
+      "word_indices": [
+        72
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and she said in the Jewish language",
+      "korean_translation": "그리고 그녀는 유대 언어로 말했다",
+      "word_indices": [
+        471
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Rabboni",
+      "korean_translation": "랍보니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "This means Teacher",
+      "korean_translation": "이것은 선생님을 의미한다",
+      "word_indices": [
+        280
+      ]
+    }
+  ]
+}

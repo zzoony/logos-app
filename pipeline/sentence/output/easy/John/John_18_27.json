@@ -1,0 +1,31 @@
+{
+  "verse_reference": "John 18:27",
+  "version": "EASY",
+  "original_text": "Again, Peter said, ‘No, that is not true.’ Immediately a cockerel sang.",
+  "korean_text": "이에 베드로가 또 부인하니 곧 닭이 울더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Again, Peter said",
+      "korean_translation": "다시 베드로가 말하였다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "No, that is not true",
+      "korean_translation": "아니요, 그것은 사실이 아닙니다",
+      "word_indices": [
+        69
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Immediately a cockerel sang",
+      "korean_translation": "바로 수탉이 울었다",
+      "word_indices": [
+        414,
+        965
+      ]
+    }
+  ]
+}

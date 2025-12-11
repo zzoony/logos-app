@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Deuteronomy 28:39",
+  "version": "EASY",
+  "original_text": "You will plant vineyards to grow grapes. You will take care of the plants. But you will not drink any wine or bring in any grapes. Instead, worms will eat them.",
+  "korean_text": "네가 포도원을 심고 가꿀지라도 벌레가 먹으므로 포도를 따지 못하고 포도주를 마시지 못할 것이며",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You will plant vineyards to grow grapes.",
+      "korean_translation": "포도를 재배하기 위해 포도원을 심을 것이다.",
+      "word_indices": [
+        156,
+        199,
+        542
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You will take care of the plants.",
+      "korean_translation": "식물들을 돌볼 것이다.",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But you will not drink any wine",
+      "korean_translation": "그러나 어떤 포도주도 마시지 못할 것이다",
+      "word_indices": [
+        118,
+        219
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "or bring in any grapes.",
+      "korean_translation": "어떤 포도도 거두어들이지 못할 것이다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Instead, worms will eat them.",
+      "korean_translation": "대신 벌레들이 그것들을 먹을 것이다.",
+      "word_indices": []
+    }
+  ]
+}

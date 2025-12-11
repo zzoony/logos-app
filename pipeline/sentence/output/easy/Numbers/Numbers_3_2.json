@@ -1,0 +1,28 @@
+{
+  "verse_reference": "Numbers 3:2",
+  "version": "EASY",
+  "original_text": "The names of the sons of Aaron were Nadab, Abihu, Eleazar and Ithamar. Nadab was the firstborn son.",
+  "korean_text": "아론의 아들들의 이름은 이러하니 장자는 나답이요 다음은 아비후와 엘르아살과 이다말이니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The names of the sons of Aaron",
+      "korean_translation": "아론의 아들들의 이름은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "were Nadab, Abihu, Eleazar and Ithamar",
+      "korean_translation": "나답, 아비후, 엘르아살과 이다말이었다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Nadab was the firstborn son",
+      "korean_translation": "나답은 장남이었다",
+      "word_indices": [
+        500
+      ]
+    }
+  ]
+}

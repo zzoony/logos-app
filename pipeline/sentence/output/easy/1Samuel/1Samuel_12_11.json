@@ -1,0 +1,40 @@
+{
+  "verse_reference": "1 Samuel 12:11",
+  "version": "EASY",
+  "original_text": "So the Lord sent Gideon, Barak, Jephthah and Samuel to help you. The Lord saved you from all your enemies so that you could live safely.",
+  "korean_text": "여호와께서 여룹바알과 베단과 입다와 나 사무엘을 보내사 너희를 너희 사방 원수의 손에서 건져내사 너희에게 안전하게 살게 하셨거늘",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "So the Lord sent Gideon, Barak, Jephthah and Samuel",
+      "korean_translation": "그래서 여호와께서 기드온과 바락과 입다와 사무엘을 보내셨고",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to help you",
+      "korean_translation": "너희를 돕기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The Lord saved you from all your enemies",
+      "korean_translation": "여호와께서 너희를 모든 원수에게서 건지셨으니",
+      "word_indices": [
+        2,
+        50
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "so that you could live safely",
+      "korean_translation": "너희가 안전하게 살 수 있도록",
+      "word_indices": [
+        8,
+        371
+      ]
+    }
+  ]
+}

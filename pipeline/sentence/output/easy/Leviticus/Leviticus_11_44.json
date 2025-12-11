@@ -1,0 +1,76 @@
+{
+  "verse_reference": "Leviticus 11:44",
+  "version": "EASY",
+  "original_text": "God says, “I am the Lord your God. I am holy. Make yourselves holy. Do not touch any small animal that moves across the ground. If you do, you will not be clean or holy",
+  "korean_text": "나는 여호와 너희의 하나님이라 내가 거룩하니 너희도 몸을 구별하여 거룩하게 하고 땅에 기는 길짐승으로 말미암아 스스로 더럽히지 말라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "God says",
+      "korean_translation": "하나님이 말씀하신다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I am the Lord your God",
+      "korean_translation": "나는 너의 하나님 여호와이다",
+      "word_indices": [
+        2
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I am holy",
+      "korean_translation": "나는 거룩하다",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Make yourselves holy",
+      "korean_translation": "너희 스스로를 거룩하게 하라",
+      "word_indices": [
+        84
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Do not touch any small animal",
+      "korean_translation": "어떤 작은 동물도 만지지 말라",
+      "word_indices": [
+        48,
+        295,
+        348
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "that moves across the ground",
+      "korean_translation": "땅에서 기어 다니는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "If you do",
+      "korean_translation": "만약 너희가 그렇게 하면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "you will not be clean",
+      "korean_translation": "너희는 깨끗하지 못할 것이다",
+      "word_indices": [
+        184
+      ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "or holy",
+      "korean_translation": "또는 거룩하지 못할 것이다",
+      "word_indices": [
+        84
+      ]
+    }
+  ]
+}

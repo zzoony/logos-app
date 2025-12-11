@@ -1,0 +1,50 @@
+{
+  "verse_reference": "John 6:53",
+  "version": "EASY",
+  "original_text": "Jesus said to them, ‘I tell you this: You must eat the body of the Son of Man and you must drink his blood. Unless you do those things, you do not have true life.",
+  "korean_text": "예수께서 이르시되 내가 진실로 진실로 너희에게 이르노니 인자의 살을 먹지 아니하고 인자의 피를 마시지 아니하면 너희 속에 생명이 없느니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus said to them",
+      "korean_translation": "예수님께서 그들에게 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I tell you this",
+      "korean_translation": "내가 너희에게 이것을 말한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "You must eat the body of the Son of Man",
+      "korean_translation": "너희는 인자의 몸을 먹어야 한다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and you must drink his blood",
+      "korean_translation": "그리고 그의 피를 마셔야 한다",
+      "word_indices": [
+        118,
+        221
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Unless you do those things",
+      "korean_translation": "너희가 그것들을 하지 않으면",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you do not have true life",
+      "korean_translation": "너희는 참된 생명을 가지지 못한다",
+      "word_indices": [
+        41,
+        69
+      ]
+    }
+  ]
+}

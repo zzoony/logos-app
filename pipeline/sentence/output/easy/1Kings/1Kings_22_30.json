@@ -1,0 +1,74 @@
+{
+  "verse_reference": "1 Kings 22:30",
+  "version": "EASY",
+  "original_text": "King Ahab said to Jehoshaphat, ‘When we go into the battle, I will wear ordinary clothes. People will not recognize me as the king. But you should wear your royal clothes.’ So the king of Israel went into the battle as if he was an ordinary soldier.",
+  "korean_text": "이스라엘의 왕이 여호사밧에게 이르되 나는 변장하고 전쟁터로 들어가려 하노니 당신은 왕복을 입으소서 하고 이스라엘의 왕이 변장하고 전쟁터로 들어가니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "King Ahab said to Jehoshaphat",
+      "korean_translation": "아합 왕이 여호사밧에게 말했습니다",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "'When we go into the battle",
+      "korean_translation": "'우리가 전투에 들어갈 때'",
+      "word_indices": [
+        205
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I will wear ordinary clothes.",
+      "korean_translation": "나는 평범한 옷을 입을 것입니다.'",
+      "word_indices": [
+        740
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "People will not recognize me as the king.",
+      "korean_translation": "사람들이 나를 왕으로 알아보지 못할 것입니다.",
+      "word_indices": [
+        3,
+        660
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "But you should wear your royal clothes.'",
+      "korean_translation": "하지만 당신은 왕의 옷을 입어야 합니다.'",
+      "word_indices": [
+        655
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "So the king of Israel",
+      "korean_translation": "그래서 이스라엘 왕은",
+      "word_indices": [
+        3
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "went into the battle",
+      "korean_translation": "전투에 들어갔습니다",
+      "word_indices": [
+        205
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "as if he was an ordinary soldier.",
+      "korean_translation": "마치 평범한 군인인 것처럼 말입니다.",
+      "word_indices": [
+        36,
+        740
+      ]
+    }
+  ]
+}

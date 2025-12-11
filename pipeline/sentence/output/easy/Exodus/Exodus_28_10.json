@@ -1,0 +1,44 @@
+{
+  "verse_reference": "Exodus 28:10",
+  "version": "EASY",
+  "original_text": "Begin with the name of the oldest son and finish with the name of the youngest son. Write six names on one stone and six names on the other stone.",
+  "korean_text": "그들의 나이대로 여섯 이름을 한 보석에, 나머지 여섯 이름은 다른 보석에 새기라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Begin with the name of the oldest son",
+      "korean_translation": "가장 큰 아들의 이름으로 시작하고",
+      "word_indices": [
+        90,
+        220,
+        882
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and finish with the name of the youngest son",
+      "korean_translation": "가장 어린 아들의 이름으로 끝내라",
+      "word_indices": [
+        90,
+        870
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Write six names on one stone",
+      "korean_translation": "한 돌에 여섯 이름을 새기고",
+      "word_indices": [
+        116,
+        124
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and six names on the other stone",
+      "korean_translation": "다른 돌에 여섯 이름을 새기라",
+      "word_indices": [
+        116
+      ]
+    }
+  ]
+}

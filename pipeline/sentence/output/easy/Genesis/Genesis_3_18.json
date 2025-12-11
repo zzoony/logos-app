@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Genesis 3:18",
+  "version": "EASY",
+  "original_text": "Thorn bushes and thistles will grow in the ground. But you will eat plants that grow in the fields.",
+  "korean_text": "땅이 네게 가시덤불과 엉겅퀴를 낼 것이라 네가 먹을 것은 밭의 채소인즉",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Thorn bushes and thistles will grow in the ground",
+      "korean_translation": "가시나무와 엉겅퀴가 땅에서 날 것이요",
+      "word_indices": [
+        156,
+        640
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "But you will eat plants",
+      "korean_translation": "그러나 너는 밭의 식물을 먹으리라",
+      "word_indices": [
+        199
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "that grow in the fields",
+      "korean_translation": "밭에서 자라는",
+      "word_indices": [
+        152,
+        156
+      ]
+    }
+  ]
+}

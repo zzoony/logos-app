@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Luke 20:34",
+  "version": "EASY",
+  "original_text": "Jesus answered them, ‘Men and women who are alive on earth are the ones who get married.",
+  "korean_text": "예수께서 이르시되 이 세상의 자녀들은 장가도 가고 시집도 가되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Jesus answered them",
+      "korean_translation": "예수님께서 그들에게 대답하셨다",
+      "word_indices": [
+        160
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Men and women",
+      "korean_translation": "남자와 여자들은",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "who are alive on earth",
+      "korean_translation": "땅에서 살아있는 사람들",
+      "word_indices": [
+        93,
+        151
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "are the ones who get married",
+      "korean_translation": "결혼하는 사람들이다",
+      "word_indices": []
+    }
+  ]
+}

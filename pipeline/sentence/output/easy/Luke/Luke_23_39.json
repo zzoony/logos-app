@@ -1,0 +1,66 @@
+{
+  "verse_reference": "Luke 23:39",
+  "version": "EASY",
+  "original_text": "One of the bad men on a cross at the side of Jesus started to insult him. He shouted, ‘You say that you are the Messiah, don't you? Then save your own life and save our lives too!’",
+  "korean_text": "달린 행악자 중 하나는 비방하여 이르되 네가 그리스도가 아니냐 너와 우리를 구원하라 하되",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "One of the bad men on a cross",
+      "korean_translation": "십자가에 못 박힌 나쁜 사람 중 한 명이",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "at the side of Jesus",
+      "korean_translation": "예수님 옆에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "started to insult him",
+      "korean_translation": "그를 모욕하기 시작했습니다",
+      "word_indices": [
+        222,
+        306
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "He shouted",
+      "korean_translation": "그는 소리쳤습니다",
+      "word_indices": [
+        174
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "You say that you are the Messiah",
+      "korean_translation": "당신이 메시아라고 말하며",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "don't you?",
+      "korean_translation": "그렇지 않습니까?",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "Then save your own life",
+      "korean_translation": "그러면 당신 자신의 목숨을 구하고",
+      "word_indices": [
+        41,
+        147
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and save our lives too!",
+      "korean_translation": "우리의 목숨도 구하십시오!",
+      "word_indices": [
+        147
+      ]
+    }
+  ]
+}

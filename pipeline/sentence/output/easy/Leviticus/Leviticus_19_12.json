@@ -1,0 +1,39 @@
+{
+  "verse_reference": "Leviticus 19:12",
+  "version": "EASY",
+  "original_text": "You must not use the name of your God to say a promise. This will make my name unclean. I am the Lord.",
+  "korean_text": "너희는 내 이름으로 거짓 맹세함으로 네 하나님의 이름을 욕되게 하지 말라 나는 여호와이니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "You must not use the name of your God",
+      "korean_translation": "당신은 너의 하나님의 이름을 사용해서는 안 된다",
+      "word_indices": [
+        90
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "to say a promise",
+      "korean_translation": "약속을 말하기 위해",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This will make my name unclean",
+      "korean_translation": "이것은 내 이름을 부정하게 만들 것이다",
+      "word_indices": [
+        90,
+        304
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "I am the Lord",
+      "korean_translation": "나는 주이다",
+      "word_indices": [
+        2
+      ]
+    }
+  ]
+}

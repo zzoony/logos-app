@@ -1,0 +1,37 @@
+{
+  "verse_reference": "Leviticus 18:14",
+  "version": "EASY",
+  "original_text": "Do not have sex with the wife of your father's brother. That would make your uncle ashamed. His wife is your aunt.",
+  "korean_text": "너는 네 아버지 형제의 아내를 가까이 하여 그의 하체를 범하지 말라 그는 네 숙모니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Do not have sex with the wife",
+      "korean_translation": "그 아내와 성관계를 가지지 말라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of your father's brother",
+      "korean_translation": "네 아버지의 형제의",
+      "word_indices": [
+        37,
+        135
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "That would make your uncle ashamed",
+      "korean_translation": "그것은 네 삼촌을 부끄럽게 할 것이다",
+      "word_indices": [
+        1067
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "His wife is your aunt",
+      "korean_translation": "그의 아내는 네 숙모이다",
+      "word_indices": []
+    }
+  ]
+}

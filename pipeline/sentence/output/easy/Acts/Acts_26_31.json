@@ -1,0 +1,42 @@
+{
+  "verse_reference": "Acts 26:31",
+  "version": "EASY",
+  "original_text": "After they left the meeting room, they said to each other, ‘This man has not done anything bad. We should not kill him, or even hold him in prison.’",
+  "korean_text": "물러가 서로 말하되 이 사람은 사형이나 결박을 당할 만한 행위가 없다 하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "After they left the meeting room",
+      "korean_translation": "그들이 회의실을 떠난 후",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "they said to each other",
+      "korean_translation": "그들은 서로에게 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "This man has not done anything bad",
+      "korean_translation": "이 사람은 아무 나쁜 일도 하지 않았다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "We should not kill him",
+      "korean_translation": "우리는 그를 죽이지 말아야 한다",
+      "word_indices": [
+        26
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "or even hold him in prison",
+      "korean_translation": "심지어 그를 감옥에 가두지도 말아야 한다",
+      "word_indices": [
+        349
+      ]
+    }
+  ]
+}

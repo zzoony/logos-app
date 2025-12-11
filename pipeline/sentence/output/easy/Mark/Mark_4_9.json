@@ -1,0 +1,34 @@
+{
+  "verse_reference": "Mark 4:9",
+  "version": "EASY",
+  "original_text": "Then Jesus said, ‘You have ears, so listen well to what I say!’",
+  "korean_text": "또 이르시되 들을 귀 있는 자는 들으라 하시니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Then Jesus said",
+      "korean_translation": "그때 예수님께서 말씀하셨다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "You have ears",
+      "korean_translation": "너희는 귀가 있으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "so listen well",
+      "korean_translation": "그러니 잘 들어라",
+      "word_indices": [
+        63
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "to what I say",
+      "korean_translation": "내가 하는 말을",
+      "word_indices": []
+    }
+  ]
+}

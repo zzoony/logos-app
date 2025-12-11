@@ -1,0 +1,31 @@
+{
+  "verse_reference": "Proverbs 18:9",
+  "version": "EASY",
+  "original_text": "A lazy person is as bad as someone who destroys things.",
+  "korean_text": "자기의 일을 게을리하는 자는 패가하는 자의 형제니라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A lazy person",
+      "korean_translation": "게으른 사람은",
+      "word_indices": [
+        24
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "is as bad as",
+      "korean_translation": "나쁘다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "someone who destroys things",
+      "korean_translation": "물건을 파괴하는 사람처럼",
+      "word_indices": [
+        39,
+        94
+      ]
+    }
+  ]
+}

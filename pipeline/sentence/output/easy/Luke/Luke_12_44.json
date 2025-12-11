@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Luke 12:44",
+  "version": "EASY",
+  "original_text": "Let me tell you what will happen. The master will give that servant authority to rule over everything in his house.",
+  "korean_text": "내가 참으로 너희에게 이르노니 주인이 그 모든 소유를 그에게 맡기리라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Let me tell you what will happen.",
+      "korean_translation": "내가 무슨 일이 일어날지 말해주겠다.",
+      "word_indices": [
+        22
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The master will give that servant authority",
+      "korean_translation": "주인은 그 종에게 권위를 주실 것이다.",
+      "word_indices": [
+        4,
+        44,
+        110,
+        176
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to rule over everything in his house.",
+      "korean_translation": "그의 집 안의 모든 것을 다스릴 권위를.",
+      "word_indices": [
+        28,
+        67
+      ]
+    }
+  ]
+}

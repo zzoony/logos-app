@@ -1,0 +1,35 @@
+{
+  "verse_reference": "1 Kings 14:12",
+  "version": "EASY",
+  "original_text": "But you, Jeroboam's wife, should go back home now. As soon as you arrive back in the city, the boy will die.",
+  "korean_text": "너는 일어나 네 집으로 가라 네 발이 성읍에 들어갈 때에 그 아이가 죽을지라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "But you, Jeroboam's wife",
+      "korean_translation": "그러나 너, 여로보암의 아내여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "should go back home now",
+      "korean_translation": "이제 집으로 돌아가라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "As soon as you arrive back in the city",
+      "korean_translation": "네가 성읍에 도착하는 즉시",
+      "word_indices": [
+        20,
+        177
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the boy will die",
+      "korean_translation": "그 소년이 죽으리라",
+      "word_indices": []
+    }
+  ]
+}

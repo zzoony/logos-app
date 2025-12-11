@@ -1,0 +1,53 @@
+{
+  "verse_reference": "1 Samuel 8:8",
+  "version": "EASY",
+  "original_text": "They are doing what they have always done. Since I brought them out of Egypt they have continued to turn away from me. They have chosen to serve other gods. Now they are turning against you in the same way.",
+  "korean_text": "내가 그들을 애굽에서 인도하여 낸 날부터 오늘까지 그들이 모든 행사로 나를 버리고 다른 신들을 섬김 같이 네게도 그리하는도다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "They are doing what they have always done.",
+      "korean_translation": "그들은 자신들이 항상 하던 일을 하고 있습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Since I brought them out of Egypt",
+      "korean_translation": "내가 그들을 이집트에서 이끌어낸 이래로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "they have continued to turn away from me.",
+      "korean_translation": "그들은 계속해서 나에게서 등져왔습니다.",
+      "word_indices": [
+        72
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "They have chosen to serve other gods.",
+      "korean_translation": "그들은 다른 신들을 섬기기를 선택했습니다.",
+      "word_indices": [
+        95
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "Now they are turning against you",
+      "korean_translation": "이제 그들은 당신을 배반하고 있습니다",
+      "word_indices": [
+        31,
+        72
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "in the same way.",
+      "korean_translation": "같은 방식으로.",
+      "word_indices": [
+        74
+      ]
+    }
+  ]
+}

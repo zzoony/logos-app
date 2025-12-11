@@ -1,0 +1,38 @@
+{
+  "verse_reference": "1 Chronicles 12:14",
+  "version": "EASY",
+  "original_text": "These descendants of Gad were leaders in the army. The least important officer among them led 100 soldiers. The greatest officer led 1,000 soldiers.",
+  "korean_text": "이 갓 자손이 군대 지휘관이 되어 그 작은 자는 백부장이요, 그 큰 자는 천부장이더니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "These descendants of Gad were leaders in the army.",
+      "korean_translation": "이 갓의 후손들은 군대에서 지도자들이었습니다.",
+      "word_indices": [
+        75
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "The least important officer among them led 100 soldiers.",
+      "korean_translation": "그들 중 가장 낮은 장교는 100명의 병사를 이끌었습니다.",
+      "word_indices": [
+        36,
+        98,
+        112,
+        138,
+        938
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "The greatest officer led 1,000 soldiers.",
+      "korean_translation": "가장 높은 장교는 1,000명의 병사를 이끌었습니다.",
+      "word_indices": [
+        36,
+        98,
+        931
+      ]
+    }
+  ]
+}

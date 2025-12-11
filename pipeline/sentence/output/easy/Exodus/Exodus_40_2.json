@@ -1,0 +1,36 @@
+{
+  "verse_reference": "Exodus 40:2",
+  "version": "EASY",
+  "original_text": "‘On the first day of the first month, put up the tabernacle, the Tent of Meeting.",
+  "korean_text": "너는 첫째 달 초하루에 성막 곧 회막을 세우고",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "On the first day",
+      "korean_translation": "첫째 날에",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of the first month",
+      "korean_translation": "첫 달의",
+      "word_indices": [
+        255
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "put up the tabernacle",
+      "korean_translation": "성막을 세우라",
+      "word_indices": [
+        485
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "the Tent of Meeting",
+      "korean_translation": "만남의 장막을",
+      "word_indices": []
+    }
+  ]
+}

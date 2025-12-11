@@ -1,0 +1,68 @@
+{
+  "verse_reference": "Luke 7:8",
+  "version": "EASY",
+  "original_text": "In my work, someone has authority over me. I also have authority over other soldiers. I say to one soldier, “Go!” and he goes. I say to another one, “Come!” and he comes. I say to my servant, “Do this!” and he does it.’",
+  "korean_text": "나도 남의 수하에 든 사람이요 내 아래에도 병사가 있으니 이더러 가라 하면 가고 저더러 오라 하면 오고 내 종더러 이것을 하라 하면 하나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "In my work, someone has authority over me.",
+      "korean_translation": "내 일에서는, 누군가 나에게 권위를 가지고 있습니다.",
+      "word_indices": [
+        35,
+        94,
+        110
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I also have authority over other soldiers.",
+      "korean_translation": "나 또한 다른 병사들에게 권위를 가지고 있습니다.",
+      "word_indices": [
+        9,
+        36,
+        110
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I say to one soldier, \"Go!\"",
+      "korean_translation": "나는 한 병사에게 말합니다, \"가라!\"",
+      "word_indices": [
+        36
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "and he goes.",
+      "korean_translation": "그리고 그는 갑니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "I say to another one, \"Come!\"",
+      "korean_translation": "나는 다른 한 사람에게 말합니다, \"오라!\"",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "and he comes.",
+      "korean_translation": "그리고 그는 옵니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I say to my servant, \"Do this!\"",
+      "korean_translation": "나는 내 종에게 말합니다, \"이것을 하라!\"",
+      "word_indices": [
+        44
+      ]
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "and he does it.'",
+      "korean_translation": "그리고 그는 그것을 합니다.'",
+      "word_indices": []
+    }
+  ]
+}

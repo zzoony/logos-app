@@ -1,0 +1,50 @@
+{
+  "verse_reference": "Exodus 5:23",
+  "version": "EASY",
+  "original_text": "I went to speak to Pharaoh with your authority. But since I spoke to Pharaoh, he has caused these people to have trouble. And you have done nothing to save your people.’",
+  "korean_text": "내가 바로에게 들어가서 주의 이름으로 말한 후로부터 그가 이 백성을 더 학대하며 주께서도 주의 백성을 구원하지 아니하시나이다",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I went to speak to Pharaoh",
+      "korean_translation": "나는 바로에게 말하러 갔습니다",
+      "word_indices": [
+        18
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "with your authority",
+      "korean_translation": "당신의 권위로",
+      "word_indices": [
+        110
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But since I spoke to Pharaoh",
+      "korean_translation": "하지만 내가 바로에게 말한 이후로",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "he has caused these people to have trouble",
+      "korean_translation": "그는 이 백성들에게 고통을 주었습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "And you have done nothing",
+      "korean_translation": "그리고 당신은 아무것도 하지 않았습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "to save your people",
+      "korean_translation": "당신의 백성을 구하기 위해",
+      "word_indices": [
+        147
+      ]
+    }
+  ]
+}

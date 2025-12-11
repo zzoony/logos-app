@@ -1,0 +1,47 @@
+{
+  "verse_reference": "Deuteronomy 21:15",
+  "version": "EASY",
+  "original_text": "A man may have two wives, but he may love only one of them. Each wife may give birth to a son. The firstborn son may be the son of the wife that he does not love.",
+  "korean_text": "어떤 사람이 두 아내를 두었는데 하나는 사랑을 받고 하나는 미움을 받다가 그 사랑을 받는 자와 미움을 받는 자가 둘 다 아들을 낳았다 하자 그 미움을 받는 자의 아들이 장자이면",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A man may have two wives",
+      "korean_translation": "한 남자는 아내를 둘 가질 수 있다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "but he may love only one of them",
+      "korean_translation": "하지만 그는 그중 하나만 사랑할 수 있다",
+      "word_indices": [
+        82
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Each wife may give birth to a son",
+      "korean_translation": "각 아내는 아들을 낳을 수 있다",
+      "word_indices": [
+        4,
+        249
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "The firstborn son may be the son",
+      "korean_translation": "첫째 아들은 아들이 될 수 있다",
+      "word_indices": [
+        500
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "of the wife that he does not love",
+      "korean_translation": "그가 사랑하지 않는 아내의",
+      "word_indices": [
+        82
+      ]
+    }
+  ]
+}

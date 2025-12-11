@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Esther 1:12",
+  "version": "EASY",
+  "original_text": "The eunuchs told Queen Vashti what the king had commanded. But she refused to go to him. This made the king very angry.",
+  "korean_text": "그러나 왕후 와스디는 내시가 전하는 왕명을 따르기를 싫어하니 왕이 진노하여 마음속이 불 붙는 듯하더라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The eunuchs told Queen Vashti",
+      "korean_translation": "내시들이 바스디 왕비에게 알렸습니다",
+      "word_indices": [
+        603,
+        1007
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "what the king had commanded.",
+      "korean_translation": "왕이 명령한 것을",
+      "word_indices": [
+        3,
+        127
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "But she refused to go to him.",
+      "korean_translation": "하지만 그녀는 그에게 가기를 거절했습니다.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This made the king very angry.",
+      "korean_translation": "이것은 왕을 매우 화나게 했습니다.",
+      "word_indices": [
+        3,
+        106
+      ]
+    }
+  ]
+}

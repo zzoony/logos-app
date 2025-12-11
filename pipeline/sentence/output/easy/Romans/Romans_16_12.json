@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Romans 16:12",
+  "version": "EASY",
+  "original_text": "Say ‘hello’ to Tryphena and Tryphosa. They work hard to serve the Lord. Say ‘hello’ to my good friend Persis. She has worked very hard to serve the Lord.",
+  "korean_text": "주 안에서 수고한 드루배나와 드루보사에게 문안하라 주 안에서 많이 수고하고 사랑하는 버시에게 문안하라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "Say 'hello' to Tryphena and Tryphosa.",
+      "korean_translation": "트리페나와 트리포사에게 안부를 전해 주세요.",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "They work hard to serve the Lord.",
+      "korean_translation": "그들은 주님을 섬기기 위해 열심히 일합니다.",
+      "word_indices": [
+        2,
+        35,
+        95
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Say 'hello' to my good friend Persis.",
+      "korean_translation": "좋은 내 친구 페르시에게 안부를 전해 주세요.",
+      "word_indices": [
+        19,
+        113
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "She has worked very hard to serve the Lord.",
+      "korean_translation": "그녀는 주님을 섬기기 위해 아주 열심히 일해 왔습니다.",
+      "word_indices": [
+        2,
+        35,
+        95
+      ]
+    }
+  ]
+}

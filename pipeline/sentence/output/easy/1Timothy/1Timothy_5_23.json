@@ -1,0 +1,52 @@
+{
+  "verse_reference": "1 Timothy 5:23",
+  "version": "EASY",
+  "original_text": "I know that you often become ill. So do not drink only water, but drink a little wine. This will help your stomach to keep well.",
+  "korean_text": "이제부터는 물만 마시지 말고 네 위장과 자주 나는 병을 위하여는 포도주를 조금씩 쓰라",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "I know that you often become ill.",
+      "korean_translation": "네가 자주 아픈 것을 안다.",
+      "word_indices": [
+        12,
+        620
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "So do not drink only water,",
+      "korean_translation": "그러므로 물만 마시지 말고,",
+      "word_indices": [
+        60,
+        118
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "but drink a little wine.",
+      "korean_translation": "조금의 포도주를 마시라.",
+      "word_indices": [
+        118,
+        219,
+        401
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "This will help your stomach",
+      "korean_translation": "이것은 네 위를 도울 것이며",
+      "word_indices": [
+        797
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "to keep well.",
+      "korean_translation": "건강을 유지하게 할 것이다.",
+      "word_indices": [
+        101
+      ]
+    }
+  ]
+}

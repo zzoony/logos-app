@@ -1,0 +1,41 @@
+{
+  "verse_reference": "Job 1:14",
+  "version": "EASY",
+  "original_text": "A servant brought a message to Job. He said, ‘We were using your oxen to plough the fields. Your donkeys were eating grass beside them.",
+  "korean_text": "사환이 욥에게 와서 아뢰되 소는 밭을 갈고 나귀는 그 곁에서 풀을 먹는데",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A servant brought a message to Job",
+      "korean_translation": "한 종이 욥에게 메시지를 가져왔습니다",
+      "word_indices": [
+        21,
+        44
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "He said",
+      "korean_translation": "그가 말했습니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "We were using your oxen to plough the fields",
+      "korean_translation": "우리는 당신의 소들을 밭을 가는 데 사용하고 있었습니다",
+      "word_indices": [
+        152,
+        827
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "Your donkeys were eating grass beside them",
+      "korean_translation": "당신의 당나귀들은 그들 곁에서 풀을 먹고 있었습니다",
+      "word_indices": [
+        310,
+        343
+      ]
+    }
+  ]
+}

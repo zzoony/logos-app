@@ -1,0 +1,47 @@
+{
+  "verse_reference": "John 4:15",
+  "version": "EASY",
+  "original_text": "The woman said to him, ‘Sir, give this water to me. Then I will never get thirsty again. And I will not have to continue to come here so that I can get water.’",
+  "korean_text": "여자가 이르되 주여 그런 물을 내게 주사 목마르지도 않고 또 여기 물 길으러 오지도 않게 하옵소서",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "The woman said to him",
+      "korean_translation": "그 여자가 그에게 말했다",
+      "word_indices": [
+        46
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "Sir, give this water to me",
+      "korean_translation": "주인님, 이 물을 저에게 주세요",
+      "word_indices": [
+        4,
+        60
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Then I will never get thirsty again",
+      "korean_translation": "그러면 나는 다시는 목마르지 않을 것입니다",
+      "word_indices": [
+        705
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "And I will not have to continue to come here",
+      "korean_translation": "그리고 계속해서 여기 올 필요가 없을 것입니다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "so that I can get water",
+      "korean_translation": "물을 긷기 위해서",
+      "word_indices": [
+        60
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "verse_reference": "Genesis 2:10",
+  "version": "EASY",
+  "original_text": "A river began in Eden. It went through the garden and it gave water for the ground. After that, it became four separate rivers.",
+  "korean_text": "강이 에덴에서 흘러 나와 동산을 적시고 거기서부터 갈라져 네 근원이 되었으니",
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "original_text": "A river began in Eden.",
+      "korean_translation": "강이 에덴에서 시작되었습니다.",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "It went through the garden",
+      "korean_translation": "그것은 정원을 통해 흘러갔습니다",
+      "word_indices": [
+        192,
+        442
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "and it gave water for the ground.",
+      "korean_translation": "그리고 땅에 물을 공급했습니다.",
+      "word_indices": [
+        4,
+        60
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "After that, it became four separate rivers.",
+      "korean_translation": "그 후에, 그것은 네 개의 분리된 강이 되었습니다.",
+      "word_indices": [
+        136,
+        384
+      ]
+    }
+  ]
+}
