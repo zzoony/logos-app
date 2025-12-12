@@ -71,3 +71,16 @@ flutter run
   # Flutter App
   pkill -f "flutter.*bible_vocabulary" 2>/dev/null
   ```
+
+- **Output 파일은 main에 직접 푸시**: `pipeline/*/output/` 폴더의 파일들은 피처 브랜치가 아닌 main 브랜치에 직접 커밋하고 푸시합니다. 소스 코드 변경과 output 데이터 변경을 분리하여 관리합니다.
+  ```bash
+  # 소스 코드는 피처 브랜치에서 PR
+  git checkout feature/xxx
+  git add src/ ...
+  git commit && git push
+
+  # Output 파일은 main에 직접
+  git checkout main
+  git add pipeline/*/output/
+  git commit -m "chore: update output files" && git push
+  ```
