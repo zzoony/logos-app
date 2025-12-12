@@ -6,8 +6,8 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "He was a mighty hunter before the Lord.",
-      "korean_translation": "그는 여호와 앞에서 위대한 사냥꾼이었다.",
+      "original_text": "He was a mighty hunter",
+      "korean_translation": "그는 용맹한 사냥꾼이었다",
       "word_indices": [
         173,
         2877
@@ -15,21 +15,40 @@
     },
     {
       "sequence_order": 2,
+      "original_text": "before the Lord.",
+      "korean_translation": "여호와 앞에서",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
       "original_text": "Therefore it is said,",
-      "korean_translation": "그러므로 속담에 이르기를,",
+      "korean_translation": "그러므로 속담에 이르기를",
       "word_indices": [
         32
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "“Like Nimrod a mighty hunter before the Lord.”",
-      "korean_translation": "“여호와 앞에 니므롯 같은 위대한 사냥꾼.”",
+      "sequence_order": 4,
+      "original_text": "Like Nimrod",
+      "korean_translation": "님롯과 같이",
       "word_indices": [
-        14,
+        14
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "a mighty hunter",
+      "korean_translation": "용맹한 사냥꾼",
+      "word_indices": [
         173,
         2877
       ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "before the Lord.",
+      "korean_translation": "여호와 앞에서",
+      "word_indices": []
     }
   ]
 }

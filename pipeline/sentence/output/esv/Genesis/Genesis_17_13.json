@@ -6,8 +6,8 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "He who is born in your house",
-      "korean_translation": "네 집에서 태어난 자는",
+      "original_text": "both he who is born in your house",
+      "korean_translation": "네 집에서 태어난 자도",
       "word_indices": [
         7
       ]
@@ -22,25 +22,32 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "shall surely be circumcised.",
-      "korean_translation": "반드시 할례를 받아야 하리라.",
+      "original_text": "shall surely be circumcised",
+      "korean_translation": "반드시 할례를 받으리라",
       "word_indices": [
         232
       ]
     },
     {
       "sequence_order": 4,
-      "original_text": "So shall my covenant be in your flesh",
-      "korean_translation": "그리하여 나의 언약이 너희 살에 있어",
+      "original_text": "So shall my covenant be",
+      "korean_translation": "그리하여 나의 언약이",
       "word_indices": [
-        132,
-        136
+        132
       ]
     },
     {
       "sequence_order": 5,
-      "original_text": "an everlasting covenant.",
-      "korean_translation": "영원한 언약이 되리라.",
+      "original_text": "in your flesh",
+      "korean_translation": "너희의 살에 있으리니",
+      "word_indices": [
+        136
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "an everlasting covenant",
+      "korean_translation": "영원한 언약이 되리라",
       "word_indices": [
         132
       ]

@@ -6,46 +6,34 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "No, my lord,",
-      "korean_translation": "아닙니다, 나의 주여,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 2,
-      "original_text": "hear me:",
-      "korean_translation": "제 말을 들어보십시오:",
+      "original_text": "No, my lord, hear me:",
+      "korean_translation": "아닙니다, 나의 주여, 저를 들어보세요:",
       "word_indices": [
         17
       ]
     },
     {
-      "sequence_order": 3,
+      "sequence_order": 2,
       "original_text": "I give you the field,",
-      "korean_translation": "저는 그 밭을 드립니다,",
+      "korean_translation": "저는 당신에게 그 밭을 드립니다",
       "word_indices": [
         5,
         133
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "and I give you the cave",
-      "korean_translation": "그리고 그 굴을 드립니다",
+      "sequence_order": 3,
+      "original_text": "and I give you the cave that is in it.",
+      "korean_translation": "그리고 그 안에 있는 굴도 드립니다.",
       "word_indices": [
         5,
         975
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "that is in it.",
-      "korean_translation": "그 안에 있는 것을",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 6,
+      "sequence_order": 4,
       "original_text": "In the sight of the sons of my people",
-      "korean_translation": "내 백성의 아들들 앞에서",
+      "korean_translation": "내 백성의 아들들이 보는 앞에서",
       "word_indices": [
         2,
         3,
@@ -53,7 +41,7 @@
       ]
     },
     {
-      "sequence_order": 7,
+      "sequence_order": 5,
       "original_text": "I give it to you.",
       "korean_translation": "저는 그것을 당신에게 드립니다.",
       "word_indices": [
@@ -61,9 +49,9 @@
       ]
     },
     {
-      "sequence_order": 8,
-      "original_text": "Bury your dead.”",
-      "korean_translation": "당신의 죽은 자를 장사 지내십시오.”",
+      "sequence_order": 6,
+      "original_text": "Bury your dead.",
+      "korean_translation": "당신의 죽은 자를 묻으세요.",
       "word_indices": [
         141,
         322

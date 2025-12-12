@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "He himself bore our sins",
-      "korean_translation": "그분은 친히 우리 죄를 지셨습니다",
+      "korean_translation": "그가 친히 우리 죄를 짊어지셨고",
       "word_indices": [
         34,
         336
@@ -16,7 +16,7 @@
     {
       "sequence_order": 2,
       "original_text": "in his body on the tree",
-      "korean_translation": "나무에 그의 몸으로",
+      "korean_translation": "나무에 자기 몸으로",
       "word_indices": [
         143,
         150
@@ -25,7 +25,7 @@
     {
       "sequence_order": 3,
       "original_text": "that we might die to sin",
-      "korean_translation": "이는 우리가 죄에 대해 죽고",
+      "korean_translation": "우리가 죄에 대하여 죽고",
       "word_indices": [
         34,
         57
@@ -34,18 +34,25 @@
     {
       "sequence_order": 4,
       "original_text": "and live to righteousness",
-      "korean_translation": "의를 위해 살게 하려 함입��다",
+      "korean_translation": "의를 위해 살게 하려 함이라",
       "word_indices": [
         33
       ]
     },
     {
       "sequence_order": 5,
-      "original_text": "By his wounds you have been healed",
-      "korean_translation": "그가 맞은 상처로 너희는 나음을 입었느니라",
+      "original_text": "By his wounds",
+      "korean_translation": "그가 찍힘으로",
       "word_indices": [
-        325,
         814
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "you have been healed",
+      "korean_translation": "너희가 나음을 입었나니",
+      "word_indices": [
+        325
       ]
     }
   ]

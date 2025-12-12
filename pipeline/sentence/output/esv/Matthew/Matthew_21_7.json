@@ -6,25 +6,32 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "They brought the donkey and the colt",
-      "korean_translation": "그들이 나귀와 나귀 새��를 끌고 왔습니다",
+      "original_text": "They brought the donkey",
+      "korean_translation": "그들이 나귀를 가져왔고",
       "word_indices": [
-        316,
-        1706
+        316
       ]
     },
     {
       "sequence_order": 2,
+      "original_text": "and the colt",
+      "korean_translation": "그리고 나귀 새끼를 가져왔습니다",
+      "word_indices": [
+        1706
+      ]
+    },
+    {
+      "sequence_order": 3,
       "original_text": "and put on them their cloaks",
-      "korean_translation": "그리고 그것들 위에 겉옷을 올려놓았습니다",
+      "korean_translation": "그리고 그 위에 자기들의 겉옷을 올려놓았고",
       "word_indices": [
         846
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "and he sat on them.",
-      "korean_translation": "그리고 그가 그것들 위에 앉았습니다",
+      "sequence_order": 4,
+      "original_text": "and he sat on them",
+      "korean_translation": "그리고 그가 그 위에 앉았습니다",
       "word_indices": []
     }
   ]

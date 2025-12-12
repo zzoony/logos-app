@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "I have compassion on the crowd",
-      "korean_translation": "나는 무리를 불��히 여긴다",
+      "korean_translation": "나는 무리를 불쌍히 여기노라",
       "word_indices": [
         339,
         822
@@ -15,16 +15,22 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "because they have been with me now three days",
-      "korean_translation": "왜냐하면 그들은 벌써 사흘 동안 나와 함께 있었으니",
+      "original_text": "because they have been with me",
+      "korean_translation": "이는 그들이 나와 함께 있었기 때문이라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "now three days",
+      "korean_translation": "이제 사흘을",
       "word_indices": [
         97
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "and have nothing to eat.",
-      "korean_translation": "먹을 것이 아무것도 없습니다",
+      "sequence_order": 4,
+      "original_text": "and have nothing to eat",
+      "korean_translation": "그리고 먹을 것이 없느니라",
       "word_indices": []
     }
   ]

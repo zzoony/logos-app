@@ -6,20 +6,32 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "One might even say that",
-      "korean_translation": "어떤 이는 심지어 ~라고 말할 수도 있습니다",
+      "original_text": "One might even say",
+      "korean_translation": "어쩌면 말할 수 있다",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "Levi himself, who receives tithes,",
-      "korean_translation": "십일조를 받는 레위 자신이",
+      "original_text": "that Levi himself",
+      "korean_translation": "레위 자신이",
       "word_indices": []
     },
     {
       "sequence_order": 3,
-      "original_text": "paid tithes through Abraham",
-      "korean_translation": "아브라함을 통해 십일조를 바쳤다고",
+      "original_text": "who receives tithes",
+      "korean_translation": "십일조를 받는 자가",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "paid tithes",
+      "korean_translation": "십일조를 드렸다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "through Abraham",
+      "korean_translation": "아브라함을 통해",
       "word_indices": [
         60
       ]

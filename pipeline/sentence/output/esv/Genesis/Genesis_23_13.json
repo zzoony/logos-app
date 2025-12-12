@@ -6,8 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "And he said to Ephron in the hearing of the people of the land,",
-      "korean_translation": "그가 그 땅 백성이 듣는 가운데 에브론에게 말하되,",
+      "original_text": "And he said to Ephron",
+      "korean_translation": "그가 에브론에게 말하되",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "in the hearing of the people of the land",
+      "korean_translation": "그 땅 백성들이 듣는 데서",
       "word_indices": [
         3,
         8,
@@ -15,15 +21,9 @@
       ]
     },
     {
-      "sequence_order": 2,
-      "original_text": "But if you will,",
-      "korean_translation": "그러나 당신이 원하시면,",
-      "word_indices": []
-    },
-    {
       "sequence_order": 3,
-      "original_text": "hear me:",
-      "korean_translation": "내 말을 들어보십시오:",
+      "original_text": "But if you will, hear me:",
+      "korean_translation": "그러나 원하시면 들어 보십시오:",
       "word_indices": [
         17
       ]
@@ -41,15 +41,15 @@
     {
       "sequence_order": 5,
       "original_text": "Accept it from me,",
-      "korean_translation": "그것을 제게서 받아주십시오,",
+      "korean_translation": "나에게서 그것을 받아들이시고,",
       "word_indices": [
         514
       ]
     },
     {
       "sequence_order": 6,
-      "original_text": "that I may bury my dead there.”",
-      "korean_translation": "이는 내가 거기에 나의 죽은 자를 장사하기 위함입니다.”",
+      "original_text": "that I may bury my dead there.",
+      "korean_translation": "내가 그곳에 나의 죽은 자를 장사하게 하십시오.",
       "word_indices": [
         141,
         322

@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "And he found a Jew named Aquila",
-      "korean_translation": "그가 아퀼라라는 유대인을 만났는데",
+      "korean_translation": "그는 아퀼라라는 한 유대인을 만났고",
       "word_indices": [
         180,
         1942
@@ -16,7 +16,7 @@
     {
       "sequence_order": 2,
       "original_text": "a native of Pontus",
-      "korean_translation": "그는 본도 지방 출신이었고",
+      "korean_translation": "본토 사람인 폰투스 출신이었는데",
       "word_indices": [
         1254
       ]
@@ -24,7 +24,7 @@
     {
       "sequence_order": 3,
       "original_text": "recently come from Italy",
-      "korean_translation": "최근에 이탈리아에서 왔으며",
+      "korean_translation": "최근에 이탈리아에서 왔고",
       "word_indices": [
         3221
       ]
@@ -32,30 +32,23 @@
     {
       "sequence_order": 4,
       "original_text": "with his wife Priscilla",
-      "korean_translation": "아내 브리스길라와 함께였다",
+      "korean_translation": "그의 아내 프리스quilla와 함께였고",
       "word_indices": [
         68
       ]
     },
     {
       "sequence_order": 5,
-      "original_text": "because Claudius had commanded all the Jews",
-      "korean_translation": "왜냐하면 클라���디우스가 모든 유대인들에게 명령했기 때문이다",
+      "original_text": "because Claudius had commanded all the Jews to leave Rome",
+      "korean_translation": "클라우디우스가 모든 유대인들이 로마를 떠나라고 명령했기 때문이었다",
       "word_indices": [
         51,
+        65,
         180
       ]
     },
     {
       "sequence_order": 6,
-      "original_text": "to leave Rome",
-      "korean_translation": "로마를 떠나라고",
-      "word_indices": [
-        65
-      ]
-    },
-    {
-      "sequence_order": 7,
       "original_text": "And he went to see them",
       "korean_translation": "그리고 그는 그들을 만나러 갔다",
       "word_indices": []

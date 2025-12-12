@@ -6,36 +6,37 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "that I would not take",
-      "korean_translation": "내가 취하지 않겠다는 것은",
-      "word_indices": []
+      "original_text": "that I would not take a thread",
+      "korean_translation": "내가 한 올이라도 취하지 않겠다는 것은",
+      "word_indices": [
+        2334
+      ]
     },
     {
       "sequence_order": 2,
-      "original_text": "a thread or a sandal strap",
-      "korean_translation": "실 한 올이나 신발끈 한 켤레",
+      "original_text": "or a sandal strap",
+      "korean_translation": "또는 신발끈이라도 취하지 않겠다는 것은",
       "word_indices": [
         1151,
-        1692,
-        2334
+        1692
       ]
     },
     {
       "sequence_order": 3,
       "original_text": "or anything that is yours",
-      "korean_translation": "혹은 당신의 것은 무엇이든지",
+      "korean_translation": "또는 너의 것이라면 무엇이든 취하지 않겠다는 것은",
       "word_indices": []
     },
     {
       "sequence_order": 4,
       "original_text": "lest you should say",
-      "korean_translation": "당신이 말하게 되지 않도록",
+      "korean_translation": "네가 말할까 두려워서라는 것",
       "word_indices": []
     },
     {
       "sequence_order": 5,
-      "original_text": "‘I have made Abram rich.’",
-      "korean_translation": "‘내가 아브람을 부자로 만들었다.’",
+      "original_text": "'I have made Abram rich.'",
+      "korean_translation": "'내가 아브람을 부유하게 만들었다'고 말할까 두려워서라는 것",
       "word_indices": [
         297
       ]

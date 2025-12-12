@@ -6,14 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "And wherever he came",
-      "korean_translation": "그리고 그가 어디에 가시든지",
+      "original_text": "And wherever he came,",
+      "korean_translation": "그가 어디에 가시든지,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "in villages, cities, or countryside",
-      "korean_translation": "마을이나 도시나 시골에서는",
+      "original_text": "in villages, cities, or countryside,",
+      "korean_translation": "마을이나 도시나 시골에서,",
       "word_indices": [
         16,
         3087
@@ -22,7 +22,7 @@
     {
       "sequence_order": 3,
       "original_text": "they laid the sick in the marketplaces",
-      "korean_translation": "사람들이 병자들을 시장에 뉘어놓고",
+      "korean_translation": "사람들이 병자들을 시장에 누워 있게 하고",
       "word_indices": [
         696
       ]
@@ -30,28 +30,34 @@
     {
       "sequence_order": 4,
       "original_text": "and implored him",
-      "korean_translation": "그에��� 간구했습니다",
+      "korean_translation": "그에게 간구했으니",
       "word_indices": []
     },
     {
       "sequence_order": 5,
-      "original_text": "that they might touch even the fringe of his garment",
-      "korean_translation": "자신들이 그의 옷자락이라도 만지게 해달라고",
+      "original_text": "that they might touch",
+      "korean_translation": "그들이 만지게 하려는 것이었으니",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "even the fringe of his garment.",
+      "korean_translation": "그의 겉옷 순이라도.",
       "word_indices": [
         218,
         3096
       ]
     },
     {
-      "sequence_order": 6,
+      "sequence_order": 7,
       "original_text": "And as many as touched it",
-      "korean_translation": "그리고 그것을 만진 사람은 누구나",
+      "korean_translation": "그리고 그것을 만진 모든 사람들은",
       "word_indices": []
     },
     {
-      "sequence_order": 7,
-      "original_text": "were made well",
-      "korean_translation": "나았습니다",
+      "sequence_order": 8,
+      "original_text": "were made well.",
+      "korean_translation": "고침을 받았다.",
       "word_indices": []
     }
   ]

@@ -6,13 +6,13 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "she conceived",
-      "korean_translation": "그녀는 잉태하고",
+      "original_text": "and she conceived",
+      "korean_translation": "그리고 그녀는 잉태하였고",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "bore a son",
+      "original_text": "and bore a son",
       "korean_translation": "아들을 낳았으며",
       "word_indices": [
         2,
@@ -21,8 +21,8 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "he called his name Er",
-      "korean_translation": "그는 그의 이름을 에르라 불렀습니다",
+      "original_text": "and he called his name Er",
+      "korean_translation": "그는 그의 이름을 에르라 불렀다",
       "word_indices": [
         20,
         31

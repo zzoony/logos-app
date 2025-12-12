@@ -6,14 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Come,",
-      "korean_translation": "이리 오세요,",
+      "original_text": "Come",
+      "korean_translation": "이리 오라",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "let us make our father drink wine,",
-      "korean_translation": "우리 아버지께 포도주를 마시게 합시다,",
+      "original_text": "let us make our father drink wine",
+      "korean_translation": "우리 아버지께 포도주를 마시게 하자",
       "word_indices": [
         9,
         70,
@@ -22,17 +22,24 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "and we will lie with him,",
-      "korean_translation": "그리고 우리는 그와 함께 눕겠습니다,",
+      "original_text": "and we will lie with him",
+      "korean_translation": "그리고 우리는 그와 함께 눕겠다",
       "word_indices": []
     },
     {
       "sequence_order": 4,
-      "original_text": "that we may preserve offspring from our father.”",
-      "korean_translation": "우리 아버지의 씨를 이으려고요.”",
+      "original_text": "that we may preserve offspring",
+      "korean_translation": "그리하여 우리는 자손을 보존할 수 있도록",
       "word_indices": [
-        9,
         976
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "from our father",
+      "korean_translation": "우리 아버지에게서",
+      "word_indices": [
+        9
       ]
     }
   ]

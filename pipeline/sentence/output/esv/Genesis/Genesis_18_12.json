@@ -6,28 +6,34 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "So Sarah laughed to herself, saying,",
-      "korean_translation": "그래서 사라는 속으로 웃으며 말했습니다,",
+      "original_text": "So Sarah laughed to herself",
+      "korean_translation": "그래서 사라는 혼자 웃었으며",
       "word_indices": [
         1075
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "“After I am worn out,",
-      "korean_translation": "내가 늙고 기력이 다한 후에,",
+      "original_text": "saying",
+      "korean_translation": "맼하면서",
       "word_indices": []
     },
     {
       "sequence_order": 3,
-      "original_text": "and my lord is old,",
-      "korean_translation": "그리고 내 주인도 늙었는데,",
+      "original_text": "After I am worn out",
+      "korean_translation": "내가 늙고 지친 후에",
       "word_indices": []
     },
     {
       "sequence_order": 4,
-      "original_text": "shall I have pleasure?”",
-      "korean_translation": "내가 어찌 즐거움을 누리겠습니까?”",
+      "original_text": "and my lord is old",
+      "korean_translation": "그리고 나의 주인도 늙었는데",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall I have pleasure?",
+      "korean_translation": "내가 즐거움을 얻을 수 있겠는가?",
       "word_indices": [
         868
       ]

@@ -6,35 +6,36 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Truly,",
-      "korean_translation": "진실로,",
+      "original_text": "Truly, I say to you",
+      "korean_translation": "진실로 너희에게 말하노니",
       "word_indices": [
         343
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "I say to you,",
-      "korean_translation": "내가 너희에게 말하노니,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "whoever does not receive the kingdom of God like a child",
-      "korean_translation": "어린 아이처럼 하나님의 나라를 받지 아니하는 자는",
+      "original_text": "whoever does not receive the kingdom of God",
+      "korean_translation": "하나님의 나라를 받지 아니하는 자는",
       "word_indices": [
         1,
-        14,
-        43,
         101,
         117,
         137
       ]
     },
     {
+      "sequence_order": 3,
+      "original_text": "like a child",
+      "korean_translation": "어린 아이와 같이",
+      "word_indices": [
+        14,
+        43
+      ]
+    },
+    {
       "sequence_order": 4,
-      "original_text": "shall not enter it.”",
-      "korean_translation": "결코 그곳에 들어가지 ��하리라.”",
+      "original_text": "shall not enter it",
+      "korean_translation": "결코 그곳에 들어가지 못하리라",
       "word_indices": [
         125
       ]

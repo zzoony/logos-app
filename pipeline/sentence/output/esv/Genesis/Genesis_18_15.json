@@ -7,47 +7,35 @@
     {
       "sequence_order": 1,
       "original_text": "But Sarah denied it",
-      "korean_translation": "하지만 사라는 그것을 부인하며",
+      "korean_translation": "하지만 사라는 그것을 부인했고",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "saying,",
-      "korean_translation": "말하며,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "“I did not laugh,”",
-      "korean_translation": "“나는 웃지 않았어요.”",
+      "original_text": "saying, \"I did not laugh\"",
+      "korean_translation": "\"나는 웃지 않았다\"고 말하며",
       "word_indices": [
         1075
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "for she was afraid.",
-      "korean_translation": "이는 그녀가 두려웠기 때문입니다.",
+      "sequence_order": 3,
+      "original_text": "for she was afraid",
+      "korean_translation": "이는 그녀가 두려웠기 때문이었다",
       "word_indices": [
         286
       ]
     },
     {
+      "sequence_order": 4,
+      "original_text": "He said, \"No,",
+      "korean_translation": "그가 말했다, \"아니요,",
+      "word_indices": []
+    },
+    {
       "sequence_order": 5,
-      "original_text": "He said,",
-      "korean_translation": "그가 말하길,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 6,
-      "original_text": "“No,",
-      "korean_translation": "“아니요,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 7,
-      "original_text": "but you did laugh.”",
-      "korean_translation": "당신은 웃었어요.”",
+      "original_text": "but you did laugh\"",
+      "korean_translation": "하지만 당신은 웃었었습니다\"",
       "word_indices": [
         1075
       ]

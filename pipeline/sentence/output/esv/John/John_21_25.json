@@ -7,21 +7,21 @@
     {
       "sequence_order": 1,
       "original_text": "Now there are also many other things",
-      "korean_translation": "또한 다른 ��은 일들이 있습니다.",
+      "korean_translation": "이제 또 다른 많은 일들이 있다",
       "word_indices": [
         23
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "that Jesus did.",
-      "korean_translation": "그것은 예수님께서 행하신 일들입니다.",
+      "original_text": "that Jesus did",
+      "korean_translation": "예수님이 행하신",
       "word_indices": []
     },
     {
       "sequence_order": 3,
-      "original_text": "Were every one of them to be written,",
-      "korean_translation": "만일 그 일들을 하나하나 다 기록한다면,",
+      "original_text": "Were every one of them to be written",
+      "korean_translation": "그것들 각각이 기록된다면",
       "word_indices": []
     },
     {
@@ -34,18 +34,25 @@
     },
     {
       "sequence_order": 5,
-      "original_text": "that the world itself could not contain the books",
-      "korean_translation": "이 세상 그 자체가 그 책들을 담을 수 없을 것이라고",
+      "original_text": "that the world itself",
+      "korean_translation": "세상 그 자체가",
       "word_indices": [
-        183,
+        183
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "could not contain the books",
+      "korean_translation": "책들을 담을 수 없을 것이다",
+      "word_indices": [
         292,
         2177
       ]
     },
     {
-      "sequence_order": 6,
-      "original_text": "that would be written.",
-      "korean_translation": "기록될 것들입니다.",
+      "sequence_order": 7,
+      "original_text": "that would be written",
+      "korean_translation": "기록될",
       "word_indices": []
     }
   ]

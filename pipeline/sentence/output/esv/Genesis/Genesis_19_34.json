@@ -6,16 +6,16 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "The next day,",
-      "korean_translation": "그 다음 날,",
+      "original_text": "The next day",
+      "korean_translation": "그 다음 날",
       "word_indices": [
         442
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "the firstborn said to the younger,",
-      "korean_translation": "첫째가 동생에게 말하였다,",
+      "original_text": "the firstborn said to the younger",
+      "korean_translation": "첫째가 동생에게 말했다",
       "word_indices": [
         349,
         1152
@@ -23,14 +23,8 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "Behold,",
-      "korean_translation": "보게,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 4,
-      "original_text": "I lay last night with my father.",
-      "korean_translation": "나는 어젯밤 아버지와 함께 잤어.",
+      "original_text": "Behold, I lay last night with my father",
+      "korean_translation": "보라, 내가 어젯밤 우리 아버지와 함께 잤다",
       "word_indices": [
         9,
         130,
@@ -38,9 +32,9 @@
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "Let us make him drink wine tonight also.",
-      "korean_translation": "오늘 밤에도 아버지께 포도주를 드리게 하자.",
+      "sequence_order": 4,
+      "original_text": "Let us make him drink wine tonight also",
+      "korean_translation": "오늘 밤에도 우리가 그에게 포도주를 마시게 하자",
       "word_indices": [
         23,
         70,
@@ -49,31 +43,18 @@
       ]
     },
     {
+      "sequence_order": 5,
+      "original_text": "Then you go in and lie with him",
+      "korean_translation": "그러면 네가 들어가 그와 함께 자라",
+      "word_indices": []
+    },
+    {
       "sequence_order": 6,
-      "original_text": "Then you go in",
-      "korean_translation": "그러면 네가 들어가서,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 7,
-      "original_text": "and lie with him,",
-      "korean_translation": "아버지와 함께 자.",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 8,
-      "original_text": "that we may preserve offspring",
-      "korean_translation": "우리가 자손을 보존하기 위해",
+      "original_text": "that we may preserve offspring from our father",
+      "korean_translation": "우리가 아버지에게서 자손을 보존하기 위함이다",
       "word_indices": [
+        9,
         976
-      ]
-    },
-    {
-      "sequence_order": 9,
-      "original_text": "from our father.”",
-      "korean_translation": "아버지에게서 얻도록.”",
-      "word_indices": [
-        9
       ]
     }
   ]

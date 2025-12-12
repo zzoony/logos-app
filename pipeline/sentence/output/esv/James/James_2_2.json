@@ -6,29 +6,29 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "For if a man wearing a gold ring and fine clothing",
-      "korean_translation": "만일 금戒指를 끼고 값비싼 옷을 입은 한 사람이",
+      "original_text": "For if a man wearing a gold ring",
+      "korean_translation": "왜냐하면 만약 한 사람이 금반지를 끼고",
       "word_indices": [
         6,
         89,
-        363,
         630,
-        684,
-        1187
+        684
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "comes into your assembly,",
-      "korean_translation": "너희 모임에 들어오고,",
+      "original_text": "and fine clothing comes into your assembly,",
+      "korean_translation": "고급 옷을 입고 여러분의 모임에 들어오고,",
       "word_indices": [
-        400
+        363,
+        400,
+        1187
       ]
     },
     {
       "sequence_order": 3,
       "original_text": "and a poor man in shabby clothing",
-      "korean_translation": "또 남루한 옷을 입은 가난한 사람이",
+      "korean_translation": "그리고 한 가난한 사람이 남루한 옷을 입고",
       "word_indices": [
         6,
         268,
@@ -39,7 +39,7 @@
     {
       "sequence_order": 4,
       "original_text": "also comes in,",
-      "korean_translation": "또한 들어오면,",
+      "korean_translation": "또한 들어온다면,",
       "word_indices": [
         23
       ]

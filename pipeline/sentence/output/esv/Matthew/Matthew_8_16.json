@@ -7,19 +7,19 @@
     {
       "sequence_order": 1,
       "original_text": "That evening",
-      "korean_translation": "그 저녁에",
+      "korean_translation": "그날 저녁에",
       "word_indices": []
     },
     {
       "sequence_order": 2,
       "original_text": "they brought to him many",
-      "korean_translation": "사람들이 그에게 많은 이들을 데려왔습니다",
+      "korean_translation": "그들이 그에게 많은 사람들을 데려왔으니",
       "word_indices": []
     },
     {
       "sequence_order": 3,
       "original_text": "who were oppressed by demons",
-      "korean_translation": "그들은 귀신에 사로잡혀 있었습니다",
+      "korean_translation": "귀신에게 괴로움을 당하던 자들이라",
       "word_indices": [
         583,
         605
@@ -27,34 +27,20 @@
     },
     {
       "sequence_order": 4,
-      "original_text": "and he cast out the spirits",
-      "korean_translation": "그는 그 귀신들을 쫓아���셨습니다",
+      "original_text": "and he cast out the spirits with a word",
+      "korean_translation": "그리고 그는 말씀으로 귀신들을 쫓아내시고",
       "word_indices": [
+        15,
         55,
         166
       ]
     },
     {
       "sequence_order": 5,
-      "original_text": "with a word",
-      "korean_translation": "말씀으로",
+      "original_text": "and healed all who were sick",
+      "korean_translation": "병든 모든 자를 고치셨다",
       "word_indices": [
-        15
-      ]
-    },
-    {
-      "sequence_order": 6,
-      "original_text": "and healed all",
-      "korean_translation": "그리고 모든 이를 고치셨습니다",
-      "word_indices": [
-        325
-      ]
-    },
-    {
-      "sequence_order": 7,
-      "original_text": "who were sick",
-      "korean_translation": "아픈 이들을",
-      "word_indices": [
+        325,
         696
       ]
     }

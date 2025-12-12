@@ -6,40 +6,52 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Again she conceived and bore a son,",
-      "korean_translation": "그녀가 다시 잉태하여 아들을 낳고,",
+      "original_text": "Again she conceived",
+      "korean_translation": "그녀가 다시 잉태하여",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "and bore a son",
+      "korean_translation": "아들을 낳으니",
       "word_indices": [
         2,
         336
       ]
     },
     {
-      "sequence_order": 2,
-      "original_text": "and said,",
-      "korean_translation": "말하였으니,",
+      "sequence_order": 3,
+      "original_text": "and said",
+      "korean_translation": "그리고 말하되",
       "word_indices": []
     },
     {
-      "sequence_order": 3,
-      "original_text": "“Now this time my husband will be attached to me,",
-      "korean_translation": "“이번에는 내 남편이 나에게 붙어 머물리라,",
+      "sequence_order": 4,
+      "original_text": "Now this time",
+      "korean_translation": "이제 이번에는",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "my husband will be attached to me",
+      "korean_translation": "내 남편이 나에게 붙어 있으리라",
       "word_indices": [
         1829
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "because I have borne him three sons.”",
-      "korean_translation": "내가 그에게 아들을 셋 낳았음이라.”",
+      "sequence_order": 6,
+      "original_text": "because I have borne him three sons",
+      "korean_translation": "내가 그에게 아들 셋을 낳았음이라",
       "word_indices": [
         2,
         97
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "Therefore his name was called Levi.",
-      "korean_translation": "그러므로 그의 이름을 레위라 불렀다.",
+      "sequence_order": 7,
+      "original_text": "Therefore his name was called Levi",
+      "korean_translation": "그러므로 그의 이름을 레위라 불렀다",
       "word_indices": [
         20,
         31,

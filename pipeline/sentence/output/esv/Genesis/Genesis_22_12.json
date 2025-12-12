@@ -6,14 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "He said,",
-      "korean_translation": "그가 말했습니다,",
+      "original_text": "He said",
+      "korean_translation": "그가 말했습니다",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "“Do not lay your hand on the boy",
-      "korean_translation": "“그 소년에게 네 손을 대지 말고",
+      "original_text": "Do not lay your hand on the boy",
+      "korean_translation": "그 소년에게 손을 대지 말라",
       "word_indices": [
         10,
         747
@@ -21,8 +21,8 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "or do anything to him,",
-      "korean_translation": "그에게 아무것도 하지 말라",
+      "original_text": "or do anything to him",
+      "korean_translation": "또는 그에게 아무것도 하지 말라",
       "word_indices": []
     },
     {
@@ -35,8 +35,8 @@
     },
     {
       "sequence_order": 5,
-      "original_text": "that you fear God,",
-      "korean_translation": "네가 하나님을 경외하는 것을",
+      "original_text": "that you fear God",
+      "korean_translation": "당신이 하나님을 경외하는 것을",
       "word_indices": [
         1,
         80
@@ -44,22 +44,24 @@
     },
     {
       "sequence_order": 6,
-      "original_text": "seeing you have not withheld",
-      "korean_translation": "네가 아끼지 아니하였음을 보니",
-      "word_indices": []
+      "original_text": "seeing you have not withheld your son",
+      "korean_translation": "당신이 당신의 아들을 아끼지 않았음을 보니",
+      "word_indices": [
+        2
+      ]
     },
     {
       "sequence_order": 7,
-      "original_text": "your son, your only son,",
-      "korean_translation": "네 아들, 네 독자를",
+      "original_text": "your only son",
+      "korean_translation": "당신의 독생자를",
       "word_indices": [
         2
       ]
     },
     {
       "sequence_order": 8,
-      "original_text": "from me.”",
-      "korean_translation": "나에게.”",
+      "original_text": "from me",
+      "korean_translation": "나에게서",
       "word_indices": []
     }
   ]

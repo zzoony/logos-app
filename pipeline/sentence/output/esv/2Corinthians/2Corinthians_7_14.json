@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "For whatever boasts I made to him about you",
-      "korean_translation": "내가 그에게 너희에 대해 자랑했던 것은",
+      "korean_translation": "내가 당신에 대해 그에게 한 자랑은 무엇이든",
       "word_indices": [
         298,
         512
@@ -15,41 +15,28 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "I was not put to shame.",
-      "korean_translation": "나는 부끄러움을 당하지 않았다",
+      "original_text": "I was not put to shame",
+      "korean_translation": "나는 부끄러움을 당하지 않았습니다",
       "word_indices": [
         319
       ]
     },
     {
       "sequence_order": 3,
-      "original_text": "But",
-      "korean_translation": "그러나",
-      "word_indices": []
+      "original_text": "But just as everything we said to you was true",
+      "korean_translation": "그러나 우리가 당신에게 말한 모든 것이 참된 것처럼",
+      "word_indices": [
+        430
+      ]
     },
     {
       "sequence_order": 4,
-      "original_text": "just as everything we said to you was true,",
-      "korean_translation": "우리가 너희에게 ��한 모든 것이 참된 것같이",
-      "word_indices": [
-        430
-      ]
-    },
-    {
-      "sequence_order": 5,
-      "original_text": "so also our boasting before Titus",
-      "korean_translation": "우리의 디도 앞에서 한 자랑도",
+      "original_text": "so also our boasting before Titus has proved true",
+      "korean_translation": "디도 앞에서 한 우리의 자랑도 참으로 증명되었습니다",
       "word_indices": [
         23,
+        430,
         512
-      ]
-    },
-    {
-      "sequence_order": 6,
-      "original_text": "has proved true.",
-      "korean_translation": "참되다는 것이 증명되었다",
-      "word_indices": [
-        430
       ]
     }
   ]

@@ -6,17 +6,10 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Therefore,",
-      "korean_translation": "그러므로,",
+      "original_text": "Therefore, while the promise of entering his rest still stands",
+      "korean_translation": "그러므로 그의 안식에 들어갈 약속이 아직 서 있는 동안",
       "word_indices": [
-        32
-      ]
-    },
-    {
-      "sequence_order": 2,
-      "original_text": "while the promise of entering his rest still stands,",
-      "korean_translation": "그의 안식에 들어갈 약속이 아직 남아 있는 동안,",
-      "word_indices": [
+        32,
         38,
         116,
         125,
@@ -24,17 +17,17 @@
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "let us fear,",
-      "korean_translation": "우리는 두려워하자,",
+      "sequence_order": 2,
+      "original_text": "let us fear",
+      "korean_translation": "두려워해야 합니다",
       "word_indices": [
         80
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "lest any of you should seem to have failed to reach it.",
-      "korean_translation": "너희 ���에 누구라도 그것에 이르지 못한 것 같이 보이지 않도록.",
+      "sequence_order": 3,
+      "original_text": "lest any of you should seem to have failed to reach it",
+      "korean_translation": "너희 중 누구도 그것에 도달하지 못한 것처럼 보일까 봐",
       "word_indices": [
         570,
         609,

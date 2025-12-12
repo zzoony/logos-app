@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "Whoever feeds on my flesh",
-      "korean_translation": "내 살을 먹는 자는",
+      "korean_translation": "내 살을 먹는 사람은",
       "word_indices": [
         117,
         136,
@@ -17,7 +17,7 @@
     {
       "sequence_order": 2,
       "original_text": "and drinks my blood",
-      "korean_translation": "또한 내 피를 마시는",
+      "korean_translation": "내 피를 마시는 사람은",
       "word_indices": [
         70,
         83
@@ -26,7 +26,7 @@
     {
       "sequence_order": 3,
       "original_text": "has eternal life",
-      "korean_translation": "영생을 가집니다",
+      "korean_translation": "영생을 가졌습니다",
       "word_indices": [
         41,
         614
@@ -34,10 +34,17 @@
     },
     {
       "sequence_order": 4,
-      "original_text": "and I will raise him up on the last day.",
-      "korean_translation": "그리고 내가 마지막 날에 그를 일으켜 세울 것입니���.",
+      "original_text": "and I will raise him up",
+      "korean_translation": "그리고 내가 그를 일으킬 것입니다",
       "word_indices": [
-        217,
+        217
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "on the last day",
+      "korean_translation": "마지막 날에",
+      "word_indices": [
         427
       ]
     }

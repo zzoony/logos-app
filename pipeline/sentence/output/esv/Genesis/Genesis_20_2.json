@@ -6,38 +6,38 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "And Abraham said of Sarah his wife,",
-      "korean_translation": "아브라함이 그의 아내 사라를 두고,",
+      "original_text": "And Abraham said",
+      "korean_translation": "Abraham이 말했다",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "of Sarah his wife",
+      "korean_translation": "그의 아내 Sarah에 대해",
       "word_indices": [
         68
       ]
     },
     {
-      "sequence_order": 2,
-      "original_text": "She is my sister.”",
-      "korean_translation": "그는 나의 누이입니다.”",
+      "sequence_order": 3,
+      "original_text": "She is my sister",
+      "korean_translation": "그녀는 나의 누이다",
       "word_indices": [
         361
       ]
     },
     {
-      "sequence_order": 3,
+      "sequence_order": 4,
       "original_text": "And Abimelech king of Gerar",
-      "korean_translation": "그랄 왕 아비멜렉이",
+      "korean_translation": "그리고 Gerar 왕 Abimelech가",
       "word_indices": [
         4
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "sent",
-      "korean_translation": "보내어",
-      "word_indices": []
-    },
-    {
       "sequence_order": 5,
-      "original_text": "and took Sarah.",
-      "korean_translation": "사라를 데려왔다.",
+      "original_text": "sent and took Sarah",
+      "korean_translation": "사람을 보내 Sarah를 데려갔다",
       "word_indices": []
     }
   ]

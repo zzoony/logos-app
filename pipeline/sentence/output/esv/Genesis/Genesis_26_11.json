@@ -6,8 +6,8 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "So Abimelech warned all the people, saying,",
-      "korean_translation": "그래서 아비멜렉은 모든 백성에게 경고하며 말했다,",
+      "original_text": "So Abimelech warned all the people,",
+      "korean_translation": "그래서 아비멜렉이 모든 백성에게 경고하며,",
       "word_indices": [
         3,
         644
@@ -15,18 +15,31 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "Whoever touches this man or his wife",
-      "korean_translation": "이 사람이나 그의 아내를 만지는 자는 누구든지",
+      "original_text": "saying,",
+      "korean_translation": "말하기를,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "Whoever touches this man",
+      "korean_translation": "이 사람을 만지는 자는 누구든지",
       "word_indices": [
         6,
-        68,
         117
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "shall surely be put to death.”",
-      "korean_translation": "반드시 죽임을 당할 것이다.”",
+      "sequence_order": 4,
+      "original_text": "or his wife",
+      "korean_translation": "또는 그의 아내를",
+      "word_indices": [
+        68
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "shall surely be put to death.",
+      "korean_translation": "반드시 죽임을 당할 것이다.",
       "word_indices": [
         76,
         232

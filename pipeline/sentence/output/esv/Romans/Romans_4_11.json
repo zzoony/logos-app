@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "He received the sign of circumcision",
-      "korean_translation": "그는 할례의 표징을 받았습니다",
+      "korean_translation": "그는 할례의 표징을 받았다",
       "word_indices": [
         258,
         1207
@@ -16,7 +16,7 @@
     {
       "sequence_order": 2,
       "original_text": "as a seal of the righteousness",
-      "korean_translation": "그 의의 인침으로서",
+      "korean_translation": "의의 인으로서",
       "word_indices": [
         729
       ]
@@ -24,41 +24,53 @@
     {
       "sequence_order": 3,
       "original_text": "that he had by faith",
-      "korean_translation": "그가 믿음으로 가진",
+      "korean_translation": "그가 믿음으로 가졌던",
       "word_indices": [
         158
       ]
     },
     {
       "sequence_order": 4,
-      "original_text": "while he was still uncircumcised.",
-      "korean_translation": "그가 아직 할례받지 ���았을 때입니다",
+      "original_text": "while he was still uncircumcised",
+      "korean_translation": "그가 아직 할례받지 않았을 때",
       "word_indices": []
     },
     {
       "sequence_order": 5,
-      "original_text": "The purpose was to make him the father of all",
-      "korean_translation": "그 목적은 그를 모든 사람의 아버지로 삼는 것이었습니다",
+      "original_text": "The purpose was to make him",
+      "korean_translation": "목적은 그를 만드는 것이었다",
       "word_indices": [
-        9,
         599
       ]
     },
     {
       "sequence_order": 6,
-      "original_text": "who believe without being circumcised,",
-      "korean_translation": "할례받지 않고 믿는 자들의",
+      "original_text": "the father of all who believe",
+      "korean_translation": "믿는 모든 자의 아버지가",
       "word_indices": [
+        9,
         190
       ]
     },
     {
       "sequence_order": 7,
-      "original_text": "so that righteousness would be counted to them as well,",
-      "korean_translation": "그들에게도 의가 여겨지게 하려 함입니다",
+      "original_text": "without being circumcised",
+      "korean_translation": "할례받지 않고",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 8,
+      "original_text": "so that righteousness would be counted",
+      "korean_translation": "그래서 의가 여겨지도록",
       "word_indices": [
         473
       ]
+    },
+    {
+      "sequence_order": 9,
+      "original_text": "to them as well",
+      "korean_translation": "그들에게도",
+      "word_indices": []
     }
   ]
 }

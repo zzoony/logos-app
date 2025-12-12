@@ -6,40 +6,41 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Then they said,",
-      "korean_translation": "그들이 말하길,",
+      "original_text": "Then they said",
+      "korean_translation": "그들이 말하기를",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "“Come,",
-      "korean_translation": "“오라,",
-      "word_indices": []
+      "original_text": "Come, let us build ourselves a city",
+      "korean_translation": "자, 우리가 성읍을 건축하자",
+      "word_indices": [
+        16,
+        87
+      ]
     },
     {
       "sequence_order": 3,
-      "original_text": "let us build ourselves a city and a tower with its top in the heavens,",
-      "korean_translation": "우리가 성을 건축하고 하늘에 닿을 탑을 쌓아,",
+      "original_text": "and a tower with its top in the heavens",
+      "korean_translation": "그리고 하늘에 닿는 탑을 건축하자",
       "word_indices": [
-        16,
         40,
-        87,
         556,
         713
       ]
     },
     {
       "sequence_order": 4,
-      "original_text": "and let us make a name for ourselves,",
-      "korean_translation": "우리를 위하여 이름을 만들어,",
+      "original_text": "and let us make a name for ourselves",
+      "korean_translation": "그리고 우리를 위해 이름을 만들자",
       "word_indices": [
         20
       ]
     },
     {
       "sequence_order": 5,
-      "original_text": "lest we be dispersed over the face of the whole earth.”",
-      "korean_translation": "그렇지 않으면 온 땅에 흩어지지 말자.”",
+      "original_text": "lest we be dispersed over the face of the whole earth",
+      "korean_translation": "그렇지 않으면 우리가 온 지면에 흩어질까 하노라",
       "word_indices": [
         69,
         151

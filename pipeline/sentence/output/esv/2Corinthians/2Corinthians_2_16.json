@@ -6,8 +6,8 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "to one a fragrance from death to death",
-      "korean_translation": "한 사람에게는 죽음에��� 죽음으로 가는 향기",
+      "original_text": "to one a fragrance from death",
+      "korean_translation": "한 사람에게는 죽음에게서 나는 향기",
       "word_indices": [
         76,
         2095
@@ -15,17 +15,33 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "to the other a fragrance from life to life",
-      "korean_translation": "다른 사람에게는 생명에서 생명으로 가는 향기",
+      "original_text": "to death",
+      "korean_translation": "죽음에 이르는",
+      "word_indices": [
+        76
+      ]
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "to the other a fragrance from life",
+      "korean_translation": "다른 사람에게는 생명에게서 나는 향기",
       "word_indices": [
         41,
         2095
       ]
     },
     {
-      "sequence_order": 3,
+      "sequence_order": 4,
+      "original_text": "to life",
+      "korean_translation": "생명에 이르는",
+      "word_indices": [
+        41
+      ]
+    },
+    {
+      "sequence_order": 5,
       "original_text": "Who is sufficient for these things?",
-      "korean_translation": "이런 일을 감당할 사람이 누구이겠는가?",
+      "korean_translation": "이러한 일들을 감당할 사람이 누구입니까?",
       "word_indices": [
         1955
       ]

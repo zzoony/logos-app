@@ -6,22 +6,16 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "But Jacob said to Rebekah his mother,",
-      "korean_translation": "하지만 야곱이 그의 어머니 리브가에게 말했다,",
+      "original_text": "But Jacob said to Rebekah his mother",
+      "korean_translation": "하지만 야곱은 그의 어머니 르베카에게 말했습니다",
       "word_indices": [
         128
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "“Behold,",
-      "korean_translation": "“보라,",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "my brother Esau is a hairy man,",
-      "korean_translation": "나의 형 에서는 털이 많은 사람이고,",
+      "original_text": "Behold, my brother Esau is a hairy man",
+      "korean_translation": "보세요, 나의 형 에서는 털이 많은 사람입니다",
       "word_indices": [
         6,
         28,
@@ -29,9 +23,9 @@
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "and I am a smooth man.”",
-      "korean_translation": "나는 매끈한 사람입니다.”",
+      "sequence_order": 3,
+      "original_text": "and I am a smooth man",
+      "korean_translation": "그리고 나는 매끈한 사람입니다",
       "word_indices": [
         6,
         1764
