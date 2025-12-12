@@ -1152,6 +1152,50 @@ button, input, select, textarea, a, .book-card, .books-grid {
    Validation Tab Styles
    =================================== */
 
+/* Validation Summary */
+.validation-summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 12px 16px;
+  background: var(--bg-elevated);
+  border-bottom: 1px solid var(--border-color);
+  font-size: 14px;
+}
+
+.summary-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.summary-label {
+  color: var(--text-muted);
+}
+
+.summary-value {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.summary-value.success {
+  color: var(--color-success);
+}
+
+.summary-value.warning {
+  color: var(--color-warning);
+}
+
+.summary-percent {
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+.summary-divider {
+  color: var(--gray-300);
+}
+
 /* Issue Tabs */
 .issue-tabs {
   display: flex;

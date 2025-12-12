@@ -32,7 +32,9 @@ function loadBibleData(version) {
 function isKoreanText(text) {
   // 한글 범위: 가-힣 (완성형), ㄱ-ㅎ (자음), ㅏ-ㅣ (모음)
   // 허용: 공백, 숫자, 기본 구두점
-  const nonKoreanPattern = /[^\uAC00-\uD7A3\u1100-\u11FF\u3130-\u318F\s0-9.,!?;:'"()\-–—…·]/g;
+  // 유니코드 따옴표: " " ' ' (U+201C, U+201D, U+2018, U+2019)
+  // 동아시아 인용부호: 「 」 『 』
+  const nonKoreanPattern = /[^\uAC00-\uD7A3\u1100-\u11FF\u3130-\u318F\s0-9.,!?;:'"()\-\u2013\u2014\u2026\u00B7\u201C\u201D\u2018\u2019\u300C\u300D\u300E\u300F]/g;
   const matches = text.match(nonKoreanPattern);
   return {
     isValid: !matches || matches.length === 0,
@@ -283,37 +285,48 @@ function validateBook(bookName, version, progressCallback) {
   for (const file of files) {
     const filePath = path.join(bookPath, file);
 
+    // 파일명에서 chapter, verse 추출
+    const [, chapterStr, verseStr] = file.replace('.json', '').split('_').slice(-3);
+    const chapter = parseInt(chapterStr) || 0;
+    const verse = parseInt(verseStr) || 0;
+
     let verseData;
     try {
       verseData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
     } catch (parseError) {
       // JSON 파싱 오류
       results.issueCount++;
-      results.issues.json_parse_error.push({
+      const errorIssue = {
         type: 'json_parse_error',
         message: `JSON 파싱 오류: ${parseError.message}`,
         fileName: file,
         verseRef: file.replace('.json', '').replace(/_/g, ' ')
-      });
+      };
+      results.issues.json_parse_error.push(errorIssue);
       processed++;
       progressCallback?.({
         book: bookName,
+        chapter,
+        verse,
         processed,
         total: files.length,
         validCount: results.validVerses,
-        issueCount: results.issueCount
+        issueCount: results.issueCount,
+        status: 'error',
+        isValid: false,
+        issues: [errorIssue]
       });
       continue;
     }
 
     // 원본 구절 가져오기
-    const [, chapter, verse] = file.replace('.json', '').split('_').slice(-3);
-    const sourceVerse = bibleData?.[bookName]?.[chapter]?.[verse] || null;
+    const sourceVerse = bibleData?.[bookName]?.[chapterStr]?.[verseStr] || null;
 
     // 검증
     const issues = validateVerse(verseData, sourceVerse);
+    const isValid = issues.length === 0;
 
-    if (issues.length === 0) {
+    if (isValid) {
       results.validVerses++;
     } else {
       results.issueCount += issues.length;
@@ -333,10 +346,15 @@ function validateBook(bookName, version, progressCallback) {
     processed++;
     progressCallback?.({
       book: bookName,
+      chapter,
+      verse,
       processed,
       total: files.length,
       validCount: results.validVerses,
-      issueCount: results.issueCount
+      issueCount: results.issueCount,
+      status: 'completed',
+      isValid,
+      issues: isValid ? [] : issues
     });
   }
 
@@ -376,6 +394,18 @@ function validateBooks(bookNames, version, progressCallback) {
       allResults.totalVerses += result.totalVerses;
       allResults.totalValid += result.validVerses;
       allResults.totalIssues += result.issueCount;
+
+      // 책 검증 완료 이벤트
+      progressCallback?.({
+        book: bookName,
+        processed: result.totalVerses,
+        total: result.totalVerses,
+        validCount: result.validVerses,
+        issueCount: result.issueCount,
+        bookIndex: i + 1,
+        totalBooks: bookNames.length,
+        status: 'book_complete'
+      });
     }
   }
 
