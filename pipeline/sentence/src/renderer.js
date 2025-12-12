@@ -1691,9 +1691,13 @@ function renderIssueList(issueType = 'all') {
       const versesToReanalyze = new Map();
 
       // 전체 선택이면 currentFilteredIssues 사용, 아니면 화면의 체크된 항목만
+      // :has() 대신 호환성 높은 방식 사용
       const issuesToProcess = isAllSelected
         ? currentFilteredIssues
-        : Array.from(issueList.querySelectorAll('.issue-item:has(.issue-select:checked)')).map(item => ({
+        : Array.from(issueList.querySelectorAll('.issue-item')).filter(item => {
+            const checkbox = item.querySelector('.issue-select');
+            return checkbox && checkbox.checked;
+          }).map(item => ({
             bookName: item.dataset.book,
             fileName: item.dataset.fileName
           }));
@@ -1801,8 +1805,13 @@ function renderIssueList(issueType = 'all') {
           const reanalyzedBooks = [...new Set(verses.map(v => v.book))];
           console.log(`[${getTimestamp()}] 🔄 재검증 시작: ${reanalyzedBooks.join(', ')}`);
 
-          // 검증 다시 실행
-          await startValidation(reanalyzedBooks, version);
+          // 재검증 대상 책을 선택 상태로 동기화 후 검증 실행
+          validationSelectedBooks = new Set(reanalyzedBooks);
+          document.querySelectorAll('#validateBooksGrid .book-card').forEach(card => {
+            card.classList.toggle('selected', validationSelectedBooks.has(card.dataset.bookName));
+          });
+          updateValidationSelectionInfo();
+          await startValidation();
 
         } else {
           newReanalyzeBtn.textContent = `오류 발생: ${result.error}`;
@@ -1820,7 +1829,7 @@ function renderIssueList(issueType = 'all') {
 
         // 버튼 상태 복원 (재검증 후 DOM이 교체되므로 새 참조 필요)
         setTimeout(() => {
-          const currentBtn = document.getElementById('reanalyzeBatchBtn');
+          const currentBtn = document.getElementById('reanalyzeSelectedBtn');
           if (currentBtn) {
             currentBtn.textContent = '선택 항목 재분석';
             currentBtn.disabled = true;  // 초기 상태로 비활성화
