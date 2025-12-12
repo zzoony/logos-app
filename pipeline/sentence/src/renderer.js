@@ -286,7 +286,7 @@ function initBookCards() {
  * 선택 정보 업데이트
  */
 function updateSelectionInfo() {
-  const selectedCards = document.querySelectorAll('.book-card.selected');
+  const selectedCards = document.querySelectorAll('#booksGrid .book-card.selected');
   const count = selectedCards.length;
 
   // 선택된 책의 총 구절 수와 남은 구절 수 계산
@@ -361,11 +361,11 @@ function updateSelectionInfo() {
  * 버튼 초기화
  */
 function initButtons() {
-  // 전체 선택 버튼
+  // 전체 선택 버튼 (분석탭)
   const selectAllBtn = document.getElementById('selectAllBtn');
   if (selectAllBtn) {
     selectAllBtn.addEventListener('click', () => {
-      document.querySelectorAll('.book-card').forEach(card => {
+      document.querySelectorAll('#booksGrid .book-card').forEach(card => {
         if (!card.classList.contains('analyzing')) {
           card.classList.add('selected');
         }
@@ -374,11 +374,11 @@ function initButtons() {
     });
   }
 
-  // 선택 해제 버튼
+  // 선택 해제 버튼 (분석탭)
   const deselectAllBtn = document.getElementById('deselectAllBtn');
   if (deselectAllBtn) {
     deselectAllBtn.addEventListener('click', () => {
-      document.querySelectorAll('.book-card').forEach(card => {
+      document.querySelectorAll('#booksGrid .book-card').forEach(card => {
         card.classList.remove('selected');
       });
       updateSelectionInfo();
@@ -1081,6 +1081,10 @@ window.getSourceFilePath = getSourceFilePath;
 // 검증 결과 상태
 let validationResults = null;
 let validationSelectedBooks = new Set();
+let currentFilteredIssues = [];  // 현재 필터된 전체 이슈 목록
+
+// 검증 탭 현재 필터 상태
+let validateCurrentFilter = 'all';
 
 /**
  * 검증 탭 초기화
@@ -1090,15 +1094,47 @@ function initValidationTab() {
   window.electronAPI.onValidationProgress(handleValidationProgress);
   window.electronAPI.onValidationComplete(handleValidationComplete);
 
-  // 전체 선택 버튼
-  const selectAllBtn = document.getElementById('validateSelectAllBtn');
-  if (selectAllBtn) {
-    selectAllBtn.addEventListener('click', () => {
-      document.querySelectorAll('#validateBooksGrid .book-card').forEach(card => {
+  // 검증 탭 필터 버튼 이벤트
+  const validateFilterBtns = document.querySelectorAll('.filter-btn[data-tab="validate"]');
+  validateFilterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      validateFilterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      validateCurrentFilter = btn.dataset.filter;
+      renderValidationBookCards(validateCurrentFilter);
+    });
+  });
+
+  // 전체 선택 버튼 (필터 영역)
+  const selectAllBtn2 = document.getElementById('validateSelectAllBtn2');
+  if (selectAllBtn2) {
+    selectAllBtn2.addEventListener('click', () => {
+      document.querySelectorAll('#validateBooksGrid .book-card:not([style*="display: none"])').forEach(card => {
         card.classList.add('selected');
         validationSelectedBooks.add(card.dataset.bookName);
       });
       updateValidationSelectionInfo();
+    });
+  }
+
+  // 선택 해제 버튼
+  const deselectAllBtn = document.getElementById('validateDeselectAllBtn');
+  if (deselectAllBtn) {
+    deselectAllBtn.addEventListener('click', () => {
+      document.querySelectorAll('#validateBooksGrid .book-card').forEach(card => {
+        card.classList.remove('selected');
+      });
+      validationSelectedBooks.clear();
+      updateValidationSelectionInfo();
+    });
+  }
+
+  // 새로고침 버튼
+  const refreshBtn = document.getElementById('validateRefreshBtn');
+  if (refreshBtn) {
+    refreshBtn.addEventListener('click', async () => {
+      await loadBibleData();
+      renderValidationBookCards(validateCurrentFilter);
     });
   }
 
@@ -1132,15 +1168,21 @@ function initValidationTab() {
 /**
  * 검증 탭 책 카드 렌더링
  */
-function renderValidationBookCards() {
+function renderValidationBookCards(filter = 'all') {
   const grid = document.getElementById('validateBooksGrid');
   if (!grid || !bibleData) return;
 
   grid.innerHTML = '';
   validationSelectedBooks.clear();
 
-  // 분석된 책만 표시 (analyzed > 0)
-  const analyzedBooks = bibleData.books.filter(book => book.analyzed > 0);
+  // 분석된 책만 표시 (analyzed > 0) + 필터 적용
+  const analyzedBooks = bibleData.books.filter(book => {
+    if (book.analyzed <= 0) return false;
+    if (filter === 'all') return true;
+    if (filter === 'old') return book.testament === 'old';
+    if (filter === 'new') return book.testament === 'new';
+    return true;
+  });
 
   if (analyzedBooks.length === 0) {
     grid.innerHTML = '<div class="issue-empty"><h4>분석된 구절이 없습니다</h4><p>먼저 분석 탭에서 구절을 분석해주세요.</p></div>';
@@ -1303,13 +1345,41 @@ async function startValidation() {
  * 검증 진행상황 핸들러
  */
 function handleValidationProgress(progress) {
-  const { book, processed, total, validCount, issueCount, currentBook, bookIndex, totalBooks } = progress;
+  const { book, chapter, verse, processed, total, validCount, issueCount, currentBook, bookIndex, totalBooks, status, isValid, issues } = progress;
 
   const bookData = bibleData?.books?.find(b => b.name === book);
   const bookNameKo = bookData?.nameKo || book;
 
   // 진행률 계산
   const percent = total > 0 ? Math.round((processed / total) * 100) : 0;
+
+  // 타임스탬프 생성 함수
+  const getTimestamp = () => {
+    const now = new Date();
+    const yyyy = now.getFullYear();
+    const mm = String(now.getMonth() + 1).padStart(2, '0');
+    const dd = String(now.getDate()).padStart(2, '0');
+    const hh = String(now.getHours()).padStart(2, '0');
+    const mi = String(now.getMinutes()).padStart(2, '0');
+    const ss = String(now.getSeconds()).padStart(2, '0');
+    return `${yyyy}-${mm}-${dd} ${hh}:${mi}:${ss}`;
+  };
+
+  // 콘솔 로그 출력
+  if (status === 'validating') {
+    console.log(`[${getTimestamp()}] 🔍 검증 시작: ${book} ${chapter}:${verse}`);
+  } else if (status === 'completed') {
+    if (isValid) {
+      console.log(`[${getTimestamp()}] ✅ 통과: ${book} ${chapter}:${verse} | 진행: ${processed}/${total} (${percent}%)`);
+    } else {
+      const issueTypes = issues?.map(i => i.type).join(', ') || 'unknown';
+      console.log(`[${getTimestamp()}] ⚠️ 이슈: ${book} ${chapter}:${verse} [${issueTypes}] | 진행: ${processed}/${total} (${percent}%)`);
+    }
+  } else if (status === 'error') {
+    console.error(`[${getTimestamp()}] ❌ 오류: ${book} ${chapter}:${verse} | 진행: ${processed}/${total}`);
+  } else if (status === 'book_complete') {
+    console.log(`[${getTimestamp()}] 📖 ${bookNameKo} 검증 완료: 통과 ${validCount}, 이슈 ${issueCount}`);
+  }
 
   // 상태 메시지
   const statusEl = document.getElementById('validationStatus');
@@ -1362,8 +1432,29 @@ function handleValidationComplete(result) {
   // 통계 업데이트
   updateValidationStats(result.totalVerses, result.totalValid, result.totalIssues);
 
+  // 검증 결과 요약 업데이트
+  updateValidationSummary(result.totalVerses, result.totalValid, result.totalIssues);
+
   // 이슈 목록 렌더링
   renderIssueList('all');
+}
+
+/**
+ * 검증 결과 요약 업데이트
+ */
+function updateValidationSummary(total, valid, issues) {
+  const summaryTotal = document.getElementById('summaryTotal');
+  const summaryPassed = document.getElementById('summaryPassed');
+  const summaryPassRate = document.getElementById('summaryPassRate');
+  const summaryIssues = document.getElementById('summaryIssues');
+
+  if (summaryTotal) summaryTotal.textContent = total.toLocaleString();
+  if (summaryPassed) summaryPassed.textContent = valid.toLocaleString();
+  if (summaryPassRate) {
+    const rate = total > 0 ? Math.round((valid / total) * 100) : 0;
+    summaryPassRate.textContent = `(${rate}%)`;
+  }
+  if (summaryIssues) summaryIssues.textContent = issues.toLocaleString();
 }
 
 /**
@@ -1389,6 +1480,9 @@ function renderIssueList(issueType = 'all') {
       }
     }
   }
+
+  // 현재 필터된 이슈 목록 저장 (전체 선택 시 사용)
+  currentFilteredIssues = allIssues;
 
   if (allIssues.length === 0) {
     issueList.innerHTML = `
@@ -1527,55 +1621,92 @@ function renderIssueList(issueType = 'all') {
   // 툴바 요소들
   const toolbar = document.getElementById('issueToolbar');
   const selectAllCheckbox = document.getElementById('selectAllIssues');
-  const selectedCountSpan = document.getElementById('selectedCount');
+  const selectedCountSpan = document.getElementById('selectedIssueCount');
   const reanalyzeSelectedBtn = document.getElementById('reanalyzeSelectedBtn');
 
-  // 이슈가 있으면 툴바 표시
+  // 이슈가 있으면 툴바 표시, 체크박스 초기화
   if (allIssues.length > 0 && toolbar) {
     toolbar.style.display = 'flex';
+    if (selectAllCheckbox) {
+      selectAllCheckbox.checked = false;
+      selectAllCheckbox.indeterminate = false;
+    }
   } else if (toolbar) {
     toolbar.style.display = 'none';
   }
 
+  // 전체 선택 상태 추적
+  let isAllSelected = false;
+
   // 선택 상태 업데이트 함수
-  function updateSelectionState() {
+  function updateIssueSelectionState() {
     const checkboxes = issueList.querySelectorAll('.issue-select');
     const checkedBoxes = issueList.querySelectorAll('.issue-select:checked');
-    const count = checkedBoxes.length;
+    const displayedCheckedCount = checkedBoxes.length;
 
-    selectedCountSpan.textContent = `${count}개 선택됨`;
-    reanalyzeSelectedBtn.disabled = count === 0;
+    // 전체 선택 시에는 전체 이슈 개수 표시, 아니면 화면에 체크된 개수
+    const totalCount = isAllSelected ? currentFilteredIssues.length : displayedCheckedCount;
+
+    if (selectedCountSpan) {
+      selectedCountSpan.textContent = `${totalCount}개 선택됨`;
+    }
+
+    // 재분석 버튼 활성화 (DOM에서 직접 가져옴)
+    const reanalyzeBtn = document.getElementById('reanalyzeSelectedBtn');
+    if (reanalyzeBtn) {
+      reanalyzeBtn.disabled = totalCount === 0;
+    }
 
     // 전체 선택 체크박스 상태 업데이트
-    if (checkboxes.length > 0) {
-      selectAllCheckbox.checked = count === checkboxes.length;
-      selectAllCheckbox.indeterminate = count > 0 && count < checkboxes.length;
+    const selectAllCb = document.getElementById('selectAllIssues');
+    if (selectAllCb && checkboxes.length > 0) {
+      selectAllCb.checked = isAllSelected || displayedCheckedCount === checkboxes.length;
+      selectAllCb.indeterminate = !isAllSelected && displayedCheckedCount > 0 && displayedCheckedCount < checkboxes.length;
     }
   }
 
-  // 전체 선택 체크박스 이벤트
+  // 전체 선택 체크박스 이벤트 (기존 리스너 제거 후 재등록)
   if (selectAllCheckbox) {
-    selectAllCheckbox.addEventListener('change', () => {
+    const newSelectAllCheckbox = selectAllCheckbox.cloneNode(true);
+    selectAllCheckbox.parentNode.replaceChild(newSelectAllCheckbox, selectAllCheckbox);
+
+    newSelectAllCheckbox.addEventListener('change', () => {
+      isAllSelected = newSelectAllCheckbox.checked;
       const checkboxes = issueList.querySelectorAll('.issue-select');
       checkboxes.forEach(cb => {
-        cb.checked = selectAllCheckbox.checked;
+        cb.checked = newSelectAllCheckbox.checked;
       });
-      updateSelectionState();
+      updateIssueSelectionState();
     });
   }
 
   // 선택 항목 재분석 버튼 이벤트
   if (reanalyzeSelectedBtn) {
-    reanalyzeSelectedBtn.addEventListener('click', async () => {
-      const checkedItems = issueList.querySelectorAll('.issue-item:has(.issue-select:checked)');
-      if (checkedItems.length === 0) return;
+    // 기존 리스너 제거
+    const newReanalyzeBtn = reanalyzeSelectedBtn.cloneNode(true);
+    reanalyzeSelectedBtn.parentNode.replaceChild(newReanalyzeBtn, reanalyzeSelectedBtn);
 
+    newReanalyzeBtn.addEventListener('click', async () => {
       // 중복 제거를 위한 Map (같은 구절에 여러 이슈가 있을 수 있음)
       const versesToReanalyze = new Map();
 
-      checkedItems.forEach(item => {
-        const book = item.dataset.book;
-        const fileName = item.dataset.fileName;
+      // 전체 선택이면 currentFilteredIssues 사용, 아니면 화면의 체크된 항목만
+      // :has() 대신 호환성 높은 방식 사용
+      const issuesToProcess = isAllSelected
+        ? currentFilteredIssues
+        : Array.from(issueList.querySelectorAll('.issue-item')).filter(item => {
+            const checkbox = item.querySelector('.issue-select');
+            return checkbox && checkbox.checked;
+          }).map(item => ({
+            bookName: item.dataset.book,
+            fileName: item.dataset.fileName
+          }));
+
+      if (issuesToProcess.length === 0) return;
+
+      issuesToProcess.forEach(issue => {
+        const book = issue.bookName;
+        const fileName = issue.fileName;
         if (!book || !fileName) return;
 
         const match = fileName.match(/_(\d+)_(\d+)\.json$/);
@@ -1590,24 +1721,55 @@ function renderIssueList(issueType = 'all') {
             items: []
           });
         }
-        versesToReanalyze.get(key).items.push(item);
       });
 
       const total = versesToReanalyze.size;
       const version = currentSettings.bibleVersion;
 
+      // 타임스탬프 생성 함수
+      const getTimestamp = () => {
+        const now = new Date();
+        const yyyy = now.getFullYear();
+        const mm = String(now.getMonth() + 1).padStart(2, '0');
+        const dd = String(now.getDate()).padStart(2, '0');
+        const hh = String(now.getHours()).padStart(2, '0');
+        const mi = String(now.getMinutes()).padStart(2, '0');
+        const ss = String(now.getSeconds()).padStart(2, '0');
+        return `${yyyy}-${mm}-${dd} ${hh}:${mi}:${ss}`;
+      };
+
       // 버튼 상태 변경
-      reanalyzeSelectedBtn.disabled = true;
-      reanalyzeSelectedBtn.textContent = `재분석 중... (0/${total})`;
+      newReanalyzeBtn.disabled = true;
+      newReanalyzeBtn.textContent = `재분석 중... (0/${total})`;
 
       // 배치 재분석 진행 상황 리스너 설정
       const removeProgressListener = window.electronAPI.onReanalyzeProgress((progress) => {
-        reanalyzeSelectedBtn.textContent = `재분석 중... (${progress.completed + progress.failed}/${progress.total})`;
+        const { book, chapter, verse, completed, failed, total, status, retrySession, maxRetrySessions, error, failedCount } = progress;
+        const percent = total > 0 ? Math.round(((completed + failed) / total) * 100) : 0;
+        const retryPrefix = retrySession > 0 ? `[재시도 ${retrySession}/${maxRetrySessions}] ` : '';
+
+        // 콘솔 로그 출력
+        if (status === 'retry_starting') {
+          console.log(`[${getTimestamp()}] 🔄 ${retryPrefix}재시도 세션 시작 - ${failedCount}개 구절`);
+        } else if (status === 'processing') {
+          console.log(`[${getTimestamp()}] 🚀 ${retryPrefix}시작: ${book} ${chapter}:${verse}`);
+        } else if (status === 'completed') {
+          console.log(`[${getTimestamp()}] ✅ ${retryPrefix}완료: ${book} ${chapter}:${verse} | 진행: ${completed + failed}/${total} (${percent}%)`);
+        } else if (status === 'error') {
+          console.error(`[${getTimestamp()}] ❌ ${retryPrefix}실패: ${book} ${chapter}:${verse} - ${error || 'Unknown error'}`);
+        }
+
+        // 버튼 텍스트 업데이트
+        if (retrySession > 0) {
+          newReanalyzeBtn.textContent = `재시도 ${retrySession}/${maxRetrySessions}... (${completed + failed}/${total})`;
+        } else {
+          newReanalyzeBtn.textContent = `재분석 중... (${completed + failed}/${total})`;
+        }
       });
 
       // 배치 재분석 완료 리스너 설정
       const removeCompleteListener = window.electronAPI.onReanalyzeComplete((result) => {
-        console.log('Batch reanalyze complete:', result);
+        console.log(`[${getTimestamp()}] 📊 재분석 완료:`, result);
       });
 
       try {
@@ -1618,7 +1780,7 @@ function renderIssueList(issueType = 'all') {
           verse: data.verse
         }));
 
-        console.log(`Starting batch reanalyze: ${verses.length} verses (Pool based)`);
+        console.log(`[${getTimestamp()}] 🔄 Starting batch reanalyze: ${verses.length} verses (Pool based, max 5 retries)`);
 
         // 배치 재분석 API 호출 (Pool 기반 병렬 처리)
         const result = await window.electronAPI.reanalyzeBatch({
@@ -1627,38 +1789,52 @@ function renderIssueList(issueType = 'all') {
         });
 
         if (result.success) {
-          // 성공한 구절들 UI 업데이트
-          result.result.results.forEach(verseResult => {
-            if (verseResult.status === 'completed') {
-              const key = `${verseResult.book}_${verseResult.chapter}_${verseResult.verse}`;
-              const data = versesToReanalyze.get(key);
-              if (data) {
-                data.items.forEach(item => {
-                  item.classList.add('reanalyzed');
-                  const checkbox = item.querySelector('.issue-select');
-                  if (checkbox) checkbox.checked = false;
-                });
-              }
-            }
-          });
+          // 완료 메시지 (세션 정보 포함)
+          const sessionsInfo = result.result.sessions > 1 ? ` (${result.result.sessions}회 시도)` : '';
+          newReanalyzeBtn.textContent = `완료! (${result.result.completed}/${result.result.total} 성공)${sessionsInfo}`;
+          console.log(`[${getTimestamp()}] ✅ 재분석 완료: ${result.result.completed}/${result.result.total} 성공, ${result.result.failed} 실패${sessionsInfo}`);
 
-          // 완료 메시지
-          reanalyzeSelectedBtn.textContent = `완료! (${result.result.completed}/${result.result.total} 성공)`;
+          // 전체 선택 상태 초기화
+          isAllSelected = false;
+
+          // 완료 팝업 메시지
+          const failedMsg = result.result.failed > 0 ? `\n실패: ${result.result.failed}개` : '';
+          alert(`재분석이 완료되었습니다!\n\n성공: ${result.result.completed}개${failedMsg}${sessionsInfo}\n\n검증을 다시 실행합니다.`);
+
+          // 재분석된 책들로 재검증 실행
+          const reanalyzedBooks = [...new Set(verses.map(v => v.book))];
+          console.log(`[${getTimestamp()}] 🔄 재검증 시작: ${reanalyzedBooks.join(', ')}`);
+
+          // 재검증 대상 책을 선택 상태로 동기화 후 검증 실행
+          validationSelectedBooks = new Set(reanalyzedBooks);
+          document.querySelectorAll('#validateBooksGrid .book-card').forEach(card => {
+            card.classList.toggle('selected', validationSelectedBooks.has(card.dataset.bookName));
+          });
+          updateValidationSelectionInfo();
+          await startValidation();
+
         } else {
-          reanalyzeSelectedBtn.textContent = `오류 발생: ${result.error}`;
+          newReanalyzeBtn.textContent = `오류 발생: ${result.error}`;
+          console.error(`[${getTimestamp()}] ❌ 재분석 오류: ${result.error}`);
+          alert(`재분석 오류: ${result.error}`);
         }
       } catch (error) {
         console.error('Batch reanalyze error:', error);
-        reanalyzeSelectedBtn.textContent = '오류 발생';
+        newReanalyzeBtn.textContent = '오류 발생';
+        alert(`재분석 오류: ${error.message}`);
       } finally {
         // 리스너 제거
         removeProgressListener();
         removeCompleteListener();
 
-        // 버튼 상태 복원
+        // 버튼 상태 복원 (재검증 후 DOM이 교체되므로 새 참조 필요)
         setTimeout(() => {
-          reanalyzeSelectedBtn.textContent = '선택 항목 재분석';
-          updateSelectionState();
+          const currentBtn = document.getElementById('reanalyzeSelectedBtn');
+          if (currentBtn) {
+            currentBtn.textContent = '선택 항목 재분석';
+            currentBtn.disabled = true;  // 초기 상태로 비활성화
+          }
+          updateIssueSelectionState();
         }, 2000);
       }
     });
@@ -1698,12 +1874,18 @@ function renderIssueList(issueType = 'all') {
     // 체크박스 변경 이벤트
     const checkbox = item.querySelector('.issue-select');
     if (checkbox) {
-      checkbox.addEventListener('change', updateSelectionState);
+      checkbox.addEventListener('change', () => {
+        // 개별 체크박스 클릭 시 전체 선택 상태 해제
+        if (!checkbox.checked) {
+          isAllSelected = false;
+        }
+        updateIssueSelectionState();
+      });
     }
   });
 
   // 초기 선택 상태 업데이트
-  updateSelectionState();
+  updateIssueSelectionState();
 }
 
 /**
@@ -1759,8 +1941,8 @@ initTabs = function() {
   tabBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       if (btn.dataset.tab === 'validate') {
-        // 검증 탭으로 전환할 때 책 카드 렌더링
-        renderValidationBookCards();
+        // 검증 탭으로 전환할 때 현재 필터 유지하면서 책 카드 렌더링
+        renderValidationBookCards(validateCurrentFilter);
       }
     });
   });

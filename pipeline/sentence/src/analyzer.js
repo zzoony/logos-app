@@ -1000,92 +1000,137 @@ async function reanalyzeBatch(verses, version, progressCallback) {
   const koreanBible = loadKoreanBible();
   const wordToId = loadVocabulary(version);
 
-  let completed = 0;
-  let failed = 0;
-  const total = verses.length;
-  const results = [];
+  const MAX_RETRY_SESSIONS = 5;
+  let currentSession = 0;
+  let versesToProcess = [...verses];
+  const allResults = [];
 
-  log(`\n[BATCH REANALYZE] Starting ${total} verses with ${getPoolSize()} workers (method: ${currentAnalysisMethod})`);
+  while (versesToProcess.length > 0 && currentSession < MAX_RETRY_SESSIONS) {
+    currentSession++;
+    const isRetry = currentSession > 1;
 
-  // 각 구절 처리 함수
-  const processor = async ({ book, chapter, verse }) => {
-    const bookFilename = toFilename(book);
-    const outputPath = path.join(PATHS.OUTPUT, version.toLowerCase(), bookFilename);
-    const fileName = `${bookFilename}_${chapter}_${verse}.json`;
-    const filePath = path.join(outputPath, fileName);
+    let completed = 0;
+    let failed = 0;
+    const total = versesToProcess.length;
+    const sessionResults = [];
+    const failedVerses = [];
 
-    // 처리 시작 알림
-    progressCallback?.({
-      book,
-      chapter,
-      verse,
-      completed,
-      failed,
-      total,
-      status: 'processing'
-    });
-
-    try {
-      // 기존 파일 삭제
-      if (fs.existsSync(filePath)) {
-        fs.unlinkSync(filePath);
-      }
-
-      // 새로 분석
-      const result = await analyzeVerse(book, chapter, verse, version, wordToId, koreanBible, bibleData);
-
-      if (result) {
-        if (!fs.existsSync(outputPath)) {
-          fs.mkdirSync(outputPath, { recursive: true });
-        }
-        fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
-        log(`[SAVE] ${fileName}`);
-      }
-
-      completed++;
+    if (isRetry) {
+      log(`\n[BATCH REANALYZE] 🔄 재시도 세션 ${currentSession}/${MAX_RETRY_SESSIONS} - ${total}개 구절`);
       progressCallback?.({
-        book,
-        chapter,
-        verse,
-        completed,
-        failed,
-        total,
-        status: 'completed'
+        status: 'retry_starting',
+        retrySession: currentSession,
+        maxRetrySessions: MAX_RETRY_SESSIONS,
+        failedCount: total
       });
-
-      results.push({ book, chapter, verse, status: 'completed', result });
-      return { book, chapter, verse, status: 'completed' };
-
-    } catch (error) {
-      console.error(`[ERROR] ${book} ${chapter}:${verse}: ${error.message}`);
-      failed++;
-
-      progressCallback?.({
-        book,
-        chapter,
-        verse,
-        completed,
-        failed,
-        total,
-        status: 'error',
-        error: error.message
-      });
-
-      results.push({ book, chapter, verse, status: 'error', error: error.message });
-      return { book, chapter, verse, status: 'error', error: error.message };
+    } else {
+      log(`\n[BATCH REANALYZE] Starting ${total} verses with ${getPoolSize()} workers (method: ${currentAnalysisMethod})`);
     }
-  };
 
-  // Pool 기반 병렬 처리
-  await processWithPool(verses, getPoolSize(), processor);
+    // 각 구절 처리 함수
+    const processor = async ({ book, chapter, verse }) => {
+      const bookFilename = toFilename(book);
+      const outputPath = path.join(PATHS.OUTPUT, version.toLowerCase(), bookFilename);
+      const fileName = `${bookFilename}_${chapter}_${verse}.json`;
+      const filePath = path.join(outputPath, fileName);
 
-  log(`[BATCH REANALYZE] Done: ${completed} completed, ${failed} failed`);
+      // 처리 시작 알림
+      progressCallback?.({
+        book,
+        chapter,
+        verse,
+        completed,
+        failed,
+        total,
+        status: 'processing',
+        retrySession: isRetry ? currentSession : 0,
+        maxRetrySessions: MAX_RETRY_SESSIONS
+      });
+
+      try {
+        // 기존 파일 삭제
+        if (fs.existsSync(filePath)) {
+          fs.unlinkSync(filePath);
+        }
+
+        // 새로 분석
+        const result = await analyzeVerse(book, chapter, verse, version, wordToId, koreanBible, bibleData);
+
+        if (result) {
+          if (!fs.existsSync(outputPath)) {
+            fs.mkdirSync(outputPath, { recursive: true });
+          }
+          fs.writeFileSync(filePath, JSON.stringify(result, null, 2), 'utf-8');
+        }
+
+        completed++;
+        progressCallback?.({
+          book,
+          chapter,
+          verse,
+          completed,
+          failed,
+          total,
+          status: 'completed',
+          retrySession: isRetry ? currentSession : 0,
+          maxRetrySessions: MAX_RETRY_SESSIONS
+        });
+
+        sessionResults.push({ book, chapter, verse, status: 'completed', result });
+        return { book, chapter, verse, status: 'completed' };
+
+      } catch (error) {
+        console.error(`[ERROR] ${book} ${chapter}:${verse}: ${error.message}`);
+        failed++;
+
+        progressCallback?.({
+          book,
+          chapter,
+          verse,
+          completed,
+          failed,
+          total,
+          status: 'error',
+          error: error.message,
+          retrySession: isRetry ? currentSession : 0,
+          maxRetrySessions: MAX_RETRY_SESSIONS
+        });
+
+        failedVerses.push({ book, chapter, verse });
+        sessionResults.push({ book, chapter, verse, status: 'error', error: error.message });
+        return { book, chapter, verse, status: 'error', error: error.message };
+      }
+    };
+
+    // Pool 기반 병렬 처리
+    await processWithPool(versesToProcess, getPoolSize(), processor);
+
+    log(`[BATCH REANALYZE] Session ${currentSession} Done: ${completed} completed, ${failed} failed`);
+
+    // 결과 누적
+    allResults.push(...sessionResults.filter(r => r.status === 'completed'));
+
+    // 실패한 구절이 있으면 다음 세션에서 재시도
+    versesToProcess = failedVerses;
+
+    if (failedVerses.length > 0 && currentSession < MAX_RETRY_SESSIONS) {
+      log(`[BATCH REANALYZE] ${failedVerses.length}개 실패 - 재시도 예정...`);
+      // 짧은 딜레이 후 재시도
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+  }
+
+  const totalCompleted = allResults.length;
+  const totalFailed = versesToProcess.length;
+
+  log(`[BATCH REANALYZE] All sessions done: ${totalCompleted} completed, ${totalFailed} failed after ${currentSession} sessions`);
 
   return {
-    total,
-    completed,
-    failed,
-    results
+    total: verses.length,
+    completed: totalCompleted,
+    failed: totalFailed,
+    results: allResults,
+    sessions: currentSession
   };
 }
 

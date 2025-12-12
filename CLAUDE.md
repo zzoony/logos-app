@@ -63,13 +63,18 @@ flutter run
 
 ## Rules
 
-- **앱 실행 전 기존 인스턴스 종료**: Electron 앱이나 Flutter 앱을 실행하기 전에 항상 기존에 실행 중인 인스턴스를 먼저 종료해야 합니다.
+- **[필수] 앱 실행 전 기존 인스턴스 강제 종료**: Electron 앱이나 Flutter 앱을 실행하기 전에 반드시 `pkill -9`로 기존 프로세스를 강제 종료해야 합니다. 이 규칙은 예외 없이 항상 적용됩니다.
   ```bash
-  # Sentence Analysis Dashboard (Electron)
-  pkill -f "Electron.*sentence" 2>/dev/null; pkill -f "electron.*sentence" 2>/dev/null
+  # Sentence Analysis Dashboard (Electron) - 반드시 -9 옵션 사용
+  pkill -9 -f "electron" 2>/dev/null; pkill -9 -f "Electron" 2>/dev/null; sleep 1
 
   # Flutter App
-  pkill -f "flutter.*bible_vocabulary" 2>/dev/null
+  pkill -9 -f "flutter.*bible_vocabulary" 2>/dev/null; sleep 1
+  ```
+
+  **실행 예시 (Electron 앱):**
+  ```bash
+  pkill -9 -f "electron" 2>/dev/null; pkill -9 -f "Electron" 2>/dev/null; sleep 1 && cd /Users/peter/Dev/logos-app/pipeline/sentence && npm start
   ```
 
 - **Output 파일은 main에 직접 푸시**: `pipeline/*/output/` 폴더의 파일들은 피처 브랜치가 아닌 main 브랜치에 직접 커밋하고 푸시합니다. 소스 코드 변경과 output 데이터 변경을 분리하여 관리합니다.
