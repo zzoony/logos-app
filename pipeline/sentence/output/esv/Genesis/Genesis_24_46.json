@@ -6,8 +6,8 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "She quickly let down her jar from her shoulder",
-      "korean_translation": "그녀는 어깨에서 물단지를 재빨리 내려놓고",
+      "original_text": "She quickly let down her jar from her shoulder and said,",
+      "korean_translation": "그녀는 어깨에서 물항아리를 재빨리 내려놓고 말하길,",
       "word_indices": [
         683,
         704,
@@ -16,14 +16,16 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "and said",
-      "korean_translation": "말했다",
-      "word_indices": []
+      "original_text": "‘Drink,",
+      "korean_translation": "‘마시고,",
+      "word_indices": [
+        70
+      ]
     },
     {
       "sequence_order": 3,
-      "original_text": "'Drink, and I will give your camels drink also.'",
-      "korean_translation": "'마시고, 내가 당신의 낙타들도 물을 주겠습니다.'",
+      "original_text": "and I will give your camels drink also.’",
+      "korean_translation": "내가 당신의 낙타들에게도 물을 주겠습니다.’",
       "word_indices": [
         5,
         23,
@@ -33,14 +35,14 @@
     },
     {
       "sequence_order": 4,
-      "original_text": "So I drank",
-      "korean_translation": "그래서 내가 마셨고",
+      "original_text": "So I drank,",
+      "korean_translation": "그래서 내가 마시니,",
       "word_indices": []
     },
     {
       "sequence_order": 5,
       "original_text": "and she gave the camels drink also.",
-      "korean_translation": "그녀가 낙타들에게도 물을 주었다.",
+      "korean_translation": "그녀가 낙타들에게도 물을 주었습니다.",
       "word_indices": [
         5,
         23,

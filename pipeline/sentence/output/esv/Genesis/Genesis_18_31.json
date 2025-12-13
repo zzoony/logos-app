@@ -6,22 +6,28 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "He said",
-      "korean_translation": "그가 말했다",
+      "original_text": "He said,",
+      "korean_translation": "그가 말하길,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "Behold, I have undertaken to speak to the Lord",
-      "korean_translation": "보라, 내가 주께 말하기로 작정했다",
+      "original_text": "Behold,",
+      "korean_translation": "보소서,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "I have undertaken to speak to the Lord.",
+      "korean_translation": "내가 주께 말씀드리기를 시작했습니다.",
       "word_indices": [
         18
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "Suppose twenty are found there",
-      "korean_translation": "거기서 스무 명이 발견된다고 하자",
+      "sequence_order": 4,
+      "original_text": "Suppose twenty are found there.”",
+      "korean_translation": "만일 그곳에서 스무 명이 발견된다면 어떻겠습니까?”",
       "word_indices": [
         234,
         1172,
@@ -29,21 +35,28 @@
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "He answered",
-      "korean_translation": "그가 대답했다",
+      "sequence_order": 5,
+      "original_text": "He answered,",
+      "korean_translation": "그가 대답하길,",
       "word_indices": [
         54
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "For the sake of twenty I will not destroy it",
-      "korean_translation": "스무 명을 위해 내가 그것을 멸하지 않겠다",
+      "sequence_order": 6,
+      "original_text": "For the sake of twenty",
+      "korean_translation": "스무 명을 위하여",
       "word_indices": [
-        99,
         234,
         315
+      ]
+    },
+    {
+      "sequence_order": 7,
+      "original_text": "I will not destroy it.”",
+      "korean_translation": "나는 그것을 멸하지 않겠다.”",
+      "word_indices": [
+        99
       ]
     }
   ]

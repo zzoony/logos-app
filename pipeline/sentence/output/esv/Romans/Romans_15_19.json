@@ -27,24 +27,31 @@
     {
       "sequence_order": 3,
       "original_text": "so that from Jerusalem",
-      "korean_translation": "그리하여 예루살렘으로부터",
+      "korean_translation": "예루살렘으로부터",
       "word_indices": []
     },
     {
       "sequence_order": 4,
       "original_text": "and all the way around to Illyricum",
-      "korean_translation": "두로를 거쳐 일리리곱까지",
+      "korean_translation": "그리고 일리리움까지 ���루 다니며",
       "word_indices": []
     },
     {
       "sequence_order": 5,
-      "original_text": "I have fulfilled the ministry of the gospel of Christ",
-      "korean_translation": "나는 그리스도의 복음 사역을 완수했습니다",
+      "original_text": "I have fulfilled the ministry",
+      "korean_translation": "나는 사역을 완수했습니다",
       "word_indices": [
-        61,
-        478,
         904,
         1263
+      ]
+    },
+    {
+      "sequence_order": 6,
+      "original_text": "of the gospel of Christ",
+      "korean_translation": "그리스도의 복음의",
+      "word_indices": [
+        61,
+        478
       ]
     }
   ]

@@ -6,49 +6,28 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "When the sun had gone down",
-      "korean_translation": "해가 지고 나서",
+      "original_text": "When the sun had gone down and it was dark,",
+      "korean_translation": "해가 지고 어두워��을 때,",
       "word_indices": [
-        321
-      ]
-    },
-    {
-      "sequence_order": 2,
-      "original_text": "and it was dark",
-      "korean_translation": "그리고 어두워졌을 때",
-      "word_indices": [
+        321,
         1091
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "behold",
-      "korean_translation": "보라",
+      "sequence_order": 2,
+      "original_text": "behold,",
+      "korean_translation": "보라,",
       "word_indices": []
     },
     {
-      "sequence_order": 4,
-      "original_text": "a smoking fire pot",
-      "korean_translation": "연기 나는 화로가",
+      "sequence_order": 3,
+      "original_text": "a smoking fire pot and a flaming torch passed between these pieces.",
+      "korean_translation": "연기 나는 화로와 타는 횃불이 이것들 사이로 지나갔다.",
       "word_indices": [
         72,
-        953
-      ]
-    },
-    {
-      "sequence_order": 5,
-      "original_text": "and a flaming torch",
-      "korean_translation": "타는 횃불이",
-      "word_indices": [
+        239,
+        953,
         1582
-      ]
-    },
-    {
-      "sequence_order": 6,
-      "original_text": "passed between these pieces",
-      "korean_translation": "이 조각들 사이를 지나갔다",
-      "word_indices": [
-        239
       ]
     }
   ]

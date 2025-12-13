@@ -6,37 +6,24 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Methuselah lived",
-      "korean_translation": "므두셀라는 살았다",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 2,
-      "original_text": "after he fathered Lamech",
-      "korean_translation": "라멕을 낳은 후에",
+      "original_text": "Methuselah fathered Lamech.",
+      "korean_translation": "메투셀라가 라멕을 낳았다.",
       "word_indices": [
         9
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "782 years",
-      "korean_translation": "782년 동안",
+      "sequence_order": 2,
+      "original_text": "After that, he lived 782 years.",
+      "korean_translation": "그 후에 그는 782년을 살았다.",
       "word_indices": []
     },
     {
-      "sequence_order": 4,
-      "original_text": "and had other sons",
-      "korean_translation": "그리고 다른 아들들을 낳았다",
+      "sequence_order": 3,
+      "original_text": "He had other sons and daughters.",
+      "korean_translation": "그에게는 다른 아들들과 딸들이 있었다.",
       "word_indices": [
-        2
-      ]
-    },
-    {
-      "sequence_order": 5,
-      "original_text": "and daughters",
-      "korean_translation": "그리고 딸들도 있었다",
-      "word_indices": [
+        2,
         58
       ]
     }

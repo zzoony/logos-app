@@ -6,39 +6,32 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "She said",
-      "korean_translation": "그녀가 말하였다",
+      "original_text": "She said,",
+      "korean_translation": "그녀가 말했습니다,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "Drink, my lord",
-      "korean_translation": "마시옵소서, 주인님",
+      "original_text": "“Drink, my lord.”",
+      "korean_translation": "“주인님, 드세요.”",
       "word_indices": [
         70
       ]
     },
     {
       "sequence_order": 3,
-      "original_text": "And she quickly let down her jar",
-      "korean_translation": "그리고 그녀는 빨리 그녀의 항아리를 내렸다",
+      "original_text": "And she quickly let down her jar upon her hand",
+      "korean_translation": "그리고 그녀는 재빨리 항아리를 손에 내렸습니다",
       "word_indices": [
+        10,
         683,
         935
       ]
     },
     {
       "sequence_order": 4,
-      "original_text": "upon her hand",
-      "korean_translation": "그녀의 손 위에",
-      "word_indices": [
-        10
-      ]
-    },
-    {
-      "sequence_order": 5,
-      "original_text": "and gave him a drink",
-      "korean_translation": "그리고 그에게 마실 것을 주었다",
+      "original_text": "and gave him a drink.",
+      "korean_translation": "그에게 마실 것을 주었습니다.",
       "word_indices": [
         5,
         70

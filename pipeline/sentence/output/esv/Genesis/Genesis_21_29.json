@@ -6,27 +6,20 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "And Abimelech said to Abraham",
-      "korean_translation": "그리고 아비멜렉이 아브라함에게 말했습니다",
+      "original_text": "And Abimelech said to Abraham,",
+      "korean_translation": "아비멜렉이 아브라함에게 말하되,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "What is the meaning of these seven ewe lambs",
-      "korean_translation": "이 일곱 마리의 암양 새끼가 무엇을 의미합니까",
+      "original_text": "“What is the meaning of these seven ewe lambs that you have set apart?”",
+      "korean_translation": "당신이 따로 구별한 이 일곱 암양 새끼는 무슨 뜻입니까?”",
       "word_indices": [
         102,
         240,
         399,
+        735,
         2011
-      ]
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "that you have set apart",
-      "korean_translation": "당신이 따로 구분해 둔",
-      "word_indices": [
-        735
       ]
     }
   ]

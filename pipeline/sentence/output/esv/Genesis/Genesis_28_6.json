@@ -6,63 +6,51 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Now Esau saw",
-      "korean_translation": "이제 에서가 보았다",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 2,
-      "original_text": "that Isaac had blessed Jacob",
-      "korean_translation": "이삭이 야곱을 축복했다는 것을",
+      "original_text": "Now Esau saw that Isaac had blessed Jacob",
+      "korean_translation": "이제 에서는 이삭이 야곱에게 축복했음을 보았고",
       "word_indices": [
         64
       ]
     },
     {
-      "sequence_order": 3,
+      "sequence_order": 2,
       "original_text": "and sent him away to Paddan-aram",
-      "korean_translation": "그리고 그를 블람 아람으로 보냈다는 것을",
+      "korean_translation": "그를 바단아람으로 보내었으며",
       "word_indices": [
         29
       ]
     },
     {
-      "sequence_order": 4,
+      "sequence_order": 3,
       "original_text": "to take a wife from there",
-      "korean_translation": "그곳에서 아내를 얻기 위해",
+      "korean_translation": "그곳에서 아내를 맞이하라고 하였고",
       "word_indices": [
         68
       ]
     },
     {
-      "sequence_order": 5,
+      "sequence_order": 4,
       "original_text": "and that as he blessed him",
-      "korean_translation": "그리고 그가 그를 축복할 때",
+      "korean_translation": "또 그가 그에게 축복할 때에",
       "word_indices": [
         64
       ]
     },
     {
-      "sequence_order": 6,
-      "original_text": "he directed him",
-      "korean_translation": "그가 그에게 지시했다는 것을",
+      "sequence_order": 5,
+      "original_text": "he directed him,",
+      "korean_translation": "그에게 명령하기를",
       "word_indices": [
         998
       ]
     },
     {
-      "sequence_order": 7,
-      "original_text": "You must not take a wife",
-      "korean_translation": "너는 아내를 맞이해서는 안 된다",
+      "sequence_order": 6,
+      "original_text": "“You must not take a wife from the Canaanite women,”",
+      "korean_translation": "‘너는 가나안 여자 중에서 아내를 맞이하지 말라’",
       "word_indices": [
         68
       ]
-    },
-    {
-      "sequence_order": 8,
-      "original_text": "from the Canaanite women",
-      "korean_translation": "가나안 여자들에게서",
-      "word_indices": []
     }
   ]
 }

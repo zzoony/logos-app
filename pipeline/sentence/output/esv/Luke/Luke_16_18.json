@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "Everyone who divorces his wife",
-      "korean_translation": "자신의 아내와 이혼하는 모든 사람은",
+      "korean_translation": "자기 아내를 이혼하는 사람은",
       "word_indices": [
         68,
         233
@@ -16,7 +16,7 @@
     {
       "sequence_order": 2,
       "original_text": "and marries another",
-      "korean_translation": "다른 사람과 재혼하면",
+      "korean_translation": "다른 여자와 결혼하면",
       "word_indices": [
         603
       ]
@@ -24,7 +24,7 @@
     {
       "sequence_order": 3,
       "original_text": "commits adultery",
-      "korean_translation": "간음을 범합니다",
+      "korean_translation": "간음하는 것입니다",
       "word_indices": [
         299,
         948
@@ -32,8 +32,8 @@
     },
     {
       "sequence_order": 4,
-      "original_text": "and he who marries a woman",
-      "korean_translation": "그리고 남편과 이혼한 여자와",
+      "original_text": "and he who marries a woman divorced from her husband",
+      "korean_translation": "그리고 남편에게서 이��당한 여자와 결혼하는 사람도",
       "word_indices": [
         53,
         603
@@ -41,14 +41,8 @@
     },
     {
       "sequence_order": 5,
-      "original_text": "divorced from her husband",
-      "korean_translation": "결혼하는 사람은",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 6,
       "original_text": "commits adultery",
-      "korean_translation": "간음을 범합니다",
+      "korean_translation": "간음하는 것입니다",
       "word_indices": [
         299,
         948

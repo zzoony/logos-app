@@ -6,25 +6,31 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Behold, I will throw her onto a sickbed",
-      "korean_translation": "보라, 내가 그녀를 병상에 던지리라",
+      "original_text": "Behold,",
+      "korean_translation": "보라",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "I will throw her onto a sickbed,",
+      "korean_translation": "내가 그녀를 병상에 던지리라",
       "word_indices": [
         250
       ]
     },
     {
-      "sequence_order": 2,
+      "sequence_order": 3,
       "original_text": "and those who commit adultery with her",
-      "korean_translation": "그리고 그녀와 더불어 간음하는 자들을",
+      "korean_translation": "그리고 그녀와 간음하는 자들은",
       "word_indices": [
         299,
         948
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "I will throw into great tribulation",
-      "korean_translation": "내가 큰 환난에 던지리라",
+      "sequence_order": 4,
+      "original_text": "I will throw into great tribulation,",
+      "korean_translation": "내가 큰 환난 가운데로 던지리���",
       "word_indices": [
         30,
         250,
@@ -32,9 +38,9 @@
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "unless they repent of her works",
-      "korean_translation": "만약 그들이 그녀의 행위에서 회개하지 않으면",
+      "sequence_order": 5,
+      "original_text": "unless they repent of her works,",
+      "korean_translation": "그들이 그녀의 행위에서 회개하지 않으면",
       "word_indices": [
         52,
         855

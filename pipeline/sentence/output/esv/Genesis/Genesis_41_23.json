@@ -15,20 +15,34 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "withered, thin, and blighted by the east wind",
-      "korean_translation": "시들고 말랐으며 동풍으로 말라버린",
+      "original_text": "withered",
+      "korean_translation": "마르고",
       "word_indices": [
-        255,
-        259,
-        872,
-        2113,
-        2223
+        872
       ]
     },
     {
       "sequence_order": 3,
+      "original_text": "thin",
+      "korean_translation": "앏으며",
+      "word_indices": [
+        2223
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "blighted by the east wind",
+      "korean_translation": "동풍에 상하여",
+      "word_indices": [
+        255,
+        259,
+        2113
+      ]
+    },
+    {
+      "sequence_order": 5,
       "original_text": "sprouted after them",
-      "korean_translation": "그것들 뒤에 돋아났습니다",
+      "korean_translation": "그 뒤에 솟아났더라",
       "word_indices": [
         1337
       ]

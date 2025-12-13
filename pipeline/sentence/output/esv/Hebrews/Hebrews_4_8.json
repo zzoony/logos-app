@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "For if Joshua had given them rest",
-      "korean_translation": "만약 여호수아가 그들에게 안식을 주었다면",
+      "korean_translation": "만약 여호수아가 그들에게 안식을 주었다면,",
       "word_indices": [
         5,
         116
@@ -15,23 +15,10 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "God would not have spoken",
-      "korean_translation": "하나님은 말씀하시지 않으셨을 것이다",
+      "original_text": "God would not have spoken of another day later on.",
+      "korean_translation": "하나님께서는 다른 날에 대해 훗日后 말씀하지 않으셨을 것입니다.",
       "word_indices": [
-        1
-      ]
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "of another day",
-      "korean_translation": "다른 날에 대하여",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 4,
-      "original_text": "later on",
-      "korean_translation": "후에",
-      "word_indices": [
+        1,
         1590
       ]
     }

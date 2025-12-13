@@ -6,16 +6,16 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "crying out",
-      "korean_translation": "소리치며",
+      "original_text": "crying out,",
+      "korean_translation": "소리치며,",
       "word_indices": [
         114
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "Men of Israel, help!",
-      "korean_translation": "이스라엘 사람들이여, 도와주소서!",
+      "original_text": "“Men of Israel, help!",
+      "korean_translation": "“이스라엘 사람들아, 도와다오!",
       "word_indices": [
         246
       ]
@@ -23,7 +23,7 @@
     {
       "sequence_order": 3,
       "original_text": "This is the man",
-      "korean_translation": "이 사람이 바로",
+      "korean_translation": "바로 이 사람입니다.",
       "word_indices": [
         6
       ]
@@ -31,7 +31,7 @@
     {
       "sequence_order": 4,
       "original_text": "who is teaching everyone everywhere",
-      "korean_translation": "모든 곳에서 모든 사람들을 가르치는 자",
+      "korean_translation": "그는 어디서든 모든 사람을 가르칩니다.",
       "word_indices": [
         169,
         233,
@@ -40,49 +40,35 @@
     },
     {
       "sequence_order": 5,
-      "original_text": "against the people",
-      "korean_translation": "백성을 반대하여",
+      "original_text": "against the people and the law and this place.",
+      "korean_translation": "백성과 율법과 이 곳을 반대하는 것입니다.",
       "word_indices": [
         3,
-        12
-      ]
-    },
-    {
-      "sequence_order": 6,
-      "original_text": "and the law",
-      "korean_translation": "율법을 반대하며",
-      "word_indices": [
+        12,
+        21,
         66
       ]
     },
     {
-      "sequence_order": 7,
-      "original_text": "and this place",
-      "korean_translation": "이 장소를 반대하는",
-      "word_indices": [
-        21
-      ]
-    },
-    {
-      "sequence_order": 8,
-      "original_text": "Moreover, he even brought Greeks",
-      "korean_translation": "게다가, 그는 헬라인들을 데려왔으며",
+      "sequence_order": 6,
+      "original_text": "Moreover,",
+      "korean_translation": "게다가,",
       "word_indices": [
         593
       ]
     },
     {
-      "sequence_order": 9,
-      "original_text": "into the temple",
-      "korean_translation": "성전 안으로",
+      "sequence_order": 7,
+      "original_text": "he even brought Greeks into the temple",
+      "korean_translation": "그는 헬라 사람들을 성전 안으로甚至 데려왔습니다.",
       "word_indices": [
         170
       ]
     },
     {
-      "sequence_order": 10,
-      "original_text": "and has defiled this holy place",
-      "korean_translation": "이 거룩한 장소를 더럽혔습니다",
+      "sequence_order": 8,
+      "original_text": "and has defiled this holy place.”",
+      "korean_translation": "그리고 이 거룩한 곳을 더럽혔습니다.”",
       "word_indices": [
         21,
         44

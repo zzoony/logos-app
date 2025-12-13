@@ -7,7 +7,7 @@
     {
       "sequence_order": 1,
       "original_text": "But God came to Abimelech in a dream by night",
-      "korean_translation": "그러나 하나님께서 밤에 꿈에 아비멜렉에게 임하사",
+      "korean_translation": "하지만 하나님은 밤에 꿈에 아비멜렉에게 나타나",
       "word_indices": [
         1,
         130,
@@ -16,31 +16,37 @@
     },
     {
       "sequence_order": 2,
-      "original_text": "and said to him",
-      "korean_translation": "그에게 이르시되",
+      "original_text": "and said to him,",
+      "korean_translation": "그에게 이르시되,",
       "word_indices": []
     },
     {
       "sequence_order": 3,
-      "original_text": "Behold, you are a dead man",
-      "korean_translation": "보라, 너는 죽은 자가 되리라",
+      "original_text": "“Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "you are a dead man",
+      "korean_translation": "너는 죽은 자가 되리라",
       "word_indices": [
         6,
         141
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "because of the woman whom you have taken",
-      "korean_translation": "네가 데려간 여인 때문에",
+      "sequence_order": 5,
+      "original_text": "because of the woman whom you have taken,",
+      "korean_translation": "네가 취한 그 여자 때문이니",
       "word_indices": [
         53
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "for she is a man's wife",
-      "korean_translation": "그는 타인의 아내이기 때문이니라",
+      "sequence_order": 6,
+      "original_text": "for she is a man's wife.”",
+      "korean_translation": "이는 그가 남의 아내임이니라.”",
       "word_indices": [
         6,
         68

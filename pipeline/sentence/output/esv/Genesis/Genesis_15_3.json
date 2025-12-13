@@ -6,38 +6,25 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "And Abram said",
-      "korean_translation": "그리고 아브람이 말했습니다",
+      "original_text": "And Abram said,",
+      "korean_translation": "아브람이 말하길,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "Behold",
-      "korean_translation": "보소서",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "you have given me no offspring",
-      "korean_translation": "당신은 나에게 자손을 주지 않았습니다",
+      "original_text": "“Behold, you have given me no offspring,",
+      "korean_translation": "보십시오, 당신은 내게 자식을 주지 않으셨습니다,",
       "word_indices": [
         5
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "and a member of my household",
-      "korean_translation": "그리고 내 집안의 식구가",
+      "sequence_order": 3,
+      "original_text": "and a member of my household will be my heir.”",
+      "korean_translation": "그래서 내 집 사람이 나의 상속자가 될 것입니다.”",
       "word_indices": [
         377,
-        969
-      ]
-    },
-    {
-      "sequence_order": 5,
-      "original_text": "will be my heir",
-      "korean_translation": "나의 상속인이 될 것입니다",
-      "word_indices": [
+        969,
         1219
       ]
     }

@@ -7,14 +7,15 @@
     {
       "sequence_order": 1,
       "original_text": "He said,",
-      "korean_translation": "그가 말하길,",
+      "korean_translation": "그가 말하되,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "These seven ewe lambs",
-      "korean_translation": "이 일곱 마리의 암컷 양은",
+      "original_text": "“These seven ewe lambs you will take from my hand,",
+      "korean_translation": "이 일곱 암양 새끼를 내 손에서 받으라,",
       "word_indices": [
+        10,
         102,
         240,
         2011
@@ -22,22 +23,14 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "you will take from my hand,",
-      "korean_translation": "네가 내 손에서 가져갈 것이며,",
-      "word_indices": [
-        10
-      ]
-    },
-    {
-      "sequence_order": 4,
       "original_text": "that this may be a witness for me",
-      "korean_translation": "이것이 나를 위한 증거가 되게 하려 함이라",
+      "korean_translation": "이것이 내게 증거가 되게 하려 함이라,",
       "word_indices": []
     },
     {
-      "sequence_order": 5,
-      "original_text": "that I dug this well.",
-      "korean_translation": "내가 이 우물을 팠다는 것을.",
+      "sequence_order": 4,
+      "original_text": "that I dug this well.”",
+      "korean_translation": "내가 이 우물을 팠다는 증거로.”",
       "word_indices": []
     }
   ]

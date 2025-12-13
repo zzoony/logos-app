@@ -6,39 +6,45 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "But Abram said to Sarai",
-      "korean_translation": "그러나 아브람이 사래에게 말하였으니",
+      "original_text": "But Abram said to Sarai,",
+      "korean_translation": "그러나 아브람이 사래에게 말하되,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "Behold, your servant is in your power",
-      "korean_translation": "보소서, 당신의 여종은 당신의 권세에 있나이다",
+      "original_text": "Behold,",
+      "korean_translation": "보소서,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 3,
+      "original_text": "your servant is in your power;",
+      "korean_translation": "당신의 여종은 당신의 수중에 있으니,",
       "word_indices": [
         22,
         187
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "do to her as you please",
-      "korean_translation": "당신이 좋을 대로 그녀에게 행하소서",
+      "sequence_order": 4,
+      "original_text": "do to her as you please.”",
+      "korean_translation": "당신의 좋은 대로 그에게 행하소서.”",
       "word_indices": [
         149
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "Then Sarai dealt harshly with her",
-      "korean_translation": "그리하여 사래가 그녀에게 학대하매",
+      "sequence_order": 5,
+      "original_text": "Then Sarai dealt harshly with her,",
+      "korean_translation": "그리하여 사래가 그를 학대하매,",
       "word_indices": [
         2639
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "and she fled from her",
-      "korean_translation": "그녀가 그녀에게서 도망하였더라",
+      "sequence_order": 6,
+      "original_text": "and she fled from her.",
+      "korean_translation": "그가 그에게서 도망하였더라.",
       "word_indices": []
     }
   ]

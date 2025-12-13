@@ -6,40 +6,27 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Because there is one bread",
-      "korean_translation": "하나의 떡이 있기 때문에",
+      "original_text": "Because there is one bread,",
+      "korean_translation": "한 떡이 있기 때문���,",
       "word_indices": [
         129
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "we who are many",
-      "korean_translation": "우리 많은 사람들은",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "are one body",
-      "korean_translation": "하나의 몸입니다",
+      "original_text": "we who are many are one body,",
+      "korean_translation": "우리는 여럿이지만 한 몸이며,",
       "word_indices": [
         150
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "for we all partake",
-      "korean_translation": "왜냐하면 우리 모두가 참여하기 때문입니다",
+      "sequence_order": 3,
+      "original_text": "for we all partake of the one bread.",
+      "korean_translation": "우리는 모두 그 한 떡에 참여하기 때문입니다.",
       "word_indices": [
+        129,
         2785
-      ]
-    },
-    {
-      "sequence_order": 5,
-      "original_text": "of the one bread",
-      "korean_translation": "그 하나의 떡에",
-      "word_indices": [
-        129
       ]
     }
   ]

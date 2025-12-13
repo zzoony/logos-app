@@ -6,31 +6,25 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "And he was afraid",
-      "korean_translation": "그가 두려워하여",
+      "original_text": "And he was afraid and said,",
+      "korean_translation": "그가 두려워하며 말하였으니,",
       "word_indices": [
         286
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "and said",
-      "korean_translation": "말하였다",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 3,
       "original_text": "How awesome is this place!",
-      "korean_translation": "이곳은 얼마나 두려운 곳인가!",
+      "korean_translation": "이곳이 얼마나 두려운 곳인가!",
       "word_indices": [
         21,
         1102
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "This is none other than the house of God",
-      "korean_translation": "이곳은 다름이 아니라 하나님의 집이며",
+      "sequence_order": 3,
+      "original_text": "This is none other than the house of God,",
+      "korean_translation": "이곳은 다름 아닌 하나님의 집이며,",
       "word_indices": [
         1,
         7,
@@ -38,9 +32,9 @@
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "and this is the gate of heaven.",
-      "korean_translation": "이것은 하늘의 문이로다.",
+      "sequence_order": 4,
+      "original_text": "and this is the gate of heaven.”",
+      "korean_translation": "이곳은 하늘의 문이다.”",
       "word_indices": [
         40,
         98

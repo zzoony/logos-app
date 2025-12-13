@@ -7,13 +7,13 @@
     {
       "sequence_order": 1,
       "original_text": "What then did you go out to see?",
-      "korean_translation": "그래서 너희가 무엇을 보러 나갔느냐?",
+      "korean_translation": "그러면 너희가 무엇을 보러 나갔더냐?",
       "word_indices": []
     },
     {
       "sequence_order": 2,
       "original_text": "A man dressed in soft clothing?",
-      "korean_translation": "부드러운 옷을 입은 사람인가?",
+      "korean_translation": "부드러운 옷을 입은 사람이더냐?",
       "word_indices": [
         6,
         1187,
@@ -22,15 +22,21 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "Behold, those who are dressed in splendid clothing",
-      "korean_translation": "보라, 화려한 옷을 입은 자들은",
+      "original_text": "Behold,",
+      "korean_translation": "보라,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "those who are dressed in splendid clothing",
+      "korean_translation": "화려한 옷을 입은 자��은",
       "word_indices": [
         1187,
         3194
       ]
     },
     {
-      "sequence_order": 4,
+      "sequence_order": 5,
       "original_text": "and live in luxury",
       "korean_translation": "사치하게 살며",
       "word_indices": [
@@ -39,7 +45,7 @@
       ]
     },
     {
-      "sequence_order": 5,
+      "sequence_order": 6,
       "original_text": "are in kings' courts.",
       "korean_translation": "왕궁에 있느니라.",
       "word_indices": [

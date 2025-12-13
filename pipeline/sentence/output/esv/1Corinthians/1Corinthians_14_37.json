@@ -6,40 +6,33 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "If anyone thinks that he is a prophet",
-      "korean_translation": "만약 누군가 자신이 선지자라고 생각한다면",
+      "original_text": "If anyone thinks that he is a prophet, or spiritual",
+      "korean_translation": "만약 누군가 자신이 예언자이거나 영적이라고 생각한다면",
       "word_indices": [
         71,
         181,
-        334
-      ]
-    },
-    {
-      "sequence_order": 2,
-      "original_text": "or spiritual",
-      "korean_translation": "또는 영적이라고 생각한다면",
-      "word_indices": [
+        334,
         1218
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "he should acknowledge",
-      "korean_translation": "그는 인정해야 합니다",
+      "sequence_order": 2,
+      "original_text": "he should acknowledge that",
+      "korean_translation": "그는 ~라는 것을 인정해야 합니다",
       "word_indices": [
         1290
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "that the things I am writing to you",
-      "korean_translation": "내가 당신들에게 쓰는 것들이",
+      "sequence_order": 3,
+      "original_text": "the things I am writing to you",
+      "korean_translation": "내가 너희에게 쓰는 것들은",
       "word_indices": []
     },
     {
-      "sequence_order": 5,
-      "original_text": "are a command of the Lord",
-      "korean_translation": "주님의 명령임을",
+      "sequence_order": 4,
+      "original_text": "are a command of the Lord.",
+      "korean_translation": "주님의 명령입니다",
       "word_indices": [
         51
       ]

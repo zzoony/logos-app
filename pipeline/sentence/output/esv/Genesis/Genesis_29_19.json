@@ -6,14 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "Laban said",
-      "korean_translation": "라반이 말했습니다",
+      "original_text": "Laban said,",
+      "korean_translation": "라반이 말했다,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "It is better that I give her to you",
-      "korean_translation": "내가 그녀를 당신에게 주는 것이 더 낫습니다",
+      "original_text": "“It is better that I give her to you",
+      "korean_translation": "내가 그녀를 당신에게 주는 것이 더 낫다",
       "word_indices": [
         5,
         393
@@ -21,8 +21,8 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "than that I should give her to any other man",
-      "korean_translation": "내가 그녀를 다른 남자에게 주는 것보다",
+      "original_text": "than that I should give her to any other man;",
+      "korean_translation": "내가 그녀를 다른 어떤 남자에게 주는 것보다",
       "word_indices": [
         5,
         6
@@ -30,8 +30,8 @@
     },
     {
       "sequence_order": 4,
-      "original_text": "stay with me",
-      "korean_translation": "나와 함께 계세요",
+      "original_text": "stay with me.”",
+      "korean_translation": "나와 함께 있으라.”",
       "word_indices": [
         421
       ]

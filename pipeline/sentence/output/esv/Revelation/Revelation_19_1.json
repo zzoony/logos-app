@@ -7,47 +7,61 @@
     {
       "sequence_order": 1,
       "original_text": "After this I heard",
-      "korean_translation": "그 후에 내가 들었으니",
+      "korean_translation": "그 후에 내가 들었습니다",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "what seemed to be the loud voice",
-      "korean_translation": "무엇인가 큰 음성처럼 보였으니",
+      "original_text": "what seemed to be",
+      "korean_translation": "마치 ~처럼 보였던 것을",
       "word_indices": [
-        86,
-        570,
-        580
+        570
       ]
     },
     {
       "sequence_order": 3,
-      "original_text": "of a great multitude in heaven",
-      "korean_translation": "하늘의 큰 무리의 음성이었고",
+      "original_text": "the loud voice",
+      "korean_translation": "큰 목소리를",
       "word_indices": [
-        30,
-        40,
-        563
+        86,
+        580
       ]
     },
     {
       "sequence_order": 4,
+      "original_text": "of a great multitude",
+      "korean_translation": "거대한 무리의",
+      "word_indices": [
+        30,
+        563
+      ]
+    },
+    {
+      "sequence_order": 5,
+      "original_text": "in heaven",
+      "korean_translation": "하늘에 있는",
+      "word_indices": [
+        40
+      ]
+    },
+    {
+      "sequence_order": 6,
       "original_text": "crying out",
-      "korean_translation": "외치고 있었으니",
+      "korean_translation": "외치고 있었습니다",
       "word_indices": [
         114
       ]
     },
     {
-      "sequence_order": 5,
+      "sequence_order": 7,
       "original_text": "Hallelujah!",
       "korean_translation": "할렐루야!",
       "word_indices": []
     },
     {
-      "sequence_order": 6,
+      "sequence_order": 8,
       "original_text": "Salvation and glory and power",
-      "korean_translation": "구원과 영광과 권능이",
+      "korean_translation": "구원과 영광과 권능은",
       "word_indices": [
         112,
         187,
@@ -55,9 +69,9 @@
       ]
     },
     {
-      "sequence_order": 7,
+      "sequence_order": 9,
       "original_text": "belong to our God",
-      "korean_translation": "우리 하나님께 속하였도다",
+      "korean_translation": "우리 하나님께 속합니다",
       "word_indices": [
         1,
         296

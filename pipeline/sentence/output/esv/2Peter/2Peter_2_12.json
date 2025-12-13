@@ -6,8 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "But these, like irrational animals",
-      "korean_translation": "그러나 이 사람들은 이성 없는 동물처럼",
+      "original_text": "But these,",
+      "korean_translation": "그러나 이 사람들은,",
+      "word_indices": []
+    },
+    {
+      "sequence_order": 2,
+      "original_text": "like irrational animals,",
+      "korean_translation": "이성 없는 짐승 같아서,",
       "word_indices": [
         14,
         601,
@@ -15,34 +21,34 @@
       ]
     },
     {
-      "sequence_order": 2,
-      "original_text": "creatures of instinct",
-      "korean_translation": "본능적인 생물로서",
+      "sequence_order": 3,
+      "original_text": "creatures of instinct,",
+      "korean_translation": "본능을 따르는 존재들이며,",
       "word_indices": [
         6074
       ]
     },
     {
-      "sequence_order": 3,
-      "original_text": "born to be caught and destroyed",
-      "korean_translation": "잡혀 멸망하도록 태어난 존재들입니다",
+      "sequence_order": 4,
+      "original_text": "born to be caught and destroyed,",
+      "korean_translation": "잡혀 멸망받도록 태어난,",
       "word_indices": [
         99
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "blaspheming about matters of which they are ignorant",
-      "korean_translation": "그들이 무지한 일들에 대해 비방하며",
+      "sequence_order": 5,
+      "original_text": "blaspheming about matters of which they are ignorant,",
+      "korean_translation": "자기들이 알지 못하는 것들에 대하여 ���방하며,",
       "word_indices": [
         517,
         2601
       ]
     },
     {
-      "sequence_order": 5,
-      "original_text": "will also be destroyed in their destruction",
-      "korean_translation": "그들의 멸망 속에서 멸망당할 것입니다",
+      "sequence_order": 6,
+      "original_text": "will also be destroyed in their destruction,",
+      "korean_translation": "자신들의 멸망 중에서 또한 멸망을 당할 것입니다.",
       "word_indices": [
         23,
         99,

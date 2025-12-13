@@ -6,14 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "They said",
-      "korean_translation": "그들이 말했습니다",
+      "original_text": "They said,",
+      "korean_translation": "그들이 말했습니다,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "Let us call the young woman",
-      "korean_translation": "그 젊은 여자를 부르게 해주세요",
+      "original_text": "“Let us call the young woman",
+      "korean_translation": "“그 소녀를 불러오게 합시다",
       "word_indices": [
         31,
         53,
@@ -22,8 +22,8 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "and ask her",
-      "korean_translation": "그리고 그녀에게 물어보세요",
+      "original_text": "and ask her.”",
+      "korean_translation": "그리고 그녀에게 물어봅시다.”",
       "word_indices": [
         126
       ]

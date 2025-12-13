@@ -6,14 +6,14 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "When the time came",
-      "korean_translation": "때가 되었을 때",
+      "original_text": "When the time came,",
+      "korean_translation": "때가 되었을 때,",
       "word_indices": []
     },
     {
       "sequence_order": 2,
-      "original_text": "he sent a servant to the tenants",
-      "korean_translation": "그가 하인을 농부들에게 보냈다",
+      "original_text": "he sent a servant to the tenants,",
+      "korean_translation": "그는 소작인들에게 종을 보내어,",
       "word_indices": [
         22,
         1749
@@ -21,25 +21,25 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "so that they would give him some of the fruit",
-      "korean_translation": "그들이 그에게 과실을 주도록 하기 위해",
+      "original_text": "so that they would give him",
+      "korean_translation": "그들이 그에게 주도록",
       "word_indices": [
-        5,
-        203
+        5
       ]
     },
     {
       "sequence_order": 4,
-      "original_text": "of the vineyard",
-      "korean_translation": "포도원의",
+      "original_text": "some of the fruit of the vineyard.",
+      "korean_translation": "포도원의 열매를 조금이라도 받으려 하였다.",
       "word_indices": [
+        203,
         417
       ]
     },
     {
       "sequence_order": 5,
       "original_text": "But the tenants beat him",
-      "korean_translation": "하지만 농부들이 그를 때렸다",
+      "korean_translation": "그러나 소작인들이 그��� 때리고,",
       "word_indices": [
         525,
         1749
@@ -47,8 +47,8 @@
     },
     {
       "sequence_order": 6,
-      "original_text": "and sent him away empty-handed",
-      "korean_translation": "그리고 그를 빈손으로 돌려보냈다",
+      "original_text": "and sent him away empty-handed.",
+      "korean_translation": "빈손으로 돌려보냈습니다.",
       "word_indices": [
         10,
         29,

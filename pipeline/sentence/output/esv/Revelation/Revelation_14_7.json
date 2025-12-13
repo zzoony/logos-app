@@ -6,8 +6,8 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "And he said with a loud voice",
-      "korean_translation": "그가 큰 소리로 말하며",
+      "original_text": "And he said with a loud voice,",
+      "korean_translation": "그가 큰 소리로 외쳐 이르되,",
       "word_indices": [
         86,
         580
@@ -24,7 +24,7 @@
     },
     {
       "sequence_order": 3,
-      "original_text": "and give him glory",
+      "original_text": "and give him glory,",
       "korean_translation": "그에게 영광을 돌리라",
       "word_indices": [
         5,
@@ -33,8 +33,8 @@
     },
     {
       "sequence_order": 4,
-      "original_text": "because the hour of his judgment has come",
-      "korean_translation": "그의 심판의 때가 이르렀기 때문이라",
+      "original_text": "because the hour of his judgment has come,",
+      "korean_translation": "이는 그의 심판 때가 이르렀음이니���",
       "word_indices": [
         467
       ]
@@ -49,17 +49,10 @@
     },
     {
       "sequence_order": 6,
-      "original_text": "who made heaven and earth",
-      "korean_translation": "하늘과 땅을 만드신 이",
+      "original_text": "who made heaven and earth, the sea and the springs of water.”",
+      "korean_translation": "하늘과 땅과 바다와 물의 근원을 만드신 이를.",
       "word_indices": [
-        40
-      ]
-    },
-    {
-      "sequence_order": 7,
-      "original_text": "the sea and the springs of water",
-      "korean_translation": "바다와 물의 근원을 만드신 이",
-      "word_indices": [
+        40,
         42,
         84,
         480

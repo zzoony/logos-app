@@ -6,32 +6,25 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "But when Herod's birthday came",
-      "korean_translation": "그러나 헤롯의 생일이 왔을 때",
+      "original_text": "But when Herod's birthday came,",
+      "korean_translation": "그런데 헤롯의 생일이 되었��� 때,",
       "word_indices": [
         3486
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "the daughter of Herodias danced",
-      "korean_translation": "헤로디아의 딸이 춤을 추었다",
+      "original_text": "the daughter of Herodias danced before the company",
+      "korean_translation": "헤로디아의 딸이 손님들 앞에서 춤을 추었는데,",
       "word_indices": [
-        58
-      ]
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "before the company",
-      "korean_translation": "모임 앞에서",
-      "word_indices": [
+        58,
         476
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "and pleased Herod",
-      "korean_translation": "그리고 헤롯을 기쁘게 했다",
+      "sequence_order": 3,
+      "original_text": "and pleased Herod,",
+      "korean_translation": "헤롯을 기쁘게 했습니다.",
       "word_indices": []
     }
   ]

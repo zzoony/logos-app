@@ -6,50 +6,51 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "In the Law it is written",
-      "korean_translation": "율법에 기록된 바",
+      "original_text": "In the Law it is written,",
+      "korean_translation": "율법에 기록된 바,",
       "word_indices": [
         66
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "By people of strange tongues and by the lips of foreigners",
-      "korean_translation": "이방 언어를 사용하는 사람들과 이방인의 입술로",
+      "original_text": "By people of strange tongues",
+      "korean_translation": "다른 방언을 하는 사람들을 통해",
       "word_indices": [
         3,
-        420,
-        722,
         1871
       ]
     },
     {
       "sequence_order": 3,
-      "original_text": "will I speak to this people",
-      "korean_translation": "내가 이 백성에게 말하리라",
+      "original_text": "and by the lips of foreigners",
+      "korean_translation": "그리고 이방인의 입술을 통해",
+      "word_indices": [
+        420,
+        722
+      ]
+    },
+    {
+      "sequence_order": 4,
+      "original_text": "will I speak to this people,",
+      "korean_translation": "내가 이 백성에게 말하리라,",
       "word_indices": [
         3,
         18
       ]
     },
     {
-      "sequence_order": 4,
-      "original_text": "and even then",
-      "korean_translation": "그래도 그들은",
-      "word_indices": []
-    },
-    {
       "sequence_order": 5,
-      "original_text": "they will not listen to me",
-      "korean_translation": "나를 듣지 아니하리라",
+      "original_text": "and even then they will not listen to me,",
+      "korean_translation": "그래도 그들은 내�� 듣지 않으리라,",
       "word_indices": [
         159
       ]
     },
     {
       "sequence_order": 6,
-      "original_text": "says the Lord",
-      "korean_translation": "하느님이 말씀하시느니라",
+      "original_text": "says the Lord.”",
+      "korean_translation": "주께서 말씀하신다.”",
       "word_indices": []
     }
   ]

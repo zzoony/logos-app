@@ -6,39 +6,26 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "These are the generations of Ishmael",
-      "korean_translation": "이것들은 이스마엘의 후대(세대)입니다",
+      "original_text": "These are the generations of Ishmael,",
+      "korean_translation": "이것은 이스마엘의 대략(世代)이니",
       "word_indices": [
         225
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "Abraham's son",
-      "korean_translation": "아브라함의 아들",
+      "original_text": "Abraham's son,",
+      "korean_translation": "아브라함의 아들이요",
       "word_indices": [
         2
       ]
     },
     {
       "sequence_order": 3,
-      "original_text": "whom Hagar the Egyptian",
-      "korean_translation": "이집트 사람 하가가",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 4,
-      "original_text": "Sarah's servant",
-      "korean_translation": "사라의 여종",
+      "original_text": "whom Hagar the Egyptian, Sarah's servant, bore to Abraham.",
+      "korean_translation": "이집트 사람 사라의 여종 하가가 아브라함에게 낳은 자라",
       "word_indices": [
-        22
-      ]
-    },
-    {
-      "sequence_order": 5,
-      "original_text": "bore to Abraham",
-      "korean_translation": "아브라함에게 낳았습니다",
-      "word_indices": [
+        22,
         336
       ]
     }

@@ -6,28 +6,16 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "I tell you",
-      "korean_translation": "내가 너희에게 이르노니",
+      "original_text": "I tell you,",
+      "korean_translation": "내가 너에게 이르��니,",
       "word_indices": [
         36
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "you will never get out",
-      "korean_translation": "너희는 결코 나가지 못하리라",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 3,
-      "original_text": "until you have paid",
-      "korean_translation": "너희가 갚기 전까지는",
-      "word_indices": []
-    },
-    {
-      "sequence_order": 4,
-      "original_text": "the very last penny",
-      "korean_translation": "마지막 한 닢까지",
+      "original_text": "you will never get out until you have paid the very last penny.”",
+      "korean_translation": "네가 마지막 한 닢까지 다 갚기까지는 결코 나오지 못하리라.",
       "word_indices": [
         427,
         3094

@@ -6,27 +6,27 @@
   "sentences": [
     {
       "sequence_order": 1,
-      "original_text": "As soon as he saw the ring and the bracelets",
-      "korean_translation": "그가 반지와 팔찌를 보자마자",
+      "original_text": "As soon as he saw the ring",
+      "korean_translation": "그가 반지를 보자마자",
       "word_indices": [
         359,
-        684,
-        2479
+        684
       ]
     },
     {
       "sequence_order": 2,
-      "original_text": "on his sister's arms",
-      "korean_translation": "그의 누이의 팔에 있는",
+      "original_text": "and the bracelets on his sister's arms,",
+      "korean_translation": "그 누이의 팔에 있는 팔찌를",
       "word_indices": [
         347,
-        361
+        361,
+        2479
       ]
     },
     {
       "sequence_order": 3,
-      "original_text": "and heard the words of Rebekah his sister",
-      "korean_translation": "그리고 그의 누이 리브가의 말을 들었을 때",
+      "original_text": "and heard the words of Rebekah his sister,",
+      "korean_translation": "누이 리브가의 말을 듣고는",
       "word_indices": [
         15,
         361
@@ -34,8 +34,8 @@
     },
     {
       "sequence_order": 4,
-      "original_text": "Thus the man spoke to me",
-      "korean_translation": "그 사람이 내게 이렇게 말했다",
+      "original_text": "“Thus the man spoke to me,”",
+      "korean_translation": "“그 사람이 나에게 이렇게 말하더라,”",
       "word_indices": [
         6,
         4112
@@ -43,32 +43,26 @@
     },
     {
       "sequence_order": 5,
-      "original_text": "he went to the man",
-      "korean_translation": "그는 그 사람에게로 갔다",
+      "original_text": "he went to the man.",
+      "korean_translation": "그는 그 사람에게로 나아갔다.",
       "word_indices": [
         6
       ]
     },
     {
       "sequence_order": 6,
-      "original_text": "And behold",
-      "korean_translation": "그리고 보라",
+      "original_text": "And behold,",
+      "korean_translation": "그런데 보라,",
       "word_indices": []
     },
     {
       "sequence_order": 7,
-      "original_text": "he was standing by the camels",
-      "korean_translation": "그는 낙타 곁에 서 있었다",
+      "original_text": "he was standing by the camels at the spring.",
+      "korean_translation": "그는 샘 곁 낙타 곁에 서 있었다.",
       "word_indices": [
         38,
         714
       ]
-    },
-    {
-      "sequence_order": 8,
-      "original_text": "at the spring",
-      "korean_translation": "샘 곁에서",
-      "word_indices": []
     }
   ]
 }
